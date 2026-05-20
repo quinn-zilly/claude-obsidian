@@ -1,4 +1,5 @@
 ---
+
 type: source
 address: c-000025
 title: "Open Science Framework (OSF): Supporting Research from Hypothesis to Publication"
@@ -26,6 +27,8 @@ related:
   - "[[nosek-2018-preregistration]]"
   - "[[munafo-2017-manifesto]]"
   - "[[open-science-collaboration-2015]]"
+created: unknown
+updated: unknown
 ---
 
 # Foster & Deardorff (2017) — Open Science Framework (OSF)

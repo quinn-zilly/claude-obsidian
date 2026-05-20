@@ -1,4 +1,5 @@
 ---
+
 type: concept
 address: c-000051
 title: "Linked Open Data"
@@ -14,6 +15,8 @@ related:
   - "[[Christian Bizer]]"
   - "[[Knowledge Transfer]]"
   - "[[lehmann-2015-dbpedia]]"
+created: unknown
+updated: unknown
 ---
 
 # Linked Open Data

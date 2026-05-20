@@ -1,4 +1,5 @@
 ---
+
 type: source
 address: c-000026
 title: "Estimating the Reproducibility of Psychological Science"
@@ -28,6 +29,8 @@ related:
   - "[[munafo-2017-manifesto]]"
   - "[[nosek-2018-preregistration]]"
   - "[[lebel-2018-credibility-framework]]"
+created: unknown
+updated: unknown
 ---
 
 # Open Science Collaboration (2015) — Estimating the Reproducibility of Psychological Science

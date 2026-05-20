@@ -1,4 +1,5 @@
 ---
+
 type: entity
 address: c-000032
 title: "Frank Bosco"
@@ -13,6 +14,8 @@ related:
   - "[[Open Science]]"
   - "[[bosco-2020-metabus]]"
   - "[[open-science-collaboration-2015]]"
+created: unknown
+updated: unknown
 ---
 
 # Frank Bosco

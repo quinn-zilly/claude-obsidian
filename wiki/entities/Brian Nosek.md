@@ -1,4 +1,5 @@
 ---
+
 type: entity
 address: c-000033
 title: "Brian Nosek"
@@ -16,8 +17,12 @@ related:
   - "[[Registered Reports]]"
   - "[[Open Science Collaboration]]"
   - "[[nosek-2018-preregistration]]"
+  - "[[nosek-bar-anan-2012-scientific-utopia-i]]"
+  - "[[nosek-2012-scientific-utopia-ii]]"
   - "[[open-science-collaboration-2015]]"
   - "[[munafo-2017-manifesto]]"
+created: unknown
+updated: unknown
 ---
 
 # Brian Nosek
@@ -32,6 +37,8 @@ Brian A. Nosek is a social psychologist and the founder/executive director of th
 ## Key Contributions
 
 - **[[open-science-collaboration-2015]]** — coordinating author of the 100-replication project; corresponding author (nosek@virginia.edu)
+- **[[nosek-bar-anan-2012-scientific-utopia-i|"Scientific Utopia I" (2012)]]** — *Psychological Inquiry* — co-authored with [[Yoav Bar-Anan]]; six reforms for opening scientific communication; argues barriers are social, not technical
+- **[[nosek-2012-scientific-utopia-ii|"Scientific Utopia II" (2012)]]** — *Perspectives on Psychological Science* — with Spies & Motyl; restructuring incentives to promote truth over publishability; proposes [[Open Workflow]], [[Open Data]], [[Paradigm-Driven Research]]
 - **[[nosek-2018-preregistration|"The Preregistration Revolution" (2018)]]** — PNAS — theoretical and practical case for preregistration
 - **[[munafo-2017-manifesto]]** — co-author; reform program for reproducible science
 - **Transparency and Openness Promotion (TOP) Guidelines** — Nosek et al. 2015 in Science; adopted by 757+ journals as of 2016

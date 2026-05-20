@@ -1,4 +1,5 @@
 ---
+
 type: entity
 address: c-000036
 title: "Christian Bizer"
@@ -13,6 +14,8 @@ related:
   - "[[Linked Open Data]]"
   - "[[Jens Lehmann]]"
   - "[[lehmann-2015-dbpedia]]"
+created: unknown
+updated: unknown
 ---
 
 # Christian Bizer

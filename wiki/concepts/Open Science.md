@@ -1,4 +1,5 @@
 ---
+
 type: concept
 address: c-000045
 title: "Open Science"
@@ -20,6 +21,8 @@ related:
   - "[[munafo-2017-manifesto]]"
   - "[[nosek-2018-preregistration]]"
   - "[[foster-deardorff-2017-osf]]"
+created: unknown
+updated: unknown
 ---
 
 # Open Science

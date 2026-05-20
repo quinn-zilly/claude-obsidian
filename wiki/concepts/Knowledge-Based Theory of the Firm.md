@@ -1,4 +1,5 @@
 ---
+
 type: concept
 address: c-000041
 title: "Knowledge-Based Theory of the Firm"
@@ -15,6 +16,8 @@ related:
   - "[[Transactive Memory Systems]]"
   - "[[Tacit vs Explicit Knowledge]]"
   - "[[grant-1996-knowledge-based-theory]]"
+created: unknown
+updated: unknown
 ---
 
 # Knowledge-Based Theory of the Firm

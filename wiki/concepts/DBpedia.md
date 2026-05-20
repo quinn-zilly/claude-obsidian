@@ -1,4 +1,5 @@
 ---
+
 type: concept
 address: c-000050
 title: "DBpedia"
@@ -15,6 +16,8 @@ related:
   - "[[Knowledge Transfer]]"
   - "[[Tacit vs Explicit Knowledge]]"
   - "[[lehmann-2015-dbpedia]]"
+created: unknown
+updated: unknown
 ---
 
 # DBpedia

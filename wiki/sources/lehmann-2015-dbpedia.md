@@ -1,4 +1,5 @@
 ---
+
 type: source
 address: c-000024
 title: "DBpedia – A Large-scale, Multilingual Knowledge Base Extracted from Wikipedia"
@@ -23,6 +24,8 @@ related:
   - "[[DBpedia]]"
   - "[[Linked Open Data]]"
   - "[[Knowledge Transfer]]"
+created: unknown
+updated: unknown
 ---
 
 # Lehmann et al. (2015) — DBpedia

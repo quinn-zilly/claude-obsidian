@@ -1,4 +1,5 @@
 ---
+
 type: entity
 address: c-000028
 title: "Robert Grant"
@@ -13,6 +14,8 @@ related:
   - "[[Knowledge-Based Theory of the Firm]]"
   - "[[Knowledge Integration]]"
   - "[[grant-1996-knowledge-based-theory]]"
+created: unknown
+updated: unknown
 ---
 
 # Robert Grant

@@ -6,26 +6,268 @@
     ".raw/Zahra et al. - 2020 - What Do We Know About Knowledge Integration Fusing Micro- and Macro-Organizational Perspectives.pdf": {
       "hash": "b5333586200ace7b13ec96b3ae7b788d",
       "ingested_at": "2026-05-15",
-      "pages_created": ["wiki/sources/zahra-2020-knowledge-integration.md", "wiki/concepts/Knowledge Integration.md"],
-      "pages_updated": ["wiki/index.md", "wiki/log.md", "wiki/concepts/_index.md", "wiki/sources/_index.md"]
+      "pages_created": [
+        "wiki/sources/zahra-2020-knowledge-integration.md",
+        "wiki/concepts/Knowledge Integration.md"
+      ],
+      "pages_updated": [
+        "wiki/index.md",
+        "wiki/log.md",
+        "wiki/concepts/_index.md",
+        "wiki/sources/_index.md"
+      ]
     },
     ".raw/Argote et al. - 2021 - Organizational Learning Processes and Outcomes Major Findings and Future Research Directions.pdf": {
       "hash": "63973ecdef1270d875746fe518e39237",
       "ingested_at": "2026-05-15",
-      "pages_created": ["wiki/sources/argote-2021-organizational-learning.md", "wiki/concepts/Organizational Learning.md", "wiki/concepts/Learning Curves.md"],
-      "pages_updated": ["wiki/index.md", "wiki/log.md"]
+      "pages_created": [
+        "wiki/sources/argote-2021-organizational-learning.md",
+        "wiki/concepts/Organizational Learning.md",
+        "wiki/concepts/Learning Curves.md"
+      ],
+      "pages_updated": [
+        "wiki/index.md",
+        "wiki/log.md"
+      ]
     },
     ".raw/Argote-OrganizationalLearningExperience-2011.pdf": {
       "hash": "b5ccb1b637c6dc8dc4e88624439987ae",
       "ingested_at": "2026-05-15",
-      "pages_created": ["wiki/sources/argote-2011-org-learning-experience.md", "wiki/entities/Linda Argote.md"],
-      "pages_updated": ["wiki/index.md", "wiki/log.md", "wiki/entities/_index.md"]
+      "pages_created": [
+        "wiki/sources/argote-2011-org-learning-experience.md",
+        "wiki/entities/Linda Argote.md"
+      ],
+      "pages_updated": [
+        "wiki/index.md",
+        "wiki/log.md",
+        "wiki/entities/_index.md"
+      ]
     },
     ".raw/Alavi and Leidner - 2001 - Knowledge Management and Knowledge Management Systems Conceptual Foundations And Research Issues.pdf": {
       "hash": "12f7171263a1da535f8167378211f62e",
       "ingested_at": "2026-05-15",
-      "pages_created": ["wiki/sources/alavi-leidner-2001-knowledge-management.md", "wiki/concepts/Knowledge Management.md", "wiki/concepts/Tacit vs Explicit Knowledge.md", "wiki/concepts/Knowledge-Based View of the Firm.md", "wiki/entities/Maryam Alavi.md"],
-      "pages_updated": ["wiki/index.md", "wiki/log.md"]
+      "pages_created": [
+        "wiki/sources/alavi-leidner-2001-knowledge-management.md",
+        "wiki/concepts/Knowledge Management.md",
+        "wiki/concepts/Tacit vs Explicit Knowledge.md",
+        "wiki/concepts/Knowledge-Based View of the Firm.md",
+        "wiki/entities/Maryam Alavi.md"
+      ],
+      "pages_updated": [
+        "wiki/index.md",
+        "wiki/log.md"
+      ]
+    },
+    ".raw/Argote and Miron-Spektor - 2011 - Organizational Learning From Experience to Knowledge.pdf": {
+      "hash": "24a7867b828c3ed57095120229eb0658",
+      "ingested_at": "2026-05-19",
+      "pages_created": [
+        "wiki/sources/argote-miron-spektor-2011-org-learning-journal.md",
+        "wiki/entities/Ella Miron-Spektor.md"
+      ],
+      "pages_updated": [
+        "wiki/concepts/Organizational Learning.md",
+        "wiki/entities/Linda Argote.md",
+        "wiki/index.md",
+        "wiki/log.md"
+      ]
+    },
+    ".raw/Barney and Felin - 2013 - What Are Microfoundations.pdf": {
+      "hash": "389ec0cec32dc830ed50448014687d2d",
+      "ingested_at": "2026-05-19",
+      "pages_created": [
+        "wiki/sources/barney-felin-2013-microfoundations.md",
+        "wiki/concepts/Microfoundations.md",
+        "wiki/entities/Jay Barney.md",
+        "wiki/entities/Teppo Felin.md"
+      ],
+      "pages_updated": [
+        "wiki/concepts/Knowledge Integration.md",
+        "wiki/index.md",
+        "wiki/log.md"
+      ]
+    },
+    ".raw/Bosco et al. - 2020 - Advancing Meta-Analysis With Knowledge-Management Platforms Using metaBUS in Psychology.pdf": {
+      "hash": "041ab0864cd4a81252a9730e823d655c",
+      "ingested_at": "2026-05-19",
+      "pages_created": [
+        "wiki/sources/bosco-2020-metabus.md",
+        "wiki/concepts/metaBUS.md",
+        "wiki/entities/Frank Bosco.md"
+      ],
+      "pages_updated": [
+        "wiki/concepts/Knowledge Retention.md",
+        "wiki/index.md",
+        "wiki/log.md"
+      ]
+    },
+    ".raw/Foster and Deardorff - 2017 - Open Science Framework (OSF).pdf": {
+      "hash": "d2e053511d564105e002a608dc239749",
+      "ingested_at": "2026-05-19",
+      "pages_created": [
+        "wiki/sources/foster-deardorff-2017-osf.md",
+        "wiki/concepts/Open Science Framework.md",
+        "wiki/entities/Center for Open Science.md"
+      ],
+      "pages_updated": [
+        "wiki/concepts/Open Science.md",
+        "wiki/concepts/Preregistration.md",
+        "wiki/index.md",
+        "wiki/log.md"
+      ]
+    },
+    ".raw/Grant - 1996 - Toward a knowledge‐based theory of the firm.pdf": {
+      "hash": "7d902355cea11975fe184ee416d50a3c",
+      "ingested_at": "2026-05-19",
+      "pages_created": [
+        "wiki/sources/grant-1996-knowledge-based-theory.md",
+        "wiki/concepts/Knowledge-Based Theory of the Firm.md",
+        "wiki/entities/Robert Grant.md"
+      ],
+      "pages_updated": [
+        "wiki/concepts/Knowledge-Based View of the Firm.md",
+        "wiki/concepts/Transactive Memory Systems.md",
+        "wiki/index.md",
+        "wiki/log.md"
+      ]
+    },
+    ".raw/LeBel et al. - 2018 - A Unified Framework to Quantify the Credibility of Scientific Findings.pdf": {
+      "hash": "1b20fd1ad1e6e926706bf8b9fbae7cba",
+      "ingested_at": "2026-05-19",
+      "pages_created": [
+        "wiki/sources/lebel-2018-credibility-framework.md",
+        "wiki/concepts/Analytic Reproducibility.md",
+        "wiki/entities/Etienne LeBel.md"
+      ],
+      "pages_updated": [
+        "wiki/concepts/Replication Crisis.md",
+        "wiki/concepts/Open Science.md",
+        "wiki/index.md",
+        "wiki/log.md"
+      ]
+    },
+    ".raw/Lehmann et al. - 2015 - DBpedia – A large-scale, multilingual knowledge base extracted from Wikipedia.pdf": {
+      "hash": "113915904e64333ad5d819640b1b2935",
+      "ingested_at": "2026-05-19",
+      "pages_created": [
+        "wiki/sources/lehmann-2015-dbpedia.md",
+        "wiki/concepts/DBpedia.md",
+        "wiki/concepts/Linked Open Data.md",
+        "wiki/entities/Jens Lehmann.md",
+        "wiki/entities/Christian Bizer.md"
+      ],
+      "pages_updated": [
+        "wiki/index.md",
+        "wiki/log.md"
+      ]
+    },
+    ".raw/Munafò et al. - 2017 - A manifesto for reproducible science.pdf": {
+      "hash": "4ab499001cf6a2c6396e6f586a735009",
+      "ingested_at": "2026-05-19",
+      "pages_created": [
+        "wiki/sources/munafo-2017-manifesto.md",
+        "wiki/entities/Marcus Munafò.md",
+        "wiki/entities/John Ioannidis.md"
+      ],
+      "pages_updated": [
+        "wiki/concepts/Replication Crisis.md",
+        "wiki/concepts/Open Science.md",
+        "wiki/concepts/Publication Bias.md",
+        "wiki/concepts/Preregistration.md",
+        "wiki/index.md",
+        "wiki/log.md"
+      ]
+    },
+    ".raw/Nosek et al. - 2018 - The preregistration revolution.pdf": {
+      "hash": "041b3b96fd7bee87d73cc0d02cc644e3",
+      "ingested_at": "2026-05-19",
+      "pages_created": [
+        "wiki/sources/nosek-2018-preregistration.md",
+        "wiki/concepts/Preregistration.md",
+        "wiki/concepts/Registered Reports.md",
+        "wiki/entities/Brian Nosek.md"
+      ],
+      "pages_updated": [
+        "wiki/concepts/Replication Crisis.md",
+        "wiki/concepts/Open Science.md",
+        "wiki/concepts/P-hacking.md",
+        "wiki/index.md",
+        "wiki/log.md"
+      ]
+    },
+    ".raw/Open Science Collaboration - 2015 - Estimating the reproducibility of psychological science.pdf": {
+      "hash": "24cbcf24e63832d1828b4a266d3cb9a5",
+      "ingested_at": "2026-05-19",
+      "pages_created": [
+        "wiki/sources/open-science-collaboration-2015.md",
+        "wiki/concepts/Replication Crisis.md",
+        "wiki/concepts/Open Science.md",
+        "wiki/entities/Open Science Collaboration.md"
+      ],
+      "pages_updated": [
+        "wiki/index.md",
+        "wiki/log.md"
+      ]
+    },
+    ".raw/claude-obsidian-ecosystem-research.md": {
+      "hash": "a2ee4793f57644cf781f1043b87d7a30",
+      "ingested_at": "2026-04-08",
+      "pages_created": [
+        "wiki/sources/claude-obsidian-ecosystem-research.md"
+      ],
+      "pages_updated": [
+        "wiki/index.md",
+        "wiki/log.md"
+      ]
+    },
+    ".raw/Nosek and Bar-Anan - 2012 - Scientific Utopia I. Opening Scientific Communication.pdf": {
+      "hash": "nosek-utopia-i-hash",
+      "ingested_at": "2026-05-20",
+      "pages_created": [
+        "wiki/sources/nosek-bar-anan-2012-scientific-utopia-i.md",
+        "wiki/concepts/Open Access.md",
+        "wiki/concepts/Scientific Communication Reform.md",
+        "wiki/entities/Yoav Bar-Anan.md"
+      ],
+      "pages_updated": [
+        "wiki/entities/Brian Nosek.md",
+        "wiki/index.md",
+        "wiki/log.md",
+        "wiki/hot.md"
+      ]
+    },
+    ".raw/DiMaggio and Powell - 1983 - The Iron Cage Revisited Institutional Isomorphism and Collective Rationality in Organizational Fiel.pdf": {
+      "hash": "beb8318978565e7328854d5c33e78d3f",
+      "ingested_at": "2026-05-20",
+      "pages_created": [
+        "wiki/sources/dimaggio-powell-1983-institutional-isomorphism.md",
+        "wiki/concepts/Institutional Isomorphism.md",
+        "wiki/concepts/Organizational Field.md",
+        "wiki/entities/Paul DiMaggio.md",
+        "wiki/entities/Walter Powell.md"
+      ],
+      "pages_updated": [
+        "wiki/index.md",
+        "wiki/log.md",
+        "wiki/hot.md"
+      ]
+    },
+    ".raw/Nosek et al. - 2012 - Scientific Utopia II. Restructuring Incentives and Practices to Promote Truth Over Publishability.pdf": {
+      "hash": "nosek-utopia-ii-hash",
+      "ingested_at": "2026-05-20",
+      "pages_created": [
+        "wiki/sources/nosek-2012-scientific-utopia-ii.md",
+        "wiki/concepts/Conflict of Interest in Science.md",
+        "wiki/concepts/Motivated Reasoning.md",
+        "wiki/concepts/Open Workflow.md",
+        "wiki/concepts/Paradigm-Driven Research.md"
+      ],
+      "pages_updated": [
+        "wiki/entities/Brian Nosek.md",
+        "wiki/index.md",
+        "wiki/log.md",
+        "wiki/hot.md"
+      ]
     }
   },
   "address_map": {
@@ -45,6 +287,61 @@
     "wiki/entities/Linda Argote.md": "c-000015",
     "wiki/entities/Shaker Zahra.md": "c-000016",
     "wiki/entities/Maryam Alavi.md": "c-000017",
-    "wiki/concepts/Knowledge Retention.md": "c-000017"
+    "wiki/sources/grant-1996-knowledge-based-theory.md": "c-000018",
+    "wiki/sources/barney-felin-2013-microfoundations.md": "c-000019",
+    "wiki/sources/argote-miron-spektor-2011-org-learning-journal.md": "c-000020",
+    "wiki/sources/bosco-2020-metabus.md": "c-000021",
+    "wiki/sources/nosek-2018-preregistration.md": "c-000022",
+    "wiki/sources/lebel-2018-credibility-framework.md": "c-000023",
+    "wiki/sources/lehmann-2015-dbpedia.md": "c-000024",
+    "wiki/sources/foster-deardorff-2017-osf.md": "c-000025",
+    "wiki/sources/open-science-collaboration-2015.md": "c-000026",
+    "wiki/sources/munafo-2017-manifesto.md": "c-000027",
+    "wiki/entities/Robert Grant.md": "c-000028",
+    "wiki/entities/Jay Barney.md": "c-000029",
+    "wiki/entities/Teppo Felin.md": "c-000030",
+    "wiki/entities/Ella Miron-Spektor.md": "c-000031",
+    "wiki/entities/Frank Bosco.md": "c-000032",
+    "wiki/entities/Brian Nosek.md": "c-000033",
+    "wiki/entities/Etienne LeBel.md": "c-000034",
+    "wiki/entities/Jens Lehmann.md": "c-000035",
+    "wiki/entities/Christian Bizer.md": "c-000036",
+    "wiki/entities/Marcus Munafò.md": "c-000037",
+    "wiki/entities/John Ioannidis.md": "c-000038",
+    "wiki/entities/Center for Open Science.md": "c-000039",
+    "wiki/entities/Open Science Collaboration.md": "c-000040",
+    "wiki/concepts/Knowledge-Based Theory of the Firm.md": "c-000041",
+    "wiki/concepts/Microfoundations.md": "c-000042",
+    "wiki/concepts/Preregistration.md": "c-000043",
+    "wiki/concepts/Replication Crisis.md": "c-000044",
+    "wiki/concepts/Open Science.md": "c-000045",
+    "wiki/concepts/Registered Reports.md": "c-000046",
+    "wiki/concepts/P-hacking.md": "c-000047",
+    "wiki/concepts/HARKing.md": "c-000048",
+    "wiki/concepts/Publication Bias.md": "c-000049",
+    "wiki/concepts/DBpedia.md": "c-000050",
+    "wiki/concepts/Linked Open Data.md": "c-000051",
+    "wiki/concepts/metaBUS.md": "c-000052",
+    "wiki/concepts/Analytic Reproducibility.md": "c-000053",
+    "wiki/concepts/Open Science Framework.md": "c-000054",
+    "wiki/concepts/Knowledge Retention.md": "c-000055",
+    "wiki/concepts/Persistent Wiki Artifact.md": "c-000056",
+    "wiki/concepts/Query-Time Retrieval.md": "c-000057",
+    "wiki/concepts/Source-First Synthesis.md": "c-000058",
+    "wiki/sources/dimaggio-powell-1983-institutional-isomorphism.md": "c-000059",
+    "wiki/concepts/Institutional Isomorphism.md": "c-000060",
+    "wiki/concepts/Organizational Field.md": "c-000061",
+    "wiki/entities/Paul DiMaggio.md": "c-000062",
+    "wiki/entities/Walter Powell.md": "c-000063",
+    "wiki/sources/nosek-bar-anan-2012-scientific-utopia-i.md": "c-000064",
+    "wiki/concepts/Open Access.md": "c-000065",
+    "wiki/concepts/Scientific Communication Reform.md": "c-000066",
+    "wiki/entities/Yoav Bar-Anan.md": "c-000067",
+    "wiki/entities/Wolf Vanpaemel.md": "c-000068",
+    "wiki/sources/nosek-2012-scientific-utopia-ii.md": "c-000069",
+    "wiki/concepts/Conflict of Interest in Science.md": "c-000070",
+    "wiki/concepts/Motivated Reasoning.md": "c-000071",
+    "wiki/concepts/Open Workflow.md": "c-000072",
+    "wiki/concepts/Paradigm-Driven Research.md": "c-000073"
   }
 }

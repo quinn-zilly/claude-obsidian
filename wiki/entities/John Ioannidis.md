@@ -1,4 +1,5 @@
 ---
+
 type: entity
 address: c-000038
 title: "John Ioannidis"
@@ -15,6 +16,8 @@ related:
   - "[[Publication Bias]]"
   - "[[munafo-2017-manifesto]]"
   - "[[Marcus Munafò]]"
+created: unknown
+updated: unknown
 ---
 
 # John Ioannidis

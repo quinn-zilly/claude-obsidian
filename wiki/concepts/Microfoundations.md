@@ -1,4 +1,5 @@
 ---
+
 type: concept
 address: c-000042
 title: "Microfoundations"
@@ -16,6 +17,8 @@ related:
   - "[[Knowledge-Based View of the Firm]]"
   - "[[Transactive Memory Systems]]"
   - "[[barney-felin-2013-microfoundations]]"
+created: unknown
+updated: unknown
 ---
 
 # Microfoundations

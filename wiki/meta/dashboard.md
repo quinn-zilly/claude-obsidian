@@ -1,7 +1,7 @@
 ---
 type: meta
 title: "Dashboard"
-updated: 2026-04-08
+updated: 2026-05-19
 tags:
   - meta
   - dashboard
@@ -66,3 +66,20 @@ TABLE verdict FROM "wiki/comparisons" SORT updated DESC
 ```dataview
 TABLE author, date_published, updated FROM "wiki/sources" WHERE type = "source" SORT updated DESC LIMIT 10
 ```
+
+---
+
+## Last Lint Run
+
+[[lint-report-2026-05-19]] — 2026-05-19
+
+| Check | Result |
+|---|---|
+| Orphan pages | ✅ 0 |
+| Dead links | ⚠️ 21 |
+| Stale index entries | ⚠️ 5 |
+| Frontmatter gaps | ⚠️ 37 pages |
+| Empty sections | ⚠️ 34 pages |
+| Address errors | 🔴 4 (1 collision, 3 missing) |
+| Manifest errors | ✅ 0 |
+| Semantic tiling | ⏭️ skipped (ollama offline) |

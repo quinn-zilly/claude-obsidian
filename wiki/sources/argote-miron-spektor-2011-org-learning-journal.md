@@ -1,4 +1,5 @@
 ---
+
 type: source
 address: c-000020
 title: "Organizational Learning: From Experience to Knowledge"
@@ -25,6 +26,8 @@ related:
   - "[[Knowledge Transfer]]"
   - "[[argote-2011-org-learning-experience]]"
   - "[[argote-2021-organizational-learning]]"
+created: unknown
+updated: unknown
 ---
 
 # Argote & Miron-Spektor (2011) — Organizational Learning: From Experience to Knowledge

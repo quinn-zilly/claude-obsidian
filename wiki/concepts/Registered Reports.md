@@ -1,4 +1,5 @@
 ---
+
 type: concept
 address: c-000046
 title: "Registered Reports"
@@ -16,6 +17,8 @@ related:
   - "[[Center for Open Science]]"
   - "[[munafo-2017-manifesto]]"
   - "[[nosek-2018-preregistration]]"
+created: unknown
+updated: unknown
 ---
 
 # Registered Reports

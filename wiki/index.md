@@ -23,7 +23,7 @@ related:
 
 # Wiki Index
 
-Last updated: 2026-05-19 | Total pages: 88 | Sources ingested: 16
+Last updated: 2026-05-20 | Total pages: 102 | Sources ingested: 19
 
 Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[getting-started]]
 
@@ -55,14 +55,22 @@ Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[
 - [[Knowledge Retention]] — embedding knowledge in distributed repositories so it persists over time (developing)
 - [[Knowledge-Based Theory of the Firm]] — Grant (1996); firm as knowledge integrator; four integration mechanisms; common knowledge (developing)
 - [[Microfoundations]] — individual-level mechanisms underlying collective outcomes; additive vs. emergent aggregation (developing)
+- [[Institutional Isomorphism]] — three mechanisms (coercive, mimetic, normative) by which organizations in a field converge structurally without efficiency gains (developing)
+- [[Organizational Field]] — the totality of relevant actors constituting a recognized area of institutional life; unit of analysis for isomorphism theory (developing)
 - [[Replication Crisis]] — systematic failures of replication in psychology; root causes: publication bias, p-hacking, HARKing (mature)
 - [[Open Science]] — transparency, open data, preregistration; reform movement for credible knowledge accumulation (mature)
 - [[Preregistration]] — committing to research design before data collection; separates confirmatory from exploratory (mature)
+- [[Conflict of Interest in Science]] — fundamental tension between personal incentive (publication) and institutional goal (accuracy); misalignment causes [[motivated reasoning]] and [[P-hacking]]; resolved via [[Open Workflow]], open data, incentive restructuring (developing)
+- [[Motivated Reasoning]] — unconscious cognitive bias toward conclusions we're motivated to reach; ordinary human psychology that explains how [[Publication Bias]] becomes systematic despite ethical intent (developing)
+- [[Open Workflow]] — transparency in research process (preregistration, analysis plans, workflow documentation); solves [[HARKing]], file-drawer effect, outcome switching; model: [[clinicaltrials.gov]] (developing)
+- [[Paradigm-Driven Research]] — systematic variation of single established procedure rather than wholesale methodology reinvention; incorporates replication + extension; reduces waste, increases cumulation (developing)
 - [[Registered Reports]] — in-principle journal acceptance before results known; eliminates publication bias (developing)
 - [[Publication Bias]] — file drawer problem; positive results disproportionately published; inflates effect sizes (developing)
 - [[P-hacking]] — analytic flexibility inflating false-positive rates; garden of forking paths (developing)
 - [[HARKing]] — Hypothesizing After Results are Known; post-hoc hypotheses presented as a priori (developing)
 - [[Analytic Reproducibility]] — reproducing published results from same data; second dimension of credibility framework (developing)
+- [[Open Access]] — freely accessible scientific literature; gold vs green OA models; $900M savings argument; pillar of open science (developing)
+- [[Scientific Communication Reform]] — unbundling registration, dissemination, peer review, and archiving; six reforms from Nosek & Bar-Anan (developing)
 - [[Open Science Framework]] — osf.io; platform for preregistration, open data, and research collaboration (developing)
 - [[metaBUS]] — 1M+ curated bivariate findings from applied psychology; rapid meta-analysis infrastructure (developing)
 - [[DBpedia]] — structured knowledge from 111 Wikipedia editions; 400M+ facts; central LOD hub (developing)
@@ -76,6 +84,8 @@ Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[
 - [[Linda Argote]] — Carnegie Mellon; leading organizational learning researcher; learning curves, knowledge repositories (developing)
 - [[Shaker Zahra]] — University of Minnesota; knowledge integration, dynamic capabilities, absorptive capacity (developing)
 - [[Maryam Alavi]] — Emory University; knowledge management systems, IT and organizational knowledge (developing)
+- [[Paul DiMaggio]] — Yale/Princeton/NYU sociologist; co-developer of institutional isomorphism theory and organizational field concept (developing)
+- [[Walter Powell]] — Yale/Stanford sociologist; co-developer of institutional isomorphism; later work on network forms and biotech knowledge networks (developing)
 - [[Ar9av-obsidian-wiki]] — multi-agent compatible LLM Wiki plugin; delta tracking manifest (status: current)
 - [[Nexus-claudesidian-mcp]] — native Obsidian plugin + MCP bridge; workspace memory, task management (status: current)
 - [[ballred-obsidian-claude-pkm]] — goal cascade PKM; auto-commit hooks, /adopt command (status: current)
@@ -88,7 +98,8 @@ Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[
 - [[Teppo Felin]] — University of Oxford; microfoundations, strategic management; Barney co-author (developing)
 - [[Ella Miron-Spektor]] — Bar-Ilan University; organizational learning, creativity, teams (developing)
 - [[Frank Bosco]] — Virginia Commonwealth University; metaBUS lead developer (developing)
-- [[Brian Nosek]] — UVA / Center for Open Science; OSC 2015; preregistration revolution (developing)
+- [[Brian Nosek]] — UVA / Center for Open Science; OSC 2015; preregistration revolution; Scientific Utopia series (developing)
+- [[Yoav Bar-Anan]] — Ben-Gurion University; social psychologist; co-author Scientific Utopia I (developing)
 - [[Etienne LeBel]] — Western University; credibility framework; curatescience.org (developing)
 - [[Jens Lehmann]] — Leipzig/Bonn; DBpedia primary architect (developing)
 - [[Christian Bizer]] — Mannheim; Linked Open Data pioneer; DBpedia co-developer (developing)
@@ -116,6 +127,7 @@ Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[
 - [[foster-deardorff-2017-osf|Foster & Deardorff (2017)]] — JMLA | OSF resource review; preregistration infrastructure | 2026-05-19
 - [[open-science-collaboration-2015|Open Science Collaboration (2015)]] — Science | 100 replications; 36% success rate; replication crisis benchmark | 2026-05-19
 - [[munafo-2017-manifesto|Munafò et al. (2017)]] — Nature Human Behaviour | manifesto for reproducible science; five reform categories | 2026-05-19
+- [[nosek-bar-anan-2012-scientific-utopia-i|Nosek & Bar-Anan (2012)]] — Psychological Inquiry | Scientific Utopia I; six communication reforms; barriers are social not technical | 2026-05-20
 
 ---
 

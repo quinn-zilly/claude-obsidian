@@ -1,4 +1,5 @@
 ---
+
 type: entity
 address: c-000035
 title: "Jens Lehmann"
@@ -13,6 +14,8 @@ related:
   - "[[Linked Open Data]]"
   - "[[Christian Bizer]]"
   - "[[lehmann-2015-dbpedia]]"
+created: unknown
+updated: unknown
 ---
 
 # Jens Lehmann

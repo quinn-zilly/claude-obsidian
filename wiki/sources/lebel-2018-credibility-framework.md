@@ -1,4 +1,5 @@
 ---
+
 type: source
 address: c-000023
 title: "A Unified Framework to Quantify the Credibility of Scientific Findings"
@@ -27,6 +28,8 @@ related:
   - "[[nosek-2018-preregistration]]"
   - "[[open-science-collaboration-2015]]"
   - "[[munafo-2017-manifesto]]"
+created: unknown
+updated: unknown
 ---
 
 # LeBel et al. (2018) — A Unified Framework to Quantify the Credibility of Scientific Findings

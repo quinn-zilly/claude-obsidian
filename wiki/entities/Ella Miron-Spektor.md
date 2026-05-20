@@ -1,4 +1,5 @@
 ---
+
 type: entity
 address: c-000031
 title: "Ella Miron-Spektor"
@@ -12,6 +13,8 @@ related:
   - "[[Linda Argote]]"
   - "[[Organizational Learning]]"
   - "[[argote-miron-spektor-2011-org-learning-journal]]"
+created: unknown
+updated: unknown
 ---
 
 # Ella Miron-Spektor

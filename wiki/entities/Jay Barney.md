@@ -1,4 +1,5 @@
 ---
+
 type: entity
 address: c-000029
 title: "Jay Barney"
@@ -13,6 +14,8 @@ related:
   - "[[Microfoundations]]"
   - "[[Teppo Felin]]"
   - "[[barney-felin-2013-microfoundations]]"
+created: unknown
+updated: unknown
 ---
 
 # Jay Barney

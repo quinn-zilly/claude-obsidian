@@ -1,4 +1,5 @@
 ---
+
 type: entity
 address: c-000037
 title: "Marcus Munafò"
@@ -14,6 +15,8 @@ related:
   - "[[Replication Crisis]]"
   - "[[munafo-2017-manifesto]]"
   - "[[Brian Nosek]]"
+created: unknown
+updated: unknown
 ---
 
 # Marcus Munafò

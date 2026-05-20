@@ -1,7 +1,7 @@
 ---
 type: meta
 title: "Operation Log"
-updated: 2026-05-15
+updated: 2026-05-20
 tags:
   - meta
   - log
@@ -12,6 +12,27 @@ related:
   - "[[overview]]"
   - "[[sources/_index]]"
 ---
+
+## 2026-05-20 | ingest | Scientific Utopia II (Nosek, Spies, & Motyl 2012)
+- Source: `Nosek et al. - 2012 - Scientific Utopia II. Restructuring Incentives and Practices to Promote Truth Over Publishability.pdf`
+- Summary: [[nosek-2012-scientific-utopia-ii]]
+- Pages created: [[nosek-2012-scientific-utopia-ii]], [[Conflict of Interest in Science]], [[Motivated Reasoning]], [[Open Workflow]], [[Paradigm-Driven Research]]
+- Pages updated: [[Brian Nosek]], [[index]], [[log]], [[hot]]
+- Key insight: Publishing incentives (novel, positive results) conflict with accuracy incentives; misalignment is not a character flaw but ordinary human psychology facing misaligned rewards. Solutions must restructure incentives (preregistration, open workflow, open data) and journal practices (focus on soundness not importance) rather than relying on education or willpower.
+
+## 2026-05-20 | ingest | Scientific Utopia I (Nosek & Bar-Anan 2012)
+- Source: `.raw/Nosek and Bar-Anan - 2012 - Scientific Utopia I. Opening Scientific Communication.pdf`
+- Summary: [[nosek-bar-anan-2012-scientific-utopia-i]]
+- Pages created: [[nosek-bar-anan-2012-scientific-utopia-i]], [[Open Access]], [[Scientific Communication Reform]], [[Yoav Bar-Anan]]
+- Pages updated: [[Brian Nosek]], [[index]], [[log]], [[hot]]
+- Key insight: Current scientific publishing bundles four separable functions (registration, dissemination, peer review, archiving); unbundling them via digital infrastructure removes all five communication inefficiencies — and the barriers are social/institutional, not technical.
+
+## 2026-05-20 | ingest | The Iron Cage Revisited (DiMaggio & Powell 1983)
+- Source: `.raw/DiMaggio and Powell - 1983 - The Iron Cage Revisited Institutional Isomorphism and Collective Rationality in Organizational Fiel.pdf`
+- Summary: [[dimaggio-powell-1983-institutional-isomorphism]]
+- Pages created: [[dimaggio-powell-1983-institutional-isomorphism]], [[Institutional Isomorphism]], [[Organizational Field]], [[Paul DiMaggio]], [[Walter Powell]]
+- Pages updated: [[index]], [[log]], [[hot]]
+- Key insight: Organizations become structurally similar through three mechanisms (coercive, mimetic, normative isomorphism) driven by legitimacy-seeking rather than efficiency — directly bridges open science domain (normative isomorphism → shared methodological biases) and KM domain (mimetic isomorphism → inter-org knowledge transfer).
 
 ## 2026-05-19 | batch-ingest | 10 KMBI/Research Paper PDFs from Zotero
 

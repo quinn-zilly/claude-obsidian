@@ -1,4 +1,5 @@
 ---
+
 type: concept
 address: c-000044
 title: "Replication Crisis"
@@ -21,6 +22,8 @@ related:
   - "[[Analytic Reproducibility]]"
   - "[[open-science-collaboration-2015]]"
   - "[[munafo-2017-manifesto]]"
+created: unknown
+updated: unknown
 ---
 
 # Replication Crisis

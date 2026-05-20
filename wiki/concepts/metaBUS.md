@@ -1,4 +1,5 @@
 ---
+
 type: concept
 address: c-000052
 title: "metaBUS"
@@ -15,6 +16,8 @@ related:
   - "[[Knowledge Transfer]]"
   - "[[Analytic Reproducibility]]"
   - "[[bosco-2020-metabus]]"
+created: unknown
+updated: unknown
 ---
 
 # metaBUS

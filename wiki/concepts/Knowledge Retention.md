@@ -1,6 +1,6 @@
 ---
 type: concept
-address: c-000017
+address: c-000055
 title: "Knowledge Retention"
 status: developing
 tags: [concept, organizational-learning, organizational-memory]

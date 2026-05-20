@@ -1,4 +1,5 @@
 ---
+
 type: source
 address: c-000027
 title: "A Manifesto for Reproducible Science"
@@ -30,6 +31,8 @@ related:
   - "[[open-science-collaboration-2015]]"
   - "[[nosek-2018-preregistration]]"
   - "[[lebel-2018-credibility-framework]]"
+created: unknown
+updated: unknown
 ---
 
 # Munafò et al. (2017) — A Manifesto for Reproducible Science

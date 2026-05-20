@@ -1,4 +1,5 @@
 ---
+
 type: concept
 address: c-000043
 title: "Preregistration"
@@ -19,6 +20,8 @@ related:
   - "[[Open Science]]"
   - "[[nosek-2018-preregistration]]"
   - "[[munafo-2017-manifesto]]"
+created: unknown
+updated: unknown
 ---
 
 # Preregistration

@@ -1,4 +1,6 @@
 ---
+address: c-000057
+
 type: concept
 title: "Query-Time Retrieval"
 created: 2026-04-24
@@ -9,7 +11,7 @@ tags:
   - llm-wiki
 status: developing
 related:
-  - "[[How does the LLM Wiki pattern work?]]"
+  - "[[How does the LLM Wiki pattern work]]"
   - "[[Wiki vs RAG]]"
   - "[[LLM Wiki Pattern]]"
   - "[[Persistent Wiki Artifact]]"

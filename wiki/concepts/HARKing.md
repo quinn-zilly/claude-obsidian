@@ -1,4 +1,5 @@
 ---
+
 type: concept
 address: c-000048
 title: "HARKing"
@@ -15,6 +16,8 @@ related:
   - "[[Replication Crisis]]"
   - "[[munafo-2017-manifesto]]"
   - "[[nosek-2018-preregistration]]"
+created: unknown
+updated: unknown
 ---
 
 # HARKing

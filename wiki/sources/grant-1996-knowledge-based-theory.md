@@ -1,4 +1,5 @@
 ---
+
 type: source
 address: c-000018
 title: "Toward a Knowledge-Based Theory of the Firm"
@@ -24,6 +25,8 @@ related:
   - "[[Knowledge-Based Theory of the Firm]]"
   - "[[Tacit vs Explicit Knowledge]]"
   - "[[barney-felin-2013-microfoundations]]"
+created: unknown
+updated: unknown
 ---
 
 # Grant (1996) — Toward a Knowledge-Based Theory of the Firm

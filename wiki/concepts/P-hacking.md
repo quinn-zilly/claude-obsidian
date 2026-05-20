@@ -1,4 +1,5 @@
 ---
+
 type: concept
 address: c-000047
 title: "P-hacking"
@@ -16,6 +17,8 @@ related:
   - "[[Replication Crisis]]"
   - "[[munafo-2017-manifesto]]"
   - "[[nosek-2018-preregistration]]"
+created: unknown
+updated: unknown
 ---
 
 # P-hacking

@@ -1,4 +1,5 @@
 ---
+
 type: entity
 address: c-000034
 title: "Etienne LeBel"
@@ -13,6 +14,8 @@ related:
   - "[[Replication]]"
   - "[[lebel-2018-credibility-framework]]"
   - "[[open-science-collaboration-2015]]"
+created: unknown
+updated: unknown
 ---
 
 # Etienne LeBel

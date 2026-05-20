@@ -1,4 +1,5 @@
 ---
+
 type: concept
 address: c-000053
 title: "Analytic Reproducibility"
@@ -16,6 +17,8 @@ related:
   - "[[metaBUS]]"
   - "[[Etienne LeBel]]"
   - "[[lebel-2018-credibility-framework]]"
+created: unknown
+updated: unknown
 ---
 
 # Analytic Reproducibility

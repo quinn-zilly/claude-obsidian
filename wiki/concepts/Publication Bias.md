@@ -1,4 +1,5 @@
 ---
+
 type: concept
 address: c-000049
 title: "Publication Bias"
@@ -16,6 +17,8 @@ related:
   - "[[Replication Crisis]]"
   - "[[open-science-collaboration-2015]]"
   - "[[munafo-2017-manifesto]]"
+created: unknown
+updated: unknown
 ---
 
 # Publication Bias

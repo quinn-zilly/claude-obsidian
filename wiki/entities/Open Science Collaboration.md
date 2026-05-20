@@ -1,4 +1,5 @@
 ---
+
 type: entity
 address: c-000040
 title: "Open Science Collaboration"
@@ -13,6 +14,8 @@ related:
   - "[[Center for Open Science]]"
   - "[[open-science-collaboration-2015]]"
   - "[[Replication Crisis]]"
+created: unknown
+updated: unknown
 ---
 
 # Open Science Collaboration

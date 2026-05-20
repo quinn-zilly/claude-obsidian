@@ -1,4 +1,5 @@
 ---
+
 type: entity
 address: c-000039
 title: "Center for Open Science"
@@ -16,6 +17,8 @@ related:
   - "[[open-science-collaboration-2015]]"
   - "[[nosek-2018-preregistration]]"
   - "[[munafo-2017-manifesto]]"
+created: unknown
+updated: unknown
 ---
 
 # Center for Open Science
