@@ -1,7 +1,7 @@
 ---
 type: meta
 title: "Operation Log"
-updated: 2026-04-08
+updated: 2026-05-15
 tags:
   - meta
   - log
@@ -12,6 +12,42 @@ related:
   - "[[overview]]"
   - "[[sources/_index]]"
 ---
+
+## 2026-05-19 | batch-ingest | 10 KMBI/Research Paper PDFs from Zotero
+
+- Sources (10 PDFs from Zotero KMBI/Research Paper collection):
+  - `.raw/Grant - 1996 - Toward a Knowledge-Based Theory of the Firm.pdf`
+  - `.raw/Barney, Felin - 2013 - What Are Microfoundations.pdf`
+  - `.raw/Argote, Miron-Spektor - 2011 - Organizational Learning From Experience to Knowledge.pdf` (journal article)
+  - `.raw/Bosco et al. - 2020 - Advancing Meta-Analysis With metaBUS.pdf`
+  - `.raw/Nosek et al. - 2018 - The Preregistration Revolution.pdf`
+  - `.raw/LeBel et al. - 2018 - A Unified Framework to Quantify the Credibility of Scientific Findings.pdf`
+  - `.raw/Lehmann et al. - 2015 - DBpedia.pdf`
+  - `.raw/Foster, Deardorff - 2017 - Open Science Framework (OSF).pdf`
+  - `.raw/Open Science Collaboration - 2015 - Estimating the reproducibility of psychological science.pdf`
+  - `.raw/Munafò et al. - 2017 - A Manifesto for Reproducible Science.pdf`
+- Source summaries created: [[grant-1996-knowledge-based-theory]], [[barney-felin-2013-microfoundations]], [[argote-miron-spektor-2011-org-learning-journal]], [[bosco-2020-metabus]], [[nosek-2018-preregistration]], [[lebel-2018-credibility-framework]], [[lehmann-2015-dbpedia]], [[foster-deardorff-2017-osf]], [[open-science-collaboration-2015]], [[munafo-2017-manifesto]]
+- Concepts created: [[Knowledge-Based Theory of the Firm]], [[Microfoundations]], [[Replication Crisis]], [[Open Science]], [[Preregistration]], [[Registered Reports]], [[Publication Bias]], [[P-hacking]], [[HARKing]], [[Analytic Reproducibility]], [[Open Science Framework]], [[metaBUS]], [[DBpedia]], [[Linked Open Data]]
+- Entities created: [[Robert Grant]], [[Jay Barney]], [[Teppo Felin]], [[Ella Miron-Spektor]], [[Frank Bosco]], [[Brian Nosek]], [[Etienne LeBel]], [[Jens Lehmann]], [[Christian Bizer]], [[Marcus Munafò]], [[John Ioannidis]], [[Center for Open Science]], [[Open Science Collaboration]]
+- Pages updated: [[concepts/_index]], [[entities/_index]], [[sources/_index]], [[index]], [[hot]]
+- Addresses assigned: c-000018 through c-000054 (37 pages)
+- Key insight: This ingest spans three new sub-domains: (1) Knowledge-based theory of the firm / microfoundations — Grant's four integration mechanisms and Barney & Felin's aggregation framework extend the existing KM domain and directly address the micro-macro gap identified in [[zahra-2020-knowledge-integration]]; (2) Open science / replication crisis — OSC 2015, Nosek 2018, LeBel 2018, and Munafò 2017 form a tight cluster documenting the replication crisis and proposing reforms; (3) Semantic web / knowledge graphs — DBpedia and LOD represent knowledge codification at web scale, connecting to tacit/explicit distinctions from the KM domain. Cross-domain connection: [[metaBUS]] bridges open science and KM by creating a knowledge retention infrastructure for meta-analytic science.
+
+---
+
+## 2026-05-15 | batch-ingest | 4 Knowledge Management PDFs
+
+- Sources:
+  - `.raw/Zahra et al. - 2020 - What Do We Know About Knowledge Integration...pdf`
+  - `.raw/Argote et al. - 2021 - Organizational Learning Processes and Outcomes...pdf`
+  - `.raw/Argote-OrganizationalLearningExperience-2011.pdf`
+  - `.raw/Alavi and Leidner - 2001 - Knowledge Management and Knowledge Management Systems...pdf`
+- Summaries created: [[zahra-2020-knowledge-integration]], [[argote-2021-organizational-learning]], [[argote-2011-org-learning-experience]], [[alavi-leidner-2001-knowledge-management]]
+- Concepts created: [[Knowledge Integration]], [[Organizational Learning]], [[Knowledge Management]], [[Learning Curves]], [[Transactive Memory Systems]], [[Knowledge Transfer]], [[Tacit vs Explicit Knowledge]], [[Knowledge-Based View of the Firm]], [[Knowledge Retention]]
+- Entities created: [[Linda Argote]], [[Shaker Zahra]], [[Maryam Alavi]]
+- Pages updated: [[concepts/_index]], [[entities/_index]], [[sources/_index]], [[index]], [[hot]]
+- Addresses assigned: c-000003 through c-000017 (15 pages)
+- Key insight: All four sources converge on the tacit/explicit distinction as the central design variable for knowledge management. Argote's experience-context-knowledge cycle provides a unifying framework for organizational learning; Alavi & Leidner's process view gives IT its role within that framework; Zahra et al. show that micro and macro perspectives on knowledge integration have largely talked past each other.
 
 # Operation Log
 

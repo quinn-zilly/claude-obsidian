@@ -2,8 +2,49 @@
   "version": 1,
   "created": "2026-04-23",
   "description": "Ingest delta tracker and address map for the claude-obsidian vault. Do not hand-edit; wiki-ingest maintains this.",
-  "sources": {},
+  "sources": {
+    ".raw/Zahra et al. - 2020 - What Do We Know About Knowledge Integration Fusing Micro- and Macro-Organizational Perspectives.pdf": {
+      "hash": "b5333586200ace7b13ec96b3ae7b788d",
+      "ingested_at": "2026-05-15",
+      "pages_created": ["wiki/sources/zahra-2020-knowledge-integration.md", "wiki/concepts/Knowledge Integration.md"],
+      "pages_updated": ["wiki/index.md", "wiki/log.md", "wiki/concepts/_index.md", "wiki/sources/_index.md"]
+    },
+    ".raw/Argote et al. - 2021 - Organizational Learning Processes and Outcomes Major Findings and Future Research Directions.pdf": {
+      "hash": "63973ecdef1270d875746fe518e39237",
+      "ingested_at": "2026-05-15",
+      "pages_created": ["wiki/sources/argote-2021-organizational-learning.md", "wiki/concepts/Organizational Learning.md", "wiki/concepts/Learning Curves.md"],
+      "pages_updated": ["wiki/index.md", "wiki/log.md"]
+    },
+    ".raw/Argote-OrganizationalLearningExperience-2011.pdf": {
+      "hash": "b5ccb1b637c6dc8dc4e88624439987ae",
+      "ingested_at": "2026-05-15",
+      "pages_created": ["wiki/sources/argote-2011-org-learning-experience.md", "wiki/entities/Linda Argote.md"],
+      "pages_updated": ["wiki/index.md", "wiki/log.md", "wiki/entities/_index.md"]
+    },
+    ".raw/Alavi and Leidner - 2001 - Knowledge Management and Knowledge Management Systems Conceptual Foundations And Research Issues.pdf": {
+      "hash": "12f7171263a1da535f8167378211f62e",
+      "ingested_at": "2026-05-15",
+      "pages_created": ["wiki/sources/alavi-leidner-2001-knowledge-management.md", "wiki/concepts/Knowledge Management.md", "wiki/concepts/Tacit vs Explicit Knowledge.md", "wiki/concepts/Knowledge-Based View of the Firm.md", "wiki/entities/Maryam Alavi.md"],
+      "pages_updated": ["wiki/index.md", "wiki/log.md"]
+    }
+  },
   "address_map": {
-    "wiki/concepts/DragonScale Memory.md": "c-000001"
+    "wiki/concepts/DragonScale Memory.md": "c-000001",
+    "wiki/sources/zahra-2020-knowledge-integration.md": "c-000003",
+    "wiki/sources/argote-2021-organizational-learning.md": "c-000004",
+    "wiki/sources/argote-2011-org-learning-experience.md": "c-000005",
+    "wiki/sources/alavi-leidner-2001-knowledge-management.md": "c-000006",
+    "wiki/concepts/Knowledge Integration.md": "c-000007",
+    "wiki/concepts/Organizational Learning.md": "c-000008",
+    "wiki/concepts/Knowledge Management.md": "c-000009",
+    "wiki/concepts/Learning Curves.md": "c-000010",
+    "wiki/concepts/Transactive Memory Systems.md": "c-000011",
+    "wiki/concepts/Knowledge Transfer.md": "c-000012",
+    "wiki/concepts/Tacit vs Explicit Knowledge.md": "c-000013",
+    "wiki/concepts/Knowledge-Based View of the Firm.md": "c-000014",
+    "wiki/entities/Linda Argote.md": "c-000015",
+    "wiki/entities/Shaker Zahra.md": "c-000016",
+    "wiki/entities/Maryam Alavi.md": "c-000017",
+    "wiki/concepts/Knowledge Retention.md": "c-000017"
   }
 }

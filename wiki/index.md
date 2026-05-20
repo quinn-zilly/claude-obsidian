@@ -23,7 +23,7 @@ related:
 
 # Wiki Index
 
-Last updated: 2026-04-15 | Total pages: 34 | Sources ingested: 2
+Last updated: 2026-05-19 | Total pages: 88 | Sources ingested: 16
 
 Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[getting-started]]
 
@@ -44,12 +44,38 @@ Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[
 - [[Persistent Wiki Artifact]]: durable Markdown page as the LLM's memory object, distinct from ephemeral chat turns (status: developing)
 - [[Source-First Synthesis]]: provenance discipline; raw sources stay immutable while the wiki layer is synthesized and cited (status: developing)
 - [[Query-Time Retrieval]]: wiki query path synthesizes with citations; complementary to Obsidian's in-vault search (status: developing)
+- [[Knowledge Integration]] — organizational capability for combining distributed specialist knowledge; six-dimension framework (mature)
+- [[Organizational Learning]] — change in organizational knowledge as a function of experience; four processes: search, creation, retention, transfer (mature)
+- [[Knowledge Management]] — deliberate management of knowledge assets; process view; grounded in KBV (mature)
+- [[Learning Curves]] — performance improves at decreasing rate with cumulative experience; knowledge depreciates (mature)
+- [[Transactive Memory Systems]] — distributed group memory: who knows what and how to access it (developing)
+- [[Knowledge Transfer]] — moving knowledge across people, units, organizations; barriers include causal ambiguity and tacitness (mature)
+- [[Tacit vs Explicit Knowledge]] — central distinction shaping KM design, transfer strategy, and retention risk (mature)
+- [[Knowledge-Based View of the Firm]] — firm exists to integrate specialist knowledge; knowledge is the primary source of sustainable competitive advantage (mature)
+- [[Knowledge Retention]] — embedding knowledge in distributed repositories so it persists over time (developing)
+- [[Knowledge-Based Theory of the Firm]] — Grant (1996); firm as knowledge integrator; four integration mechanisms; common knowledge (developing)
+- [[Microfoundations]] — individual-level mechanisms underlying collective outcomes; additive vs. emergent aggregation (developing)
+- [[Replication Crisis]] — systematic failures of replication in psychology; root causes: publication bias, p-hacking, HARKing (mature)
+- [[Open Science]] — transparency, open data, preregistration; reform movement for credible knowledge accumulation (mature)
+- [[Preregistration]] — committing to research design before data collection; separates confirmatory from exploratory (mature)
+- [[Registered Reports]] — in-principle journal acceptance before results known; eliminates publication bias (developing)
+- [[Publication Bias]] — file drawer problem; positive results disproportionately published; inflates effect sizes (developing)
+- [[P-hacking]] — analytic flexibility inflating false-positive rates; garden of forking paths (developing)
+- [[HARKing]] — Hypothesizing After Results are Known; post-hoc hypotheses presented as a priori (developing)
+- [[Analytic Reproducibility]] — reproducing published results from same data; second dimension of credibility framework (developing)
+- [[Open Science Framework]] — osf.io; platform for preregistration, open data, and research collaboration (developing)
+- [[metaBUS]] — 1M+ curated bivariate findings from applied psychology; rapid meta-analysis infrastructure (developing)
+- [[DBpedia]] — structured knowledge from 111 Wikipedia editions; 400M+ facts; central LOD hub (developing)
+- [[Linked Open Data]] — RDF/SPARQL-based best practices for publishing and connecting structured web data (developing)
 
 ---
 
 ## Entities
 
 - [[Andrej Karpathy]] — AI researcher, creator of the LLM Wiki pattern, former Tesla AI director (status: developing)
+- [[Linda Argote]] — Carnegie Mellon; leading organizational learning researcher; learning curves, knowledge repositories (developing)
+- [[Shaker Zahra]] — University of Minnesota; knowledge integration, dynamic capabilities, absorptive capacity (developing)
+- [[Maryam Alavi]] — Emory University; knowledge management systems, IT and organizational knowledge (developing)
 - [[Ar9av-obsidian-wiki]] — multi-agent compatible LLM Wiki plugin; delta tracking manifest (status: current)
 - [[Nexus-claudesidian-mcp]] — native Obsidian plugin + MCP bridge; workspace memory, task management (status: current)
 - [[ballred-obsidian-claude-pkm]] — goal cascade PKM; auto-commit hooks, /adopt command (status: current)
@@ -57,12 +83,39 @@ Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[
 - [[kepano-obsidian-skills]] — official skills from Obsidian creator; defuddle, obsidian-bases (status: current)
 - [[Claudian-YishenTu]] — native Obsidian plugin embedding Claude Code; plan mode, @mention (status: current)
 - [[Claude SEO]] — Tier 4 Claude Code skill for SEO analysis; 23 skills, 17 agents, 30 scripts at v1.9.0 (status: evergreen)
+- [[Robert Grant]] — Georgetown University; knowledge-based theory of the firm; four integration mechanisms (developing)
+- [[Jay Barney]] — University of Utah; resource-based view; microfoundations of capabilities (developing)
+- [[Teppo Felin]] — University of Oxford; microfoundations, strategic management; Barney co-author (developing)
+- [[Ella Miron-Spektor]] — Bar-Ilan University; organizational learning, creativity, teams (developing)
+- [[Frank Bosco]] — Virginia Commonwealth University; metaBUS lead developer (developing)
+- [[Brian Nosek]] — UVA / Center for Open Science; OSC 2015; preregistration revolution (developing)
+- [[Etienne LeBel]] — Western University; credibility framework; curatescience.org (developing)
+- [[Jens Lehmann]] — Leipzig/Bonn; DBpedia primary architect (developing)
+- [[Christian Bizer]] — Mannheim; Linked Open Data pioneer; DBpedia co-developer (developing)
+- [[Marcus Munafò]] — University of Bristol; manifesto for reproducible science (developing)
+- [[John Ioannidis]] — Stanford / METRICS; "Why Most Published Research Findings Are False" (developing)
+- [[Center for Open Science]] — non-profit; Charlottesville VA; OSF; open science reform movement (developing)
+- [[Open Science Collaboration]] — collective author (270 members); OSC 2015 replication project (developing)
 
 ---
 
 ## Sources
 
 - [[claude-obsidian-ecosystem-research]] — 2026-04-08 | web research across 16+ repos | 8 wiki pages created
+- [[zahra-2020-knowledge-integration|Zahra et al. (2020)]] — Academy of Management Annals | knowledge integration review | 2026-05-15
+- [[argote-2021-organizational-learning|Argote et al. (2021)]] — Management Science | organizational learning processes review | 2026-05-15
+- [[argote-2011-org-learning-experience|Argote & Miron-Spektor (2011)]] — Organization Science | experience-to-knowledge framework | 2026-05-15
+- [[alavi-leidner-2001-knowledge-management|Alavi & Leidner (2001)]] — MIS Quarterly | KMS conceptual foundations | 2026-05-15
+- [[grant-1996-knowledge-based-theory|Grant (1996)]] — SMJ | knowledge-based theory of the firm; four integration mechanisms | 2026-05-19
+- [[barney-felin-2013-microfoundations|Barney & Felin (2013)]] — AMP | microfoundations; additive vs. emergent aggregation | 2026-05-19
+- [[argote-miron-spektor-2011-org-learning-journal|Argote & Miron-Spektor (2011, journal)]] — Org Science | experience × context → knowledge (journal article version) | 2026-05-19
+- [[bosco-2020-metabus|Bosco et al. (2020)]] — AMPPS | metaBUS; 1M+ curated findings; rapid meta-analysis | 2026-05-19
+- [[nosek-2018-preregistration|Nosek et al. (2018)]] — PNAS | preregistration revolution; prediction vs. postdiction | 2026-05-19
+- [[lebel-2018-credibility-framework|LeBel et al. (2018)]] — AMPPS | credibility framework; four dimensions; replication taxonomy | 2026-05-19
+- [[lehmann-2015-dbpedia|Lehmann et al. (2015)]] — Semantic Web | DBpedia; 400M+ facts; LOD hub | 2026-05-19
+- [[foster-deardorff-2017-osf|Foster & Deardorff (2017)]] — JMLA | OSF resource review; preregistration infrastructure | 2026-05-19
+- [[open-science-collaboration-2015|Open Science Collaboration (2015)]] — Science | 100 replications; 36% success rate; replication crisis benchmark | 2026-05-19
+- [[munafo-2017-manifesto|Munafò et al. (2017)]] — Nature Human Behaviour | manifesto for reproducible science; five reform categories | 2026-05-19
 
 ---
 

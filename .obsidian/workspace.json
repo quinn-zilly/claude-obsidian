@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "477f1cf965ca606e",
+        "id": "ee5cb3b094b8380b",
         "type": "tabs",
         "children": [
           {
-            "id": "a31de1b302cdc5cf",
+            "id": "17e852d3a21e3d15",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "agents/wiki-ingest.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "wiki-ingest"
             }
           }
         ]
@@ -74,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 388.5
   },
   "right": {
     "id": "7092b65be1e76349",
@@ -177,15 +181,67 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:New drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-memos:Thino": false,
+      "obsidian-memos:Thino Super": false
     }
   },
-  "active": "a31de1b302cdc5cf",
-  "lastOpenFiles": []
+  "active": "17e852d3a21e3d15",
+  "lastOpenFiles": [
+    "WIKI.md",
+    "wiki/Wiki Map.canvas",
+    "wiki/index.md",
+    "wiki/folds/fold-k3-from-2026-04-23-to-2026-04-24-n8.md",
+    "wiki/meta/wiki-graph-grow.gif",
+    "wiki/meta/welcome-canvas.gif",
+    "wiki/meta/full-audit-and-system-setup-session.md",
+    "wiki/meta/dragonscale-mechanism-overview.png",
+    "wiki/meta/dragonscale-frontier-graph.svg",
+    "wiki/meta/dragonscale-frontier-graph.png",
+    "wiki/meta/2026-04-10-backlink-empire-session.md",
+    "wiki/meta/claude-obsidian-cover-square.png",
+    "wiki/meta/claude-obsidian-gif-1x1.gif",
+    "CLAUDE.md",
+    "wiki/meta/dashboard.base",
+    "wiki/meta/dashboard.md",
+    "wiki/questions/How does the LLM Wiki pattern work.md",
+    "wiki/getting-started.md",
+    "_templates/comparison.md",
+    "AGENTS.md",
+    "hooks/README.md",
+    "skills/defuddle/SKILL.md",
+    "skills/wiki/references/git-setup.md",
+    "skills/wiki/references/mcp-setup.md",
+    "wiki/concepts/Open Science.md",
+    "wiki/hot.md",
+    "wiki/overview.md",
+    "wiki/sources/nosek-2018-preregistration.md",
+    "wiki/index.md.tmp.25936.26517ba1a0fe",
+    "wiki/index.md.tmp.25936.8517c4e50f74",
+    "wiki/concepts/_index.md.tmp.25936.615898b5b8f3",
+    "wiki/entities/_index.md.tmp.25936.8d8caffda7b7",
+    "wiki/sources/_index.md.tmp.25936.c66bec6cc5d9",
+    "wiki/concepts/Open Science Framework.md",
+    "wiki/concepts/Open Science Framework.md.tmp.25936.807a42593f6c",
+    "wiki/concepts/Analytic Reproducibility.md",
+    "wiki/concepts/metaBUS.md",
+    "wiki/concepts/Linked Open Data.md",
+    "wiki/concepts/Linked Open Data.md.tmp.25936.26980c46e2ce",
+    "wiki/concepts/DBpedia.md",
+    "wiki/concepts/Publication Bias.md",
+    "wiki/concepts/HARKing.md",
+    "wiki/concepts/HARKing.md.tmp.25936.2175b97b7d50",
+    "wiki/concepts/Registered Reports.md.tmp.25936.fe62ff8a60ab",
+    "wiki/canvases/welcome.canvas",
+    "wiki/canvases/main.canvas",
+    "wiki/canvases/claude-obsidian-presentation.canvas"
+  ]
 }
