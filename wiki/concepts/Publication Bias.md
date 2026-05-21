@@ -70,3 +70,4 @@ Robert Rosenthal (1979) named the underlying phenomenon: researchers conduct man
 - [[P-hacking]]
 - [[Preregistration]]
 - [[Registered Reports]]
+- [[Publication Bottleneck]] — structural origin: tight publication markets make non-significant results feel career-threatening; [[giner-sorolla-2012-science-or-art|Giner-Sorolla (2012)]] argues the bottleneck is the root cause of file-drawer suppression

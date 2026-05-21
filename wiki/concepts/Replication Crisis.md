@@ -86,3 +86,4 @@ The replication crisis is also a **knowledge quality problem**: the accumulated 
 - [[nosek-2018-preregistration]] — key intervention
 - [[lebel-2018-credibility-framework]] — multidimensional credibility assessment
 - [[uhlmann-2019-crowdsourcing-science|Uhlmann et al. (2019)]] — [[Crowdsourcing Science]] as structural reform; [[Many Labs]] synthesis (47% replication across 190 effects in 6 initiatives); non-replicable effects fail consistently across populations; [[Vertical Integration (Science)]] as structural contributor to crisis
+- [[giner-sorolla-2012-science-or-art|Giner-Sorolla (2012)]] — information-economic root cause account; [[Publication Bottleneck]] + [[Aesthetic Standards in Science]] as the mechanism by which incentive misalignment becomes systematic; explains why 1970s solutions failed

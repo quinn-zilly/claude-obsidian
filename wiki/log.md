@@ -13,6 +13,14 @@ related:
   - "[[sources/_index]]"
 ---
 
+## 2026-05-21 | ingest | Giner-Sorolla 2012 — Science or Art?
+- Source: `.raw/Giner-Sorolla - 2012 - Science or Art How Aesthetic Standards Grease the Way Through the Publication Bottleneck but Underm.pdf`
+- Summary: [[giner-sorolla-2012-science-or-art]]
+- Pages created: [[giner-sorolla-2012-science-or-art]], [[Roger Giner-Sorolla]], [[Publication Bottleneck]], [[Aesthetic Standards in Science]]
+- Pages updated: [[Replication Crisis]], [[Publication Bias]], [[HARKing]], [[index]], [[log]], [[hot]]
+- Addresses: c-000104 through c-000107
+- Key insight: The publication bottleneck (too many researchers / too few slots) is the root cause of the replication crisis — aesthetic criteria (statistical perfection, narrative conformity, novelty) become gatekeepers under Anna Karenina conjunction rules. This is why 1970s solutions failed and why individual-level ethics won't fix it without structural change.
+
 ## 2026-05-21 | ingest | Uhlmann et al. 2019 — Scientific Utopia III: Crowdsourcing Science
 - Source: `.raw/Uhlmann et al. - 2019 - Scientific Utopia III Crowdsourcing Science.pdf`
 - Summary: [[uhlmann-2019-crowdsourcing-science]]

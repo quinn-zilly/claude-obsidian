@@ -66,3 +66,4 @@ A related concept introduced in [[munafo-2017-manifesto]] Box 3: **CARKing** —
 - [[Publication Bias]]
 - [[Preregistration]]
 - [[Registered Reports]]
+- [[Aesthetic Standards in Science]] — [[giner-sorolla-2012-science-or-art|Giner-Sorolla (2012)]] frames HARKing as primarily an *aesthetic and presentational* pressure (narrative conformity criterion), not just a strategic incentive; the story must look clean

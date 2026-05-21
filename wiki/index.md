@@ -23,7 +23,7 @@ related:
 
 # Wiki Index
 
-Last updated: 2026-05-21 | Total pages: 130 | Sources ingested: 22
+Last updated: 2026-05-21 | Total pages: 134 | Sources ingested: 23
 
 Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[getting-started]]
 
@@ -90,6 +90,8 @@ Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[
 - [[Subjective Career Success]] — one's own evaluation of career outcomes; expanded dimensions for minority employees: authenticity, survival, collective good, adjustability (developing)
 - [[Glass Cliff]] — minority appointment to precarious leadership roles in crisis; Ryan & Haslam 2005; savior effect (developing)
 - [[Crowdsourcing Science]] — horizontal distribution of research ownership, expertise, resources; complement to standard model; Uhlmann et al. 2019 (developing)
+- [[Publication Bottleneck]] — information-economic structural condition: too many researchers, too few slots; root cause of replication crisis per Giner-Sorolla 2012; Anna Karenina conjunction rules (developing)
+- [[Aesthetic Standards in Science]] — three criteria (statistical perfection, narrative conformity, novelty) that distort science under bottleneck conditions; Giner-Sorolla 2012 (developing)
 - [[Vertical Integration (Science)]] — standard small-team model; full pipeline within one lab; philosopher-scholar credit model (developing)
 - [[Horizontal Distribution (Science)]] — crowdsourcing model; distributed components, pooled resources; complement to vertical integration (developing)
 - [[Many Labs]] — multilab replication initiative; 36–125 labs; non-replicable effects fail consistently across populations (developing)
@@ -132,6 +134,7 @@ Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[
 - [[Mina Beigi]] — University of Southampton; career success and minority status; complex visibility framework (developing)
 - [[Melika Shirmohammadi]] — University of Houston; career development, diversity; Beigi co-author (developing)
 - [[Eric Uhlmann]] — INSEAD Singapore; crowdsourcing science; Silberzahn many-analysts project; Scientific Utopia III lead author (developing)
+- [[Roger Giner-Sorolla]] — University of Kent; social psychologist; "Science or Art?" 2012; information-economic bottleneck account of replication crisis (developing)
 
 ---
 
@@ -156,6 +159,7 @@ Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[
 - [[yost-plunkett-2010-ten-catalysts|Yost & Plunkett (2010)]] — Industrial and Organizational Psychology | ten catalysts to embed OJD in HR systems | 2026-05-21
 - [[beigi-2025-career-success-minority|Beigi et al. (2025)]] — Journal of Management | career success and minority status; complex visibility; 337 articles; 4 minority groups | 2026-05-21
 - [[uhlmann-2019-crowdsourcing-science|Uhlmann et al. (2019)]] — Perspectives on Psychological Science | Scientific Utopia III; crowdsourcing as complement to standard model; 2×2 typology; structural reforms | 2026-05-21
+- [[giner-sorolla-2012-science-or-art|Giner-Sorolla (2012)]] — Perspectives on Psychological Science | publication bottleneck as root cause of replication crisis; three aesthetic criteria; information-economic account | 2026-05-21
 
 ---
 

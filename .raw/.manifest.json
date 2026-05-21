@@ -354,6 +354,24 @@
         "wiki/concepts/Many Labs.md": "c-000102",
         "wiki/concepts/Matthew Effect (Science).md": "c-000103"
       }
+    },
+    ".raw/Giner-Sorolla - 2012 - Science or Art How Aesthetic Standards Grease the Way Through the Publication Bottleneck but Underm.pdf": {
+      "hash": "cef9e811a9ebf864d49ac14a0d1aa57e",
+      "ingested_at": "2026-05-21",
+      "pages_created": [
+        "wiki/sources/giner-sorolla-2012-science-or-art.md",
+        "wiki/entities/Roger Giner-Sorolla.md",
+        "wiki/concepts/Publication Bottleneck.md",
+        "wiki/concepts/Aesthetic Standards in Science.md"
+      ],
+      "pages_updated": [
+        "wiki/concepts/Replication Crisis.md",
+        "wiki/concepts/Publication Bias.md",
+        "wiki/concepts/HARKing.md",
+        "wiki/index.md",
+        "wiki/log.md",
+        "wiki/hot.md"
+      ]
     }
   },
   "address_map": {
@@ -430,6 +448,10 @@
     "wiki/concepts/Vertical Integration (Science).md": "c-000100",
     "wiki/concepts/Horizontal Distribution (Science).md": "c-000101",
     "wiki/concepts/Many Labs.md": "c-000102",
-    "wiki/concepts/Matthew Effect (Science).md": "c-000103"
+    "wiki/concepts/Matthew Effect (Science).md": "c-000103",
+    "wiki/sources/giner-sorolla-2012-science-or-art.md": "c-000104",
+    "wiki/entities/Roger Giner-Sorolla.md": "c-000105",
+    "wiki/concepts/Publication Bottleneck.md": "c-000106",
+    "wiki/concepts/Aesthetic Standards in Science.md": "c-000107"
   }
 }
