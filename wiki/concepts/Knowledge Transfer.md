@@ -60,3 +60,4 @@ Organizations can learn not just from their own experience but from observing ot
 - [[argote-2021-organizational-learning|Argote et al. (2021)]] — comprehensive review of knowledge transfer research
 - [[alavi-leidner-2001-knowledge-management|Alavi & Leidner (2001)]] — IT's role in knowledge transfer processes
 - [[zahra-2020-knowledge-integration|Zahra et al. (2020)]] — transfer as a component of cross-boundary knowledge integration
+- [[yost-plunkett-2010-ten-catalysts|Yost & Plunkett (2010)]] — [[On-the-Job Development]] as personnel-movement-based tacit knowledge transfer; [[Developmental Experiences]] (turnarounds, cross-functional moves) are structured transfer events; [[Personal Advisory Board]] operationalizes mentorship/socialization mechanisms

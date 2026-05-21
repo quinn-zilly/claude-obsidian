@@ -20,10 +20,11 @@ Navigation: [[index]] | [[log]] | [[overview]]
 
 ## Last Updated
 
-2026-05-20. Nosek & Bar-Anan 2012 (Scientific Utopia I) + Nosek et al. 2012 (Scientific Utopia II) ingested — 9 new pages total. Counter at c-000073. Total pages: 102 | Sources ingested: 19. Still ingesting: 2 more new sources queued (Giner-Sorolla, Uhlmann).
+2026-05-21. Yost & Plunkett 2010 (Ten Catalysts) ingested — 11 new pages. Counter at c-000086. Total pages: 113 | Sources ingested: 20. **New domain opened: Leadership Development / Talent Management.**
 
 ## Key Recent Facts
 
+- **2026-05-21:** Yost & Plunkett (2010) — 11 new pages: [[yost-plunkett-2010-ten-catalysts]], [[Paul Yost]], [[Mary Plunkett]], [[Morgan McCall]], [[On-the-Job Development]], [[Leadership Map]], [[Learning Agility]], [[Developmental Experiences]], [[70-20-10 Rule]], [[Personal Advisory Board]], [[Transition Checklist]]. Cross-refs added to [[Organizational Learning]] and [[Knowledge Transfer]].
 - **2026-05-19 batch (backfilled to manifest):** Grant 1996, Barney & Felin 2013, Argote & Miron-Spektor 2011 (journal), Bosco et al. 2020, Nosek et al. 2018, LeBel et al. 2018, Lehmann et al. 2015, Foster & Deardorff 2017, Open Science Collaboration 2015, Munafò et al. 2017, claude-obsidian-ecosystem-research.md
 - **2026-05-20 (1):** DiMaggio & Powell 1983 — 5 new pages: [[dimaggio-powell-1983-institutional-isomorphism]], [[Institutional Isomorphism]], [[Organizational Field]], [[Paul DiMaggio]], [[Walter Powell]]
 - **2026-05-20 (2):** Nosek & Bar-Anan 2012 (Utopia I) — 4 new pages: [[nosek-bar-anan-2012-scientific-utopia-i]], [[Open Access]], [[Scientific Communication Reform]], [[Yoav Bar-Anan]]
@@ -48,7 +49,16 @@ Navigation: [[index]] | [[log]] | [[overview]]
 - [[lehmann-2015-dbpedia]]: DBpedia extracts 400M+ structured facts from 111 Wikipedia editions; LOD cloud hub; used in IBM Watson, NLP pipelines
 - DBpedia/LOD connects to KM domain: codification strategy, common knowledge, tacit→explicit conversion at scale
 
-## Cross-Domain Connections
+## Cross-Domain Connections (NEW 2026-05-21)
+
+- **[[On-the-Job Development]] (leadership dev) ↔ [[Knowledge Transfer]] (org KM):** OJD is primarily tacit knowledge transfer via experience; same mechanisms (socialization, personnel movement, apprenticeship) apply
+- **[[Learning Agility]] (leadership dev) ↔ [[Organizational Learning]] (org KM):** individual learning agility aggregates to org learning capacity; Argote's "latent context" enables or inhibits individual-level extraction
+- **[[Developmental Experiences]] (leadership dev) ↔ [[Learning Curves]] (org KM):** experience accumulation = learning curve descent; OJD theory specifies *which* experiences produce non-linear jumps
+- **[[70-20-10 Rule]] (leadership dev) ↔ [[Tacit vs Explicit Knowledge]] (org KM):** ratio maps onto knowledge types — 70% experience = tacit acquisition; 10% training = explicit/codified; relationship-based 20% = tacit via socialization
+- **[[Institutional Isomorphism]] (inst. theory) ↔ [[On-the-Job Development]] (leadership dev):** normative isomorphism in HR profession = convergent adoption of same OJD frameworks across firms; Yost & Plunkett's catalysts spread via professional community (mimetic + normative)
+- **[[Knowing-Doing Gap]] (implicit in Yost & Plunkett) ↔ [[Motivated Reasoning]] (open science):** both describe systematically not acting on known best practices; different mechanisms (organizational inertia vs. incentive misalignment), similar structure
+
+## Cross-Domain Connections (prior)
 
 - [[metaBUS]] (open science) ↔ [[Knowledge Retention]] (KM): metaBUS is meta-level knowledge retention for science
 - [[Preregistration]] (open science) ↔ [[Source-First Synthesis]] (wiki): both enforce temporal ordering of claims — commit before observe; source before synthesis
@@ -67,12 +77,13 @@ Navigation: [[index]] | [[log]] | [[overview]]
 
 ## Domain Map
 
-This wiki now has five distinct research domains:
+This wiki now has six distinct research domains:
 1. **claude-obsidian ecosystem** — LLM Wiki pattern, DragonScale, plugin ecosystem
 2. **Organizational KM** — KBV, KBT, organizational learning, knowledge integration (Argote, Zahra, Alavi, Grant, Barney)
 3. **Open Science** — replication crisis, preregistration, Registered Reports (Nosek, Munafò, LeBel, OSC, OSF, metaBUS)
 4. **Semantic Web** — DBpedia, Linked Open Data (Lehmann, Bizer)
-5. **Institutional Theory** — isomorphism, organizational fields (DiMaggio, Powell) [NEW]
+5. **Institutional Theory** — isomorphism, organizational fields (DiMaggio, Powell)
+6. **Leadership Development / Talent Management** — OJD, ten catalysts, 70-20-10, Leadership Map (Yost, Plunkett, McCall) [NEW]
 
 A domain scaffold (wiki/domains/) has not yet been created — would help separate and cross-reference them cleanly.
 

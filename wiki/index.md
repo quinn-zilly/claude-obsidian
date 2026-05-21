@@ -23,7 +23,7 @@ related:
 
 # Wiki Index
 
-Last updated: 2026-05-20 | Total pages: 102 | Sources ingested: 19
+Last updated: 2026-05-21 | Total pages: 113 | Sources ingested: 20
 
 Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[getting-started]]
 
@@ -75,6 +75,13 @@ Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[
 - [[metaBUS]] — 1M+ curated bivariate findings from applied psychology; rapid meta-analysis infrastructure (developing)
 - [[DBpedia]] — structured knowledge from 111 Wikipedia editions; 400M+ facts; central LOD hub (developing)
 - [[Linked Open Data]] — RDF/SPARQL-based best practices for publishing and connecting structured web data (developing)
+- [[On-the-Job Development]] — OJD; 70% of leadership development; experiences over training; ten catalysts to hardwire into HR (developing)
+- [[Leadership Map]] — four-dimension taxonomy: experiences, competencies, key relationships, learning agility; Yost & Plunkett (developing)
+- [[Learning Agility]] — dispositional capacity to extract lessons from experience; determines OJD yield (developing)
+- [[Developmental Experiences]] — curated work assignments that produce leadership growth; turnarounds, start-ups, cross-functional roles (developing)
+- [[70-20-10 Rule]] — 70% OJD, 20% relationships, 10% training; heuristic from McCall et al. 1988 / Lombardo & Eichinger 1988 (developing)
+- [[Personal Advisory Board]] — 5–7 person developmental network replacing single mentor; Higgins & Kram (developing)
+- [[Transition Checklist]] — structured tool for role transitions; leverages high-openness-to-learning moments (developing)
 
 ---
 
@@ -107,6 +114,9 @@ Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[
 - [[John Ioannidis]] — Stanford / METRICS; "Why Most Published Research Findings Are False" (developing)
 - [[Center for Open Science]] — non-profit; Charlottesville VA; OSF; open science reform movement (developing)
 - [[Open Science Collaboration]] — collective author (270 members); OSC 2015 replication project (developing)
+- [[Paul Yost]] — SPU I-O psychologist; OJD researcher; ten catalysts framework (developing)
+- [[Mary Plunkett]] — Heineken International; Head of People & Org Development; Yost co-author (developing)
+- [[Morgan McCall]] — USC; foundational OJD research; *Lessons of Experience* (developing)
 
 ---
 
@@ -128,6 +138,7 @@ Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[
 - [[open-science-collaboration-2015|Open Science Collaboration (2015)]] — Science | 100 replications; 36% success rate; replication crisis benchmark | 2026-05-19
 - [[munafo-2017-manifesto|Munafò et al. (2017)]] — Nature Human Behaviour | manifesto for reproducible science; five reform categories | 2026-05-19
 - [[nosek-bar-anan-2012-scientific-utopia-i|Nosek & Bar-Anan (2012)]] — Psychological Inquiry | Scientific Utopia I; six communication reforms; barriers are social not technical | 2026-05-20
+- [[yost-plunkett-2010-ten-catalysts|Yost & Plunkett (2010)]] — Industrial and Organizational Psychology | ten catalysts to embed OJD in HR systems | 2026-05-21
 
 ---
 

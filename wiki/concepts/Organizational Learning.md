@@ -68,3 +68,4 @@ Organizational learning occurs at individual, group, organizational, and interor
 - [[argote-2011-org-learning-experience|Argote & Miron-Spektor (2011)]] — theoretical framework
 - [[argote-2021-organizational-learning|Argote et al. (2021)]] — empirical review across four processes
 - [[zahra-2020-knowledge-integration|Zahra et al. (2020)]] — organizational learning as one macro perspective on knowledge integration
+- [[yost-plunkett-2010-ten-catalysts|Yost & Plunkett (2010)]] — individual-level OJD as micro-mechanism: [[On-the-Job Development]] is how individual experience feeds org learning; [[Learning Agility]] determines extraction yield

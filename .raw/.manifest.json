@@ -3,6 +3,30 @@
   "created": "2026-04-23",
   "description": "Ingest delta tracker and address map for the claude-obsidian vault. Do not hand-edit; wiki-ingest maintains this.",
   "sources": {
+    ".raw/Ten Catalysts, Yost & Plunkett 2010.pdf": {
+      "hash": "3ce07450fbac649f5eed75510cbca0ab",
+      "ingested_at": "2026-05-21",
+      "pages_created": [
+        "wiki/sources/yost-plunkett-2010-ten-catalysts.md",
+        "wiki/entities/Paul Yost.md",
+        "wiki/entities/Mary Plunkett.md",
+        "wiki/entities/Morgan McCall.md",
+        "wiki/concepts/On-the-Job Development.md",
+        "wiki/concepts/Leadership Map.md",
+        "wiki/concepts/Learning Agility.md",
+        "wiki/concepts/Developmental Experiences.md",
+        "wiki/concepts/70-20-10 Rule.md",
+        "wiki/concepts/Personal Advisory Board.md",
+        "wiki/concepts/Transition Checklist.md"
+      ],
+      "pages_updated": [
+        "wiki/concepts/Organizational Learning.md",
+        "wiki/concepts/Knowledge Transfer.md",
+        "wiki/index.md",
+        "wiki/log.md",
+        "wiki/hot.md"
+      ]
+    },
     ".raw/Zahra et al. - 2020 - What Do We Know About Knowledge Integration Fusing Micro- and Macro-Organizational Perspectives.pdf": {
       "hash": "b5333586200ace7b13ec96b3ae7b788d",
       "ingested_at": "2026-05-15",
@@ -342,6 +366,17 @@
     "wiki/concepts/Conflict of Interest in Science.md": "c-000070",
     "wiki/concepts/Motivated Reasoning.md": "c-000071",
     "wiki/concepts/Open Workflow.md": "c-000072",
-    "wiki/concepts/Paradigm-Driven Research.md": "c-000073"
+    "wiki/concepts/Paradigm-Driven Research.md": "c-000073",
+    "wiki/sources/yost-plunkett-2010-ten-catalysts.md": "c-000075",
+    "wiki/entities/Paul Yost.md": "c-000076",
+    "wiki/entities/Mary Plunkett.md": "c-000077",
+    "wiki/concepts/On-the-Job Development.md": "c-000078",
+    "wiki/concepts/Leadership Map.md": "c-000079",
+    "wiki/concepts/Learning Agility.md": "c-000080",
+    "wiki/concepts/Personal Advisory Board.md": "c-000081",
+    "wiki/concepts/Transition Checklist.md": "c-000082",
+    "wiki/concepts/70-20-10 Rule.md": "c-000083",
+    "wiki/concepts/Developmental Experiences.md": "c-000084",
+    "wiki/entities/Morgan McCall.md": "c-000085"
   }
 }

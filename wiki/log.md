@@ -13,6 +13,13 @@ related:
   - "[[sources/_index]]"
 ---
 
+## 2026-05-21 | ingest | Ten Catalysts (Yost & Plunkett 2010)
+- Source: `.raw/Ten Catalysts, Yost & Plunkett 2010.pdf`
+- Summary: [[yost-plunkett-2010-ten-catalysts]]
+- Pages created: [[yost-plunkett-2010-ten-catalysts]], [[Paul Yost]], [[Mary Plunkett]], [[Morgan McCall]], [[On-the-Job Development]], [[Leadership Map]], [[Learning Agility]], [[Developmental Experiences]], [[70-20-10 Rule]], [[Personal Advisory Board]], [[Transition Checklist]]
+- Pages updated: [[Organizational Learning]], [[Knowledge Transfer]], [[index]], [[log]], [[hot]]
+- Key insight: The knowing-doing gap is the central problem in leadership development — orgs know OJD dominates but systematically under-leverage it. HR systems can be active drivers of OJD (not just support scaffolding) via 10 concrete catalysts. New domain opens in wiki: **Leadership Development / Talent Management**.
+
 ## 2026-05-20 | ingest | Scientific Utopia II (Nosek, Spies, & Motyl 2012)
 - Source: `Nosek et al. - 2012 - Scientific Utopia II. Restructuring Incentives and Practices to Promote Truth Over Publishability.pdf`
 - Summary: [[nosek-2012-scientific-utopia-ii]]
