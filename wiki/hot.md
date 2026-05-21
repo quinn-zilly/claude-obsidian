@@ -13,10 +13,11 @@ Nav: [[index]] | [[log]] | [[overview]]
 
 ## State
 
-2026-05-21. Counter: c-000107. Pages: 134. Sources: 23.
+2026-05-21. Counter: c-000107. Pages: 135. Sources: 24.
 
 ## Recent Ingests
 
+- **(1) Ren & Argote 2011:** 1p — [[ren-argote-2011-tms]]. Enhanced [[Transactive Memory Systems]]. *Review of 76 papers on TMS (1985–2010). Three dimensions: specialization (division of labor), credibility (trust), coordination (smooth operation). Antecedents: group training, communication, shared experience, task interdependence. Consequences: learning, creativity, performance, satisfaction. Key gaps: virtual teams, entrepreneurial ventures, org-level TMS.*
 - **(4) Giner-Sorolla 2012:** 4p — [[giner-sorolla-2012-science-or-art]], [[Roger Giner-Sorolla]], [[Publication Bottleneck]], [[Aesthetic Standards in Science]]. +xref [[Replication Crisis]], [[Publication Bias]], [[HARKing]]
 - **(3) Uhlmann 2019 (Utopia III):** 7p — [[uhlmann-2019-crowdsourcing-science]], [[Eric Uhlmann]], [[Crowdsourcing Science]], [[Vertical Integration (Science)]], [[Horizontal Distribution (Science)]], [[Many Labs]], [[Matthew Effect (Science)]]. +xref [[Replication Crisis]]
 - **(2) Beigi 2025:** 10p — [[beigi-2025-career-success-minority]], [[Mina Beigi]], [[Melika Shirmohammadi]], [[Complex Visibility]], [[Hypervisibility]], [[Invisibility (Career)]], [[Managed Visibility]], [[Outsider-Within Status]], [[Subjective Career Success]], [[Glass Cliff]]. +xref [[On-the-Job Development]]

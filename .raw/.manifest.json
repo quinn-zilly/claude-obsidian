@@ -372,6 +372,19 @@
         "wiki/log.md",
         "wiki/hot.md"
       ]
+    },
+    ".raw/Ren and Argote - 2011 - Transactive Memory Systems 1985\u20132010 An Integrative Framework of Key Dimensions, Antecedents, and C.pdf": {
+      "hash": "d77ca3e481efe6c6ab0d9060caa1708a",
+      "ingested_at": "2026-05-21",
+      "pages_created": [
+        "wiki/sources/ren-argote-2011-tms.md"
+      ],
+      "pages_updated": [
+        "wiki/concepts/Transactive Memory Systems.md",
+        "wiki/index.md",
+        "wiki/log.md",
+        "wiki/hot.md"
+      ]
     }
   },
   "address_map": {

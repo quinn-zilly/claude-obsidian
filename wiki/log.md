@@ -1,7 +1,7 @@
 ---
 type: meta
 title: "Operation Log"
-updated: 2026-05-20
+updated: 2026-05-21
 tags:
   - meta
   - log
@@ -12,6 +12,13 @@ related:
   - "[[overview]]"
   - "[[sources/_index]]"
 ---
+
+## 2026-05-21 | ingest | Ren & Argote 2011 — Transactive Memory Systems 1985–2010
+- Source: `.raw/Ren and Argote - 2011 - Transactive Memory Systems 1985–2010 An Integrative Framework of Key Dimensions, Antecedents, and C.pdf`
+- Summary: [[ren-argote-2011-tms]]
+- Pages created: [[ren-argote-2011-tms]]
+- Pages updated: [[Transactive Memory Systems]], [[index]], [[log]], [[hot]]
+- Key insight: TMS is group-level cognition where knowledge is distributed (specialization) + coordinated (trust + smooth operation). Three dimensions—memory differentiation, task credibility, task coordination—predict team learning, creativity, and performance. Antecedents: group training, communication, shared experience, task interdependence. Moderators: group size, task complexity, membership stability, communication media. Virtual teams, membership change, and organizational-level TMS are underexplored.
 
 ## 2026-05-21 | ingest | Giner-Sorolla 2012 — Science or Art?
 - Source: `.raw/Giner-Sorolla - 2012 - Science or Art How Aesthetic Standards Grease the Way Through the Publication Bottleneck but Underm.pdf`

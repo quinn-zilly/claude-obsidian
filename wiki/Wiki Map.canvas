@@ -33,5 +33,9 @@
 		{"id":"e-llm-karp","fromNode":"llm-wiki","fromSide":"bottom","toNode":"karp","toSide":"top","toEnd":"none","color":"6","label":"originated by"},
 		{"id":"e-hc-hot","fromNode":"hot-c","fromSide":"left","toNode":"hot-m","toSide":"right","label":"implemented as"},
 		{"id":"e-comp-karp","fromNode":"comp","fromSide":"left","toNode":"karp","toSide":"right","toEnd":"none","color":"6"}
-	]
+	],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
 }

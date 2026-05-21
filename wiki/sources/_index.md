@@ -37,6 +37,7 @@ All source pages — summaries of ingested documents, transcripts, articles, and
 
 ### Knowledge Management & Organizational Learning
 
+- [[ren-argote-2011-tms|Ren & Argote (2011)]] — *Academy of Management Annals* — integrative review of transactive memory systems (1985–2010); 76 papers; dimensions (specialization, credibility, coordination); antecedents, consequences, moderators; gaps in virtual teams & org-level TMS
 - [[zahra-2020-knowledge-integration|Zahra, Neubaum & Hayton (2020)]] — *Academy of Management Annals* — integrative review of knowledge integration; six-dimension framework; bridges micro-macro perspectives
 - [[argote-2021-organizational-learning|Argote, Lee & Park (2021)]] — *Management Science* — organizational learning processes review: search, creation, retention, transfer; learning curves
 - [[argote-2011-org-learning-experience|Argote & Miron-Spektor (2011)]] — *Organization Science (book chapter)* — theoretical framework: experience × context → knowledge; active/latent context
