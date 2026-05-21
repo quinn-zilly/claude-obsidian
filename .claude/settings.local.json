@@ -9,7 +9,15 @@
       "Bash(python3 -c ' *)",
       "Read(//usr/**)",
       "Bash(command -v node npm)",
-      "Bash(pdftotext \"C:\\\\Users\\\\quinn\\\\OneDrive - Seattle Pacific University\\\\Class\\\\Notes\\\\claude-obsidian\\\\claude-obsidian\\\\.raw\\\\Soderstrom and Bjork - 2015 - Learning Versus Performance An Integrative Review.pdf\" -)"
+      "Bash(pdftotext \"C:\\\\Users\\\\quinn\\\\OneDrive - Seattle Pacific University\\\\Class\\\\Notes\\\\claude-obsidian\\\\claude-obsidian\\\\.raw\\\\Soderstrom and Bjork - 2015 - Learning Versus Performance An Integrative Review.pdf\" -)",
+      "Bash(command -v python3)",
+      "Bash(python3 ./scripts/tiling-check.py --peek)",
+      "Bash(echo \"TILING_PEEK_EXIT=$?\")",
+      "Bash(echo \"EXIT=$?\")",
+      "Bash(cd \"C:\\\\Users\\\\quinn\\\\OneDrive - Seattle Pacific University\\\\Class\\\\Notes\\\\claude-obsidian\\\\claude-obsidian\" && find wiki -name \"*.md\" | sed 's|.*/||; s|\\\\.md$||' | sort > /tmp/all_pages.txt && wc -l /tmp/all_pages.txt)",
+      "Bash(grep -r '\\\\[\\\\[__TRACKED_VAR__' wiki/)",
+      "Bash(xargs grep -h \"^address:\")",
+      "Bash(xargs grep -h \"^address: c-\")"
     ]
   }
 }
