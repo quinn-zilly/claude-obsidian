@@ -23,7 +23,7 @@ related:
 
 # Wiki Index
 
-Last updated: 2026-05-21 | Total pages: 113 | Sources ingested: 20
+Last updated: 2026-05-21 | Total pages: 130 | Sources ingested: 22
 
 Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[getting-started]]
 
@@ -82,6 +82,18 @@ Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[
 - [[70-20-10 Rule]] — 70% OJD, 20% relationships, 10% training; heuristic from McCall et al. 1988 / Lombardo & Eichinger 1988 (developing)
 - [[Personal Advisory Board]] — 5–7 person developmental network replacing single mentor; Higgins & Kram (developing)
 - [[Transition Checklist]] — structured tool for role transitions; leverages high-openness-to-learning moments (developing)
+- [[Complex Visibility]] — three-state model (hypervisibility, invisibility, managed visibility) mediating minority status → career success disparity; Beigi et al. 2025 (developing)
+- [[Hypervisibility]] — excess scrutiny and tokenism imposed on minority employees; mistakes amplified, successes discounted (developing)
+- [[Invisibility (Career)]] — contributions overlooked, voice suppressed, excluded from informal networks; co-exists with hypervisibility (developing)
+- [[Managed Visibility]] — behavioral adaptation: code-switching, identity concealment, strategic self-presentation; cognitive tax on minority employees (developing)
+- [[Outsider-Within Status]] — structural insider / experiential outsider; Collins (1986); minority employees in organizations (developing)
+- [[Subjective Career Success]] — one's own evaluation of career outcomes; expanded dimensions for minority employees: authenticity, survival, collective good, adjustability (developing)
+- [[Glass Cliff]] — minority appointment to precarious leadership roles in crisis; Ryan & Haslam 2005; savior effect (developing)
+- [[Crowdsourcing Science]] — horizontal distribution of research ownership, expertise, resources; complement to standard model; Uhlmann et al. 2019 (developing)
+- [[Vertical Integration (Science)]] — standard small-team model; full pipeline within one lab; philosopher-scholar credit model (developing)
+- [[Horizontal Distribution (Science)]] — crowdsourcing model; distributed components, pooled resources; complement to vertical integration (developing)
+- [[Many Labs]] — multilab replication initiative; 36–125 labs; non-replicable effects fail consistently across populations (developing)
+- [[Matthew Effect (Science)]] — cumulative advantage; early resource advantages compound; Merton 1968; motivation for crowdsourcing democratization (developing)
 
 ---
 
@@ -117,6 +129,9 @@ Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[
 - [[Paul Yost]] — SPU I-O psychologist; OJD researcher; ten catalysts framework (developing)
 - [[Mary Plunkett]] — Heineken International; Head of People & Org Development; Yost co-author (developing)
 - [[Morgan McCall]] — USC; foundational OJD research; *Lessons of Experience* (developing)
+- [[Mina Beigi]] — University of Southampton; career success and minority status; complex visibility framework (developing)
+- [[Melika Shirmohammadi]] — University of Houston; career development, diversity; Beigi co-author (developing)
+- [[Eric Uhlmann]] — INSEAD Singapore; crowdsourcing science; Silberzahn many-analysts project; Scientific Utopia III lead author (developing)
 
 ---
 
@@ -139,6 +154,8 @@ Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[
 - [[munafo-2017-manifesto|Munafò et al. (2017)]] — Nature Human Behaviour | manifesto for reproducible science; five reform categories | 2026-05-19
 - [[nosek-bar-anan-2012-scientific-utopia-i|Nosek & Bar-Anan (2012)]] — Psychological Inquiry | Scientific Utopia I; six communication reforms; barriers are social not technical | 2026-05-20
 - [[yost-plunkett-2010-ten-catalysts|Yost & Plunkett (2010)]] — Industrial and Organizational Psychology | ten catalysts to embed OJD in HR systems | 2026-05-21
+- [[beigi-2025-career-success-minority|Beigi et al. (2025)]] — Journal of Management | career success and minority status; complex visibility; 337 articles; 4 minority groups | 2026-05-21
+- [[uhlmann-2019-crowdsourcing-science|Uhlmann et al. (2019)]] — Perspectives on Psychological Science | Scientific Utopia III; crowdsourcing as complement to standard model; 2×2 typology; structural reforms | 2026-05-21
 
 ---
 

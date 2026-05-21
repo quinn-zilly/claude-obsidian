@@ -85,3 +85,4 @@ The replication crisis is also a **knowledge quality problem**: the accumulated 
 - [[munafo-2017-manifesto]] — reform program
 - [[nosek-2018-preregistration]] — key intervention
 - [[lebel-2018-credibility-framework]] — multidimensional credibility assessment
+- [[uhlmann-2019-crowdsourcing-science|Uhlmann et al. (2019)]] — [[Crowdsourcing Science]] as structural reform; [[Many Labs]] synthesis (47% replication across 190 effects in 6 initiatives); non-replicable effects fail consistently across populations; [[Vertical Integration (Science)]] as structural contributor to crisis

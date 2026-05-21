@@ -60,3 +60,4 @@ Ten catalysts to embed OJD in HR systems:
 - [[yost-plunkett-2010-ten-catalysts]] — 10 catalysts framework
 - McCall et al. (1988) — *Lessons of Experience* (foundational)
 - McCauley (2006) — developmental assignments taxonomy
+- [[beigi-2025-career-success-minority|Beigi et al. (2025)]] — OJD resource denial (training & development, stretch assignments) as structural mechanism producing minority career gaps; [[Complex Visibility]] suppresses learning agility, the prerequisite for OJD yield

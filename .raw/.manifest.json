@@ -140,7 +140,7 @@
         "wiki/log.md"
       ]
     },
-    ".raw/Grant - 1996 - Toward a knowledge‐based theory of the firm.pdf": {
+    ".raw/Grant - 1996 - Toward a knowledge\u2010based theory of the firm.pdf": {
       "hash": "7d902355cea11975fe184ee416d50a3c",
       "ingested_at": "2026-05-19",
       "pages_created": [
@@ -170,7 +170,7 @@
         "wiki/log.md"
       ]
     },
-    ".raw/Lehmann et al. - 2015 - DBpedia – A large-scale, multilingual knowledge base extracted from Wikipedia.pdf": {
+    ".raw/Lehmann et al. - 2015 - DBpedia \u2013 A large-scale, multilingual knowledge base extracted from Wikipedia.pdf": {
       "hash": "113915904e64333ad5d819640b1b2935",
       "ingested_at": "2026-05-19",
       "pages_created": [
@@ -185,12 +185,12 @@
         "wiki/log.md"
       ]
     },
-    ".raw/Munafò et al. - 2017 - A manifesto for reproducible science.pdf": {
+    ".raw/Munaf\u00f2 et al. - 2017 - A manifesto for reproducible science.pdf": {
       "hash": "4ab499001cf6a2c6396e6f586a735009",
       "ingested_at": "2026-05-19",
       "pages_created": [
         "wiki/sources/munafo-2017-manifesto.md",
-        "wiki/entities/Marcus Munafò.md",
+        "wiki/entities/Marcus Munaf\u00f2.md",
         "wiki/entities/John Ioannidis.md"
       ],
       "pages_updated": [
@@ -292,6 +292,68 @@
         "wiki/log.md",
         "wiki/hot.md"
       ]
+    },
+    ".raw/Beigi et al. - 2025 - Career Success and Minority Status A Review and Conceptual Framework.pdf": {
+      "hash": "be986dd89a03f321be28f8a916777dda",
+      "ingested_at": "2026-05-21",
+      "pages_created": [
+        "wiki/sources/beigi-2025-career-success-minority.md",
+        "wiki/entities/Mina Beigi.md",
+        "wiki/entities/Melika Shirmohammadi.md",
+        "wiki/concepts/Complex Visibility.md",
+        "wiki/concepts/Hypervisibility.md",
+        "wiki/concepts/Invisibility (Career).md",
+        "wiki/concepts/Managed Visibility.md",
+        "wiki/concepts/Outsider-Within Status.md",
+        "wiki/concepts/Subjective Career Success.md",
+        "wiki/concepts/Glass Cliff.md"
+      ],
+      "pages_updated": [
+        "wiki/concepts/On-the-Job Development.md",
+        "wiki/index.md",
+        "wiki/log.md",
+        "wiki/hot.md"
+      ],
+      "address_map": {
+        "wiki/sources/beigi-2025-career-success-minority.md": "c-000087",
+        "wiki/entities/Mina Beigi.md": "c-000088",
+        "wiki/entities/Melika Shirmohammadi.md": "c-000089",
+        "wiki/concepts/Complex Visibility.md": "c-000090",
+        "wiki/concepts/Hypervisibility.md": "c-000091",
+        "wiki/concepts/Invisibility (Career).md": "c-000092",
+        "wiki/concepts/Managed Visibility.md": "c-000093",
+        "wiki/concepts/Outsider-Within Status.md": "c-000094",
+        "wiki/concepts/Subjective Career Success.md": "c-000095",
+        "wiki/concepts/Glass Cliff.md": "c-000096"
+      }
+    },
+    ".raw/Uhlmann et al. - 2019 - Scientific Utopia III Crowdsourcing Science.pdf": {
+      "hash": "ef2ba47caeaca318b2c35133152b0986",
+      "ingested_at": "2026-05-21",
+      "pages_created": [
+        "wiki/sources/uhlmann-2019-crowdsourcing-science.md",
+        "wiki/entities/Eric Uhlmann.md",
+        "wiki/concepts/Crowdsourcing Science.md",
+        "wiki/concepts/Vertical Integration (Science).md",
+        "wiki/concepts/Horizontal Distribution (Science).md",
+        "wiki/concepts/Many Labs.md",
+        "wiki/concepts/Matthew Effect (Science).md"
+      ],
+      "pages_updated": [
+        "wiki/concepts/Replication Crisis.md",
+        "wiki/index.md",
+        "wiki/log.md",
+        "wiki/hot.md"
+      ],
+      "address_map": {
+        "wiki/sources/uhlmann-2019-crowdsourcing-science.md": "c-000097",
+        "wiki/entities/Eric Uhlmann.md": "c-000098",
+        "wiki/concepts/Crowdsourcing Science.md": "c-000099",
+        "wiki/concepts/Vertical Integration (Science).md": "c-000100",
+        "wiki/concepts/Horizontal Distribution (Science).md": "c-000101",
+        "wiki/concepts/Many Labs.md": "c-000102",
+        "wiki/concepts/Matthew Effect (Science).md": "c-000103"
+      }
     }
   },
   "address_map": {
@@ -330,7 +392,7 @@
     "wiki/entities/Etienne LeBel.md": "c-000034",
     "wiki/entities/Jens Lehmann.md": "c-000035",
     "wiki/entities/Christian Bizer.md": "c-000036",
-    "wiki/entities/Marcus Munafò.md": "c-000037",
+    "wiki/entities/Marcus Munaf\u00f2.md": "c-000037",
     "wiki/entities/John Ioannidis.md": "c-000038",
     "wiki/entities/Center for Open Science.md": "c-000039",
     "wiki/entities/Open Science Collaboration.md": "c-000040",
@@ -352,31 +414,22 @@
     "wiki/concepts/Persistent Wiki Artifact.md": "c-000056",
     "wiki/concepts/Query-Time Retrieval.md": "c-000057",
     "wiki/concepts/Source-First Synthesis.md": "c-000058",
-    "wiki/sources/dimaggio-powell-1983-institutional-isomorphism.md": "c-000059",
-    "wiki/concepts/Institutional Isomorphism.md": "c-000060",
-    "wiki/concepts/Organizational Field.md": "c-000061",
-    "wiki/entities/Paul DiMaggio.md": "c-000062",
-    "wiki/entities/Walter Powell.md": "c-000063",
-    "wiki/sources/nosek-bar-anan-2012-scientific-utopia-i.md": "c-000064",
-    "wiki/concepts/Open Access.md": "c-000065",
-    "wiki/concepts/Scientific Communication Reform.md": "c-000066",
-    "wiki/entities/Yoav Bar-Anan.md": "c-000067",
-    "wiki/entities/Wolf Vanpaemel.md": "c-000068",
-    "wiki/sources/nosek-2012-scientific-utopia-ii.md": "c-000069",
-    "wiki/concepts/Conflict of Interest in Science.md": "c-000070",
-    "wiki/concepts/Motivated Reasoning.md": "c-000071",
-    "wiki/concepts/Open Workflow.md": "c-000072",
-    "wiki/concepts/Paradigm-Driven Research.md": "c-000073",
-    "wiki/sources/yost-plunkett-2010-ten-catalysts.md": "c-000075",
-    "wiki/entities/Paul Yost.md": "c-000076",
-    "wiki/entities/Mary Plunkett.md": "c-000077",
-    "wiki/concepts/On-the-Job Development.md": "c-000078",
-    "wiki/concepts/Leadership Map.md": "c-000079",
-    "wiki/concepts/Learning Agility.md": "c-000080",
-    "wiki/concepts/Personal Advisory Board.md": "c-000081",
-    "wiki/concepts/Transition Checklist.md": "c-000082",
-    "wiki/concepts/70-20-10 Rule.md": "c-000083",
-    "wiki/concepts/Developmental Experiences.md": "c-000084",
-    "wiki/entities/Morgan McCall.md": "c-000085"
+    "wiki/concepts/Complex Visibility.md": "c-000090",
+    "wiki/concepts/Hypervisibility.md": "c-000091",
+    "wiki/concepts/Invisibility (Career).md": "c-000092",
+    "wiki/concepts/Managed Visibility.md": "c-000093",
+    "wiki/concepts/Outsider-Within Status.md": "c-000094",
+    "wiki/concepts/Subjective Career Success.md": "c-000095",
+    "wiki/concepts/Glass Cliff.md": "c-000096",
+    "wiki/sources/beigi-2025-career-success-minority.md": "c-000087",
+    "wiki/entities/Mina Beigi.md": "c-000088",
+    "wiki/entities/Melika Shirmohammadi.md": "c-000089",
+    "wiki/sources/uhlmann-2019-crowdsourcing-science.md": "c-000097",
+    "wiki/entities/Eric Uhlmann.md": "c-000098",
+    "wiki/concepts/Crowdsourcing Science.md": "c-000099",
+    "wiki/concepts/Vertical Integration (Science).md": "c-000100",
+    "wiki/concepts/Horizontal Distribution (Science).md": "c-000101",
+    "wiki/concepts/Many Labs.md": "c-000102",
+    "wiki/concepts/Matthew Effect (Science).md": "c-000103"
   }
 }

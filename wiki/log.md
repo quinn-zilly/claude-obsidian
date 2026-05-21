@@ -13,6 +13,21 @@ related:
   - "[[sources/_index]]"
 ---
 
+## 2026-05-21 | ingest | Uhlmann et al. 2019 — Scientific Utopia III: Crowdsourcing Science
+- Source: `.raw/Uhlmann et al. - 2019 - Scientific Utopia III Crowdsourcing Science.pdf`
+- Summary: [[uhlmann-2019-crowdsourcing-science]]
+- Pages created: [[uhlmann-2019-crowdsourcing-science]], [[Eric Uhlmann]], [[Crowdsourcing Science]], [[Vertical Integration (Science)]], [[Horizontal Distribution (Science)]], [[Many Labs]], [[Matthew Effect (Science)]]
+- Pages updated: [[Replication Crisis]], [[index]], [[log]], [[hot]]
+- Addresses: c-000097 through c-000103
+
+## 2026-05-21 | ingest | Beigi et al. 2025 — Career Success and Minority Status
+- Source: `.raw/Beigi et al. - 2025 - Career Success and Minority Status A Review and Conceptual Framework.pdf`
+- Summary: [[beigi-2025-career-success-minority]]
+- Pages created: [[beigi-2025-career-success-minority]], [[Mina Beigi]], [[Melika Shirmohammadi]], [[Complex Visibility]], [[Hypervisibility]], [[Invisibility (Career)]], [[Managed Visibility]], [[Outsider-Within Status]], [[Subjective Career Success]], [[Glass Cliff]]
+- Pages updated: [[On-the-Job Development]], [[index]], [[log]], [[hot]]
+- Addresses: c-000087 through c-000096
+- New domain opened: Career Success / DEI (7th domain)
+
 ## 2026-05-21 | ingest | Ten Catalysts (Yost & Plunkett 2010)
 - Source: `.raw/Ten Catalysts, Yost & Plunkett 2010.pdf`
 - Summary: [[yost-plunkett-2010-ten-catalysts]]
