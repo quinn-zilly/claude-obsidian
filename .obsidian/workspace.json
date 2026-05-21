@@ -11,17 +11,14 @@
             "id": "67bb53519bf78971",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "wiki/Wiki Map.canvas",
-                "viewState": {
-                  "x": -43.5,
-                  "y": 629,
-                  "zoom": -1.8794625113292942
-                }
+                "file": "wiki/sources/kraiger-ford-2021-workplace-instruction.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Wiki Map"
+              "icon": "lucide-file",
+              "title": "kraiger-ford-2021-workplace-instruction"
             }
           }
         ]
@@ -208,8 +205,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "67bb53519bf78971",
+  "active": "5565f1231fe95c42",
   "lastOpenFiles": [
+    "wiki/concepts/Desirable Difficulties.md",
+    "wiki/concepts/Learning vs Performance Distinction.md",
+    "wiki/sources/soderstrom-bjork-2015-learning-vs-performance.md",
+    "wiki/sources/soderstrom-bjork-2015-learning-vs-performance.md.tmp.23004.b32c523289f9",
+    "wiki/concepts/Instructional Principles.md",
+    "wiki/sources/kraiger-ford-2021-workplace-instruction.md",
+    "wiki/concepts/Transactive Memory Systems.md",
+    "wiki/concepts/Science of Workplace Instruction.md",
+    "wiki/sources/kraiger-ford-2021-workplace-instruction.md.tmp.14000.dd8dcf960677",
+    "wiki/sources/ren-argote-2011-tms.md",
+    "wiki/hot.md.tmp.7924.977a8533e67f",
+    "wiki/log.md.tmp.7924.a71e35f53b09",
+    "wiki/sources/uhlmann-2019-crowdsourcing-science.md",
+    "wiki/Wiki Map.canvas",
+    "wiki/sources/ren-argote-2011-tms.md.tmp.7924.ab0cd038fe6c",
+    "wiki/Wiki Map.md",
     "wiki/concepts/_index.md",
     "wiki/concepts/HARKing.md",
     "wiki/log.md.tmp.17396.5199d72d544f",
@@ -222,14 +235,8 @@
     "wiki/sources/giner-sorolla-2012-science-or-art.md",
     "wiki/sources/giner-sorolla-2012-science-or-art.md.tmp.17396.20490f005b8b",
     "CLAUDE.md",
-    "wiki/hot.md.tmp.28556.07f6a12438ec",
     "AGENTS.md",
-    "wiki/sources/uhlmann-2019-crowdsourcing-science.md",
     "wiki/sources/beigi-2025-career-success-minority.md",
-    "wiki/hot.md.tmp.23736.d132f0e69a5f",
-    "wiki/hot.md.tmp.23736.3829446e629b",
-    "wiki/hot.md.tmp.23736.c0ab009895e5",
-    "wiki/hot.md.tmp.23736.b351f651f38c",
     "wiki/concepts/Hypervisibility.md",
     "wiki/concepts/Complex Visibility.md",
     "wiki/concepts/Matthew Effect (Science).md",
@@ -237,18 +244,8 @@
     "wiki/concepts/Horizontal Distribution (Science).md",
     "wiki/concepts/Vertical Integration (Science).md",
     "wiki/concepts/Crowdsourcing Science.md",
-    "wiki/entities/Eric Uhlmann.md",
-    "wiki/sources/nosek-2012-scientific-utopia-ii.md",
-    "wiki/sources/yost-plunkett-2010-ten-catalysts.md",
-    "wiki/concepts/Glass Cliff.md",
-    "wiki/concepts/Subjective Career Success.md",
-    "wiki/concepts/Outsider-Within Status.md",
-    "wiki/concepts/Managed Visibility.md",
-    "wiki/concepts/Invisibility (Career).md",
-    "wiki/entities/Melika Shirmohammadi.md",
     "wiki/canvases/main.canvas",
     "wiki/canvases/welcome.canvas",
-    "wiki/Wiki Map.canvas",
     "wiki/canvases/claude-obsidian-presentation.canvas",
     "wiki/canvases/youtube-explainer.canvas",
     "wiki/meta/wiki-graph-grow.gif",
