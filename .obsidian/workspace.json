@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GEMINI.md",
+                "file": "wiki/meta/2026-04-10-backlink-empire-session.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GEMINI"
+              "title": "2026-04-10-backlink-empire-session"
             }
           }
         ]
@@ -187,7 +187,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 483.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -205,10 +205,32 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5565f1231fe95c42",
+  "active": "09ab3ae7e6d7f76f",
   "lastOpenFiles": [
-    "CLAUDE.md",
+    "wiki/meta/2026-04-10-backlink-empire-session.md",
+    "wiki/meta/workflow-loop.gif",
+    "wiki/meta/wiki-graph-grow.gif",
+    "wiki/meta/welcome-canvas.gif",
+    "wiki/meta/tiling-report-2026-04-24.md",
+    "wiki/meta/lint-report-2026-05-21.md",
+    "wiki/meta/lint-report-2026-05-20.md",
+    "wiki/meta/lint-report-2026-05-19.md",
+    "wiki/meta/image-example-wiki-map-view.png",
+    "wiki/meta/image-example-graph-view.png",
+    "wiki/meta/full-audit-and-system-setup-session.md",
+    "wiki/meta/dragonscale-mechanism-overview.png",
+    "wiki/meta/dragonscale-mechanism-overview.svg",
+    "wiki/meta/dragonscale-frontier-graph.png",
+    "wiki/meta/dragonscale-frontier-graph.svg",
+    "wiki/meta/dragonscale-6-test-flow.png",
+    "wiki/meta/2026-04-14-claude-seo-v190-session.md",
+    "wiki/meta/2026-04-24-v1.6.0-release-session.md",
+    "wiki/meta/2026-04-14-community-cta-rollout.md",
+    "wiki/meta/2026-04-15-release-report-session.md",
+    "wiki/questions/How does the LLM Wiki pattern work.md",
+    "docs/dragonscale-guide.md",
     "GEMINI.md",
+    "CLAUDE.md",
     "CHANGELOG.md",
     "ATTRIBUTION.md",
     "AGENTS.md",
@@ -217,43 +239,23 @@
     "wiki/concepts/Instructional Principles.md",
     "wiki/sources/kraiger-ford-2021-workplace-instruction.md",
     "wiki/concepts/Desirable Difficulties.md",
-    "wiki/meta/lint-report-2026-05-21.md",
     "WIKI.md",
     "wiki/concepts/Learning vs Performance Distinction.md",
     "wiki/sources/soderstrom-bjork-2015-learning-vs-performance.md.tmp.23004.b32c523289f9",
     "wiki/concepts/Transactive Memory Systems.md",
-    "wiki/concepts/Science of Workplace Instruction.md",
     "wiki/sources/kraiger-ford-2021-workplace-instruction.md.tmp.14000.dd8dcf960677",
-    "wiki/sources/ren-argote-2011-tms.md",
     "wiki/hot.md.tmp.7924.977a8533e67f",
     "wiki/log.md.tmp.7924.a71e35f53b09",
-    "wiki/sources/uhlmann-2019-crowdsourcing-science.md",
     "wiki/Wiki Map.canvas",
     "wiki/sources/ren-argote-2011-tms.md.tmp.7924.ab0cd038fe6c",
-    "wiki/Wiki Map.md",
-    "wiki/concepts/_index.md",
-    "wiki/concepts/HARKing.md",
     "wiki/log.md.tmp.17396.5199d72d544f",
     "wiki/hot.md.tmp.17396.8af68c45ebb4",
     "wiki/index.md.tmp.17396.4f4dad18091e",
     "wiki/index.md.tmp.17396.92052c7e2b0f",
-    "wiki/concepts/Aesthetic Standards in Science.md",
-    "wiki/concepts/Publication Bottleneck.md",
-    "wiki/entities/Roger Giner-Sorolla.md",
-    "wiki/sources/giner-sorolla-2012-science-or-art.md",
     "wiki/sources/giner-sorolla-2012-science-or-art.md.tmp.17396.20490f005b8b",
-    "wiki/sources/beigi-2025-career-success-minority.md",
-    "wiki/concepts/Hypervisibility.md",
     "wiki/canvases/main.canvas",
     "wiki/canvases/welcome.canvas",
     "wiki/canvases/claude-obsidian-presentation.canvas",
-    "wiki/canvases/youtube-explainer.canvas",
-    "wiki/meta/wiki-graph-grow.gif",
-    "wiki/meta/welcome-canvas.gif",
-    "wiki/meta/dragonscale-mechanism-overview.png",
-    "wiki/meta/dragonscale-frontier-graph.svg",
-    "wiki/meta/dragonscale-frontier-graph.png",
-    "wiki/meta/claude-obsidian-cover-square.png",
-    "wiki/meta/claude-obsidian-gif-1x1.gif"
+    "wiki/canvases/youtube-explainer.canvas"
   ]
 }
