@@ -13,10 +13,11 @@ Nav: [[index]] | [[log]] | [[overview]]
 
 ## State
 
-2026-05-21. Counter: c-000107. Pages: 135. Sources: 24.
+2026-05-21. Counter: c-000127. Pages: 137. Sources: 25.
 
 ## Recent Ingests
 
+- **(2) Kerr 1998:** 2p — [[kerr-1998-harking]], [[Norbert Kerr]]. Updated [[HARKing]] (developing → mature). *Origin paper for HARKing. Three forms: Type 1 (present post-hoc as a priori), Type 2 (omit failed a priori hypotheses), Type 3 (pirate others' unexpected findings). Mechanisms: hindsight bias + hypothetico-deductive norm + publication bias + no audit trail. Key: HARKing is cognitive/social failure, not fraud → ethics appeals fail → structural fix (preregistration) required. Anticipates full open science reform agenda a decade early.*
 - **(1) Ren & Argote 2011:** 1p — [[ren-argote-2011-tms]]. Enhanced [[Transactive Memory Systems]]. *Review of 76 papers on TMS (1985–2010). Three dimensions: specialization (division of labor), credibility (trust), coordination (smooth operation). Antecedents: group training, communication, shared experience, task interdependence. Consequences: learning, creativity, performance, satisfaction. Key gaps: virtual teams, entrepreneurial ventures, org-level TMS.*
 - **(4) Giner-Sorolla 2012:** 4p — [[giner-sorolla-2012-science-or-art]], [[Roger Giner-Sorolla]], [[Publication Bottleneck]], [[Aesthetic Standards in Science]]. +xref [[Replication Crisis]], [[Publication Bias]], [[HARKing]]
 - **(3) Uhlmann 2019 (Utopia III):** 7p — [[uhlmann-2019-crowdsourcing-science]], [[Eric Uhlmann]], [[Crowdsourcing Science]], [[Vertical Integration (Science)]], [[Horizontal Distribution (Science)]], [[Many Labs]], [[Matthew Effect (Science)]]. +xref [[Replication Crisis]]
