@@ -135,6 +135,7 @@ Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[
 - [[Melika Shirmohammadi]] — University of Houston; career development, diversity; Beigi co-author (developing)
 - [[Eric Uhlmann]] — INSEAD Singapore; crowdsourcing science; Silberzahn many-analysts project; Scientific Utopia III lead author (developing)
 - [[Roger Giner-Sorolla]] — University of Kent; social psychologist; "Science or Art?" 2012; information-economic bottleneck account of replication crisis (developing)
+- [[Norbert Kerr]] — Michigan State University; social psychologist; coined HARKing (1998); foundational to open science reform literature (stub)
 
 ---
 
