@@ -67,7 +67,7 @@ Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[
 - [[Registered Reports]] — in-principle journal acceptance before results known; eliminates publication bias (developing)
 - [[Publication Bias]] — file drawer problem; positive results disproportionately published; inflates effect sizes (developing)
 - [[P-hacking]] — analytic flexibility inflating false-positive rates; garden of forking paths (developing)
-- [[HARKing]] — Hypothesizing After Results are Known; post-hoc hypotheses presented as a priori (developing)
+- [[HARKing]] — Hypothesizing After Results are Known; post-hoc hypotheses presented as a priori; three forms: classic, omission, pirating (mature)
 - [[Analytic Reproducibility]] — reproducing published results from same data; second dimension of credibility framework (developing)
 - [[Open Access]] — freely accessible scientific literature; gold vs green OA models; $900M savings argument; pillar of open science (developing)
 - [[Scientific Communication Reform]] — unbundling registration, dissemination, peer review, and archiving; six reforms from Nosek & Bar-Anan (developing)
