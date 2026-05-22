@@ -1,15 +1,5 @@
 {
-  "env": {
-    "ANTHROPIC_BASE_URL": "https://openrouter.ai/api",
-    "ANTHROPIC_AUTH_TOKEN": "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",
-    "ANTHROPIC_API_KEY": "",
-    "ANTHROPIC_MODEL": "google/gemma-4-31b-it:free",
-    "ANTHROPIC_DEFAULT_SONNET_MODEL": "google/gemma-4-31b-it:free",
-    "ANTHROPIC_DEFAULT_OPUS_MODEL": "google/gemma-4-31b-it:free",
-    "ANTHROPIC_DEFAULT_HAIKU_MODEL": "google/gemma-4-31b-it:free",
-    "ANTHROPIC_SMALL_FAST_MODEL": "google/gemma-4-31b-it:free",
-    "CLAUDE_CODE_SUBAGENT_MODEL": "google/gemma-4-31b-it:free"
-  },
+
   "permissions": {
     "allow": [
       "Bash(python -c ' *)",
