@@ -13,10 +13,11 @@ Nav: [[index]] | [[log]] | [[overview]]
 
 ## State
 
-2026-05-21. Counter: c-000127. Pages: 137. Sources: 25.
+2026-05-21. Counter: c-000136. Pages: 148. Sources: 26.
 
 ## Recent Ingests
 
+- **(NEW) Micelotta, Lounsbury & Greenwood 2017:** 10p — [[micelotta-2017-pathways-institutional-change]], [[Institutional Change Pathways]], [[Institutional Entrepreneurship]], [[Institutional Displacement]], [[Institutional Alignment]], [[Institutional Accommodation]], [[Institutional Accretion]], [[Evelyn Micelotta]], [[Michael Lounsbury]], [[Royston Greenwood]]. +xref [[Institutional Isomorphism]], [[Organizational Field]]. *Integrative review of 119 institutional change studies (1990–2015). 2×2 typology: scope (transformational/developmental) × pace (revolutionary/evolutionary) → 4 pathways. Displacement (47 studies) and Alignment (46) dominate; Accommodation (15) and Accretion (11) understudied. Key move: abandoning linear causality assumption (revolutionary≠transformational; evolutionary≠modest). Accretion = most theoretically novel — micro-level improvisations accumulate without intent into field-level transformation. Institutional logics perspective as integrative meta-theory.*
 - **(2) Kerr 1998:** 2p — [[kerr-1998-harking]], [[Norbert Kerr]]. Updated [[HARKing]] (developing → mature). *Origin paper for HARKing. Three forms: Type 1 (present post-hoc as a priori), Type 2 (omit failed a priori hypotheses), Type 3 (pirate others' unexpected findings). Mechanisms: hindsight bias + hypothetico-deductive norm + publication bias + no audit trail. Key: HARKing is cognitive/social failure, not fraud → ethics appeals fail → structural fix (preregistration) required. Anticipates full open science reform agenda a decade early.*
 - **(1) Ren & Argote 2011:** 1p — [[ren-argote-2011-tms]]. Enhanced [[Transactive Memory Systems]]. *Review of 76 papers on TMS (1985–2010). Three dimensions: specialization (division of labor), credibility (trust), coordination (smooth operation). Antecedents: group training, communication, shared experience, task interdependence. Consequences: learning, creativity, performance, satisfaction. Key gaps: virtual teams, entrepreneurial ventures, org-level TMS.*
 - **(4) Giner-Sorolla 2012:** 4p — [[giner-sorolla-2012-science-or-art]], [[Roger Giner-Sorolla]], [[Publication Bottleneck]], [[Aesthetic Standards in Science]]. +xref [[Replication Crisis]], [[Publication Bias]], [[HARKing]]
@@ -62,6 +63,16 @@ Nav: [[index]] | [[log]] | [[overview]]
 - Outsider-Within Status ↔ Microfoundations: outsider-within perspective = individual epistemic resource that microfoundations can't model without identity dynamics
 - Glass Cliff ↔ Developmental Experiences: dark-side inversion of turnaround/stretch OJD — high potential, no support, disproportionate blame
 - Subjective Career Success ↔ OJD: authenticity prerequisite for OJD yield; managed visibility burden blocks OJD access
+
+**Micelotta 2017 batch:**
+- Institutional Accretion ↔ Microfoundations: both theorize how individual-level variation aggregates into collective outcomes; accretion = emergent (not additive) aggregation in institutional theory
+- Institutional Accommodation ↔ Institutional Isomorphism: coercive + normative isomorphism are the dampening mechanisms that turn would-be Displacement into Accommodation
+- Institutional Accretion ↔ HARKing / P-hacking: p-hacking and HARKing may be *accreted* field norms — micro-level practices adopted pragmatically (not strategically) that accumulated into a field-level replication crisis; fixing them requires displacement not alignment
+- Institutional Accretion ↔ Organizational Learning: both trace how localized, uncoordinated practice variation can transform organizational/field-level knowledge bases
+- Institutional Alignment ↔ Knowledge Transfer: legitimation strategies in alignment are knowledge-transfer mechanisms — making new practices legible to field audiences
+- Embedded Agency Paradox ↔ Motivated Reasoning: actors don't experience institutional constraints as constraints (just as researchers don't experience p-hacking as bias); both require structural interventions, not just awareness
+- Institutional Pluralism ↔ Complex Visibility: pluralistic fields (multiple logics) create differential complexity experiences that track minority/majority status — parallel to Beigi's outsider-within
+- Institutional Displacement ↔ Open Science Reform: OSC 2015 + reform agenda = displacement attempt; replication crisis = exogenous jolt; preregistration/registered reports = new institutional logic for science
 
 **Yost batch:**
 - OJD ↔ Knowledge Transfer: OJD = tacit KT via experience

@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "a98f5dde059a7b25",
+        "id": "945d001b692f2a27",
         "type": "tabs",
         "children": [
           {
-            "id": "9934e8b9cfec50af",
+            "id": "556a2dbc5be43b07",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "wiki/meta/2026-04-10-backlink-empire-session.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2026-04-10-backlink-empire-session"
+              "title": "New tab"
             }
           }
         ]
@@ -78,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 388.5
+    "width": 617.5
   },
   "right": {
     "id": "7092b65be1e76349",
@@ -173,7 +169,19 @@
             }
           },
           {
-            "id": "09ab3ae7e6d7f76f",
+            "id": "d781d8bf912a58e3",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "Excalidraw/GitHub Slides.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties for GitHub Slides"
+            }
+          },
+          {
+            "id": "673151f542aae49d",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -183,15 +191,14 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 483.5
+    "width": 292.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-excalidraw-plugin:New drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -199,14 +206,47 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
       "templater-obsidian:Templater": false,
       "obsidian-memos:Thino": false,
       "obsidian-memos:Thino Super": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "09ab3ae7e6d7f76f",
+  "active": "5565f1231fe95c42",
   "lastOpenFiles": [
+    "wiki/log.md.tmp.27016.89fb775d8661",
+    "wiki/index.md.tmp.27016.bf3b670e5ea9",
+    "wiki/concepts/Institutional Isomorphism.md.tmp.27016.ea2217ecdd8e",
+    "wiki/entities/Royston Greenwood.md",
+    "wiki/entities/Michael Lounsbury.md",
+    "wiki/entities/Evelyn Micelotta.md",
+    "wiki/entities/Evelyn Micelotta.md.tmp.27016.e85faad3f847",
+    "wiki/concepts/Institutional Accretion.md",
+    "wiki/concepts/Institutional Accommodation.md",
+    "wiki/concepts/Institutional Alignment.md",
+    "wiki/concepts/Institutional Displacement.md",
+    "wiki/concepts/Institutional Entrepreneurship.md",
+    "wiki/concepts/Institutional Change Pathways.md",
+    "wiki/sources/micelotta-2017-pathways-institutional-change.md",
+    "wiki/concepts/HARKing.md",
+    "wiki/sources/kerr-1998-harking.md",
+    "Excalidraw/GitHub Slides.md",
+    "wiki/hot.md.tmp.29808.2887b56ef7e7",
+    "wiki/log.md.tmp.29808.216d5d34eb54",
+    "wiki/index.md.tmp.29808.fe1a4b693f1a",
+    "wiki/concepts/HARKing.md.tmp.29808.0d5b7a8bbe09",
+    "wiki/entities/Norbert-Kerr.md",
+    "wiki/sources/yost-plunkett-2010-ten-catalysts.md",
+    "wiki/meta/Download-Git.png",
+    "Untitled.canvas",
+    "wiki/sources/beigi-2025-career-success-minority.md",
+    "wiki/meta/Repo-Homepage.png",
+    "wiki/meta/GitHub-Homepage.png",
+    "wiki/concepts/Learning vs Performance Distinction.md",
+    "wiki/concepts/Desirable Difficulties.md",
+    "wiki/sources/soderstrom-bjork-2015-learning-vs-performance.md",
+    "wiki/concepts/Glass Cliff.md",
     "wiki/meta/2026-04-10-backlink-empire-session.md",
     "wiki/meta/workflow-loop.gif",
     "wiki/meta/wiki-graph-grow.gif",
@@ -217,42 +257,12 @@
     "wiki/meta/lint-report-2026-05-19.md",
     "wiki/meta/image-example-wiki-map-view.png",
     "wiki/meta/image-example-graph-view.png",
-    "wiki/meta/full-audit-and-system-setup-session.md",
     "wiki/meta/dragonscale-mechanism-overview.png",
     "wiki/meta/dragonscale-mechanism-overview.svg",
-    "wiki/meta/dragonscale-frontier-graph.png",
-    "wiki/meta/dragonscale-frontier-graph.svg",
-    "wiki/meta/dragonscale-6-test-flow.png",
-    "wiki/meta/2026-04-14-claude-seo-v190-session.md",
-    "wiki/meta/2026-04-24-v1.6.0-release-session.md",
-    "wiki/meta/2026-04-14-community-cta-rollout.md",
-    "wiki/meta/2026-04-15-release-report-session.md",
-    "wiki/questions/How does the LLM Wiki pattern work.md",
-    "docs/dragonscale-guide.md",
-    "GEMINI.md",
-    "CLAUDE.md",
-    "CHANGELOG.md",
-    "ATTRIBUTION.md",
-    "AGENTS.md",
-    "wiki/sources/soderstrom-bjork-2015-learning-vs-performance.md",
-    "wiki/concepts/Spacing Effect.md",
-    "wiki/concepts/Instructional Principles.md",
-    "wiki/sources/kraiger-ford-2021-workplace-instruction.md",
-    "wiki/concepts/Desirable Difficulties.md",
-    "WIKI.md",
-    "wiki/concepts/Learning vs Performance Distinction.md",
     "wiki/sources/soderstrom-bjork-2015-learning-vs-performance.md.tmp.23004.b32c523289f9",
-    "wiki/concepts/Transactive Memory Systems.md",
     "wiki/sources/kraiger-ford-2021-workplace-instruction.md.tmp.14000.dd8dcf960677",
     "wiki/hot.md.tmp.7924.977a8533e67f",
-    "wiki/log.md.tmp.7924.a71e35f53b09",
     "wiki/Wiki Map.canvas",
-    "wiki/sources/ren-argote-2011-tms.md.tmp.7924.ab0cd038fe6c",
-    "wiki/log.md.tmp.17396.5199d72d544f",
-    "wiki/hot.md.tmp.17396.8af68c45ebb4",
-    "wiki/index.md.tmp.17396.4f4dad18091e",
-    "wiki/index.md.tmp.17396.92052c7e2b0f",
-    "wiki/sources/giner-sorolla-2012-science-or-art.md.tmp.17396.20490f005b8b",
     "wiki/canvases/main.canvas",
     "wiki/canvases/welcome.canvas",
     "wiki/canvases/claude-obsidian-presentation.canvas",

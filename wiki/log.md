@@ -13,6 +13,13 @@ related:
   - "[[sources/_index]]"
 ---
 
+## 2026-05-21 | ingest | Micelotta, Lounsbury & Greenwood 2017 — Pathways of Institutional Change
+- Source: `.raw/Micelotta et al. - 2017 - Pathways of Institutional Change.pdf` (Zotero: QQ8YAN2H)
+- Summary: [[micelotta-2017-pathways-institutional-change]]
+- Pages created: [[micelotta-2017-pathways-institutional-change]], [[Institutional Change Pathways]], [[Institutional Entrepreneurship]], [[Institutional Displacement]], [[Institutional Alignment]], [[Institutional Accommodation]], [[Institutional Accretion]], [[Evelyn Micelotta]], [[Michael Lounsbury]], [[Royston Greenwood]]
+- Pages updated: [[Institutional Isomorphism]] (+xref Institutional Change Pathways), [[Organizational Field]] (+xref Institutional Change Pathways), [[index]], [[log]], [[hot]]
+- Key insight: The 2×2 typology (scope × pace) reveals that accommodation and accretion — the least-studied pathways — require abandoning the linear causality assumption (revolutionary→transformation, evolutionary→modest change). Accretion is the most theoretically novel: micro-level improvisations that no one intends to be institutional change can accumulate into field-level transformation.
+
 ## 2026-05-21 | ingest | Kerr 1998 — HARKing: Hypothesizing After the Results are Known
 - Source: `.raw/Kerr - 1998 - HARKing Hypothesizing After the Results are Known.pdf`
 - Summary: [[kerr-1998-harking]]

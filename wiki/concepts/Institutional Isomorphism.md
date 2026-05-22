@@ -17,6 +17,8 @@ related:
   - "[[Microfoundations]]"
   - "[[Knowledge Transfer]]"
   - "[[Replication Crisis]]"
+  - "[[Institutional Change Pathways]]"
+  - "[[micelotta-2017-pathways-institutional-change]]"
 ---
 
 # Institutional Isomorphism
@@ -50,3 +52,4 @@ Explains observed organizational homogeneity without invoking competitive select
 - [[Organizational Learning]]: mimetic isomorphism is a form of vicarious organizational learning
 - [[Replication Crisis]]: methodological norms in science are subject to normative isomorphism — shared training, journal conventions, and credential filtering may produce correlated analytical choices and shared blind spots across research labs
 - [[Knowledge-Based View of the Firm]]: tension — KBV seeks sources of *differentiation*; institutional theory explains *homogenizing* forces. Both are needed to understand why firms are simultaneously similar and different
+- [[Institutional Change Pathways]]: the three isomorphic mechanisms are the *stability-maintaining* forces that each change pathway must work with or against; displacement breaks the isomorphic equilibrium, while alignment works *through* normative isomorphism

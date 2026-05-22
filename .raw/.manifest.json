@@ -140,7 +140,7 @@
         "wiki/log.md"
       ]
     },
-    ".raw/Grant - 1996 - Toward a knowledge\u2010based theory of the firm.pdf": {
+    ".raw/Grant - 1996 - Toward a knowledge‐based theory of the firm.pdf": {
       "hash": "7d902355cea11975fe184ee416d50a3c",
       "ingested_at": "2026-05-19",
       "pages_created": [
@@ -170,7 +170,7 @@
         "wiki/log.md"
       ]
     },
-    ".raw/Lehmann et al. - 2015 - DBpedia \u2013 A large-scale, multilingual knowledge base extracted from Wikipedia.pdf": {
+    ".raw/Lehmann et al. - 2015 - DBpedia – A large-scale, multilingual knowledge base extracted from Wikipedia.pdf": {
       "hash": "113915904e64333ad5d819640b1b2935",
       "ingested_at": "2026-05-19",
       "pages_created": [
@@ -185,12 +185,12 @@
         "wiki/log.md"
       ]
     },
-    ".raw/Munaf\u00f2 et al. - 2017 - A manifesto for reproducible science.pdf": {
+    ".raw/Munafò et al. - 2017 - A manifesto for reproducible science.pdf": {
       "hash": "4ab499001cf6a2c6396e6f586a735009",
       "ingested_at": "2026-05-19",
       "pages_created": [
         "wiki/sources/munafo-2017-manifesto.md",
-        "wiki/entities/Marcus Munaf\u00f2.md",
+        "wiki/entities/Marcus Munafò.md",
         "wiki/entities/John Ioannidis.md"
       ],
       "pages_updated": [
@@ -387,7 +387,7 @@
         "wiki/hot.md"
       ]
     },
-    ".raw/Ren and Argote - 2011 - Transactive Memory Systems 1985\u20132010 An Integrative Framework of Key Dimensions, Antecedents, and C.pdf": {
+    ".raw/Ren and Argote - 2011 - Transactive Memory Systems 1985–2010 An Integrative Framework of Key Dimensions, Antecedents, and C.pdf": {
       "hash": "d77ca3e481efe6c6ab0d9060caa1708a",
       "ingested_at": "2026-05-21",
       "pages_created": [
@@ -395,6 +395,29 @@
       ],
       "pages_updated": [
         "wiki/concepts/Transactive Memory Systems.md",
+        "wiki/index.md",
+        "wiki/log.md",
+        "wiki/hot.md"
+      ]
+    },
+    ".raw/Micelotta et al. - 2017 - Pathways of institutional change An integrative review and research agenda..pdf": {
+      "hash": "dbdbefd8cb417170f64327cb8f8236a6",
+      "ingested_at": "2026-05-21",
+      "pages_created": [
+        "wiki/sources/micelotta-2017-pathways-institutional-change.md",
+        "wiki/concepts/Institutional Change Pathways.md",
+        "wiki/concepts/Institutional Entrepreneurship.md",
+        "wiki/concepts/Institutional Displacement.md",
+        "wiki/concepts/Institutional Alignment.md",
+        "wiki/concepts/Institutional Accommodation.md",
+        "wiki/concepts/Institutional Accretion.md",
+        "wiki/entities/Evelyn Micelotta.md",
+        "wiki/entities/Michael Lounsbury.md",
+        "wiki/entities/Royston Greenwood.md"
+      ],
+      "pages_updated": [
+        "wiki/concepts/Institutional Isomorphism.md",
+        "wiki/concepts/Organizational Field.md",
         "wiki/index.md",
         "wiki/log.md",
         "wiki/hot.md"
@@ -437,7 +460,7 @@
     "wiki/entities/Etienne LeBel.md": "c-000034",
     "wiki/entities/Jens Lehmann.md": "c-000035",
     "wiki/entities/Christian Bizer.md": "c-000036",
-    "wiki/entities/Marcus Munaf\u00f2.md": "c-000037",
+    "wiki/entities/Marcus Munafò.md": "c-000037",
     "wiki/entities/John Ioannidis.md": "c-000038",
     "wiki/entities/Center for Open Science.md": "c-000039",
     "wiki/entities/Open Science Collaboration.md": "c-000040",
@@ -481,6 +504,16 @@
     "wiki/concepts/Publication Bottleneck.md": "c-000106",
     "wiki/concepts/Aesthetic Standards in Science.md": "c-000107",
     "wiki/sources/kerr-1998-harking.md": "c-000125",
-    "wiki/entities/Norbert-Kerr.md": "c-000126"
+    "wiki/entities/Norbert-Kerr.md": "c-000126",
+    "wiki/sources/micelotta-2017-pathways-institutional-change.md": "c-000127",
+    "wiki/entities/Evelyn Micelotta.md": "c-000128",
+    "wiki/entities/Michael Lounsbury.md": "c-000129",
+    "wiki/entities/Royston Greenwood.md": "c-000130",
+    "wiki/concepts/Institutional Change Pathways.md": "c-000131",
+    "wiki/concepts/Institutional Entrepreneurship.md": "c-000132",
+    "wiki/concepts/Institutional Displacement.md": "c-000133",
+    "wiki/concepts/Institutional Alignment.md": "c-000134",
+    "wiki/concepts/Institutional Accommodation.md": "c-000135",
+    "wiki/concepts/Institutional Accretion.md": "c-000136"
   }
 }

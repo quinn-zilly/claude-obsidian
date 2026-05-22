@@ -23,7 +23,7 @@ related:
 
 # Wiki Index
 
-Last updated: 2026-05-21 | Total pages: 137 | Sources ingested: 25
+Last updated: 2026-05-21 | Total pages: 148 | Sources ingested: 26
 
 Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[getting-started]]
 
@@ -57,6 +57,12 @@ Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[
 - [[Microfoundations]] — individual-level mechanisms underlying collective outcomes; additive vs. emergent aggregation (developing)
 - [[Institutional Isomorphism]] — three mechanisms (coercive, mimetic, normative) by which organizations in a field converge structurally without efficiency gains (developing)
 - [[Organizational Field]] — the totality of relevant actors constituting a recognized area of institutional life; unit of analysis for isomorphism theory (developing)
+- [[Institutional Change Pathways]] — 2×2 typology: scope (transformational/developmental) × pace (revolutionary/evolutionary) yields Displacement, Alignment, Accommodation, Accretion (developing)
+- [[Institutional Entrepreneurship]] — agentic turn in institutional theory; paradox of embedded agency; cultural vs. disruptive strategies; key blind spots (developing)
+- [[Institutional Displacement]] — revolutionary + transformational: field-level overhaul via shocks or disruptive mobilization (developing)
+- [[Institutional Alignment]] — evolutionary + developmental: gradual embedding of innovation without displacing existing arrangements (developing)
+- [[Institutional Accommodation]] — revolutionary + developmental: disruptive forces dampened into incremental settlement (understudied) (developing)
+- [[Institutional Accretion]] — evolutionary + transformational: micro-level improvisations accumulate to produce field-level transformation (least studied) (developing)
 - [[Replication Crisis]] — systematic failures of replication in psychology; root causes: publication bias, p-hacking, HARKing (mature)
 - [[Open Science]] — transparency, open data, preregistration; reform movement for credible knowledge accumulation (mature)
 - [[Preregistration]] — committing to research design before data collection; separates confirmatory from exploratory (mature)
@@ -76,6 +82,12 @@ Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[
 - [[DBpedia]] — structured knowledge from 111 Wikipedia editions; 400M+ facts; central LOD hub (developing)
 - [[Linked Open Data]] — RDF/SPARQL-based best practices for publishing and connecting structured web data (developing)
 - [[On-the-Job Development]] — OJD; 70% of leadership development; experiences over training; ten catalysts to hardwire into HR (developing)
+
+### Entities (new)
+
+- [[Evelyn Micelotta]] — UNM; institutional change, institutional logics
+- [[Michael Lounsbury]] — U of Alberta; institutional logics perspective, cultural entrepreneurship
+- [[Royston Greenwood]] — U of Alberta; professional firms, organizational archetypes, institutional complexity
 - [[Leadership Map]] — four-dimension taxonomy: experiences, competencies, key relationships, learning agility; Yost & Plunkett (developing)
 - [[Learning Agility]] — dispositional capacity to extract lessons from experience; determines OJD yield (developing)
 - [[Developmental Experiences]] — curated work assignments that produce leadership growth; turnarounds, start-ups, cross-functional roles (developing)
