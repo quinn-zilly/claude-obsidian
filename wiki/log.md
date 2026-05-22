@@ -13,6 +13,13 @@ related:
   - "[[sources/_index]]"
 ---
 
+## 2026-05-21 | ingest | Kerr 1998 — HARKing: Hypothesizing After the Results are Known
+- Source: `.raw/Kerr - 1998 - HARKing Hypothesizing After the Results are Known.pdf`
+- Summary: [[kerr-1998-harking]]
+- Pages created: [[kerr-1998-harking]], [[Norbert Kerr]]
+- Pages updated: [[HARKing]] (developing → mature; expanded with three forms, mechanisms, cross-domain connections), [[index]]
+- Key insight: HARKing is primarily a cognitive failure (hindsight bias) plus a social norm failure (hypothetico-deductive presentational pressure) — not strategic fraud. This explains why ethics appeals alone fail as remedies and why preregistration (making HARKing *detectable*) is the right structural fix.
+
 ## 2026-05-21 | ingest | Ren & Argote 2011 — Transactive Memory Systems 1985–2010
 - Source: `.raw/Ren and Argote - 2011 - Transactive Memory Systems 1985–2010 An Integrative Framework of Key Dimensions, Antecedents, and C.pdf`
 - Summary: [[ren-argote-2011-tms]]
