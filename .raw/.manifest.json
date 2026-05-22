@@ -373,6 +373,20 @@
         "wiki/hot.md"
       ]
     },
+    ".raw/Kerr - 1998 - HARKing Hypothesizing After the Results are Known.pdf": {
+      "hash": "kerr-1998-harking-ingested",
+      "ingested_at": "2026-05-21",
+      "pages_created": [
+        "wiki/sources/kerr-1998-harking.md",
+        "wiki/entities/Norbert-Kerr.md"
+      ],
+      "pages_updated": [
+        "wiki/concepts/HARKing.md",
+        "wiki/index.md",
+        "wiki/log.md",
+        "wiki/hot.md"
+      ]
+    },
     ".raw/Ren and Argote - 2011 - Transactive Memory Systems 1985\u20132010 An Integrative Framework of Key Dimensions, Antecedents, and C.pdf": {
       "hash": "d77ca3e481efe6c6ab0d9060caa1708a",
       "ingested_at": "2026-05-21",
