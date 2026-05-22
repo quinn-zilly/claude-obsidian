@@ -71,6 +71,14 @@ Nav: [[index]] | [[log]] | [[overview]]
 - Institutional Isomorphism ↔ OJD: normative isomorphism in HR → convergent OJD frameworks via professional community
 - Knowing-Doing Gap ↔ Motivated Reasoning: both = not acting on known best practices; different mechanisms, same structure
 
+**Kerr 1998:**
+- HARKing ↔ Aesthetic Standards in Science: Giner-Sorolla's narrative conformity criterion = the social norm that makes Type 1 HARKing rewarded; same phenomenon, different framings (one psychological, one economic)
+- HARKing ↔ Motivated Reasoning: both invoke ordinary cognition under misaligned incentives; HARKing = motivated reasoning at the write-up stage
+- HARKing ↔ Publication Bottleneck: Kerr identifies publication bias as structural enabler; Giner-Sorolla's bottleneck is the upstream root cause — same pipeline
+- HARKing ↔ Conflict of Interest in Science: Nosek et al. 2012's "ordinary psychology" thesis = Kerr's hindsight bias thesis applied to the whole system; HARKing is the individual-level expression
+- HARKing ↔ Preregistration: Kerr proposes preregistration in 1998; Nosek 2018 operationalizes it 20 years later — direct intellectual lineage
+- HARKing Type 2 (omission) ↔ Publication Bias: the within-paper version of the file-drawer effect; same information suppression mechanism at different scales
+
 **Prior:**
 - metaBUS ↔ Knowledge Retention: meta-level KR for science
 - Preregistration ↔ Source-First Synthesis: both enforce temporal ordering
