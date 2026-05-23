@@ -13,6 +13,20 @@ related:
   - "[[sources/_index]]"
 ---
 
+## 2026-05-23 | ingest | Fulmer, Gerhart & Kim 2023 — Compensation and Performance: A Review and Recommendations for the Future
+- Source: `.raw/Fulmer et al. - 2023 - Compensation and performance A review and recommendations for the future.pdf`
+- Summary: [[fulmer-2023-compensation-performance]]
+- Pages created: [[Pay-for-Performance]], [[Incentive Effect (Compensation)]], [[Sorting Effect (Compensation)]], [[PFP Intensity]], [[Equal Compensation Principle]], [[Pay Dispersion]], [[Pay Transparency]], [[Ingrid Smithey Fulmer]], [[Barry Gerhart]], [[JiHyun Kim]]
+- Pages updated: [[index]], [[hot]]
+- Key insight: Sorting effects (workforce composition change via attraction/retention) are often *larger* than incentive effects (motivation of current workers) — Cadsby et al. (2007) found sorting ≈ 74% of total PFP advantage — yet most research designs (random assignment) cannot observe sorting, causing systematic underestimation of PFP's true value. The promotion channel (not annual merit) is where most real PFP intensity lies.
+
+## 2026-05-23 | ingest | Albarracín et al. 2024 — Determinants of Behaviour and Their Efficacy as Targets of Behavioural Change Interventions
+- Source: `.raw/Albarracín et al. - 2024 - Determinants of behaviour and their efficacy as targets of behavioural change interventions.pdf`
+- Summary: [[albarracin-2024-determinants-behaviour-change]]
+- Pages created: [[Behaviour Change Determinants]], [[Descriptive Norms]], [[Injunctive Norms]], [[Habits (Behaviour)]], [[Behavioural Access Interventions]], [[Social Support (Behaviour)]], [[Reasoned Action Approach]], [[Information-Motivation-Behavioural Skills Model]], [[Correlation-Intervention Gap (Behaviour)]], [[Dolores Albarracín]]
+- Pages updated: [[index]]
+- Key insight: Across behavioural domains, intervention targets ordered by increasing efficacy: knowledge < general skills < general attitudes < beliefs < emotions < behavioural skills < behavioural attitudes < habits (individual) and legal sanctions < trustworthiness < injunctive norms < monitors/reminders < descriptive norms < material incentives < social support < access (social-structural). Access has a large effect (OR≈4.89); knowledge has a negligible effect (OR≈1.11). The correlation-intervention gap means correlational evidence should never be used alone to select intervention targets.
+
 ## 2026-05-22 | ingest | Yarkoni & Westfall 2017 — Choosing Prediction Over Explanation in Psychology
 - Source: `.raw/Yarkoni and Westfall - 2017 - Choosing Prediction Over Explanation in Psychology Lessons From Machine Learning.pdf`
 - Summary: [[yarkoni-westfall-2017-prediction-vs-explanation]]

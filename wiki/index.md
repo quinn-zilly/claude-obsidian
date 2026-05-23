@@ -23,7 +23,7 @@ related:
 
 # Wiki Index
 
-Last updated: 2026-05-22 | Total pages: 159 | Sources ingested: 27
+Last updated: 2026-05-23 | Total pages: 180 | Sources ingested: 29
 
 Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[getting-started]]
 
@@ -89,6 +89,22 @@ Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[
 - [[DBpedia]] — structured knowledge from 111 Wikipedia editions; 400M+ facts; central LOD hub (developing)
 - [[Linked Open Data]] — RDF/SPARQL-based best practices for publishing and connecting structured web data (developing)
 - [[On-the-Job Development]] — OJD; 70% of leadership development; experiences over training; ten catalysts to hardwire into HR (developing)
+- [[Behaviour Change Determinants]] — taxonomy of individual and social-structural determinants; correlational vs. intervention effect size hierarchy; Albarracín et al. 2024 (developing)
+- [[Descriptive Norms]] — perceived frequency of a behaviour in a population; small intervention effect (OR≈2.20); role models most effective; Albarracín et al. 2024 (developing)
+- [[Injunctive Norms]] — perceived approval of a behaviour by others; small intervention effect (d=0.34); distinct from descriptive norms (developing)
+- [[Habits (Behaviour)]] — automated, repeated behaviours persisting without rewards; largest individual-level intervention target (medium, OR≈2.65); Albarracín et al. 2024 (developing)
+- [[Behavioural Access Interventions]] — material/logistic resources enabling behaviour; largest overall intervention effect (large, OR≈4.89); Albarracín et al. 2024 (developing)
+- [[Social Support (Behaviour)]] — informational/instrumental help for a specific behavioural goal; medium intervention effect (OR≈2.53); distinct from norms (developing)
+- [[Reasoned Action Approach]] — Fishbein & Ajzen 2011; beliefs → attitudes → intentions → behaviour; injunctive norms; perceived behavioural control (developing)
+- [[Information-Motivation-Behavioural Skills Model]] — Fisher & Fisher 1992/2006; IMB model; information + motivation + behavioural skills → behaviour; HIV prevention origins (developing)
+- [[Correlation-Intervention Gap (Behaviour)]] — systematic pattern where correlational effect sizes overestimate intervention efficacy for every behavioural determinant; Albarracín et al. 2024 (developing)
+- [[Pay-for-Performance]] — PFP; links pay to performance via two mechanisms: incentive effect and sorting effect; most-used compensation design in private sector (developing)
+- [[Incentive Effect (Compensation)]] — how PFP changes current employee behavior through motivation; +0.54 SD in meta-analysis; but likely underestimates total impact (developing)
+- [[Sorting Effect (Compensation)]] — how PFP changes workforce composition; high performers attracted/retained, low performers exit; Cadsby 2007: sorting = 74% of total PFP advantage (developing)
+- [[PFP Intensity]] — magnitude of pay-performance gradient; annual merit = low intensity (3–4%); promotion channel = high intensity; higher intensity → more motivation AND more unintended consequences (developing)
+- [[Equal Compensation Principle]] — Milgrom & Roberts 1992; incentivizing some tasks but not others distorts effort allocation toward incentivized metrics; multitasking problem (developing)
+- [[Pay Dispersion]] — variation in pay within a group; horizontal vs. vertical; source matters: PFP-based = legitimate + positive effects; politically-based = illegitimate + negative effects (developing)
+- [[Pay Transparency]] — four dimensions: pay outcomes, pay determination, discussion policies, communication modes; more transparency ≠ universally better; relative pay standing is key moderator (developing)
 
 ### Entities (new)
 
@@ -166,6 +182,10 @@ Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[
 - [[Simine Vazire]] — University of Melbourne; open science reform; "credibility revolution" framing; Nosek 2022 co-author (stub)
 - [[Tom Hardwicke]] — University of Amsterdam; analytic reproducibility; open data policy audits; Nosek 2022 co-author (stub)
 - [[Anna Dreber]] — Stockholm School of Economics; prediction markets for science; replication forecasting (developing)
+- [[Dolores Albarracín]] — University of Pennsylvania; social psychologist; attitude change, persuasion, behaviour change interventions; HIV prevention meta-analysis (developing)
+- [[Ingrid Smithey Fulmer]] — U of Illinois UIUC; compensation, pay transparency, Compensation Activation Theory; Fulmer et al. 2023 (developing)
+- [[Barry Gerhart]] — UW-Madison; strategic compensation; incentive/sorting framework; Gerhart & Milkovich foundational work; Fulmer et al. 2023 (developing)
+- [[JiHyun Kim]] — NUS Business School; PFP meta-analysis lead author (Kim et al. 2022); Fulmer et al. 2023 (developing)
 
 ---
 
@@ -193,6 +213,8 @@ Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[
 - [[giner-sorolla-2012-science-or-art|Giner-Sorolla (2012)]] — Perspectives on Psychological Science | publication bottleneck as root cause of replication crisis; three aesthetic criteria; information-economic account | 2026-05-21
 - [[kerr-1998-harking|Kerr (1998)]] — Personality and Social Psychology Review | HARKing origin paper; three forms; cognitive/social mechanisms; proposed preregistration reforms | 2026-05-21
 - [[nosek-2022-replicability-robustness-reproducibility|Nosek et al. (2022)]] — Annual Review of Psychology | 10-year review; three R's; 307 replications (64% success); Rogers diffusion model for culture change | 2026-05-22
+- [[albarracin-2024-determinants-behaviour-change|Albarracín et al. (2024)]] — Nature Reviews Psychology | meta-review of behavioural determinants; access > social support > habits > … > knowledge; correlation-intervention gap | 2026-05-23
+- [[fulmer-2023-compensation-performance|Fulmer et al. (2023)]] — Personnel Psychology | 30-year review of compensation→performance research; PFP incentive/sorting effects; pay transparency; pay dispersion; endogeneity | 2026-05-23
 
 ---
 

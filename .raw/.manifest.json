@@ -469,6 +469,50 @@
         "wiki/log.md",
         "wiki/hot.md"
       ]
+    },
+    ".raw/Albarrac\u00edn et al. - 2024 - Determinants of behaviour and their efficacy as targets of behavioural change interventions.pdf": {
+      "hash": "d8e5484ebc074e4e8e21b6bbf35143d0",
+      "ingested_at": "2026-05-23",
+      "pages_created": [
+        "wiki/sources/albarracin-2024-determinants-behaviour-change.md",
+        "wiki/concepts/Behaviour Change Determinants.md",
+        "wiki/concepts/Descriptive Norms.md",
+        "wiki/concepts/Injunctive Norms.md",
+        "wiki/concepts/Habits (Behaviour).md",
+        "wiki/concepts/Behavioural Access Interventions.md",
+        "wiki/concepts/Social Support (Behaviour).md",
+        "wiki/concepts/Reasoned Action Approach.md",
+        "wiki/concepts/Information-Motivation-Behavioural Skills Model.md",
+        "wiki/concepts/Correlation-Intervention Gap (Behaviour).md",
+        "wiki/entities/Dolores Albarrac\u00edn.md"
+      ],
+      "pages_updated": [
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md"
+      ]
+    },
+    ".raw/Fulmer et al. - 2023 - Compensation and performance A review and recommendations for the future.pdf": {
+      "hash": "fe12e8fcee65138dce575b74766c339e",
+      "ingested_at": "2026-05-23",
+      "pages_created": [
+        "wiki/sources/fulmer-2023-compensation-performance.md",
+        "wiki/concepts/Pay-for-Performance.md",
+        "wiki/concepts/Incentive Effect (Compensation).md",
+        "wiki/concepts/Sorting Effect (Compensation).md",
+        "wiki/concepts/PFP Intensity.md",
+        "wiki/concepts/Equal Compensation Principle.md",
+        "wiki/concepts/Pay Dispersion.md",
+        "wiki/concepts/Pay Transparency.md",
+        "wiki/entities/Ingrid Smithey Fulmer.md",
+        "wiki/entities/Barry Gerhart.md",
+        "wiki/entities/JiHyun Kim.md"
+      ],
+      "pages_updated": [
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md"
+      ]
     }
   },
   "address_map": {
@@ -581,6 +625,28 @@
     "wiki/concepts/Regularization.md": "c-000154",
     "wiki/concepts/Bias-Variance Tradeoff.md": "c-000155",
     "wiki/concepts/Training vs Test Error.md": "c-000156",
-    "wiki/concepts/Procedural Overfitting.md": "c-000157"
+    "wiki/concepts/Procedural Overfitting.md": "c-000157",
+    "wiki/sources/albarracin-2024-determinants-behaviour-change.md": "c-000158",
+    "wiki/entities/Dolores Albarrac\u00edn.md": "c-000159",
+    "wiki/concepts/Behaviour Change Determinants.md": "c-000160",
+    "wiki/concepts/Descriptive Norms.md": "c-000161",
+    "wiki/concepts/Injunctive Norms.md": "c-000162",
+    "wiki/concepts/Habits (Behaviour).md": "c-000163",
+    "wiki/concepts/Behavioural Access Interventions.md": "c-000164",
+    "wiki/concepts/Social Support (Behaviour).md": "c-000165",
+    "wiki/concepts/Reasoned Action Approach.md": "c-000166",
+    "wiki/concepts/Information-Motivation-Behavioural Skills Model.md": "c-000167",
+    "wiki/concepts/Correlation-Intervention Gap (Behaviour).md": "c-000168",
+    "wiki/sources/fulmer-2023-compensation-performance.md": "c-000169",
+    "wiki/concepts/Pay-for-Performance.md": "c-000170",
+    "wiki/concepts/Incentive Effect (Compensation).md": "c-000171",
+    "wiki/concepts/Sorting Effect (Compensation).md": "c-000172",
+    "wiki/concepts/PFP Intensity.md": "c-000173",
+    "wiki/concepts/Equal Compensation Principle.md": "c-000174",
+    "wiki/concepts/Pay Dispersion.md": "c-000175",
+    "wiki/concepts/Pay Transparency.md": "c-000176",
+    "wiki/entities/Ingrid Smithey Fulmer.md": "c-000177",
+    "wiki/entities/Barry Gerhart.md": "c-000178",
+    "wiki/entities/JiHyun Kim.md": "c-000179"
   }
 }
