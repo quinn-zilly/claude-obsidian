@@ -23,7 +23,7 @@ related:
 
 # Wiki Index
 
-Last updated: 2026-05-21 | Total pages: 148 | Sources ingested: 26
+Last updated: 2026-05-22 | Total pages: 159 | Sources ingested: 27
 
 Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[getting-started]]
 
@@ -63,6 +63,13 @@ Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[
 - [[Institutional Alignment]] — evolutionary + developmental: gradual embedding of innovation without displacing existing arrangements (developing)
 - [[Institutional Accommodation]] — revolutionary + developmental: disruptive forces dampened into incremental settlement (understudied) (developing)
 - [[Institutional Accretion]] — evolutionary + transformational: micro-level improvisations accumulate to produce field-level transformation (least studied) (developing)
+- [[Prediction vs Explanation (Psychology)]] — statistical and pragmatic tension between explanatory and predictive science; machine learning as solution; Yarkoni & Westfall 2017 (developing)
+- [[Overfitting]] — model fitting sample-specific noise; training error ≠ test error; primary ML problem (developing)
+- [[Training vs Test Error]] — fundamental gap between in-sample fit and out-of-sample prediction accuracy (developing)
+- [[Bias-Variance Tradeoff]] — total prediction error = bias² + variance; unavoidable tradeoff; deliberate bias can reduce total error (developing)
+- [[Procedural Overfitting]] — p-hacking reframed as human-analyst overfitting; constraining researcher df is regularization (developing)
+- [[Cross-Validation]] — K-fold CV; estimates test error without new data; standard in ML, largely absent from psychology ca. 2017 (developing)
+- [[Regularization]] — penalized regression (lasso, ridge); deliberate bias to reduce variance; shrinkage methods (developing)
 - [[Replication Crisis]] — systematic failures of replication in psychology; root causes: publication bias, p-hacking, HARKing (mature)
 - [[Open Science]] — transparency, open data, preregistration; reform movement for credible knowledge accumulation (mature)
 - [[Preregistration]] — committing to research design before data collection; separates confirmatory from exploratory (mature)
@@ -85,6 +92,8 @@ Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[
 
 ### Entities (new)
 
+- [[Tal Yarkoni]] — UT Austin; psychoinformatics, ML in psychology, Yarkoni & Westfall 2017
+- [[Jacob Westfall]] — UT Austin; quantitative methods, statistical power, Yarkoni & Westfall 2017
 - [[Evelyn Micelotta]] — UNM; institutional change, institutional logics
 - [[Michael Lounsbury]] — U of Alberta; institutional logics perspective, cultural entrepreneurship
 - [[Royston Greenwood]] — U of Alberta; professional firms, organizational archetypes, institutional complexity
@@ -108,6 +117,12 @@ Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[
 - [[Horizontal Distribution (Science)]] — crowdsourcing model; distributed components, pooled resources; complement to vertical integration (developing)
 - [[Many Labs]] — multilab replication initiative; 36–125 labs; non-replicable effects fail consistently across populations (developing)
 - [[Matthew Effect (Science)]] — cumulative advantage; early resource advantages compound; Merton 1968; motivation for crowdsourcing democratization (developing)
+- [[Robustness (Science)]] — same data + different analysis; tests analytic fragility; multiverse/many-analysts; Silberzahn 2018 (developing)
+- [[Replication as Theoretical Commitment]] — Nosek & Errington 2020; replication = claim that contextual differences are irrelevant; dissolves direct/conceptual distinction (developing)
+- [[Questionable Research Practices]] — QRPs; p-hacking, HARKing, selective reporting; ordinary psychology under misaligned incentives; 7,887 surveyed (developing)
+- [[Prediction Markets (Science)]] — r=0.52 with replication success; Anna Dreber; 72% accuracy; scalable pre-replication credibility screen (developing)
+- [[TOP Guidelines]] — 10 transparency standards, 3 levels each; 83% of journals at level 0; COS/Nosek 2015 (developing)
+- [[Psychological Science Accelerator]] — PSA; massively multisite collaborative network; Moshontz et al. 2018 (stub)
 
 ---
 
@@ -148,6 +163,9 @@ Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[
 - [[Eric Uhlmann]] — INSEAD Singapore; crowdsourcing science; Silberzahn many-analysts project; Scientific Utopia III lead author (developing)
 - [[Roger Giner-Sorolla]] — University of Kent; social psychologist; "Science or Art?" 2012; information-economic bottleneck account of replication crisis (developing)
 - [[Norbert Kerr]] — Michigan State University; social psychologist; coined HARKing (1998); foundational to open science reform literature (stub)
+- [[Simine Vazire]] — University of Melbourne; open science reform; "credibility revolution" framing; Nosek 2022 co-author (stub)
+- [[Tom Hardwicke]] — University of Amsterdam; analytic reproducibility; open data policy audits; Nosek 2022 co-author (stub)
+- [[Anna Dreber]] — Stockholm School of Economics; prediction markets for science; replication forecasting (developing)
 
 ---
 
@@ -174,6 +192,7 @@ Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[
 - [[uhlmann-2019-crowdsourcing-science|Uhlmann et al. (2019)]] — Perspectives on Psychological Science | Scientific Utopia III; crowdsourcing as complement to standard model; 2×2 typology; structural reforms | 2026-05-21
 - [[giner-sorolla-2012-science-or-art|Giner-Sorolla (2012)]] — Perspectives on Psychological Science | publication bottleneck as root cause of replication crisis; three aesthetic criteria; information-economic account | 2026-05-21
 - [[kerr-1998-harking|Kerr (1998)]] — Personality and Social Psychology Review | HARKing origin paper; three forms; cognitive/social mechanisms; proposed preregistration reforms | 2026-05-21
+- [[nosek-2022-replicability-robustness-reproducibility|Nosek et al. (2022)]] — Annual Review of Psychology | 10-year review; three R's; 307 replications (64% success); Rogers diffusion model for culture change | 2026-05-22
 
 ---
 

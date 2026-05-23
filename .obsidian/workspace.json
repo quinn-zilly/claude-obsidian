@@ -4,17 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "945d001b692f2a27",
+        "id": "869043e72461ffa8",
         "type": "tabs",
         "children": [
           {
-            "id": "556a2dbc5be43b07",
+            "id": "f992ffb665cf93a0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/GitHub Slides.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "GitHub Slides"
             }
           }
         ]
@@ -74,7 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 617.5
+    "width": 217.5
   },
   "right": {
     "id": "7092b65be1e76349",
@@ -195,7 +197,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 292.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -213,58 +215,57 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5565f1231fe95c42",
+  "active": "f992ffb665cf93a0",
   "lastOpenFiles": [
-    "wiki/log.md.tmp.27016.89fb775d8661",
-    "wiki/index.md.tmp.27016.bf3b670e5ea9",
-    "wiki/concepts/Institutional Isomorphism.md.tmp.27016.ea2217ecdd8e",
+    "Excalidraw/GitHub Slides.md",
+    "wiki/meta/InstallUseThis.png",
+    "wiki/meta/CreateGitHubToken.png",
+    "wiki/meta/GitCredsSet.png",
+    "wiki/meta/UseThis.png",
+    "wiki/meta/Picture5.png",
+    "wiki/meta/Picture4.png",
+    "wiki/meta/Picture3.png",
+    "wiki/meta/CursorClick.svg",
+    "wiki/meta/CursorClick.png",
+    "wiki/meta/GitPath.png",
+    "wiki/meta/Unconfirmed 454702.crdownload",
+    "wiki/hot.md.tmp.13188.c10fe2b9b6cc",
+    "wiki/log.md.tmp.13188.e1d908d5d7b3",
+    "wiki/index.md.tmp.13188.48d4f9998cbe",
+    "wiki/index.md.tmp.13188.ce3e17e5c102",
+    "wiki/concepts/Regularization.md",
+    "wiki/concepts/Cross-Validation.md",
+    "wiki/concepts/Procedural Overfitting.md",
+    "wiki/concepts/Procedural Overfitting.md.tmp.13188.f81f390a9f02",
+    "wiki/concepts/Bias-Variance Tradeoff.md",
+    "wiki/concepts/Bias-Variance Tradeoff.md.tmp.13188.6479a2a8df93",
+    "wiki/concepts/Training vs Test Error.md",
+    "wiki/concepts/Training vs Test Error.md.tmp.13188.35b0ffd75dda",
+    "wiki/concepts/Overfitting.md",
+    "wiki/concepts/Overfitting.md.tmp.13188.aa419a304065",
+    "wiki/concepts/Prediction vs Explanation (Psychology).md",
+    "wiki/concepts/Prediction vs Explanation (Psychology).md.tmp.13188.bcb1cb893d77",
+    "wiki/entities/Jacob Westfall.md",
+    "wiki/entities/Tal Yarkoni.md",
+    "wiki/sources/yarkoni-westfall-2017-prediction-vs-explanation.md",
+    "wiki/entities/Anna Dreber.md",
+    "wiki/entities/Tom Hardwicke.md",
+    "wiki/entities/Simine Vazire.md",
+    "wiki/concepts/Psychological Science Accelerator.md",
+    "wiki/concepts/TOP Guidelines.md",
+    "wiki/concepts/Prediction Markets (Science).md",
+    "wiki/concepts/Questionable Research Practices.md",
+    "wiki/concepts/Replication as Theoretical Commitment.md",
+    "wiki/concepts/Robustness (Science).md",
+    "wiki/sources/nosek-2022-replicability-robustness-reproducibility.md",
+    "wiki/canvases/welcome.canvas",
+    "wiki/canvases/main.canvas",
+    "wiki/meta/dashboard.md",
+    "wiki/getting-started.md",
     "wiki/entities/Royston Greenwood.md",
     "wiki/entities/Michael Lounsbury.md",
-    "wiki/entities/Evelyn Micelotta.md",
-    "wiki/entities/Evelyn Micelotta.md.tmp.27016.e85faad3f847",
-    "wiki/concepts/Institutional Accretion.md",
-    "wiki/concepts/Institutional Accommodation.md",
-    "wiki/concepts/Institutional Alignment.md",
-    "wiki/concepts/Institutional Displacement.md",
-    "wiki/concepts/Institutional Entrepreneurship.md",
-    "wiki/concepts/Institutional Change Pathways.md",
-    "wiki/sources/micelotta-2017-pathways-institutional-change.md",
-    "wiki/concepts/HARKing.md",
-    "wiki/sources/kerr-1998-harking.md",
-    "Excalidraw/GitHub Slides.md",
-    "wiki/hot.md.tmp.29808.2887b56ef7e7",
-    "wiki/log.md.tmp.29808.216d5d34eb54",
-    "wiki/index.md.tmp.29808.fe1a4b693f1a",
-    "wiki/concepts/HARKing.md.tmp.29808.0d5b7a8bbe09",
-    "wiki/entities/Norbert-Kerr.md",
-    "wiki/sources/yost-plunkett-2010-ten-catalysts.md",
-    "wiki/meta/Download-Git.png",
     "Untitled.canvas",
-    "wiki/sources/beigi-2025-career-success-minority.md",
-    "wiki/meta/Repo-Homepage.png",
-    "wiki/meta/GitHub-Homepage.png",
-    "wiki/concepts/Learning vs Performance Distinction.md",
-    "wiki/concepts/Desirable Difficulties.md",
-    "wiki/sources/soderstrom-bjork-2015-learning-vs-performance.md",
-    "wiki/concepts/Glass Cliff.md",
-    "wiki/meta/2026-04-10-backlink-empire-session.md",
-    "wiki/meta/workflow-loop.gif",
-    "wiki/meta/wiki-graph-grow.gif",
-    "wiki/meta/welcome-canvas.gif",
-    "wiki/meta/tiling-report-2026-04-24.md",
-    "wiki/meta/lint-report-2026-05-21.md",
-    "wiki/meta/lint-report-2026-05-20.md",
-    "wiki/meta/lint-report-2026-05-19.md",
-    "wiki/meta/image-example-wiki-map-view.png",
-    "wiki/meta/image-example-graph-view.png",
-    "wiki/meta/dragonscale-mechanism-overview.png",
-    "wiki/meta/dragonscale-mechanism-overview.svg",
-    "wiki/sources/soderstrom-bjork-2015-learning-vs-performance.md.tmp.23004.b32c523289f9",
-    "wiki/sources/kraiger-ford-2021-workplace-instruction.md.tmp.14000.dd8dcf960677",
-    "wiki/hot.md.tmp.7924.977a8533e67f",
     "wiki/Wiki Map.canvas",
-    "wiki/canvases/main.canvas",
-    "wiki/canvases/welcome.canvas",
     "wiki/canvases/claude-obsidian-presentation.canvas",
     "wiki/canvases/youtube-explainer.canvas"
   ]

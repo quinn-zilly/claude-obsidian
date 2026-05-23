@@ -3,6 +3,29 @@
   "created": "2026-04-23",
   "description": "Ingest delta tracker and address map for the claude-obsidian vault. Do not hand-edit; wiki-ingest maintains this.",
   "sources": {
+    ".raw/Yarkoni and Westfall - 2017 - Choosing Prediction Over Explanation in Psychology Lessons From Machine Learning.pdf": {
+      "hash": "6e6e1ba7a5abd49d915b4c5d5feff97c",
+      "ingested_at": "2026-05-22",
+      "pages_created": [
+        "wiki/sources/yarkoni-westfall-2017-prediction-vs-explanation.md",
+        "wiki/entities/Tal Yarkoni.md",
+        "wiki/entities/Jacob Westfall.md",
+        "wiki/concepts/Prediction vs Explanation (Psychology).md",
+        "wiki/concepts/Overfitting.md",
+        "wiki/concepts/Training vs Test Error.md",
+        "wiki/concepts/Bias-Variance Tradeoff.md",
+        "wiki/concepts/Procedural Overfitting.md",
+        "wiki/concepts/Cross-Validation.md",
+        "wiki/concepts/Regularization.md"
+      ],
+      "pages_updated": [
+        "wiki/concepts/Replication Crisis.md",
+        "wiki/concepts/P-hacking.md",
+        "wiki/index.md",
+        "wiki/log.md",
+        "wiki/hot.md"
+      ]
+    },
     ".raw/Ten Catalysts, Yost & Plunkett 2010.pdf": {
       "hash": "3ce07450fbac649f5eed75510cbca0ab",
       "ingested_at": "2026-05-21",
@@ -140,7 +163,7 @@
         "wiki/log.md"
       ]
     },
-    ".raw/Grant - 1996 - Toward a knowledge‐based theory of the firm.pdf": {
+    ".raw/Grant - 1996 - Toward a knowledge\u2010based theory of the firm.pdf": {
       "hash": "7d902355cea11975fe184ee416d50a3c",
       "ingested_at": "2026-05-19",
       "pages_created": [
@@ -170,7 +193,7 @@
         "wiki/log.md"
       ]
     },
-    ".raw/Lehmann et al. - 2015 - DBpedia – A large-scale, multilingual knowledge base extracted from Wikipedia.pdf": {
+    ".raw/Lehmann et al. - 2015 - DBpedia \u2013 A large-scale, multilingual knowledge base extracted from Wikipedia.pdf": {
       "hash": "113915904e64333ad5d819640b1b2935",
       "ingested_at": "2026-05-19",
       "pages_created": [
@@ -185,12 +208,12 @@
         "wiki/log.md"
       ]
     },
-    ".raw/Munafò et al. - 2017 - A manifesto for reproducible science.pdf": {
+    ".raw/Munaf\u00f2 et al. - 2017 - A manifesto for reproducible science.pdf": {
       "hash": "4ab499001cf6a2c6396e6f586a735009",
       "ingested_at": "2026-05-19",
       "pages_created": [
         "wiki/sources/munafo-2017-manifesto.md",
-        "wiki/entities/Marcus Munafò.md",
+        "wiki/entities/Marcus Munaf\u00f2.md",
         "wiki/entities/John Ioannidis.md"
       ],
       "pages_updated": [
@@ -387,7 +410,7 @@
         "wiki/hot.md"
       ]
     },
-    ".raw/Ren and Argote - 2011 - Transactive Memory Systems 1985–2010 An Integrative Framework of Key Dimensions, Antecedents, and C.pdf": {
+    ".raw/Ren and Argote - 2011 - Transactive Memory Systems 1985\u20132010 An Integrative Framework of Key Dimensions, Antecedents, and C.pdf": {
       "hash": "d77ca3e481efe6c6ab0d9060caa1708a",
       "ingested_at": "2026-05-21",
       "pages_created": [
@@ -418,6 +441,30 @@
       "pages_updated": [
         "wiki/concepts/Institutional Isomorphism.md",
         "wiki/concepts/Organizational Field.md",
+        "wiki/index.md",
+        "wiki/log.md",
+        "wiki/hot.md"
+      ]
+    },
+    ".raw/Nosek et al. - 2022 - Replicability, Robustness, and Reproducibility in Psychological Science.pdf": {
+      "hash": "03fa0b4fa42fd8003ad638eed9f70308",
+      "ingested_at": "2026-05-22",
+      "pages_created": [
+        "wiki/sources/nosek-2022-replicability-robustness-reproducibility.md",
+        "wiki/concepts/Robustness (Science).md",
+        "wiki/concepts/Replication as Theoretical Commitment.md",
+        "wiki/concepts/Questionable Research Practices.md",
+        "wiki/concepts/Prediction Markets (Science).md",
+        "wiki/concepts/TOP Guidelines.md",
+        "wiki/concepts/Psychological Science Accelerator.md",
+        "wiki/entities/Simine Vazire.md",
+        "wiki/entities/Tom Hardwicke.md",
+        "wiki/entities/Anna Dreber.md"
+      ],
+      "pages_updated": [
+        "wiki/entities/Brian Nosek.md",
+        "wiki/concepts/Replication Crisis.md",
+        "wiki/concepts/Analytic Reproducibility.md",
         "wiki/index.md",
         "wiki/log.md",
         "wiki/hot.md"
@@ -460,7 +507,7 @@
     "wiki/entities/Etienne LeBel.md": "c-000034",
     "wiki/entities/Jens Lehmann.md": "c-000035",
     "wiki/entities/Christian Bizer.md": "c-000036",
-    "wiki/entities/Marcus Munafò.md": "c-000037",
+    "wiki/entities/Marcus Munaf\u00f2.md": "c-000037",
     "wiki/entities/John Ioannidis.md": "c-000038",
     "wiki/entities/Center for Open Science.md": "c-000039",
     "wiki/entities/Open Science Collaboration.md": "c-000040",
@@ -514,6 +561,26 @@
     "wiki/concepts/Institutional Displacement.md": "c-000133",
     "wiki/concepts/Institutional Alignment.md": "c-000134",
     "wiki/concepts/Institutional Accommodation.md": "c-000135",
-    "wiki/concepts/Institutional Accretion.md": "c-000136"
+    "wiki/concepts/Institutional Accretion.md": "c-000136",
+    "wiki/sources/nosek-2022-replicability-robustness-reproducibility.md": "c-000137",
+    "wiki/concepts/Robustness (Science).md": "c-000138",
+    "wiki/concepts/Replication as Theoretical Commitment.md": "c-000139",
+    "wiki/concepts/Questionable Research Practices.md": "c-000140",
+    "wiki/concepts/Prediction Markets (Science).md": "c-000141",
+    "wiki/concepts/TOP Guidelines.md": "c-000143",
+    "wiki/concepts/Psychological Science Accelerator.md": "c-000144",
+    "wiki/entities/Simine Vazire.md": "c-000145",
+    "wiki/entities/Tom Hardwicke.md": "c-000146",
+    "wiki/entities/Anna Dreber.md": "c-000147",
+    "wiki/sources/yarkoni-westfall-2017-prediction-vs-explanation.md": "c-000148",
+    "wiki/entities/Tal Yarkoni.md": "c-000149",
+    "wiki/entities/Jacob Westfall.md": "c-000150",
+    "wiki/concepts/Prediction vs Explanation (Psychology).md": "c-000151",
+    "wiki/concepts/Overfitting.md": "c-000152",
+    "wiki/concepts/Cross-Validation.md": "c-000153",
+    "wiki/concepts/Regularization.md": "c-000154",
+    "wiki/concepts/Bias-Variance Tradeoff.md": "c-000155",
+    "wiki/concepts/Training vs Test Error.md": "c-000156",
+    "wiki/concepts/Procedural Overfitting.md": "c-000157"
   }
 }

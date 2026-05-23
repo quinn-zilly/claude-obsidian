@@ -68,9 +68,16 @@ Both can occur in the same study and are often difficult to separate.
 - Multiverse analysis (analytic robustness): report all defensible analyses
 - Larger samples: reduces the payoff from p-hacking because genuine effects emerge more reliably
 
+## Reframing as Procedural Overfitting
+
+Yarkoni & Westfall (2017) reframe p-hacking as a special case of [[Overfitting]] — specifically **[[Procedural Overfitting]]** — that operates at the human-analyst level rather than the model-estimation level. The analyst capitalizing on idiosyncratic sample patterns is structurally identical to a flexible statistical model doing the same. This framing connects p-hacking to the machine learning literature on [[Bias-Variance Tradeoff]] and suggests analogous solutions: constraining flexibility (preregistration) and testing out-of-sample (cross-validation).
+
 ## See Also
 
 - [[HARKing]]
 - [[Publication Bias]]
 - [[Preregistration]]
 - [[Analytic Reproducibility]]
+- [[Procedural Overfitting]] — Yarkoni & Westfall's reframing
+- [[Overfitting]] — the statistical framework underlying procedural overfitting
+- [[Bias-Variance Tradeoff]] — p-hacking = low-bias/high-variance analytic strategy

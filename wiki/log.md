@@ -13,6 +13,20 @@ related:
   - "[[sources/_index]]"
 ---
 
+## 2026-05-22 | ingest | Yarkoni & Westfall 2017 — Choosing Prediction Over Explanation in Psychology
+- Source: `.raw/Yarkoni and Westfall - 2017 - Choosing Prediction Over Explanation in Psychology Lessons From Machine Learning.pdf`
+- Summary: [[yarkoni-westfall-2017-prediction-vs-explanation]]
+- Pages created: [[Prediction vs Explanation (Psychology)]], [[Overfitting]], [[Training vs Test Error]], [[Bias-Variance Tradeoff]], [[Procedural Overfitting]], [[Cross-Validation]], [[Regularization]], [[Tal Yarkoni]], [[Jacob Westfall]]
+- Pages updated: [[Replication Crisis]], [[P-hacking]]
+- Key insight: P-hacking is a special case of overfitting (procedural overfitting); psychology confuses training error (R²) with test error; machine learning tools — cross-validation, regularization, bias-variance decomposition — offer principled solutions that would also improve explanatory science.
+
+## 2026-05-22 | ingest | Nosek et al. 2022 — Replicability, Robustness, and Reproducibility in Psychological Science
+- Source: `.raw/Nosek et al. - 2022 - Replicability, Robustness, and Reproducibility in Psychological Science.pdf`
+- Summary: [[nosek-2022-replicability-robustness-reproducibility]]
+- Pages created: [[nosek-2022-replicability-robustness-reproducibility]], [[Robustness (Science)]], [[Replication as Theoretical Commitment]], [[Questionable Research Practices]], [[Prediction Markets (Science)]], [[TOP Guidelines]], [[Psychological Science Accelerator]], [[Simine Vazire]], [[Tom Hardwicke]], [[Anna Dreber]]
+- Pages updated: [[Brian Nosek]] (+2022 paper), [[Replication Crisis]] (+xref), [[Analytic Reproducibility]] (+process/outcome failure distinction, +Robustness xref), [[index]], [[log]], [[hot]]
+- Key insight: 307 replications aggregate to 64% success rate / 68% effect size ratio — but with massive heterogeneity (36% to 90% across projects). Replicability is predictable pre-replication (r=0.52 from markets; ML ≈ markets). Culture change follows Rogers diffusion; all 5 levels (infrastructure → policy) are necessary and none sufficient. As of 2021: behavior changing exponentially (OSF registrations), but published literature barely moved (2% data sharing in audit).
+
 ## 2026-05-21 | ingest | Micelotta, Lounsbury & Greenwood 2017 — Pathways of Institutional Change
 - Source: `.raw/Micelotta et al. - 2017 - Pathways of Institutional Change.pdf` (Zotero: QQ8YAN2H)
 - Summary: [[micelotta-2017-pathways-institutional-change]]
