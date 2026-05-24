@@ -5,6 +5,7 @@ type: concept
 domain: leadership-dev
 tags: [training, learning, instruction, I-O-psychology]
 created: 2026-05-21
+updated: 2026-05-21
 status: evergreen
 related:
   - "[[Instructional Principles]]"

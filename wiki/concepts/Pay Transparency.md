@@ -6,6 +6,7 @@ aliases: ["pay secrecy", "compensation transparency", "pay communication"]
 tags: [compensation, transparency, equity, motivation, performance]
 status: evergreen
 created: 2026-05-23
+updated: 2026-05-23
 related:
   - "[[Pay-for-Performance]]"
   - "[[Pay Dispersion]]"

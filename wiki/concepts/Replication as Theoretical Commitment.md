@@ -5,6 +5,7 @@ title: "Replication as Theoretical Commitment"
 tags: [open-science, replication, philosophy-of-science, methodology]
 status: developing
 created: 2026-05-22
+updated: 2026-05-22
 related: ["[[Replication Crisis]]","[[Many Labs]]","[[nosek-2022-replicability-robustness-reproducibility]]","[[Preregistration]]","[[Registered Reports]]"]
 ---
 

@@ -7,6 +7,7 @@ tags:
   - talent-management
   - competency-model
 created: 2026-05-21
+updated: 2026-05-21
 status: evergreen
 ---
 

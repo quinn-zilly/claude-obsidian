@@ -2,6 +2,9 @@
 title: Open Workflow
 address: c-000072
 created: 2026-05-20
+type: concept
+status: developing
+updated: 2026-05-20
 tags:
   - open-science
   - transparency

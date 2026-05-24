@@ -23,7 +23,7 @@ related:
 
 # Wiki Index
 
-Last updated: 2026-05-23 | Total pages: 180 | Sources ingested: 29
+Last updated: 2026-05-23 | Total pages: 222 | Sources ingested: 31
 
 Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[getting-started]]
 
@@ -73,7 +73,7 @@ Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[
 - [[Replication Crisis]] — systematic failures of replication in psychology; root causes: publication bias, p-hacking, HARKing (mature)
 - [[Open Science]] — transparency, open data, preregistration; reform movement for credible knowledge accumulation (mature)
 - [[Preregistration]] — committing to research design before data collection; separates confirmatory from exploratory (mature)
-- [[Conflict of Interest in Science]] — fundamental tension between personal incentive (publication) and institutional goal (accuracy); misalignment causes [[motivated reasoning]] and [[P-hacking]]; resolved via [[Open Workflow]], open data, incentive restructuring (developing)
+- [[Conflict of Interest in Science]] — fundamental tension between personal incentive (publication) and institutional goal (accuracy); misalignment causes [[Motivated Reasoning]] and [[P-hacking]]; resolved via [[Open Workflow]], open data, incentive restructuring (developing)
 - [[Motivated Reasoning]] — unconscious cognitive bias toward conclusions we're motivated to reach; ordinary human psychology that explains how [[Publication Bias]] becomes systematic despite ethical intent (developing)
 - [[Open Workflow]] — transparency in research process (preregistration, analysis plans, workflow documentation); solves [[HARKing]], file-drawer effect, outcome switching; model: [[clinicaltrials.gov]] (developing)
 - [[Paradigm-Driven Research]] — systematic variation of single established procedure rather than wholesale methodology reinvention; incorporates replication + extension; reduces waste, increases cumulation (developing)
@@ -98,6 +98,18 @@ Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[
 - [[Reasoned Action Approach]] — Fishbein & Ajzen 2011; beliefs → attitudes → intentions → behaviour; injunctive norms; perceived behavioural control (developing)
 - [[Information-Motivation-Behavioural Skills Model]] — Fisher & Fisher 1992/2006; IMB model; information + motivation + behavioural skills → behaviour; HIV prevention origins (developing)
 - [[Correlation-Intervention Gap (Behaviour)]] — systematic pattern where correlational effect sizes overestimate intervention efficacy for every behavioural determinant; Albarracín et al. 2024 (developing)
+- [[Judgment and Decision Making (Field)]] — JDM field overview; dual descriptive/normative theme; major research programs; Connolly et al. 2012 (developing)
+- [[Lens Model]] — Brunswik/Hammond; cue combination model for judgment; representative design requirement (developing)
+- [[Policy Capturing]] — regression model of individual judge; few cues, linear, low reliability; organizational applications (developing)
+- [[Prospect Theory]] — Kahneman & Tversky 1979; reference-point value function; loss aversion; decision weight distortions; dominant descriptive model of risky choice (developing)
+- [[Framing Effects]] — logically equivalent options described differently → different risk preferences; gain vs. loss framing; attribute framing (developing)
+- [[Decision Justification Theory]] — Connolly & Zeelenberg 2002; two-component regret: outcome + process/self-blame; regret priming → better decisions (developing)
+- [[Appraisal-Tendency Framework]] — Lerner & Keltner 2000/2001; distinct emotions (fear, anger, disgust) have distinct, predictable decision effects beyond simple valence (developing)
+- [[Signal Detection Theory (Decision)]] — TSD; ROC curve; threshold-setting under uncertainty; base rate dependence; underused in organizational research (developing)
+- [[Naturalistic Decision Making]] — NDM/RPD; expert decision = recognition-primed matching, not deliberation; Klein; Orasanu & Connolly (developing)
+- [[Sunk Cost Effect]] — prior unrecoverable costs influence subsequent decisions; escalation of commitment; multiple competing explanations (developing)
+- [[Dynamic Decision Making]] — repeated decisions on changing environment; feedback delays impede learning; systems dynamics oscillations (developing)
+- [[Electronic Brainstorming]] — EBS; large EBS > nominal groups > F2F brainstorming; production blocking; anonymity effects; Connolly, Dennis, Valacich (developing)
 - [[Pay-for-Performance]] — PFP; links pay to performance via two mechanisms: incentive effect and sorting effect; most-used compensation design in private sector (developing)
 - [[Incentive Effect (Compensation)]] — how PFP changes current employee behavior through motivation; +0.54 SD in meta-analysis; but likely underestimates total impact (developing)
 - [[Sorting Effect (Compensation)]] — how PFP changes workforce composition; high performers attracted/retained, low performers exit; Cadsby 2007: sorting = 74% of total PFP advantage (developing)
@@ -105,6 +117,15 @@ Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[
 - [[Equal Compensation Principle]] — Milgrom & Roberts 1992; incentivizing some tasks but not others distorts effort allocation toward incentivized metrics; multitasking problem (developing)
 - [[Pay Dispersion]] — variation in pay within a group; horizontal vs. vertical; source matters: PFP-based = legitimate + positive effects; politically-based = illegitimate + negative effects (developing)
 - [[Pay Transparency]] — four dimensions: pay outcomes, pay determination, discussion policies, communication modes; more transparency ≠ universally better; relative pay standing is key moderator (developing)
+- [[Heuristics and Biases Program]] — Tversky & Kahneman research program; three heuristics (representativeness, availability, anchoring) produce systematic, predictable errors; biases persist in experts thinking intuitively (developing)
+- [[Representativeness Heuristic]] — probability judged by resemblance to prototype; produces base rate neglect, insensitivity to sample size, illusion of validity, regression misconceptions (developing)
+- [[Availability Heuristic]] — frequency/probability judged by ease of retrieval or mental construction; produces retrievability, search-set, imaginability biases, illusory correlation (developing)
+- [[Anchoring and Adjustment]] — numerical estimates start from anchor, adjust insufficiently; produces overconfident distributions, conjunctive overestimation, disjunctive underestimation (developing)
+- [[Base Rate Neglect]] — prior probabilities ignored when any individuating information is present, even worthless information; violates Bayes' rule (developing)
+- [[Gambler's Fallacy]] — belief that random deviations will be corrected; follows from local representativeness expectation; "deviations are diluted, not corrected" (developing)
+- [[Illusion of Validity]] — unwarranted confidence from good input-outcome match; persists despite knowledge of low validity; redundant inputs increase confidence, decrease accuracy (developing)
+- [[Regression to the Mean]] — extreme observations regress toward mean on re-measurement; intuition fails because representativeness predicts outcome extremity should match input extremity (developing)
+- [[Illusory Correlation]] — perceived co-occurrence based on associative strength rather than actual frequency; sustains unfounded clinical lore; resists contradictory evidence (developing)
 
 ### Entities (new)
 
@@ -139,11 +160,26 @@ Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[
 - [[Prediction Markets (Science)]] — r=0.52 with replication success; Anna Dreber; 72% accuracy; scalable pre-replication credibility screen (developing)
 - [[TOP Guidelines]] — 10 transparency standards, 3 levels each; 83% of journals at level 0; COS/Nosek 2015 (developing)
 - [[Psychological Science Accelerator]] — PSA; massively multisite collaborative network; Moshontz et al. 2018 (stub)
+- [[Replication]] — attempt to repeat a study and obtain the same results; direct vs. conceptual; fundamental mechanism of scientific reliability (seed)
+- [[File-Drawer Problem]] — systematic non-publication of null results; inflates effect sizes; addressed by preregistration and registered reports (seed)
+- [[Open Data]] — making research datasets publicly available; cornerstone of analytic reproducibility; enabled by OSF and TOP Guidelines (seed)
+- [[Social Cognitive Theory]] — Bandura; triadic reciprocal determinism; self-efficacy, modelling, outcome expectations; foundational to behaviour change (seed)
+- [[Testing Effect]] — retrieval practice enhances long-term retention more than restudy; desirable difficulty; Roediger & Karpicke (seed)
+- [[New Theory of Disuse]] — Bjork & Bjork 1992; storage vs. retrieval strength; theoretical backbone of desirable difficulties (seed)
+- [[Judgment of Learning]] — metacognitive monitoring of learning; systematically miscalibrated under massed practice; tracks performance not storage strength (seed)
+- [[Transfer of Training]] — degree to which trained skills transfer to job performance; near vs. far transfer; Baldwin & Ford 1988 (seed)
+- [[Self-Directed Learning]] — learner-controlled pace, sequence, content; andragogy; key in workplace and digital learning contexts (seed)
+- [[Synthetic Learning Environments]] — simulations and high-fidelity environments for training without real-world risk; fidelity paradox (seed)
+- [[Spacing Effect]] — spaced practice produces better long-term retention than massed practice; desirable difficulty (seed)
 
 ---
 
 ## Entities
 
+- [[Amos Tversky]] — Hebrew University / Stanford; co-founder of heuristics and biases program with Kahneman; 1937–1996 (developing)
+- [[Daniel Kahneman]] — Hebrew University / Princeton; co-founder of heuristics and biases program; Nobel Prize in Economics 2002; *Thinking, Fast and Slow* (developing)
+- [[Terry Connolly]] — U of Arizona; JDM researcher; regret/DJT, electronic brainstorming, naturalistic DM, information purchase (developing)
+- [[Lisa Ordóñez]] — U of Arizona; JDM researcher; regret, equity, emotion in decisions, fear/anger reversal (developing)
 - [[Andrej Karpathy]] — AI researcher, creator of the LLM Wiki pattern, former Tesla AI director (status: developing)
 - [[Linda Argote]] — Carnegie Mellon; leading organizational learning researcher; learning curves, knowledge repositories (developing)
 - [[Shaker Zahra]] — University of Minnesota; knowledge integration, dynamic capabilities, absorptive capacity (developing)
@@ -186,11 +222,15 @@ Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[
 - [[Ingrid Smithey Fulmer]] — U of Illinois UIUC; compensation, pay transparency, Compensation Activation Theory; Fulmer et al. 2023 (developing)
 - [[Barry Gerhart]] — UW-Madison; strategic compensation; incentive/sorting framework; Gerhart & Milkovich foundational work; Fulmer et al. 2023 (developing)
 - [[JiHyun Kim]] — NUS Business School; PFP meta-analysis lead author (Kim et al. 2022); Fulmer et al. 2023 (developing)
+- [[Robert A. Bjork]] — UCLA; New Theory of Disuse; desirable difficulties; testing effect and spacing effect research (seed)
+- [[Kurt Kraiger]] — Colorado State; workplace instruction science; Kraiger & Ford 2021 (seed)
+- [[J. Kevin Ford]] — Michigan State; transfer of training; Baldwin & Ford 1988 transfer model; Kraiger & Ford 2021 (seed)
 
 ---
 
 ## Sources
 
+- [[connolly-2012-jdm|Connolly, Ordóñez & Barker (2012)]] — Handbook of Psychology Ch. 19 | JDM comprehensive survey | 2026-05-23
 - [[claude-obsidian-ecosystem-research]] — 2026-04-08 | web research across 16+ repos | 8 wiki pages created
 - [[zahra-2020-knowledge-integration|Zahra et al. (2020)]] — Academy of Management Annals | knowledge integration review | 2026-05-15
 - [[argote-2021-organizational-learning|Argote et al. (2021)]] — Management Science | organizational learning processes review | 2026-05-15

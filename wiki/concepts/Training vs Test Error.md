@@ -6,6 +6,7 @@ aliases: ["Test Error", "Training Error", "Out-of-Sample Error", "Generalization
 tags: [concept, machine-learning, methodology, statistics]
 status: developing
 created: 2026-05-22
+updated: 2026-05-22
 related: ["[[Overfitting]]", "[[Cross-Validation]]", "[[Bias-Variance Tradeoff]]", "[[Prediction vs Explanation (Psychology)]]", "[[yarkoni-westfall-2017-prediction-vs-explanation]]"]
 ---
 

@@ -46,6 +46,10 @@ All source pages — summaries of ingested documents, transcripts, articles, and
 - [[grant-1996-knowledge-based-theory|Grant (1996)]] — *Strategic Management Journal* — knowledge-based theory of the firm; four integration mechanisms; common knowledge
 - [[barney-felin-2013-microfoundations|Barney & Felin (2013)]] — *Academy of Management Perspectives* — what are microfoundations; additive vs. emergent aggregation
 
+### Judgment, Decision-Making & Cognitive Psychology
+
+- [[tversky-kahneman-1974-heuristics-biases|Tversky & Kahneman (1974)]] — *Science* — founding paper of the heuristics-and-biases program; three heuristics (representativeness, availability, anchoring) and their systematic biases; 8pp
+
 ### Open Science & Meta-Science
 
 - [[open-science-collaboration-2015|Open Science Collaboration (2015)]] — *Science* — 100 psychology replications; 36% significant; replication effects half the magnitude of originals

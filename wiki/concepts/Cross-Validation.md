@@ -6,6 +6,7 @@ aliases: ["K-Fold Cross-Validation", "Leave-One-Out Cross-Validation", "LOOCV", 
 tags: [concept, machine-learning, methodology, statistics]
 status: developing
 created: 2026-05-22
+updated: 2026-05-22
 related: ["[[Overfitting]]", "[[Training vs Test Error]]", "[[Regularization]]", "[[Bias-Variance Tradeoff]]", "[[Procedural Overfitting]]", "[[Prediction vs Explanation (Psychology)]]", "[[Analytic Reproducibility]]", "[[Preregistration]]", "[[yarkoni-westfall-2017-prediction-vs-explanation]]"]
 ---
 

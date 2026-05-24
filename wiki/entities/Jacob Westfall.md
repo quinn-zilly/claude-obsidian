@@ -6,6 +6,7 @@ title: "Jacob Westfall"
 tags: [entity, person, psychology, statistics, methodology]
 status: developing
 created: 2026-05-22
+updated: 2026-05-22
 related: ["[[Tal Yarkoni]]", "[[Prediction vs Explanation (Psychology)]]", "[[yarkoni-westfall-2017-prediction-vs-explanation]]"]
 ---
 

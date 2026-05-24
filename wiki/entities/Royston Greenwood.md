@@ -8,6 +8,7 @@ tags:
   - organizational-theory
 status: developing
 created: 2026-05-21
+updated: 2026-05-21
 affiliation: "University of Alberta"
 related:
   - "[[micelotta-2017-pathways-institutional-change]]"

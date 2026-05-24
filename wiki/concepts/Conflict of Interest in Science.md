@@ -2,6 +2,9 @@
 title: Conflict of Interest in Science
 address: c-000070
 created: 2026-05-20
+type: concept
+status: developing
+updated: 2026-05-20
 tags:
   - science
   - incentives

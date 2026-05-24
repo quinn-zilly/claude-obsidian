@@ -19,6 +19,7 @@ tags:
   - organizational-theory
 status: ingested
 created: 2026-05-21
+updated: 2026-05-21
 related:
   - "[[Institutional Change Pathways]]"
   - "[[Institutional Isomorphism]]"

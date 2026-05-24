@@ -513,6 +513,56 @@
         "wiki/hot.md",
         "wiki/log.md"
       ]
+    },
+    ".raw/Tversky and Kahneman - 1974 - Judgment under Uncertainty Heuristics and Biases.pdf": {
+      "hash": "9db37b6bb46f1d05ca5ef01418c41d99",
+      "ingested_at": "2026-05-23",
+      "pages_created": [
+        "wiki/sources/tversky-kahneman-1974-heuristics-biases.md",
+        "wiki/entities/Amos Tversky.md",
+        "wiki/entities/Daniel Kahneman.md",
+        "wiki/concepts/Heuristics and Biases Program.md",
+        "wiki/concepts/Representativeness Heuristic.md",
+        "wiki/concepts/Availability Heuristic.md",
+        "wiki/concepts/Anchoring and Adjustment.md",
+        "wiki/concepts/Base Rate Neglect.md",
+        "wiki/concepts/Gambler's Fallacy.md",
+        "wiki/concepts/Illusion of Validity.md",
+        "wiki/concepts/Regression to the Mean.md",
+        "wiki/concepts/Illusory Correlation.md"
+      ],
+      "pages_updated": [
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md",
+        "wiki/sources/_index.md"
+      ]
+    },
+    ".raw/Connolly et al. - 2012 - Judgement and Decision Making.pdf": {
+      "hash": "0ab4b59e66c6a49d007ca1e70614df73",
+      "ingested_at": "2026-05-23",
+      "pages_created": [
+        "wiki/sources/connolly-2012-jdm.md",
+        "wiki/concepts/Judgment and Decision Making (Field).md",
+        "wiki/concepts/Lens Model.md",
+        "wiki/concepts/Policy Capturing.md",
+        "wiki/concepts/Prospect Theory.md",
+        "wiki/concepts/Framing Effects.md",
+        "wiki/concepts/Decision Justification Theory.md",
+        "wiki/concepts/Appraisal-Tendency Framework.md",
+        "wiki/concepts/Signal Detection Theory (Decision).md",
+        "wiki/concepts/Naturalistic Decision Making.md",
+        "wiki/concepts/Sunk Cost Effect.md",
+        "wiki/concepts/Dynamic Decision Making.md",
+        "wiki/concepts/Electronic Brainstorming.md",
+        "wiki/entities/Terry Connolly.md",
+        "wiki/entities/Lisa Ord\u00f3\u00f1ez.md"
+      ],
+      "pages_updated": [
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md"
+      ]
     }
   },
   "address_map": {
@@ -647,6 +697,33 @@
     "wiki/concepts/Pay Transparency.md": "c-000176",
     "wiki/entities/Ingrid Smithey Fulmer.md": "c-000177",
     "wiki/entities/Barry Gerhart.md": "c-000178",
-    "wiki/entities/JiHyun Kim.md": "c-000179"
+    "wiki/entities/JiHyun Kim.md": "c-000179",
+    "wiki/sources/tversky-kahneman-1974-heuristics-biases.md": "c-000180",
+    "wiki/entities/Amos Tversky.md": "c-000181",
+    "wiki/entities/Daniel Kahneman.md": "c-000182",
+    "wiki/concepts/Representativeness Heuristic.md": "c-000183",
+    "wiki/concepts/Availability Heuristic.md": "c-000184",
+    "wiki/concepts/Anchoring and Adjustment.md": "c-000185",
+    "wiki/concepts/Base Rate Neglect.md": "c-000186",
+    "wiki/concepts/Gambler's Fallacy.md": "c-000187",
+    "wiki/concepts/Illusion of Validity.md": "c-000188",
+    "wiki/concepts/Regression to the Mean.md": "c-000189",
+    "wiki/concepts/Illusory Correlation.md": "c-000190",
+    "wiki/concepts/Heuristics and Biases Program.md": "c-000191",
+    "wiki/sources/connolly-2012-jdm.md": "c-000192",
+    "wiki/concepts/Judgment and Decision Making (Field).md": "c-000193",
+    "wiki/concepts/Lens Model.md": "c-000194",
+    "wiki/concepts/Policy Capturing.md": "c-000195",
+    "wiki/concepts/Prospect Theory.md": "c-000196",
+    "wiki/concepts/Decision Justification Theory.md": "c-000197",
+    "wiki/concepts/Naturalistic Decision Making.md": "c-000198",
+    "wiki/concepts/Sunk Cost Effect.md": "c-000199",
+    "wiki/concepts/Dynamic Decision Making.md": "c-000200",
+    "wiki/concepts/Electronic Brainstorming.md": "c-000201",
+    "wiki/entities/Terry Connolly.md": "c-000202",
+    "wiki/entities/Lisa Ord\u00f3\u00f1ez.md": "c-000203",
+    "wiki/concepts/Framing Effects.md": "c-000204",
+    "wiki/concepts/Appraisal-Tendency Framework.md": "c-000205",
+    "wiki/concepts/Signal Detection Theory (Decision).md": "c-000206"
   }
 }

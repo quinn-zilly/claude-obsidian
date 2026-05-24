@@ -5,6 +5,7 @@ title: "Prediction Markets (Science)"
 tags: [open-science, metascience, replication, forecasting]
 status: developing
 created: 2026-05-22
+updated: 2026-05-22
 related: ["[[Replication Crisis]]","[[Many Labs]]","[[nosek-2022-replicability-robustness-reproducibility]]","[[Anna Dreber]]","[[Open Science Collaboration (2015)]]"]
 ---
 

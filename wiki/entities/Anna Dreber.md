@@ -6,6 +6,7 @@ title: "Anna Dreber"
 tags: [person, open-science, economics, prediction-markets, replication]
 status: developing
 created: 2026-05-22
+updated: 2026-05-22
 related: ["[[Prediction Markets (Science)]]","[[nosek-2022-replicability-robustness-reproducibility]]","[[Replication Crisis]]","[[Open Science]]"]
 ---
 

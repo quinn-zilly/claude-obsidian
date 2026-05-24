@@ -6,6 +6,7 @@ aliases: ["Bias-Variance Decomposition", "Bias Variance"]
 tags: [concept, machine-learning, methodology, statistics]
 status: developing
 created: 2026-05-22
+updated: 2026-05-22
 related: ["[[Overfitting]]", "[[Regularization]]", "[[Cross-Validation]]", "[[Training vs Test Error]]", "[[Prediction vs Explanation (Psychology)]]", "[[Procedural Overfitting]]", "[[yarkoni-westfall-2017-prediction-vs-explanation]]"]
 ---
 

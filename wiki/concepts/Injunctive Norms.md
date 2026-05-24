@@ -5,6 +5,7 @@ title: "Injunctive Norms"
 tags: [concept, social-norms, behaviour-change, social-psychology]
 status: developing
 created: 2026-05-23
+updated: 2026-05-23
 related:
   - "[[Descriptive Norms]]"
   - "[[Behaviour Change Determinants]]"

@@ -12,6 +12,7 @@ doi: "10.1177/1745691617693393"
 tags: [source, open-science, machine-learning, methodology, prediction, psychology]
 status: evergreen
 created: 2026-05-22
+updated: 2026-05-22
 related: ["[[Prediction vs Explanation (Psychology)]]", "[[Overfitting]]", "[[Cross-Validation]]", "[[Regularization]]", "[[Bias-Variance Tradeoff]]", "[[Procedural Overfitting]]", "[[Training vs Test Error]]", "[[Replication Crisis]]", "[[P-hacking]]", "[[Questionable Research Practices]]", "[[Tal Yarkoni]]", "[[Jacob Westfall]]"]
 ---
 

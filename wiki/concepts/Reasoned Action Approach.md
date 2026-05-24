@@ -6,6 +6,7 @@ aliases: ["Theory of Reasoned Action", "Theory of Planned Behaviour", "RAA"]
 tags: [concept, behaviour-change, social-psychology, attitude-theory]
 status: developing
 created: 2026-05-23
+updated: 2026-05-23
 related:
   - "[[Behaviour Change Determinants]]"
   - "[[Information-Motivation-Behavioural Skills Model]]"

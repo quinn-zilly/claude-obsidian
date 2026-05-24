@@ -6,6 +6,7 @@ aliases: ["Prediction-Explanation Tension", "Explanatory vs Predictive Science"]
 tags: [concept, methodology, machine-learning, psychology, open-science]
 status: developing
 created: 2026-05-22
+updated: 2026-05-22
 related: ["[[Overfitting]]", "[[Cross-Validation]]", "[[Regularization]]", "[[Bias-Variance Tradeoff]]", "[[Replication Crisis]]", "[[P-hacking]]", "[[Questionable Research Practices]]", "[[yarkoni-westfall-2017-prediction-vs-explanation]]"]
 ---
 

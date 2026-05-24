@@ -11,6 +11,7 @@ doi: "10.1146/annurev-psych-020821-114157"
 tags: [open-science, replication, metascience, methodology, psychology]
 status: evergreen
 created: 2026-05-22
+updated: 2026-05-22
 related: ["[[Brian Nosek]]","[[Replication Crisis]]","[[Preregistration]]","[[Open Science]]","[[Analytic Reproducibility]]","[[Robustness (Science)]]","[[Replication as Theoretical Commitment]]","[[Questionable Research Practices]]","[[TOP Guidelines]]","[[Registered Reports]]","[[Open Science Framework]]","[[Many Labs]]","[[Psychological Science Accelerator]]"]
 ---
 

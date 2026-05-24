@@ -6,6 +6,7 @@ aliases: ["sorting effect", "compensation sorting"]
 tags: [compensation, PFP, selection, turnover, performance]
 status: evergreen
 created: 2026-05-23
+updated: 2026-05-23
 related:
   - "[[Pay-for-Performance]]"
   - "[[Incentive Effect (Compensation)]]"

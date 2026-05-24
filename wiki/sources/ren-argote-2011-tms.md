@@ -11,12 +11,15 @@ pages: 189-229
 doi: "10.1080/19416520.2011.590300"
 source_type: academic-review
 created: 2026-05-21
+type: source
+status: developing
+updated: 2026-05-21
 tags:
   - transactive-memory
   - team-cognition
   - organizational-learning
   - group-performance
-address: c-000001
+address: c-000207
 ---
 
 # Transactive Memory Systems 1985–2010: An Integrative Framework

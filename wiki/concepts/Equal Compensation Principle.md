@@ -6,6 +6,7 @@ aliases: ["multitasking problem", "Milgrom-Roberts equal compensation"]
 tags: [compensation, incentive design, agency-theory, performance]
 status: evergreen
 created: 2026-05-23
+updated: 2026-05-23
 related:
   - "[[Pay-for-Performance]]"
   - "[[PFP Intensity]]"

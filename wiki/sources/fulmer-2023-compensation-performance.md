@@ -11,6 +11,7 @@ doi: "10.1111/peps.12583"
 tags: [compensation, pay-for-performance, performance, HR, review, personnel-psychology]
 status: ingested
 created: 2026-05-23
+updated: 2026-05-23
 related:
   - "[[Pay-for-Performance]]"
   - "[[Incentive Effect (Compensation)]]"

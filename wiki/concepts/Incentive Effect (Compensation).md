@@ -6,6 +6,7 @@ aliases: ["incentive effect"]
 tags: [compensation, motivation, PFP, performance]
 status: evergreen
 created: 2026-05-23
+updated: 2026-05-23
 related:
   - "[[Pay-for-Performance]]"
   - "[[Sorting Effect (Compensation)]]"

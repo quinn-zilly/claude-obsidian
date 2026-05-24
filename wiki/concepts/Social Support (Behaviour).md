@@ -5,6 +5,7 @@ title: "Social Support (Behaviour)"
 tags: [concept, behaviour-change, social-support, structural-interventions]
 status: developing
 created: 2026-05-23
+updated: 2026-05-23
 related:
   - "[[Behaviour Change Determinants]]"
   - "[[Behavioural Access Interventions]]"

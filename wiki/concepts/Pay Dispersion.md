@@ -6,6 +6,7 @@ aliases: ["wage dispersion", "pay variation", "pay inequality"]
 tags: [compensation, PFP, equity, performance, turnover]
 status: evergreen
 created: 2026-05-23
+updated: 2026-05-23
 related:
   - "[[Pay-for-Performance]]"
   - "[[Sorting Effect (Compensation)]]"

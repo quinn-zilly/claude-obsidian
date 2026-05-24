@@ -6,6 +6,7 @@ title: "Tom Hardwicke"
 tags: [person, open-science, metascience, psychology]
 status: stub
 created: 2026-05-22
+updated: 2026-05-22
 related: ["[[Brian Nosek]]","[[nosek-2022-replicability-robustness-reproducibility]]","[[Analytic Reproducibility]]","[[Open Science]]"]
 ---
 

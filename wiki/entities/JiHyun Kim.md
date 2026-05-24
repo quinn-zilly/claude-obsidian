@@ -5,6 +5,7 @@ title: "JiHyun Kim"
 tags: [person, researcher, compensation, HR, management]
 status: evergreen
 created: 2026-05-23
+updated: 2026-05-23
 related:
   - "[[Pay-for-Performance]]"
   - "[[Incentive Effect (Compensation)]]"

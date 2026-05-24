@@ -14,6 +14,7 @@ pages: "4.1–4.28"
 doi: "10.1146/annurev-orgpsych-012420-060109"
 tags: [training, learning, instruction, workplace-learning, instructional-principles]
 created: 2026-05-21
+updated: 2026-05-21
 status: evergreen
 related:
   - "[[Science of Workplace Instruction]]"

@@ -6,6 +6,7 @@ aliases: ["PFP", "performance-based pay", "incentive pay"]
 tags: [compensation, motivation, HR, performance]
 status: evergreen
 created: 2026-05-23
+updated: 2026-05-23
 related:
   - "[[PFP Intensity]]"
   - "[[Incentive Effect (Compensation)]]"

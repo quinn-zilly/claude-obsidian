@@ -7,6 +7,7 @@ affiliation: "University of Pennsylvania"
 tags: [entity, person, social-psychology, behaviour-change, attitude-change]
 status: developing
 created: 2026-05-23
+updated: 2026-05-23
 related:
   - "[[albarracin-2024-determinants-behaviour-change]]"
   - "[[Behaviour Change Determinants]]"

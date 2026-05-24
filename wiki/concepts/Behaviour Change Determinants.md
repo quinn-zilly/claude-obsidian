@@ -5,6 +5,7 @@ title: "Behaviour Change Determinants"
 tags: [concept, behaviour-change, social-psychology, meta-analysis, interventions]
 status: developing
 created: 2026-05-23
+updated: 2026-05-23
 related:
   - "[[albarracin-2024-determinants-behaviour-change]]"
   - "[[Reasoned Action Approach]]"

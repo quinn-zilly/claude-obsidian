@@ -1,7 +1,7 @@
 ---
 type: meta
 title: "Dashboard"
-updated: 2026-05-19
+updated: 2026-05-23
 tags:
   - meta
   - dashboard
@@ -71,15 +71,15 @@ TABLE author, date_published, updated FROM "wiki/sources" WHERE type = "source" 
 
 ## Last Lint Run
 
-[[lint-report-2026-05-19]] — 2026-05-19
+[[lint-report-2026-05-23]] — 2026-05-23
 
 | Check | Result |
 |---|---|
-| Orphan pages | ✅ 0 |
-| Dead links | ⚠️ 21 |
-| Stale index entries | ⚠️ 5 |
-| Frontmatter gaps | ⚠️ 37 pages |
-| Empty sections | ⚠️ 34 pages |
-| Address errors | 🔴 4 (1 collision, 3 missing) |
-| Manifest errors | ✅ 0 |
+| Orphan pages | ⚠️ 1 (Norbert-Kerr rename) |
+| Dead links | ⚠️ 38 pages |
+| Stale index entries | ⚠️ 3 |
+| Frontmatter gaps | ⚠️ 97 pages (mostly `updated` field) |
+| Empty sections | ⚠️ 79 pages |
+| Address errors | 🔴 1 (c-000001 duplicate) |
+| Legacy backfill pending | ℹ️ 21 pages |
 | Semantic tiling | ⏭️ skipped (ollama offline) |

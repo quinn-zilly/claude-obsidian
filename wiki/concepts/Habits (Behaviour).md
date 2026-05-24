@@ -5,6 +5,7 @@ title: "Habits (Behaviour)"
 tags: [concept, behaviour-change, habits, automaticity, social-psychology]
 status: developing
 created: 2026-05-23
+updated: 2026-05-23
 related:
   - "[[Behaviour Change Determinants]]"
   - "[[albarracin-2024-determinants-behaviour-change]]"

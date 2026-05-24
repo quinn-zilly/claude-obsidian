@@ -5,6 +5,7 @@ title: "Behavioural Access Interventions"
 tags: [concept, behaviour-change, access, structural-interventions, policy]
 status: developing
 created: 2026-05-23
+updated: 2026-05-23
 related:
   - "[[Behaviour Change Determinants]]"
   - "[[Social Cognitive Theory]]"

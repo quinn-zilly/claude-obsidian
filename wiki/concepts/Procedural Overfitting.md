@@ -6,6 +6,7 @@ aliases: ["Analytic Overfitting", "Researcher Degrees of Freedom Overfitting"]
 tags: [concept, machine-learning, methodology, open-science, psychology]
 status: developing
 created: 2026-05-22
+updated: 2026-05-22
 related: ["[[Overfitting]]", "[[P-hacking]]", "[[Bias-Variance Tradeoff]]", "[[Cross-Validation]]", "[[Preregistration]]", "[[HARKing]]", "[[Questionable Research Practices]]", "[[Prediction vs Explanation (Psychology)]]", "[[yarkoni-westfall-2017-prediction-vs-explanation]]"]
 ---
 

@@ -6,6 +6,7 @@ aliases: ["Transparency and Openness Promotion Guidelines"]
 tags: [open-science, policy, methodology, journals]
 status: developing
 created: 2026-05-22
+updated: 2026-05-22
 related: ["[[Open Science]]","[[Preregistration]]","[[Open Science Framework]]","[[nosek-2022-replicability-robustness-reproducibility]]","[[Brian Nosek]]","[[Center for Open Science]]"]
 ---
 

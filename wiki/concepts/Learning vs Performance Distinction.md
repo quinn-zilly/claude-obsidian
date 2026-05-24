@@ -5,6 +5,7 @@ title: "Learning vs. Performance Distinction"
 tags: [concept, learning, cognitive-psychology, education, training]
 status: developing
 created: 2026-05-21
+updated: 2026-05-21
 related:
   - "[[Desirable Difficulties]]"
   - "[[Spacing Effect]]"

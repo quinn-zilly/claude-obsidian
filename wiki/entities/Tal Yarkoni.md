@@ -6,6 +6,7 @@ title: "Tal Yarkoni"
 tags: [entity, person, psychology, machine-learning, methodology]
 status: developing
 created: 2026-05-22
+updated: 2026-05-22
 related: ["[[Jacob Westfall]]", "[[Prediction vs Explanation (Psychology)]]", "[[Overfitting]]", "[[Cross-Validation]]", "[[yarkoni-westfall-2017-prediction-vs-explanation]]"]
 ---
 

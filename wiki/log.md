@@ -13,6 +13,20 @@ related:
   - "[[sources/_index]]"
 ---
 
+## 2026-05-23 | ingest | Connolly, Ordóñez & Barker 2012 — Judgment and Decision Making
+- Source: `.raw/Connolly et al. - 2012 - Judgement and Decision Making.pdf`
+- Summary: [[connolly-2012-jdm]]
+- Pages created: [[connolly-2012-jdm]], [[Judgment and Decision Making (Field)]], [[Lens Model]], [[Policy Capturing]], [[Prospect Theory]], [[Framing Effects]], [[Decision Justification Theory]], [[Appraisal-Tendency Framework]], [[Signal Detection Theory (Decision)]], [[Naturalistic Decision Making]], [[Sunk Cost Effect]], [[Dynamic Decision Making]], [[Electronic Brainstorming]], [[Terry Connolly]], [[Lisa Ordóñez]]
+- Pages updated: [[index]], [[hot]], [[log]]
+- Key insight: JDM is inherently dual (descriptive + normative); Prospect Theory's reference-point value function explains loss aversion, framing effects, and sunk-cost escalation through a single mechanism; Decision Justification Theory distinguishes outcome from process regret — process-regret priming produces better decisions than outcome-regret priming.
+
+## 2026-05-23 | ingest | Tversky & Kahneman 1974 — Judgment under Uncertainty: Heuristics and Biases
+- Source: `.raw/Tversky and Kahneman - 1974 - Judgment under Uncertainty Heuristics and Biases.pdf`
+- Summary: [[tversky-kahneman-1974-heuristics-biases]]
+- Pages created: [[Amos Tversky]], [[Daniel Kahneman]], [[Heuristics and Biases Program]], [[Representativeness Heuristic]], [[Availability Heuristic]], [[Anchoring and Adjustment]], [[Base Rate Neglect]], [[Gambler's Fallacy]], [[Illusion of Validity]], [[Regression to the Mean]], [[Illusory Correlation]]
+- Pages updated: [[index]], [[hot]], [[sources/_index]]
+- Key insight: Three heuristics (representativeness, availability, anchoring) produce severe and systematic biases in probability judgment — biases that persist in trained researchers and are not eliminated by incentives for accuracy.
+
 ## 2026-05-23 | ingest | Fulmer, Gerhart & Kim 2023 — Compensation and Performance: A Review and Recommendations for the Future
 - Source: `.raw/Fulmer et al. - 2023 - Compensation and performance A review and recommendations for the future.pdf`
 - Summary: [[fulmer-2023-compensation-performance]]

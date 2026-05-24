@@ -5,6 +5,7 @@ title: "Correlation-Intervention Gap (Behaviour)"
 tags: [concept, methodology, behaviour-change, meta-analysis, causal-inference]
 status: developing
 created: 2026-05-23
+updated: 2026-05-23
 related:
   - "[[Behaviour Change Determinants]]"
   - "[[albarracin-2024-determinants-behaviour-change]]"

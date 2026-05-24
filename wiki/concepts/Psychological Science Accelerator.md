@@ -6,6 +6,7 @@ aliases: ["PSA"]
 tags: [open-science, replication, crowdsourcing, methodology]
 status: stub
 created: 2026-05-22
+updated: 2026-05-22
 related: ["[[Crowdsourcing Science]]","[[Many Labs]]","[[nosek-2022-replicability-robustness-reproducibility]]","[[Open Science]]"]
 ---
 

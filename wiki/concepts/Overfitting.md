@@ -6,6 +6,7 @@ aliases: ["Model Overfitting", "Overfitted Model"]
 tags: [concept, machine-learning, methodology, statistics]
 status: developing
 created: 2026-05-22
+updated: 2026-05-22
 related: ["[[Training vs Test Error]]", "[[Cross-Validation]]", "[[Bias-Variance Tradeoff]]", "[[Regularization]]", "[[Procedural Overfitting]]", "[[Prediction vs Explanation (Psychology)]]", "[[P-hacking]]", "[[yarkoni-westfall-2017-prediction-vs-explanation]]"]
 ---
 

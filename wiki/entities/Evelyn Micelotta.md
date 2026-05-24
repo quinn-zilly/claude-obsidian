@@ -8,6 +8,7 @@ tags:
   - organizational-theory
 status: developing
 created: 2026-05-21
+updated: 2026-05-21
 affiliation: "University of New Mexico"
 related:
   - "[[micelotta-2017-pathways-institutional-change]]"

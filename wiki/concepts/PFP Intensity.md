@@ -6,6 +6,7 @@ aliases: ["pay-for-performance intensity", "incentive intensity"]
 tags: [compensation, PFP, motivation, performance]
 status: evergreen
 created: 2026-05-23
+updated: 2026-05-23
 related:
   - "[[Pay-for-Performance]]"
   - "[[Incentive Effect (Compensation)]]"

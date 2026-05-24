@@ -7,6 +7,8 @@ year: 2012
 publication: Perspectives on Psychological Science, 7(6), 615–631
 date: 2012
 created: 2026-05-20
+status: developing
+updated: 2026-05-20
 source_type: academic_paper
 doi: 10.1177/1745691612459058
 tags:
