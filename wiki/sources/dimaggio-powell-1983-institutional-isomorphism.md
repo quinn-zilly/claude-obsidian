@@ -2,7 +2,9 @@
 type: source
 address: c-000059
 title: "The Iron Cage Revisited: Institutional Isomorphism and Collective Rationality in Organizational Fields"
-author: "Paul J. DiMaggio, Walter W. Powell"
+author:
+  - "[[Paul DiMaggio]]"
+  - "[[Walter Powell]]"
 year: 1983
 venue: "American Sociological Review"
 volume: 48
@@ -81,4 +83,4 @@ Weber attributed bureaucratization to competitive market forces. DiMaggio & Powe
 - [[Knowledge Transfer]]: normative isomorphism is a mechanism of inter-organizational knowledge transfer, specifically tacit norms and practices embedded in personnel and professional communities
 - [[Organizational Learning]]: mimetic isomorphism is organizational learning from environmental models; connects to experiential learning through imitation
 - [[Knowledge-Based View of the Firm]]: KBV emphasizes competitive differentiation through unique knowledge; institutional theory explains forces pushing toward homogenization — productive tension
-- [[Replication Crisis]]: normative isomorphism in science (methodological norms, publication standards, credential filtering) may contribute to shared biases and correlated errors across labs
+- [[Replication Crisis]]: normative isomorphism in science (methodological norms, publication standards, credent

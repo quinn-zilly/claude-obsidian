@@ -2,7 +2,10 @@
 address: c-000158
 type: source
 title: "Determinants of Behaviour and Their Efficacy as Targets of Behavioural Change Interventions"
-authors: ["Dolores Albarracín", "Bita Fayaz-Farkhad", "Javier A. Granados Samayoa"]
+author:
+  - "[[Dolores Albarracín]]"
+  - "Bita Fayaz-Farkhad"
+  - "Javier A. Granados Samayoa"
 year: 2024
 outlet: "Nature Reviews Psychology"
 doi: "10.1038/s44159-024-00305-0"
@@ -123,4 +126,4 @@ Climate change: beliefs have small but non-negligible effect, so communicating a
 
 ## Source File
 
-`.raw/Albarracín et al. - 2024 - Determinants of behaviour and their efficacy as targets of behavioural change interventions.pdf`
+`.r

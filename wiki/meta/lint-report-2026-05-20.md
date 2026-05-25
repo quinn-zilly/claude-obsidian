@@ -33,7 +33,7 @@ These wikilinks appear in wiki pages but have no matching page file. Grouped by 
 **File-type / infrastructure links (not real wiki pages):**
 
 - `[[Wiki Map.canvas]]` — referenced in [[Wiki Map]]. Obsidian canvas file; if it exists on disk it's fine. Not a broken wiki page.
-- `[[dashboard.base]]` — Obsidian Bases file; referenced in [[dashboard.md]] and prior lint reports. Non-markdown artifact.
+- `[[dashboard.base]]` — Obsidian Bases file; referenced in [[dashboard]] and prior lint reports. Non-markdown artifact.
 - `[[fold-template]]` — referenced in fold page and prior lint report. Fold template file, not a wiki page.
 
 **Legacy / session-specific dead links (in old meta/session pages):**

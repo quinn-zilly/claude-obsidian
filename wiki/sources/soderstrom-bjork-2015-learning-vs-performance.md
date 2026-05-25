@@ -2,7 +2,9 @@
 address: c-000116
 type: source
 title: "Learning Versus Performance: An Integrative Review"
-authors: ["Nicholas C. Soderstrom", "Robert A. Bjork"]
+author:
+  - "Nicholas C. Soderstrom"
+  - "[[Robert A. Bjork]]"
 year: 2015
 journal: "Perspectives on Psychological Science"
 volume: 10
@@ -127,4 +129,4 @@ See [[Judgment of Learning]] for full detail.
 - [[Replication Crisis]] ↔ Illusions of Competence: researchers, like learners, may trust immediate "performance" signals (p < .05) over long-term cumulative evidence; also connects to [[Aesthetic Standards in Science]]
 - [[Organizational Learning]] ↔ Spacing Effect: organizations that train in long, massed sessions may be optimizing performance during training, not long-term learning
 - [[Knowledge Transfer]] ↔ Testing Effect: retrieval practice as a transfer mechanism; testing as tacit knowledge externalization
-- [[Motivated Reasoning]] ↔ Stability Bias: both involve ordinary cognition producing systematic error below conscious awareness
+-

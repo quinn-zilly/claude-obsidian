@@ -2,7 +2,9 @@
 type: source
 address: c-000005
 title: "Organizational Learning: From Experience to Knowledge"
-authors: ["Linda Argote", "Ella Miron-Spektor"]
+author:
+  - "[[Linda Argote]]"
+  - "[[Ella Miron-Spektor]]"
 year: 2011
 venue: "Organization Science"
 doi: "10.1287/orsc.1100.0621"
@@ -96,4 +98,4 @@ The learning cycle operates at individual, group, organizational, and interorgan
 
 ## Citation
 
-Argote, L., & Miron-Spektor, E. (2011). Organizational learning: From experience to knowledge. *Organization Science*, 22(5), 1123–1137.
+Argote, L., & Miron-Spektor, E. (2011). Orga

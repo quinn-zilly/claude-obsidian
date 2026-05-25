@@ -2,7 +2,10 @@
 type: source
 address: c-000004
 title: "Organizational Learning Processes and Outcomes: Major Findings and Future Research Directions"
-authors: ["Linda Argote", "Sunkee Lee", "Jisoo Park"]
+author:
+  - "[[Linda Argote]]"
+  - "Sunkee Lee"
+  - "Jisoo Park"
 year: 2021
 venue: "Management Science"
 doi: "10.1287/mnsc.2020.3693"
@@ -92,4 +95,4 @@ Learning rate varies with:
 
 ## Citation
 
-Argote, L., Lee, S., & Park, J. (2021). Organizational learning processes and outcomes: Major findings and future research directions. *Management Science*, 67(9), 5399–5429.
+Argote, L., Lee, S., & Park, J. (2021). Organizational learning processes and ou

@@ -1,8 +1,8 @@
 ---
 title: "Transactive Memory Systems 1985–2010: An Integrative Framework"
-authors:
-  - Yuqing Ren
-  - Linda Argote
+author:
+  - "Yuqing Ren"
+  - "[[Linda Argote]]"
 year: 2011
 venue: "The Academy of Management Annals"
 volume: 5
@@ -204,5 +204,4 @@ Dimensions not always highly correlated. In mature, established teams, correlati
 
 ## Summary for Hot Cache
 
-TMS review covering 76 papers. Core insight: groups develop shared "who knows what" systems through training, communication, interdependence. Three dimensions: specialization (division of labor), credibility (trust), coordination (smooth operation). Predicts team learning, creativity, performance, satisfaction. Membership stability, task complexity, communication richness matter. Organizational-level extension promising. Key gaps: virtual teams, entrepreneurial ventures, dynamic evolution.
-
+TMS review covering 76 papers. Core insight: groups develop shared "who knows what" systems through training, communication, interdependence. Three dimensions: specialization (division of labor), credibility (trust), coordination (smooth operation). Predicts team learning, creativity, pe

@@ -2,7 +2,8 @@
 type: source
 address: c-000125
 title: "HARKing: Hypothesizing After the Results are Known"
-author: "[[Norbert Kerr]]"
+author:
+  - "[[Norbert Kerr]]"
 year: 1998
 publication: "Personality and Social Psychology Review"
 volume: 2

@@ -2,7 +2,10 @@
 type: source
 address: c-000069
 title: "Scientific Utopia II: Restructuring Incentives and Practices to Promote Truth Over Publishability"
-authors: Brian A. Nosek, Jeffrey R. Spies, Matt Motyl
+author:
+  - "[[Brian Nosek]]"
+  - "Jeffrey R. Spies"
+  - "Matt Motyl"
 year: 2012
 publication: Perspectives on Psychological Science, 7(6), 615–631
 date: 2012
@@ -243,6 +246,4 @@ The paper reframes the problem: not fraud or incompetence, but ordinary human ps
 
 ## Impact and Legacy
 
-Published in 2012, this paper became foundational to the open science movement. It connected the replication crisis to incentive structures and proposed concrete, implementable reforms. Unlike previous calls for better practices, it acknowledged the power of incentives and proposed solutions that work with (not against) human motivation.
-
-The paper's clarity about what works vs. doesn't work has proven durable. Its recommendations—preregistration, open data, open workflow—have been increasingly adopted across disciplines.
+Published in 2012, this paper became foundational to the open science movement. It connected the replication crisis to incentive structures and proposed concrete, implementable reforms. Unlike previous calls for better practices, it acknowledged the power of incentives and proposed soluti

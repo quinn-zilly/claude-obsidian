@@ -3,7 +3,18 @@
 type: source
 address: c-000024
 title: "DBpedia – A Large-scale, Multilingual Knowledge Base Extracted from Wikipedia"
-author: "Jens Lehmann, Robert Isele, Max Jakob, Anja Jentzsch, Dimitris Kontokostas, Pablo N. Mendes, Sebastian Hellmann, Mohamed Morsey, Patrick van Kleef, Sören Auer, Christian Bizer"
+author:
+  - "[[Jens Lehmann]]"
+  - "Robert Isele"
+  - "Max Jakob"
+  - "Anja Jentzsch"
+  - "Dimitris Kontokostas"
+  - "Pablo N. Mendes"
+  - "Sebastian Hellmann"
+  - "Mohamed Morsey"
+  - "Patrick van Kleef"
+  - "Sören Auer"
+  - "[[Christian Bizer]]"
 year: 2015
 venue: "Semantic Web"
 volume: 6
@@ -95,4 +106,4 @@ DBpedia operationalizes what knowledge management theorists call **knowledge cod
 - [[Linked Open Data]] concept page
 - [[Knowledge Transfer]] — DBpedia as infrastructure for transferring knowledge across applications and communities
 - [[Tacit vs Explicit Knowledge]] — DBpedia's extraction project is fundamentally about codifying implicit structure in Wikipedia into explicit RDF
-- [[alavi-leidner-2001-knowledge-management]] — KMS perspective: DBpedia is a large-scale knowledge management system based on codification strategy
+- [[alavi-leidner-2001-knowledge-management]] — KMS perspect

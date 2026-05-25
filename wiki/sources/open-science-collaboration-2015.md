@@ -3,7 +3,8 @@
 type: source
 address: c-000026
 title: "Estimating the Reproducibility of Psychological Science"
-author: "Open Science Collaboration"
+author:
+  - "[[Open Science Collaboration]]"
 year: 2015
 venue: "Science"
 volume: 349
@@ -112,4 +113,4 @@ The project demonstrated that large-scale, transparent, collaborative replicatio
 
 ## Key Quote
 
-> "After this intensive effort to reproduce a sample of published psychological findings, how many of the effects have we established are true? Zero. And how many of the effects have we established are false? Zero. Is this a limitation of the project design? No. It is the reality of doing science."
+> "After this intensive effort to reproduce a sample of published psychological findings, how many of the effects have we established are true? Zero. And how many of the effects have we esta

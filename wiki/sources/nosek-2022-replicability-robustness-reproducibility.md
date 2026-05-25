@@ -2,7 +2,23 @@
 address: c-000137
 type: source
 title: "Replicability, Robustness, and Reproducibility in Psychological Science"
-authors: ["Brian Nosek", "Tom Hardwicke", "Hannah Moshontz", "Aurélien Allard", "Katherine Corker", "Anna Dreber", "Fiona Fidler", "Joe Hilgard", "Melissa Kline Struhl", "Michèle Nuijten", "Julia Rohrer", "Felipe Romero", "Anne Scheel", "Laura Scherer", "Felix Schönbrodt", "Simine Vazire"]
+author:
+  - "[[Brian Nosek]]"
+  - "[[Tom Hardwicke]]"
+  - "Hannah Moshontz"
+  - "Aurélien Allard"
+  - "Katherine Corker"
+  - "[[Anna Dreber]]"
+  - "Fiona Fidler"
+  - "Joe Hilgard"
+  - "Melissa Kline Struhl"
+  - "Michèle Nuijten"
+  - "Julia Rohrer"
+  - "Felipe Romero"
+  - "Anne Scheel"
+  - "Laura Scherer"
+  - "Felix Schönbrodt"
+  - "[[Simine Vazire]]"
 year: 2022
 venue: "Annual Review of Psychology"
 volume: 73
@@ -176,7 +192,4 @@ Five interdependent levels, each necessary, none sufficient:
 - [[TOP Guidelines]] — journal policy audit
 - [[Psychological Science Accelerator]] — large-scale collaboration mentioned
 - [[Open Science Framework]] — infrastructure layer
-- [[Robustness (Science)]] — one of three R's; multiverse/many analysts
-- [[Replication as Theoretical Commitment]] — conceptual framework
-- [[Questionable Research Practices]] — 14 surveys summarized
-- [[Prediction Markets (Science)]] — r=0.52 with outcomes
+- [[Robustness (Science)]] — one of three R's; multiverse/many analyst

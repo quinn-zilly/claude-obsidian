@@ -3,7 +3,9 @@
 type: source
 address: c-000025
 title: "Open Science Framework (OSF): Supporting Research from Hypothesis to Publication"
-author: "Erin D. Foster, Ariel Deardorff"
+author:
+  - "Erin D. Foster"
+  - "Ariel Deardorff"
 year: 2017
 venue: "Journal of the Medical Library Association"
 volume: 105

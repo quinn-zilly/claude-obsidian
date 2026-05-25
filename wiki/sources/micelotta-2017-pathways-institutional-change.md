@@ -2,7 +2,7 @@
 type: source
 address: c-000127
 title: "Pathways of Institutional Change: An Integrative Review and Research Agenda"
-authors:
+author:
   - "[[Evelyn Micelotta]]"
   - "[[Michael Lounsbury]]"
   - "[[Royston Greenwood]]"
@@ -99,4 +99,4 @@ Bottom-up change from mundane day-to-day practice improvisations. Smets et al. (
 - [[Institutional Isomorphism]]: the isomorphic mechanisms are the *stability-preserving* forces that institutional change must overcome or work through
 - [[Microfoundations]] (Barney & Felin 2013): both concern how individual-level variation aggregates; accretion pathway is the institutional theory equivalent of emergent aggregation
 - [[Organizational Learning]]: practice-based stream directly interfaces with OL; "unobtrusive diffusion" parallels tacit knowledge transfer; accretion resembles learning-by-doing accumulation
-- [[Motivated Reasoning]]: embedded agency paradox has cognitive micro-foundation — actors don't experience constraint as constraint; parallels science reform literature's diagnosis of ordinary psychology under misaligned incentives
+- [[Motivated Reasoning]]: embedded agency paradox has cognitive micro-foundation — actors don't experience constrain

@@ -2,7 +2,9 @@
 address: c-000180
 type: source
 title: "Judgment under Uncertainty: Heuristics and Biases"
-authors: ["[[Amos Tversky]]", "[[Daniel Kahneman]]"]
+author:
+  - "[[Amos Tversky]]"
+  - "[[Daniel Kahneman]]"
 year: 1974
 venue: "Science, Vol. 185, No. 4157, pp. 1124–1131"
 doi: "https://www.jstor.org/stable/1738360"
@@ -132,4 +134,4 @@ The central analogy: probability judgment resembles perceptual judgment of physi
 
 ## Pages Created
 
-[[Amos Tversky]] | [[Daniel Kahneman]] | [[Representativeness Heuristic]] | [[Availability Heuristic]] | [[Anchoring and Adjustment]] | [[Base Rate Neglect]] | [[Gambler's Fallacy]] | [[Illusion of Validity]] | [[Regression to the Mean]] | [[Illusory Correlation]] | [[Heuristics and Biases Program]]
+[[Amos Tversky]] | [[Daniel Kahneman]] | [[Representativeness Heuristic]] | [[Availability Heuristic]] | [[Anchoring and Adjustment]] | [[Base Rate Neglect]] | [[

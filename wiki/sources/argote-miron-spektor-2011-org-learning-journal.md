@@ -3,7 +3,9 @@
 type: source
 address: c-000020
 title: "Organizational Learning: From Experience to Knowledge"
-author: "Linda Argote, Ella Miron-Spektor"
+author:
+  - "[[Linda Argote]]"
+  - "[[Ella Miron-Spektor]]"
 year: 2011
 venue: "Organization Science"
 volume: 22
@@ -92,4 +94,4 @@ This makes learning inherently path-dependent: the same experience produces diff
 
 ## Comparison with Zahra et al. (2020)
 
-Argote & Miron-Spektor's framework is more process-oriented (how knowledge flows within organizations); [[zahra-2020-knowledge-integration]] is more integrative and multi-level (how organizations combine knowledge from multiple sources, including external). Both treat tacit/explicit as the central moderator.
+Argote & Miron-Spektor's framework is more process-oriented (how knowledge flows within organizations); [[zahra-2020-knowledge-integration]] is more integrative and multi-level (how organizations combine knowledge from multi

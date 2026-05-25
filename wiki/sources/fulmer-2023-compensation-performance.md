@@ -2,7 +2,10 @@
 type: source
 address: c-000169
 title: "Compensation and Performance: A Review and Recommendations for the Future"
-authors: ["Ingrid Smithey Fulmer", "Barry Gerhart", "JiHyun Kim"]
+author:
+  - "[[Ingrid Smithey Fulmer]]"
+  - "[[Barry Gerhart]]"
+  - "[[JiHyun Kim]]"
 year: 2023
 journal: "Personnel Psychology"
 volume: 76
@@ -219,4 +222,4 @@ National culture effects on equity vs. equality allocation rule are small: Fisch
 
 ## Concluding Note
 
-The review notes that employee compensation remains "an under-studied topic despite its clear importance to employees' lives and its economic significance for organizations and society" — with academic research proportionally lower than practitioner interest. The authors call for revitalized research to fill these gaps by the 100th anniversary of *Personnel Psychology*.
+The review notes that employee compensation remains "an under-studied topic despite its clear importance to employees' lives and its economic significance for 

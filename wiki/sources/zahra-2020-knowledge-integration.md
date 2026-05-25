@@ -2,7 +2,10 @@
 type: source
 address: c-000003
 title: "What Do We Know About Knowledge Integration: Fusing Micro- and Macro-Organizational Perspectives"
-authors: ["Shaker A. Zahra", "Donald O. Neubaum", "James Hayton"]
+author:
+  - "[[Shaker Zahra]]"
+  - "Donald O. Neubaum"
+  - "James Hayton"
 year: 2021
 venue: "Academy of Management Annals"
 doi: "10.5465/annals.2017.0093"
@@ -89,4 +92,4 @@ Four properties of knowledge shape how it can be integrated:
 
 ## Citation
 
-Zahra, S. A., Neubaum, D. O., & Hayton, J. (2020). What do we know about knowledge integration: Fusing micro- and macro-organizational perspectives. *Academy of Management Annals*, 14(1), 160–194.
+Zahra, S. A., Neubaum, D. O., & Hayton, J. (2020). What do we know about knowledge integration: Fusing

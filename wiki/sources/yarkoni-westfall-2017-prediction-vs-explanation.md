@@ -2,7 +2,9 @@
 address: c-000148
 type: source
 title: "Choosing Prediction Over Explanation in Psychology: Lessons From Machine Learning"
-authors: ["Tal Yarkoni", "Jacob Westfall"]
+author:
+  - "[[Tal Yarkoni]]"
+  - "[[Jacob Westfall]]"
 year: 2017
 journal: "Perspectives on Psychological Science"
 volume: 12
@@ -94,4 +96,4 @@ Python and R tutorials available at http://github.com/tyarkoni/PPS2016
 
 **Created:** [[Prediction vs Explanation (Psychology)]], [[Overfitting]], [[Cross-Validation]], [[Regularization]], [[Bias-Variance Tradeoff]], [[Training vs Test Error]], [[Procedural Overfitting]], [[Tal Yarkoni]], [[Jacob Westfall]]
 
-**Updated:** [[Replication Crisis]], [[P-hacking]], [[Questionable Research Practices]], [[HARKing]]
+**Update

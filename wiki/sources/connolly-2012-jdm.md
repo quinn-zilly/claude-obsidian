@@ -2,7 +2,10 @@
 type: source
 address: c-000192
 title: "Judgment and Decision Making"
-authors: ["Terry Connolly", "Lisa Ordóñez", "Steven Barker"]
+author:
+  - "[[Terry Connolly]]"
+  - "[[Lisa Ordóñez]]"
+  - "Steven Barker"
 year: 2012
 source_file: ".raw/Connolly et al. - 2012 - Judgement and Decision Making.pdf"
 venue: "Handbook of Psychology (2nd ed.), Vol. 12: Industrial and Organizational Psychology, Ch. 19"
@@ -107,5 +110,4 @@ JDM is inherently dual: descriptive (what people do) and normative/prescriptive 
 - [[Amos Tversky]] — entity page
 - [[Replication Crisis]] — heuristics-and-biases paradigm waning mirrors replication concerns
 - [[Behaviour Change Determinants]] — Albarracín 2024 on correlation-intervention gap parallels overconfidence failures
-- [[Correlation-Intervention Gap (Behaviour)]] — normative vs. actual parallels throughout JDM
-- [[Motivated Reasoning]] — incidental emotions + motivated information search
+- [[Correlation-Intervention Gap (Behaviour)]] — normative vs. actua
