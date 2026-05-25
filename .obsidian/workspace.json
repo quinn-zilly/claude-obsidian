@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/concepts/Appraisal-Tendency Framework.md",
-                "mode": "preview",
+                "file": "wiki/projects/Book recommendations.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Appraisal-Tendency Framework"
+              "title": "Book recommendations"
             }
           }
         ]
@@ -229,8 +229,11 @@
       "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "673151f542aae49d",
+  "active": "32f5d82af2a0b6c4",
   "lastOpenFiles": [
+    "wiki/concepts/Appraisal-Tendency Framework.md",
+    "wiki/projects/Book recommendations.md",
+    "wiki/projects",
     "wiki/hot.md.tmp.25660.696d0a6daf10",
     "wiki/hot.md.tmp.25660.b4fed31bd07f",
     "wiki/index.md.tmp.25660.0bf5eb363894",
@@ -249,10 +252,9 @@
     "wiki/sources/cornelissen-werner-2014-framing-review.md",
     "wiki/sources/cornelissen-werner-2014-framing-review.md.tmp.25660.dada6d61ead0",
     "wiki/concepts/70-20-10 Rule.md",
-    "wiki/Maps/dashboard.base",
-    "wiki/concepts/Appraisal-Tendency Framework.md",
+    "wiki/maps/dashboard.base",
     "wiki/concepts/Anchoring and Adjustment.md",
-    "wiki/Maps/dashboard.md",
+    "wiki/maps/dashboard.md",
     "Lewis (2003).md",
     "wiki/concepts/Replication Crisis.md",
     "wiki/concepts/Publication Bias.md",
@@ -262,9 +264,9 @@
     "wiki/entities/_index.md",
     "wiki/sources/_index.md",
     "wiki/concepts/Aesthetic Standards in Science.md",
-    "wiki/Maps",
+    "wiki/maps",
     "wiki/meta/dashboard.base",
-    "wiki/Maps/Wiki Map.canvas",
+    "wiki/maps/Wiki Map.canvas",
     "wiki/sources/sedphzY1U",
     "wiki/meta/UseThis.png",
     "wiki/meta/Repo-Homepage.png",
@@ -276,12 +278,10 @@
     "wiki/meta/Cursor-Click-White.png",
     "wiki/meta/dragonscale-6-test-flow.png",
     "wiki/meta/dragonscale-6-test-flow.svg",
-    "wiki/folds/fold-k4-from-2026-04-08-to-2026-04-24-n16.md.tmp.16860.be2599dc4770",
     "wiki/canvases/youtube-explainer.canvas",
     "wiki/canvases/welcome.canvas",
     "wiki/canvases/main.canvas",
     "wiki/canvases/claude-obsidian-presentation.canvas",
-    "wiki/index.md.tmp.20932.5dfcd686aef5",
     "Untitled.canvas"
   ]
 }
