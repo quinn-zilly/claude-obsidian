@@ -23,7 +23,7 @@ related:
 
 # Wiki Index
 
-Last updated: 2026-05-23 | Total pages: 222 | Sources ingested: 31
+Last updated: 2026-05-24 | Total pages: 234 | Sources ingested: 32
 
 Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[getting-started]]
 
@@ -55,6 +55,15 @@ Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[
 - [[Knowledge Retention]] — embedding knowledge in distributed repositories so it persists over time (developing)
 - [[Knowledge-Based Theory of the Firm]] — Grant (1996); firm as knowledge integrator; four integration mechanisms; common knowledge (developing)
 - [[Microfoundations]] — individual-level mechanisms underlying collective outcomes; additive vs. emergent aggregation (developing)
+- [[Framing (Organizational Theory)]] — multi-level review of framing: micro cognitive frames, meso meaning construction, macro field/institutional frames; priming/framing distinction; Cornelissen & Werner 2014 (developing)
+- [[Cognitive Frame]] — knowledge schema that directs perception and inference; top-down/theory-driven; Carnegie tradition; sensemaking foundation (developing)
+- [[Priming vs Framing]] — key distinction: priming = accessing existing schemas (top-down); framing = socially constructing new meaning (bottom-up); Cornelissen & Werner 2014 (developing)
+- [[Strategic Framing]] — purposeful rhetoric to reshape others' interpretive frames; framing contests; cultural entrepreneurs; Kaplan 2008; Fiss & Zajac 2006 (developing)
+- [[Collective Action Frame]] — social movement framing: diagnostic/prognostic/motivational tasks; four alignment processes; Benford & Snow 2000 (developing)
+- [[Field Frame]] — endogenous field-level interpretive convention; emerges from framing struggles; bridges micro agency and macro institutionalization; Lounsbury et al. 2003 (developing)
+- [[Institutional Frame]] — naturalized, taken-for-granted cognitive frame; "dead metaphor"; structures expectations invisibly; Weber & Glynn 2006 (developing)
+- [[Sensemaking (Organizational)]] — Weick 1995; cue + relation + frame = meaning; sensebreaking; Mann Gulch; cognitive basis of framing at micro level (developing)
+- [[Technological Frame]] — collectively constructed assumptions about technology's nature and appropriate use; Orlikowski & Gash 1994; congruence debates (developing)
 - [[Institutional Isomorphism]] — three mechanisms (coercive, mimetic, normative) by which organizations in a field converge structurally without efficiency gains (developing)
 - [[Organizational Field]] — the totality of relevant actors constituting a recognized area of institutional life; unit of analysis for isomorphism theory (developing)
 - [[Institutional Change Pathways]] — 2×2 typology: scope (transformational/developmental) × pace (revolutionary/evolutionary) yields Displacement, Alignment, Accommodation, Accretion (developing)
@@ -176,6 +185,8 @@ Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[
 
 ## Entities
 
+- [[Joep Cornelissen]] — VU Amsterdam / Rotterdam School of Management; framing, sensemaking, conceptual blending, corporate communication; Cornelissen & Werner 2014 (developing)
+- [[Mirjam Werner]] — University of Leeds POLIS; co-author of Cornelissen & Werner 2014 framing review (developing)
 - [[Amos Tversky]] — Hebrew University / Stanford; co-founder of heuristics and biases program with Kahneman; 1937–1996 (developing)
 - [[Daniel Kahneman]] — Hebrew University / Princeton; co-founder of heuristics and biases program; Nobel Prize in Economics 2002; *Thinking, Fast and Slow* (developing)
 - [[Terry Connolly]] — U of Arizona; JDM researcher; regret/DJT, electronic brainstorming, naturalistic DM, information purchase (developing)
@@ -230,6 +241,7 @@ Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[
 
 ## Sources
 
+- [[cornelissen-werner-2014-framing-review|Cornelissen & Werner (2014)]] — Academy of Management Annals | multi-level framing review | 2026-05-24
 - [[connolly-2012-jdm|Connolly, Ordóñez & Barker (2012)]] — Handbook of Psychology Ch. 19 | JDM comprehensive survey | 2026-05-23
 - [[claude-obsidian-ecosystem-research]] — 2026-04-08 | web research across 16+ repos | 8 wiki pages created
 - [[zahra-2020-knowledge-integration|Zahra et al. (2020)]] — Academy of Management Annals | knowledge integration review | 2026-05-15

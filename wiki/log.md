@@ -13,6 +13,13 @@ related:
   - "[[sources/_index]]"
 ---
 
+## 2026-05-24 | ingest | Cornelissen & Werner 2014 — Putting Framing in Perspective
+- Source: `.raw/Cornelissen and Werner - 2014 - Putting framing in perspective A review of framing and frame analysis across the management and org.pdf`
+- Summary: [[cornelissen-werner-2014-framing-review]]
+- Pages created: [[cornelissen-werner-2014-framing-review]], [[Framing (Organizational Theory)]], [[Cognitive Frame]], [[Priming vs Framing]], [[Strategic Framing]], [[Collective Action Frame]], [[Field Frame]], [[Institutional Frame]], [[Sensemaking (Organizational)]], [[Technological Frame]], [[Joep Cornelissen]], [[Mirjam Werner]]
+- Pages updated: [[Framing Effects]], [[Institutional Entrepreneurship]], [[index]], [[hot]], [[log]]
+- Key insight: The priming/framing distinction is C&W's core contribution — most micro cognition research studies priming (schema activation), not framing (social meaning construction); conflating them creates reification and static bias across the whole literature.
+
 ## [2026-05-24] fold | batch-exponent-k4 rollup of 16 entries
 - Location: wiki/folds/fold-k4-from-2026-04-08-to-2026-04-24-n16.md
 - Range: 2026-04-08 to 2026-04-24

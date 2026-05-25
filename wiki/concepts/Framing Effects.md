@@ -7,7 +7,7 @@ tags: [concept, jdm, decision-making, framing, prospect-theory, bias]
 status: developing
 created: 2026-05-23
 updated: 2026-05-23
-related: ["[[Prospect Theory]]", "[[Judgment and Decision Making (Field)]]", "[[Heuristics and Biases Program]]", "[[connolly-2012-jdm]]"]
+related: ["[[Prospect Theory]]", "[[Judgment and Decision Making (Field)]]", "[[Heuristics and Biases Program]]", "[[connolly-2012-jdm]]", "[[Framing (Organizational Theory)]]", "[[Cognitive Frame]]", "[[Priming vs Framing]]"]
 ---
 
 # Framing Effects
@@ -48,3 +48,6 @@ Kuvaas & Selart (2004): negative framing → more thorough information processin
 - [[Heuristics and Biases Program]] — broader context of systematic biases
 - [[Decision Justification Theory]] — framing shifts what counts as "outcome reference"
 - [[connolly-2012-jdm]] — §Single-Choice Events: Framing
+- [[Framing (Organizational Theory)]] — macro context: framing effects are the micro-cognitive anchor of a much broader multi-level construct spanning strategic management, social movements, and institutional theory (Cornelissen & Werner 2014)
+- [[Cognitive Frame]] — the knowledge schema that gain/loss framing activates
+- [[Priming vs Framing]] — framing effects = priming (activating existing schemas), not bottom-up meaning construction
