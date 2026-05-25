@@ -24,7 +24,7 @@ views:
       - type
       - status
       - updated
-      - formula.age_days
+    sort: []
     limit: 15
   - type: list
     name: Seed Pages (Need Development)
@@ -75,4 +75,18 @@ views:
       - author
       - date_published
       - updated
-    limit: 10
+    limit: 50
+  - type: table
+    name: Concepts
+    filters:
+      and:
+        - file.inFolder("wiki/concepts")
+        - type == "concept"
+    order:
+      - file.name
+      - status
+      - file.tags
+    sort: []
+  - type: cards
+    name: View
+    cardSize: 200

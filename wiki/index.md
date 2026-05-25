@@ -280,6 +280,13 @@ Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[
 
 ---
 
+## Folds
+
+- [[fold-k3-from-2026-04-23-to-2026-04-24-n8]] — k=3, 8 entries, 2026-04-23 to 2026-04-24, DragonScale Phases 1–4 + v1.6.0 validation
+- [[fold-k4-from-2026-04-08-to-2026-04-24-n16]] — k=4, 16 entries, 2026-04-08 to 2026-04-24, DragonScale Phases 0–4 + claude-obsidian v1.4–v1.6.0 + Claude SEO v1.9.0
+
+---
+
 ## Domains
 
 <!-- Add domain entries here after scaffold -->

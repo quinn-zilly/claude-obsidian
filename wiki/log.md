@@ -13,6 +13,11 @@ related:
   - "[[sources/_index]]"
 ---
 
+## [2026-05-24] fold | batch-exponent-k4 rollup of 16 entries
+- Location: wiki/folds/fold-k4-from-2026-04-08-to-2026-04-24-n16.md
+- Range: 2026-04-08 to 2026-04-24
+- Children: 16 log entries
+
 ## 2026-05-23 | ingest | Connolly, Ordóñez & Barker 2012 — Judgment and Decision Making
 - Source: `.raw/Connolly et al. - 2012 - Judgement and Decision Making.pdf`
 - Summary: [[connolly-2012-jdm]]
