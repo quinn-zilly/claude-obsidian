@@ -124,7 +124,8 @@
               "title": "File Tree"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -272,12 +273,19 @@
   },
   "active": "4dbc93125e427b20",
   "lastOpenFiles": [
-    "wiki/meta/Create Branch.png",
-    "wiki/meta/Branch button.png",
-    "wiki/meta/Clone Repo R.png",
-    "wiki/meta/Clone Button.png",
-    "wiki/concepts/Knowledge Management.md",
+    "wiki/meta/History.png",
+    "wiki/meta/Ready pull.png",
+    "wiki/meta/Ready merge.png",
+    "wiki/meta/Create pull request.png",
+    "wiki/meta/Ready pull request.png",
+    "wiki/meta/Ready push.png",
+    "wiki/meta/Post Stage.png",
+    "wiki/meta/Pre stage.png",
+    "wiki/meta/Environment pre stage.png",
+    "wiki/meta/Hello world.png",
+    "wiki/meta/hello.png",
     "Excalidraw/GitHub Slides.md",
+    "wiki/concepts/Knowledge Management.md",
     "wiki/concepts/Organizational Learning.md",
     "wiki/concepts/Tacit vs Explicit Knowledge.md",
     "Organizational Memory.md",
@@ -314,13 +322,6 @@
     "wiki/concepts/Cumulative Prospect Theory.md.tmp.20544.3eebc1aa9f82",
     "wiki/concepts/Calibration (Judgment).md.tmp.20544.c53821b54717",
     "wiki/projects",
-    "wiki/meta/UseThis.png",
-    "wiki/meta/Repo-Homepage.png",
-    "wiki/meta/Picture3.png",
-    "wiki/meta/Download-Git.png",
-    "wiki/meta/CursorClick.png",
-    "wiki/meta/CursorClick.svg",
-    "wiki/meta/Cursor-Click-Black.png",
     "wiki/canvases/youtube-explainer.canvas",
     "wiki/canvases/welcome.canvas",
     "wiki/canvases/main.canvas",
