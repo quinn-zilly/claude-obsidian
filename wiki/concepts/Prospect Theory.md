@@ -67,8 +67,16 @@ Explains: preference for certainty (Allais paradox), overreaction to small risks
 - SP/A model (Lopes 1987) does better on some evidence
 - [[Naturalistic Decision Making]]: expert decisions not primarily prospect-based
 
+## CPT Extension and Empirical Status
+
+[[Cumulative Prospect Theory]] (Tversky & Kahneman 1992) extended PT with rank-dependent probability weighting (addressing stochastic dominance violations).
+
+**Fischhoff & Broomell 2020 update**: CPT parameters (including loss aversion) are highly variable across studies. Meta-analysis (Walasek et al. 2018) found weak overall evidence of loss aversion. [[Decision by Sampling]] model offers mechanistic alternative without stable parameters.
+
 ## Source
 
 - [[connolly-2012-jdm]] — §Single-Choice Events: Prospect Theory
+- [[fischhoff-broomell-2020-jdm-review]] — CPT empirical status update
 - Original: Kahneman & Tversky (1979), Psychological Review
 - Authors: [[Daniel Kahneman]], [[Amos Tversky]]
+- See also: [[Cumulative Prospect Theory]], [[Loss Aversion]], [[Decision by Sampling]]

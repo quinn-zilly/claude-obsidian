@@ -163,7 +163,7 @@
         "wiki/log.md"
       ]
     },
-    ".raw/Grant - 1996 - Toward a knowledge‐based theory of the firm.pdf": {
+    ".raw/Grant - 1996 - Toward a knowledge\u2010based theory of the firm.pdf": {
       "hash": "7d902355cea11975fe184ee416d50a3c",
       "ingested_at": "2026-05-19",
       "pages_created": [
@@ -193,7 +193,7 @@
         "wiki/log.md"
       ]
     },
-    ".raw/Lehmann et al. - 2015 - DBpedia – A large-scale, multilingual knowledge base extracted from Wikipedia.pdf": {
+    ".raw/Lehmann et al. - 2015 - DBpedia \u2013 A large-scale, multilingual knowledge base extracted from Wikipedia.pdf": {
       "hash": "113915904e64333ad5d819640b1b2935",
       "ingested_at": "2026-05-19",
       "pages_created": [
@@ -208,12 +208,12 @@
         "wiki/log.md"
       ]
     },
-    ".raw/Munafò et al. - 2017 - A manifesto for reproducible science.pdf": {
+    ".raw/Munaf\u00f2 et al. - 2017 - A manifesto for reproducible science.pdf": {
       "hash": "4ab499001cf6a2c6396e6f586a735009",
       "ingested_at": "2026-05-19",
       "pages_created": [
         "wiki/sources/munafo-2017-manifesto.md",
-        "wiki/entities/Marcus Munafò.md",
+        "wiki/entities/Marcus Munaf\u00f2.md",
         "wiki/entities/John Ioannidis.md"
       ],
       "pages_updated": [
@@ -410,7 +410,7 @@
         "wiki/hot.md"
       ]
     },
-    ".raw/Ren and Argote - 2011 - Transactive Memory Systems 1985–2010 An Integrative Framework of Key Dimensions, Antecedents, and C.pdf": {
+    ".raw/Ren and Argote - 2011 - Transactive Memory Systems 1985\u20132010 An Integrative Framework of Key Dimensions, Antecedents, and C.pdf": {
       "hash": "d77ca3e481efe6c6ab0d9060caa1708a",
       "ingested_at": "2026-05-21",
       "pages_created": [
@@ -470,7 +470,7 @@
         "wiki/hot.md"
       ]
     },
-    ".raw/Albarracín et al. - 2024 - Determinants of behaviour and their efficacy as targets of behavioural change interventions.pdf": {
+    ".raw/Albarrac\u00edn et al. - 2024 - Determinants of behaviour and their efficacy as targets of behavioural change interventions.pdf": {
       "hash": "d8e5484ebc074e4e8e21b6bbf35143d0",
       "ingested_at": "2026-05-23",
       "pages_created": [
@@ -484,7 +484,7 @@
         "wiki/concepts/Reasoned Action Approach.md",
         "wiki/concepts/Information-Motivation-Behavioural Skills Model.md",
         "wiki/concepts/Correlation-Intervention Gap (Behaviour).md",
-        "wiki/entities/Dolores Albarracín.md"
+        "wiki/entities/Dolores Albarrac\u00edn.md"
       ],
       "pages_updated": [
         "wiki/index.md",
@@ -556,7 +556,7 @@
         "wiki/concepts/Dynamic Decision Making.md",
         "wiki/concepts/Electronic Brainstorming.md",
         "wiki/entities/Terry Connolly.md",
-        "wiki/entities/Lisa Ordóñez.md"
+        "wiki/entities/Lisa Ord\u00f3\u00f1ez.md"
       ],
       "pages_updated": [
         "wiki/index.md",
@@ -584,6 +584,37 @@
       "pages_updated": [
         "wiki/concepts/Framing Effects.md",
         "wiki/concepts/Institutional Entrepreneurship.md",
+        "wiki/index.md",
+        "wiki/log.md",
+        "wiki/hot.md"
+      ]
+    },
+    ".raw/Fischhoff and Broomell - 2020 - Judgment and Decision Making.pdf": {
+      "hash": "cbd68f7b36e05f9a703eed8ce4905a29",
+      "ingested_at": "2026-05-26",
+      "pages_created": [
+        "wiki/sources/fischhoff-broomell-2020-jdm-review.md",
+        "wiki/entities/Baruch Fischhoff.md",
+        "wiki/entities/Stephen Broomell.md",
+        "wiki/concepts/Calibration (Judgment).md",
+        "wiki/concepts/Wisdom of the Crowd.md",
+        "wiki/concepts/Constructed Preference.md",
+        "wiki/concepts/Loss Aversion.md",
+        "wiki/concepts/Cumulative Prospect Theory.md",
+        "wiki/concepts/Decision by Sampling.md",
+        "wiki/concepts/Decision-Making Competence.md",
+        "wiki/concepts/DOSPERT Scale.md",
+        "wiki/concepts/Sacred Values.md",
+        "wiki/concepts/Fuzzy-Trace Theory.md",
+        "wiki/concepts/Good Judgment Project.md",
+        "wiki/concepts/Superforecasters.md",
+        "wiki/concepts/Mental Models (Decision).md",
+        "wiki/concepts/Libertarian Paternalism.md",
+        "wiki/concepts/Applied Basic Psychology.md"
+      ],
+      "pages_updated": [
+        "wiki/concepts/Judgment and Decision Making (Field).md",
+        "wiki/concepts/Prospect Theory.md",
         "wiki/index.md",
         "wiki/log.md",
         "wiki/hot.md"
@@ -626,7 +657,7 @@
     "wiki/entities/Etienne LeBel.md": "c-000034",
     "wiki/entities/Jens Lehmann.md": "c-000035",
     "wiki/entities/Christian Bizer.md": "c-000036",
-    "wiki/entities/Marcus Munafò.md": "c-000037",
+    "wiki/entities/Marcus Munaf\u00f2.md": "c-000037",
     "wiki/entities/John Ioannidis.md": "c-000038",
     "wiki/entities/Center for Open Science.md": "c-000039",
     "wiki/entities/Open Science Collaboration.md": "c-000040",
@@ -702,7 +733,7 @@
     "wiki/concepts/Training vs Test Error.md": "c-000156",
     "wiki/concepts/Procedural Overfitting.md": "c-000157",
     "wiki/sources/albarracin-2024-determinants-behaviour-change.md": "c-000158",
-    "wiki/entities/Dolores Albarracín.md": "c-000159",
+    "wiki/entities/Dolores Albarrac\u00edn.md": "c-000159",
     "wiki/concepts/Behaviour Change Determinants.md": "c-000160",
     "wiki/concepts/Descriptive Norms.md": "c-000161",
     "wiki/concepts/Injunctive Norms.md": "c-000162",
@@ -746,7 +777,7 @@
     "wiki/concepts/Dynamic Decision Making.md": "c-000200",
     "wiki/concepts/Electronic Brainstorming.md": "c-000201",
     "wiki/entities/Terry Connolly.md": "c-000202",
-    "wiki/entities/Lisa Ordóñez.md": "c-000203",
+    "wiki/entities/Lisa Ord\u00f3\u00f1ez.md": "c-000203",
     "wiki/concepts/Framing Effects.md": "c-000204",
     "wiki/concepts/Appraisal-Tendency Framework.md": "c-000205",
     "wiki/concepts/Signal Detection Theory (Decision).md": "c-000206",
@@ -761,6 +792,24 @@
     "wiki/concepts/Sensemaking (Organizational).md": "c-000229",
     "wiki/concepts/Technological Frame.md": "c-000230",
     "wiki/entities/Joep Cornelissen.md": "c-000231",
-    "wiki/entities/Mirjam Werner.md": "c-000232"
+    "wiki/entities/Mirjam Werner.md": "c-000232",
+    "wiki/sources/fischhoff-broomell-2020-jdm-review.md": "c-000233",
+    "wiki/entities/Baruch Fischhoff.md": "c-000234",
+    "wiki/entities/Stephen Broomell.md": "c-000235",
+    "wiki/concepts/Calibration (Judgment).md": "c-000236",
+    "wiki/concepts/Wisdom of the Crowd.md": "c-000237",
+    "wiki/concepts/Constructed Preference.md": "c-000238",
+    "wiki/concepts/Loss Aversion.md": "c-000239",
+    "wiki/concepts/Cumulative Prospect Theory.md": "c-000240",
+    "wiki/concepts/Decision by Sampling.md": "c-000241",
+    "wiki/concepts/Decision-Making Competence.md": "c-000242",
+    "wiki/concepts/DOSPERT Scale.md": "c-000243",
+    "wiki/concepts/Sacred Values.md": "c-000244",
+    "wiki/concepts/Fuzzy-Trace Theory.md": "c-000245",
+    "wiki/concepts/Good Judgment Project.md": "c-000246",
+    "wiki/concepts/Superforecasters.md": "c-000247",
+    "wiki/concepts/Mental Models (Decision).md": "c-000248",
+    "wiki/concepts/Libertarian Paternalism.md": "c-000249",
+    "wiki/concepts/Applied Basic Psychology.md": "c-000250"
   }
 }

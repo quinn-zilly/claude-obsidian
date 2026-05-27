@@ -23,7 +23,7 @@ related:
 
 # Wiki Index
 
-Last updated: 2026-05-24 | Total pages: 234 | Sources ingested: 32
+Last updated: 2026-05-26 | Total pages: 252 | Sources ingested: 33
 
 Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[getting-started]]
 
@@ -107,7 +107,22 @@ Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[
 - [[Reasoned Action Approach]] — Fishbein & Ajzen 2011; beliefs → attitudes → intentions → behaviour; injunctive norms; perceived behavioural control (developing)
 - [[Information-Motivation-Behavioural Skills Model]] — Fisher & Fisher 1992/2006; IMB model; information + motivation + behavioural skills → behaviour; HIV prevention origins (developing)
 - [[Correlation-Intervention Gap (Behaviour)]] — systematic pattern where correlational effect sizes overestimate intervention efficacy for every behavioural determinant; Albarracín et al. 2024 (developing)
-- [[Judgment and Decision Making (Field)]] — JDM field overview; dual descriptive/normative theme; major research programs; Connolly et al. 2012 (developing)
+- [[Judgment and Decision Making (Field)]] — JDM field overview; dual descriptive/normative theme; major research programs; updated Fischhoff & Broomell 2020 (evergreen)
+- [[Calibration (Judgment)]] — confidence matches accuracy; overconfidence on hard tasks; scoring rules; Good Judgment Project; conditions for learning (evergreen)
+- [[Wisdom of the Crowd]] — crowd > individual when errors uncorrelated; formal conditions; lacks explanation (evergreen)
+- [[Constructed Preference]] — preferences built at decision time from context cues; abstract elicitation fails; process-tracing revival (evergreen)
+- [[Loss Aversion]] — sensitivity losses > gains; CPT parameter; meta-analysis = weak evidence; DbS as mechanism (evergreen)
+- [[Cumulative Prospect Theory]] — CPT 1992; four parameters; parameter instability = live problem; DbS alternative (evergreen)
+- [[Decision by Sampling]] — choices from memory comparisons; loss aversion as sampling artifact; resolves description-experience gap (evergreen)
+- [[Decision-Making Competence]] — DMC; stable individual difference; real-world validated; neighborhood disadvantage strongest predictor (evergreen)
+- [[DOSPERT Scale]] — domain-specific risk-taking; risk tolerance not general trait; Weber et al. 2002 (evergreen)
+- [[Sacred Values]] — nonrational but legitimate preferences; violate trade-off axiom; genocide resistance; anti-extremism (evergreen)
+- [[Fuzzy-Trace Theory]] — gist vs. verbatim processing; application to adolescent health behavior; Reyna 2012 (evergreen)
+- [[Good Judgment Project]] — IARPA forecasting tournament; brief training → sustained calibration; superforecasters (evergreen)
+- [[Superforecasters]] — top calibrators; stable individual difference; identified in Good Judgment Project (evergreen)
+- [[Mental Models (Decision)]] — lay beliefs about system processes; task-analysis-grounded; domain examples: HIV, climate, vaccines (evergreen)
+- [[Libertarian Paternalism]] — nudge = choice architecture toward "rational" choice; critique: valid only if individual analysis done (evergreen)
+- [[Applied Basic Psychology]] — two-way science-practice bridge (Baddeley 1979); applied basic + basic applied (evergreen)
 - [[Lens Model]] — Brunswik/Hammond; cue combination model for judgment; representative design requirement (developing)
 - [[Policy Capturing]] — regression model of individual judge; few cues, linear, low reliability; organizational applications (developing)
 - [[Prospect Theory]] — Kahneman & Tversky 1979; reference-point value function; loss aversion; decision weight distortions; dominant descriptive model of risky choice (developing)
@@ -189,6 +204,8 @@ Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[
 - [[Mirjam Werner]] — University of Leeds POLIS; co-author of Cornelissen & Werner 2014 framing review (developing)
 - [[Amos Tversky]] — Hebrew University / Stanford; co-founder of heuristics and biases program with Kahneman; 1937–1996 (developing)
 - [[Daniel Kahneman]] — Hebrew University / Princeton; co-founder of heuristics and biases program; Nobel Prize in Economics 2002; *Thinking, Fast and Slow* (developing)
+- [[Baruch Fischhoff]] — Carnegie Mellon; engineering & public policy; psychometric risk perception; DMC; FDA; intelligence analysis (evergreen)
+- [[Stephen Broomell]] — Carnegie Mellon; decision modeling; information-theoretic analysis of CPT; Fischhoff co-author (evergreen)
 - [[Terry Connolly]] — U of Arizona; JDM researcher; regret/DJT, electronic brainstorming, naturalistic DM, information purchase (developing)
 - [[Lisa Ordóñez]] — U of Arizona; JDM researcher; regret, equity, emotion in decisions, fear/anger reversal (developing)
 - [[Andrej Karpathy]] — AI researcher, creator of the LLM Wiki pattern, former Tesla AI director (status: developing)
@@ -241,6 +258,7 @@ Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[
 
 ## Sources
 
+- [[fischhoff-broomell-2020-jdm-review|Fischhoff & Broomell (2020)]] — Annual Review of Psychology | JDM state-of-field review | 2026-05-26
 - [[cornelissen-werner-2014-framing-review|Cornelissen & Werner (2014)]] — Academy of Management Annals | multi-level framing review | 2026-05-24
 - [[connolly-2012-jdm|Connolly, Ordóñez & Barker (2012)]] — Handbook of Psychology Ch. 19 | JDM comprehensive survey | 2026-05-23
 - [[claude-obsidian-ecosystem-research]] — 2026-04-08 | web research across 16+ repos | 8 wiki pages created
@@ -281,14 +299,6 @@ Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[
 - [[Wiki vs RAG]] — when to use a wiki knowledge base versus RAG; verdict: wiki wins at <1000 pages
 - [[claude-obsidian-ecosystem]] — feature matrix of 16+ Claude+Obsidian projects; where claude-obsidian wins and gaps
 
----
-
-## Decisions
-
-- [[2026-04-14-community-cta-rollout]] - Skool community CTA footer added to 6 skill repos with per-tool frequency rules (status: active)
-- [[2026-04-15-slides-and-release-session]] - Claude SEO v1.9.0 slides (15-slide HTML deck) + GitHub release v1.9.0 with PDF asset (status: complete)
-- [[2026-04-15-release-report-session]] - Claude SEO v1.9.0 Release Report PDF: dark theme, 13 pages, WeasyPrint layout fixes, Challenge v2 added (status: complete)
-- [[2026-04-14-claude-seo-v190-session]] - Claude SEO v1.9.0 Pro Hub Challenge integration: 5 submissions, 4 new skills, 4 review rounds, cybersecurity audit (status: complete)
 
 ---
 

@@ -13,6 +13,13 @@ related:
   - "[[sources/_index]]"
 ---
 
+## 2026-05-26 | ingest | Fischhoff & Broomell 2020 — Judgment and Decision Making
+- Source: `.raw/Fischhoff and Broomell - 2020 - Judgment and Decision Making.pdf`
+- Summary: [[fischhoff-broomell-2020-jdm-review]]
+- Pages created: [[fischhoff-broomell-2020-jdm-review]], [[Baruch Fischhoff]], [[Stephen Broomell]], [[Calibration (Judgment)]], [[Wisdom of the Crowd]], [[Constructed Preference]], [[Loss Aversion]], [[Cumulative Prospect Theory]], [[Decision by Sampling]], [[Decision-Making Competence]], [[DOSPERT Scale]], [[Sacred Values]], [[Fuzzy-Trace Theory]], [[Good Judgment Project]], [[Superforecasters]], [[Mental Models (Decision)]], [[Libertarian Paternalism]], [[Applied Basic Psychology]]
+- Pages updated: [[Judgment and Decision Making (Field)]], [[Prospect Theory]], [[index]], [[hot]], [[log]]
+- Key insight: Decision science's defining loop is task analysis → behavioral description → intervention; without task analysis you can't define "better." CPT parameters (including loss aversion) are unstable — weak meta-analytic evidence; DbS offers a mechanistic alternative. Neighborhood disadvantage at age 10 is the strongest predictor of decision-making competence — DMC is socially constituted, not just cognitive.
+
 ## 2026-05-24 | ingest | Cornelissen & Werner 2014 — Putting Framing in Perspective
 - Source: `.raw/Cornelissen and Werner - 2014 - Putting framing in perspective A review of framing and frame analysis across the management and org.pdf`
 - Summary: [[cornelissen-werner-2014-framing-review]]
