@@ -13,10 +13,10 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/GitHub Slides.md"
+                "file": "Excalidraw/GitHub Slides 1.md"
               },
               "icon": "excalidraw-icon",
-              "title": "GitHub Slides"
+              "title": "GitHub Slides 1"
             }
           },
           {
@@ -231,10 +231,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/GitHub Slides.md"
+                "file": "Excalidraw/GitHub Slides 1.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for GitHub Slides"
+              "title": "File properties for GitHub Slides 1"
             }
           },
           {
@@ -273,6 +273,12 @@
   },
   "active": "4dbc93125e427b20",
   "lastOpenFiles": [
+    "Excalidraw/GitHub Slides.md",
+    "Excalidraw/GitHub Slides 1.md",
+    "Excalidraw/Scripts/Downloaded/Slideshow.md",
+    "Excalidraw/Scripts/Downloaded/Slideshow.svg",
+    "Excalidraw/Scripts/Downloaded",
+    "Excalidraw/Scripts",
     "wiki/meta/History.png",
     "wiki/meta/Ready pull.png",
     "wiki/meta/Ready merge.png",
@@ -282,9 +288,6 @@
     "wiki/meta/Post Stage.png",
     "wiki/meta/Pre stage.png",
     "wiki/meta/Environment pre stage.png",
-    "wiki/meta/Hello world.png",
-    "wiki/meta/hello.png",
-    "Excalidraw/GitHub Slides.md",
     "wiki/concepts/Knowledge Management.md",
     "wiki/concepts/Organizational Learning.md",
     "wiki/concepts/Tacit vs Explicit Knowledge.md",
@@ -318,10 +321,7 @@
     "wiki/concepts/Superforecasters.md",
     "wiki/concepts/Superforecasters.md.tmp.20544.553771dd65e3",
     "wiki/concepts/Good Judgment Project.md",
-    "wiki/concepts/Fuzzy-Trace Theory.md",
     "wiki/concepts/Cumulative Prospect Theory.md.tmp.20544.3eebc1aa9f82",
-    "wiki/concepts/Calibration (Judgment).md.tmp.20544.c53821b54717",
-    "wiki/projects",
     "wiki/canvases/youtube-explainer.canvas",
     "wiki/canvases/welcome.canvas",
     "wiki/canvases/main.canvas",
