@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/index.md",
+                "file": "wiki/hot.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "hot"
             }
           }
         ]
@@ -232,6 +232,8 @@
   },
   "active": "13a03229c88bc5e9",
   "lastOpenFiles": [
+    "wiki/domains",
+    "wiki/index.md",
     "wiki/entities/_index.md",
     "wiki/concepts/_index.md",
     "wiki/hot.md.tmp.21532.f98d80a395fb",
@@ -266,8 +268,6 @@
     "wiki/concepts/Team Training.md",
     "wiki/concepts/Team Building.md",
     "wiki/concepts/Team Development Interventions.md",
-    "wiki/sources/shuffler-et-al-2011-team-development-interventions.md",
-    "wiki/entities/Robert Tett.md",
     "Excalidraw/Scripts/Downloaded/Slideshow.svg",
     "wiki/meta/History.png",
     "wiki/meta/Ready pull.png",
