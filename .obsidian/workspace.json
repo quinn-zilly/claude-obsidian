@@ -4,61 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "e6f0b080a4fc265f",
+        "id": "48cdcee2611684eb",
         "type": "tabs",
         "children": [
           {
-            "id": "4dbc93125e427b20",
+            "id": "f0ed151bcd832610",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/GitHub Slides 1.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "GitHub Slides 1"
-            }
-          },
-          {
-            "id": "d0c1fb7ea4e779e1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "wiki/concepts/Organizational Learning.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Organizational Learning"
-            }
-          },
-          {
-            "id": "e930f08411e3b5d5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "wiki/concepts/Tacit vs Explicit Knowledge.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Tacit vs Explicit Knowledge"
-            }
-          },
-          {
-            "id": "809436cc99a189c7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "wiki/concepts/Knowledge Management.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Knowledge Management"
+              "title": "New tab"
             }
           }
         ]
@@ -271,10 +227,28 @@
       "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "4dbc93125e427b20",
+  "active": "f0ed151bcd832610",
   "lastOpenFiles": [
-    "Excalidraw/GitHub Slides.md",
+    "wiki/entities/Stefano Di Domenico.md",
+    "wiki/entities/Stefano Di Domenico.md.tmp.10296.472e829ab98f",
+    "wiki/entities/Emma Bradshaw.md",
+    "wiki/entities/Emma Bradshaw.md.tmp.10296.481817930f35",
+    "wiki/entities/Jasper Duineveld.md",
+    "wiki/entities/Jasper Duineveld.md.tmp.10296.d6fa0921cf8c",
+    "wiki/concepts/Perceived Locus of Causality.md",
+    "wiki/concepts/Need Frustration (SDT).md",
+    "wiki/concepts/Basic Psychological Needs Theory.md",
+    "wiki/concepts/Relationships Motivation Theory.md",
+    "wiki/concepts/Relationships Motivation Theory.md.tmp.10296.77889da27526",
+    "wiki/concepts/Goal Contents Theory.md",
+    "wiki/concepts/Goal Contents Theory.md.tmp.10296.27608929bd53",
+    "wiki/concepts/Causality Orientations Theory.md",
+    "wiki/sources/ryan-et-al-2022-sdt-meta-review.md",
+    "wiki/sources/ryan-deci-2000-sdt.md",
+    "wiki/concepts/Self-Determination Theory.md",
+    "wiki/log.md",
     "Excalidraw/GitHub Slides 1.md",
+    "Excalidraw/GitHub Slides.md",
     "Excalidraw/Scripts/Downloaded/Slideshow.md",
     "Excalidraw/Scripts/Downloaded/Slideshow.svg",
     "Excalidraw/Scripts/Downloaded",
@@ -299,29 +273,11 @@
     "wiki/canvases/wiki-map.canvas",
     "wiki/hot.md",
     "wiki/overview.md",
-    "wiki/log.md",
     "wiki/index.md",
     "wiki/canvases/fibonacci-wiki-map.canvas",
     "wiki/canvases/fibonacci-wiki-map.canvas.tmp.18068.4ee0c02c1ad2",
     "wiki/maps/Wiki Map.canvas.tmp.10164.192b072772a4",
     "wiki-map.md",
-    "wiki/canvases/wiki-map.canvas.tmp.5492.c4fa64bbfd57",
-    "wiki/canvases",
-    "wiki/maps/Wiki Map.md",
-    "wiki/concepts/Behaviour Change Determinants.md",
-    "wiki/concepts/Analytic Reproducibility.md",
-    "wiki/concepts/70-20-10 Rule.md",
-    "wiki/concepts/Applied Basic Psychology.md",
-    "wiki/entities/Brian Nosek.md",
-    "wiki/sources/fischhoff-broomell-2020-jdm-review.md",
-    "wiki/projects/Book recommendations.md",
-    "wiki/hot.md.tmp.20544.00ccffb24047",
-    "wiki/concepts/Libertarian Paternalism.md",
-    "wiki/concepts/Mental Models (Decision).md",
-    "wiki/concepts/Superforecasters.md",
-    "wiki/concepts/Superforecasters.md.tmp.20544.553771dd65e3",
-    "wiki/concepts/Good Judgment Project.md",
-    "wiki/concepts/Cumulative Prospect Theory.md.tmp.20544.3eebc1aa9f82",
     "wiki/canvases/youtube-explainer.canvas",
     "wiki/canvases/welcome.canvas",
     "wiki/canvases/main.canvas",

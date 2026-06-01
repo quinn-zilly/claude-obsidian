@@ -43,5 +43,5 @@ Instances of large, frequent classes *are* generally more retrievable than insta
 ## Connection to Other Concepts
 
 - **[[Publication Bias]]**: Media coverage of dramatic events (plane crashes, shark attacks) increases availability, inflating perceived frequency — a societal-level availability effect.
-- **[[Aesthetic Standards in Science]]** ([[Giner-Sorolla 2012]]): Narrative conformity pressure means results that fit a compelling story are more "available" for publication — a field-level availability effect on the scientific literature.
+- **[[Aesthetic Standards in Science]]** ([[giner-sorolla-2012-science-or-art|Giner-Sorolla 2012]]): Narrative conformity pressure means results that fit a compelling story are more "available" for publication — a field-level availability effect on the scientific literature.
 - **[[Correlation-Intervention Gap (Behaviour)]]**: Salient correlational findings are more available to researchers when selecting intervention targets, contributing to the gap.

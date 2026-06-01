@@ -41,4 +41,4 @@ The [[Availability Heuristic]] provides the account: co-occurrence frequency is 
 ## Connection to Other Concepts
 
 - **[[Publication Bias]]**: The literature may contain illusory correlations — patterns that reached publication because they matched theoretical expectations, not because they were reliably observed.
-- **[[Aesthetic Standards in Science]]** ([[Giner-Sorolla 2012]]): Findings that "look like" expected patterns are more publishable, structurally amplifying illusory correlations at the field level.
+- **[[Aesthetic Standards in Science]]** ([[giner-sorolla-2012-science-or-art|Giner-Sorolla 2012]]): Findings that "look like" expected patterns are more publishable, structurally amplifying illusory correlations at the field level.

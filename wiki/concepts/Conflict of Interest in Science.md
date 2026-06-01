@@ -67,4 +67,4 @@ Addressing this conflict requires:
 ## Sources
 
 - [[Nosek et al. 2012 - Scientific Utopia II]]
-- [[Munafò et al. 2017]]
+- [[munafo-2017-manifesto|Munafò et al. 2017]]

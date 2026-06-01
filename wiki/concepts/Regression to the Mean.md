@@ -49,6 +49,6 @@ This creates a structural illusion across many domains (parenting, coaching, man
 
 ## Research Implications
 
-- **Decline effect** ([[Yarkoni & Westfall 2017]]): Effect sizes shrink as a literature matures — initial studies select extreme estimates (partly by chance); subsequent replication finds lower values. This is regression to the mean at the literature level, compounded by publication bias.
+- **Decline effect** ([[yarkoni-westfall-2017-prediction-vs-explanation|Yarkoni & Westfall 2017]]): Effect sizes shrink as a literature matures — initial studies select extreme estimates (partly by chance); subsequent replication finds lower values. This is regression to the mean at the literature level, compounded by publication bias.
 - **Pre-post designs without control groups**: Patients selected for treatment because their symptoms are worst (floor-effect selection) will improve on average via regression, which may be misattributed to the intervention.
 - **[[Replication Crisis]]**: Grossly overestimated effect sizes in small-sample studies partly reflect selection of extreme estimates; replication finds regression to the true effect.

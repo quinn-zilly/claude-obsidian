@@ -619,6 +619,72 @@
         "wiki/log.md",
         "wiki/hot.md"
       ]
+    },
+    ".raw/Ryan and Deci - Self-Determination Theory and the Facilitation of Intrinsic Motivation, Social Development, and Well.pdf": {
+      "hash": "db6d889e4583a8d9063d5e10628e56f7",
+      "ingested_at": "2026-05-29",
+      "pages_created": [
+        "wiki/sources/ryan-deci-2000-sdt.md",
+        "wiki/concepts/Self-Determination Theory.md",
+        "wiki/concepts/Basic Psychological Needs (SDT).md",
+        "wiki/concepts/Autonomy (SDT).md",
+        "wiki/concepts/Competence (SDT).md",
+        "wiki/concepts/Relatedness (SDT).md",
+        "wiki/concepts/Intrinsic Motivation.md",
+        "wiki/concepts/Extrinsic Motivation.md",
+        "wiki/concepts/Cognitive Evaluation Theory.md",
+        "wiki/concepts/Organismic Integration Theory.md",
+        "wiki/concepts/Internalization (SDT).md",
+        "wiki/entities/Richard Ryan.md",
+        "wiki/entities/Edward Deci.md"
+      ],
+      "pages_updated": [
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md"
+      ]
+    },
+    ".raw/Locke and Latham - 2002 - Building a practically useful theory of goal setting and task motivation A 35-year odyssey..pdf": {
+      "hash": "8947a63ff51d533df92fb23d00550bee",
+      "ingested_at": "2026-05-30",
+      "pages_created": [
+        "wiki/sources/locke-latham-2002-goal-setting-theory.md",
+        "wiki/concepts/Goal-Setting Theory.md",
+        "wiki/concepts/Self-Efficacy (Goal Setting).md",
+        "wiki/concepts/High-Performance Cycle.md",
+        "wiki/concepts/Goal Commitment.md",
+        "wiki/concepts/Learning Goals vs Performance Goals.md",
+        "wiki/concepts/Situational Interview.md",
+        "wiki/entities/Edwin Locke.md",
+        "wiki/entities/Gary Latham.md"
+      ],
+      "pages_updated": [
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md"
+      ]
+    },
+    ".raw/Kanfer et al. - 2017 - Motivation related to work A century of progress..pdf": {
+      "hash": "171436dbfed9b3e5f2c2e4bba8a64f3b",
+      "ingested_at": "2026-05-30",
+      "pages_created": [
+        "wiki/sources/kanfer-frese-johnson-2017-work-motivation.md",
+        "wiki/concepts/Work Motivation Meta-Framework (Kanfer).md",
+        "wiki/concepts/Resource Allocation Theory (Motivation).md",
+        "wiki/concepts/Action Regulation Theory.md",
+        "wiki/concepts/Ego Depletion.md",
+        "wiki/concepts/Regulatory Focus Theory.md",
+        "wiki/concepts/Job Characteristics Model.md",
+        "wiki/concepts/Proactive Engagement.md",
+        "wiki/entities/Ruth Kanfer.md",
+        "wiki/entities/Michael Frese.md",
+        "wiki/entities/Russell Johnson.md"
+      ],
+      "pages_updated": [
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md"
+      ]
     }
   },
   "address_map": {
@@ -810,6 +876,75 @@
     "wiki/concepts/Superforecasters.md": "c-000247",
     "wiki/concepts/Mental Models (Decision).md": "c-000248",
     "wiki/concepts/Libertarian Paternalism.md": "c-000249",
-    "wiki/concepts/Applied Basic Psychology.md": "c-000250"
+    "wiki/concepts/Applied Basic Psychology.md": "c-000250",
+    "wiki/sources/ryan-deci-2000-sdt.md": "c-000251",
+    "wiki/entities/Richard Ryan.md": "c-000252",
+    "wiki/entities/Edward Deci.md": "c-000253",
+    "wiki/concepts/Self-Determination Theory.md": "c-000254",
+    "wiki/concepts/Basic Psychological Needs (SDT).md": "c-000255",
+    "wiki/concepts/Autonomy (SDT).md": "c-000256",
+    "wiki/concepts/Competence (SDT).md": "c-000257",
+    "wiki/concepts/Relatedness (SDT).md": "c-000258",
+    "wiki/concepts/Intrinsic Motivation.md": "c-000259",
+    "wiki/concepts/Extrinsic Motivation.md": "c-000260",
+    "wiki/concepts/Cognitive Evaluation Theory.md": "c-000261",
+    "wiki/concepts/Organismic Integration Theory.md": "c-000262",
+    "wiki/concepts/Internalization (SDT).md": "c-000263",
+    "wiki/sources/locke-latham-2002-goal-setting-theory.md": "c-000276",
+    "wiki/concepts/Goal-Setting Theory.md": "c-000277",
+    "wiki/concepts/Self-Efficacy (Goal Setting).md": "c-000278",
+    "wiki/concepts/High-Performance Cycle.md": "c-000279",
+    "wiki/concepts/Goal Commitment.md": "c-000280",
+    "wiki/concepts/Learning Goals vs Performance Goals.md": "c-000281",
+    "wiki/concepts/Situational Interview.md": "c-000282",
+    "wiki/entities/Edwin Locke.md": "c-000283",
+    "wiki/entities/Gary Latham.md": "c-000284",
+    "wiki/concepts/Spacing Effect.md": "c-000285",
+    "wiki/sources/kanfer-frese-johnson-2017-work-motivation.md": "c-000286",
+    "wiki/concepts/Work Motivation Meta-Framework (Kanfer).md": "c-000287",
+    "wiki/concepts/Resource Allocation Theory (Motivation).md": "c-000288",
+    "wiki/concepts/Action Regulation Theory.md": "c-000289",
+    "wiki/concepts/Ego Depletion.md": "c-000290",
+    "wiki/concepts/Regulatory Focus Theory.md": "c-000291",
+    "wiki/concepts/Job Characteristics Model.md": "c-000292",
+    "wiki/concepts/Proactive Engagement.md": "c-000293",
+    "wiki/entities/Ruth Kanfer.md": "c-000294",
+    "wiki/entities/Michael Frese.md": "c-000295",
+    "wiki/entities/Russell Johnson.md": "c-000296"
+  },
+  "Ryan et al. - 2022 - We know this much is (meta-analytically) true A meta-review of meta-analytic findings evaluating se.pdf": {
+    "hash": "18fc00d8d185d5ce0593fe5b1b5381d5",
+    "ingested_at": "2026-05-29T00:00:00",
+    "pages_created": [
+      "wiki/sources/ryan-et-al-2022-sdt-meta-review.md",
+      "wiki/concepts/Causality Orientations Theory.md",
+      "wiki/concepts/Goal Contents Theory.md",
+      "wiki/concepts/Relationships Motivation Theory.md",
+      "wiki/concepts/Basic Psychological Needs Theory.md",
+      "wiki/concepts/Need Frustration (SDT).md",
+      "wiki/concepts/Perceived Locus of Causality.md",
+      "wiki/entities/Jasper Duineveld.md",
+      "wiki/entities/Emma Bradshaw.md",
+      "wiki/entities/Stefano Di Domenico.md"
+    ],
+    "pages_updated": [
+      "wiki/concepts/Self-Determination Theory.md",
+      "wiki/entities/Richard Ryan.md",
+      "wiki/index.md",
+      "wiki/hot.md",
+      "wiki/log.md"
+    ],
+    "address_map": {
+      "ryan-et-al-2022-sdt-meta-review": "c-000264",
+      "Causality Orientations Theory": "c-000265",
+      "Goal Contents Theory": "c-000266",
+      "Relationships Motivation Theory": "c-000267",
+      "Basic Psychological Needs Theory": "c-000268",
+      "Need Frustration (SDT)": "c-000269",
+      "Perceived Locus of Causality": "c-000270",
+      "Jasper Duineveld": "c-000271",
+      "Emma Bradshaw": "c-000272",
+      "Stefano Di Domenico": "c-000273"
+    }
   }
 }

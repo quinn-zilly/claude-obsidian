@@ -23,7 +23,7 @@ related:
 
 # Wiki Index
 
-Last updated: 2026-05-26 | Total pages: 252 | Sources ingested: 33
+Last updated: 2026-05-29 | Total pages: 281 | Sources ingested: 35
 
 Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[getting-started]]
 
@@ -98,6 +98,35 @@ Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[
 - [[DBpedia]] — structured knowledge from 111 Wikipedia editions; 400M+ facts; central LOD hub (developing)
 - [[Linked Open Data]] — RDF/SPARQL-based best practices for publishing and connecting structured web data (developing)
 - [[On-the-Job Development]] — OJD; 70% of leadership development; experiences over training; ten catalysts to hardwire into HR (developing)
+- [[Work Motivation Meta-Framework (Kanfer)]] — content × context × process tripartite org of 100yr motivation research; goals = nexus of why→how; motivation as dynamic resource allocation (evergreen)
+- [[Resource Allocation Theory (Motivation)]] — Kanfer & Ackerman 1989; motivation = allocation of limited attentional resources across goals; self-regulation competes with task demands on complex tasks (developing)
+- [[Action Regulation Theory]] — Frese & Zapf 1994; plans bridge goal choice → striving; hierarchical action structure; personal initiative (developing)
+- [[Ego Depletion]] — Baumeister et al. 1998; finite self-regulatory resource; depletes with self-control; recovery via rest/mastery/sleep; empirically challenged (developing)
+- [[Regulatory Focus Theory]] — Higgins 1997; promotion (maximize gains) vs. prevention (minimize losses); promotion → productivity+well-being; prevention → safety (developing)
+- [[Job Characteristics Model]] — Hackman & Oldham 1975; 5 features → 3 psychological states → internal motivation; task meaningfulness = strongest mediator (developing)
+- [[Proactive Engagement]] — vigor + dedication + absorption; personal initiative (Frese); job crafting (Wrzesniewski); self-directed goal pursuit beyond role requirements (developing)
+- [[Goal-Setting Theory]] — GST; Locke & Latham; difficult specific goals → highest performance via 4 mechanisms (direction, effort, persistence, strategy); d = .52–.82; moderated by commitment, feedback, task complexity (evergreen)
+- [[Self-Efficacy (Goal Setting)]] — task-specific confidence; mediates goal → performance; raised by mastery, modeling, persuasion; resolves GST vs. expectancy theory contradiction (evergreen)
+- [[High-Performance Cycle]] — high goals → performance → rewards → satisfaction + SE → higher goals; explains weak job satisfaction–productivity link (developing)
+- [[Goal Commitment]] — strongest moderator when goals difficult; antecedents: outcome importance + SE; participation = cognitive benefit not motivational (developing)
+- [[Learning Goals vs Performance Goals]] — learning goals superior on complex/novel tasks; performance goals superior on well-learned tasks; Winters & Latham 1996 (developing)
+- [[Situational Interview]] — Latham et al. 1980; goal/intention-based selection; highest criterion-related validity of any interview type (developing)
+- [[Self-Determination Theory]] — SDT; Ryan & Deci; three innate needs (autonomy, competence, relatedness); conditions that foster vs. thwart self-motivation and well-being (evergreen)
+- [[Basic Psychological Needs (SDT)]] — competence + autonomy + relatedness; satisfaction → well-being; deprivation → ill-being; innate, universal, all three required (evergreen)
+- [[Autonomy (SDT)]] — volition + internal locus of causality; ≠ independence; critical for intrinsic motivation and for integration of extrinsic regulation (evergreen)
+- [[Competence (SDT)]] — need to feel effective and to master challenges; feeds intrinsic motivation (needs co-occurring autonomy); supports internalization (developing)
+- [[Relatedness (SDT)]] — need for connectedness and belonging; distal support for intrinsic motivation; primary driver of initial internalization (developing)
+- [[Intrinsic Motivation]] — doing for inherent satisfaction; evolved propensity; supported by autonomy + competence + relatedness supports; undermined by contingent rewards and control (evergreen)
+- [[Extrinsic Motivation]] — performing for separable outcome; varies on self-determination continuum from external → introjected → identified → integrated; more autonomous → better outcomes (evergreen)
+- [[Cognitive Evaluation Theory]] — CET; SDT subtheory; specifies social-contextual conditions that facilitate vs. undermine intrinsic motivation; focuses on competence + autonomy needs (evergreen)
+- [[Organismic Integration Theory]] — OIT; SDT subtheory; details forms of extrinsic motivation and conditions promoting internalization/integration; the self-determination continuum (evergreen)
+- [[Internalization (SDT)]] — taking in and transforming external values into self; facilitated by relatedness (initial), competence (adoption), autonomy (integration); applied across education, health, work (evergreen)
+- [[Causality Orientations Theory]] — COT; stable individual differences in autonomy/controlled/impersonal orientations; predicts regulatory style above Big Five; COT confirmed in meta-analyses (evergreen)
+- [[Goal Contents Theory]] — GCT; intrinsic vs. extrinsic aspirations; intrinsic → well-being r = .24; extrinsic relative centrality → well-being r = −.22; mediated by need satisfaction (evergreen)
+- [[Relationships Motivation Theory]] — RMT; newest SDT mini-theory; high-quality relationships require need satisfaction + autonomy support within relationship; zero meta-analyses to date (stub)
+- [[Basic Psychological Needs Theory]] — BPNT; formal mini-theory for the three needs; key distinction: satisfaction vs. frustration are distinct constructs; competence sat → affect r = .45 (evergreen)
+- [[Need Frustration (SDT)]] — active thwarting of needs ≠ merely low satisfaction; distinct construct; predicts ill-being and psychopathology; not yet meta-analyzed (evergreen)
+- [[Perceived Locus of Causality]] — PLOC; internal vs. external origin of behavior; de Charms 1968; distinct from locus of control; phenomenological correlate of OIT continuum (evergreen)
 - [[Behaviour Change Determinants]] — taxonomy of individual and social-structural determinants; correlational vs. intervention effect size hierarchy; Albarracín et al. 2024 (developing)
 - [[Descriptive Norms]] — perceived frequency of a behaviour in a population; small intervention effect (OR≈2.20); role models most effective; Albarracín et al. 2024 (developing)
 - [[Injunctive Norms]] — perceived approval of a behaviour by others; small intervention effect (d=0.34); distinct from descriptive norms (developing)
@@ -250,6 +279,16 @@ Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[
 - [[Ingrid Smithey Fulmer]] — U of Illinois UIUC; compensation, pay transparency, Compensation Activation Theory; Fulmer et al. 2023 (developing)
 - [[Barry Gerhart]] — UW-Madison; strategic compensation; incentive/sorting framework; Gerhart & Milkovich foundational work; Fulmer et al. 2023 (developing)
 - [[JiHyun Kim]] — NUS Business School; PFP meta-analysis lead author (Kim et al. 2022); Fulmer et al. 2023 (developing)
+- [[Ruth Kanfer]] — Georgia Tech; work motivation meta-framework; resource allocation theory; Kanfer & Ackerman 1989; Kanfer et al. 2017 (developing)
+- [[Michael Frese]] — NUS / Leuphana; action regulation theory; personal initiative; entrepreneurship; Frese & Zapf 1994 (developing)
+- [[Russell Johnson]] — Michigan State; regulatory focus meta-analysis; ego depletion + justice; implicit motivation (developing)
+- [[Edwin Locke]] — U of Maryland; co-developer of Goal-Setting Theory with Latham; 35+ years GST research; Locke & Latham 1990, 2002 (developing)
+- [[Gary Latham]] — U of Toronto Rotman; co-developer of GST; field research (logging, trucking, government); situational interview developer; Frayne & Latham 1987 self-management (developing)
+- [[Richard Ryan]] — University of Rochester / ACU; co-developer of Self-Determination Theory with Deci; Ryan & Deci 2000; Ryan et al. 2022 meta-review (developing)
+- [[Edward Deci]] — University of Rochester; co-developer of SDT; foundational reward-intrinsic motivation experiments 1975; Deci, Koestner & Ryan 1999 meta-analysis (developing)
+- [[Jasper Duineveld]] — SDT researcher; co-author Ryan et al. 2022 meta-review (stub)
+- [[Emma Bradshaw]] — SDT researcher; GCT meta-analyses (intrinsic aspirations/well-being r=.24; extrinsic centrality r=−.22); parenting meta-analysis r=.28 (stub)
+- [[Stefano Di Domenico]] — SDT researcher; co-author Ryan et al. 2022 meta-review (stub)
 - [[Robert A. Bjork]] — UCLA; New Theory of Disuse; desirable difficulties; testing effect and spacing effect research (seed)
 - [[Kurt Kraiger]] — Colorado State; workplace instruction science; Kraiger & Ford 2021 (seed)
 - [[J. Kevin Ford]] — Michigan State; transfer of training; Baldwin & Ford 1988 transfer model; Kraiger & Ford 2021 (seed)
@@ -258,6 +297,10 @@ Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[
 
 ## Sources
 
+- [[ryan-et-al-2022-sdt-meta-review|Ryan et al. (2022)]] — Psychological Bulletin | meta-review 60+ SDT meta-analyses; CET/OIT/COT/BPNT/GCT/RMT; effect sizes across education/health/work/sport/parenting | 2026-05-29
+- [[kanfer-frese-johnson-2017-work-motivation|Kanfer, Frese & Johnson (2017)]] — Journal of Applied Psychology | Work motivation century review; content-context-process meta-framework; resource allocation; 10 future directions | 2026-05-30
+- [[locke-latham-2002-goal-setting-theory|Locke & Latham (2002)]] — American Psychologist | Goal-Setting Theory 35-year summary; core findings, 4 mechanisms, moderators, HPC, applications | 2026-05-30
+- [[ryan-deci-2000-sdt|Ryan & Deci (2000)]] — American Psychologist | SDT canonical overview; intrinsic motivation, OIT continuum, basic psychological needs | 2026-05-29
 - [[fischhoff-broomell-2020-jdm-review|Fischhoff & Broomell (2020)]] — Annual Review of Psychology | JDM state-of-field review | 2026-05-26
 - [[cornelissen-werner-2014-framing-review|Cornelissen & Werner (2014)]] — Academy of Management Annals | multi-level framing review | 2026-05-24
 - [[connolly-2012-jdm|Connolly, Ordóñez & Barker (2012)]] — Handbook of Psychology Ch. 19 | JDM comprehensive survey | 2026-05-23

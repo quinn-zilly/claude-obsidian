@@ -190,7 +190,7 @@ Dimensions not always highly correlated. In mature, established teams, correlati
 
 ## Related Concepts
 
-[[Transactive Memory]] | [[Team Cognition]] | [[Organizational Memory]] | [[Knowledge Specialization]] | [[Expertise Location]] | [[Task Credibility]] | [[Team Mental Models]] | [[Shared Mental Models]] | [[Organizational Learning]] | [[Knowledge Transfer]] | [[Group Performance]] | [[Team Learning]]
+[[Transactive Memory Systems]] | [[Team Cognition]] | [[Organizational Memory]] | [[Knowledge Specialization]] | [[Expertise Location]] | [[Task Credibility]] | [[Team Mental Models]] | [[Shared Mental Models]] | [[Organizational Learning]] | [[Knowledge Transfer]] | [[Group Performance]] | [[Team Learning]]
 
 ## Cross-References
 

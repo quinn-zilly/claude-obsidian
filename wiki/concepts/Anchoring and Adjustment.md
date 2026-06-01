@@ -48,6 +48,6 @@ Experts elicited for probability distributions (e.g., Dow-Jones average) produce
 
 ## Connection to Other Concepts
 
-- **[[Overfitting]]** ([[Yarkoni & Westfall 2017]]): Insufficient adjustment from initial model fit is structurally related to anchoring on training data; both represent failure to account for uncertainty in estimation.
+- **[[Overfitting]]** ([[yarkoni-westfall-2017-prediction-vs-explanation|Yarkoni & Westfall 2017]]): Insufficient adjustment from initial model fit is structurally related to anchoring on training data; both represent failure to account for uncertainty in estimation.
 - **[[Preregistration]]**: Addresses anchoring by committing to analysis plan before data are seen — prevents post-hoc anchoring on observed outcomes.
 - **[[Procedural Overfitting]]**: p-hacking can be framed as analyst anchoring on preliminary results and insufficiently adjusting for capitalization on chance.

@@ -1,5 +1,6 @@
 ---
 type: concept
+address: c-000285
 title: Spacing Effect
 status: seed
 created: 2026-05-23

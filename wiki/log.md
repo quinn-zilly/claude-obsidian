@@ -13,6 +13,36 @@ related:
   - "[[sources/_index]]"
 ---
 
+## 2026-05-30 | ingest | Kanfer, Frese & Johnson 2017 — Work Motivation: A Century of Progress
+- Source: `.raw/Kanfer et al. - 2017 - Motivation related to work A century of progress..pdf`
+- Summary: [[kanfer-frese-johnson-2017-work-motivation]]
+- Pages created: [[Work Motivation Meta-Framework (Kanfer)]], [[Resource Allocation Theory (Motivation)]], [[Action Regulation Theory]], [[Ego Depletion]], [[Regulatory Focus Theory]], [[Job Characteristics Model]], [[Proactive Engagement]], [[Ruth Kanfer]], [[Michael Frese]], [[Russell Johnson]]
+- Pages updated: [[index]], [[hot]], [[log]]
+- Addresses: c-000286 (source) through c-000296 (Russell Johnson entity)
+- Key insight: Work motivation = dynamic goal-directed resource allocation over time; content/context exert effects indirectly via goal choice + striving processes; ego depletion mechanistically challenged; future agenda = implicit motivation, temporal dynamics, proactive engagement, life-span.
+
+## 2026-05-30 | ingest | Locke & Latham 2002 — Goal-Setting Theory: A 35-Year Odyssey
+- Source: `.raw/Locke and Latham - 2002 - Building a practically useful theory of goal setting and task motivation A 35-year odyssey..pdf`
+- Summary: [[locke-latham-2002-goal-setting-theory]]
+- Pages created: [[Goal-Setting Theory]], [[Self-Efficacy (Goal Setting)]], [[High-Performance Cycle]], [[Goal Commitment]], [[Learning Goals vs Performance Goals]], [[Situational Interview]], [[Edwin Locke]], [[Gary Latham]]
+- Pages updated: [[index]], [[hot]], [[log]]
+- Addresses: c-000276 (source) through c-000284 (Gary Latham entity)
+- Key insight: Conscious specific hard goals → linear performance gains via 4 mechanisms; satisfaction = result not cause of performance (High-Performance Cycle); learning goals > performance goals on complex tasks.
+
+## 2026-05-29 | ingest | Ryan et al. 2022 — SDT Meta-Review
+- Source: `.raw/Ryan et al. - 2022 - We know this much is (meta-analytically) true A meta-review of meta-analytic findings evaluating se.pdf`
+- Summary: [[ryan-et-al-2022-sdt-meta-review]]
+- Pages created: [[ryan-et-al-2022-sdt-meta-review]], [[Causality Orientations Theory]], [[Goal Contents Theory]], [[Relationships Motivation Theory]], [[Basic Psychological Needs Theory]], [[Need Frustration (SDT)]], [[Perceived Locus of Causality]], [[Jasper Duineveld]], [[Emma Bradshaw]], [[Stefano Di Domenico]]
+- Pages updated: [[Self-Determination Theory]], [[Richard Ryan]], [[wiki/index.md]], [[wiki/hot.md]], [[wiki/log.md]]
+- Addresses: c-000264 to c-000273 (c-000274–275 spare)
+
+## 2026-05-29 | ingest | Ryan & Deci 2000 — Self-Determination Theory
+- Source: `.raw/Ryan and Deci - Self-Determination Theory and the Facilitation of Intrinsic Motivation, Social Development, and Well.pdf`
+- Summary: [[ryan-deci-2000-sdt]]
+- Pages created: [[ryan-deci-2000-sdt]], [[Self-Determination Theory]], [[Basic Psychological Needs (SDT)]], [[Autonomy (SDT)]], [[Competence (SDT)]], [[Relatedness (SDT)]], [[Intrinsic Motivation]], [[Extrinsic Motivation]], [[Cognitive Evaluation Theory]], [[Organismic Integration Theory]], [[Internalization (SDT)]], [[Richard Ryan]], [[Edward Deci]]
+- Pages updated: [[wiki/index.md]], [[wiki/hot.md]], [[wiki/log.md]]
+- Key insight: Autonomy ≠ independence; contingent rewards reliably undermine intrinsic motivation; all three needs (not just one) required for well-being; extrinsic aspiration pursuit → ill-being even when goals are attained.
+
 ## 2026-05-26 | ingest | Fischhoff & Broomell 2020 — Judgment and Decision Making
 - Source: `.raw/Fischhoff and Broomell - 2020 - Judgment and Decision Making.pdf`
 - Summary: [[fischhoff-broomell-2020-jdm-review]]
