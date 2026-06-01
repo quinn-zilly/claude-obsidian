@@ -1,3 +1,10 @@
+## 2026-06-01 ingest | Alliger et al. 1997 — Training Criteria Meta-Analysis
+- Source: `.raw/Alliger et al. - 1997 - A meta analysis of the relations among training criteria.pdf`
+- Summary: [[alliger-et-al-1997-training-criteria-meta-analysis]]
+- Pages created: [[Kirkpatrick Four-Level Model]], [[Augmented Training Criteria Framework]], [[Training Reactions (Affective vs Utility)]], [[Training Transfer]], [[Content Validity (Training Criteria)]], [[George M. Alliger]], [[Scott I. Tannenbaum]]
+- Pages updated: [[index]], [[hot]], [[log]]
+- Key insight: affective "smile sheet" reactions are essentially uncorrelated with learning or transfer; utility reactions ("will this help your job?") predict transfer better than learning measures — possibly because trainees implicitly factor in work environment constraints when judging utility.
+
 ## 2026-06-01 ingest | Pearsall, Christian & Croitoru 2025 — Stimulus-Based Model of Team Adaptation
 - Source: `.raw/Pearsall et al. - 2025 - A stimulus-based model of the team adaptation process An integrated conceptual review..pdf`
 - Summary: [[pearsall-christian-croitoru-2025-team-adaptation]]

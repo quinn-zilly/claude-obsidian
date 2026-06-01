@@ -797,6 +797,25 @@
         "wiki/hot.md",
         "wiki/log.md"
       ]
+    },
+    ".raw/Alliger et al. - 1997 - A meta analysis of the relations among training criteria.pdf": {
+      "hash": "e9aa775cee7a1767e17e01396094a6a5",
+      "ingested_at": "2026-06-01",
+      "pages_created": [
+        "wiki/sources/alliger-et-al-1997-training-criteria-meta-analysis.md",
+        "wiki/concepts/Kirkpatrick Four-Level Model.md",
+        "wiki/concepts/Augmented Training Criteria Framework.md",
+        "wiki/concepts/Training Reactions (Affective vs Utility).md",
+        "wiki/concepts/Training Transfer.md",
+        "wiki/concepts/Content Validity (Training Criteria).md",
+        "wiki/entities/George M. Alliger.md",
+        "wiki/entities/Scott I. Tannenbaum.md"
+      ],
+      "pages_updated": [
+        "wiki/index.md",
+        "wiki/log.md",
+        "wiki/hot.md"
+      ]
     }
   },
   "address_map": {
@@ -1047,7 +1066,15 @@
     "wiki/concepts/Reflexive Learning (Team Adaptation).md": "c-000321",
     "wiki/concepts/Knowledge and Skill Acquisition (Team Adaptation).md": "c-000322",
     "wiki/entities/Matthew J. Pearsall.md": "c-000323",
-    "wiki/entities/Jessica Siegel Christian.md": "c-000324"
+    "wiki/entities/Jessica Siegel Christian.md": "c-000324",
+    "wiki/sources/alliger-et-al-1997-training-criteria-meta-analysis.md": "c-000327",
+    "wiki/concepts/Kirkpatrick Four-Level Model.md": "c-000328",
+    "wiki/concepts/Augmented Training Criteria Framework.md": "c-000329",
+    "wiki/concepts/Training Reactions (Affective vs Utility).md": "c-000330",
+    "wiki/concepts/Training Transfer.md": "c-000331",
+    "wiki/concepts/Content Validity (Training Criteria).md": "c-000332",
+    "wiki/entities/George M. Alliger.md": "c-000333",
+    "wiki/entities/Scott I. Tannenbaum.md": "c-000334"
   },
   ".raw/Pearsall et al. - 2025 - A stimulus-based model of the team adaptation process An integrated conceptual review..pdf": {
     "hash": "62f683006d3323a67c67fc23621f632a",
@@ -1059,65 +1086,7 @@
       "wiki/concepts/Stimulus Detection (Team Adaptation).md",
       "wiki/concepts/Urgency Assessment (Team Adaptation).md",
       "wiki/concepts/Duration Assessment (Team Adaptation).md",
-      "wiki/concepts/Reflexive Learning (Team Adaptation).md",
-      "wiki/concepts/Knowledge and Skill Acquisition (Team Adaptation).md",
-      "wiki/entities/Matthew J. Pearsall.md",
-      "wiki/entities/Jessica Siegel Christian.md"
-    ],
-    "pages_updated": [
-      "wiki/concepts/Team Development Interventions.md",
-      "wiki/concepts/Psychological Safety.md",
-      "wiki/concepts/Transactive Memory Systems.md",
-      "wiki/index.md",
-      "wiki/hot.md",
-      "wiki/log.md"
-    ],
-    "address_map": {
-      "wiki/sources/pearsall-christian-croitoru-2025-team-adaptation.md": "c-000315",
-      "wiki/concepts/Team Adaptation (Stimulus-Based Model).md": "c-000316",
-      "wiki/concepts/Adaptive Stimulus.md": "c-000317",
-      "wiki/concepts/Stimulus Detection (Team Adaptation).md": "c-000318",
-      "wiki/concepts/Urgency Assessment (Team Adaptation).md": "c-000319",
-      "wiki/concepts/Duration Assessment (Team Adaptation).md": "c-000320",
-      "wiki/concepts/Reflexive Learning (Team Adaptation).md": "c-000321",
-      "wiki/concepts/Knowledge and Skill Acquisition (Team Adaptation).md": "c-000322",
-      "wiki/entities/Matthew J. Pearsall.md": "c-000323",
-      "wiki/entities/Jessica Siegel Christian.md": "c-000324"
-    }
-  },
-  "Ryan et al. - 2022 - We know this much is (meta-analytically) true A meta-review of meta-analytic findings evaluating se.pdf": {
-    "hash": "18fc00d8d185d5ce0593fe5b1b5381d5",
-    "ingested_at": "2026-05-29T00:00:00",
-    "pages_created": [
-      "wiki/sources/ryan-et-al-2022-sdt-meta-review.md",
-      "wiki/concepts/Causality Orientations Theory.md",
-      "wiki/concepts/Goal Contents Theory.md",
-      "wiki/concepts/Relationships Motivation Theory.md",
-      "wiki/concepts/Basic Psychological Needs Theory.md",
-      "wiki/concepts/Need Frustration (SDT).md",
-      "wiki/concepts/Perceived Locus of Causality.md",
-      "wiki/entities/Jasper Duineveld.md",
-      "wiki/entities/Emma Bradshaw.md",
-      "wiki/entities/Stefano Di Domenico.md"
-    ],
-    "pages_updated": [
-      "wiki/concepts/Self-Determination Theory.md",
-      "wiki/entities/Richard Ryan.md",
-      "wiki/index.md",
-      "wiki/hot.md",
-      "wiki/log.md"
-    ],
-    "address_map": {
-      "ryan-et-al-2022-sdt-meta-review": "c-000264",
-      "Causality Orientations Theory": "c-000265",
-      "Goal Contents Theory": "c-000266",
-      "Relationships Motivation Theory": "c-000267",
-      "Basic Psychological Needs Theory": "c-000268",
-      "Need Frustration (SDT)": "c-000269",
-      "Perceived Locus of Causality": "c-000270",
-      "Jasper Duineveld": "c-000271",
-      "Emma Bradshaw": "c-000272",
-      "Stefano Di Domenico": "c-000273"
-    }
+      "wiki/concepts/Reflexive Learning (Team Adaptation).md"
+    ]
   }
 }

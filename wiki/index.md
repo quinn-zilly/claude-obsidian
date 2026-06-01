@@ -23,7 +23,7 @@ related:
 
 # Wiki Index
 
-Last updated: 2026-06-01 | Total pages: 327 | Sources ingested: 42
+Last updated: 2026-06-01 | Total pages: 335 | Sources ingested: 43
 
 Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[getting-started]]
 
@@ -31,6 +31,11 @@ Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[
 
 ## Concepts
 
+- [[Kirkpatrick Four-Level Model]] — dominant training evaluation taxonomy (Reactions/Learning/Behavior/Results); empirically weak inter-level correlations (status: evergreen)
+- [[Augmented Training Criteria Framework]] — Alliger et al. 1997 refinement splitting reactions and learning into sub-types (status: evergreen)
+- [[Training Reactions (Affective vs Utility)]] — affective ≈ 0 correlation with learning; utility reactions predict transfer better than learning measures (status: evergreen)
+- [[Training Transfer]] — on-the-job application of trained skills; function of learning AND work environment favorability (status: evergreen)
+- [[Content Validity (Training Criteria)]] — content overlap moderates inter-criterion correlations; close-close r=.16 vs. divergent-close r=.04 (status: evergreen)
 - [[LLM Wiki Pattern]] — the pattern for building persistent, compounding knowledge bases using LLMs (status: mature)
 - [[Hot Cache]] — ~500-word session context file, updated after every ingest and session (status: mature)
 - [[Compounding Knowledge]] — why wiki knowledge grows more valuable over time, unlike RAG (status: mature)
@@ -318,6 +323,7 @@ Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[
 
 ## Sources
 
+- [[alliger-et-al-1997-training-criteria-meta-analysis|Alliger, Tannenbaum, Bennett, Traver & Shotland (1997)]] — Personnel Psychology | augmented Kirkpatrick framework; affective reactions ≈ 0 correlation with learning; utility reactions predict transfer better than learning | 2026-06-01
 - [[lacerenza-et-al-2018-team-development-interventions|Lacerenza, Marlow, Tannenbaum & Salas (2018)]] — American Psychologist | four TDI types; team debriefing 20–25% performance gain; leadership training 29% improvement; psychological safety cross-cutting | 2026-06-01
 - [[pearsall-christian-croitoru-2025-team-adaptation|Pearsall, Christian & Croitoru (2025)]] — Journal of Applied Psychology (Monograph) | 6-phase stimulus-based model of team adaptation; phases: detection → urgency → duration → response → reflexive learning → knowledge acquisition | 2026-06-01
 - [[lepine-et-al-2008-teamwork-processes|LePine, Piccolo, Jackson, Mathieu & Saul (2008)]] — Personnel Psychology | teamwork process taxonomy meta-analysis; 138 studies; hierarchical structure; ρ≈.29 all process types → performance; task interdependence and team size moderate | 2026-06-01
@@ -386,6 +392,10 @@ Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[
 - [[Sociotechnical Systems Theory]] — joint optimization of social + technical systems; team-level work design; Tavistock/Trist 1951 (developing)
 - [[Job Demands–Control–Support Model]] — JDC-S + JD-R: demands × resources → burnout/engagement; Karasek 1979; Bakker & Demerouti 2007 (developing)
 - [[Interdisciplinary Model of Job Design]] — Campion 1988: four approaches (mechanistic/motivational/perceptual/biological) with distinct outcome profiles (developing)
+
+## Entities (Training Evaluation)
+- [[George M. Alliger]] — SUNY Albany; meta-analyses of Kirkpatrick criteria; augmented framework
+- [[Scott I. Tannenbaum]] — training effectiveness, transfer climate, trainee expectations
 
 ## Entities (Team Adaptation)
 - [[Matthew J. Pearsall]] — team adaptation, team cognition; UNC Kenan-Flagler
