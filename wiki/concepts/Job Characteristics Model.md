@@ -53,3 +53,5 @@ JCM's autonomy characteristic maps directly to SDT's autonomy need. Task signifi
 - [[wiki/sources/kanfer-frese-johnson-2017-work-motivation|Kanfer et al. 2017]]
 - Hackman & Oldham (1975, 1976)
 - Humphrey, Nahrgang & Morgeson (2007)
+
+- [[wiki/sources/morgeson-garza-campion-2012-work-design|Morgeson et al. 2012]]

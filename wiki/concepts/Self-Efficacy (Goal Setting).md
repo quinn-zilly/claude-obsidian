@@ -55,3 +55,19 @@ After negative feedback, SE level determines whether the person raises or lowers
 - [[wiki/sources/locke-latham-2002-goal-setting-theory|Locke & Latham 2002]]
 - Bandura (1986, 1997) — Social Cognitive Theory; Self-Efficacy: The Exercise of Control
 - Locke, Motowidlo & Bobko (1986)
+
+## Vancouver Debate (Schmidt et al. 2012)
+
+Vancouver et al. (2001, 2002, 2006): within-person SE → **negative** performance effect. High SE → perceive fewer resources needed → underallocate → lower performance. Replicated in lab + field. Judge et al. (2007) meta-analysis: positive SE–performance relation disappears after controlling personality, experience, ability.
+
+Schmidt & DeShon moderators:
+- **Ambiguity** (2010): negative SE effect when performance feedback ambiguous — SE biases self-appraisal upward → underallocation
+- **Challenge** (2009): positive SE when situation challenging (persistence mechanism); negative SE when easy (coasting)
+- **Goal difficulty** (Beck & Schmidt 2011): positive SE with difficult goal; negative with easy goal
+
+Vancouver et al. (2008): high SE → less time per trial → **adaptive** — conserves resources for harder future trials (test-taking context).
+
+**Interpretation:** SE effects reflect efficient resource allocation, not pathology. Both positive and negative effects are rational within a control theory framework.
+
+> [!contradiction] Positive vs. negative SE effects
+> Between-person research (Stajkovic & Luthans 1998): r=0.38 positive. Within-person research (Vancouver et al.): null or negative. Moderators (ambiguity, challenge, goal difficulty) reconcile much of the discrepancy. Design choice (between vs. within) matters critically.

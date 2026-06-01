@@ -46,3 +46,13 @@ Regulatory focus can be situationally induced (e.g., framing a task in gain vs. 
 - [[wiki/sources/kanfer-frese-johnson-2017-work-motivation|Kanfer et al. 2017]]
 - Higgins (1997) — Beyond pleasure and pain
 - Lanaj, Chang & Johnson (2012) — meta-analysis
+
+## Schmidt et al. 2012 additions
+
+- Promotion → speed + productivity (Wallace & Chen 2006); OCBs (Neubert et al. 2008)
+- Prevention → accuracy + safety compliance (Wallace & Chen 2006); CWBs negatively (Neubert et al. 2008)
+- **Multiple goals:** promotion → speed over accuracy; prevention → accuracy over speed (Förster et al. 2003)
+- Safety climate → prevention focus → safer work behavior (between-person path)
+- Promotion frame → more exploratory behavior; prevention frame → goal shielding + commitment to duty-goals even at low expectancy
+
+See also [[wiki/sources/schmidt-beck-gillespie-2012-motivation|Schmidt et al. 2012]]

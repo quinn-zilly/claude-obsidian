@@ -1,3 +1,52 @@
+## 2026-06-01 ingest | Pearsall, Christian & Croitoru 2025 — Stimulus-Based Model of Team Adaptation
+- Source: `.raw/Pearsall et al. - 2025 - A stimulus-based model of the team adaptation process An integrated conceptual review..pdf`
+- Summary: [[pearsall-christian-croitoru-2025-team-adaptation]]
+- Pages created: [[Team Adaptation (Stimulus-Based Model)]], [[Adaptive Stimulus]], [[Stimulus Detection (Team Adaptation)]], [[Urgency Assessment (Team Adaptation)]], [[Duration Assessment (Team Adaptation)]], [[Reflexive Learning (Team Adaptation)]], [[Knowledge and Skill Acquisition (Team Adaptation)]], [[Matthew J. Pearsall]], [[Jessica Siegel Christian]]
+- Pages updated: [[Team Development Interventions]], [[Psychological Safety]], [[Transactive Memory Systems]], [[index]], [[hot]], [[log]]
+- Key insight: stimulus-based reframing shifts focus from "what did teams do?" to "what did they face and how did they categorize it?" — urgency (proximity × magnitude) and duration expectation (temporary vs. sustained) determine which behaviors are adaptive, explaining why prior response-focused findings don't generalize across stimulus types.
+
+## 2026-06-01 ingest | Lacerenza et al. 2018 — Team Development Interventions
+- Source: `.raw/Lacerenza et al. - 2018 - Team development interventions Evidence-based approaches for improving teamwork..pdf`
+- Summary: [[lacerenza-et-al-2018-team-development-interventions]]
+- Pages created: [[Team Debriefing]], [[Leadership Training (Teams)]], [[Psychological Safety]]
+- Pages updated: [[Team Development Interventions]], [[Team Training]], [[Team Building]], [[Eduardo Salas]], [[index]], [[hot]], [[log]]
+- Key insight: four-type TDI framework (training: leadership + team; process: building + debriefing); team debriefing achieves 20–25% performance gain in ~18 min; psychological safety is cross-cutting prerequisite for both training and debriefing; leadership training 29% improvement meta-analytically.
+
+## 2026-06-01 ingest | LePine et al. 2008 — Teamwork Processes Meta-Analysis
+- Source: `.raw/Lepine et al. - 2008 - A Meta-Analysis of Teamwork Processes Tests of a .pdf`
+- Summary: [[lepine-et-al-2008-teamwork-processes]]
+- Pages created: [[Teamwork Processes (Marks et al. Taxonomy)]], [[Emergent States (Teams)]]
+- Pages updated: [[Team Development Interventions]], [[index]], [[hot]], [[log]]
+- Key insight: all process types relate equally to performance (ρ≈.29) — discriminant validity fails at criterion level despite structural distinctiveness; task interdependence amplifies process–performance links; process diagnosis enables targeted TDI selection.
+
+## 2026-06-01 ingest | Shuffler, DiazGranados & Salas 2011 — Team Development Interventions
+- Source: `.raw/Shuffler et al. - 2011 - There's a Science for That Team Development Inter.pdf`
+- Summary: [[shuffler-et-al-2011-team-development-interventions]]
+- Pages created: [[Team Development Interventions]], [[Team Building]], [[Team Training]], [[Eduardo Salas]]
+- Pages updated: [[Transactive Memory Systems]], [[Trait Activation Theory]], [[index]], [[hot]], [[log]]
+- Key insight: team training > team building overall (ρ=0.34 vs. 0.31) but building = training for process/affect; cross-training directly develops TMS; CRM training credited for Hudson River survival outcome.
+
+## 2026-06-01 ingest | Tett, Toich & Ozkum 2021 — Trait Activation Theory
+- Source: `.raw/Tett et al. - 2021 - Trait Activation Theory A Review of the Literature and Applications to Five Lines of Personality Dy.pdf`
+- Summary: [[tett-et-al-2021-trait-activation-theory]]
+- Pages created: [[Trait Activation Theory]], [[Situational Cue Types (TAT)]], [[Personality Dynamics (TAT)]], [[Situation Strength]], [[Five-Factor Model]], [[Person–Environment Fit]], [[Robert Tett]]
+- Pages updated: [[index]], [[hot]], [[log]]
+- Key insight: TAT moderator effects 60% significant across 262 tests; neuroticism/emotional stability most situation-sensitive (79%); TAT + SR = compatible hybrid motivational system via shared affect foundation and Murray 1938 need-satisfaction heritage.
+
+## 2026-06-01 ingest | Schmidt, Beck & Gillespie 2012 — Motivation
+- Source: `.raw/Schmidt et al. - 2012 - Motivation.pdf`
+- Summary: [[schmidt-beck-gillespie-2012-motivation]]
+- Pages created: [[Control Theory (Self-Regulation)]], [[Multiple Goal Self-Regulation)]], [[Temporal Motivation Theory]], [[Emotional Labor]], [[Goal Orientation]], [[Aaron Schmidt]]
+- Pages updated: [[Self-Efficacy (Goal Setting)]], [[Regulatory Focus Theory]], [[Goal-Setting Theory]] (source page)
+- Key insight: motivation = resource allocation across competing goals; SE effects (positive vs. negative) reconciled by ambiguity + challenge moderators; velocity independently predicts affect beyond discrepancy magnitude.
+
+## 2026-06-01 ingest | Morgeson, Garza & Campion 2012 — Work Design
+- Source: `.raw/Morgeson et al. - 2012 - Work design.pdf`
+- Summary: [[morgeson-garza-campion-2012-work-design]]
+- Pages created: [[Work Design (Concept)]], [[Work Design Questionnaire]], [[Sociotechnical Systems Theory]], [[Job Demands–Control–Support Model]], [[Interdisciplinary Model of Job Design]], [[Frederick Morgeson]], [[Michael Campion]]
+- Pages updated: [[Job Characteristics Model]]
+- Key insight: WDQ extends JCM's 5 motivational chars to 18 across task/knowledge/social/contextual domains; work conditions alone explain 16% incremental variance in stress; motivational–mechanistic tradeoff partially resolvable via specialization.
+
 ---
 type: meta
 title: "Operation Log"

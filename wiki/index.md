@@ -23,7 +23,7 @@ related:
 
 # Wiki Index
 
-Last updated: 2026-05-29 | Total pages: 281 | Sources ingested: 35
+Last updated: 2026-06-01 | Total pages: 327 | Sources ingested: 42
 
 Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[getting-started]]
 
@@ -55,6 +55,27 @@ Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[
 - [[Knowledge Retention]] — embedding knowledge in distributed repositories so it persists over time (developing)
 - [[Knowledge-Based Theory of the Firm]] — Grant (1996); firm as knowledge integrator; four integration mechanisms; common knowledge (developing)
 - [[Microfoundations]] — individual-level mechanisms underlying collective outcomes; additive vs. emergent aggregation (developing)
+- [[Team Adaptation (Stimulus-Based Model)]] — 6-phase model: stimulus detection → urgency assessment → duration assessment → adaptive response → reflexive learning → knowledge/skill acquisition; Pearsall et al. 2025 (developing)
+- [[Adaptive Stimulus]] — demand/problem/disruption requiring purposeful collective behavior change; typology: proximity × magnitude × duration (developing)
+- [[Stimulus Detection (Team Adaptation)]] — Phase 1; external focus, boundary spanning, peripheral member coordination enable early detection (developing)
+- [[Urgency Assessment (Team Adaptation)]] — Phase 2; proximity × magnitude → prioritization; construal level theory; emotional alarm bells (developing)
+- [[Duration Assessment (Team Adaptation)]] — Phase 3; temporary vs. sustained expectation drives response strategy; continuous not binary (developing)
+- [[Reflexive Learning (Team Adaptation)]] — Phase 5; within-episode updating of urgency/duration assessments and microadjustment of behaviors (developing)
+- [[Knowledge and Skill Acquisition (Team Adaptation)]] — Phase 6; post-episode learning → improved future adaptability; adaptive strategies, collective efficacy, mental models (developing)
+- [[Team Debriefing]] — post-episode reflection on process; 20–25% performance increase; ~18 min; AAR, guided self-correction; psych safety required (mature)
+- [[Leadership Training (Teams)]] — 29% improvement meta-analytic effect; transformational/empowering leadership → team outcomes; cognitive/skill > affective (developing)
+- [[Psychological Safety]] — mutual belief team won't punish speaking up; cross-cutting enabler for training and debriefing; #1 Google team predictor (developing)
+- [[Teamwork Processes (Marks et al. Taxonomy)]] — 10 narrow → 3 intermediate (transition/action/interpersonal) → 1 general factor; all ρ ≈ .29 with performance; stronger when interdependence high (mature)
+- [[Emergent States (Teams)]] — cohesion, potency, TMS; both antecedents and outcomes of processes; IMOI model (developing)
+- [[Team Development Interventions]] — team building vs. team training; distinct targets, mechanisms, and outcome profiles; science-based design required (mature)
+- [[Team Building]] — four approaches: goal setting, interpersonal relationships, role clarification, problem solving; best for affect/process outcomes (mature)
+- [[Team Training]] — cross-training, self-correction, coordination, CRM; best for cognitive/performance outcomes (mature)
+- [[Trait Activation Theory]] — traits as latent potentials activated by trait-relevant situational cues; TAT moderator framework; 60% significance rate across 262 tests (mature)
+- [[Situational Cue Types (TAT)]] — six functional types: demands, distracters, constraints, releasers, facilitators, discretionary cues (mature)
+- [[Personality Dynamics (TAT)]] — 5×5 matrix: five TAT issues × five personality dynamics research lines (developing)
+- [[Situation Strength]] — trait-general situational constraint; related to but distinct from TAT trait relevance (developing)
+- [[Five-Factor Model]] — OCEAN/Big Five personality taxonomy; primary taxonomy in TAT research (developing)
+- [[Person–Environment Fit]] — demands-abilities + needs-supplies fit; TAT uniquely spans both via traits-as-needs (developing)
 - [[Framing (Organizational Theory)]] — multi-level review of framing: micro cognitive frames, meso meaning construction, macro field/institutional frames; priming/framing distinction; Cornelissen & Werner 2014 (developing)
 - [[Cognitive Frame]] — knowledge schema that directs perception and inference; top-down/theory-driven; Carnegie tradition; sensemaking foundation (developing)
 - [[Priming vs Framing]] — key distinction: priming = accessing existing schemas (top-down); framing = socially constructing new meaning (bottom-up); Cornelissen & Werner 2014 (developing)
@@ -297,6 +318,11 @@ Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[
 
 ## Sources
 
+- [[lacerenza-et-al-2018-team-development-interventions|Lacerenza, Marlow, Tannenbaum & Salas (2018)]] — American Psychologist | four TDI types; team debriefing 20–25% performance gain; leadership training 29% improvement; psychological safety cross-cutting | 2026-06-01
+- [[pearsall-christian-croitoru-2025-team-adaptation|Pearsall, Christian & Croitoru (2025)]] — Journal of Applied Psychology (Monograph) | 6-phase stimulus-based model of team adaptation; phases: detection → urgency → duration → response → reflexive learning → knowledge acquisition | 2026-06-01
+- [[lepine-et-al-2008-teamwork-processes|LePine, Piccolo, Jackson, Mathieu & Saul (2008)]] — Personnel Psychology | teamwork process taxonomy meta-analysis; 138 studies; hierarchical structure; ρ≈.29 all process types → performance; task interdependence and team size moderate | 2026-06-01
+- [[shuffler-et-al-2011-team-development-interventions|Shuffler, DiazGranados & Salas (2011)]] — Current Directions in Psychological Science | team building vs. team training; meta-analytic effects; science-based design; CRM example | 2026-06-01
+- [[tett-et-al-2021-trait-activation-theory|Tett, Toich & Ozkum (2021)]] — Annual Review of Organizational Psychology | TAT review 2011–2019; 60% moderator significance rate; personality dynamics 5×5 matrix; future directions | 2026-06-01
 - [[ryan-et-al-2022-sdt-meta-review|Ryan et al. (2022)]] — Psychological Bulletin | meta-review 60+ SDT meta-analyses; CET/OIT/COT/BPNT/GCT/RMT; effect sizes across education/health/work/sport/parenting | 2026-05-29
 - [[kanfer-frese-johnson-2017-work-motivation|Kanfer, Frese & Johnson (2017)]] — Journal of Applied Psychology | Work motivation century review; content-context-process meta-framework; resource allocation; 10 future directions | 2026-05-30
 - [[locke-latham-2002-goal-setting-theory|Locke & Latham (2002)]] — American Psychologist | Goal-Setting Theory 35-year summary; core findings, 4 mechanisms, moderators, HPC, applications | 2026-05-30
@@ -355,3 +381,24 @@ Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[
 ## Domains
 
 <!-- Add domain entries here after scaffold -->
+- [[Work Design (Concept)]] — comprehensive field review: six perspectives, WDQ 18-char taxonomy, mediating mechanisms, outcomes meta-analysis (mature)
+- [[Work Design Questionnaire]] — WDQ: 18-characteristic self-report measure replacing JDS; validated across 243 jobs (mature)
+- [[Sociotechnical Systems Theory]] — joint optimization of social + technical systems; team-level work design; Tavistock/Trist 1951 (developing)
+- [[Job Demands–Control–Support Model]] — JDC-S + JD-R: demands × resources → burnout/engagement; Karasek 1979; Bakker & Demerouti 2007 (developing)
+- [[Interdisciplinary Model of Job Design]] — Campion 1988: four approaches (mechanistic/motivational/perceptual/biological) with distinct outcome profiles (developing)
+
+## Entities (Team Adaptation)
+- [[Matthew J. Pearsall]] — team adaptation, team cognition; UNC Kenan-Flagler
+- [[Jessica Siegel Christian]] — team adaptation, TMS, member loss; UNC Kenan-Flagler
+
+## Entities (Work Design)
+- [[Frederick Morgeson]] — WDQ developer, contemporary work design theorist; MSU
+- [[Michael Campion]] — interdisciplinary model; MJDQ; Purdue
+- [[Control Theory (Self-Regulation)]] — cybernetic goal striving: discrepancy reduction, velocity, hierarchy, goal revision; Lord & Levy 1994; Carver & Scheier 1998 (mature)
+- [[Multiple Goal Self-Regulation]] — resource allocation across competing goals; Schmidt & DeShon paradigm; deadline shift; computational model (mature)
+- [[Temporal Motivation Theory]] — TMT: Utility = (E×V)/(1+delay); hyperbolic discounting; deadlines + procrastination; Steel & König 2006 (developing)
+- [[Emotional Labor]] — surface vs. deep acting; display rules as goals; autonomy buffer; Grandey 2000 (developing)
+- [[Goal Orientation]] — mastery/performance-approach/performance-avoid; dispositional + state; Payne et al. 2007 (mature)
+
+## Entities (Motivation)
+- [[Aaron Schmidt]] — multiple goal self-regulation; SE debate; U Minnesota

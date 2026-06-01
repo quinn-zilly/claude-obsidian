@@ -685,6 +685,118 @@
         "wiki/hot.md",
         "wiki/log.md"
       ]
+    },
+    ".raw/Morgeson et al. - 2012 - Work design.pdf": {
+      "hash": "247f9a031aee17750d16602ab682515e",
+      "ingested_at": "2026-06-01",
+      "pages_created": [
+        "wiki/sources/morgeson-garza-campion-2012-work-design.md",
+        "wiki/concepts/Work Design (Concept).md",
+        "wiki/concepts/Work Design Questionnaire.md",
+        "wiki/concepts/Sociotechnical Systems Theory.md",
+        "wiki/concepts/Job Demands\u2013Control\u2013Support Model.md",
+        "wiki/concepts/Interdisciplinary Model of Job Design.md",
+        "wiki/entities/Frederick Morgeson.md",
+        "wiki/entities/Michael Campion.md"
+      ],
+      "pages_updated": [
+        "wiki/concepts/Job Characteristics Model.md",
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md"
+      ]
+    },
+    ".raw/Schmidt et al. - 2012 - Motivation.pdf": {
+      "hash": "ea553d5e1d3ea633a7c903fad3724c10",
+      "ingested_at": "2026-06-01",
+      "pages_created": [
+        "wiki/sources/schmidt-beck-gillespie-2012-motivation.md",
+        "wiki/concepts/Control Theory (Self-Regulation).md",
+        "wiki/concepts/Multiple Goal Self-Regulation.md",
+        "wiki/concepts/Temporal Motivation Theory.md",
+        "wiki/concepts/Emotional Labor.md",
+        "wiki/concepts/Goal Orientation.md",
+        "wiki/entities/Aaron Schmidt.md"
+      ],
+      "pages_updated": [
+        "wiki/concepts/Self-Efficacy (Goal Setting).md",
+        "wiki/concepts/Regulatory Focus Theory.md",
+        "wiki/sources/locke-latham-2002-goal-setting-theory.md",
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md"
+      ]
+    },
+    ".raw/Tett et al. - 2021 - Trait Activation Theory A Review of the Literature and Applications to Five Lines of Personality Dy.pdf": {
+      "hash": "52b1f255a014a5773b47ff90bb92a29b",
+      "ingested_at": "2026-06-01",
+      "pages_created": [
+        "wiki/sources/tett-et-al-2021-trait-activation-theory.md",
+        "wiki/concepts/Trait Activation Theory.md",
+        "wiki/concepts/Situational Cue Types (TAT).md",
+        "wiki/concepts/Personality Dynamics (TAT).md",
+        "wiki/concepts/Situation Strength.md",
+        "wiki/concepts/Five-Factor Model.md",
+        "wiki/concepts/Person\u2013Environment Fit.md",
+        "wiki/entities/Robert Tett.md"
+      ],
+      "pages_updated": [
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md"
+      ]
+    },
+    ".raw/Shuffler et al. - 2011 - There\u2019s a Science for That Team Development Inter.pdf": {
+      "hash": "12381654c87b9454d73f8968e893425b",
+      "ingested_at": "2026-06-01",
+      "pages_created": [
+        "wiki/sources/shuffler-et-al-2011-team-development-interventions.md",
+        "wiki/concepts/Team Development Interventions.md",
+        "wiki/concepts/Team Building.md",
+        "wiki/concepts/Team Training.md",
+        "wiki/entities/Eduardo Salas.md"
+      ],
+      "pages_updated": [
+        "wiki/concepts/Transactive Memory Systems.md",
+        "wiki/concepts/Trait Activation Theory.md",
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md"
+      ]
+    },
+    ".raw/Lepine et al. - 2008 - A Meta-Analysis of Teamwork Processes Tests of a .pdf": {
+      "hash": "bb929ef100b7ecd29550a4f726f9e261",
+      "ingested_at": "2026-06-01",
+      "pages_created": [
+        "wiki/sources/lepine-et-al-2008-teamwork-processes.md",
+        "wiki/concepts/Teamwork Processes (Marks et al. Taxonomy).md",
+        "wiki/concepts/Emergent States (Teams).md"
+      ],
+      "pages_updated": [
+        "wiki/concepts/Team Development Interventions.md",
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md"
+      ]
+    },
+    ".raw/Lacerenza et al. - 2018 - Team development interventions Evidence-based approaches for improving teamwork..pdf": {
+      "hash": "03aa1dedd35340a9fbaf8e362e147370",
+      "ingested_at": "2026-06-01",
+      "pages_created": [
+        "wiki/sources/lacerenza-et-al-2018-team-development-interventions.md",
+        "wiki/concepts/Team Debriefing.md",
+        "wiki/concepts/Leadership Training (Teams).md",
+        "wiki/concepts/Psychological Safety.md"
+      ],
+      "pages_updated": [
+        "wiki/concepts/Team Development Interventions.md",
+        "wiki/concepts/Team Training.md",
+        "wiki/concepts/Team Building.md",
+        "wiki/entities/Eduardo Salas.md",
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md"
+      ]
     }
   },
   "address_map": {
@@ -910,7 +1022,68 @@
     "wiki/concepts/Proactive Engagement.md": "c-000293",
     "wiki/entities/Ruth Kanfer.md": "c-000294",
     "wiki/entities/Michael Frese.md": "c-000295",
-    "wiki/entities/Russell Johnson.md": "c-000296"
+    "wiki/entities/Russell Johnson.md": "c-000296",
+    "wiki/sources/morgeson-garza-campion-2012-work-design.md": "c-000298",
+    "wiki/concepts/Work Design (Concept).md": "c-000299",
+    "wiki/concepts/Work Design Questionnaire.md": "c-000300",
+    "wiki/entities/Frederick Morgeson.md": "c-000301",
+    "wiki/entities/Michael Campion.md": "c-000303",
+    "wiki/concepts/Sociotechnical Systems Theory.md": "c-000304",
+    "wiki/concepts/Job Demands\u2013Control\u2013Support Model.md": "c-000305",
+    "wiki/concepts/Interdisciplinary Model of Job Design.md": "c-000306",
+    "wiki/sources/schmidt-beck-gillespie-2012-motivation.md": "c-000307",
+    "wiki/concepts/Control Theory (Self-Regulation).md": "c-000308",
+    "wiki/concepts/Multiple Goal Self-Regulation.md": "c-000309",
+    "wiki/concepts/Temporal Motivation Theory.md": "c-000310",
+    "wiki/concepts/Emotional Labor.md": "c-000311",
+    "wiki/concepts/Goal Orientation.md": "c-000312",
+    "wiki/entities/Aaron Schmidt.md": "c-000313",
+    "wiki/sources/pearsall-christian-croitoru-2025-team-adaptation.md": "c-000315",
+    "wiki/concepts/Team Adaptation (Stimulus-Based Model).md": "c-000316",
+    "wiki/concepts/Adaptive Stimulus.md": "c-000317",
+    "wiki/concepts/Stimulus Detection (Team Adaptation).md": "c-000318",
+    "wiki/concepts/Urgency Assessment (Team Adaptation).md": "c-000319",
+    "wiki/concepts/Duration Assessment (Team Adaptation).md": "c-000320",
+    "wiki/concepts/Reflexive Learning (Team Adaptation).md": "c-000321",
+    "wiki/concepts/Knowledge and Skill Acquisition (Team Adaptation).md": "c-000322",
+    "wiki/entities/Matthew J. Pearsall.md": "c-000323",
+    "wiki/entities/Jessica Siegel Christian.md": "c-000324"
+  },
+  ".raw/Pearsall et al. - 2025 - A stimulus-based model of the team adaptation process An integrated conceptual review..pdf": {
+    "hash": "62f683006d3323a67c67fc23621f632a",
+    "ingested_at": "2026-06-01",
+    "pages_created": [
+      "wiki/sources/pearsall-christian-croitoru-2025-team-adaptation.md",
+      "wiki/concepts/Team Adaptation (Stimulus-Based Model).md",
+      "wiki/concepts/Adaptive Stimulus.md",
+      "wiki/concepts/Stimulus Detection (Team Adaptation).md",
+      "wiki/concepts/Urgency Assessment (Team Adaptation).md",
+      "wiki/concepts/Duration Assessment (Team Adaptation).md",
+      "wiki/concepts/Reflexive Learning (Team Adaptation).md",
+      "wiki/concepts/Knowledge and Skill Acquisition (Team Adaptation).md",
+      "wiki/entities/Matthew J. Pearsall.md",
+      "wiki/entities/Jessica Siegel Christian.md"
+    ],
+    "pages_updated": [
+      "wiki/concepts/Team Development Interventions.md",
+      "wiki/concepts/Psychological Safety.md",
+      "wiki/concepts/Transactive Memory Systems.md",
+      "wiki/index.md",
+      "wiki/hot.md",
+      "wiki/log.md"
+    ],
+    "address_map": {
+      "wiki/sources/pearsall-christian-croitoru-2025-team-adaptation.md": "c-000315",
+      "wiki/concepts/Team Adaptation (Stimulus-Based Model).md": "c-000316",
+      "wiki/concepts/Adaptive Stimulus.md": "c-000317",
+      "wiki/concepts/Stimulus Detection (Team Adaptation).md": "c-000318",
+      "wiki/concepts/Urgency Assessment (Team Adaptation).md": "c-000319",
+      "wiki/concepts/Duration Assessment (Team Adaptation).md": "c-000320",
+      "wiki/concepts/Reflexive Learning (Team Adaptation).md": "c-000321",
+      "wiki/concepts/Knowledge and Skill Acquisition (Team Adaptation).md": "c-000322",
+      "wiki/entities/Matthew J. Pearsall.md": "c-000323",
+      "wiki/entities/Jessica Siegel Christian.md": "c-000324"
+    }
   },
   "Ryan et al. - 2022 - We know this much is (meta-analytically) true A meta-review of meta-analytic findings evaluating se.pdf": {
     "hash": "18fc00d8d185d5ce0593fe5b1b5381d5",

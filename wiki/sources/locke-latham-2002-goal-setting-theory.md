@@ -130,3 +130,8 @@ Goals = reference standard for satisfaction. Exceeding goal → satisfaction pro
 - Meta-analytic d (difficulty): .52–.82; d (SDG vs. do-best): .42–.80
 - Complex vs. simple task d: .48 vs. .67
 - Participation effect on performance: ES = .11 (Wagner & Gooding 1987)
+
+## Additional Sources (Schmidt et al. 2012 perspective)
+- [[wiki/sources/schmidt-beck-gillespie-2012-motivation|Schmidt et al. 2012]] — treats GST as foundational; extends to goal striving, self-regulation, multiple goals
+- [[Control Theory (Self-Regulation)]] — complementary to GST; specifies striving dynamics GST leaves implicit
+- [[Goal Orientation]] — dispositional basis for why learning goals outperform performance goals on complex tasks
