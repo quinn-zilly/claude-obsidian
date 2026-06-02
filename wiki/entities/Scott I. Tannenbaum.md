@@ -20,6 +20,7 @@ I-O psychologist and consultant; affiliated with Executive Consulting Group, Inc
 - Tannenbaum & Woods (1992): Evaluation strategy under organizational constraints
 - Mathieu, Tannenbaum & Salas (1993): Individual/situational influences on training effectiveness
 - [[alliger-et-al-1997-training-criteria-meta-analysis]]: Co-author
+- [[bell-et-al-2017-100-years-training-development]]: Co-author (centennial JAP review)
 
 ## Contributions
 

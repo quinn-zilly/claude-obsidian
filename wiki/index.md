@@ -23,7 +23,7 @@ related:
 
 # Wiki Index
 
-Last updated: 2026-06-01 | Total pages: 335 | Sources ingested: 43
+Last updated: 2026-06-01 | Total pages: 344 | Sources ingested: 44
 
 Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[getting-started]]
 
@@ -31,6 +31,11 @@ Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[
 
 ## Concepts
 
+- [[Active Learning (Training)]] — learner as active participant; guided exploration, error management, mastery framing; Bell et al. 2017 Theme 3 centerpiece (status: developing)
+- [[Technology-Based Training]] — e-learning, CAI, simulations; media irrelevance (Clark 1994); design not media determines effectiveness; blended learning gap (status: developing)
+- [[Training Context and Transfer Climate]] — what happens before/after training; supervisor support, transfer climate (Tracey et al. 1995), expectation setting, work experience as development (status: mature)
+- [[Training Needs Analysis]] — identifying training needs; major empirical gap despite prescriptive importance; rapid needs assessment urgent (status: developing)
+- [[Trainee Characteristics]] — GMA, self-efficacy, goal orientation, personality; within-person self-efficacy reversal; trainability distinct from job success (status: mature)
 - [[Kirkpatrick Four-Level Model]] — dominant training evaluation taxonomy (Reactions/Learning/Behavior/Results); empirically weak inter-level correlations (status: evergreen)
 - [[Augmented Training Criteria Framework]] — Alliger et al. 1997 refinement splitting reactions and learning into sub-types (status: evergreen)
 - [[Training Reactions (Affective vs Utility)]] — affective ≈ 0 correlation with learning; utility reactions predict transfer better than learning measures (status: evergreen)
@@ -316,13 +321,16 @@ Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[
 - [[Emma Bradshaw]] — SDT researcher; GCT meta-analyses (intrinsic aspirations/well-being r=.24; extrinsic centrality r=−.22); parenting meta-analysis r=.28 (stub)
 - [[Stefano Di Domenico]] — SDT researcher; co-author Ryan et al. 2022 meta-review (stub)
 - [[Robert A. Bjork]] — UCLA; New Theory of Disuse; desirable difficulties; testing effect and spacing effect research (seed)
-- [[Kurt Kraiger]] — Colorado State; workplace instruction science; Kraiger & Ford 2021 (seed)
+- [[Kurt Kraiger]] — Colorado State; workplace instruction science; Kraiger & Ford 2021; Kraiger, Ford & Salas 1993 (seed)
 - [[J. Kevin Ford]] — Michigan State; transfer of training; Baldwin & Ford 1988 transfer model; Kraiger & Ford 2021 (seed)
+- [[Bradford S. Bell]] — Cornell ILR; active learning, technology-based training, team training; Bell & Kozlowski 2002/2008/2009 (developing)
+- [[Raymond A. Noe]] — Ohio State; trainee motivation, development participation, Noe 1986 model (stub)
 
 ---
 
 ## Sources
 
+- [[bell-et-al-2017-100-years-training-development|Bell, Tannenbaum, Ford, Noe & Kraiger (2017)]] — Journal of Applied Psychology | 100-year centennial review; 458 JAP articles; four themes: criteria, trainee char., design, context; trainability, active learning, transfer climate, tech-based training; multilevel criteria; within-person self-efficacy reversal | 2026-06-01
 - [[alliger-et-al-1997-training-criteria-meta-analysis|Alliger, Tannenbaum, Bennett, Traver & Shotland (1997)]] — Personnel Psychology | augmented Kirkpatrick framework; affective reactions ≈ 0 correlation with learning; utility reactions predict transfer better than learning | 2026-06-01
 - [[lacerenza-et-al-2018-team-development-interventions|Lacerenza, Marlow, Tannenbaum & Salas (2018)]] — American Psychologist | four TDI types; team debriefing 20–25% performance gain; leadership training 29% improvement; psychological safety cross-cutting | 2026-06-01
 - [[pearsall-christian-croitoru-2025-team-adaptation|Pearsall, Christian & Croitoru (2025)]] — Journal of Applied Psychology (Monograph) | 6-phase stimulus-based model of team adaptation; phases: detection → urgency → duration → response → reflexive learning → knowledge acquisition | 2026-06-01

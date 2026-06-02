@@ -36,3 +36,8 @@ Professor of Psychology, Colorado State University (at time of Kraiger & Ford 20
 ## Sources
 
 - [[kraiger-ford-2021-workplace-instruction]]
+- [[bell-et-al-2017-100-years-training-development]] — co-author (centennial JAP review)
+
+## Notable: Kraiger, Ford & Salas (1993)
+
+Landmark paper broadening training evaluation taxonomy to cognitive (declarative knowledge, knowledge org, strategies), skill-based (compilation, automaticity), and affective (motivation, attitudes) outcomes. Major influence on T&D research agenda for 30+ years.

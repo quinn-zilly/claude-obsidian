@@ -816,6 +816,29 @@
         "wiki/log.md",
         "wiki/hot.md"
       ]
+    },
+    ".raw/Bell et al. - 2017 - 100 years of training and development research What we know and where we should go..pdf": {
+      "hash": "31d75ce8457a5d42398bcf36ead47058",
+      "ingested_at": "2026-06-01",
+      "pages_created": [
+        "wiki/sources/bell-et-al-2017-100-years-training-development.md",
+        "wiki/concepts/Active Learning (Training).md",
+        "wiki/concepts/Technology-Based Training.md",
+        "wiki/concepts/Training Context and Transfer Climate.md",
+        "wiki/concepts/Training Needs Analysis.md",
+        "wiki/concepts/Trainee Characteristics.md",
+        "wiki/entities/Bradford S. Bell.md",
+        "wiki/entities/Raymond A. Noe.md"
+      ],
+      "pages_updated": [
+        "wiki/entities/J. Kevin Ford.md",
+        "wiki/entities/Kurt Kraiger.md",
+        "wiki/entities/Scott I. Tannenbaum.md",
+        "wiki/concepts/Training Transfer.md",
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md"
+      ]
     }
   },
   "address_map": {
@@ -1074,7 +1097,15 @@
     "wiki/concepts/Training Transfer.md": "c-000331",
     "wiki/concepts/Content Validity (Training Criteria).md": "c-000332",
     "wiki/entities/George M. Alliger.md": "c-000333",
-    "wiki/entities/Scott I. Tannenbaum.md": "c-000334"
+    "wiki/entities/Scott I. Tannenbaum.md": "c-000334",
+    "wiki/sources/bell-et-al-2017-100-years-training-development.md": "c-000335",
+    "wiki/concepts/Active Learning (Training).md": "c-000336",
+    "wiki/concepts/Technology-Based Training.md": "c-000337",
+    "wiki/concepts/Training Context and Transfer Climate.md": "c-000338",
+    "wiki/concepts/Training Needs Analysis.md": "c-000339",
+    "wiki/concepts/Trainee Characteristics.md": "c-000340",
+    "wiki/entities/Bradford S. Bell.md": "c-000341",
+    "wiki/entities/Raymond A. Noe.md": "c-000343"
   },
   ".raw/Pearsall et al. - 2025 - A stimulus-based model of the team adaptation process An integrated conceptual review..pdf": {
     "hash": "62f683006d3323a67c67fc23621f632a",

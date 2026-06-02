@@ -1,3 +1,10 @@
+## 2026-06-01 ingest | Bell, Tannenbaum, Ford, Noe & Kraiger 2017 — 100 Years of T&D Research
+- Source: `.raw/Bell et al. - 2017 - 100 years of training and development research What we know and where we should go..pdf`
+- Summary: [[bell-et-al-2017-100-years-training-development]]
+- Pages created: [[Active Learning (Training)]], [[Technology-Based Training]], [[Training Context and Transfer Climate]], [[Training Needs Analysis]], [[Trainee Characteristics]], [[Bradford S. Bell]], [[Raymond A. Noe]]
+- Pages updated: [[J. Kevin Ford]], [[Kurt Kraiger]], [[Scott I. Tannenbaum]], [[Training Transfer]], [[index]], [[hot]], [[log]]
+- Key insight: Training needs analysis is a major prescriptive pillar with almost no empirical study (2 JAP articles in 100 years); within-person self-efficacy→learning relationship is *negative* (high SE → fewer planning resources); media irrelevance principle holds for tech-based training — design determines effectiveness, not delivery platform.
+
 ## 2026-06-01 ingest | Alliger et al. 1997 — Training Criteria Meta-Analysis
 - Source: `.raw/Alliger et al. - 1997 - A meta analysis of the relations among training criteria.pdf`
 - Summary: [[alliger-et-al-1997-training-criteria-meta-analysis]]
