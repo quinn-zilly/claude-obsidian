@@ -1,3 +1,10 @@
+## 2026-06-01 ingest | Jebb, Ng & Tay 2021 — Likert Scale Development Advances 1995–2019
+- Source: `.raw/Jebb et al. - 2021 - A Review of Key Likert Scale Development Advances 1995–2019.pdf`
+- Summary: [[jebb-ng-tay-2021-likert-scale-advances]]
+- Pages created: [[Likert Scale Development]], [[Construct Validity]], [[Construct Definition]], [[Readability Tests for Survey Items]], [[Coefficient Omega]], [[Ant Colony Optimization (Scale Shortening)]], [[Andrew T. Jebb]], [[Louis Tay]]
+- Pages updated: [[index]], [[hot]], [[log]]
+- Key insight: Validity is unitary — speaking of "content validity" or "discriminant validity" as separate types is theoretically incoherent and leads to fragmented validation practice; coefficient omega should replace alpha by default for psychological scales; ACO for short forms beats factor-loading maximization but cannot guarantee content coverage.
+
 ## 2026-06-01 ingest | Bell, Tannenbaum, Ford, Noe & Kraiger 2017 — 100 Years of T&D Research
 - Source: `.raw/Bell et al. - 2017 - 100 years of training and development research What we know and where we should go..pdf`
 - Summary: [[bell-et-al-2017-100-years-training-development]]

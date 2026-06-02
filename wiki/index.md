@@ -23,7 +23,7 @@ related:
 
 # Wiki Index
 
-Last updated: 2026-06-01 | Total pages: 344 | Sources ingested: 44
+Last updated: 2026-06-01 | Total pages: 353 | Sources ingested: 45
 
 Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[getting-started]]
 
@@ -210,6 +210,12 @@ Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[
 - [[Illusion of Validity]] — unwarranted confidence from good input-outcome match; persists despite knowledge of low validity; redundant inputs increase confidence, decrease accuracy (developing)
 - [[Regression to the Mean]] — extreme observations regress toward mean on re-measurement; intuition fails because representativeness predicts outcome extremity should match input extremity (developing)
 - [[Illusory Correlation]] — perceived co-occurrence based on associative strength rather than actual frequency; sustains unfounded clinical lore; resists contradictory evidence (developing)
+- [[Likert Scale Development]] — full pipeline for creating, validating, and refining self-report Likert scales; classic tutorials (Clark & Watson 1995; Hinkin 1998) plus 25-year advances (evergreen)
+- [[Construct Validity]] — two camps: validity-as-interpretation (Messick) vs. validity-as-test-property (Borsboom); both agree validity is unitary — no independent "types" (evergreen)
+- [[Construct Definition]] — three-aspect framework: consider construct, create formal definition, consult alternatives; latent continuum (unipolar/bipolar) specification (evergreen)
+- [[Readability Tests for Survey Items]] — Flesch-Kincaid Grade Level ≤8.0 per item recommended; test items individually; Coh-Metrix and QUAID as supplements (evergreen)
+- [[Coefficient Omega]] — congeneric reliability estimator; preferred over alpha when factor loadings differ (common); requires good-fitting factor model (evergreen)
+- [[Ant Colony Optimization (Scale Shortening)]] — algorithm for short-form creation; evaluates multi-criteria; outperforms factor-loading maximization; does not guarantee content coverage (evergreen)
 
 ### Entities (new)
 
@@ -322,6 +328,8 @@ Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[
 - [[Stefano Di Domenico]] — SDT researcher; co-author Ryan et al. 2022 meta-review (stub)
 - [[Robert A. Bjork]] — UCLA; New Theory of Disuse; desirable difficulties; testing effect and spacing effect research (seed)
 - [[Kurt Kraiger]] — Colorado State; workplace instruction science; Kraiger & Ford 2021; Kraiger, Ford & Salas 1993 (seed)
+- [[Andrew T. Jebb]] — Purdue; psychometrics, Likert scale development; lead author of 2021 review (stub)
+- [[Louis Tay]] — Purdue; psychometrics, well-being, latent continuum theory; conceived Jebb et al. 2021 (stub)
 - [[J. Kevin Ford]] — Michigan State; transfer of training; Baldwin & Ford 1988 transfer model; Kraiger & Ford 2021 (seed)
 - [[Bradford S. Bell]] — Cornell ILR; active learning, technology-based training, team training; Bell & Kozlowski 2002/2008/2009 (developing)
 - [[Raymond A. Noe]] — Ohio State; trainee motivation, development participation, Noe 1986 model (stub)
@@ -342,6 +350,7 @@ Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[
 - [[locke-latham-2002-goal-setting-theory|Locke & Latham (2002)]] — American Psychologist | Goal-Setting Theory 35-year summary; core findings, 4 mechanisms, moderators, HPC, applications | 2026-05-30
 - [[ryan-deci-2000-sdt|Ryan & Deci (2000)]] — American Psychologist | SDT canonical overview; intrinsic motivation, OIT continuum, basic psychological needs | 2026-05-29
 - [[fischhoff-broomell-2020-jdm-review|Fischhoff & Broomell (2020)]] — Annual Review of Psychology | JDM state-of-field review | 2026-05-26
+- [[jebb-ng-tay-2021-likert-scale-advances|Jebb, Ng & Tay (2021)]] — Frontiers in Psychology | Selective review of 40 Likert scale development advances 1995–2019; 5 in-depth topics: construct validity, construct definition, readability tests, omega/IRT, ACO short forms | 2026-06-01
 - [[cornelissen-werner-2014-framing-review|Cornelissen & Werner (2014)]] — Academy of Management Annals | multi-level framing review | 2026-05-24
 - [[connolly-2012-jdm|Connolly, Ordóñez & Barker (2012)]] — Handbook of Psychology Ch. 19 | JDM comprehensive survey | 2026-05-23
 - [[claude-obsidian-ecosystem-research]] — 2026-04-08 | web research across 16+ repos | 8 wiki pages created

@@ -839,6 +839,26 @@
         "wiki/hot.md",
         "wiki/log.md"
       ]
+    },
+    ".raw/Jebb et al. - 2021 - A Review of Key Likert Scale Development Advances 1995\u20132019.pdf": {
+      "hash": "593b848993d6dc055ff3b9ee4d610f64",
+      "ingested_at": "2026-06-01",
+      "pages_created": [
+        "wiki/sources/jebb-ng-tay-2021-likert-scale-advances.md",
+        "wiki/concepts/Likert Scale Development.md",
+        "wiki/concepts/Construct Validity.md",
+        "wiki/concepts/Construct Definition.md",
+        "wiki/concepts/Readability Tests for Survey Items.md",
+        "wiki/concepts/Coefficient Omega.md",
+        "wiki/concepts/Ant Colony Optimization (Scale Shortening).md",
+        "wiki/entities/Andrew T. Jebb.md",
+        "wiki/entities/Louis Tay.md"
+      ],
+      "pages_updated": [
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md"
+      ]
     }
   },
   "address_map": {
@@ -1105,7 +1125,16 @@
     "wiki/concepts/Training Needs Analysis.md": "c-000339",
     "wiki/concepts/Trainee Characteristics.md": "c-000340",
     "wiki/entities/Bradford S. Bell.md": "c-000341",
-    "wiki/entities/Raymond A. Noe.md": "c-000343"
+    "wiki/entities/Raymond A. Noe.md": "c-000343",
+    "wiki/sources/jebb-ng-tay-2021-likert-scale-advances.md": "c-000344",
+    "wiki/concepts/Likert Scale Development.md": "c-000345",
+    "wiki/concepts/Construct Validity.md": "c-000346",
+    "wiki/concepts/Construct Definition.md": "c-000347",
+    "wiki/concepts/Readability Tests for Survey Items.md": "c-000348",
+    "wiki/concepts/Coefficient Omega.md": "c-000349",
+    "wiki/concepts/Ant Colony Optimization (Scale Shortening).md": "c-000350",
+    "wiki/entities/Andrew T. Jebb.md": "c-000351",
+    "wiki/entities/Louis Tay.md": "c-000352"
   },
   ".raw/Pearsall et al. - 2025 - A stimulus-based model of the team adaptation process An integrated conceptual review..pdf": {
     "hash": "62f683006d3323a67c67fc23621f632a",
