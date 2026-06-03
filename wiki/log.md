@@ -1,3 +1,17 @@
+## 2026-06-01 ingest | Lord, Day, Zaccaro, Avolio & Eagly 2017 — Leadership in Applied Psychology
+- Source: `.raw/lord et al 2017 - leadership in applied psychology.md`
+- Summary: [[lord-et-al-2017-leadership-in-applied-psychology]]
+- Pages created: [[Three Waves of Leadership Research]], [[Trait Paradigm (Leadership)]], [[Leader Behavior and Ohio State Studies]], [[Implicit Leadership Theories]], [[Contingency Theories of Leadership]], [[Transformational and Charismatic Leadership]], [[Leader-Member Exchange (LMX)]], [[Gender and Leadership]], [[Team Leadership]], [[Shared Leadership]], [[Robert G. Lord]], [[David V. Day]], [[Bruce J. Avolio]], [[Alice H. Eagly]], [[Stephen J. Zaccaro]]
+- Pages updated: [[index]], [[hot]], [[log]]
+- Key insight: Three-wave organizing framework shows that leadership research repeatedly rediscovers the same themes (leader–follower interdependence, context, cognition) through successive theoretical lenses; meta-analysis was the key methodological innovation of Wave 3, both closing and opening research lines.
+
+## 2026-06-01 ingest | Judge & Kammeyer-Mueller 2012 — Job Attitudes
+- Source: `.raw/Judge and Kammeyer-Mueller - 2012 - Job attitudes.pdf`
+- Summary: [[judge-kammeyer-mueller-2012-job-attitudes]]
+- Pages created: [[Job Attitudes]], [[Job Satisfaction]], [[Organizational Commitment]], [[Affective Events Theory]], [[Core Self-Evaluations]], [[Experience-Sampling Methodology]], [[Dispositional Antecedents of Job Attitudes]], [[Situational Antecedents of Job Attitudes]], [[Job Performance (Outcomes of Job Attitudes)]], [[Timothy A. Judge]], [[John D. Kammeyer-Mueller]]
+- Pages updated: [[index]], [[hot]], [[log]]
+- Key insight: Job attitudes have both traitlike and statelike properties; ESM shows ~1/3–1/2 of job satisfaction variance is within-person; CSEs are the most consistent dispositional predictor; leader consideration correlates rc = .78 with subordinate satisfaction.
+
 ## 2026-06-01 ingest | Jebb, Ng & Tay 2021 — Likert Scale Development Advances 1995–2019
 - Source: `.raw/Jebb et al. - 2021 - A Review of Key Likert Scale Development Advances 1995–2019.pdf`
 - Summary: [[jebb-ng-tay-2021-likert-scale-advances]]

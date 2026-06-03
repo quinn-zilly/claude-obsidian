@@ -23,7 +23,7 @@ related:
 
 # Wiki Index
 
-Last updated: 2026-06-01 | Total pages: 353 | Sources ingested: 45
+Last updated: 2026-06-01 | Total pages: 366 | Sources ingested: 46
 
 Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[getting-started]]
 
@@ -134,6 +134,15 @@ Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[
 - [[Action Regulation Theory]] — Frese & Zapf 1994; plans bridge goal choice → striving; hierarchical action structure; personal initiative (developing)
 - [[Ego Depletion]] — Baumeister et al. 1998; finite self-regulatory resource; depletes with self-control; recovery via rest/mastery/sleep; empirically challenged (developing)
 - [[Regulatory Focus Theory]] — Higgins 1997; promotion (maximize gains) vs. prevention (minimize losses); promotion → productivity+well-being; prevention → safety (developing)
+- [[Job Attitudes]] — evaluations of one's job expressing feelings, beliefs, and attachment; traitlike + statelike; hierarchical structure; Judge & Kammeyer-Mueller 2012 review (evergreen)
+- [[Job Satisfaction]] — evaluative state expressing contentment with one's job; most researched attitude in OB; global vs. facet (JDI: work, pay, supervision, coworkers, promotion); work satisfaction = most central facet (evergreen)
+- [[Organizational Commitment]] — psychological bond with organization; three-component model (affective, continuance, normative); affective commitment has highest validity; Solinger et al. critique (evergreen)
+- [[Affective Events Theory]] — Weiss & Cropanzano 1996; work events → affect → affect-driven behaviors; separates affect-driven (OCB, withdrawal) from cognition-driven (turnover) behavior pathways (evergreen)
+- [[Core Self-Evaluations]] — Judge et al. 1997; self-esteem + generalized SE + locus of control + emotional stability; rc = .37 with job satisfaction; most consistent dispositional predictor (evergreen)
+- [[Experience-Sampling Methodology]] — ESM; repeated momentary assessment of attitudes/affect; ~1/3–1/2 of job satisfaction variance is within-person; motivated by AET and affective nature of attitudes (evergreen)
+- [[Dispositional Antecedents of Job Attitudes]] — personality predictors of job satisfaction; Staw et al. 1986 longitudinal; twins study; Big Five; CSEs most consistent; interactionist integration (developing)
+- [[Situational Antecedents of Job Attitudes]] — job characteristics, social environment, leadership (consideration rc = .78), org. practices (justice), time (honeymoon-hangover pattern) (developing)
+- [[Job Performance (Outcomes of Job Attitudes)]] — task performance, OCB, withdrawal/turnover, creativity, org-level performance; bandwidth-fidelity principle; satisfaction → performance direction (Riketta 2008) (developing)
 - [[Job Characteristics Model]] — Hackman & Oldham 1975; 5 features → 3 psychological states → internal motivation; task meaningfulness = strongest mediator (developing)
 - [[Proactive Engagement]] — vigor + dedication + absorption; personal initiative (Frese); job crafting (Wrzesniewski); self-directed goal pursuit beyond role requirements (developing)
 - [[Goal-Setting Theory]] — GST; Locke & Latham; difficult specific goals → highest performance via 4 mechanisms (direction, effort, persistence, strategy); d = .52–.82; moderated by commitment, feedback, task complexity (evergreen)
@@ -237,6 +246,16 @@ Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[
 - [[Outsider-Within Status]] — structural insider / experiential outsider; Collins (1986); minority employees in organizations (developing)
 - [[Subjective Career Success]] — one's own evaluation of career outcomes; expanded dimensions for minority employees: authenticity, survival, collective good, adjustability (developing)
 - [[Glass Cliff]] — minority appointment to precarious leadership roles in crisis; Ryan & Haslam 2005; savior effect (developing)
+- [[Three Waves of Leadership Research]] — Lord et al. 2017 organizing framework: pre-wave traits → First Wave behavior → Second Wave cognition/contingency → Third Wave transformational/LMX/teams (mature)
+- [[Trait Paradigm (Leadership)]] — earliest perspective; intelligence and personality traits predict leadership; backlash → revival via meta-analysis (mature)
+- [[Leader Behavior and Ohio State Studies]] — Initiating Structure and Consideration; leaderless group discussion; assessment centers; first wave (mature)
+- [[Implicit Leadership Theories]] — ILTs; rater schemas contaminate behavioral ratings; leader categorization theory; prototype matching (mature)
+- [[Contingency Theories of Leadership]] — Fiedler LPC model; leadership substitutes; situational moderation; inconsistent replication (mature)
+- [[Transformational and Charismatic Leadership]] — Burns 1978; Bass 1985; charisma, vision, follower development; dominant perspective since mid-1980s (mature)
+- [[Leader-Member Exchange (LMX)]] — dyadic relationship quality; Gerstner & Day 1997 meta-analysis; LMX as lens on entire work experience (mature)
+- [[Gender and Leadership]] — Schein "think manager think male"; role congruity theory; Eagly meta-analyses; women more transformational (mature)
+- [[Team Leadership]] — functional leadership; Marks et al. 2000; multilevel; transformational in teams; Zaccaro framework (mature)
+- [[Shared Leadership]] — distributed leadership roles across team members; Wang et al. 2014 meta-analysis; still developing (developing)
 - [[Crowdsourcing Science]] — horizontal distribution of research ownership, expertise, resources; complement to standard model; Uhlmann et al. 2019 (developing)
 - [[Publication Bottleneck]] — information-economic structural condition: too many researchers, too few slots; root cause of replication crisis per Giner-Sorolla 2012; Anna Karenina conjunction rules (developing)
 - [[Aesthetic Standards in Science]] — three criteria (statistical perfection, narrative conformity, novelty) that distort science under bottleneck conditions; Giner-Sorolla 2012 (developing)
@@ -338,6 +357,7 @@ Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[
 
 ## Sources
 
+- [[lord-et-al-2017-leadership-in-applied-psychology|Lord, Day, Zaccaro, Avolio & Eagly (2017)]] — Journal of Applied Psychology | 100-year centennial review of leadership research; three waves (behavioral, social-cognitive/contingency, transformational/LMX/teams); 17 seminal JAP articles; future directions: virtual leadership, shared leadership, neuroscience, development | 2026-06-01
 - [[bell-et-al-2017-100-years-training-development|Bell, Tannenbaum, Ford, Noe & Kraiger (2017)]] — Journal of Applied Psychology | 100-year centennial review; 458 JAP articles; four themes: criteria, trainee char., design, context; trainability, active learning, transfer climate, tech-based training; multilevel criteria; within-person self-efficacy reversal | 2026-06-01
 - [[alliger-et-al-1997-training-criteria-meta-analysis|Alliger, Tannenbaum, Bennett, Traver & Shotland (1997)]] — Personnel Psychology | augmented Kirkpatrick framework; affective reactions ≈ 0 correlation with learning; utility reactions predict transfer better than learning | 2026-06-01
 - [[lacerenza-et-al-2018-team-development-interventions|Lacerenza, Marlow, Tannenbaum & Salas (2018)]] — American Psychologist | four TDI types; team debriefing 20–25% performance gain; leadership training 29% improvement; psychological safety cross-cutting | 2026-06-01
@@ -429,3 +449,11 @@ Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[
 
 ## Entities (Motivation)
 - [[Aaron Schmidt]] — multiple goal self-regulation; SE debate; U Minnesota
+
+- [[Timothy A. Judge]] — University of Notre Dame; job attitudes, CSEs, job satisfaction–performance; prolific researcher in I/O psychology (developing)
+- [[John D. Kammeyer-Mueller]] — University of Florida; turnover, job attitudes, temporal dynamics of work attitudes (developing)
+- [[Robert G. Lord]] — Durham University; implicit leadership theories, leader categorization theory, social-cognitive leadership (developing)
+- [[David V. Day]] — Claremont McKenna College; LMX, leadership development, team leadership capacity (developing)
+- [[Bruce J. Avolio]] — University of Washington; transformational/authentic leadership, leadership development (developing)
+- [[Alice H. Eagly]] — Northwestern University; gender and leadership, role congruity theory, meta-analysis methods (developing)
+- [[Stephen J. Zaccaro]] — George Mason University; team leadership, functional leadership, leader traits (developing)

@@ -859,6 +859,56 @@
         "wiki/hot.md",
         "wiki/log.md"
       ]
+    },
+    ".raw/Judge and Kammeyer-Mueller - 2012 - Job attitudes.pdf": {
+      "hash": "64ae2f77287ba2f946f93d8c36854609",
+      "ingested_at": "2026-06-01",
+      "pages_created": [
+        "wiki/sources/judge-kammeyer-mueller-2012-job-attitudes.md",
+        "wiki/concepts/Job Attitudes.md",
+        "wiki/concepts/Job Satisfaction.md",
+        "wiki/concepts/Organizational Commitment.md",
+        "wiki/concepts/Affective Events Theory.md",
+        "wiki/concepts/Core Self-Evaluations.md",
+        "wiki/concepts/Experience-Sampling Methodology.md",
+        "wiki/concepts/Dispositional Antecedents of Job Attitudes.md",
+        "wiki/concepts/Situational Antecedents of Job Attitudes.md",
+        "wiki/concepts/Job Performance (Outcomes of Job Attitudes).md",
+        "wiki/entities/Timothy A. Judge.md",
+        "wiki/entities/John D. Kammeyer-Mueller.md"
+      ],
+      "pages_updated": [
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md"
+      ]
+    },
+    ".raw/lord et al 2017 - leadership in applied psychology.md": {
+      "hash": "76b24f6763bcacf7b5939fbd0bcb95b5",
+      "ingested_at": "2026-06-01",
+      "pages_created": [
+        "wiki/sources/lord-et-al-2017-leadership-in-applied-psychology.md",
+        "wiki/concepts/Three Waves of Leadership Research.md",
+        "wiki/concepts/Trait Paradigm (Leadership).md",
+        "wiki/concepts/Leader Behavior and Ohio State Studies.md",
+        "wiki/concepts/Implicit Leadership Theories.md",
+        "wiki/concepts/Contingency Theories of Leadership.md",
+        "wiki/concepts/Transformational and Charismatic Leadership.md",
+        "wiki/concepts/Leader-Member Exchange (LMX).md",
+        "wiki/concepts/Gender and Leadership.md",
+        "wiki/concepts/Team Leadership.md",
+        "wiki/concepts/Shared Leadership.md",
+        "wiki/entities/Robert G. Lord.md",
+        "wiki/entities/David V. Day.md",
+        "wiki/entities/Bruce J. Avolio.md",
+        "wiki/entities/Alice H. Eagly.md",
+        "wiki/entities/Stephen J. Zaccaro.md"
+      ],
+      "pages_updated": [
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md"
+      ]
     }
   },
   "address_map": {
@@ -1134,7 +1184,35 @@
     "wiki/concepts/Coefficient Omega.md": "c-000349",
     "wiki/concepts/Ant Colony Optimization (Scale Shortening).md": "c-000350",
     "wiki/entities/Andrew T. Jebb.md": "c-000351",
-    "wiki/entities/Louis Tay.md": "c-000352"
+    "wiki/entities/Louis Tay.md": "c-000352",
+    "wiki/sources/judge-kammeyer-mueller-2012-job-attitudes.md": "c-000353",
+    "wiki/concepts/Job Attitudes.md": "c-000354",
+    "wiki/concepts/Job Satisfaction.md": "c-000355",
+    "wiki/concepts/Organizational Commitment.md": "c-000356",
+    "wiki/concepts/Affective Events Theory.md": "c-000357",
+    "wiki/concepts/Core Self-Evaluations.md": "c-000358",
+    "wiki/concepts/Experience-Sampling Methodology.md": "c-000359",
+    "wiki/concepts/Job Performance (Outcomes of Job Attitudes).md": "c-000360",
+    "wiki/entities/Timothy A. Judge.md": "c-000361",
+    "wiki/entities/John D. Kammeyer-Mueller.md": "c-000362",
+    "wiki/concepts/Dispositional Antecedents of Job Attitudes.md": "c-000363",
+    "wiki/concepts/Situational Antecedents of Job Attitudes.md": "c-000364",
+    "wiki/sources/lord-et-al-2017-leadership-in-applied-psychology.md": "c-000365",
+    "wiki/concepts/Three Waves of Leadership Research.md": "c-000366",
+    "wiki/concepts/Trait Paradigm (Leadership).md": "c-000367",
+    "wiki/concepts/Leader Behavior and Ohio State Studies.md": "c-000368",
+    "wiki/concepts/Implicit Leadership Theories.md": "c-000369",
+    "wiki/concepts/Contingency Theories of Leadership.md": "c-000370",
+    "wiki/concepts/Transformational and Charismatic Leadership.md": "c-000371",
+    "wiki/concepts/Leader-Member Exchange (LMX).md": "c-000372",
+    "wiki/concepts/Gender and Leadership.md": "c-000373",
+    "wiki/concepts/Team Leadership.md": "c-000374",
+    "wiki/concepts/Shared Leadership.md": "c-000375",
+    "wiki/entities/Robert G. Lord.md": "c-000376",
+    "wiki/entities/David V. Day.md": "c-000377",
+    "wiki/entities/Bruce J. Avolio.md": "c-000378",
+    "wiki/entities/Alice H. Eagly.md": "c-000379",
+    "wiki/entities/Stephen J. Zaccaro.md": "c-000380"
   },
   ".raw/Pearsall et al. - 2025 - A stimulus-based model of the team adaptation process An integrated conceptual review..pdf": {
     "hash": "62f683006d3323a67c67fc23621f632a",

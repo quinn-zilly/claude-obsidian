@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "d6c336daa8aa1ba0",
+        "id": "85f4556a72274c42",
         "type": "tabs",
         "children": [
           {
-            "id": "3e9fe8019f699552",
+            "id": "bb6aa06562a34593",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CLAUDE.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "CLAUDE"
+              "title": "New tab"
             }
           }
         ]
@@ -84,11 +80,12 @@
               "title": "File Tree"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 295.5
+    "width": 401.5
   },
   "right": {
     "id": "7092b65be1e76349",
@@ -211,7 +208,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 365.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -230,44 +227,44 @@
       "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "3e9fe8019f699552",
+  "active": "544f714cde748883",
   "lastOpenFiles": [
-    "wiki/questions/How does the LLM Wiki pattern work.md",
-    "wiki/log.md.tmp.27876.9e085e452174",
-    "wiki/hot.md.tmp.27876.4f50277d52b2",
-    "wiki/index.md.tmp.27876.ae2c52b09496",
-    "wiki/index.md.tmp.27876.23682161ed94",
-    "wiki/index.md.tmp.27876.9a38643eb1b9",
-    "wiki/index.md.tmp.27876.73562d5359ab",
-    "wiki/entities/Louis Tay.md",
-    "wiki/entities/Louis Tay.md.tmp.27876.97448ae22b37",
-    "wiki/entities/Andrew T. Jebb.md",
-    "wiki/entities/Andrew T. Jebb.md.tmp.27876.ecf0899062f0",
-    "wiki/concepts/Ant Colony Optimization (Scale Shortening).md",
-    "wiki/comparisons/claude-obsidian-ecosystem.md",
-    "wiki/concepts/Coefficient Omega.md",
-    "wiki/concepts/Coefficient Omega.md.tmp.27876.167e27a86af9",
-    "wiki/concepts/Readability Tests for Survey Items.md",
-    "wiki/concepts/Readability Tests for Survey Items.md.tmp.27876.cfe161967639",
-    "wiki/concepts/Construct Definition.md",
-    "wiki/concepts/Construct Validity.md",
-    "wiki/comparisons/Wiki vs RAG.md",
-    "wiki/folds/fold-k3-from-2026-04-23-to-2026-04-24-n8.md",
-    "wiki/concepts/Likert Scale Development.md",
-    "wiki/folds/fold-k4-from-2026-04-08-to-2026-04-24-n16.md",
-    "wiki/sources/jebb-ng-tay-2021-likert-scale-advances.md",
-    "wiki/sources/bell-et-al-2017-100-years-training-development.md",
-    "wiki/entities/Raymond A. Noe.md",
-    "wiki/sources/alliger-et-al-1997-training-criteria-meta-analysis.md",
-    "wiki/entities/Bradford S. Bell.md",
-    "wiki/concepts/Trainee Characteristics.md",
-    "wiki/concepts/Training Needs Analysis.md",
-    "wiki/concepts/Training Context and Transfer Climate.md",
-    "wiki/concepts/Technology-Based Training.md",
-    "wiki/concepts/Active Learning (Training).md",
-    "wiki/sources/pearsall-christian-croitoru-2025-team-adaptation.md",
-    "Alliger & Janak 1989.md",
-    "wiki/entities/Scott I. Tannenbaum.md",
+    "wiki/concepts/Open Science Framework.md",
+    "wiki/projects/KM Research Paper.md",
+    "wiki/concepts/Analytic Reproducibility.md",
+    "wiki/sources/munafo-2017-manifesto.md",
+    "wiki/sources/uhlmann-2019-crowdsourcing-science.md",
+    "wiki/sources/nosek-2018-preregistration.md",
+    "wiki/sources/nosek-2012-scientific-utopia-ii.md",
+    "wiki/sources/grant-1996-knowledge-based-theory.md",
+    "wiki/sources/giner-sorolla-2012-science-or-art.md",
+    "wiki/sources/alavi-leidner-2001-knowledge-management.md",
+    "wiki/concepts/TOP Guidelines.md",
+    "wiki/sources/nosek-2022-replicability-robustness-reproducibility.md",
+    "wiki/sources/foster-deardorff-2017-osf.md",
+    "wiki/concepts/Preregistration.md",
+    "wiki/concepts/Registered Reports.md",
+    "wiki/sources/open-science-collaboration-2015.md",
+    "wiki/entities/Brian Nosek.md",
+    "Open Science Collaboration 2015.md",
+    "scripts/pdf-to-md.py",
+    "scripts/pdf-to-md.ipynb",
+    "Holman et al. - 2020 - Leading diversity Towards a theory of functional leadership in diverse teams.md",
+    "wiki/sources/lord-et-al-2017-leadership-in-applied-psychology.md",
+    "wiki/hot.md",
+    "wiki/hot.md.tmp.31660.149fb7e7c777",
+    "wiki/log.md.tmp.31660.af23f2be7ab1",
+    "wiki/index.md.tmp.31660.832d6011ec14",
+    "wiki/entities/Bruce J. Avolio.md",
+    "wiki/index.md.tmp.31660.ac8ea2378af5",
+    "wiki/entities/Stephen J. Zaccaro.md",
+    "wiki/entities/Stephen J. Zaccaro.md.tmp.31660.842ce1b7acd3",
+    "wiki/entities/Alice H. Eagly.md",
+    "wiki/entities/Bruce J. Avolio.md.tmp.31660.223458bc4198",
+    "wiki/entities/David V. Day.md",
+    "wiki/entities/Robert G. Lord.md",
+    "wiki/concepts/Shared Leadership.md.tmp.31660.50f796bb303c",
+    "wiki/concepts/Team Leadership.md.tmp.31660.14b83297a3f1",
     "Excalidraw/Scripts/Downloaded/Slideshow.svg",
     "wiki/meta/History.png",
     "wiki/meta/Ready pull.png",
