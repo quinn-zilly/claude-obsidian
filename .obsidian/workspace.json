@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "85f4556a72274c42",
+        "id": "940851042500d9d6",
         "type": "tabs",
         "children": [
           {
-            "id": "bb6aa06562a34593",
+            "id": "d4ae501a7f16352c",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": ".raw/Output/shrout-rodgers-2018-replication-crisis.md",
-                "bFile": ".raw/Output/shrout-rodgers-2018-replication-crisis.md",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: shrout-rodgers-2018-replication-crisis  (Working Tree)"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -230,8 +226,10 @@
       "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "bb6aa06562a34593",
+  "active": "673151f542aae49d",
   "lastOpenFiles": [
+    "wiki/getting-started.md",
+    "wiki/sources/shrout-rodgers-2018-replication-crisis.md",
     "wiki/hot.md.tmp.24404.fc79e112bae5",
     "wiki/hot.md.tmp.24404.14f7ff420dff",
     "wiki/log.md.tmp.24404.3d13fe85459e",
@@ -244,9 +242,7 @@
     "wiki/concepts/Power Analysis (Replication Studies).md",
     "wiki/concepts/Questionable Research Practices.md.tmp.24404.5d9e72e7cc4d",
     "wiki/concepts/HARKing.md.tmp.24404.22dc0977ccbb",
-    "wiki/sources/shrout-rodgers-2018-replication-crisis.md",
     "wiki/sources/shrout-rodgers-2018-replication-crisis.md.tmp.24404.7211cefd26ff",
-    "skills/wiki.skill",
     "wiki/projects/KM Research Paper.md",
     "wiki/concepts/Open Science Framework.md",
     "wiki/concepts/Analytic Reproducibility.md",
