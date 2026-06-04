@@ -49,9 +49,24 @@ Knowledge of QRPs and good intentions insufficient — structural solutions requ
 
 > "Structural solutions such as preregistration and transparency may be needed to mitigate the opportunity for reasoning biases to affect judgment." (Nosek et al. 2022)
 
+## Simmons et al. (2011) Taxonomy
+
+Four key QRPs identified:
+1. Multiple DVs reflecting same outcome — report only significant one
+2. **Optional stopping**: interim analysis, stop when p < .05
+3. Multiple covariate models — report the one that works
+4. Drop groups or levels to isolate a larger subgroup effect
+
+These can combine to inflate Type I error grossly above α = .05 even without HARKing.
+
+## Bakker & Wicherts (2011)
+
+Checked 281 articles; 18% had statistical errors. The vast majority made results *more* significant — consistent with motivated or opportunistic calculation.
+
 ## Cross-References
 - [[P-hacking]] — analytic flexibility
 - [[HARKing]] — Kerr (1998) origin paper
 - [[Publication Bias]] — file drawer; filters QRP results into literature
 - [[Motivated Reasoning]] — individual mechanism
 - [[Institutional Accretion]] — QRPs as accreted field norms (Micelotta connection)
+- [[shrout-rodgers-2018-replication-crisis]] — comprehensive review of QRP types and their contribution to the replication crisis

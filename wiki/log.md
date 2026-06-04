@@ -1,3 +1,10 @@
+## 2026-06-03 ingest | Shrout & Rodgers 2018 — Psychology, Science, and Knowledge Construction
+- Source: `.raw/Input/Shrout and Rodgers - 2018 - Psychology, Science, and Knowledge Construction Broadening Perspectives from the Replication Crisis.pdf`
+- Summary: [[shrout-rodgers-2018-replication-crisis]]
+- Pages created: [[Power Analysis (Replication Studies)]], [[Effect Size Heterogeneity]], [[Replication Types Taxonomy]]
+- Pages updated: [[Replication Crisis]], [[HARKing]], [[Questionable Research Practices]], [[index]], [[hot]], [[log]]
+- Key insight: The 36% OSC replication rate is statistically expected given underpowered studies and effect size heterogeneity — Maxwell et al. (2015) demonstrate this formally; the real reform is preregistration + moving from single-study to multi-study effect distribution estimation.
+
 ## 2026-06-01 ingest | Lord, Day, Zaccaro, Avolio & Eagly 2017 — Leadership in Applied Psychology
 - Source: `.raw/lord et al 2017 - leadership in applied psychology.md`
 - Summary: [[lord-et-al-2017-leadership-in-applied-psychology]]

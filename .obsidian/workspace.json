@@ -11,10 +11,14 @@
             "id": "bb6aa06562a34593",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".raw/Output/shrout-rodgers-2018-replication-crisis.md",
+                "bFile": ".raw/Output/shrout-rodgers-2018-replication-crisis.md",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: shrout-rodgers-2018-replication-crisis  (Working Tree)"
             }
           }
         ]
@@ -228,17 +232,21 @@
   },
   "active": "bb6aa06562a34593",
   "lastOpenFiles": [
+    "wiki/hot.md.tmp.24404.fc79e112bae5",
+    "wiki/hot.md.tmp.24404.14f7ff420dff",
+    "wiki/log.md.tmp.24404.3d13fe85459e",
+    "wiki/index.md.tmp.24404.fb1c04fffa40",
+    "wiki/index.md.tmp.24404.242a27d96bbe",
+    "wiki/index.md.tmp.24404.25121296146e",
+    "wiki/concepts/Replication Crisis.md.tmp.24404.3b4fd0b29b65",
+    "wiki/concepts/Replication Types Taxonomy.md",
+    "wiki/concepts/Effect Size Heterogeneity.md",
+    "wiki/concepts/Power Analysis (Replication Studies).md",
+    "wiki/concepts/Questionable Research Practices.md.tmp.24404.5d9e72e7cc4d",
+    "wiki/concepts/HARKing.md.tmp.24404.22dc0977ccbb",
+    "wiki/sources/shrout-rodgers-2018-replication-crisis.md",
+    "wiki/sources/shrout-rodgers-2018-replication-crisis.md.tmp.24404.7211cefd26ff",
     "skills/wiki.skill",
-    "skills/wiki-query.skill",
-    "skills/wiki-lint.skill",
-    "skills/wiki-ingest.skill",
-    "skills/wiki-fold.skill",
-    "skills/save.skill",
-    "skills/obsidian-markdown.skill",
-    "skills/obsidian-bases.skill",
-    "skills/defuddle.skill",
-    "skills/canvas.skill",
-    "skills/autoresearch.skill",
     "wiki/projects/KM Research Paper.md",
     "wiki/concepts/Open Science Framework.md",
     "wiki/concepts/Analytic Reproducibility.md",
@@ -260,10 +268,6 @@
     "Holman et al. - 2020 - Leading diversity Towards a theory of functional leadership in diverse teams.md",
     "wiki/sources/lord-et-al-2017-leadership-in-applied-psychology.md",
     "wiki/hot.md",
-    "wiki/entities/Bruce J. Avolio.md",
-    "wiki/entities/Stephen J. Zaccaro.md",
-    "wiki/entities/Alice H. Eagly.md",
-    "wiki/entities/David V. Day.md",
     "Excalidraw/Scripts/Downloaded/Slideshow.svg",
     "wiki/meta/History.png",
     "wiki/meta/Ready pull.png",

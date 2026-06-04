@@ -909,6 +909,24 @@
         "wiki/hot.md",
         "wiki/log.md"
       ]
+    },
+    ".raw/Input/Shrout and Rodgers - 2018 - Psychology, Science, and Knowledge Construction Broadening Perspectives from the Replication Crisis.pdf": {
+      "hash": "043c4321af8a952c0b7a3788a14ef7fa",
+      "ingested_at": "2026-06-03",
+      "pages_created": [
+        "wiki/sources/shrout-rodgers-2018-replication-crisis.md",
+        "wiki/concepts/Power Analysis (Replication Studies).md",
+        "wiki/concepts/Effect Size Heterogeneity.md",
+        "wiki/concepts/Replication Types Taxonomy.md"
+      ],
+      "pages_updated": [
+        "wiki/concepts/Replication Crisis.md",
+        "wiki/concepts/HARKing.md",
+        "wiki/concepts/Questionable Research Practices.md",
+        "wiki/index.md",
+        "wiki/log.md",
+        "wiki/hot.md"
+      ]
     }
   },
   "address_map": {
@@ -1212,7 +1230,11 @@
     "wiki/entities/David V. Day.md": "c-000377",
     "wiki/entities/Bruce J. Avolio.md": "c-000378",
     "wiki/entities/Alice H. Eagly.md": "c-000379",
-    "wiki/entities/Stephen J. Zaccaro.md": "c-000380"
+    "wiki/entities/Stephen J. Zaccaro.md": "c-000380",
+    "wiki/sources/shrout-rodgers-2018-replication-crisis.md": "c-000381",
+    "wiki/concepts/Power Analysis (Replication Studies).md": "c-000384",
+    "wiki/concepts/Effect Size Heterogeneity.md": "c-000385",
+    "wiki/concepts/Replication Types Taxonomy.md": "c-000386"
   },
   ".raw/Pearsall et al. - 2025 - A stimulus-based model of the team adaptation process An integrated conceptual review..pdf": {
     "hash": "62f683006d3323a67c67fc23621f632a",

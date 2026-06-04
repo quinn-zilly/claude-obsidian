@@ -79,6 +79,7 @@ A related concept introduced in [[munafo-2017-manifesto]] Box 3: **CARKing** —
 ## See Also
 
 - [[kerr-1998-harking]] — origin paper
+- [[shrout-rodgers-2018-replication-crisis]] — reviewed HARKing as central QRP; framing: conflates exploratory/confirmatory, violates NHST assumptions
 - [[Norbert Kerr]] — author
 - [[P-hacking]]
 - [[Publication Bias]]

@@ -23,6 +23,10 @@ related:
   - "[[open-science-collaboration-2015]]"
   - "[[munafo-2017-manifesto]]"
   - "[[nosek-2022-replicability-robustness-reproducibility]]"
+  - "[[shrout-rodgers-2018-replication-crisis]]"
+  - "[[Power Analysis (Replication Studies)]]"
+  - "[[Effect Size Heterogeneity]]"
+  - "[[Replication Types Taxonomy]]"
 created: unknown
 updated: 2026-05-22
 ---
@@ -79,6 +83,14 @@ The replication crisis has catalyzed:
 ## Knowledge Management Perspective
 
 The replication crisis is also a **knowledge quality problem**: the accumulated literature is a knowledge repository whose entries may be systematically incorrect. From a KM perspective ([[Knowledge Retention]], [[Knowledge Management]]), this means the organization (science) has stored unreliable knowledge, reducing the ROI on prior knowledge creation. The open science movement is a knowledge quality improvement program.
+
+## Shrout & Rodgers (2018) — A More Sanguine View
+
+Shrout & Rodgers argue the crisis has been over-interpreted. The 36% replication rate is **statistically expected** given underpowered studies and effect size heterogeneity — Maxwell et al. (2015) demonstrate this formally. Key additions to the standard account:
+- The nonlinearity of the power-n relationship makes even "powered" studies underpowered when effect sizes are uncertain (see [[Power Analysis (Replication Studies)]])
+- Effect size variation across contexts is theoretically meaningful, not pathological (see [[Effect Size Heterogeneity]])
+- Preregistration and OSF are the most important reforms; single-study replication decisions should be replaced by multiple-study effect distribution estimation
+- See [[shrout-rodgers-2018-replication-crisis]]
 
 ## See Also
 

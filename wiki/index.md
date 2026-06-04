@@ -23,7 +23,7 @@ related:
 
 # Wiki Index
 
-Last updated: 2026-06-01 | Total pages: 366 | Sources ingested: 46
+Last updated: 2026-06-03 | Total pages: 370 | Sources ingested: 47
 
 Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[getting-started]]
 
@@ -110,7 +110,10 @@ Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[
 - [[Procedural Overfitting]] — p-hacking reframed as human-analyst overfitting; constraining researcher df is regularization (developing)
 - [[Cross-Validation]] — K-fold CV; estimates test error without new data; standard in ML, largely absent from psychology ca. 2017 (developing)
 - [[Regularization]] — penalized regression (lasso, ridge); deliberate bias to reduce variance; shrinkage methods (developing)
-- [[Replication Crisis]] — systematic failures of replication in psychology; root causes: publication bias, p-hacking, HARKing (mature)
+- [[Replication Crisis]] — systematic failures of replication in psychology; root causes: publication bias, p-hacking, HARKing; Shrout & Rodgers argue 36% rate is statistically expected (mature)
+- [[Power Analysis (Replication Studies)]] — standard power analysis is flawed for replications; corrected approaches account for effect size uncertainty and heterogeneity (developing)
+- [[Effect Size Heterogeneity]] — effect sizes vary by person, context, and lab; theoretically meaningful, not mere noise; key for replication interpretation (developing)
+- [[Replication Types Taxonomy]] — direct/exact → systematic → conceptual continuum; all informative; different inferences (developing)
 - [[Open Science]] — transparency, open data, preregistration; reform movement for credible knowledge accumulation (mature)
 - [[Preregistration]] — committing to research design before data collection; separates confirmatory from exploratory (mature)
 - [[Conflict of Interest in Science]] — fundamental tension between personal incentive (publication) and institutional goal (accuracy); misalignment causes [[Motivated Reasoning]] and [[P-hacking]]; resolved via [[Open Workflow]], open data, incentive restructuring (developing)
@@ -357,6 +360,7 @@ Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[
 
 ## Sources
 
+- [[shrout-rodgers-2018-replication-crisis|Shrout & Rodgers (2018)]] — Annual Review of Psychology | Broadening perspectives from the replication crisis; QRPs, power analysis, meta-analysis, Bayesian approaches, effect size heterogeneity; argues 36% OSC replication rate is statistically expected; preregistration as most important reform | 2026-06-03
 - [[lord-et-al-2017-leadership-in-applied-psychology|Lord, Day, Zaccaro, Avolio & Eagly (2017)]] — Journal of Applied Psychology | 100-year centennial review of leadership research; three waves (behavioral, social-cognitive/contingency, transformational/LMX/teams); 17 seminal JAP articles; future directions: virtual leadership, shared leadership, neuroscience, development | 2026-06-01
 - [[bell-et-al-2017-100-years-training-development|Bell, Tannenbaum, Ford, Noe & Kraiger (2017)]] — Journal of Applied Psychology | 100-year centennial review; 458 JAP articles; four themes: criteria, trainee char., design, context; trainability, active learning, transfer climate, tech-based training; multilevel criteria; within-person self-efficacy reversal | 2026-06-01
 - [[alliger-et-al-1997-training-criteria-meta-analysis|Alliger, Tannenbaum, Bennett, Traver & Shotland (1997)]] — Personnel Psychology | augmented Kirkpatrick framework; affective reactions ≈ 0 correlation with learning; utility reactions predict transfer better than learning | 2026-06-01
