@@ -2,6 +2,9 @@
 title: Conflict of Interest in Science
 address: c-000070
 created: 2026-05-20
+type: concept
+status: developing
+updated: 2026-05-20
 tags:
   - science
   - incentives
@@ -64,4 +67,4 @@ Addressing this conflict requires:
 ## Sources
 
 - [[Nosek et al. 2012 - Scientific Utopia II]]
-- [[Munafò et al. 2017]]
+- [[munafo-2017-manifesto|Munafò et al. 2017]]

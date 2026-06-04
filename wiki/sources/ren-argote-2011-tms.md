@@ -1,8 +1,8 @@
 ---
 title: "Transactive Memory Systems 1985–2010: An Integrative Framework"
-authors:
-  - Yuqing Ren
-  - Linda Argote
+author:
+  - "Yuqing Ren"
+  - "[[Linda Argote]]"
 year: 2011
 venue: "The Academy of Management Annals"
 volume: 5
@@ -11,12 +11,15 @@ pages: 189-229
 doi: "10.1080/19416520.2011.590300"
 source_type: academic-review
 created: 2026-05-21
+type: source
+status: developing
+updated: 2026-05-21
 tags:
   - transactive-memory
   - team-cognition
   - organizational-learning
   - group-performance
-address: c-000001
+address: c-000207
 ---
 
 # Transactive Memory Systems 1985–2010: An Integrative Framework
@@ -187,7 +190,7 @@ Dimensions not always highly correlated. In mature, established teams, correlati
 
 ## Related Concepts
 
-[[Transactive Memory]] | [[Team Cognition]] | [[Organizational Memory]] | [[Knowledge Specialization]] | [[Expertise Location]] | [[Task Credibility]] | [[Team Mental Models]] | [[Shared Mental Models]] | [[Organizational Learning]] | [[Knowledge Transfer]] | [[Group Performance]] | [[Team Learning]]
+[[Transactive Memory Systems]] | [[Team Cognition]] | [[Organizational Memory]] | [[Knowledge Specialization]] | [[Expertise Location]] | [[Task Credibility]] | [[Team Mental Models]] | [[Shared Mental Models]] | [[Organizational Learning]] | [[Knowledge Transfer]] | [[Group Performance]] | [[Team Learning]]
 
 ## Cross-References
 
@@ -201,5 +204,4 @@ Dimensions not always highly correlated. In mature, established teams, correlati
 
 ## Summary for Hot Cache
 
-TMS review covering 76 papers. Core insight: groups develop shared "who knows what" systems through training, communication, interdependence. Three dimensions: specialization (division of labor), credibility (trust), coordination (smooth operation). Predicts team learning, creativity, performance, satisfaction. Membership stability, task complexity, communication richness matter. Organizational-level extension promising. Key gaps: virtual teams, entrepreneurial ventures, dynamic evolution.
-
+TMS review covering 76 papers. Core insight: groups develop shared "who knows what" systems through training, communication, interdependence. Three dimensions: specialization (division of labor), credibility (trust), coordination (smooth operation). Predicts team learning, creativity, pe

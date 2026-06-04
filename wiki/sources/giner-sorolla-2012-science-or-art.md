@@ -2,7 +2,8 @@
 type: source
 address: c-000104
 title: "Science or Art? How Aesthetic Standards Grease the Way Through the Publication Bottleneck but Undermine Science"
-author: "Roger Giner-Sorolla"
+author:
+  - "[[Roger Giner-Sorolla]]"
 year: 2012
 journal: "Perspectives on Psychological Science"
 volume: 7
@@ -122,4 +123,4 @@ Giner-Sorolla rejects both "smarter criteria" and "more journals for messy resul
 
 ## Citation
 
-Giner-Sorolla, R. (2012). Science or art? How aesthetic standards grease the way through the publication bottleneck but undermine science. *Perspectives on Psychological Science, 7*(6), 562–571. https://doi.org/10.1177/1745691612457576
+Giner-Sorolla, R. (2012). Science or art? How aesthetic standards grease the way through the publication bottleneck bu

@@ -2,7 +2,9 @@
 type: source
 address: c-000006
 title: "Knowledge Management and Knowledge Management Systems: Conceptual Foundations and Research Issues"
-authors: ["Maryam Alavi", "Dorothy E. Leidner"]
+author:
+  - "[[Maryam Alavi]]"
+  - "Dorothy E. Leidner"
 year: 2001
 venue: "MIS Quarterly"
 doi: ""
@@ -85,4 +87,4 @@ IT can support each stage differently. The process view avoids treating KMS as m
 
 ## Citation
 
-Alavi, M., & Leidner, D. E. (2001). Review: Knowledge management and knowledge management systems: Conceptual foundations and research issues. *MIS Quarterly*, 25(1), 107–136.
+Alavi, M., & Leidner, D. E. (2001). Review: Knowledge management and knowledge management 

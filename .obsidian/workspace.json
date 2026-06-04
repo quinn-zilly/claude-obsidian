@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "a98f5dde059a7b25",
+        "id": "940851042500d9d6",
         "type": "tabs",
         "children": [
           {
-            "id": "9934e8b9cfec50af",
+            "id": "d4ae501a7f16352c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GEMINI.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "GEMINI"
+              "title": "New tab"
             }
           }
         ]
@@ -73,12 +69,22 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
+          },
+          {
+            "id": "544f714cde748883",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {},
+              "icon": "sheets-in-box",
+              "title": "File Tree"
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 388.5
+    "width": 401.5
   },
   "right": {
     "id": "7092b65be1e76349",
@@ -94,6 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Excalidraw/GitHub Slides.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +110,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for GitHub Slides"
             }
           },
           {
@@ -112,11 +119,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Excalidraw/GitHub Slides.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from GitHub Slides"
             }
           },
           {
@@ -173,7 +181,19 @@
             }
           },
           {
-            "id": "09ab3ae7e6d7f76f",
+            "id": "d781d8bf912a58e3",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "Excalidraw/GitHub Slides 1.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties for GitHub Slides 1"
+            }
+          },
+          {
+            "id": "673151f542aae49d",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -183,15 +203,14 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 313.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-excalidraw-plugin:New drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -199,61 +218,69 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
       "templater-obsidian:Templater": false,
       "obsidian-memos:Thino": false,
       "obsidian-memos:Thino Super": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "5565f1231fe95c42",
+  "active": "673151f542aae49d",
   "lastOpenFiles": [
-    "CLAUDE.md",
-    "GEMINI.md",
-    "CHANGELOG.md",
-    "ATTRIBUTION.md",
-    "AGENTS.md",
-    "wiki/sources/soderstrom-bjork-2015-learning-vs-performance.md",
-    "wiki/concepts/Spacing Effect.md",
-    "wiki/concepts/Instructional Principles.md",
-    "wiki/sources/kraiger-ford-2021-workplace-instruction.md",
-    "wiki/concepts/Desirable Difficulties.md",
-    "wiki/meta/lint-report-2026-05-21.md",
-    "WIKI.md",
-    "wiki/concepts/Learning vs Performance Distinction.md",
-    "wiki/sources/soderstrom-bjork-2015-learning-vs-performance.md.tmp.23004.b32c523289f9",
-    "wiki/concepts/Transactive Memory Systems.md",
-    "wiki/concepts/Science of Workplace Instruction.md",
-    "wiki/sources/kraiger-ford-2021-workplace-instruction.md.tmp.14000.dd8dcf960677",
-    "wiki/sources/ren-argote-2011-tms.md",
-    "wiki/hot.md.tmp.7924.977a8533e67f",
-    "wiki/log.md.tmp.7924.a71e35f53b09",
+    "wiki/getting-started.md",
+    "wiki/sources/shrout-rodgers-2018-replication-crisis.md",
+    "wiki/hot.md.tmp.24404.fc79e112bae5",
+    "wiki/hot.md.tmp.24404.14f7ff420dff",
+    "wiki/log.md.tmp.24404.3d13fe85459e",
+    "wiki/index.md.tmp.24404.fb1c04fffa40",
+    "wiki/index.md.tmp.24404.242a27d96bbe",
+    "wiki/index.md.tmp.24404.25121296146e",
+    "wiki/concepts/Replication Crisis.md.tmp.24404.3b4fd0b29b65",
+    "wiki/concepts/Replication Types Taxonomy.md",
+    "wiki/concepts/Effect Size Heterogeneity.md",
+    "wiki/concepts/Power Analysis (Replication Studies).md",
+    "wiki/concepts/Questionable Research Practices.md.tmp.24404.5d9e72e7cc4d",
+    "wiki/concepts/HARKing.md.tmp.24404.22dc0977ccbb",
+    "wiki/sources/shrout-rodgers-2018-replication-crisis.md.tmp.24404.7211cefd26ff",
+    "wiki/projects/KM Research Paper.md",
+    "wiki/concepts/Open Science Framework.md",
+    "wiki/concepts/Analytic Reproducibility.md",
+    "wiki/sources/munafo-2017-manifesto.md",
     "wiki/sources/uhlmann-2019-crowdsourcing-science.md",
-    "wiki/Wiki Map.canvas",
-    "wiki/sources/ren-argote-2011-tms.md.tmp.7924.ab0cd038fe6c",
-    "wiki/Wiki Map.md",
-    "wiki/concepts/_index.md",
-    "wiki/concepts/HARKing.md",
-    "wiki/log.md.tmp.17396.5199d72d544f",
-    "wiki/hot.md.tmp.17396.8af68c45ebb4",
-    "wiki/index.md.tmp.17396.4f4dad18091e",
-    "wiki/index.md.tmp.17396.92052c7e2b0f",
-    "wiki/concepts/Aesthetic Standards in Science.md",
-    "wiki/concepts/Publication Bottleneck.md",
-    "wiki/entities/Roger Giner-Sorolla.md",
+    "wiki/sources/nosek-2018-preregistration.md",
+    "wiki/sources/nosek-2012-scientific-utopia-ii.md",
+    "wiki/sources/grant-1996-knowledge-based-theory.md",
     "wiki/sources/giner-sorolla-2012-science-or-art.md",
-    "wiki/sources/giner-sorolla-2012-science-or-art.md.tmp.17396.20490f005b8b",
-    "wiki/sources/beigi-2025-career-success-minority.md",
-    "wiki/concepts/Hypervisibility.md",
-    "wiki/canvases/main.canvas",
-    "wiki/canvases/welcome.canvas",
-    "wiki/canvases/claude-obsidian-presentation.canvas",
+    "wiki/sources/alavi-leidner-2001-knowledge-management.md",
+    "wiki/concepts/TOP Guidelines.md",
+    "wiki/sources/nosek-2022-replicability-robustness-reproducibility.md",
+    "wiki/sources/foster-deardorff-2017-osf.md",
+    "wiki/concepts/Preregistration.md",
+    "wiki/concepts/Registered Reports.md",
+    "wiki/sources/open-science-collaboration-2015.md",
+    "wiki/entities/Brian Nosek.md",
+    "Open Science Collaboration 2015.md",
+    "Holman et al. - 2020 - Leading diversity Towards a theory of functional leadership in diverse teams.md",
+    "wiki/sources/lord-et-al-2017-leadership-in-applied-psychology.md",
+    "wiki/hot.md",
+    "Excalidraw/Scripts/Downloaded/Slideshow.svg",
+    "wiki/meta/History.png",
+    "wiki/meta/Ready pull.png",
+    "wiki/meta/Ready merge.png",
+    "wiki/meta/Create pull request.png",
+    "wiki/meta/Ready pull request.png",
+    "wiki/meta/Ready push.png",
+    "wiki/meta/Post Stage.png",
+    "wiki/meta/Pre stage.png",
+    "wiki/meta/Environment pre stage.png",
+    "wiki/maps/Wiki Map.canvas",
+    "wiki/canvases/wiki-map.canvas",
+    "wiki/canvases/fibonacci-wiki-map.canvas",
     "wiki/canvases/youtube-explainer.canvas",
-    "wiki/meta/wiki-graph-grow.gif",
-    "wiki/meta/welcome-canvas.gif",
-    "wiki/meta/dragonscale-mechanism-overview.png",
-    "wiki/meta/dragonscale-frontier-graph.svg",
-    "wiki/meta/dragonscale-frontier-graph.png",
-    "wiki/meta/claude-obsidian-cover-square.png",
-    "wiki/meta/claude-obsidian-gif-1x1.gif"
+    "wiki/canvases/welcome.canvas",
+    "wiki/canvases/main.canvas",
+    "wiki/canvases/claude-obsidian-presentation.canvas",
+    "Untitled.canvas"
   ]
 }

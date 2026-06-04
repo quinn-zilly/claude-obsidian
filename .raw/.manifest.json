@@ -3,6 +3,29 @@
   "created": "2026-04-23",
   "description": "Ingest delta tracker and address map for the claude-obsidian vault. Do not hand-edit; wiki-ingest maintains this.",
   "sources": {
+    ".raw/Yarkoni and Westfall - 2017 - Choosing Prediction Over Explanation in Psychology Lessons From Machine Learning.pdf": {
+      "hash": "6e6e1ba7a5abd49d915b4c5d5feff97c",
+      "ingested_at": "2026-05-22",
+      "pages_created": [
+        "wiki/sources/yarkoni-westfall-2017-prediction-vs-explanation.md",
+        "wiki/entities/Tal Yarkoni.md",
+        "wiki/entities/Jacob Westfall.md",
+        "wiki/concepts/Prediction vs Explanation (Psychology).md",
+        "wiki/concepts/Overfitting.md",
+        "wiki/concepts/Training vs Test Error.md",
+        "wiki/concepts/Bias-Variance Tradeoff.md",
+        "wiki/concepts/Procedural Overfitting.md",
+        "wiki/concepts/Cross-Validation.md",
+        "wiki/concepts/Regularization.md"
+      ],
+      "pages_updated": [
+        "wiki/concepts/Replication Crisis.md",
+        "wiki/concepts/P-hacking.md",
+        "wiki/index.md",
+        "wiki/log.md",
+        "wiki/hot.md"
+      ]
+    },
     ".raw/Ten Catalysts, Yost & Plunkett 2010.pdf": {
       "hash": "3ce07450fbac649f5eed75510cbca0ab",
       "ingested_at": "2026-05-21",
@@ -373,6 +396,20 @@
         "wiki/hot.md"
       ]
     },
+    ".raw/Kerr - 1998 - HARKing Hypothesizing After the Results are Known.pdf": {
+      "hash": "kerr-1998-harking-ingested",
+      "ingested_at": "2026-05-21",
+      "pages_created": [
+        "wiki/sources/kerr-1998-harking.md",
+        "wiki/entities/Norbert-Kerr.md"
+      ],
+      "pages_updated": [
+        "wiki/concepts/HARKing.md",
+        "wiki/index.md",
+        "wiki/log.md",
+        "wiki/hot.md"
+      ]
+    },
     ".raw/Ren and Argote - 2011 - Transactive Memory Systems 1985\u20132010 An Integrative Framework of Key Dimensions, Antecedents, and C.pdf": {
       "hash": "d77ca3e481efe6c6ab0d9060caa1708a",
       "ingested_at": "2026-05-21",
@@ -381,6 +418,511 @@
       ],
       "pages_updated": [
         "wiki/concepts/Transactive Memory Systems.md",
+        "wiki/index.md",
+        "wiki/log.md",
+        "wiki/hot.md"
+      ]
+    },
+    ".raw/Micelotta et al. - 2017 - Pathways of institutional change An integrative review and research agenda..pdf": {
+      "hash": "dbdbefd8cb417170f64327cb8f8236a6",
+      "ingested_at": "2026-05-21",
+      "pages_created": [
+        "wiki/sources/micelotta-2017-pathways-institutional-change.md",
+        "wiki/concepts/Institutional Change Pathways.md",
+        "wiki/concepts/Institutional Entrepreneurship.md",
+        "wiki/concepts/Institutional Displacement.md",
+        "wiki/concepts/Institutional Alignment.md",
+        "wiki/concepts/Institutional Accommodation.md",
+        "wiki/concepts/Institutional Accretion.md",
+        "wiki/entities/Evelyn Micelotta.md",
+        "wiki/entities/Michael Lounsbury.md",
+        "wiki/entities/Royston Greenwood.md"
+      ],
+      "pages_updated": [
+        "wiki/concepts/Institutional Isomorphism.md",
+        "wiki/concepts/Organizational Field.md",
+        "wiki/index.md",
+        "wiki/log.md",
+        "wiki/hot.md"
+      ]
+    },
+    ".raw/Nosek et al. - 2022 - Replicability, Robustness, and Reproducibility in Psychological Science.pdf": {
+      "hash": "03fa0b4fa42fd8003ad638eed9f70308",
+      "ingested_at": "2026-05-22",
+      "pages_created": [
+        "wiki/sources/nosek-2022-replicability-robustness-reproducibility.md",
+        "wiki/concepts/Robustness (Science).md",
+        "wiki/concepts/Replication as Theoretical Commitment.md",
+        "wiki/concepts/Questionable Research Practices.md",
+        "wiki/concepts/Prediction Markets (Science).md",
+        "wiki/concepts/TOP Guidelines.md",
+        "wiki/concepts/Psychological Science Accelerator.md",
+        "wiki/entities/Simine Vazire.md",
+        "wiki/entities/Tom Hardwicke.md",
+        "wiki/entities/Anna Dreber.md"
+      ],
+      "pages_updated": [
+        "wiki/entities/Brian Nosek.md",
+        "wiki/concepts/Replication Crisis.md",
+        "wiki/concepts/Analytic Reproducibility.md",
+        "wiki/index.md",
+        "wiki/log.md",
+        "wiki/hot.md"
+      ]
+    },
+    ".raw/Albarrac\u00edn et al. - 2024 - Determinants of behaviour and their efficacy as targets of behavioural change interventions.pdf": {
+      "hash": "d8e5484ebc074e4e8e21b6bbf35143d0",
+      "ingested_at": "2026-05-23",
+      "pages_created": [
+        "wiki/sources/albarracin-2024-determinants-behaviour-change.md",
+        "wiki/concepts/Behaviour Change Determinants.md",
+        "wiki/concepts/Descriptive Norms.md",
+        "wiki/concepts/Injunctive Norms.md",
+        "wiki/concepts/Habits (Behaviour).md",
+        "wiki/concepts/Behavioural Access Interventions.md",
+        "wiki/concepts/Social Support (Behaviour).md",
+        "wiki/concepts/Reasoned Action Approach.md",
+        "wiki/concepts/Information-Motivation-Behavioural Skills Model.md",
+        "wiki/concepts/Correlation-Intervention Gap (Behaviour).md",
+        "wiki/entities/Dolores Albarrac\u00edn.md"
+      ],
+      "pages_updated": [
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md"
+      ]
+    },
+    ".raw/Fulmer et al. - 2023 - Compensation and performance A review and recommendations for the future.pdf": {
+      "hash": "fe12e8fcee65138dce575b74766c339e",
+      "ingested_at": "2026-05-23",
+      "pages_created": [
+        "wiki/sources/fulmer-2023-compensation-performance.md",
+        "wiki/concepts/Pay-for-Performance.md",
+        "wiki/concepts/Incentive Effect (Compensation).md",
+        "wiki/concepts/Sorting Effect (Compensation).md",
+        "wiki/concepts/PFP Intensity.md",
+        "wiki/concepts/Equal Compensation Principle.md",
+        "wiki/concepts/Pay Dispersion.md",
+        "wiki/concepts/Pay Transparency.md",
+        "wiki/entities/Ingrid Smithey Fulmer.md",
+        "wiki/entities/Barry Gerhart.md",
+        "wiki/entities/JiHyun Kim.md"
+      ],
+      "pages_updated": [
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md"
+      ]
+    },
+    ".raw/Tversky and Kahneman - 1974 - Judgment under Uncertainty Heuristics and Biases.pdf": {
+      "hash": "9db37b6bb46f1d05ca5ef01418c41d99",
+      "ingested_at": "2026-05-23",
+      "pages_created": [
+        "wiki/sources/tversky-kahneman-1974-heuristics-biases.md",
+        "wiki/entities/Amos Tversky.md",
+        "wiki/entities/Daniel Kahneman.md",
+        "wiki/concepts/Heuristics and Biases Program.md",
+        "wiki/concepts/Representativeness Heuristic.md",
+        "wiki/concepts/Availability Heuristic.md",
+        "wiki/concepts/Anchoring and Adjustment.md",
+        "wiki/concepts/Base Rate Neglect.md",
+        "wiki/concepts/Gambler's Fallacy.md",
+        "wiki/concepts/Illusion of Validity.md",
+        "wiki/concepts/Regression to the Mean.md",
+        "wiki/concepts/Illusory Correlation.md"
+      ],
+      "pages_updated": [
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md",
+        "wiki/sources/_index.md"
+      ]
+    },
+    ".raw/Connolly et al. - 2012 - Judgement and Decision Making.pdf": {
+      "hash": "0ab4b59e66c6a49d007ca1e70614df73",
+      "ingested_at": "2026-05-23",
+      "pages_created": [
+        "wiki/sources/connolly-2012-jdm.md",
+        "wiki/concepts/Judgment and Decision Making (Field).md",
+        "wiki/concepts/Lens Model.md",
+        "wiki/concepts/Policy Capturing.md",
+        "wiki/concepts/Prospect Theory.md",
+        "wiki/concepts/Framing Effects.md",
+        "wiki/concepts/Decision Justification Theory.md",
+        "wiki/concepts/Appraisal-Tendency Framework.md",
+        "wiki/concepts/Signal Detection Theory (Decision).md",
+        "wiki/concepts/Naturalistic Decision Making.md",
+        "wiki/concepts/Sunk Cost Effect.md",
+        "wiki/concepts/Dynamic Decision Making.md",
+        "wiki/concepts/Electronic Brainstorming.md",
+        "wiki/entities/Terry Connolly.md",
+        "wiki/entities/Lisa Ord\u00f3\u00f1ez.md"
+      ],
+      "pages_updated": [
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md"
+      ]
+    },
+    ".raw/Cornelissen and Werner - 2014 - Putting framing in perspective A review of framing and frame analysis across the management and org.pdf": {
+      "hash": "508434a5ada70cb46acf84185d7eb66f",
+      "ingested_at": "2026-05-24",
+      "pages_created": [
+        "wiki/sources/cornelissen-werner-2014-framing-review.md",
+        "wiki/concepts/Framing (Organizational Theory).md",
+        "wiki/concepts/Cognitive Frame.md",
+        "wiki/concepts/Priming vs Framing.md",
+        "wiki/concepts/Strategic Framing.md",
+        "wiki/concepts/Collective Action Frame.md",
+        "wiki/concepts/Field Frame.md",
+        "wiki/concepts/Institutional Frame.md",
+        "wiki/concepts/Sensemaking (Organizational).md",
+        "wiki/concepts/Technological Frame.md",
+        "wiki/entities/Joep Cornelissen.md",
+        "wiki/entities/Mirjam Werner.md"
+      ],
+      "pages_updated": [
+        "wiki/concepts/Framing Effects.md",
+        "wiki/concepts/Institutional Entrepreneurship.md",
+        "wiki/index.md",
+        "wiki/log.md",
+        "wiki/hot.md"
+      ]
+    },
+    ".raw/Fischhoff and Broomell - 2020 - Judgment and Decision Making.pdf": {
+      "hash": "cbd68f7b36e05f9a703eed8ce4905a29",
+      "ingested_at": "2026-05-26",
+      "pages_created": [
+        "wiki/sources/fischhoff-broomell-2020-jdm-review.md",
+        "wiki/entities/Baruch Fischhoff.md",
+        "wiki/entities/Stephen Broomell.md",
+        "wiki/concepts/Calibration (Judgment).md",
+        "wiki/concepts/Wisdom of the Crowd.md",
+        "wiki/concepts/Constructed Preference.md",
+        "wiki/concepts/Loss Aversion.md",
+        "wiki/concepts/Cumulative Prospect Theory.md",
+        "wiki/concepts/Decision by Sampling.md",
+        "wiki/concepts/Decision-Making Competence.md",
+        "wiki/concepts/DOSPERT Scale.md",
+        "wiki/concepts/Sacred Values.md",
+        "wiki/concepts/Fuzzy-Trace Theory.md",
+        "wiki/concepts/Good Judgment Project.md",
+        "wiki/concepts/Superforecasters.md",
+        "wiki/concepts/Mental Models (Decision).md",
+        "wiki/concepts/Libertarian Paternalism.md",
+        "wiki/concepts/Applied Basic Psychology.md"
+      ],
+      "pages_updated": [
+        "wiki/concepts/Judgment and Decision Making (Field).md",
+        "wiki/concepts/Prospect Theory.md",
+        "wiki/index.md",
+        "wiki/log.md",
+        "wiki/hot.md"
+      ]
+    },
+    ".raw/Ryan and Deci - Self-Determination Theory and the Facilitation of Intrinsic Motivation, Social Development, and Well.pdf": {
+      "hash": "db6d889e4583a8d9063d5e10628e56f7",
+      "ingested_at": "2026-05-29",
+      "pages_created": [
+        "wiki/sources/ryan-deci-2000-sdt.md",
+        "wiki/concepts/Self-Determination Theory.md",
+        "wiki/concepts/Basic Psychological Needs (SDT).md",
+        "wiki/concepts/Autonomy (SDT).md",
+        "wiki/concepts/Competence (SDT).md",
+        "wiki/concepts/Relatedness (SDT).md",
+        "wiki/concepts/Intrinsic Motivation.md",
+        "wiki/concepts/Extrinsic Motivation.md",
+        "wiki/concepts/Cognitive Evaluation Theory.md",
+        "wiki/concepts/Organismic Integration Theory.md",
+        "wiki/concepts/Internalization (SDT).md",
+        "wiki/entities/Richard Ryan.md",
+        "wiki/entities/Edward Deci.md"
+      ],
+      "pages_updated": [
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md"
+      ]
+    },
+    ".raw/Locke and Latham - 2002 - Building a practically useful theory of goal setting and task motivation A 35-year odyssey..pdf": {
+      "hash": "8947a63ff51d533df92fb23d00550bee",
+      "ingested_at": "2026-05-30",
+      "pages_created": [
+        "wiki/sources/locke-latham-2002-goal-setting-theory.md",
+        "wiki/concepts/Goal-Setting Theory.md",
+        "wiki/concepts/Self-Efficacy (Goal Setting).md",
+        "wiki/concepts/High-Performance Cycle.md",
+        "wiki/concepts/Goal Commitment.md",
+        "wiki/concepts/Learning Goals vs Performance Goals.md",
+        "wiki/concepts/Situational Interview.md",
+        "wiki/entities/Edwin Locke.md",
+        "wiki/entities/Gary Latham.md"
+      ],
+      "pages_updated": [
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md"
+      ]
+    },
+    ".raw/Kanfer et al. - 2017 - Motivation related to work A century of progress..pdf": {
+      "hash": "171436dbfed9b3e5f2c2e4bba8a64f3b",
+      "ingested_at": "2026-05-30",
+      "pages_created": [
+        "wiki/sources/kanfer-frese-johnson-2017-work-motivation.md",
+        "wiki/concepts/Work Motivation Meta-Framework (Kanfer).md",
+        "wiki/concepts/Resource Allocation Theory (Motivation).md",
+        "wiki/concepts/Action Regulation Theory.md",
+        "wiki/concepts/Ego Depletion.md",
+        "wiki/concepts/Regulatory Focus Theory.md",
+        "wiki/concepts/Job Characteristics Model.md",
+        "wiki/concepts/Proactive Engagement.md",
+        "wiki/entities/Ruth Kanfer.md",
+        "wiki/entities/Michael Frese.md",
+        "wiki/entities/Russell Johnson.md"
+      ],
+      "pages_updated": [
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md"
+      ]
+    },
+    ".raw/Morgeson et al. - 2012 - Work design.pdf": {
+      "hash": "247f9a031aee17750d16602ab682515e",
+      "ingested_at": "2026-06-01",
+      "pages_created": [
+        "wiki/sources/morgeson-garza-campion-2012-work-design.md",
+        "wiki/concepts/Work Design (Concept).md",
+        "wiki/concepts/Work Design Questionnaire.md",
+        "wiki/concepts/Sociotechnical Systems Theory.md",
+        "wiki/concepts/Job Demands\u2013Control\u2013Support Model.md",
+        "wiki/concepts/Interdisciplinary Model of Job Design.md",
+        "wiki/entities/Frederick Morgeson.md",
+        "wiki/entities/Michael Campion.md"
+      ],
+      "pages_updated": [
+        "wiki/concepts/Job Characteristics Model.md",
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md"
+      ]
+    },
+    ".raw/Schmidt et al. - 2012 - Motivation.pdf": {
+      "hash": "ea553d5e1d3ea633a7c903fad3724c10",
+      "ingested_at": "2026-06-01",
+      "pages_created": [
+        "wiki/sources/schmidt-beck-gillespie-2012-motivation.md",
+        "wiki/concepts/Control Theory (Self-Regulation).md",
+        "wiki/concepts/Multiple Goal Self-Regulation.md",
+        "wiki/concepts/Temporal Motivation Theory.md",
+        "wiki/concepts/Emotional Labor.md",
+        "wiki/concepts/Goal Orientation.md",
+        "wiki/entities/Aaron Schmidt.md"
+      ],
+      "pages_updated": [
+        "wiki/concepts/Self-Efficacy (Goal Setting).md",
+        "wiki/concepts/Regulatory Focus Theory.md",
+        "wiki/sources/locke-latham-2002-goal-setting-theory.md",
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md"
+      ]
+    },
+    ".raw/Tett et al. - 2021 - Trait Activation Theory A Review of the Literature and Applications to Five Lines of Personality Dy.pdf": {
+      "hash": "52b1f255a014a5773b47ff90bb92a29b",
+      "ingested_at": "2026-06-01",
+      "pages_created": [
+        "wiki/sources/tett-et-al-2021-trait-activation-theory.md",
+        "wiki/concepts/Trait Activation Theory.md",
+        "wiki/concepts/Situational Cue Types (TAT).md",
+        "wiki/concepts/Personality Dynamics (TAT).md",
+        "wiki/concepts/Situation Strength.md",
+        "wiki/concepts/Five-Factor Model.md",
+        "wiki/concepts/Person\u2013Environment Fit.md",
+        "wiki/entities/Robert Tett.md"
+      ],
+      "pages_updated": [
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md"
+      ]
+    },
+    ".raw/Shuffler et al. - 2011 - There\u2019s a Science for That Team Development Inter.pdf": {
+      "hash": "12381654c87b9454d73f8968e893425b",
+      "ingested_at": "2026-06-01",
+      "pages_created": [
+        "wiki/sources/shuffler-et-al-2011-team-development-interventions.md",
+        "wiki/concepts/Team Development Interventions.md",
+        "wiki/concepts/Team Building.md",
+        "wiki/concepts/Team Training.md",
+        "wiki/entities/Eduardo Salas.md"
+      ],
+      "pages_updated": [
+        "wiki/concepts/Transactive Memory Systems.md",
+        "wiki/concepts/Trait Activation Theory.md",
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md"
+      ]
+    },
+    ".raw/Lepine et al. - 2008 - A Meta-Analysis of Teamwork Processes Tests of a .pdf": {
+      "hash": "bb929ef100b7ecd29550a4f726f9e261",
+      "ingested_at": "2026-06-01",
+      "pages_created": [
+        "wiki/sources/lepine-et-al-2008-teamwork-processes.md",
+        "wiki/concepts/Teamwork Processes (Marks et al. Taxonomy).md",
+        "wiki/concepts/Emergent States (Teams).md"
+      ],
+      "pages_updated": [
+        "wiki/concepts/Team Development Interventions.md",
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md"
+      ]
+    },
+    ".raw/Lacerenza et al. - 2018 - Team development interventions Evidence-based approaches for improving teamwork..pdf": {
+      "hash": "03aa1dedd35340a9fbaf8e362e147370",
+      "ingested_at": "2026-06-01",
+      "pages_created": [
+        "wiki/sources/lacerenza-et-al-2018-team-development-interventions.md",
+        "wiki/concepts/Team Debriefing.md",
+        "wiki/concepts/Leadership Training (Teams).md",
+        "wiki/concepts/Psychological Safety.md"
+      ],
+      "pages_updated": [
+        "wiki/concepts/Team Development Interventions.md",
+        "wiki/concepts/Team Training.md",
+        "wiki/concepts/Team Building.md",
+        "wiki/entities/Eduardo Salas.md",
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md"
+      ]
+    },
+    ".raw/Alliger et al. - 1997 - A meta analysis of the relations among training criteria.pdf": {
+      "hash": "e9aa775cee7a1767e17e01396094a6a5",
+      "ingested_at": "2026-06-01",
+      "pages_created": [
+        "wiki/sources/alliger-et-al-1997-training-criteria-meta-analysis.md",
+        "wiki/concepts/Kirkpatrick Four-Level Model.md",
+        "wiki/concepts/Augmented Training Criteria Framework.md",
+        "wiki/concepts/Training Reactions (Affective vs Utility).md",
+        "wiki/concepts/Training Transfer.md",
+        "wiki/concepts/Content Validity (Training Criteria).md",
+        "wiki/entities/George M. Alliger.md",
+        "wiki/entities/Scott I. Tannenbaum.md"
+      ],
+      "pages_updated": [
+        "wiki/index.md",
+        "wiki/log.md",
+        "wiki/hot.md"
+      ]
+    },
+    ".raw/Bell et al. - 2017 - 100 years of training and development research What we know and where we should go..pdf": {
+      "hash": "31d75ce8457a5d42398bcf36ead47058",
+      "ingested_at": "2026-06-01",
+      "pages_created": [
+        "wiki/sources/bell-et-al-2017-100-years-training-development.md",
+        "wiki/concepts/Active Learning (Training).md",
+        "wiki/concepts/Technology-Based Training.md",
+        "wiki/concepts/Training Context and Transfer Climate.md",
+        "wiki/concepts/Training Needs Analysis.md",
+        "wiki/concepts/Trainee Characteristics.md",
+        "wiki/entities/Bradford S. Bell.md",
+        "wiki/entities/Raymond A. Noe.md"
+      ],
+      "pages_updated": [
+        "wiki/entities/J. Kevin Ford.md",
+        "wiki/entities/Kurt Kraiger.md",
+        "wiki/entities/Scott I. Tannenbaum.md",
+        "wiki/concepts/Training Transfer.md",
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md"
+      ]
+    },
+    ".raw/Jebb et al. - 2021 - A Review of Key Likert Scale Development Advances 1995\u20132019.pdf": {
+      "hash": "593b848993d6dc055ff3b9ee4d610f64",
+      "ingested_at": "2026-06-01",
+      "pages_created": [
+        "wiki/sources/jebb-ng-tay-2021-likert-scale-advances.md",
+        "wiki/concepts/Likert Scale Development.md",
+        "wiki/concepts/Construct Validity.md",
+        "wiki/concepts/Construct Definition.md",
+        "wiki/concepts/Readability Tests for Survey Items.md",
+        "wiki/concepts/Coefficient Omega.md",
+        "wiki/concepts/Ant Colony Optimization (Scale Shortening).md",
+        "wiki/entities/Andrew T. Jebb.md",
+        "wiki/entities/Louis Tay.md"
+      ],
+      "pages_updated": [
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md"
+      ]
+    },
+    ".raw/Judge and Kammeyer-Mueller - 2012 - Job attitudes.pdf": {
+      "hash": "64ae2f77287ba2f946f93d8c36854609",
+      "ingested_at": "2026-06-01",
+      "pages_created": [
+        "wiki/sources/judge-kammeyer-mueller-2012-job-attitudes.md",
+        "wiki/concepts/Job Attitudes.md",
+        "wiki/concepts/Job Satisfaction.md",
+        "wiki/concepts/Organizational Commitment.md",
+        "wiki/concepts/Affective Events Theory.md",
+        "wiki/concepts/Core Self-Evaluations.md",
+        "wiki/concepts/Experience-Sampling Methodology.md",
+        "wiki/concepts/Dispositional Antecedents of Job Attitudes.md",
+        "wiki/concepts/Situational Antecedents of Job Attitudes.md",
+        "wiki/concepts/Job Performance (Outcomes of Job Attitudes).md",
+        "wiki/entities/Timothy A. Judge.md",
+        "wiki/entities/John D. Kammeyer-Mueller.md"
+      ],
+      "pages_updated": [
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md"
+      ]
+    },
+    ".raw/lord et al 2017 - leadership in applied psychology.md": {
+      "hash": "76b24f6763bcacf7b5939fbd0bcb95b5",
+      "ingested_at": "2026-06-01",
+      "pages_created": [
+        "wiki/sources/lord-et-al-2017-leadership-in-applied-psychology.md",
+        "wiki/concepts/Three Waves of Leadership Research.md",
+        "wiki/concepts/Trait Paradigm (Leadership).md",
+        "wiki/concepts/Leader Behavior and Ohio State Studies.md",
+        "wiki/concepts/Implicit Leadership Theories.md",
+        "wiki/concepts/Contingency Theories of Leadership.md",
+        "wiki/concepts/Transformational and Charismatic Leadership.md",
+        "wiki/concepts/Leader-Member Exchange (LMX).md",
+        "wiki/concepts/Gender and Leadership.md",
+        "wiki/concepts/Team Leadership.md",
+        "wiki/concepts/Shared Leadership.md",
+        "wiki/entities/Robert G. Lord.md",
+        "wiki/entities/David V. Day.md",
+        "wiki/entities/Bruce J. Avolio.md",
+        "wiki/entities/Alice H. Eagly.md",
+        "wiki/entities/Stephen J. Zaccaro.md"
+      ],
+      "pages_updated": [
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md"
+      ]
+    },
+    ".raw/Input/Shrout and Rodgers - 2018 - Psychology, Science, and Knowledge Construction Broadening Perspectives from the Replication Crisis.pdf": {
+      "hash": "043c4321af8a952c0b7a3788a14ef7fa",
+      "ingested_at": "2026-06-03",
+      "pages_created": [
+        "wiki/sources/shrout-rodgers-2018-replication-crisis.md",
+        "wiki/concepts/Power Analysis (Replication Studies).md",
+        "wiki/concepts/Effect Size Heterogeneity.md",
+        "wiki/concepts/Replication Types Taxonomy.md"
+      ],
+      "pages_updated": [
+        "wiki/concepts/Replication Crisis.md",
+        "wiki/concepts/HARKing.md",
+        "wiki/concepts/Questionable Research Practices.md",
         "wiki/index.md",
         "wiki/log.md",
         "wiki/hot.md"
@@ -465,6 +1007,246 @@
     "wiki/sources/giner-sorolla-2012-science-or-art.md": "c-000104",
     "wiki/entities/Roger Giner-Sorolla.md": "c-000105",
     "wiki/concepts/Publication Bottleneck.md": "c-000106",
-    "wiki/concepts/Aesthetic Standards in Science.md": "c-000107"
+    "wiki/concepts/Aesthetic Standards in Science.md": "c-000107",
+    "wiki/sources/kerr-1998-harking.md": "c-000125",
+    "wiki/entities/Norbert-Kerr.md": "c-000126",
+    "wiki/sources/micelotta-2017-pathways-institutional-change.md": "c-000127",
+    "wiki/entities/Evelyn Micelotta.md": "c-000128",
+    "wiki/entities/Michael Lounsbury.md": "c-000129",
+    "wiki/entities/Royston Greenwood.md": "c-000130",
+    "wiki/concepts/Institutional Change Pathways.md": "c-000131",
+    "wiki/concepts/Institutional Entrepreneurship.md": "c-000132",
+    "wiki/concepts/Institutional Displacement.md": "c-000133",
+    "wiki/concepts/Institutional Alignment.md": "c-000134",
+    "wiki/concepts/Institutional Accommodation.md": "c-000135",
+    "wiki/concepts/Institutional Accretion.md": "c-000136",
+    "wiki/sources/nosek-2022-replicability-robustness-reproducibility.md": "c-000137",
+    "wiki/concepts/Robustness (Science).md": "c-000138",
+    "wiki/concepts/Replication as Theoretical Commitment.md": "c-000139",
+    "wiki/concepts/Questionable Research Practices.md": "c-000140",
+    "wiki/concepts/Prediction Markets (Science).md": "c-000141",
+    "wiki/concepts/TOP Guidelines.md": "c-000143",
+    "wiki/concepts/Psychological Science Accelerator.md": "c-000144",
+    "wiki/entities/Simine Vazire.md": "c-000145",
+    "wiki/entities/Tom Hardwicke.md": "c-000146",
+    "wiki/entities/Anna Dreber.md": "c-000147",
+    "wiki/sources/yarkoni-westfall-2017-prediction-vs-explanation.md": "c-000148",
+    "wiki/entities/Tal Yarkoni.md": "c-000149",
+    "wiki/entities/Jacob Westfall.md": "c-000150",
+    "wiki/concepts/Prediction vs Explanation (Psychology).md": "c-000151",
+    "wiki/concepts/Overfitting.md": "c-000152",
+    "wiki/concepts/Cross-Validation.md": "c-000153",
+    "wiki/concepts/Regularization.md": "c-000154",
+    "wiki/concepts/Bias-Variance Tradeoff.md": "c-000155",
+    "wiki/concepts/Training vs Test Error.md": "c-000156",
+    "wiki/concepts/Procedural Overfitting.md": "c-000157",
+    "wiki/sources/albarracin-2024-determinants-behaviour-change.md": "c-000158",
+    "wiki/entities/Dolores Albarrac\u00edn.md": "c-000159",
+    "wiki/concepts/Behaviour Change Determinants.md": "c-000160",
+    "wiki/concepts/Descriptive Norms.md": "c-000161",
+    "wiki/concepts/Injunctive Norms.md": "c-000162",
+    "wiki/concepts/Habits (Behaviour).md": "c-000163",
+    "wiki/concepts/Behavioural Access Interventions.md": "c-000164",
+    "wiki/concepts/Social Support (Behaviour).md": "c-000165",
+    "wiki/concepts/Reasoned Action Approach.md": "c-000166",
+    "wiki/concepts/Information-Motivation-Behavioural Skills Model.md": "c-000167",
+    "wiki/concepts/Correlation-Intervention Gap (Behaviour).md": "c-000168",
+    "wiki/sources/fulmer-2023-compensation-performance.md": "c-000169",
+    "wiki/concepts/Pay-for-Performance.md": "c-000170",
+    "wiki/concepts/Incentive Effect (Compensation).md": "c-000171",
+    "wiki/concepts/Sorting Effect (Compensation).md": "c-000172",
+    "wiki/concepts/PFP Intensity.md": "c-000173",
+    "wiki/concepts/Equal Compensation Principle.md": "c-000174",
+    "wiki/concepts/Pay Dispersion.md": "c-000175",
+    "wiki/concepts/Pay Transparency.md": "c-000176",
+    "wiki/entities/Ingrid Smithey Fulmer.md": "c-000177",
+    "wiki/entities/Barry Gerhart.md": "c-000178",
+    "wiki/entities/JiHyun Kim.md": "c-000179",
+    "wiki/sources/tversky-kahneman-1974-heuristics-biases.md": "c-000180",
+    "wiki/entities/Amos Tversky.md": "c-000181",
+    "wiki/entities/Daniel Kahneman.md": "c-000182",
+    "wiki/concepts/Representativeness Heuristic.md": "c-000183",
+    "wiki/concepts/Availability Heuristic.md": "c-000184",
+    "wiki/concepts/Anchoring and Adjustment.md": "c-000185",
+    "wiki/concepts/Base Rate Neglect.md": "c-000186",
+    "wiki/concepts/Gambler's Fallacy.md": "c-000187",
+    "wiki/concepts/Illusion of Validity.md": "c-000188",
+    "wiki/concepts/Regression to the Mean.md": "c-000189",
+    "wiki/concepts/Illusory Correlation.md": "c-000190",
+    "wiki/concepts/Heuristics and Biases Program.md": "c-000191",
+    "wiki/sources/connolly-2012-jdm.md": "c-000192",
+    "wiki/concepts/Judgment and Decision Making (Field).md": "c-000193",
+    "wiki/concepts/Lens Model.md": "c-000194",
+    "wiki/concepts/Policy Capturing.md": "c-000195",
+    "wiki/concepts/Prospect Theory.md": "c-000196",
+    "wiki/concepts/Decision Justification Theory.md": "c-000197",
+    "wiki/concepts/Naturalistic Decision Making.md": "c-000198",
+    "wiki/concepts/Sunk Cost Effect.md": "c-000199",
+    "wiki/concepts/Dynamic Decision Making.md": "c-000200",
+    "wiki/concepts/Electronic Brainstorming.md": "c-000201",
+    "wiki/entities/Terry Connolly.md": "c-000202",
+    "wiki/entities/Lisa Ord\u00f3\u00f1ez.md": "c-000203",
+    "wiki/concepts/Framing Effects.md": "c-000204",
+    "wiki/concepts/Appraisal-Tendency Framework.md": "c-000205",
+    "wiki/concepts/Signal Detection Theory (Decision).md": "c-000206",
+    "wiki/sources/cornelissen-werner-2014-framing-review.md": "c-000221",
+    "wiki/concepts/Framing (Organizational Theory).md": "c-000222",
+    "wiki/concepts/Cognitive Frame.md": "c-000223",
+    "wiki/concepts/Priming vs Framing.md": "c-000224",
+    "wiki/concepts/Strategic Framing.md": "c-000225",
+    "wiki/concepts/Collective Action Frame.md": "c-000226",
+    "wiki/concepts/Field Frame.md": "c-000227",
+    "wiki/concepts/Institutional Frame.md": "c-000228",
+    "wiki/concepts/Sensemaking (Organizational).md": "c-000229",
+    "wiki/concepts/Technological Frame.md": "c-000230",
+    "wiki/entities/Joep Cornelissen.md": "c-000231",
+    "wiki/entities/Mirjam Werner.md": "c-000232",
+    "wiki/sources/fischhoff-broomell-2020-jdm-review.md": "c-000233",
+    "wiki/entities/Baruch Fischhoff.md": "c-000234",
+    "wiki/entities/Stephen Broomell.md": "c-000235",
+    "wiki/concepts/Calibration (Judgment).md": "c-000236",
+    "wiki/concepts/Wisdom of the Crowd.md": "c-000237",
+    "wiki/concepts/Constructed Preference.md": "c-000238",
+    "wiki/concepts/Loss Aversion.md": "c-000239",
+    "wiki/concepts/Cumulative Prospect Theory.md": "c-000240",
+    "wiki/concepts/Decision by Sampling.md": "c-000241",
+    "wiki/concepts/Decision-Making Competence.md": "c-000242",
+    "wiki/concepts/DOSPERT Scale.md": "c-000243",
+    "wiki/concepts/Sacred Values.md": "c-000244",
+    "wiki/concepts/Fuzzy-Trace Theory.md": "c-000245",
+    "wiki/concepts/Good Judgment Project.md": "c-000246",
+    "wiki/concepts/Superforecasters.md": "c-000247",
+    "wiki/concepts/Mental Models (Decision).md": "c-000248",
+    "wiki/concepts/Libertarian Paternalism.md": "c-000249",
+    "wiki/concepts/Applied Basic Psychology.md": "c-000250",
+    "wiki/sources/ryan-deci-2000-sdt.md": "c-000251",
+    "wiki/entities/Richard Ryan.md": "c-000252",
+    "wiki/entities/Edward Deci.md": "c-000253",
+    "wiki/concepts/Self-Determination Theory.md": "c-000254",
+    "wiki/concepts/Basic Psychological Needs (SDT).md": "c-000255",
+    "wiki/concepts/Autonomy (SDT).md": "c-000256",
+    "wiki/concepts/Competence (SDT).md": "c-000257",
+    "wiki/concepts/Relatedness (SDT).md": "c-000258",
+    "wiki/concepts/Intrinsic Motivation.md": "c-000259",
+    "wiki/concepts/Extrinsic Motivation.md": "c-000260",
+    "wiki/concepts/Cognitive Evaluation Theory.md": "c-000261",
+    "wiki/concepts/Organismic Integration Theory.md": "c-000262",
+    "wiki/concepts/Internalization (SDT).md": "c-000263",
+    "wiki/sources/locke-latham-2002-goal-setting-theory.md": "c-000276",
+    "wiki/concepts/Goal-Setting Theory.md": "c-000277",
+    "wiki/concepts/Self-Efficacy (Goal Setting).md": "c-000278",
+    "wiki/concepts/High-Performance Cycle.md": "c-000279",
+    "wiki/concepts/Goal Commitment.md": "c-000280",
+    "wiki/concepts/Learning Goals vs Performance Goals.md": "c-000281",
+    "wiki/concepts/Situational Interview.md": "c-000282",
+    "wiki/entities/Edwin Locke.md": "c-000283",
+    "wiki/entities/Gary Latham.md": "c-000284",
+    "wiki/concepts/Spacing Effect.md": "c-000285",
+    "wiki/sources/kanfer-frese-johnson-2017-work-motivation.md": "c-000286",
+    "wiki/concepts/Work Motivation Meta-Framework (Kanfer).md": "c-000287",
+    "wiki/concepts/Resource Allocation Theory (Motivation).md": "c-000288",
+    "wiki/concepts/Action Regulation Theory.md": "c-000289",
+    "wiki/concepts/Ego Depletion.md": "c-000290",
+    "wiki/concepts/Regulatory Focus Theory.md": "c-000291",
+    "wiki/concepts/Job Characteristics Model.md": "c-000292",
+    "wiki/concepts/Proactive Engagement.md": "c-000293",
+    "wiki/entities/Ruth Kanfer.md": "c-000294",
+    "wiki/entities/Michael Frese.md": "c-000295",
+    "wiki/entities/Russell Johnson.md": "c-000296",
+    "wiki/sources/morgeson-garza-campion-2012-work-design.md": "c-000298",
+    "wiki/concepts/Work Design (Concept).md": "c-000299",
+    "wiki/concepts/Work Design Questionnaire.md": "c-000300",
+    "wiki/entities/Frederick Morgeson.md": "c-000301",
+    "wiki/entities/Michael Campion.md": "c-000303",
+    "wiki/concepts/Sociotechnical Systems Theory.md": "c-000304",
+    "wiki/concepts/Job Demands\u2013Control\u2013Support Model.md": "c-000305",
+    "wiki/concepts/Interdisciplinary Model of Job Design.md": "c-000306",
+    "wiki/sources/schmidt-beck-gillespie-2012-motivation.md": "c-000307",
+    "wiki/concepts/Control Theory (Self-Regulation).md": "c-000308",
+    "wiki/concepts/Multiple Goal Self-Regulation.md": "c-000309",
+    "wiki/concepts/Temporal Motivation Theory.md": "c-000310",
+    "wiki/concepts/Emotional Labor.md": "c-000311",
+    "wiki/concepts/Goal Orientation.md": "c-000312",
+    "wiki/entities/Aaron Schmidt.md": "c-000313",
+    "wiki/sources/pearsall-christian-croitoru-2025-team-adaptation.md": "c-000315",
+    "wiki/concepts/Team Adaptation (Stimulus-Based Model).md": "c-000316",
+    "wiki/concepts/Adaptive Stimulus.md": "c-000317",
+    "wiki/concepts/Stimulus Detection (Team Adaptation).md": "c-000318",
+    "wiki/concepts/Urgency Assessment (Team Adaptation).md": "c-000319",
+    "wiki/concepts/Duration Assessment (Team Adaptation).md": "c-000320",
+    "wiki/concepts/Reflexive Learning (Team Adaptation).md": "c-000321",
+    "wiki/concepts/Knowledge and Skill Acquisition (Team Adaptation).md": "c-000322",
+    "wiki/entities/Matthew J. Pearsall.md": "c-000323",
+    "wiki/entities/Jessica Siegel Christian.md": "c-000324",
+    "wiki/sources/alliger-et-al-1997-training-criteria-meta-analysis.md": "c-000327",
+    "wiki/concepts/Kirkpatrick Four-Level Model.md": "c-000328",
+    "wiki/concepts/Augmented Training Criteria Framework.md": "c-000329",
+    "wiki/concepts/Training Reactions (Affective vs Utility).md": "c-000330",
+    "wiki/concepts/Training Transfer.md": "c-000331",
+    "wiki/concepts/Content Validity (Training Criteria).md": "c-000332",
+    "wiki/entities/George M. Alliger.md": "c-000333",
+    "wiki/entities/Scott I. Tannenbaum.md": "c-000334",
+    "wiki/sources/bell-et-al-2017-100-years-training-development.md": "c-000335",
+    "wiki/concepts/Active Learning (Training).md": "c-000336",
+    "wiki/concepts/Technology-Based Training.md": "c-000337",
+    "wiki/concepts/Training Context and Transfer Climate.md": "c-000338",
+    "wiki/concepts/Training Needs Analysis.md": "c-000339",
+    "wiki/concepts/Trainee Characteristics.md": "c-000340",
+    "wiki/entities/Bradford S. Bell.md": "c-000341",
+    "wiki/entities/Raymond A. Noe.md": "c-000343",
+    "wiki/sources/jebb-ng-tay-2021-likert-scale-advances.md": "c-000344",
+    "wiki/concepts/Likert Scale Development.md": "c-000345",
+    "wiki/concepts/Construct Validity.md": "c-000346",
+    "wiki/concepts/Construct Definition.md": "c-000347",
+    "wiki/concepts/Readability Tests for Survey Items.md": "c-000348",
+    "wiki/concepts/Coefficient Omega.md": "c-000349",
+    "wiki/concepts/Ant Colony Optimization (Scale Shortening).md": "c-000350",
+    "wiki/entities/Andrew T. Jebb.md": "c-000351",
+    "wiki/entities/Louis Tay.md": "c-000352",
+    "wiki/sources/judge-kammeyer-mueller-2012-job-attitudes.md": "c-000353",
+    "wiki/concepts/Job Attitudes.md": "c-000354",
+    "wiki/concepts/Job Satisfaction.md": "c-000355",
+    "wiki/concepts/Organizational Commitment.md": "c-000356",
+    "wiki/concepts/Affective Events Theory.md": "c-000357",
+    "wiki/concepts/Core Self-Evaluations.md": "c-000358",
+    "wiki/concepts/Experience-Sampling Methodology.md": "c-000359",
+    "wiki/concepts/Job Performance (Outcomes of Job Attitudes).md": "c-000360",
+    "wiki/entities/Timothy A. Judge.md": "c-000361",
+    "wiki/entities/John D. Kammeyer-Mueller.md": "c-000362",
+    "wiki/concepts/Dispositional Antecedents of Job Attitudes.md": "c-000363",
+    "wiki/concepts/Situational Antecedents of Job Attitudes.md": "c-000364",
+    "wiki/sources/lord-et-al-2017-leadership-in-applied-psychology.md": "c-000365",
+    "wiki/concepts/Three Waves of Leadership Research.md": "c-000366",
+    "wiki/concepts/Trait Paradigm (Leadership).md": "c-000367",
+    "wiki/concepts/Leader Behavior and Ohio State Studies.md": "c-000368",
+    "wiki/concepts/Implicit Leadership Theories.md": "c-000369",
+    "wiki/concepts/Contingency Theories of Leadership.md": "c-000370",
+    "wiki/concepts/Transformational and Charismatic Leadership.md": "c-000371",
+    "wiki/concepts/Leader-Member Exchange (LMX).md": "c-000372",
+    "wiki/concepts/Gender and Leadership.md": "c-000373",
+    "wiki/concepts/Team Leadership.md": "c-000374",
+    "wiki/concepts/Shared Leadership.md": "c-000375",
+    "wiki/entities/Robert G. Lord.md": "c-000376",
+    "wiki/entities/David V. Day.md": "c-000377",
+    "wiki/entities/Bruce J. Avolio.md": "c-000378",
+    "wiki/entities/Alice H. Eagly.md": "c-000379",
+    "wiki/entities/Stephen J. Zaccaro.md": "c-000380",
+    "wiki/sources/shrout-rodgers-2018-replication-crisis.md": "c-000381",
+    "wiki/concepts/Power Analysis (Replication Studies).md": "c-000384",
+    "wiki/concepts/Effect Size Heterogeneity.md": "c-000385",
+    "wiki/concepts/Replication Types Taxonomy.md": "c-000386"
+  },
+  ".raw/Pearsall et al. - 2025 - A stimulus-based model of the team adaptation process An integrated conceptual review..pdf": {
+    "hash": "62f683006d3323a67c67fc23621f632a",
+    "ingested_at": "2026-06-01",
+    "pages_created": [
+      "wiki/sources/pearsall-christian-croitoru-2025-team-adaptation.md",
+      "wiki/concepts/Team Adaptation (Stimulus-Based Model).md",
+      "wiki/concepts/Adaptive Stimulus.md",
+      "wiki/concepts/Stimulus Detection (Team Adaptation).md",
+      "wiki/concepts/Urgency Assessment (Team Adaptation).md",
+      "wiki/concepts/Duration Assessment (Team Adaptation).md",
+      "wiki/concepts/Reflexive Learning (Team Adaptation).md"
+    ]
   }
 }

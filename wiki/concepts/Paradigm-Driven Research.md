@@ -2,6 +2,9 @@
 title: Paradigm-Driven Research
 address: c-000073
 created: 2026-05-20
+type: concept
+status: developing
+updated: 2026-05-20
 tags:
   - research-methods
   - replication

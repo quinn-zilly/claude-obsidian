@@ -2,7 +2,7 @@
 address: c-000075
 type: source
 title: "Ten Catalysts to Spark On-the-Job Development in Your Organization"
-authors:
+author:
   - "[[Paul Yost]]"
   - "[[Mary Plunkett]]"
 year: 2010
@@ -16,6 +16,7 @@ tags:
   - organizational-learning
   - talent-management
 created: 2026-05-21
+updated: 2026-05-21
 status: evergreen
 ---
 
@@ -85,4 +86,4 @@ Reward systems must reinforce development alongside performance. Promote leaders
 
 ## References Cited
 
-Baldwin & Ford (1988); Higgins & Kram (2001); Lombardo & Eichinger (1988); McCall et al. (1988); McCauley (2006); Van Velsor & Leslie (1995); Watkins (2009); Yost & Plunkett (2009, 2010)
+Baldwin & Ford (1988); Higgins & Kram (2001); Lombardo & Eichinger (1988); McCall et al. 

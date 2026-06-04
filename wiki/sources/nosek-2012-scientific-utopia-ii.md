@@ -2,11 +2,16 @@
 type: source
 address: c-000069
 title: "Scientific Utopia II: Restructuring Incentives and Practices to Promote Truth Over Publishability"
-authors: Brian A. Nosek, Jeffrey R. Spies, Matt Motyl
+author:
+  - "[[Brian Nosek]]"
+  - "Jeffrey R. Spies"
+  - "Matt Motyl"
 year: 2012
 publication: Perspectives on Psychological Science, 7(6), 615–631
 date: 2012
 created: 2026-05-20
+status: developing
+updated: 2026-05-20
 source_type: academic_paper
 doi: 10.1177/1745691612459058
 tags:
@@ -196,7 +201,7 @@ The "ultimate solution" involves three dimensions of openness:
 ## Key Concepts Introduced or Developed
 
 - [[Motivated Reasoning]]: Using reasoning to justify conclusions we already want to reach
-- [[Conflict of Interest]]: Personal incentives (publishing) vs. institutional goals (accuracy)
+- [[Conflict of Interest in Science]]: Personal incentives (publishing) vs. institutional goals (accuracy)
 - [[File-Drawer Problem]]: Selective reporting of positive results; negative results hidden
 - [[P-hacking]]: Multiple analysis choices that inflate false positive rate
 - [[Replication Crisis]]: Growing realization that many published findings are false
@@ -212,7 +217,7 @@ The "ultimate solution" involves three dimensions of openness:
 - Greenwald (1975), Rosenthal (1979): Long-standing concerns about publication bias
 
 **Influences and is cited by:**
-- [[Munafò et al. 2017]]: Manifesto for reproducible science
+- [[munafo-2017-manifesto|Munafò et al. 2017]]: Manifesto for reproducible science
 - [[LeBel et al. 2018]]: Credibility framework
 - [[Open Science Collaboration 2015]]: Reproducibility of psychological science project
 
@@ -241,6 +246,4 @@ The paper reframes the problem: not fraud or incompetence, but ordinary human ps
 
 ## Impact and Legacy
 
-Published in 2012, this paper became foundational to the open science movement. It connected the replication crisis to incentive structures and proposed concrete, implementable reforms. Unlike previous calls for better practices, it acknowledged the power of incentives and proposed solutions that work with (not against) human motivation.
-
-The paper's clarity about what works vs. doesn't work has proven durable. Its recommendations—preregistration, open data, open workflow—have been increasingly adopted across disciplines.
+Published in 2012, this paper became foundational to the open science movement. It connected the replication crisis to incentive structures and proposed concrete, implementable reforms. Unlike previous calls for better practices, it acknowledged the power of incentives and proposed soluti

@@ -17,6 +17,8 @@ related:
   - "[[metaBUS]]"
   - "[[Etienne LeBel]]"
   - "[[lebel-2018-credibility-framework]]"
+  - "[[nosek-2022-replicability-robustness-reproducibility]]"
+  - "[[Robustness (Science)]]"
 created: unknown
 updated: unknown
 ---
@@ -33,6 +35,13 @@ This is distinct from:
 - **Replication** (new data, independent study) — a stronger test
 - **Analytic robustness** (alternative defensible analyses of same data) — a broader test
 - **Transparency** (data and code availability) — a prerequisite for analytic reproducibility
+
+## Two Failure Modes (Nosek et al. 2022)
+
+- **Process reproducibility failure**: original analysis can't be repeated — data, code, or software unavailable
+- **Outcome reproducibility failure**: reanalysis gets different number — error in original or reproduction
+
+Process failure = can't verify. Outcome failure = suggests original may be wrong. Either undermines credibility and reduces case for investing in replication. Artner et al. (2020): only 70% of 232 findings successfully reproduced.
 
 ## Why It Matters
 

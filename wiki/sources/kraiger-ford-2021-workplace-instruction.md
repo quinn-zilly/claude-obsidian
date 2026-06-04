@@ -4,9 +4,9 @@ title: "The Science of Workplace Instruction: Learning and Development Applied t
 slug: kraiger-ford-2021-workplace-instruction
 type: source
 domain: leadership-dev
-authors:
-  - Kurt Kraiger
-  - J. Kevin Ford
+author:
+  - "[[Kurt Kraiger]]"
+  - "[[J. Kevin Ford]]"
 year: 2021
 publication: "Annual Review of Organizational Psychology and Organizational Behavior"
 volume: 8
@@ -14,6 +14,7 @@ pages: "4.1–4.28"
 doi: "10.1146/annurev-orgpsych-012420-060109"
 tags: [training, learning, instruction, workplace-learning, instructional-principles]
 created: 2026-05-21
+updated: 2026-05-21
 status: evergreen
 related:
   - "[[Science of Workplace Instruction]]"
@@ -103,4 +104,4 @@ VR, simulations, serious games show meta-analytic effectiveness for physical/ski
 - **[[Transactive Memory Systems]] ↔ Instructional Principles:** TMS encoding (who knows what) is supported by same principles (spaced practice, retrieval, identical elements) — TMS is partially an instructional design problem
 - **[[70-20-10 Rule]] ↔ Instructional Principles:** 70% (experience) = informal/self-directed learning; Kraiger & Ford show why this 70% is often *ineffective* without designed-in principles; bridges 70-20-10 critique literature
 - **[[Replication Crisis]] ↔ ATI pursuit:** ATI research itself shows hallmarks of underpowered, heterogeneous effects — parallel critique structure
-- **[[Knowing-Doing Gap]]:** Organizations adopt training trends (VR, gamification) without evidence base — parallel to Giner-Sorolla aesthetic standards argument
+- **[[Knowing-Doing Gap]]:** Organizations adopt training tre

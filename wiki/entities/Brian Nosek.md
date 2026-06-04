@@ -21,8 +21,9 @@ related:
   - "[[nosek-2012-scientific-utopia-ii]]"
   - "[[open-science-collaboration-2015]]"
   - "[[munafo-2017-manifesto]]"
+  - "[[nosek-2022-replicability-robustness-reproducibility]]"
 created: unknown
-updated: unknown
+updated: 2026-05-22
 ---
 
 # Brian Nosek
@@ -41,7 +42,8 @@ Brian A. Nosek is a social psychologist and the founder/executive director of th
 - **[[nosek-2012-scientific-utopia-ii|"Scientific Utopia II" (2012)]]** — *Perspectives on Psychological Science* — with Spies & Motyl; restructuring incentives to promote truth over publishability; proposes [[Open Workflow]], [[Open Data]], [[Paradigm-Driven Research]]
 - **[[nosek-2018-preregistration|"The Preregistration Revolution" (2018)]]** — PNAS — theoretical and practical case for preregistration
 - **[[munafo-2017-manifesto]]** — co-author; reform program for reproducible science
-- **Transparency and Openness Promotion (TOP) Guidelines** — Nosek et al. 2015 in Science; adopted by 757+ journals as of 2016
+- **[[nosek-2022-replicability-robustness-reproducibility|"Replicability, Robustness, and Reproducibility" (2022)]]** — *Annual Review of Psychology* — 16-author review of 10 years of replication evidence; three R's framework; Rogers diffusion model for culture change
+- **Transparency and Openness Promotion ([[TOP Guidelines]])** — Nosek et al. 2015 in Science; adopted by 757+ journals as of 2016
 - **Registered Reports**: co-developed the format; advocated for journal adoption
 - **Project Implicit** (projectimplicit.net) — large-scale implicit bias research infrastructure; precursor to OSF model of distributed science
 - **Open Science Framework (OSF)** — co-developed; maintained by COS; primary platform for preregistration and open data archiving

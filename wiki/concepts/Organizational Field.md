@@ -14,6 +14,8 @@ related:
   - "[[dimaggio-powell-1983-institutional-isomorphism]]"
   - "[[Paul DiMaggio]]"
   - "[[Walter Powell]]"
+  - "[[Institutional Change Pathways]]"
+  - "[[micelotta-2017-pathways-institutional-change]]"
 ---
 
 # Organizational Field
@@ -47,3 +49,4 @@ Fields typically show initial diversity (varied approaches, experimentation) fol
 - [[Institutional Isomorphism]]: the field is the arena within which isomorphic pressures operate
 - [[Knowledge Transfer]]: inter-organizational knowledge flows are structured by field membership and position
 - [[Organizational Learning]]: field-level structuration shapes what models are visible and available for mimetic learning
+- [[Institutional Change Pathways]]: the field is the arena within which all four change pathways operate; Micelotta et al. (2017) extend the field concept by emphasizing pluralistic fields with multiple coexisting logics

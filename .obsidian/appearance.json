@@ -4,5 +4,7 @@
     "ITS-Dataview-Cards",
     "ITS-Image-Adjustments"
   ],
-  "cssTheme": "Obsidian Nord"
+  "cssTheme": "Obsidian Nord",
+  "theme": "system",
+  "accentColor": ""
 }

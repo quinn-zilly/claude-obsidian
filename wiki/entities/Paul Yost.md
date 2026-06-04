@@ -10,6 +10,7 @@ tags:
   - leadership-development
   - I-O-psychology
 created: 2026-05-21
+updated: 2026-05-21
 status: evergreen
 ---
 

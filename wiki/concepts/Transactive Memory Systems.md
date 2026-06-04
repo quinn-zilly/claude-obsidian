@@ -11,6 +11,8 @@ sources:
   - "[[argote-2011-org-learning-experience]]"
   - "[[argote-2021-organizational-learning]]"
   - "[[zahra-2020-knowledge-integration]]"
+  - "[[shuffler-et-al-2011-team-development-interventions]]"
+  - "[[Team Adaptation (Stimulus-Based Model)]]"
 related:
   - "[[Organizational Learning]]"
   - "[[Knowledge Integration]]"

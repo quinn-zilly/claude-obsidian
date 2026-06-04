@@ -22,8 +22,13 @@ related:
   - "[[Analytic Reproducibility]]"
   - "[[open-science-collaboration-2015]]"
   - "[[munafo-2017-manifesto]]"
+  - "[[nosek-2022-replicability-robustness-reproducibility]]"
+  - "[[shrout-rodgers-2018-replication-crisis]]"
+  - "[[Power Analysis (Replication Studies)]]"
+  - "[[Effect Size Heterogeneity]]"
+  - "[[Replication Types Taxonomy]]"
 created: unknown
-updated: unknown
+updated: 2026-05-22
 ---
 
 # Replication Crisis
@@ -79,6 +84,14 @@ The replication crisis has catalyzed:
 
 The replication crisis is also a **knowledge quality problem**: the accumulated literature is a knowledge repository whose entries may be systematically incorrect. From a KM perspective ([[Knowledge Retention]], [[Knowledge Management]]), this means the organization (science) has stored unreliable knowledge, reducing the ROI on prior knowledge creation. The open science movement is a knowledge quality improvement program.
 
+## Shrout & Rodgers (2018) — A More Sanguine View
+
+Shrout & Rodgers argue the crisis has been over-interpreted. The 36% replication rate is **statistically expected** given underpowered studies and effect size heterogeneity — Maxwell et al. (2015) demonstrate this formally. Key additions to the standard account:
+- The nonlinearity of the power-n relationship makes even "powered" studies underpowered when effect sizes are uncertain (see [[Power Analysis (Replication Studies)]])
+- Effect size variation across contexts is theoretically meaningful, not pathological (see [[Effect Size Heterogeneity]])
+- Preregistration and OSF are the most important reforms; single-study replication decisions should be replaced by multiple-study effect distribution estimation
+- See [[shrout-rodgers-2018-replication-crisis]]
+
 ## See Also
 
 - [[open-science-collaboration-2015]] — primary empirical evidence
@@ -87,3 +100,4 @@ The replication crisis is also a **knowledge quality problem**: the accumulated 
 - [[lebel-2018-credibility-framework]] — multidimensional credibility assessment
 - [[uhlmann-2019-crowdsourcing-science|Uhlmann et al. (2019)]] — [[Crowdsourcing Science]] as structural reform; [[Many Labs]] synthesis (47% replication across 190 effects in 6 initiatives); non-replicable effects fail consistently across populations; [[Vertical Integration (Science)]] as structural contributor to crisis
 - [[giner-sorolla-2012-science-or-art|Giner-Sorolla (2012)]] — information-economic root cause account; [[Publication Bottleneck]] + [[Aesthetic Standards in Science]] as the mechanism by which incentive misalignment becomes systematic; explains why 1970s solutions failed
+- [[yarkoni-westfall-2017-prediction-vs-explanation|Yarkoni & Westfall (2017)]] — statistical mechanism account: replication failure = out-of-sample prediction failure; p-hacking reframed as [[Procedural Overfitting]]; solutions: [[Cross-Validation]], [[Regularization]], [[Bias-Variance Tradeoff]]

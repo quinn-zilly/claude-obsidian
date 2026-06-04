@@ -23,7 +23,7 @@ related:
 
 # Wiki Index
 
-Last updated: 2026-05-21 | Total pages: 134 | Sources ingested: 23
+Last updated: 2026-06-03 | Total pages: 370 | Sources ingested: 47
 
 Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[getting-started]]
 
@@ -31,6 +31,16 @@ Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[
 
 ## Concepts
 
+- [[Active Learning (Training)]] — learner as active participant; guided exploration, error management, mastery framing; Bell et al. 2017 Theme 3 centerpiece (status: developing)
+- [[Technology-Based Training]] — e-learning, CAI, simulations; media irrelevance (Clark 1994); design not media determines effectiveness; blended learning gap (status: developing)
+- [[Training Context and Transfer Climate]] — what happens before/after training; supervisor support, transfer climate (Tracey et al. 1995), expectation setting, work experience as development (status: mature)
+- [[Training Needs Analysis]] — identifying training needs; major empirical gap despite prescriptive importance; rapid needs assessment urgent (status: developing)
+- [[Trainee Characteristics]] — GMA, self-efficacy, goal orientation, personality; within-person self-efficacy reversal; trainability distinct from job success (status: mature)
+- [[Kirkpatrick Four-Level Model]] — dominant training evaluation taxonomy (Reactions/Learning/Behavior/Results); empirically weak inter-level correlations (status: evergreen)
+- [[Augmented Training Criteria Framework]] — Alliger et al. 1997 refinement splitting reactions and learning into sub-types (status: evergreen)
+- [[Training Reactions (Affective vs Utility)]] — affective ≈ 0 correlation with learning; utility reactions predict transfer better than learning measures (status: evergreen)
+- [[Training Transfer]] — on-the-job application of trained skills; function of learning AND work environment favorability (status: evergreen)
+- [[Content Validity (Training Criteria)]] — content overlap moderates inter-criterion correlations; close-close r=.16 vs. divergent-close r=.04 (status: evergreen)
 - [[LLM Wiki Pattern]] — the pattern for building persistent, compounding knowledge bases using LLMs (status: mature)
 - [[Hot Cache]] — ~500-word session context file, updated after every ingest and session (status: mature)
 - [[Compounding Knowledge]] — why wiki knowledge grows more valuable over time, unlike RAG (status: mature)
@@ -55,19 +65,65 @@ Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[
 - [[Knowledge Retention]] — embedding knowledge in distributed repositories so it persists over time (developing)
 - [[Knowledge-Based Theory of the Firm]] — Grant (1996); firm as knowledge integrator; four integration mechanisms; common knowledge (developing)
 - [[Microfoundations]] — individual-level mechanisms underlying collective outcomes; additive vs. emergent aggregation (developing)
+- [[Team Adaptation (Stimulus-Based Model)]] — 6-phase model: stimulus detection → urgency assessment → duration assessment → adaptive response → reflexive learning → knowledge/skill acquisition; Pearsall et al. 2025 (developing)
+- [[Adaptive Stimulus]] — demand/problem/disruption requiring purposeful collective behavior change; typology: proximity × magnitude × duration (developing)
+- [[Stimulus Detection (Team Adaptation)]] — Phase 1; external focus, boundary spanning, peripheral member coordination enable early detection (developing)
+- [[Urgency Assessment (Team Adaptation)]] — Phase 2; proximity × magnitude → prioritization; construal level theory; emotional alarm bells (developing)
+- [[Duration Assessment (Team Adaptation)]] — Phase 3; temporary vs. sustained expectation drives response strategy; continuous not binary (developing)
+- [[Reflexive Learning (Team Adaptation)]] — Phase 5; within-episode updating of urgency/duration assessments and microadjustment of behaviors (developing)
+- [[Knowledge and Skill Acquisition (Team Adaptation)]] — Phase 6; post-episode learning → improved future adaptability; adaptive strategies, collective efficacy, mental models (developing)
+- [[Team Debriefing]] — post-episode reflection on process; 20–25% performance increase; ~18 min; AAR, guided self-correction; psych safety required (mature)
+- [[Leadership Training (Teams)]] — 29% improvement meta-analytic effect; transformational/empowering leadership → team outcomes; cognitive/skill > affective (developing)
+- [[Psychological Safety]] — mutual belief team won't punish speaking up; cross-cutting enabler for training and debriefing; #1 Google team predictor (developing)
+- [[Teamwork Processes (Marks et al. Taxonomy)]] — 10 narrow → 3 intermediate (transition/action/interpersonal) → 1 general factor; all ρ ≈ .29 with performance; stronger when interdependence high (mature)
+- [[Emergent States (Teams)]] — cohesion, potency, TMS; both antecedents and outcomes of processes; IMOI model (developing)
+- [[Team Development Interventions]] — team building vs. team training; distinct targets, mechanisms, and outcome profiles; science-based design required (mature)
+- [[Team Building]] — four approaches: goal setting, interpersonal relationships, role clarification, problem solving; best for affect/process outcomes (mature)
+- [[Team Training]] — cross-training, self-correction, coordination, CRM; best for cognitive/performance outcomes (mature)
+- [[Trait Activation Theory]] — traits as latent potentials activated by trait-relevant situational cues; TAT moderator framework; 60% significance rate across 262 tests (mature)
+- [[Situational Cue Types (TAT)]] — six functional types: demands, distracters, constraints, releasers, facilitators, discretionary cues (mature)
+- [[Personality Dynamics (TAT)]] — 5×5 matrix: five TAT issues × five personality dynamics research lines (developing)
+- [[Situation Strength]] — trait-general situational constraint; related to but distinct from TAT trait relevance (developing)
+- [[Five-Factor Model]] — OCEAN/Big Five personality taxonomy; primary taxonomy in TAT research (developing)
+- [[Person–Environment Fit]] — demands-abilities + needs-supplies fit; TAT uniquely spans both via traits-as-needs (developing)
+- [[Framing (Organizational Theory)]] — multi-level review of framing: micro cognitive frames, meso meaning construction, macro field/institutional frames; priming/framing distinction; Cornelissen & Werner 2014 (developing)
+- [[Cognitive Frame]] — knowledge schema that directs perception and inference; top-down/theory-driven; Carnegie tradition; sensemaking foundation (developing)
+- [[Priming vs Framing]] — key distinction: priming = accessing existing schemas (top-down); framing = socially constructing new meaning (bottom-up); Cornelissen & Werner 2014 (developing)
+- [[Strategic Framing]] — purposeful rhetoric to reshape others' interpretive frames; framing contests; cultural entrepreneurs; Kaplan 2008; Fiss & Zajac 2006 (developing)
+- [[Collective Action Frame]] — social movement framing: diagnostic/prognostic/motivational tasks; four alignment processes; Benford & Snow 2000 (developing)
+- [[Field Frame]] — endogenous field-level interpretive convention; emerges from framing struggles; bridges micro agency and macro institutionalization; Lounsbury et al. 2003 (developing)
+- [[Institutional Frame]] — naturalized, taken-for-granted cognitive frame; "dead metaphor"; structures expectations invisibly; Weber & Glynn 2006 (developing)
+- [[Sensemaking (Organizational)]] — Weick 1995; cue + relation + frame = meaning; sensebreaking; Mann Gulch; cognitive basis of framing at micro level (developing)
+- [[Technological Frame]] — collectively constructed assumptions about technology's nature and appropriate use; Orlikowski & Gash 1994; congruence debates (developing)
 - [[Institutional Isomorphism]] — three mechanisms (coercive, mimetic, normative) by which organizations in a field converge structurally without efficiency gains (developing)
 - [[Organizational Field]] — the totality of relevant actors constituting a recognized area of institutional life; unit of analysis for isomorphism theory (developing)
-- [[Replication Crisis]] — systematic failures of replication in psychology; root causes: publication bias, p-hacking, HARKing (mature)
+- [[Institutional Change Pathways]] — 2×2 typology: scope (transformational/developmental) × pace (revolutionary/evolutionary) yields Displacement, Alignment, Accommodation, Accretion (developing)
+- [[Institutional Entrepreneurship]] — agentic turn in institutional theory; paradox of embedded agency; cultural vs. disruptive strategies; key blind spots (developing)
+- [[Institutional Displacement]] — revolutionary + transformational: field-level overhaul via shocks or disruptive mobilization (developing)
+- [[Institutional Alignment]] — evolutionary + developmental: gradual embedding of innovation without displacing existing arrangements (developing)
+- [[Institutional Accommodation]] — revolutionary + developmental: disruptive forces dampened into incremental settlement (understudied) (developing)
+- [[Institutional Accretion]] — evolutionary + transformational: micro-level improvisations accumulate to produce field-level transformation (least studied) (developing)
+- [[Prediction vs Explanation (Psychology)]] — statistical and pragmatic tension between explanatory and predictive science; machine learning as solution; Yarkoni & Westfall 2017 (developing)
+- [[Overfitting]] — model fitting sample-specific noise; training error ≠ test error; primary ML problem (developing)
+- [[Training vs Test Error]] — fundamental gap between in-sample fit and out-of-sample prediction accuracy (developing)
+- [[Bias-Variance Tradeoff]] — total prediction error = bias² + variance; unavoidable tradeoff; deliberate bias can reduce total error (developing)
+- [[Procedural Overfitting]] — p-hacking reframed as human-analyst overfitting; constraining researcher df is regularization (developing)
+- [[Cross-Validation]] — K-fold CV; estimates test error without new data; standard in ML, largely absent from psychology ca. 2017 (developing)
+- [[Regularization]] — penalized regression (lasso, ridge); deliberate bias to reduce variance; shrinkage methods (developing)
+- [[Replication Crisis]] — systematic failures of replication in psychology; root causes: publication bias, p-hacking, HARKing; Shrout & Rodgers argue 36% rate is statistically expected (mature)
+- [[Power Analysis (Replication Studies)]] — standard power analysis is flawed for replications; corrected approaches account for effect size uncertainty and heterogeneity (developing)
+- [[Effect Size Heterogeneity]] — effect sizes vary by person, context, and lab; theoretically meaningful, not mere noise; key for replication interpretation (developing)
+- [[Replication Types Taxonomy]] — direct/exact → systematic → conceptual continuum; all informative; different inferences (developing)
 - [[Open Science]] — transparency, open data, preregistration; reform movement for credible knowledge accumulation (mature)
 - [[Preregistration]] — committing to research design before data collection; separates confirmatory from exploratory (mature)
-- [[Conflict of Interest in Science]] — fundamental tension between personal incentive (publication) and institutional goal (accuracy); misalignment causes [[motivated reasoning]] and [[P-hacking]]; resolved via [[Open Workflow]], open data, incentive restructuring (developing)
+- [[Conflict of Interest in Science]] — fundamental tension between personal incentive (publication) and institutional goal (accuracy); misalignment causes [[Motivated Reasoning]] and [[P-hacking]]; resolved via [[Open Workflow]], open data, incentive restructuring (developing)
 - [[Motivated Reasoning]] — unconscious cognitive bias toward conclusions we're motivated to reach; ordinary human psychology that explains how [[Publication Bias]] becomes systematic despite ethical intent (developing)
 - [[Open Workflow]] — transparency in research process (preregistration, analysis plans, workflow documentation); solves [[HARKing]], file-drawer effect, outcome switching; model: [[clinicaltrials.gov]] (developing)
 - [[Paradigm-Driven Research]] — systematic variation of single established procedure rather than wholesale methodology reinvention; incorporates replication + extension; reduces waste, increases cumulation (developing)
 - [[Registered Reports]] — in-principle journal acceptance before results known; eliminates publication bias (developing)
 - [[Publication Bias]] — file drawer problem; positive results disproportionately published; inflates effect sizes (developing)
 - [[P-hacking]] — analytic flexibility inflating false-positive rates; garden of forking paths (developing)
-- [[HARKing]] — Hypothesizing After Results are Known; post-hoc hypotheses presented as a priori (developing)
+- [[HARKing]] — Hypothesizing After Results are Known; post-hoc hypotheses presented as a priori; three forms: classic, omission, pirating (mature)
 - [[Analytic Reproducibility]] — reproducing published results from same data; second dimension of credibility framework (developing)
 - [[Open Access]] — freely accessible scientific literature; gold vs green OA models; $900M savings argument; pillar of open science (developing)
 - [[Scientific Communication Reform]] — unbundling registration, dissemination, peer review, and archiving; six reforms from Nosek & Bar-Anan (developing)
@@ -76,6 +132,110 @@ Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[
 - [[DBpedia]] — structured knowledge from 111 Wikipedia editions; 400M+ facts; central LOD hub (developing)
 - [[Linked Open Data]] — RDF/SPARQL-based best practices for publishing and connecting structured web data (developing)
 - [[On-the-Job Development]] — OJD; 70% of leadership development; experiences over training; ten catalysts to hardwire into HR (developing)
+- [[Work Motivation Meta-Framework (Kanfer)]] — content × context × process tripartite org of 100yr motivation research; goals = nexus of why→how; motivation as dynamic resource allocation (evergreen)
+- [[Resource Allocation Theory (Motivation)]] — Kanfer & Ackerman 1989; motivation = allocation of limited attentional resources across goals; self-regulation competes with task demands on complex tasks (developing)
+- [[Action Regulation Theory]] — Frese & Zapf 1994; plans bridge goal choice → striving; hierarchical action structure; personal initiative (developing)
+- [[Ego Depletion]] — Baumeister et al. 1998; finite self-regulatory resource; depletes with self-control; recovery via rest/mastery/sleep; empirically challenged (developing)
+- [[Regulatory Focus Theory]] — Higgins 1997; promotion (maximize gains) vs. prevention (minimize losses); promotion → productivity+well-being; prevention → safety (developing)
+- [[Job Attitudes]] — evaluations of one's job expressing feelings, beliefs, and attachment; traitlike + statelike; hierarchical structure; Judge & Kammeyer-Mueller 2012 review (evergreen)
+- [[Job Satisfaction]] — evaluative state expressing contentment with one's job; most researched attitude in OB; global vs. facet (JDI: work, pay, supervision, coworkers, promotion); work satisfaction = most central facet (evergreen)
+- [[Organizational Commitment]] — psychological bond with organization; three-component model (affective, continuance, normative); affective commitment has highest validity; Solinger et al. critique (evergreen)
+- [[Affective Events Theory]] — Weiss & Cropanzano 1996; work events → affect → affect-driven behaviors; separates affect-driven (OCB, withdrawal) from cognition-driven (turnover) behavior pathways (evergreen)
+- [[Core Self-Evaluations]] — Judge et al. 1997; self-esteem + generalized SE + locus of control + emotional stability; rc = .37 with job satisfaction; most consistent dispositional predictor (evergreen)
+- [[Experience-Sampling Methodology]] — ESM; repeated momentary assessment of attitudes/affect; ~1/3–1/2 of job satisfaction variance is within-person; motivated by AET and affective nature of attitudes (evergreen)
+- [[Dispositional Antecedents of Job Attitudes]] — personality predictors of job satisfaction; Staw et al. 1986 longitudinal; twins study; Big Five; CSEs most consistent; interactionist integration (developing)
+- [[Situational Antecedents of Job Attitudes]] — job characteristics, social environment, leadership (consideration rc = .78), org. practices (justice), time (honeymoon-hangover pattern) (developing)
+- [[Job Performance (Outcomes of Job Attitudes)]] — task performance, OCB, withdrawal/turnover, creativity, org-level performance; bandwidth-fidelity principle; satisfaction → performance direction (Riketta 2008) (developing)
+- [[Job Characteristics Model]] — Hackman & Oldham 1975; 5 features → 3 psychological states → internal motivation; task meaningfulness = strongest mediator (developing)
+- [[Proactive Engagement]] — vigor + dedication + absorption; personal initiative (Frese); job crafting (Wrzesniewski); self-directed goal pursuit beyond role requirements (developing)
+- [[Goal-Setting Theory]] — GST; Locke & Latham; difficult specific goals → highest performance via 4 mechanisms (direction, effort, persistence, strategy); d = .52–.82; moderated by commitment, feedback, task complexity (evergreen)
+- [[Self-Efficacy (Goal Setting)]] — task-specific confidence; mediates goal → performance; raised by mastery, modeling, persuasion; resolves GST vs. expectancy theory contradiction (evergreen)
+- [[High-Performance Cycle]] — high goals → performance → rewards → satisfaction + SE → higher goals; explains weak job satisfaction–productivity link (developing)
+- [[Goal Commitment]] — strongest moderator when goals difficult; antecedents: outcome importance + SE; participation = cognitive benefit not motivational (developing)
+- [[Learning Goals vs Performance Goals]] — learning goals superior on complex/novel tasks; performance goals superior on well-learned tasks; Winters & Latham 1996 (developing)
+- [[Situational Interview]] — Latham et al. 1980; goal/intention-based selection; highest criterion-related validity of any interview type (developing)
+- [[Self-Determination Theory]] — SDT; Ryan & Deci; three innate needs (autonomy, competence, relatedness); conditions that foster vs. thwart self-motivation and well-being (evergreen)
+- [[Basic Psychological Needs (SDT)]] — competence + autonomy + relatedness; satisfaction → well-being; deprivation → ill-being; innate, universal, all three required (evergreen)
+- [[Autonomy (SDT)]] — volition + internal locus of causality; ≠ independence; critical for intrinsic motivation and for integration of extrinsic regulation (evergreen)
+- [[Competence (SDT)]] — need to feel effective and to master challenges; feeds intrinsic motivation (needs co-occurring autonomy); supports internalization (developing)
+- [[Relatedness (SDT)]] — need for connectedness and belonging; distal support for intrinsic motivation; primary driver of initial internalization (developing)
+- [[Intrinsic Motivation]] — doing for inherent satisfaction; evolved propensity; supported by autonomy + competence + relatedness supports; undermined by contingent rewards and control (evergreen)
+- [[Extrinsic Motivation]] — performing for separable outcome; varies on self-determination continuum from external → introjected → identified → integrated; more autonomous → better outcomes (evergreen)
+- [[Cognitive Evaluation Theory]] — CET; SDT subtheory; specifies social-contextual conditions that facilitate vs. undermine intrinsic motivation; focuses on competence + autonomy needs (evergreen)
+- [[Organismic Integration Theory]] — OIT; SDT subtheory; details forms of extrinsic motivation and conditions promoting internalization/integration; the self-determination continuum (evergreen)
+- [[Internalization (SDT)]] — taking in and transforming external values into self; facilitated by relatedness (initial), competence (adoption), autonomy (integration); applied across education, health, work (evergreen)
+- [[Causality Orientations Theory]] — COT; stable individual differences in autonomy/controlled/impersonal orientations; predicts regulatory style above Big Five; COT confirmed in meta-analyses (evergreen)
+- [[Goal Contents Theory]] — GCT; intrinsic vs. extrinsic aspirations; intrinsic → well-being r = .24; extrinsic relative centrality → well-being r = −.22; mediated by need satisfaction (evergreen)
+- [[Relationships Motivation Theory]] — RMT; newest SDT mini-theory; high-quality relationships require need satisfaction + autonomy support within relationship; zero meta-analyses to date (stub)
+- [[Basic Psychological Needs Theory]] — BPNT; formal mini-theory for the three needs; key distinction: satisfaction vs. frustration are distinct constructs; competence sat → affect r = .45 (evergreen)
+- [[Need Frustration (SDT)]] — active thwarting of needs ≠ merely low satisfaction; distinct construct; predicts ill-being and psychopathology; not yet meta-analyzed (evergreen)
+- [[Perceived Locus of Causality]] — PLOC; internal vs. external origin of behavior; de Charms 1968; distinct from locus of control; phenomenological correlate of OIT continuum (evergreen)
+- [[Behaviour Change Determinants]] — taxonomy of individual and social-structural determinants; correlational vs. intervention effect size hierarchy; Albarracín et al. 2024 (developing)
+- [[Descriptive Norms]] — perceived frequency of a behaviour in a population; small intervention effect (OR≈2.20); role models most effective; Albarracín et al. 2024 (developing)
+- [[Injunctive Norms]] — perceived approval of a behaviour by others; small intervention effect (d=0.34); distinct from descriptive norms (developing)
+- [[Habits (Behaviour)]] — automated, repeated behaviours persisting without rewards; largest individual-level intervention target (medium, OR≈2.65); Albarracín et al. 2024 (developing)
+- [[Behavioural Access Interventions]] — material/logistic resources enabling behaviour; largest overall intervention effect (large, OR≈4.89); Albarracín et al. 2024 (developing)
+- [[Social Support (Behaviour)]] — informational/instrumental help for a specific behavioural goal; medium intervention effect (OR≈2.53); distinct from norms (developing)
+- [[Reasoned Action Approach]] — Fishbein & Ajzen 2011; beliefs → attitudes → intentions → behaviour; injunctive norms; perceived behavioural control (developing)
+- [[Information-Motivation-Behavioural Skills Model]] — Fisher & Fisher 1992/2006; IMB model; information + motivation + behavioural skills → behaviour; HIV prevention origins (developing)
+- [[Correlation-Intervention Gap (Behaviour)]] — systematic pattern where correlational effect sizes overestimate intervention efficacy for every behavioural determinant; Albarracín et al. 2024 (developing)
+- [[Judgment and Decision Making (Field)]] — JDM field overview; dual descriptive/normative theme; major research programs; updated Fischhoff & Broomell 2020 (evergreen)
+- [[Calibration (Judgment)]] — confidence matches accuracy; overconfidence on hard tasks; scoring rules; Good Judgment Project; conditions for learning (evergreen)
+- [[Wisdom of the Crowd]] — crowd > individual when errors uncorrelated; formal conditions; lacks explanation (evergreen)
+- [[Constructed Preference]] — preferences built at decision time from context cues; abstract elicitation fails; process-tracing revival (evergreen)
+- [[Loss Aversion]] — sensitivity losses > gains; CPT parameter; meta-analysis = weak evidence; DbS as mechanism (evergreen)
+- [[Cumulative Prospect Theory]] — CPT 1992; four parameters; parameter instability = live problem; DbS alternative (evergreen)
+- [[Decision by Sampling]] — choices from memory comparisons; loss aversion as sampling artifact; resolves description-experience gap (evergreen)
+- [[Decision-Making Competence]] — DMC; stable individual difference; real-world validated; neighborhood disadvantage strongest predictor (evergreen)
+- [[DOSPERT Scale]] — domain-specific risk-taking; risk tolerance not general trait; Weber et al. 2002 (evergreen)
+- [[Sacred Values]] — nonrational but legitimate preferences; violate trade-off axiom; genocide resistance; anti-extremism (evergreen)
+- [[Fuzzy-Trace Theory]] — gist vs. verbatim processing; application to adolescent health behavior; Reyna 2012 (evergreen)
+- [[Good Judgment Project]] — IARPA forecasting tournament; brief training → sustained calibration; superforecasters (evergreen)
+- [[Superforecasters]] — top calibrators; stable individual difference; identified in Good Judgment Project (evergreen)
+- [[Mental Models (Decision)]] — lay beliefs about system processes; task-analysis-grounded; domain examples: HIV, climate, vaccines (evergreen)
+- [[Libertarian Paternalism]] — nudge = choice architecture toward "rational" choice; critique: valid only if individual analysis done (evergreen)
+- [[Applied Basic Psychology]] — two-way science-practice bridge (Baddeley 1979); applied basic + basic applied (evergreen)
+- [[Lens Model]] — Brunswik/Hammond; cue combination model for judgment; representative design requirement (developing)
+- [[Policy Capturing]] — regression model of individual judge; few cues, linear, low reliability; organizational applications (developing)
+- [[Prospect Theory]] — Kahneman & Tversky 1979; reference-point value function; loss aversion; decision weight distortions; dominant descriptive model of risky choice (developing)
+- [[Framing Effects]] — logically equivalent options described differently → different risk preferences; gain vs. loss framing; attribute framing (developing)
+- [[Decision Justification Theory]] — Connolly & Zeelenberg 2002; two-component regret: outcome + process/self-blame; regret priming → better decisions (developing)
+- [[Appraisal-Tendency Framework]] — Lerner & Keltner 2000/2001; distinct emotions (fear, anger, disgust) have distinct, predictable decision effects beyond simple valence (developing)
+- [[Signal Detection Theory (Decision)]] — TSD; ROC curve; threshold-setting under uncertainty; base rate dependence; underused in organizational research (developing)
+- [[Naturalistic Decision Making]] — NDM/RPD; expert decision = recognition-primed matching, not deliberation; Klein; Orasanu & Connolly (developing)
+- [[Sunk Cost Effect]] — prior unrecoverable costs influence subsequent decisions; escalation of commitment; multiple competing explanations (developing)
+- [[Dynamic Decision Making]] — repeated decisions on changing environment; feedback delays impede learning; systems dynamics oscillations (developing)
+- [[Electronic Brainstorming]] — EBS; large EBS > nominal groups > F2F brainstorming; production blocking; anonymity effects; Connolly, Dennis, Valacich (developing)
+- [[Pay-for-Performance]] — PFP; links pay to performance via two mechanisms: incentive effect and sorting effect; most-used compensation design in private sector (developing)
+- [[Incentive Effect (Compensation)]] — how PFP changes current employee behavior through motivation; +0.54 SD in meta-analysis; but likely underestimates total impact (developing)
+- [[Sorting Effect (Compensation)]] — how PFP changes workforce composition; high performers attracted/retained, low performers exit; Cadsby 2007: sorting = 74% of total PFP advantage (developing)
+- [[PFP Intensity]] — magnitude of pay-performance gradient; annual merit = low intensity (3–4%); promotion channel = high intensity; higher intensity → more motivation AND more unintended consequences (developing)
+- [[Equal Compensation Principle]] — Milgrom & Roberts 1992; incentivizing some tasks but not others distorts effort allocation toward incentivized metrics; multitasking problem (developing)
+- [[Pay Dispersion]] — variation in pay within a group; horizontal vs. vertical; source matters: PFP-based = legitimate + positive effects; politically-based = illegitimate + negative effects (developing)
+- [[Pay Transparency]] — four dimensions: pay outcomes, pay determination, discussion policies, communication modes; more transparency ≠ universally better; relative pay standing is key moderator (developing)
+- [[Heuristics and Biases Program]] — Tversky & Kahneman research program; three heuristics (representativeness, availability, anchoring) produce systematic, predictable errors; biases persist in experts thinking intuitively (developing)
+- [[Representativeness Heuristic]] — probability judged by resemblance to prototype; produces base rate neglect, insensitivity to sample size, illusion of validity, regression misconceptions (developing)
+- [[Availability Heuristic]] — frequency/probability judged by ease of retrieval or mental construction; produces retrievability, search-set, imaginability biases, illusory correlation (developing)
+- [[Anchoring and Adjustment]] — numerical estimates start from anchor, adjust insufficiently; produces overconfident distributions, conjunctive overestimation, disjunctive underestimation (developing)
+- [[Base Rate Neglect]] — prior probabilities ignored when any individuating information is present, even worthless information; violates Bayes' rule (developing)
+- [[Gambler's Fallacy]] — belief that random deviations will be corrected; follows from local representativeness expectation; "deviations are diluted, not corrected" (developing)
+- [[Illusion of Validity]] — unwarranted confidence from good input-outcome match; persists despite knowledge of low validity; redundant inputs increase confidence, decrease accuracy (developing)
+- [[Regression to the Mean]] — extreme observations regress toward mean on re-measurement; intuition fails because representativeness predicts outcome extremity should match input extremity (developing)
+- [[Illusory Correlation]] — perceived co-occurrence based on associative strength rather than actual frequency; sustains unfounded clinical lore; resists contradictory evidence (developing)
+- [[Likert Scale Development]] — full pipeline for creating, validating, and refining self-report Likert scales; classic tutorials (Clark & Watson 1995; Hinkin 1998) plus 25-year advances (evergreen)
+- [[Construct Validity]] — two camps: validity-as-interpretation (Messick) vs. validity-as-test-property (Borsboom); both agree validity is unitary — no independent "types" (evergreen)
+- [[Construct Definition]] — three-aspect framework: consider construct, create formal definition, consult alternatives; latent continuum (unipolar/bipolar) specification (evergreen)
+- [[Readability Tests for Survey Items]] — Flesch-Kincaid Grade Level ≤8.0 per item recommended; test items individually; Coh-Metrix and QUAID as supplements (evergreen)
+- [[Coefficient Omega]] — congeneric reliability estimator; preferred over alpha when factor loadings differ (common); requires good-fitting factor model (evergreen)
+- [[Ant Colony Optimization (Scale Shortening)]] — algorithm for short-form creation; evaluates multi-criteria; outperforms factor-loading maximization; does not guarantee content coverage (evergreen)
+
+### Entities (new)
+
+- [[Tal Yarkoni]] — UT Austin; psychoinformatics, ML in psychology, Yarkoni & Westfall 2017
+- [[Jacob Westfall]] — UT Austin; quantitative methods, statistical power, Yarkoni & Westfall 2017
+- [[Evelyn Micelotta]] — UNM; institutional change, institutional logics
+- [[Michael Lounsbury]] — U of Alberta; institutional logics perspective, cultural entrepreneurship
+- [[Royston Greenwood]] — U of Alberta; professional firms, organizational archetypes, institutional complexity
 - [[Leadership Map]] — four-dimension taxonomy: experiences, competencies, key relationships, learning agility; Yost & Plunkett (developing)
 - [[Learning Agility]] — dispositional capacity to extract lessons from experience; determines OJD yield (developing)
 - [[Developmental Experiences]] — curated work assignments that produce leadership growth; turnarounds, start-ups, cross-functional roles (developing)
@@ -89,6 +249,16 @@ Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[
 - [[Outsider-Within Status]] — structural insider / experiential outsider; Collins (1986); minority employees in organizations (developing)
 - [[Subjective Career Success]] — one's own evaluation of career outcomes; expanded dimensions for minority employees: authenticity, survival, collective good, adjustability (developing)
 - [[Glass Cliff]] — minority appointment to precarious leadership roles in crisis; Ryan & Haslam 2005; savior effect (developing)
+- [[Three Waves of Leadership Research]] — Lord et al. 2017 organizing framework: pre-wave traits → First Wave behavior → Second Wave cognition/contingency → Third Wave transformational/LMX/teams (mature)
+- [[Trait Paradigm (Leadership)]] — earliest perspective; intelligence and personality traits predict leadership; backlash → revival via meta-analysis (mature)
+- [[Leader Behavior and Ohio State Studies]] — Initiating Structure and Consideration; leaderless group discussion; assessment centers; first wave (mature)
+- [[Implicit Leadership Theories]] — ILTs; rater schemas contaminate behavioral ratings; leader categorization theory; prototype matching (mature)
+- [[Contingency Theories of Leadership]] — Fiedler LPC model; leadership substitutes; situational moderation; inconsistent replication (mature)
+- [[Transformational and Charismatic Leadership]] — Burns 1978; Bass 1985; charisma, vision, follower development; dominant perspective since mid-1980s (mature)
+- [[Leader-Member Exchange (LMX)]] — dyadic relationship quality; Gerstner & Day 1997 meta-analysis; LMX as lens on entire work experience (mature)
+- [[Gender and Leadership]] — Schein "think manager think male"; role congruity theory; Eagly meta-analyses; women more transformational (mature)
+- [[Team Leadership]] — functional leadership; Marks et al. 2000; multilevel; transformational in teams; Zaccaro framework (mature)
+- [[Shared Leadership]] — distributed leadership roles across team members; Wang et al. 2014 meta-analysis; still developing (developing)
 - [[Crowdsourcing Science]] — horizontal distribution of research ownership, expertise, resources; complement to standard model; Uhlmann et al. 2019 (developing)
 - [[Publication Bottleneck]] — information-economic structural condition: too many researchers, too few slots; root cause of replication crisis per Giner-Sorolla 2012; Anna Karenina conjunction rules (developing)
 - [[Aesthetic Standards in Science]] — three criteria (statistical perfection, narrative conformity, novelty) that distort science under bottleneck conditions; Giner-Sorolla 2012 (developing)
@@ -96,11 +266,36 @@ Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[
 - [[Horizontal Distribution (Science)]] — crowdsourcing model; distributed components, pooled resources; complement to vertical integration (developing)
 - [[Many Labs]] — multilab replication initiative; 36–125 labs; non-replicable effects fail consistently across populations (developing)
 - [[Matthew Effect (Science)]] — cumulative advantage; early resource advantages compound; Merton 1968; motivation for crowdsourcing democratization (developing)
+- [[Robustness (Science)]] — same data + different analysis; tests analytic fragility; multiverse/many-analysts; Silberzahn 2018 (developing)
+- [[Replication as Theoretical Commitment]] — Nosek & Errington 2020; replication = claim that contextual differences are irrelevant; dissolves direct/conceptual distinction (developing)
+- [[Questionable Research Practices]] — QRPs; p-hacking, HARKing, selective reporting; ordinary psychology under misaligned incentives; 7,887 surveyed (developing)
+- [[Prediction Markets (Science)]] — r=0.52 with replication success; Anna Dreber; 72% accuracy; scalable pre-replication credibility screen (developing)
+- [[TOP Guidelines]] — 10 transparency standards, 3 levels each; 83% of journals at level 0; COS/Nosek 2015 (developing)
+- [[Psychological Science Accelerator]] — PSA; massively multisite collaborative network; Moshontz et al. 2018 (stub)
+- [[Replication]] — attempt to repeat a study and obtain the same results; direct vs. conceptual; fundamental mechanism of scientific reliability (seed)
+- [[File-Drawer Problem]] — systematic non-publication of null results; inflates effect sizes; addressed by preregistration and registered reports (seed)
+- [[Open Data]] — making research datasets publicly available; cornerstone of analytic reproducibility; enabled by OSF and TOP Guidelines (seed)
+- [[Social Cognitive Theory]] — Bandura; triadic reciprocal determinism; self-efficacy, modelling, outcome expectations; foundational to behaviour change (seed)
+- [[Testing Effect]] — retrieval practice enhances long-term retention more than restudy; desirable difficulty; Roediger & Karpicke (seed)
+- [[New Theory of Disuse]] — Bjork & Bjork 1992; storage vs. retrieval strength; theoretical backbone of desirable difficulties (seed)
+- [[Judgment of Learning]] — metacognitive monitoring of learning; systematically miscalibrated under massed practice; tracks performance not storage strength (seed)
+- [[Transfer of Training]] — degree to which trained skills transfer to job performance; near vs. far transfer; Baldwin & Ford 1988 (seed)
+- [[Self-Directed Learning]] — learner-controlled pace, sequence, content; andragogy; key in workplace and digital learning contexts (seed)
+- [[Synthetic Learning Environments]] — simulations and high-fidelity environments for training without real-world risk; fidelity paradox (seed)
+- [[Spacing Effect]] — spaced practice produces better long-term retention than massed practice; desirable difficulty (seed)
 
 ---
 
 ## Entities
 
+- [[Joep Cornelissen]] — VU Amsterdam / Rotterdam School of Management; framing, sensemaking, conceptual blending, corporate communication; Cornelissen & Werner 2014 (developing)
+- [[Mirjam Werner]] — University of Leeds POLIS; co-author of Cornelissen & Werner 2014 framing review (developing)
+- [[Amos Tversky]] — Hebrew University / Stanford; co-founder of heuristics and biases program with Kahneman; 1937–1996 (developing)
+- [[Daniel Kahneman]] — Hebrew University / Princeton; co-founder of heuristics and biases program; Nobel Prize in Economics 2002; *Thinking, Fast and Slow* (developing)
+- [[Baruch Fischhoff]] — Carnegie Mellon; engineering & public policy; psychometric risk perception; DMC; FDA; intelligence analysis (evergreen)
+- [[Stephen Broomell]] — Carnegie Mellon; decision modeling; information-theoretic analysis of CPT; Fischhoff co-author (evergreen)
+- [[Terry Connolly]] — U of Arizona; JDM researcher; regret/DJT, electronic brainstorming, naturalistic DM, information purchase (developing)
+- [[Lisa Ordóñez]] — U of Arizona; JDM researcher; regret, equity, emotion in decisions, fear/anger reversal (developing)
 - [[Andrej Karpathy]] — AI researcher, creator of the LLM Wiki pattern, former Tesla AI director (status: developing)
 - [[Linda Argote]] — Carnegie Mellon; leading organizational learning researcher; learning curves, knowledge repositories (developing)
 - [[Shaker Zahra]] — University of Minnesota; knowledge integration, dynamic capabilities, absorptive capacity (developing)
@@ -135,11 +330,53 @@ Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[
 - [[Melika Shirmohammadi]] — University of Houston; career development, diversity; Beigi co-author (developing)
 - [[Eric Uhlmann]] — INSEAD Singapore; crowdsourcing science; Silberzahn many-analysts project; Scientific Utopia III lead author (developing)
 - [[Roger Giner-Sorolla]] — University of Kent; social psychologist; "Science or Art?" 2012; information-economic bottleneck account of replication crisis (developing)
+- [[Norbert Kerr]] — Michigan State University; social psychologist; coined HARKing (1998); foundational to open science reform literature (stub)
+- [[Simine Vazire]] — University of Melbourne; open science reform; "credibility revolution" framing; Nosek 2022 co-author (stub)
+- [[Tom Hardwicke]] — University of Amsterdam; analytic reproducibility; open data policy audits; Nosek 2022 co-author (stub)
+- [[Anna Dreber]] — Stockholm School of Economics; prediction markets for science; replication forecasting (developing)
+- [[Dolores Albarracín]] — University of Pennsylvania; social psychologist; attitude change, persuasion, behaviour change interventions; HIV prevention meta-analysis (developing)
+- [[Ingrid Smithey Fulmer]] — U of Illinois UIUC; compensation, pay transparency, Compensation Activation Theory; Fulmer et al. 2023 (developing)
+- [[Barry Gerhart]] — UW-Madison; strategic compensation; incentive/sorting framework; Gerhart & Milkovich foundational work; Fulmer et al. 2023 (developing)
+- [[JiHyun Kim]] — NUS Business School; PFP meta-analysis lead author (Kim et al. 2022); Fulmer et al. 2023 (developing)
+- [[Ruth Kanfer]] — Georgia Tech; work motivation meta-framework; resource allocation theory; Kanfer & Ackerman 1989; Kanfer et al. 2017 (developing)
+- [[Michael Frese]] — NUS / Leuphana; action regulation theory; personal initiative; entrepreneurship; Frese & Zapf 1994 (developing)
+- [[Russell Johnson]] — Michigan State; regulatory focus meta-analysis; ego depletion + justice; implicit motivation (developing)
+- [[Edwin Locke]] — U of Maryland; co-developer of Goal-Setting Theory with Latham; 35+ years GST research; Locke & Latham 1990, 2002 (developing)
+- [[Gary Latham]] — U of Toronto Rotman; co-developer of GST; field research (logging, trucking, government); situational interview developer; Frayne & Latham 1987 self-management (developing)
+- [[Richard Ryan]] — University of Rochester / ACU; co-developer of Self-Determination Theory with Deci; Ryan & Deci 2000; Ryan et al. 2022 meta-review (developing)
+- [[Edward Deci]] — University of Rochester; co-developer of SDT; foundational reward-intrinsic motivation experiments 1975; Deci, Koestner & Ryan 1999 meta-analysis (developing)
+- [[Jasper Duineveld]] — SDT researcher; co-author Ryan et al. 2022 meta-review (stub)
+- [[Emma Bradshaw]] — SDT researcher; GCT meta-analyses (intrinsic aspirations/well-being r=.24; extrinsic centrality r=−.22); parenting meta-analysis r=.28 (stub)
+- [[Stefano Di Domenico]] — SDT researcher; co-author Ryan et al. 2022 meta-review (stub)
+- [[Robert A. Bjork]] — UCLA; New Theory of Disuse; desirable difficulties; testing effect and spacing effect research (seed)
+- [[Kurt Kraiger]] — Colorado State; workplace instruction science; Kraiger & Ford 2021; Kraiger, Ford & Salas 1993 (seed)
+- [[Andrew T. Jebb]] — Purdue; psychometrics, Likert scale development; lead author of 2021 review (stub)
+- [[Louis Tay]] — Purdue; psychometrics, well-being, latent continuum theory; conceived Jebb et al. 2021 (stub)
+- [[J. Kevin Ford]] — Michigan State; transfer of training; Baldwin & Ford 1988 transfer model; Kraiger & Ford 2021 (seed)
+- [[Bradford S. Bell]] — Cornell ILR; active learning, technology-based training, team training; Bell & Kozlowski 2002/2008/2009 (developing)
+- [[Raymond A. Noe]] — Ohio State; trainee motivation, development participation, Noe 1986 model (stub)
 
 ---
 
 ## Sources
 
+- [[shrout-rodgers-2018-replication-crisis|Shrout & Rodgers (2018)]] — Annual Review of Psychology | Broadening perspectives from the replication crisis; QRPs, power analysis, meta-analysis, Bayesian approaches, effect size heterogeneity; argues 36% OSC replication rate is statistically expected; preregistration as most important reform | 2026-06-03
+- [[lord-et-al-2017-leadership-in-applied-psychology|Lord, Day, Zaccaro, Avolio & Eagly (2017)]] — Journal of Applied Psychology | 100-year centennial review of leadership research; three waves (behavioral, social-cognitive/contingency, transformational/LMX/teams); 17 seminal JAP articles; future directions: virtual leadership, shared leadership, neuroscience, development | 2026-06-01
+- [[bell-et-al-2017-100-years-training-development|Bell, Tannenbaum, Ford, Noe & Kraiger (2017)]] — Journal of Applied Psychology | 100-year centennial review; 458 JAP articles; four themes: criteria, trainee char., design, context; trainability, active learning, transfer climate, tech-based training; multilevel criteria; within-person self-efficacy reversal | 2026-06-01
+- [[alliger-et-al-1997-training-criteria-meta-analysis|Alliger, Tannenbaum, Bennett, Traver & Shotland (1997)]] — Personnel Psychology | augmented Kirkpatrick framework; affective reactions ≈ 0 correlation with learning; utility reactions predict transfer better than learning | 2026-06-01
+- [[lacerenza-et-al-2018-team-development-interventions|Lacerenza, Marlow, Tannenbaum & Salas (2018)]] — American Psychologist | four TDI types; team debriefing 20–25% performance gain; leadership training 29% improvement; psychological safety cross-cutting | 2026-06-01
+- [[pearsall-christian-croitoru-2025-team-adaptation|Pearsall, Christian & Croitoru (2025)]] — Journal of Applied Psychology (Monograph) | 6-phase stimulus-based model of team adaptation; phases: detection → urgency → duration → response → reflexive learning → knowledge acquisition | 2026-06-01
+- [[lepine-et-al-2008-teamwork-processes|LePine, Piccolo, Jackson, Mathieu & Saul (2008)]] — Personnel Psychology | teamwork process taxonomy meta-analysis; 138 studies; hierarchical structure; ρ≈.29 all process types → performance; task interdependence and team size moderate | 2026-06-01
+- [[shuffler-et-al-2011-team-development-interventions|Shuffler, DiazGranados & Salas (2011)]] — Current Directions in Psychological Science | team building vs. team training; meta-analytic effects; science-based design; CRM example | 2026-06-01
+- [[tett-et-al-2021-trait-activation-theory|Tett, Toich & Ozkum (2021)]] — Annual Review of Organizational Psychology | TAT review 2011–2019; 60% moderator significance rate; personality dynamics 5×5 matrix; future directions | 2026-06-01
+- [[ryan-et-al-2022-sdt-meta-review|Ryan et al. (2022)]] — Psychological Bulletin | meta-review 60+ SDT meta-analyses; CET/OIT/COT/BPNT/GCT/RMT; effect sizes across education/health/work/sport/parenting | 2026-05-29
+- [[kanfer-frese-johnson-2017-work-motivation|Kanfer, Frese & Johnson (2017)]] — Journal of Applied Psychology | Work motivation century review; content-context-process meta-framework; resource allocation; 10 future directions | 2026-05-30
+- [[locke-latham-2002-goal-setting-theory|Locke & Latham (2002)]] — American Psychologist | Goal-Setting Theory 35-year summary; core findings, 4 mechanisms, moderators, HPC, applications | 2026-05-30
+- [[ryan-deci-2000-sdt|Ryan & Deci (2000)]] — American Psychologist | SDT canonical overview; intrinsic motivation, OIT continuum, basic psychological needs | 2026-05-29
+- [[fischhoff-broomell-2020-jdm-review|Fischhoff & Broomell (2020)]] — Annual Review of Psychology | JDM state-of-field review | 2026-05-26
+- [[jebb-ng-tay-2021-likert-scale-advances|Jebb, Ng & Tay (2021)]] — Frontiers in Psychology | Selective review of 40 Likert scale development advances 1995–2019; 5 in-depth topics: construct validity, construct definition, readability tests, omega/IRT, ACO short forms | 2026-06-01
+- [[cornelissen-werner-2014-framing-review|Cornelissen & Werner (2014)]] — Academy of Management Annals | multi-level framing review | 2026-05-24
+- [[connolly-2012-jdm|Connolly, Ordóñez & Barker (2012)]] — Handbook of Psychology Ch. 19 | JDM comprehensive survey | 2026-05-23
 - [[claude-obsidian-ecosystem-research]] — 2026-04-08 | web research across 16+ repos | 8 wiki pages created
 - [[zahra-2020-knowledge-integration|Zahra et al. (2020)]] — Academy of Management Annals | knowledge integration review | 2026-05-15
 - [[argote-2021-organizational-learning|Argote et al. (2021)]] — Management Science | organizational learning processes review | 2026-05-15
@@ -160,6 +397,10 @@ Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[
 - [[beigi-2025-career-success-minority|Beigi et al. (2025)]] — Journal of Management | career success and minority status; complex visibility; 337 articles; 4 minority groups | 2026-05-21
 - [[uhlmann-2019-crowdsourcing-science|Uhlmann et al. (2019)]] — Perspectives on Psychological Science | Scientific Utopia III; crowdsourcing as complement to standard model; 2×2 typology; structural reforms | 2026-05-21
 - [[giner-sorolla-2012-science-or-art|Giner-Sorolla (2012)]] — Perspectives on Psychological Science | publication bottleneck as root cause of replication crisis; three aesthetic criteria; information-economic account | 2026-05-21
+- [[kerr-1998-harking|Kerr (1998)]] — Personality and Social Psychology Review | HARKing origin paper; three forms; cognitive/social mechanisms; proposed preregistration reforms | 2026-05-21
+- [[nosek-2022-replicability-robustness-reproducibility|Nosek et al. (2022)]] — Annual Review of Psychology | 10-year review; three R's; 307 replications (64% success); Rogers diffusion model for culture change | 2026-05-22
+- [[albarracin-2024-determinants-behaviour-change|Albarracín et al. (2024)]] — Nature Reviews Psychology | meta-review of behavioural determinants; access > social support > habits > … > knowledge; correlation-intervention gap | 2026-05-23
+- [[fulmer-2023-compensation-performance|Fulmer et al. (2023)]] — Personnel Psychology | 30-year review of compensation→performance research; PFP incentive/sorting effects; pay transparency; pay dispersion; endogeneity | 2026-05-23
 
 ---
 
@@ -174,17 +415,49 @@ Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[
 - [[Wiki vs RAG]] — when to use a wiki knowledge base versus RAG; verdict: wiki wins at <1000 pages
 - [[claude-obsidian-ecosystem]] — feature matrix of 16+ Claude+Obsidian projects; where claude-obsidian wins and gaps
 
+
 ---
 
-## Decisions
+## Folds
 
-- [[2026-04-14-community-cta-rollout]] - Skool community CTA footer added to 6 skill repos with per-tool frequency rules (status: active)
-- [[2026-04-15-slides-and-release-session]] - Claude SEO v1.9.0 slides (15-slide HTML deck) + GitHub release v1.9.0 with PDF asset (status: complete)
-- [[2026-04-15-release-report-session]] - Claude SEO v1.9.0 Release Report PDF: dark theme, 13 pages, WeasyPrint layout fixes, Challenge v2 added (status: complete)
-- [[2026-04-14-claude-seo-v190-session]] - Claude SEO v1.9.0 Pro Hub Challenge integration: 5 submissions, 4 new skills, 4 review rounds, cybersecurity audit (status: complete)
+- [[fold-k3-from-2026-04-23-to-2026-04-24-n8]] — k=3, 8 entries, 2026-04-23 to 2026-04-24, DragonScale Phases 1–4 + v1.6.0 validation
+- [[fold-k4-from-2026-04-08-to-2026-04-24-n16]] — k=4, 16 entries, 2026-04-08 to 2026-04-24, DragonScale Phases 0–4 + claude-obsidian v1.4–v1.6.0 + Claude SEO v1.9.0
 
 ---
 
 ## Domains
 
 <!-- Add domain entries here after scaffold -->
+- [[Work Design (Concept)]] — comprehensive field review: six perspectives, WDQ 18-char taxonomy, mediating mechanisms, outcomes meta-analysis (mature)
+- [[Work Design Questionnaire]] — WDQ: 18-characteristic self-report measure replacing JDS; validated across 243 jobs (mature)
+- [[Sociotechnical Systems Theory]] — joint optimization of social + technical systems; team-level work design; Tavistock/Trist 1951 (developing)
+- [[Job Demands–Control–Support Model]] — JDC-S + JD-R: demands × resources → burnout/engagement; Karasek 1979; Bakker & Demerouti 2007 (developing)
+- [[Interdisciplinary Model of Job Design]] — Campion 1988: four approaches (mechanistic/motivational/perceptual/biological) with distinct outcome profiles (developing)
+
+## Entities (Training Evaluation)
+- [[George M. Alliger]] — SUNY Albany; meta-analyses of Kirkpatrick criteria; augmented framework
+- [[Scott I. Tannenbaum]] — training effectiveness, transfer climate, trainee expectations
+
+## Entities (Team Adaptation)
+- [[Matthew J. Pearsall]] — team adaptation, team cognition; UNC Kenan-Flagler
+- [[Jessica Siegel Christian]] — team adaptation, TMS, member loss; UNC Kenan-Flagler
+
+## Entities (Work Design)
+- [[Frederick Morgeson]] — WDQ developer, contemporary work design theorist; MSU
+- [[Michael Campion]] — interdisciplinary model; MJDQ; Purdue
+- [[Control Theory (Self-Regulation)]] — cybernetic goal striving: discrepancy reduction, velocity, hierarchy, goal revision; Lord & Levy 1994; Carver & Scheier 1998 (mature)
+- [[Multiple Goal Self-Regulation]] — resource allocation across competing goals; Schmidt & DeShon paradigm; deadline shift; computational model (mature)
+- [[Temporal Motivation Theory]] — TMT: Utility = (E×V)/(1+delay); hyperbolic discounting; deadlines + procrastination; Steel & König 2006 (developing)
+- [[Emotional Labor]] — surface vs. deep acting; display rules as goals; autonomy buffer; Grandey 2000 (developing)
+- [[Goal Orientation]] — mastery/performance-approach/performance-avoid; dispositional + state; Payne et al. 2007 (mature)
+
+## Entities (Motivation)
+- [[Aaron Schmidt]] — multiple goal self-regulation; SE debate; U Minnesota
+
+- [[Timothy A. Judge]] — University of Notre Dame; job attitudes, CSEs, job satisfaction–performance; prolific researcher in I/O psychology (developing)
+- [[John D. Kammeyer-Mueller]] — University of Florida; turnover, job attitudes, temporal dynamics of work attitudes (developing)
+- [[Robert G. Lord]] — Durham University; implicit leadership theories, leader categorization theory, social-cognitive leadership (developing)
+- [[David V. Day]] — Claremont McKenna College; LMX, leadership development, team leadership capacity (developing)
+- [[Bruce J. Avolio]] — University of Washington; transformational/authentic leadership, leadership development (developing)
+- [[Alice H. Eagly]] — Northwestern University; gender and leadership, role congruity theory, meta-analysis methods (developing)
+- [[Stephen J. Zaccaro]] — George Mason University; team leadership, functional leadership, leader traits (developing)

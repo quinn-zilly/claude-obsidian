@@ -5,6 +5,7 @@ type: concept
 domain: leadership-dev
 tags: [training, instruction, learning-science, design]
 created: 2026-05-21
+updated: 2026-05-21
 status: evergreen
 related:
   - "[[Science of Workplace Instruction]]"

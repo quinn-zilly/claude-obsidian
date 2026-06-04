@@ -3,7 +3,17 @@
 type: source
 address: c-000027
 title: "A Manifesto for Reproducible Science"
-author: "Marcus R. Munafò, Brian A. Nosek, Dorothy V. M. Bishop, Katherine S. Button, Christopher D. Chambers, Nathalie Percie du Sert, Uri Simonsohn, Eric-Jan Wagenmakers, Jennifer J. Ware, John P. A. Ioannidis"
+author:
+  - "[[Marcus Munafò]]"
+  - "[[Brian Nosek]]"
+  - "Dorothy V. M. Bishop"
+  - "Katherine S. Button"
+  - "Christopher D. Chambers"
+  - "Nathalie Percie du Sert"
+  - "Uri Simonsohn"
+  - "Eric-Jan Wagenmakers"
+  - "Jennifer J. Ware"
+  - "[[John Ioannidis]]"
 year: 2017
 venue: "Nature Human Behaviour"
 volume: 1
@@ -115,4 +125,4 @@ Most measures had <5% adoption at time of writing. Pre-registration >60% only fo
 
 ## Key Quote
 
-> "Reproducible research practices are at the heart of sound research and integral to the scientific method. How best to achieve rigorous and efficient knowledge accumulation is a scientific question."
+> "Reproducible research practices are at the heart of sound research and integral to

@@ -24,7 +24,7 @@ Before ingesting any file, check `.raw/.manifest.json` to avoid re-processing un
 ```json
 {
   "sources": {
-    ".raw/articles/article-slug-2026-04-08.md": {
+    ".raw/output/article-slug-2026-04-08.md": {
       "hash": "abc123",
       "ingested_at": "2026-04-08",
       "pages_created": ["wiki/sources/article-slug.md", "wiki/entities/Person.md"],
@@ -57,14 +57,14 @@ Steps:
 1. **Fetch** the page using WebFetch.
 2. **Clean** (optional): if `defuddle` is available (`which defuddle 2>/dev/null`), run `defuddle [url]` to strip ads, nav, and clutter. Typically saves 40-60% tokens. Fall back to raw WebFetch output if not installed.
 3. **Derive slug** from the URL path (last segment, lowercased, spaces→hyphens, strip query strings).
-4. **Save** to `.raw/articles/[slug]-[YYYY-MM-DD].md` with a frontmatter header:
+4. **Save** to `.raw/output/[slug]-[YYYY-MM-DD].md` with a frontmatter header:
    ```markdown
    ---
    source_url: [url]
    fetched: [YYYY-MM-DD]
    ---
    ```
-5. Proceed with **Single Source Ingest** starting at step 2 (file is now in `.raw/`).
+5. Proceed with **Single Source Ingest** starting at step 2 (file is now in `.raw/output/`).
 
 ---
 
@@ -94,9 +94,30 @@ Use cases: whiteboard photos, screenshots, diagrams, infographics, document scan
 
 ---
 
+## PDF Ingestion
+
+Trigger: user points to a `.pdf` file, or names a file that exists in `.raw/input/`.
+
+Steps:
+
+1. **List** available PDFs so the user can confirm the selection:
+   ```powershell
+   Get-ChildItem .raw/input/*.pdf | Select-Object -ExpandProperty Name
+   ```
+2. **Select** the PDF. If the user already named it, use that name. If ambiguous, ask.
+3. **Choose output name**. Default: replace `.pdf` extension with `.md` (e.g. `Campbell.pdf` → `Campbell.md`). Confirm with user or use their suggestion. If `.raw/output/<name>.md` already exists, ask before proceeding — the script will error on collision.
+4. **Run** the conversion script:
+   ```bash
+   python scripts/pdf-to-md.py "<input.pdf>" "<output.md>"
+   ```
+5. **Verify** `.raw/output/<output.md>` exists and is non-empty.
+6. Proceed with **Single Source Ingest** using `.raw/output/<output.md>` as the source file (start at step 1 of that section).
+
+---
+
 ## Single Source Ingest
 
-Trigger: user drops a file into `.raw/` or pastes content.
+Trigger: user drops a file into `.raw/` or pastes content. PDF sources should go through **PDF Ingestion** first.
 
 Steps:
 

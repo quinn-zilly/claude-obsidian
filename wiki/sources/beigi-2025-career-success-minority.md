@@ -1,5 +1,8 @@
 ---
 type: source
+author:
+  - "[[Mina Beigi]]"
+  - "[[Melika Shirmohammadi]]"
 address: c-000087
 title: "Beigi et al. (2025) — Career Success and Minority Status"
 status: developing
@@ -127,8 +130,4 @@ Framework acknowledges intersectionality (multiple minority identities compound)
 - Puwar (2004) — "Space Invaders: Race, Gender and Bodies Out of Place"
 - Collins (1986) — outsider-within (Black feminist standpoint)
 - Higgins & Kram (2001) — personal advisory board / developmental networks (see [[Personal Advisory Board]])
-- Glass & Cook (2016) — glass cliff literature
-
----
-
-*Ingested 2026-05-21. Pages created: c-000087 through c-000096.*
+- Glass & Cook (2016) — glass cliff lite

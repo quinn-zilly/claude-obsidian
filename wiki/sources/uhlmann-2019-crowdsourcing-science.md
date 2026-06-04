@@ -1,5 +1,8 @@
 ---
 type: source
+author:
+  - "[[Eric Uhlmann]]"
+  - "[[Brian Nosek]]"
 address: c-000097
 title: "Uhlmann et al. (2019) — Scientific Utopia III: Crowdsourcing Science"
 status: developing
@@ -119,8 +122,4 @@ Crowds of independent agents balance individual biases in aggregate (Galton, 190
 - Klein et al. (2014, 2018) — Many Labs 1 & 2
 - Open Science Collaboration (2015) — 36% replication
 - Dreber et al. (2015) — prediction markets accurately forecast replication results
-- Moshontz et al. (2018) — Psychological Science Accelerator
-
----
-
-*Ingested 2026-05-21. Pages created: c-000097 through c-000103.*
+- Moshontz et al. (2018) — Psychological Science Accele

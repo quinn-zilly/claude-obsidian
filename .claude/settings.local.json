@@ -17,7 +17,22 @@
       "Bash(cd \"C:\\\\Users\\\\quinn\\\\OneDrive - Seattle Pacific University\\\\Class\\\\Notes\\\\claude-obsidian\\\\claude-obsidian\" && find wiki -name \"*.md\" | sed 's|.*/||; s|\\\\.md$||' | sort > /tmp/all_pages.txt && wc -l /tmp/all_pages.txt)",
       "Bash(grep -r '\\\\[\\\\[__TRACKED_VAR__' wiki/)",
       "Bash(xargs grep -h \"^address:\")",
-      "Bash(xargs grep -h \"^address: c-\")"
+      "Bash(xargs grep -h \"^address: c-\")",
+      "PowerShell(Get-ChildItem \"C:\\\\Users\\\\quinn\\\\.claude\\\\plugins\\\\\" -Recurse -Depth 2 | Where-Object { $_.PSIsContainer } | Select-Object FullName)",
+      "Bash(python -c \"import sys,json; d=json.load\\(sys.stdin\\); print\\(json.dumps\\({k:v for k,v in d.get\\('sources',{}\\).items\\(\\) if 'kerr' in k.lower\\(\\) or 'harking' in k.lower\\(\\)}, indent=2\\)\\)\")",
+      "Bash(where py *)",
+      "Bash(where python3.exe)",
+      "Read(//c/Users/quinn/AppData/Local/Programs/Python/**)",
+      "Bash(py -c ' *)",
+      "Bash(py -c \"from pypdf import PdfReader; r = PdfReader\\(r'C:\\\\Users\\\\quinn\\\\OneDrive - Seattle Pacific University\\\\Class\\\\Notes\\\\claude-obsidian\\\\claude-obsidian\\\\.raw\\\\Kerr - 1998 - HARKing Hypothesizing After the Results are Known.pdf'\\); print\\(f'Pages: {len\\(r.pages\\)}'\\); [print\\(f'--- PAGE {i+1} ---\\\\n{r.pages[i].extract_text\\(\\)}'\\) for i in range\\(min\\(8, len\\(r.pages\\)\\)\\)]\")",
+      "Bash(py -m pip install pypdf)",
+      "WebFetch(domain:journals.sagepub.com)",
+      "WebFetch(domain:www.researchgate.net)",
+      "WebFetch(domain:en.wikipedia.org)",
+      "WebSearch",
+      "Bash(./scripts/allocate-address.sh --peek)",
+      "Bash(bash scripts/allocate-address.sh --peek)",
+      "Bash(python -c \"import sys,json; d=json.load\\(sys.stdin\\); print\\(list\\(d.get\\('address_map',{}\\).items\\(\\)\\)[:5]\\)\")"
     ]
   }
 }

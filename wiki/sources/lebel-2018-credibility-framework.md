@@ -3,7 +3,11 @@
 type: source
 address: c-000023
 title: "A Unified Framework to Quantify the Credibility of Scientific Findings"
-author: "Etienne P. LeBel, Wolf Vanpaemel, Irene Cheung, Lorne Campbell"
+author:
+  - "[[Etienne LeBel]]"
+  - "[[Wolf Vanpaemel]]"
+  - "Irene Cheung"
+  - "Lorne Campbell"
 year: 2018
 venue: "Advances in Methods and Practices in Psychological Science"
 volume: 1
@@ -106,4 +110,4 @@ The paper introduces curatescience.org as a platform for applying this framework
 
 ## Key Quote
 
-> "A finding's credibility is best understood not as a single binary attribute but as a profile across multiple dimensions that can be independently evaluated and improved."
+> "A finding's credibility is best understood not as a single binary at

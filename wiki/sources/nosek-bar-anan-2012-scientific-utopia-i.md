@@ -2,9 +2,9 @@
 type: source
 address: c-000064
 title: "Scientific Utopia I: Opening Scientific Communication"
-authors:
-  - "Brian Nosek"
-  - "Yoav Bar-Anan"
+author:
+  - "[[Brian Nosek]]"
+  - "[[Yoav Bar-Anan]]"
 year: 2012
 journal: "Psychological Inquiry"
 volume: 23
@@ -117,5 +117,4 @@ Current journals bundle all four functions. Reform = unbundle them. Each functio
 
 ## Author Notes
 
-- [[Brian Nosek]] (UVA) — already has entity page c-000033; this source added to his page
-- [[Yoav Bar-Anan]] — Ben-Gurion University, Beer Sheva, Israel; new entity page c-000067
+- [[Brian Nosek]] (UVA) — already has entity page c-000033; t

@@ -3,7 +3,8 @@
 type: source
 address: c-000018
 title: "Toward a Knowledge-Based Theory of the Firm"
-author: "Robert M. Grant"
+author:
+  - "[[Robert Grant]]"
 year: 1996
 venue: "Strategic Management Journal"
 volume: 17
@@ -103,4 +104,4 @@ Firms exist where knowledge integration is most efficiently accomplished through
 
 ## Citation Impact
 
-Highly influential; cited in virtually all KBV literature. Companion piece to [[alavi-leidner-2001-knowledge-management]] which treats IT's role in the same knowledge integration problem.
+Highly influential; cited in virtually all KBV literature. Companion piece to [[alav

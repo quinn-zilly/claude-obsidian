@@ -29,6 +29,7 @@ __pycache__/
 node_modules/
 
 # Local secrets
+.venv
 .env
 .env.local
 *.local.md
