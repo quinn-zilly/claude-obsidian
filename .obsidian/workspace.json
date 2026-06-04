@@ -80,8 +80,7 @@
               "title": "File Tree"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -208,7 +207,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 313.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -227,10 +226,10 @@
       "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "544f714cde748883",
+  "active": "5565f1231fe95c42",
   "lastOpenFiles": [
-    "wiki/concepts/Open Science Framework.md",
     "wiki/projects/KM Research Paper.md",
+    "wiki/concepts/Open Science Framework.md",
     "wiki/concepts/Analytic Reproducibility.md",
     "wiki/sources/munafo-2017-manifesto.md",
     "wiki/sources/uhlmann-2019-crowdsourcing-science.md",
