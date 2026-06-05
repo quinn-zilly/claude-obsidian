@@ -6,7 +6,7 @@ aliases: ["self-efficacy", "task-specific confidence"]
 tags: [motivation, self-efficacy, goal-setting, performance, Bandura]
 status: evergreen
 created: 2026-05-30
-related: ["[[Goal-Setting Theory]]", "[[Goal Commitment]]", "[[High-Performance Cycle]]", "[[Social Cognitive Theory]]", "[[Competence (SDT)]]", "[[Edwin Locke]]", "[[Gary Latham]]"]
+related: ["[[Goal-Setting Theory]]", "[[Goal Commitment]]", "[[High-Performance Cycle]]", "[[Social Cognitive Theory]]", "[[Competence (SDT)]]", "[[Edwin Locke]]", "[[Gary Latham]]", "[[Self-Management Training]]", "[[Outcome Expectancies]]", "[[frayne-latham-1987-self-management-attendance|Frayne & Latham 1987]]"]
 ---
 
 # Self-Efficacy (Goal Setting)

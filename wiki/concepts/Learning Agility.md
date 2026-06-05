@@ -45,6 +45,15 @@ Not everyone who goes through a developmental experience emerges a better leader
 - [[Organizational Learning]] — individual learning agility aggregates to org-level learning capacity
 - [[Transition Checklist]] — transitions especially require learning agility
 
-## Source
+## Three-Way Relationship with Stretch Experiences
+([[mccauley-yost-2021-comfort-zone]])
 
-[[yost-plunkett-2010-ten-catalysts]]
+Learning agility relates to [[Stretch Experiences]] simultaneously as:
+- **Antecedent**: learning-agile leaders *seek* stretch (change readiness, curiosity, learning goal orientation)
+- **Moderator**: learning agility buffers negative consequences (emotional regulation prevents turnover; self-efficacy prevents laissez-faire leadership) and amplifies developmental gains
+- **Outcome**: repeated stretch builds learning agility (self-insight, resilience, flexibility, feedback seeking)
+
+## Sources
+
+- [[yost-plunkett-2010-ten-catalysts]]
+- [[mccauley-yost-2021-comfort-zone]] — stretch experiences × learning agility relationship

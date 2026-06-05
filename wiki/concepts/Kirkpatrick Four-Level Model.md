@@ -38,8 +38,10 @@ Meta-analyses consistently find only modest inter-level correlations:
 - Alliger & Janak (1989): original review; weak reactions→learning relationship
 - [[alliger-et-al-1997-training-criteria-meta-analysis]]: affective reactions ≈ 0 correlation with learning; utility reactions moderate correlates of transfer
 
-## See Also
+## Integrations and Extensions
 
-- [[Augmented Training Criteria Framework]] — more fine-grained revision
-- [[Training Reactions (Affective vs Utility)]]
-- [[Training Transfer]]
+- [[Augmented Training Criteria Framework]] — Alliger et al. 1997 refinement splitting reactions and learning into sub-types
+- [[Integrated Model of Training Evaluation and Effectiveness (IMTEE)]] — Alvarez et al. (2004) integrates Kirkpatrick with 3 other evaluation models under Kraiger's umbrella areas; empirically weakens hierarchical chain assumption
+- [[Training Reactions (Affective vs Utility)]] — operationalizes Kirkpatrick Level 1 distinction
+- [[Training Transfer]] — Level 3 operationalized
+- [[Return on Development Investment (RODI)]] — Avolio et al. (2010) applies Kirkpatrick logic to financial utility of leadership development

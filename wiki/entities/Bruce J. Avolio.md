@@ -25,4 +25,7 @@ Organizational psychologist; prominent researcher on transformational and authen
 - Co-author of [[lord-et-al-2017-leadership-in-applied-psychology]] (JAP 2017 centennial review)
 
 ## Research Focus
-Transformational and authentic leadership; leadership development; multilevel leadership; charisma and vision.
+Transformational and authentic leadership; leadership development; multilevel leadership; charisma and vision; return on leadership development investment.
+
+## RODI Framework (Avolio, Avey & Quisenberry 2010)
+Proposed **Return on Development Investment (RODI)** — a utility-analysis methodology for quantifying financial return of leadership interventions. Uses Cascio & Boudreau (2008) + Avolio et al. (2009) meta-analytic effect sizes (avg d=0.52). Average RODI = 44–87% depending on intervention length and location; top-performer RODI caps at 200%. See [[Return on Development Investment (RODI)]] and [[avolio-et-al-2010-ROI-leadership-development]].

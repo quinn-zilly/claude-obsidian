@@ -1,9 +1,65 @@
+## 2026-06-04 batch ingest | McCauley & Yost (2021) + Yost & Plunkett (2009) + Charan et al. (2001)
+- Sources: `.raw/input/Stepping to the Edge of One's Comfort Zone, McCauley & Yost, 2021.pdf`, `.raw/input/Derailment-EDLDch9-Yost & Plunkett-2009.pdf`, `.raw/input/Leadership-Pipeline, Chapter 1, Charan.pdf`
+- Summaries: [[mccauley-yost-2021-comfort-zone]], [[yost-plunkett-2009-derailment]], [[charan-leadership-pipeline-ch1]]
+- Pages created: [[mccauley-yost-2021-comfort-zone]], [[yost-plunkett-2009-derailment]], [[charan-leadership-pipeline-ch1]], [[Stretch Experiences]], [[Derailment]], [[Leadership Pipeline]], [[Cynthia McCauley]], [[Ram Charan]]
+- Pages updated: [[Learning Agility]], [[Paul Yost]], [[index]]
+- Key insight: All three sources converge — stretch experiences are the mechanism of pipeline passage development; avoiding them is a top derailment cause; learning agility mediates what leaders extract from them.
+
+## 2026-06-04 batch ingest | Alvarez et al. (2004) + Smith-Jentsch (2020) + Avolio et al. (2010)
+- Sources: `.raw/Input/Alvarez et al. - 2004 - An Integrated Model of Training Evaluation and Effectiveness.pdf`, `.raw/Input/Smith-Jentsch - 2020 - Making smart investments in training.pdf`, `.raw/Input/Avolio et al. - 2010 - Estimating return on leadership development investment.pdf`
+- Summaries: [[alvarez-et-al-2004-training-evaluation-effectiveness]], [[smith-jentsch-2020-smart-investments-training]], [[avolio-et-al-2010-ROI-leadership-development]]
+- Pages created: [[alvarez-et-al-2004-training-evaluation-effectiveness]], [[smith-jentsch-2020-smart-investments-training]], [[avolio-et-al-2010-ROI-leadership-development]], [[Integrated Model of Training Evaluation and Effectiveness (IMTEE)]], [[Return on Development Investment (RODI)]], [[Kimberly A. Smith-Jentsch]]
+- Pages updated: [[Kirkpatrick Four-Level Model]], [[Training Transfer]], [[Bruce J. Avolio]], [[index]]
+- Key insight: All three sources converge on evidence-based investment in training/development — Alvarez maps what predicts outcomes (IMTEE), Smith-Jentsch explains why effective training declines (implementation details), and Avolio translates effects to dollar returns (RODI formula).
+
+## 2026-06-04 batch ingest | Burke & Hutchins (2007) + Ellis & Davidi (2005) + APA Learning Objectives
+- Sources: `.raw/input/Burke and Hutchins - 2007 - Training Transfer An Integrative Literature Review.pdf`, `.raw/input/Ellis and Davidi - 2005 - After-Event Reviews Drawing Lessons From Successful and Failed Experience..pdf`, `.raw/input/APA_learning_objectives.pdf`
+- Summaries: [[burke-hutchins-2007-training-transfer]], [[ellis-davidi-2005-after-event-reviews]], [[apa-learning-objectives]]
+- Pages created: [[burke-hutchins-2007-training-transfer]], [[ellis-davidi-2005-after-event-reviews]], [[apa-learning-objectives]], [[After-Event Reviews]], [[Behavioral Learning Objectives]]
+- Pages updated: [[Training Transfer]], [[index]], [[hot]], [[log]]
+- Key insight: Burke & Hutchins (2007) provides the most comprehensive empirical map of training transfer factors — the three-factor taxonomy (learner/design/environment) with specific effect sizes; Ellis & Davidi (2005) shows that AERs incorporating success review produce richer mental models and greater performance gain than failure-only review, providing a mechanism for the "feedback" component of Burke & Hutchins' intervention design factor; APA objectives operationalize the "learning goals" predictor (r=.37 in Burke & Hutchins) at the practitioner level.
+
+## 2026-06-04 batch ingest | Arthur et al. (2003) + Shukla et al. (2024) — Training Effectiveness & Online Transfer
+- Sources: `.raw/Input/Arthur et al. - 2003 - Effectiveness of training in organizations...pdf`, `.raw/Input/Shukla et al. - 2024 - Factors affecting transfer of online training...pdf`
+- Summaries: [[arthur-et-al-2003-training-meta-analysis]], [[shukla-et-al-2024-transfer-online-training]]
+- Pages created: [[arthur-et-al-2003-training-meta-analysis]], [[shukla-et-al-2024-transfer-online-training]], [[Training Effectiveness (Meta-Analytic Evidence)]], [[Online Training Transfer Taxonomy]], [[Training Method Effectiveness]], [[Winfred Arthur Jr.]], [[Ashutosh Shukla]]
+- Pages updated: [[Training Needs Analysis]], [[index]], [[hot]], [[log]]
+- Key insight: Arthur (2003) establishes training effectiveness empirically (d=0.60–0.63) and shows skill×method fit matters; Shukla (2024) extends the transfer framework to online contexts, adding computer/digital literacy & attitudes as a novel category absent from all offline models — together they form a before/after bridge from training design to digital transfer.
+
+## 2026-06-04 ingest | Cheng et al. (2019) — Challenging Diversity Training Myths
+- Source: `.raw/input/Cheng et al. - 2019 - Challenging diversity training myths.pdf`
+- Summary: [[cheng-et-al-2019-diversity-training-myths]]
+- Pages created: [[cheng-et-al-2019-diversity-training-myths]], [[Diversity Training]], [[Diversity Training Myths]], [[Multicultural vs. Colorblind Approaches]], [[Mikki Hebl]], [[Eden King]], [[bezrukova-et-al-2016-diversity-training-meta-analysis]]
+- Pages updated: [[Eduardo Salas]], [[index]], [[hot]], [[log]]
+- Key insight: The binary "does diversity training work?" question is the root problem — conditions (duration, framing, voluntariness, leadership support, trainer quality) determine effectiveness; satisfaction surveys are a particularly poor measure of success.
+
+## 2026-06-04 ingest | CMU Eberly Center — Learning Principles
+- Source: `.raw/output/learning-2026-06-04.md` (fetched from https://www.cmu.edu/teaching/principles/learning.html)
+- Summary: [[cmu-eberly-learning-principles]]
+- Pages created: [[cmu-eberly-learning-principles]], [[CMU Eberly Center]], [[Prior Knowledge]], [[Knowledge Organization]], [[Motivation and Learning]], [[Mastery Learning]], [[Goal-Directed Practice and Feedback]], [[Classroom Climate]], [[Metacognition and Self-Directed Learning]]
+- Pages updated: [[index]], [[hot]], [[log]]
+- Key insight: Mastery requires three stages (acquisition → integration → transfer); most instruction underinvests in integration, and instructors with expert blind spots often skip teaching it explicitly.
+
+## 2026-06-04 ingest | Frayne & Latham (1987) — Self-Management of Attendance
+- Source: `.raw/input/Frayne and Latham - 1987 - Application of social learning theory to employee self-management of attendance..pdf`
+- Summary: [[frayne-latham-1987-self-management-attendance]]
+- Pages created: [[frayne-latham-1987-self-management-attendance]], [[Colette Frayne]], [[Self-Management Training]], [[Employee Absenteeism]], [[Outcome Expectancies]], [[Self-Regulatory Skills]]
+- Pages updated: [[Gary Latham]], [[Self-Efficacy (Goal Setting)]], [[index]], [[hot]], [[log]]
+- Key insight: Self-management training raises perceived SE (r=.49 with attendance) → overcomes personal/social attendance obstacles; outcome expectancies not the active mechanism (ceiling effect pre-study).
+
 ## 2026-06-03 ingest | Shrout & Rodgers 2018 — Psychology, Science, and Knowledge Construction
 - Source: `.raw/Input/Shrout and Rodgers - 2018 - Psychology, Science, and Knowledge Construction Broadening Perspectives from the Replication Crisis.pdf`
 - Summary: [[shrout-rodgers-2018-replication-crisis]]
 - Pages created: [[Power Analysis (Replication Studies)]], [[Effect Size Heterogeneity]], [[Replication Types Taxonomy]]
 - Pages updated: [[Replication Crisis]], [[HARKing]], [[Questionable Research Practices]], [[index]], [[hot]], [[log]]
 - Key insight: The 36% OSC replication rate is statistically expected given underpowered studies and effect size heterogeneity — Maxwell et al. (2015) demonstrate this formally; the real reform is preregistration + moving from single-study to multi-study effect distribution estimation.
+
+## 2026-06-04 ingest | Kerr (1995) — On the Folly of Rewarding A, While Hoping for B
+- Source: `.raw/input/Kerr - 1995 - AN ACADEMY CLASSIC On the folly of rewarding A, while hoping for B.pdf`
+- Summary: [[kerr-1995-folly-rewarding-A]]
+- Pages created: [[kerr-1995-folly-rewarding-A]], [[Reward System Misalignment]], [[Fouled-Up Reward Systems]], [[Goal Displacement]], [[Operative vs Official Goals]], [[Steven Kerr]]
+- Pages updated: `wiki/index.md`, `wiki/hot.md`, `wiki/log.md`
+- Key insight: Organizations systematically reward measurable proxies (A) while hoping for harder-to-measure goals (B); rational actors follow rewards, not stated intentions.
 
 ## 2026-06-01 ingest | Lord, Day, Zaccaro, Avolio & Eagly 2017 — Leadership in Applied Psychology
 - Source: `.raw/lord et al 2017 - leadership in applied psychology.md`
@@ -449,60 +505,4 @@ Parse recent entries: `grep "^## \[" wiki/log.md | head -10`
 - Type: session + 4 concept pages + 1 entity page
 - Location: wiki/meta/2026-04-14-claude-seo-v190-session.md
 - From: full v1.9.0 implementation session — reviewed 5 community submissions, integrated 4 new skills (seo-cluster, seo-sxo, seo-drift, seo-ecommerce), enhanced seo-hreflang, added DataForSEO cost guardrails
-- Pages created: [[2026-04-14-claude-seo-v190-session]], [[Claude SEO]], [[Pro Hub Challenge]], [[Semantic Topic Clustering]], [[Search Experience Optimization]], [[SEO Drift Monitoring]]
-- Review rounds: 4 (code review x3 + cybersecurity audit). Score: 87 → 93 → 97 → 85 security
-- Key learnings: always verify subagent output (40-line count error caught), insertion-point bugs caught by max-effort plan review, pre-existing security debt identified (10 of 15 findings)
-
-## [2026-04-14] save | SVG Diagram Style Guide
-- Type: concept
-- Location: wiki/concepts/SVG Diagram Style Guide.md
-- From: extracted design tokens from 17 production SVGs in claude-ads/assets/diagrams/
-- Covers: colors, typography, layout primitives, card patterns, arrow connectors, numbered circles, file naming
-
-## [2026-04-14] save | Community CTA Footer Rollout
-- Type: decision
-- Location: wiki/meta/2026-04-14-community-cta-rollout.md
-- From: session adding Skool community footer to 6 skill repos (claude-ads, claude-seo, claude-obsidian, claude-blog, banana-claude, claude-cybersecurity)
-- Key insight: frequency calibration per tool type; single-point orchestrator instruction pattern
-
-## [2026-04-10] save | Backlink Empire - Blog Posts, Karpathy Gist, GitHub Cross-Linking
-- Type: session
-- Location: wiki/meta/2026-04-10-backlink-empire-session.md
-- From: full session covering blog creation (claude-obsidian + claude-canvas), Karpathy gist comment, 26 GitHub README updates with Author/community/backlink sections, homepage URLs on 10 repos, topics on 25 repos, rankenstein.pro backlinks on 5 SEO repos
-- Blog posts: agricidaniel.com/blog/claude-obsidian-ai-second-brain, agricidaniel.com/blog/claude-canvas-ai-visual-production
-- Impact: ~87 new backlinks from DA 96 github.com, 6 rankenstein.pro backlinks, 25 Skool community links
-
-## [2026-04-08] save | claude-obsidian v1.4 Release Session
-- Type: session
-- Location: wiki/meta/claude-obsidian-v1.4-release-session.md
-- From: full release cycle covering v1.1 (URL/vision/delta tracking, 3 new skills), v1.4.0 (audit response, multi-agent compat, Bases dashboard, em dash scrub, security history rewrite), and v1.4.1 (plugin install command hotfix)
-- Key lessons: plugin install is 2-step (marketplace add then install), allowed-tools is not valid frontmatter, Bases uses filters/views/formulas not Dataview syntax, hook context does not survive compaction, git filter-repo needs 2 passes for full scrub
-
-## [2026-04-08] ingest | Claude + Obsidian Ecosystem Research
-- Type: research ingest
-- Source: `.raw/claude-obsidian-ecosystem-research.md`
-- Queries: 6 parallel web searches + 12 repo deep-reads
-- Pages created: [[claude-obsidian-ecosystem]], [[cherry-picks]], [[claude-obsidian-ecosystem-research]], [[Ar9av-obsidian-wiki]], [[Nexus-claudesidian-mcp]], [[ballred-obsidian-claude-pkm]], [[rvk7895-llm-knowledge-bases]], [[kepano-obsidian-skills]], [[Claudian-YishenTu]]
-- Key finding: 16+ active Claude+Obsidian projects; 13 cherry-pick features identified for v1.3.0+
-- Top gap confirmed: no delta tracking, no URL ingestion, no auto-commit
-
-## [2026-04-07] session | Full Audit, System Setup & Plugin Installation
-- Type: session
-- Location: wiki/meta/full-audit-and-system-setup-session.md
-- From: 12-area repo audit, 3 fixes, plugin installed to local system, folder renamed
-
-## [2026-04-07] session | claude-obsidian v1.2.0 Release Session
-- Type: session
-- Location: wiki/meta/claude-obsidian-v1.2.0-release-session.md
-- From: full build session — v1.2.0 plan execution, cosmic-brain→claude-obsidian rename, legal/security audit, branded GIFs, PDF install guide, dual GitHub repos
-
-
-- Source: `.raw/` (first ingest)
-- Pages updated: [[index]], [[log]], [[hot]], [[overview]]
-- Key insight: The wiki pattern turns ephemeral AI chat into compounding knowledge — one user dropped token usage by 95%.
-
-## [2026-04-07] setup | Vault initialized
-
-- Plugin: claude-obsidian v1.1.0
-- Structure: seed files + first ingest complete
-- Skills: wiki, wiki-ingest, wiki-query, wiki-lint, save, autoresearch
+- Pages creat

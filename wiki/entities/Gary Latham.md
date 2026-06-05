@@ -6,7 +6,7 @@ title: "Gary P. Latham"
 tags: [researcher, IO-psychology, motivation, goal-setting, HR]
 status: developing
 created: 2026-05-30
-related: ["[[Goal-Setting Theory]]", "[[Edwin Locke]]", "[[Self-Efficacy (Goal Setting)]]", "[[High-Performance Cycle]]", "[[Situational Interview]]", "[[wiki/sources/locke-latham-2002-goal-setting-theory|Locke & Latham 2002]]"]
+related: ["[[Goal-Setting Theory]]", "[[Edwin Locke]]", "[[Self-Efficacy (Goal Setting)]]", "[[High-Performance Cycle]]", "[[Situational Interview]]", "[[Colette Frayne]]", "[[Self-Management Training]]", "[[Employee Absenteeism]]", "[[wiki/sources/locke-latham-2002-goal-setting-theory|Locke & Latham 2002]]", "[[frayne-latham-1987-self-management-attendance|Frayne & Latham 1987]]"]
 ---
 
 # Gary P. Latham
@@ -30,6 +30,6 @@ Industrial–organizational psychologist. Joseph L. Rotman School of Business, U
 - Latham & Baldes (1975) — truck driver goal-setting field study ($250k savings)
 - Latham & Kinne (1974) — logging goal-setting
 - Latham, Saari, Pursell & Campion (1980) — situational interview
-- Frayne & Latham (1987) — self-management attendance training
+- [[frayne-latham-1987-self-management-attendance|Frayne & Latham (1987)]] — self-management attendance training (*JAP* 72(3))
 - Locke & Latham (1990) — *A Theory of Goal Setting and Task Performance*
 - [[wiki/sources/locke-latham-2002-goal-setting-theory|Locke & Latham (2002)]] — 35-year summary, *American Psychologist*

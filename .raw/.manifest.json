@@ -927,6 +927,227 @@
         "wiki/log.md",
         "wiki/hot.md"
       ]
+    },
+    ".raw/input/Kerr - 1995 - AN ACADEMY CLASSIC On the folly of rewarding A, while hoping for B.pdf": {
+      "hash": "f57a92f180a640708799d43f4e1c6979",
+      "ingested_at": "2026-06-04",
+      "pages_created": [
+        "wiki/sources/kerr-1995-folly-rewarding-A.md",
+        "wiki/concepts/Reward System Misalignment.md",
+        "wiki/concepts/Fouled-Up Reward Systems.md",
+        "wiki/concepts/Goal Displacement.md",
+        "wiki/concepts/Operative vs Official Goals.md",
+        "wiki/entities/Steven Kerr.md"
+      ],
+      "pages_updated": [
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md"
+      ]
+    },
+    ".raw/input/Frayne and Latham - 1987 - Application of social learning theory to employee self-management of attendance..pdf": {
+      "hash": "8080b17c0eb753af0381cc94d6a68560",
+      "ingested_at": "2026-06-04",
+      "pages_created": [
+        "wiki/sources/frayne-latham-1987-self-management-attendance.md",
+        "wiki/entities/Colette Frayne.md",
+        "wiki/concepts/Self-Management Training.md",
+        "wiki/concepts/Employee Absenteeism.md",
+        "wiki/concepts/Outcome Expectancies.md",
+        "wiki/concepts/Self-Regulatory Skills.md"
+      ],
+      "pages_updated": [
+        "wiki/entities/Gary Latham.md",
+        "wiki/concepts/Self-Efficacy (Goal Setting).md",
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md"
+      ]
+    },
+    ".raw/output/learning-2026-06-04.md": {
+      "hash": "d58dff7f402f53227db8d93178fc226f",
+      "ingested_at": "2026-06-04",
+      "pages_created": [
+        "wiki/sources/cmu-eberly-learning-principles.md",
+        "wiki/entities/CMU Eberly Center.md",
+        "wiki/concepts/Prior Knowledge.md",
+        "wiki/concepts/Knowledge Organization.md",
+        "wiki/concepts/Motivation and Learning.md",
+        "wiki/concepts/Mastery Learning.md",
+        "wiki/concepts/Goal-Directed Practice and Feedback.md",
+        "wiki/concepts/Classroom Climate.md",
+        "wiki/concepts/Metacognition and Self-Directed Learning.md"
+      ],
+      "pages_updated": [
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md"
+      ]
+    },
+    ".raw/input/Cheng et al. - 2019 - Challenging diversity training myths.pdf": {
+      "hash": "4da08e72b96cfb1b48f0ffcc669b7e3c",
+      "ingested_at": "2026-06-04",
+      "pages_created": [
+        "wiki/sources/cheng-et-al-2019-diversity-training-myths.md",
+        "wiki/concepts/Diversity Training.md",
+        "wiki/concepts/Diversity Training Myths.md",
+        "wiki/concepts/Multicultural vs. Colorblind Approaches.md",
+        "wiki/entities/Mikki Hebl.md",
+        "wiki/entities/Eden King.md",
+        "wiki/sources/bezrukova-et-al-2016-diversity-training-meta-analysis.md"
+      ],
+      "pages_updated": [
+        "wiki/entities/Eduardo Salas.md",
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md"
+      ]
+    },
+    ".raw/Input/Arthur et al. - 2003 - Effectiveness of training in organizations A meta-analysis of design and evaluation features..pdf": {
+      "hash": "68ccd978a704b614ac75429fdc44a4b3",
+      "ingested_at": "2026-06-04",
+      "pages_created": [
+        "wiki/sources/arthur-et-al-2003-training-meta-analysis.md",
+        "wiki/concepts/Training Effectiveness (Meta-Analytic Evidence).md",
+        "wiki/concepts/Training Method Effectiveness.md",
+        "wiki/entities/Winfred Arthur Jr.md"
+      ],
+      "pages_updated": [
+        "wiki/concepts/Training Needs Analysis.md",
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md"
+      ]
+    },
+    ".raw/Input/Shukla et al. - 2024 - Factors affecting transfer of online training A systematic literature review and proposed taxonomy.pdf": {
+      "hash": "0b52edf98abca052a2fc3f412c6bb39b",
+      "ingested_at": "2026-06-04",
+      "pages_created": [
+        "wiki/sources/shukla-et-al-2024-transfer-online-training.md",
+        "wiki/concepts/Online Training Transfer Taxonomy.md",
+        "wiki/entities/Ashutosh Shukla.md"
+      ],
+      "pages_updated": [
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md"
+      ]
+    },
+    ".raw/input/Burke and Hutchins - 2007 - Training Transfer An Integrative Literature Review.pdf": {
+      "hash": "a6e218cebe6fa860dcf9c8a231b0aa55",
+      "ingested_at": "2026-06-04",
+      "pages_created": [
+        "wiki/sources/burke-hutchins-2007-training-transfer.md",
+        "wiki/concepts/After-Event Reviews.md"
+      ],
+      "pages_updated": [
+        "wiki/concepts/Training Transfer.md",
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md"
+      ]
+    },
+    ".raw/input/Ellis and Davidi - 2005 - After-Event Reviews Drawing Lessons From Successful and Failed Experience..pdf": {
+      "hash": "9bbc3e4da65ae959175bb80ebefcce42",
+      "ingested_at": "2026-06-04",
+      "pages_created": [
+        "wiki/sources/ellis-davidi-2005-after-event-reviews.md",
+        "wiki/concepts/After-Event Reviews.md"
+      ],
+      "pages_updated": [
+        "wiki/concepts/Training Transfer.md",
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md"
+      ]
+    },
+    ".raw/input/APA_learning_objectives.pdf": {
+      "hash": "60147d7b7d959211a1a0ba9a7c44e457",
+      "ingested_at": "2026-06-04",
+      "pages_created": [
+        "wiki/sources/apa-learning-objectives.md",
+        "wiki/concepts/Behavioral Learning Objectives.md"
+      ],
+      "pages_updated": [
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md"
+      ]
+    },
+    ".raw/Input/Alvarez et al. - 2004 - An Integrated Model of Training Evaluation and Effectiveness.pdf": {
+      "hash": "1b70540a95e597dca24c8e9df353ea63",
+      "ingested_at": "2026-06-04",
+      "pages_created": [
+        "wiki/sources/alvarez-et-al-2004-training-evaluation-effectiveness.md",
+        "wiki/concepts/Integrated Model of Training Evaluation and Effectiveness (IMTEE).md"
+      ],
+      "pages_updated": [
+        "wiki/concepts/Kirkpatrick Four-Level Model.md",
+        "wiki/concepts/Training Transfer.md",
+        "wiki/index.md"
+      ]
+    },
+    ".raw/Input/Smith-Jentsch - 2020 - Making smart investments in training.pdf": {
+      "hash": "3d4b1eb91c581448dcb0282600fa4419",
+      "ingested_at": "2026-06-04",
+      "pages_created": [
+        "wiki/sources/smith-jentsch-2020-smart-investments-training.md",
+        "wiki/entities/Kimberly A. Smith-Jentsch.md"
+      ],
+      "pages_updated": [
+        "wiki/concepts/Training Transfer.md",
+        "wiki/index.md"
+      ]
+    },
+    ".raw/Input/Avolio et al. - 2010 - Estimating return on leadership development investment.pdf": {
+      "hash": "80cdf115051a531c7a1fee0bb48d3a16",
+      "ingested_at": "2026-06-04",
+      "pages_created": [
+        "wiki/sources/avolio-et-al-2010-ROI-leadership-development.md",
+        "wiki/concepts/Return on Development Investment (RODI).md"
+      ],
+      "pages_updated": [
+        "wiki/entities/Bruce J. Avolio.md",
+        "wiki/index.md"
+      ]
+    },
+    ".raw/input/Stepping to the Edge of One's Comfort Zone, McCauley & Yost, 2021.pdf": {
+      "hash": "7c57c53d1c3703e916313926bf6ddf71",
+      "ingested_at": "2026-06-04",
+      "pages_created": [
+        "wiki/sources/mccauley-yost-2021-comfort-zone.md",
+        "wiki/concepts/Stretch Experiences.md",
+        "wiki/entities/Cynthia McCauley.md"
+      ],
+      "pages_updated": [
+        "wiki/entities/Paul Yost.md",
+        "wiki/concepts/Learning Agility.md",
+        "wiki/index.md"
+      ]
+    },
+    ".raw/input/Derailment-EDLDch9-Yost & Plunkett-2009.pdf": {
+      "hash": "53a261d143253d9b46e5d8dc4e087c3f",
+      "ingested_at": "2026-06-04",
+      "pages_created": [
+        "wiki/sources/yost-plunkett-2009-derailment.md",
+        "wiki/concepts/Derailment.md"
+      ],
+      "pages_updated": [
+        "wiki/entities/Paul Yost.md",
+        "wiki/index.md"
+      ]
+    },
+    ".raw/input/Leadership-Pipeline, Chapter 1, Charan.pdf": {
+      "hash": "804f8258753120d12a97fb52acced398",
+      "ingested_at": "2026-06-04",
+      "pages_created": [
+        "wiki/sources/charan-leadership-pipeline-ch1.md",
+        "wiki/concepts/Leadership Pipeline.md",
+        "wiki/entities/Ram Charan.md"
+      ],
+      "pages_updated": [
+        "wiki/index.md"
+      ]
     }
   },
   "address_map": {
@@ -1234,7 +1455,61 @@
     "wiki/sources/shrout-rodgers-2018-replication-crisis.md": "c-000381",
     "wiki/concepts/Power Analysis (Replication Studies).md": "c-000384",
     "wiki/concepts/Effect Size Heterogeneity.md": "c-000385",
-    "wiki/concepts/Replication Types Taxonomy.md": "c-000386"
+    "wiki/concepts/Replication Types Taxonomy.md": "c-000386",
+    "wiki/sources/kerr-1995-folly-rewarding-A.md": "c-000381",
+    "wiki/concepts/Reward System Misalignment.md": "c-000382",
+    "wiki/concepts/Fouled-Up Reward Systems.md": "c-000383",
+    "wiki/concepts/Operative vs Official Goals.md": "c-000384",
+    "wiki/concepts/Goal Displacement.md": "c-000385",
+    "wiki/entities/Steven Kerr.md": "c-000386",
+    "wiki/sources/frayne-latham-1987-self-management-attendance.md": "c-000387",
+    "wiki/entities/Colette Frayne.md": "c-000388",
+    "wiki/concepts/Self-Management Training.md": "c-000389",
+    "wiki/concepts/Employee Absenteeism.md": "c-000390",
+    "wiki/concepts/Outcome Expectancies.md": "c-000391",
+    "wiki/concepts/Self-Regulatory Skills.md": "c-000392",
+    "wiki/sources/cmu-eberly-learning-principles.md": "c-000393",
+    "wiki/entities/CMU Eberly Center.md": "c-000394",
+    "wiki/concepts/Prior Knowledge.md": "c-000395",
+    "wiki/concepts/Knowledge Organization.md": "c-000396",
+    "wiki/concepts/Motivation and Learning.md": "c-000397",
+    "wiki/concepts/Mastery Learning.md": "c-000398",
+    "wiki/concepts/Goal-Directed Practice and Feedback.md": "c-000399",
+    "wiki/concepts/Classroom Climate.md": "c-000400",
+    "wiki/concepts/Metacognition and Self-Directed Learning.md": "c-000401",
+    "wiki/sources/cheng-et-al-2019-diversity-training-myths.md": "c-000402",
+    "wiki/concepts/Diversity Training.md": "c-000403",
+    "wiki/concepts/Diversity Training Myths.md": "c-000404",
+    "wiki/concepts/Multicultural vs. Colorblind Approaches.md": "c-000405",
+    "wiki/entities/Mikki Hebl.md": "c-000406",
+    "wiki/entities/Eden King.md": "c-000407",
+    "wiki/sources/bezrukova-et-al-2016-diversity-training-meta-analysis.md": "c-000408",
+    "wiki/sources/arthur-et-al-2003-training-meta-analysis.md": "c-000410",
+    "wiki/sources/shukla-et-al-2024-transfer-online-training.md": "c-000411",
+    "wiki/concepts/Training Effectiveness (Meta-Analytic Evidence).md": "c-000412",
+    "wiki/concepts/Online Training Transfer Taxonomy.md": "c-000413",
+    "wiki/entities/Winfred Arthur Jr.md": "c-000414",
+    "wiki/entities/Ashutosh Shukla.md": "c-000415",
+    "wiki/concepts/Training Method Effectiveness.md": "c-000417",
+    "wiki/sources/burke-hutchins-2007-training-transfer.md": "c-000418",
+    "wiki/sources/ellis-davidi-2005-after-event-reviews.md": "c-000419",
+    "wiki/sources/apa-learning-objectives.md": "c-000420",
+    "wiki/concepts/After-Event Reviews.md": "c-000421",
+    "wiki/concepts/Behavioral Learning Objectives.md": "c-000422",
+    "wiki/sources/alvarez-et-al-2004-training-evaluation-effectiveness.md": "c-000423",
+    "wiki/sources/smith-jentsch-2020-smart-investments-training.md": "c-000424",
+    "wiki/sources/avolio-et-al-2010-ROI-leadership-development.md": "c-000425",
+    "wiki/concepts/Integrated Model of Training Evaluation and Effectiveness (IMTEE).md": "c-000426",
+    "wiki/concepts/Return on Development Investment (RODI).md": "c-000427",
+    "wiki/entities/Kimberly A. Smith-Jentsch.md": "c-000428",
+    "wiki/sources/mccauley-yost-2021-comfort-zone.md": "c-000438",
+    "wiki/concepts/Stretch Experiences.md": "c-000439",
+    "wiki/entities/Cynthia McCauley.md": "c-000440",
+    "wiki/sources/yost-plunkett-2009-derailment.md": "c-000441",
+    "wiki/concepts/Derailment.md": "c-000442",
+    "wiki/sources/charan-leadership-pipeline-ch1.md": "c-000443",
+    "wiki/concepts/Leadership Pipeline.md": "c-000444",
+    "wiki/entities/Ram Charan.md": "c-000445"
   },
   ".raw/Pearsall et al. - 2025 - A stimulus-based model of the team adaptation process An integrated conceptual review..pdf": {
     "hash": "62f683006d3323a67c67fc23621f632a",

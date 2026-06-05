@@ -8,6 +8,8 @@ created: 2026-06-01
 related:
   - "[[Training Context and Transfer Climate]]"
   - "[[bell-et-al-2017-100-years-training-development]]"
+  - "[[arthur-et-al-2003-training-meta-analysis]]"
+  - "[[Training Effectiveness (Meta-Analytic Evidence)]]"
 ---
 
 # Training Needs Analysis
@@ -47,7 +49,12 @@ McNall & Foster-Fishman (2007) — rapid evaluation and assessment method (REAM)
 - What are the consequences of skipping or abbreviating needs analysis?
 - How to integrate real-time training performance data back into needs assessment continuously?
 
+## Meta-Analytic Support
+
+[[arthur-et-al-2003-training-meta-analysis]] provides rare empirical support: studies that reported conducting needs assessment obtained larger training effect sizes. Data limited (sparse reporting) but directionally consistent — more comprehensive NA → larger d. Arthur et al. note practitioners likely do needs assessments but don't report them, making this a weak test.
+
 ## Sources
 
 - [[bell-et-al-2017-100-years-training-development]] (Future Research section)
+- [[arthur-et-al-2003-training-meta-analysis]] — meta-analytic d comparisons by NA level
 - Goldstein & Ford (2002) — canonical prescriptive model
