@@ -1,11 +1,16 @@
 ---
 type: meta
-title: "log"
+title: Operation Log
 updated:
 tags:
   - meta
   - log
 status: evergreen
+related:
+  - "[[index]]"
+  - "[[hot]]"
+  - "[[overview]]"
+  - "[[sources/_index]]"
 ---
 # Operation Log
 
