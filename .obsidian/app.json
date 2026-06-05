@@ -6,7 +6,8 @@
     "README.md",
     "CLAUDE.md",
     "WIKI.md",
-    "Welcome.md"
+    "Welcome.md",
+    "bin/"
   ],
   "showUnsupportedFiles": true,
   "alwaysUpdateLinks": true
