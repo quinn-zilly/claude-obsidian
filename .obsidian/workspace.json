@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "940851042500d9d6",
+        "id": "c89bd2446ca53da2",
         "type": "tabs",
         "children": [
           {
-            "id": "d4ae501a7f16352c",
+            "id": "70a1ebd1708d4794",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -80,7 +80,8 @@
               "title": "File Tree"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -207,7 +208,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 313.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -226,44 +227,43 @@
       "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "673151f542aae49d",
+  "active": "70a1ebd1708d4794",
   "lastOpenFiles": [
-    "wiki/getting-started.md",
-    "wiki/sources/shrout-rodgers-2018-replication-crisis.md",
-    "wiki/hot.md.tmp.24404.fc79e112bae5",
-    "wiki/hot.md.tmp.24404.14f7ff420dff",
-    "wiki/log.md.tmp.24404.3d13fe85459e",
-    "wiki/index.md.tmp.24404.fb1c04fffa40",
-    "wiki/index.md.tmp.24404.242a27d96bbe",
-    "wiki/index.md.tmp.24404.25121296146e",
-    "wiki/concepts/Replication Crisis.md.tmp.24404.3b4fd0b29b65",
-    "wiki/concepts/Replication Types Taxonomy.md",
-    "wiki/concepts/Effect Size Heterogeneity.md",
-    "wiki/concepts/Power Analysis (Replication Studies).md",
-    "wiki/concepts/Questionable Research Practices.md.tmp.24404.5d9e72e7cc4d",
-    "wiki/concepts/HARKing.md.tmp.24404.22dc0977ccbb",
-    "wiki/sources/shrout-rodgers-2018-replication-crisis.md.tmp.24404.7211cefd26ff",
-    "wiki/projects/KM Research Paper.md",
-    "wiki/concepts/Open Science Framework.md",
-    "wiki/concepts/Analytic Reproducibility.md",
-    "wiki/sources/munafo-2017-manifesto.md",
-    "wiki/sources/uhlmann-2019-crowdsourcing-science.md",
-    "wiki/sources/nosek-2018-preregistration.md",
-    "wiki/sources/nosek-2012-scientific-utopia-ii.md",
-    "wiki/sources/grant-1996-knowledge-based-theory.md",
-    "wiki/sources/giner-sorolla-2012-science-or-art.md",
-    "wiki/sources/alavi-leidner-2001-knowledge-management.md",
-    "wiki/concepts/TOP Guidelines.md",
-    "wiki/sources/nosek-2022-replicability-robustness-reproducibility.md",
-    "wiki/sources/foster-deardorff-2017-osf.md",
-    "wiki/concepts/Preregistration.md",
-    "wiki/concepts/Registered Reports.md",
-    "wiki/sources/open-science-collaboration-2015.md",
-    "wiki/entities/Brian Nosek.md",
-    "Open Science Collaboration 2015.md",
-    "Holman et al. - 2020 - Leading diversity Towards a theory of functional leadership in diverse teams.md",
-    "wiki/sources/lord-et-al-2017-leadership-in-applied-psychology.md",
-    "wiki/hot.md",
+    "wiki/sources/yost-plunkett-2009-derailment.md",
+    "wiki/hot.md.tmp.21768.56afa9886f8a",
+    "wiki/index.md.tmp.21768.5c59487c2e28",
+    "wiki/concepts/Learning Agility.md.tmp.21768.f5a68ae9b170",
+    "wiki/entities/Ram Charan.md",
+    "wiki/concepts/Leadership Pipeline.md",
+    "wiki/sources/charan-leadership-pipeline-ch1.md",
+    "wiki/concepts/Derailment.md",
+    "wiki/entities/Cynthia McCauley.md",
+    "wiki/entities/Cynthia McCauley.md.tmp.21768.a482c4c36f92",
+    "wiki/concepts/Stretch Experiences.md",
+    "wiki/sources/mccauley-yost-2021-comfort-zone.md",
+    "wiki/sources/mccauley-yost-2021-comfort-zone.md.tmp.21768.7446e71cc94d",
+    "wiki/sedQqq2m4",
+    "wiki/sed3Xwrmk",
+    "wiki/sedNEz7TV",
+    "wiki/entities/Kimberly A. Smith-Jentsch.md",
+    "wiki/concepts/Return on Development Investment (RODI).md",
+    "wiki/concepts/Integrated Model of Training Evaluation and Effectiveness (IMTEE).md",
+    "wiki/sources/avolio-et-al-2010-ROI-leadership-development.md",
+    "wiki/sources/smith-jentsch-2020-smart-investments-training.md",
+    "wiki/sources/smith-jentsch-2020-smart-investments-training.md.tmp.20340.58289df24cf2",
+    "wiki/sources/alvarez-et-al-2004-training-evaluation-effectiveness.md",
+    "wiki/log.md.tmp.15696.3f017e67a692",
+    "wiki/concepts/Behavioral Learning Objectives.md",
+    "wiki/concepts/After-Event Reviews.md",
+    "wiki/sources/apa-learning-objectives.md",
+    "wiki/sources/ellis-davidi-2005-after-event-reviews.md",
+    "wiki/sources/burke-hutchins-2007-training-transfer.md",
+    "wiki/entities/Ashutosh Shukla.md",
+    "wiki/entities/Winfred Arthur Jr.md",
+    "wiki/sources/shukla-et-al-2024-transfer-online-training.md",
+    "wiki/concepts/Training Method Effectiveness.md",
+    "wiki/sources/arthur-et-al-2003-training-meta-analysis.md",
+    "wiki/concepts/Online Training Transfer Taxonomy.md",
     "Excalidraw/Scripts/Downloaded/Slideshow.svg",
     "wiki/meta/History.png",
     "wiki/meta/Ready pull.png",
