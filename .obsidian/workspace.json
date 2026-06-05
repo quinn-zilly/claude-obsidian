@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "f58164154780b92e",
+        "id": "fe7747ac4770860a",
         "type": "tabs",
         "children": [
           {
-            "id": "e0ac8099e19eae41",
+            "id": "2e272d4cb0de1692",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "wiki/index.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "index"
+              "title": "New tab"
             }
           }
         ]
@@ -230,11 +226,14 @@
       "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "5565f1231fe95c42",
+  "active": "2e272d4cb0de1692",
   "lastOpenFiles": [
+    "wiki/questions/How does the LLM Wiki pattern work.md",
+    "wiki/comparisons/Wiki vs RAG.md",
+    "wiki/comparisons/claude-obsidian-ecosystem.md",
     "wiki/log.md",
-    "wiki/index.md",
     "wiki/hot.md",
+    "wiki/index.md",
     "wiki/overview.md",
     "wiki/concepts/sed1cjwfG",
     "wiki/sources/sedSgtMzZ",
@@ -257,9 +256,6 @@
     "wiki/concepts/Failure-Driven Learning.md",
     "wiki/concepts/Learning from Experience.md",
     "wiki/concepts/Type I and Type II Errors (Medicine).md",
-    "wiki/concepts/Operant Conditioning.md",
-    "wiki/concepts/Scoring Rules.md",
-    "wiki/concepts/Multiattribute Utility Theory.md",
     "wiki/concepts/sedU8Q1ZI",
     "wiki/entities/sedghPbWo",
     "wiki/sedz5RVmg",
