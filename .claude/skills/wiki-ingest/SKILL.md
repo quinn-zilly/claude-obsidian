@@ -108,8 +108,9 @@ Steps:
 3. **Choose output name**. Default: replace `.pdf` extension with `.md` (e.g. `Campbell.pdf` → `Campbell.md`). Confirm with user or use their suggestion. If `.raw/output/<name>.md` already exists, ask before proceeding — the script will error on collision.
 4. **Run** the conversion script:
    ```bash
-   py -3.12 scripts/pdf-to-md.py "<input.pdf>" "<output.md>"
+   python scripts/pdf-to-md.py "<input.pdf>" "<output.md>"
    ```
+   Script auto-selects the Python 3.12 install where marker is installed; no need to pick an interpreter.
 5. **Verify** `.raw/output/<output.md>` exists and is non-empty.
 6. Proceed with **Single Source Ingest** using `.raw/output/<output.md>` as the source file (start at step 1 of that section).
 
