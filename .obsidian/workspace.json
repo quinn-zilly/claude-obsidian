@@ -84,7 +84,8 @@
               "title": "File Tree"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -211,7 +212,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 205.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -230,8 +231,16 @@
       "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "5565f1231fe95c42",
+  "active": "f91fa7692816f834",
   "lastOpenFiles": [
+    "wiki/projects/Training Checklist.md.tmp.28740.a87cb4a22a0c",
+    "wiki/projects/Training Checklist.md.tmp.28740.6d1febebe781",
+    "wiki/projects/Training Checklist.md.tmp.28740.c7f0a6957017",
+    "wiki/projects/Training Checklist.md.tmp.28740.3eada44f99ee",
+    "wiki/projects/Training Checklist.md.tmp.28740.002190dd6b5a",
+    "wiki/projects/Training Checklist.md.tmp.28740.c59bab41b03c",
+    "wiki/projects/Training Checklist.md.tmp.7880.2647a1988b79",
+    "wiki/projects/Training Checklist.md.tmp.17600.893c08c0846a",
     "wiki/hot.md.tmp.21368.881ade503cf8",
     "wiki/concepts/Equitable Data Collection.md",
     "wiki/concepts/DEI Evaluation.md",
@@ -240,14 +249,6 @@
     "wiki/projects/Training Checklist.md",
     "wiki/index.md.tmp.24380.3d945a7273ef",
     "wiki/index.md.tmp.24380.4d0ae03cb400",
-    "wiki/sources/yost-plunkett-2009-transition.md.tmp.24380.f40549b870ab",
-    "wiki/hot.md.tmp.5336.8711e46c4187",
-    "wiki/hot.md.tmp.5336.32b0e0d11801",
-    "wiki/log.md.tmp.5336.591b8d0d5921",
-    "wiki/index.md.tmp.5336.94e5296b2cc3",
-    "wiki/index.md.tmp.5336.bb32a0196041",
-    "wiki/entities/Paul Yost.md.tmp.5336.79e537df8e44",
-    "wiki/entities/Paul Yost.md.tmp.5336.1b187c230a4b",
     "wiki/concepts/Training as Catalyst (OJD).md",
     "wiki/concepts/Experience-Driven Development.md",
     "wiki/sources/yost-2013-experience-driven-development.md",
