@@ -6,6 +6,7 @@ title: "Louis Tay"
 tags: [entity, person, psychometrics, researcher]
 status: evergreen
 created: 2026-06-01
+updated: 2026-06-01
 related: ["[[Andrew T. Jebb]]", "[[Likert Scale Development]]", "[[Construct Definition]]", "[[jebb-ng-tay-2021-likert-scale-advances]]"]
 ---
 

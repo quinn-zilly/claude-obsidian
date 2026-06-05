@@ -1,10 +1,12 @@
 ---
 type: concept
+address: c-000461
 title: "Five-Factor Model"
 aliases: [FFM, "Big Five", "OCEAN"]
 tags: [concept, personality, measurement]
 status: developing
 created: 2026-06-01
+updated: 2026-06-01
 related:
   - "[[Trait Activation Theory]]"
   - "[[Person–Environment Fit]]"

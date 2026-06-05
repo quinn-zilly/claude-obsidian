@@ -7,6 +7,7 @@ affiliation: "University at Albany (SUNY)"
 tags: [entity, person, I-O-psychology, training-evaluation]
 status: stub
 created: 2026-06-01
+updated: 2026-06-01
 related: ["[[Scott I. Tannenbaum]]", "[[alliger-et-al-1997-training-criteria-meta-analysis]]", "[[Kirkpatrick Four-Level Model]]"]
 ---
 

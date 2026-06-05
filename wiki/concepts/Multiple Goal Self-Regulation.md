@@ -6,6 +6,7 @@ aliases: ["multiple goal pursuit", "multi-goal allocation", "resource allocation
 tags: [motivation, self-regulation, goals, resource-allocation]
 status: mature
 created: 2026-06-01
+updated: 2026-06-01
 related:
   - "[[Control Theory (Self-Regulation)]]"
   - "[[Temporal Motivation Theory]]"

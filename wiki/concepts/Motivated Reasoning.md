@@ -35,7 +35,7 @@ We are more likely to:
 
 ## In Research Context
 
-[[Nosek et al. 2012 - Scientific Utopia II]] argues that motivated reasoning is particularly influential in research when:
+[[nosek-2012-scientific-utopia-ii|Nosek et al. 2012 - Scientific Utopia II]] argues that motivated reasoning is particularly influential in research when:
 
 1. **The situation is complex**: Many reasonable research design choices exist
 2. **Available information is ambiguous**: Multiple interpretations are defensible
@@ -72,7 +72,7 @@ Motivated reasoning helps explain how [[Publication Bias]] and [[P-hacking|quest
 
 ## Solutions
 
-Rather than assuming researchers will overcome motivated reasoning through willpower or education, [[Nosek et al. 2012 - Scientific Utopia II]] proposes structural solutions:
+Rather than assuming researchers will overcome motivated reasoning through willpower or education, [[nosek-2012-scientific-utopia-ii|Nosek et al. 2012 - Scientific Utopia II]] proposes structural solutions:
 
 1. **Reduce flexibility**: Preregister hypotheses and analysis plans to limit motivated choice-points
 2. **Increase transparency**: Open workflow makes motivated reasoning visible; knowing someone could look reduces likelihood of engaging in it
@@ -88,5 +88,5 @@ Rather than assuming researchers will overcome motivated reasoning through willp
 ## Sources
 
 - Kunda, Z. (1990). The case for motivated reasoning. Psychological Bulletin, 108, 480–498.
-- [[Nosek et al. 2012 - Scientific Utopia II]]
-- [[Bastardi, Uhlmann, & Ross (2011)]]
+- [[nosek-2012-scientific-utopia-ii|Nosek et al. 2012 - Scientific Utopia II]]
+- Bastardi, Uhlmann, & Ross (2011)

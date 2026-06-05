@@ -1,10 +1,12 @@
 ---
 type: concept
+address: c-000468
 title: "Psychological Safety"
 aliases: ["psychological safety climate", "team psychological safety"]
 tags: [concept, teams, climate, learning, intervention]
 status: developing
 created: 2026-06-01
+updated: 2026-06-01
 related:
   - "[[Team Development Interventions]]"
   - "[[Team Debriefing]]"

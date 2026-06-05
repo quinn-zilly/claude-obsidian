@@ -4,6 +4,7 @@ type: concept
 title: "Organizational Commitment"
 tags: [concept, organizational-commitment, job-attitudes, organizational-psychology]
 created: 2026-06-01
+updated: 2026-06-01
 status: evergreen
 related: ["[[Job Attitudes]]", "[[Job Satisfaction]]", "[[Affective Events Theory]]", "[[Job Performance (Outcomes of Job Attitudes)]]", "[[Timothy A. Judge]]", "[[John D. Kammeyer-Mueller]]"]
 ---

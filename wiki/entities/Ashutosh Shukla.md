@@ -6,6 +6,7 @@ title: "Ashutosh Shukla"
 tags: [entity, person, HRD, online-training, training-transfer]
 status: stub
 created: 2026-06-04
+updated: 2026-06-04
 related: ["[[shukla-et-al-2024-transfer-online-training]]", "[[Online Training Transfer Taxonomy]]"]
 ---
 

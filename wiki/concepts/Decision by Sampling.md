@@ -5,6 +5,7 @@ title: "Decision by Sampling"
 tags: [concept, JDM, choice, memory, cognitive-model]
 status: evergreen
 created: 2026-05-26
+updated: 2026-05-26
 related: ["[[Cumulative Prospect Theory]]", "[[Loss Aversion]]", "[[Constructed Preference]]"]
 ---
 

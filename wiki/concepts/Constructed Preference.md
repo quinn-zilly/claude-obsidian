@@ -5,6 +5,7 @@ title: "Constructed Preference"
 tags: [concept, JDM, preference, decision-making, choice-architecture]
 status: evergreen
 created: 2026-05-26
+updated: 2026-05-26
 related: ["[[Prospect Theory]]", "[[Framing Effects]]", "[[Judgment and Decision Making (Field)]]"]
 ---
 

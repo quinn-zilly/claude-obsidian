@@ -6,6 +6,7 @@ aliases: [ILTs]
 tags: [leadership, social-cognition, perception, rating-bias]
 status: mature
 created: 2026-06-01
+updated: 2026-06-01
 related:
   - "[[Three Waves of Leadership Research]]"
   - "[[Trait Paradigm (Leadership)]]"

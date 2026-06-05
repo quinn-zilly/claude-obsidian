@@ -12,6 +12,7 @@ doi: "10.1037/apl0000133"
 tags: [motivation, work-psychology, IO-psychology, goal-setting, self-regulation, resource-allocation, meta-framework]
 status: evergreen
 created: 2026-05-30
+updated: 2026-05-30
 related: ["[[Work Motivation Meta-Framework (Kanfer)]]", "[[Goal-Setting Theory]]", "[[Resource Allocation Theory (Motivation)]]", "[[Action Regulation Theory]]", "[[Ego Depletion]]", "[[Regulatory Focus Theory]]", "[[Job Characteristics Model]]", "[[Ruth Kanfer]]", "[[Michael Frese]]", "[[Russell Johnson]]", "[[Self-Determination Theory]]"]
 ---
 

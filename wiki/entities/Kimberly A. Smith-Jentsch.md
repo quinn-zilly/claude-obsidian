@@ -3,6 +3,7 @@ address: c-000428
 tags: [person, training-scientist, team-training, transfer]
 status: developing
 created: 2026-06-04
+updated: 2026-06-04
 ---
 
 # Kimberly A. Smith-Jentsch

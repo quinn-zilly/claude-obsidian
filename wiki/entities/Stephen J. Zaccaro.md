@@ -7,6 +7,7 @@ affiliation: "George Mason University (Department of Psychology)"
 tags: [leadership, researcher, teams, functional-leadership]
 status: developing
 created: 2026-06-01
+updated: 2026-06-01
 related:
   - "[[Team Leadership]]"
   - "[[Three Waves of Leadership Research]]"

@@ -5,6 +5,7 @@ title: "Mental Models (Decision)"
 tags: [concept, JDM, knowledge, risk-perception, health-communication]
 status: evergreen
 created: 2026-05-26
+updated: 2026-05-26
 related: ["[[Judgment and Decision Making (Field)]]", "[[Calibration (Judgment)]]", "[[Fuzzy-Trace Theory]]"]
 ---
 

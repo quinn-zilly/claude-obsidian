@@ -6,12 +6,13 @@ tags: [debriefing, learning-from-experience, organizational-learning, AER, feedb
 status: evergreen
 related:
   - "[[Learning from Experience]]"
-  - "[[Mental Models (Learning)]]"
+  - "[[Mental Models (Decision)|Mental Models (Learning)]]"
   - "[[Failure-Driven Learning]]"
   - "[[Training Transfer]]"
   - "[[Goal-Directed Practice and Feedback]]"
   - "[[Metacognition and Self-Directed Learning]]"
 created: 2026-06-04
+updated: 2026-06-04
 ---
 
 # After-Event Reviews (AERs)

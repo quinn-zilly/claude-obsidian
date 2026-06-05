@@ -6,6 +6,7 @@ aliases: ["control theory", "discrepancy reduction", "cybernetic self-regulation
 tags: [motivation, self-regulation, goal-striving, control-theory]
 status: mature
 created: 2026-06-01
+updated: 2026-06-01
 related:
   - "[[Goal-Setting Theory]]"
   - "[[Multiple Goal Self-Regulation]]"

@@ -6,6 +6,7 @@ tags: [concept, motivation, psychology, SDT]
 status: evergreen
 related: ["[[Self-Determination Theory]]", "[[Organismic Integration Theory]]", "[[Intrinsic Motivation]]", "[[Internalization (SDT)]]", "[[Autonomy (SDT)]]", "[[ryan-deci-2000-sdt]]"]
 created: 2026-05-29
+updated: 2026-05-29
 ---
 
 # Extrinsic Motivation

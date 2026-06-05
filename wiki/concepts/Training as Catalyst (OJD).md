@@ -1,5 +1,6 @@
 ---
 type: concept
+address: c-000477
 title: "Training as Catalyst (OJD)"
 aliases:
   - "training as accelerator"

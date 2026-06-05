@@ -13,6 +13,7 @@ issue: "11-12"
 pages: "813-842"
 doi: "10.1037/bul0000385"
 related: ["[[Self-Determination Theory]]", "[[Cognitive Evaluation Theory]]", "[[Organismic Integration Theory]]", "[[Causality Orientations Theory]]", "[[Goal Contents Theory]]", "[[Relationships Motivation Theory]]", "[[Basic Psychological Needs Theory]]", "[[Need Frustration (SDT)]]"]
+updated: 2026-05-29
 ---
 
 # Ryan et al. 2022 — SDT Meta-Review

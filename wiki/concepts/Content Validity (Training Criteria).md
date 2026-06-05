@@ -5,6 +5,7 @@ title: "Content Validity (Training Criteria)"
 tags: [concept, training-evaluation, measurement, moderators]
 status: evergreen
 created: 2026-06-01
+updated: 2026-06-01
 related: ["[[Augmented Training Criteria Framework]]", "[[Training Transfer]]", "[[alliger-et-al-1997-training-criteria-meta-analysis]]"]
 ---
 

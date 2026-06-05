@@ -11,6 +11,7 @@ tags:
   - organizational-theory
 status: developing
 created: 2026-05-24
+updated: 2026-05-24
 related:
   - "[[Joep Cornelissen]]"
   - "[[Framing (Organizational Theory)]]"

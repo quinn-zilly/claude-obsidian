@@ -56,9 +56,9 @@ Run `/wiki` to scaffold this vault for your own domain and replace this overview
 
 ## Canvases
 
-- [[wiki-map]] — Full wiki map: all sections, zones, and representative pages as a visual overview (2026-05-26)
-- [[claude-obsidian-presentation]] — Full presentation: hero, overview, skills, architecture, Wiki vs RAG, visual demos (2026-04-07)
-- [[AI Marketing Hub Cover Images Canvas]] — Cover image library for AI Marketing Hub brand assets
+- wiki-map — Full wiki map: all sections, zones, and representative pages as a visual overview (2026-05-26)
+- claude-obsidian-presentation — Full presentation: hero, overview, skills, architecture, Wiki vs RAG, visual demos (2026-04-07)
+- AI Marketing Hub Cover Images Canvas — Cover image library for AI Marketing Hub brand assets
 
 ---
 

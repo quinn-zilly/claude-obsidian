@@ -8,6 +8,7 @@ source_file: ".raw/input/Derailment-EDLDch9-Yost & Plunkett-2009.pdf"
 tags: [source, leadership-development, derailment, career, talent-management]
 status: evergreen
 related: ["[[Derailment]]", "[[Paul Yost]]", "[[Mary Plunkett]]", "[[Stretch Experiences]]", "[[Leadership Pipeline]]"]
+updated: 2026-06-05
 ---
 
 # When Leaders Derail

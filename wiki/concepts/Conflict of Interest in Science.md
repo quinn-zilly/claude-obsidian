@@ -24,7 +24,7 @@ Scientists have two often-contradictory motivations:
 
 Under current incentive structures, publishing itself is rewarded regardless of whether published findings are true. This creates a conflict where personal interests (publication) are decoupled from scientific interests (accuracy).
 
-[[Nosek et al. 2012 - Scientific Utopia II|Nosek et al. (2012)]] frame this as an unavoidable fact of human psychology, not a question of dishonesty:
+[[nosek-2012-scientific-utopia-ii|Nosek et al. (2012)]] frame this as an unavoidable fact of human psychology, not a question of dishonesty:
 
 > "Openness is not needed because we are untrustworthy; it is needed because we are human."
 
@@ -66,5 +66,5 @@ Addressing this conflict requires:
 
 ## Sources
 
-- [[Nosek et al. 2012 - Scientific Utopia II]]
+- [[nosek-2012-scientific-utopia-ii|Nosek et al. 2012 - Scientific Utopia II]]
 - [[munafo-2017-manifesto|Munafò et al. 2017]]

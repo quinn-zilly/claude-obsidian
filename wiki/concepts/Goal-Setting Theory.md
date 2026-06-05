@@ -6,6 +6,7 @@ aliases: ["GST", "goal setting theory"]
 tags: [motivation, performance, work-psychology, IO-psychology, goals]
 status: evergreen
 created: 2026-05-30
+updated: 2026-05-30
 related: ["[[Edwin Locke]]", "[[Gary Latham]]", "[[Self-Efficacy (Goal Setting)]]", "[[High-Performance Cycle]]", "[[Goal Commitment]]", "[[Learning Goals vs Performance Goals]]", "[[Self-Determination Theory]]", "[[Pay-for-Performance]]", "[[Intrinsic Motivation]]"]
 ---
 

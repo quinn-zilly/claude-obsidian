@@ -6,6 +6,7 @@ aliases: ["content-context-process framework", "tripartite motivation framework"
 tags: [motivation, work-psychology, IO-psychology, meta-framework, goal-setting, self-regulation]
 status: evergreen
 created: 2026-05-30
+updated: 2026-05-30
 related: ["[[Goal-Setting Theory]]", "[[Resource Allocation Theory (Motivation)]]", "[[Action Regulation Theory]]", "[[Job Characteristics Model]]", "[[Self-Determination Theory]]", "[[Regulatory Focus Theory]]", "[[Ego Depletion]]", "[[Ruth Kanfer]]", "[[wiki/sources/kanfer-frese-johnson-2017-work-motivation|Kanfer et al. 2017]]"]
 ---
 

@@ -17,10 +17,11 @@ related:
   - "[[Training Context and Transfer Climate]]"
   - "[[Trainee Characteristics]]"
   - "[[Training Needs Analysis]]"
-  - "[[Training Transfer — Three-Factor Model]]"
+  - "[[Training Transfer|Training Transfer — Three-Factor Model]]"
   - "[[After-Event Reviews]]"
-  - "[[Baldwin and Ford 1988]]"
+  - "Baldwin and Ford 1988"
 created: 2026-06-04
+updated: 2026-06-04
 ---
 
 # Burke & Hutchins (2007) — Training Transfer: An Integrative Literature Review
@@ -116,9 +117,9 @@ Overreliance on: self-report measures, short-term single-source data, lab settin
 
 ## Related Sources
 
-- [[Baldwin and Ford 1988]] — seminal transfer review
-- [[Ford and Weissbein 1997]] — 10-year update
-- [[Colquitt LePine Noe 2000]] — meta-analytic path analysis of training motivation
-- [[Arthur et al. 2003 Training Meta-Analysis]] — training effectiveness meta-analysis
+- Baldwin and Ford 1988 — seminal transfer review
+- Ford and Weissbein 1997 — 10-year update
+- Colquitt LePine Noe 2000 — meta-analytic path analysis of training motivation
+- [[arthur-et-al-2003-training-meta-analysis|Arthur et al. 2003 Training Meta-Analysis]] — training effectiveness meta-analysis
 - [[shukla-et-al-2024-transfer-online-training]] — extends transfer taxonomy to online context
 - [[ellis-davidi-2005-after-event-reviews]] — AERs as mechanism for drawing lessons (failure + success)

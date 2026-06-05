@@ -3,6 +3,7 @@ address: c-000396
 type: concept
 title: "Knowledge Organization"
 created: 2026-06-04
+updated: 2026-06-04
 tags: [concept, cognition, learning-science, schema, pedagogy]
 status: evergreen
 related: ["[[Prior Knowledge]]", "[[Mastery Learning]]", "[[cmu-eberly-learning-principles]]"]

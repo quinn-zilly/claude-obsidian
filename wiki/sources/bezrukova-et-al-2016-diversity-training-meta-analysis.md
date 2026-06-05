@@ -11,6 +11,7 @@ pages: "1227"
 tags: [source, diversity-training, meta-analysis, DEI, training-evaluation]
 status: seed
 created: 2026-06-04
+updated: 2026-06-04
 related: ["[[Diversity Training]]", "[[cheng-et-al-2019-diversity-training-myths|Cheng et al. 2019]]"]
 ---
 

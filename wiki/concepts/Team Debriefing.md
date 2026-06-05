@@ -1,10 +1,12 @@
 ---
 type: concept
+address: c-000473
 title: "Team Debriefing"
 aliases: ["team debrief", "after-action review", "AAR", "guided team self-correction"]
 tags: [concept, teams, intervention, learning, organizational-learning]
 status: mature
 created: 2026-06-01
+updated: 2026-06-01
 related:
   - "[[Team Development Interventions]]"
   - "[[Teamwork Processes (Marks et al. Taxonomy)]]"

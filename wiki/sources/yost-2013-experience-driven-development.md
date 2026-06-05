@@ -1,5 +1,6 @@
 ---
 type: source
+address: c-000489
 title: "Training and Experience-Driven Development"
 author: "Paul Yost"
 date_published: 2013
@@ -28,7 +29,6 @@ related:
   - "[[Action Learning]]"
   - "[[Mentoring]]"
 sources:
-  - "[[.raw/Output/Yost-2013-ExperienceDrivenDevelopment.md]]"
 ---
 
 # Training and Experience-Driven Development (Yost, 2013)

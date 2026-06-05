@@ -137,7 +137,7 @@ In turn, paradigm-driven approach supports open science goals by:
 
 ## Sources
 
-- [[Nosek et al. 2012 - Scientific Utopia II]]
+- [[nosek-2012-scientific-utopia-ii|Nosek et al. 2012 - Scientific Utopia II]]
 - Roediger, H. L. (2012). Psychology's woes and a partial cure: The value of replication. APS Observer, 25(2), 9, 27–29.
 - Gallo, D. A. (2010). False memories and fantastic beliefs: 15 years of the DRM illusion. Memory & Cognition, 38, 833–848.
 

@@ -129,7 +129,7 @@ Requiring replications could stifle innovation in domains where data collection 
 ### Medium-term / Systemic Reforms
 
 **Journals Focused on Soundness, Not Importance**
-- [[PLoS ONE]] model: peer review evaluates research soundness, not perceived importance
+- PLoS ONE model: peer review evaluates research soundness, not perceived importance
 - Since 2006: 13,798 articles (2011), 70% acceptance rate, 2011 impact factor 4.41 (top 25%)
 - Shows importance is not predictive of citation impact
 
@@ -184,7 +184,7 @@ The "ultimate solution" involves three dimensions of openness:
 - Accountability mechanism: knowing someone could look improves practices
 
 **Model:**
-- [[clinicaltrials.gov]]: registry for clinical trials
+- clinicaltrials.gov: registry for clinical trials
 - 2005: ICMJE required preregistration of RCTs
 - Evidence: 31% of registered trials showed discrepancies with published outcomes; 82% favored significant results
 
@@ -211,15 +211,15 @@ The "ultimate solution" involves three dimensions of openness:
 ## Relation to Prior Work
 
 **Follows from:**
-- [[Nosek and Bar-Anan 2012 - Scientific Utopia I|Scientific Utopia I]] (same year): proposes opening scientific communication
-- [[John, Loewenstein, & Prelec 2012]]: Measuring prevalence of questionable research practices
-- [[Simmons, Nelson, & Simonsohn 2011]]: False-positive psychology
+- [[nosek-bar-anan-2012-scientific-utopia-i|Scientific Utopia I]] (same year): proposes opening scientific communication
+- John, Loewenstein, & Prelec 2012: Measuring prevalence of questionable research practices
+- Simmons, Nelson, & Simonsohn 2011: False-positive psychology
 - Greenwald (1975), Rosenthal (1979): Long-standing concerns about publication bias
 
 **Influences and is cited by:**
 - [[munafo-2017-manifesto|Munafò et al. 2017]]: Manifesto for reproducible science
-- [[LeBel et al. 2018]]: Credibility framework
-- [[Open Science Collaboration 2015]]: Reproducibility of psychological science project
+- [[Etienne LeBel|LeBel et al. 2018]]: Credibility framework
+- [[open-science-collaboration-2015|Open Science Collaboration 2015]]: Reproducibility of psychological science project
 
 ## Critical Arguments
 

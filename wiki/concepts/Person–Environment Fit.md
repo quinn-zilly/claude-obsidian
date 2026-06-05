@@ -1,10 +1,12 @@
 ---
 type: concept
+address: c-000467
 title: "Person–Environment Fit"
 aliases: ["PE fit", "person-environment fit", "person-workplace fit"]
 tags: [concept, personality, fit, motivation, work-psychology]
 status: developing
 created: 2026-06-01
+updated: 2026-06-01
 related:
   - "[[Trait Activation Theory]]"
   - "[[Five-Factor Model]]"

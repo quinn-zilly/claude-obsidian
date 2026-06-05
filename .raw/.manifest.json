@@ -163,7 +163,7 @@
         "wiki/log.md"
       ]
     },
-    ".raw/Grant - 1996 - Toward a knowledge\u2010based theory of the firm.pdf": {
+    ".raw/Grant - 1996 - Toward a knowledge‐based theory of the firm.pdf": {
       "hash": "7d902355cea11975fe184ee416d50a3c",
       "ingested_at": "2026-05-19",
       "pages_created": [
@@ -193,7 +193,7 @@
         "wiki/log.md"
       ]
     },
-    ".raw/Lehmann et al. - 2015 - DBpedia \u2013 A large-scale, multilingual knowledge base extracted from Wikipedia.pdf": {
+    ".raw/Lehmann et al. - 2015 - DBpedia – A large-scale, multilingual knowledge base extracted from Wikipedia.pdf": {
       "hash": "113915904e64333ad5d819640b1b2935",
       "ingested_at": "2026-05-19",
       "pages_created": [
@@ -208,12 +208,12 @@
         "wiki/log.md"
       ]
     },
-    ".raw/Munaf\u00f2 et al. - 2017 - A manifesto for reproducible science.pdf": {
+    ".raw/Munafò et al. - 2017 - A manifesto for reproducible science.pdf": {
       "hash": "4ab499001cf6a2c6396e6f586a735009",
       "ingested_at": "2026-05-19",
       "pages_created": [
         "wiki/sources/munafo-2017-manifesto.md",
-        "wiki/entities/Marcus Munaf\u00f2.md",
+        "wiki/entities/Marcus Munafò.md",
         "wiki/entities/John Ioannidis.md"
       ],
       "pages_updated": [
@@ -410,7 +410,7 @@
         "wiki/hot.md"
       ]
     },
-    ".raw/Ren and Argote - 2011 - Transactive Memory Systems 1985\u20132010 An Integrative Framework of Key Dimensions, Antecedents, and C.pdf": {
+    ".raw/Ren and Argote - 2011 - Transactive Memory Systems 1985–2010 An Integrative Framework of Key Dimensions, Antecedents, and C.pdf": {
       "hash": "d77ca3e481efe6c6ab0d9060caa1708a",
       "ingested_at": "2026-05-21",
       "pages_created": [
@@ -470,7 +470,7 @@
         "wiki/hot.md"
       ]
     },
-    ".raw/Albarrac\u00edn et al. - 2024 - Determinants of behaviour and their efficacy as targets of behavioural change interventions.pdf": {
+    ".raw/Albarracín et al. - 2024 - Determinants of behaviour and their efficacy as targets of behavioural change interventions.pdf": {
       "hash": "d8e5484ebc074e4e8e21b6bbf35143d0",
       "ingested_at": "2026-05-23",
       "pages_created": [
@@ -484,7 +484,7 @@
         "wiki/concepts/Reasoned Action Approach.md",
         "wiki/concepts/Information-Motivation-Behavioural Skills Model.md",
         "wiki/concepts/Correlation-Intervention Gap (Behaviour).md",
-        "wiki/entities/Dolores Albarrac\u00edn.md"
+        "wiki/entities/Dolores Albarracín.md"
       ],
       "pages_updated": [
         "wiki/index.md",
@@ -556,7 +556,7 @@
         "wiki/concepts/Dynamic Decision Making.md",
         "wiki/concepts/Electronic Brainstorming.md",
         "wiki/entities/Terry Connolly.md",
-        "wiki/entities/Lisa Ord\u00f3\u00f1ez.md"
+        "wiki/entities/Lisa Ordóñez.md"
       ],
       "pages_updated": [
         "wiki/index.md",
@@ -694,7 +694,7 @@
         "wiki/concepts/Work Design (Concept).md",
         "wiki/concepts/Work Design Questionnaire.md",
         "wiki/concepts/Sociotechnical Systems Theory.md",
-        "wiki/concepts/Job Demands\u2013Control\u2013Support Model.md",
+        "wiki/concepts/Job Demands–Control–Support Model.md",
         "wiki/concepts/Interdisciplinary Model of Job Design.md",
         "wiki/entities/Frederick Morgeson.md",
         "wiki/entities/Michael Campion.md"
@@ -737,7 +737,7 @@
         "wiki/concepts/Personality Dynamics (TAT).md",
         "wiki/concepts/Situation Strength.md",
         "wiki/concepts/Five-Factor Model.md",
-        "wiki/concepts/Person\u2013Environment Fit.md",
+        "wiki/concepts/Person–Environment Fit.md",
         "wiki/entities/Robert Tett.md"
       ],
       "pages_updated": [
@@ -746,7 +746,7 @@
         "wiki/log.md"
       ]
     },
-    ".raw/Shuffler et al. - 2011 - There\u2019s a Science for That Team Development Inter.pdf": {
+    ".raw/Shuffler et al. - 2011 - There’s a Science for That Team Development Inter.pdf": {
       "hash": "12381654c87b9454d73f8968e893425b",
       "ingested_at": "2026-06-01",
       "pages_created": [
@@ -840,7 +840,7 @@
         "wiki/log.md"
       ]
     },
-    ".raw/Jebb et al. - 2021 - A Review of Key Likert Scale Development Advances 1995\u20132019.pdf": {
+    ".raw/Jebb et al. - 2021 - A Review of Key Likert Scale Development Advances 1995–2019.pdf": {
       "hash": "593b848993d6dc055ff3b9ee4d610f64",
       "ingested_at": "2026-06-01",
       "pages_created": [
@@ -1209,7 +1209,7 @@
     "wiki/entities/Etienne LeBel.md": "c-000034",
     "wiki/entities/Jens Lehmann.md": "c-000035",
     "wiki/entities/Christian Bizer.md": "c-000036",
-    "wiki/entities/Marcus Munaf\u00f2.md": "c-000037",
+    "wiki/entities/Marcus Munafò.md": "c-000037",
     "wiki/entities/John Ioannidis.md": "c-000038",
     "wiki/entities/Center for Open Science.md": "c-000039",
     "wiki/entities/Open Science Collaboration.md": "c-000040",
@@ -1253,7 +1253,6 @@
     "wiki/concepts/Publication Bottleneck.md": "c-000106",
     "wiki/concepts/Aesthetic Standards in Science.md": "c-000107",
     "wiki/sources/kerr-1998-harking.md": "c-000125",
-    "wiki/entities/Norbert-Kerr.md": "c-000126",
     "wiki/sources/micelotta-2017-pathways-institutional-change.md": "c-000127",
     "wiki/entities/Evelyn Micelotta.md": "c-000128",
     "wiki/entities/Michael Lounsbury.md": "c-000129",
@@ -1285,7 +1284,7 @@
     "wiki/concepts/Training vs Test Error.md": "c-000156",
     "wiki/concepts/Procedural Overfitting.md": "c-000157",
     "wiki/sources/albarracin-2024-determinants-behaviour-change.md": "c-000158",
-    "wiki/entities/Dolores Albarrac\u00edn.md": "c-000159",
+    "wiki/entities/Dolores Albarracín.md": "c-000159",
     "wiki/concepts/Behaviour Change Determinants.md": "c-000160",
     "wiki/concepts/Descriptive Norms.md": "c-000161",
     "wiki/concepts/Injunctive Norms.md": "c-000162",
@@ -1329,7 +1328,7 @@
     "wiki/concepts/Dynamic Decision Making.md": "c-000200",
     "wiki/concepts/Electronic Brainstorming.md": "c-000201",
     "wiki/entities/Terry Connolly.md": "c-000202",
-    "wiki/entities/Lisa Ord\u00f3\u00f1ez.md": "c-000203",
+    "wiki/entities/Lisa Ordóñez.md": "c-000203",
     "wiki/concepts/Framing Effects.md": "c-000204",
     "wiki/concepts/Appraisal-Tendency Framework.md": "c-000205",
     "wiki/concepts/Signal Detection Theory (Decision).md": "c-000206",
@@ -1403,7 +1402,7 @@
     "wiki/entities/Frederick Morgeson.md": "c-000301",
     "wiki/entities/Michael Campion.md": "c-000303",
     "wiki/concepts/Sociotechnical Systems Theory.md": "c-000304",
-    "wiki/concepts/Job Demands\u2013Control\u2013Support Model.md": "c-000305",
+    "wiki/concepts/Job Demands–Control–Support Model.md": "c-000305",
     "wiki/concepts/Interdisciplinary Model of Job Design.md": "c-000306",
     "wiki/sources/schmidt-beck-gillespie-2012-motivation.md": "c-000307",
     "wiki/concepts/Control Theory (Self-Regulation).md": "c-000308",
@@ -1475,16 +1474,8 @@
     "wiki/entities/Bruce J. Avolio.md": "c-000378",
     "wiki/entities/Alice H. Eagly.md": "c-000379",
     "wiki/entities/Stephen J. Zaccaro.md": "c-000380",
-    "wiki/sources/shrout-rodgers-2018-replication-crisis.md": "c-000381",
-    "wiki/concepts/Power Analysis (Replication Studies).md": "c-000384",
-    "wiki/concepts/Effect Size Heterogeneity.md": "c-000385",
-    "wiki/concepts/Replication Types Taxonomy.md": "c-000386",
-    "wiki/sources/kerr-1995-folly-rewarding-A.md": "c-000381",
     "wiki/concepts/Reward System Misalignment.md": "c-000382",
     "wiki/concepts/Fouled-Up Reward Systems.md": "c-000383",
-    "wiki/concepts/Operative vs Official Goals.md": "c-000384",
-    "wiki/concepts/Goal Displacement.md": "c-000385",
-    "wiki/entities/Steven Kerr.md": "c-000386",
     "wiki/sources/frayne-latham-1987-self-management-attendance.md": "c-000387",
     "wiki/entities/Colette Frayne.md": "c-000388",
     "wiki/concepts/Self-Management Training.md": "c-000389",
@@ -1493,7 +1484,6 @@
     "wiki/concepts/Self-Regulatory Skills.md": "c-000392",
     "wiki/sources/cmu-eberly-learning-principles.md": "c-000393",
     "wiki/entities/CMU Eberly Center.md": "c-000394",
-    "wiki/concepts/Prior Knowledge.md": "c-000395",
     "wiki/concepts/Knowledge Organization.md": "c-000396",
     "wiki/concepts/Motivation and Learning.md": "c-000397",
     "wiki/concepts/Mastery Learning.md": "c-000398",
@@ -1511,7 +1501,6 @@
     "wiki/sources/shukla-et-al-2024-transfer-online-training.md": "c-000411",
     "wiki/concepts/Training Effectiveness (Meta-Analytic Evidence).md": "c-000412",
     "wiki/concepts/Online Training Transfer Taxonomy.md": "c-000413",
-    "wiki/entities/Winfred Arthur Jr.md": "c-000414",
     "wiki/entities/Ashutosh Shukla.md": "c-000415",
     "wiki/concepts/Training Method Effectiveness.md": "c-000417",
     "wiki/sources/burke-hutchins-2007-training-transfer.md": "c-000418",
@@ -1529,7 +1518,6 @@
     "wiki/concepts/Stretch Experiences.md": "c-000439",
     "wiki/entities/Cynthia McCauley.md": "c-000440",
     "wiki/sources/yost-plunkett-2009-derailment.md": "c-000441",
-    "wiki/concepts/Derailment.md": "c-000442",
     "wiki/sources/charan-leadership-pipeline-ch1.md": "c-000443",
     "wiki/concepts/Leadership Pipeline.md": "c-000444",
     "wiki/entities/Ram Charan.md": "c-000445",
@@ -1537,7 +1525,146 @@
     "wiki/concepts/Viral On-the-Job Development.md": "c-000447",
     "wiki/concepts/Five Design Characteristics (OJD).md": "c-000448",
     "wiki/concepts/HR Change from the Middle.md": "c-000449",
-    "c-000395": "wiki/sources/mainiero-sullivan-2005-kaleidoscope-careers.md"
+    "wiki/entities/Norbert Kerr.md": "c-000126",
+    "wiki/entities/Winfred Arthur Jr..md": "c-000414",
+    "wiki/concepts/Derailment.md": "c-000442",
+    "wiki/sources/yost-plunkett-2009-transition.md": "c-000450",
+    "wiki/concepts/Effect Size Heterogeneity.md": "c-000385",
+    "wiki/concepts/Goal Displacement.md": "c-000451",
+    "wiki/concepts/Power Analysis (Replication Studies).md": "c-000384",
+    "wiki/concepts/Operative vs Official Goals.md": "c-000452",
+    "wiki/concepts/Prior Knowledge.md": "c-000395",
+    "wiki/sources/mainiero-sullivan-2005-kaleidoscope-careers.md": "c-000453",
+    "wiki/concepts/Replication Types Taxonomy.md": "c-000386",
+    "wiki/entities/Steven Kerr.md": "c-000454",
+    "wiki/sources/shrout-rodgers-2018-replication-crisis.md": "c-000381",
+    "wiki/sources/kerr-1995-folly-rewarding-A.md": "c-000455",
+    "wiki/concepts/Competency Modelling.md": "c-000456",
+    "wiki/concepts/DEI Evaluation.md": "c-000457",
+    "wiki/concepts/Emergent States (Teams).md": "c-000458",
+    "wiki/concepts/Equitable Data Collection.md": "c-000459",
+    "wiki/concepts/Experience-Driven Development.md": "c-000460",
+    "wiki/concepts/Five-Factor Model.md": "c-000461",
+    "wiki/concepts/KSA Framework.md": "c-000462",
+    "wiki/concepts/Kaleidoscope Career Model.md": "c-000463",
+    "wiki/concepts/Leadership Training (Teams).md": "c-000464",
+    "wiki/concepts/Miles and Snow Strategic Typology.md": "c-000465",
+    "wiki/concepts/Personality Dynamics (TAT).md": "c-000466",
+    "wiki/concepts/Person–Environment Fit.md": "c-000467",
+    "wiki/concepts/Psychological Safety.md": "c-000468",
+    "wiki/concepts/Situation Strength.md": "c-000469",
+    "wiki/concepts/Situational Cue Types (TAT).md": "c-000470",
+    "wiki/concepts/Strategic Job Analysis (SJA).md": "c-000471",
+    "wiki/concepts/Team Building.md": "c-000472",
+    "wiki/concepts/Team Debriefing.md": "c-000473",
+    "wiki/concepts/Team Development Interventions.md": "c-000474",
+    "wiki/concepts/Team Training.md": "c-000475",
+    "wiki/concepts/Teamwork Processes (Marks et al. Taxonomy).md": "c-000476",
+    "wiki/concepts/Training as Catalyst (OJD).md": "c-000477",
+    "wiki/concepts/Trait Activation Theory.md": "c-000478",
+    "wiki/entities/Eduardo Salas.md": "c-000479",
+    "wiki/entities/Robert Tett.md": "c-000480",
+    "wiki/projects/Book recommendations.md": "c-000481",
+    "wiki/projects/Training Checklist.md": "c-000482",
+    "wiki/sources/Singh-2008-Job-Analysis-Changing-Workplace.md": "c-000483",
+    "wiki/sources/approaches-dei-evaluation.md": "c-000484",
+    "wiki/sources/lacerenza-et-al-2018-team-development-interventions.md": "c-000485",
+    "wiki/sources/lepine-et-al-2008-teamwork-processes.md": "c-000486",
+    "wiki/sources/shuffler-et-al-2011-team-development-interventions.md": "c-000487",
+    "wiki/sources/tett-et-al-2021-trait-activation-theory.md": "c-000488",
+    "wiki/sources/yost-2013-experience-driven-development.md": "c-000489",
+    "wiki/projects/KM Research Paper.md": "c-000490",
+    "wiki/concepts/Meta-Analysis.md": "c-000491",
+    "wiki/concepts/Item Response Theory.md": "c-000492",
+    "wiki/concepts/Action Learning.md": "c-000493",
+    "wiki/concepts/Communities of Practice.md": "c-000494",
+    "wiki/concepts/Mentoring.md": "c-000495",
+    "wiki/concepts/Implicit Bias.md": "c-000496",
+    "wiki/concepts/Bayesian Statistics in Psychology.md": "c-000497",
+    "wiki/concepts/Expertise Location.md": "c-000498",
+    "wiki/concepts/Group Performance.md": "c-000499",
+    "wiki/concepts/Group Training.md": "c-000500",
+    "wiki/concepts/Memory Differentiation.md": "c-000501",
+    "wiki/concepts/Metaknowledge.md": "c-000502",
+    "wiki/concepts/Organizational Memory.md": "c-000503",
+    "wiki/concepts/Shared Experience.md": "c-000504",
+    "wiki/concepts/Shared Mental Models.md": "c-000505",
+    "wiki/concepts/Task Coordination.md": "c-000506",
+    "wiki/concepts/Task Credibility.md": "c-000507",
+    "wiki/concepts/Team Cognition.md": "c-000508",
+    "wiki/concepts/Team Creativity.md": "c-000509",
+    "wiki/concepts/Team Familiarity.md": "c-000510",
+    "wiki/concepts/Team Learning.md": "c-000511",
+    "wiki/concepts/Team Member Satisfaction.md": "c-000512",
+    "wiki/concepts/Team Mental Models.md": "c-000513",
+    "wiki/concepts/Team Reflexivity.md": "c-000514",
+    "wiki/concepts/Knowledge Specialization.md": "c-000515",
+    "wiki/concepts/Member Personality.md": "c-000516",
+    "wiki/concepts/Member Turnover.md": "c-000517",
+    "wiki/concepts/Communication.md": "c-000518",
+    "wiki/concepts/Web 2.0 Technologies.md": "c-000519",
+    "wiki/concepts/ABC Model of Careers.md": "c-000520",
+    "wiki/concepts/Authenticity (Career).md": "c-000521",
+    "wiki/concepts/Balance (Career).md": "c-000522",
+    "wiki/concepts/Boundaryless Career.md": "c-000523",
+    "wiki/concepts/Career Interruption.md": "c-000524",
+    "wiki/concepts/Challenge (Career).md": "c-000525",
+    "wiki/concepts/Glass Ceiling.md": "c-000526",
+    "wiki/concepts/Opt-Out Revolution.md": "c-000527",
+    "wiki/concepts/Relational Career Model.md": "c-000528",
+    "wiki/concepts/Work-Family Balance.md": "c-000529",
+    "wiki/entities/Lisa Mainiero.md": "c-000530",
+    "wiki/entities/Sherry Sullivan.md": "c-000531",
+    "wiki/entities/Marissa Shuffler.md": "c-000532",
+    "wiki/entities/Christina Lacerenza.md": "c-000533",
+    "wiki/entities/Deborah DiazGranados.md": "c-000534",
+    "wiki/entities/Jeffery LePine.md": "c-000535",
+    "wiki/entities/John Mathieu.md": "c-000536",
+    "wiki/entities/Holly M. Hutchins.md": "c-000537",
+    "wiki/entities/Lisa A. Burke.md": "c-000538",
+    "wiki/entities/John Ford.md": "c-000539",
+    "wiki/entities/James Beck.md": "c-000540",
+    "wiki/entities/Juan Sanchez.md": "c-000541",
+    "wiki/entities/Parbudyal Singh.md": "c-000542",
+    "wiki/entities/Nicholas C. Soderstrom.md": "c-000543",
+    "wiki/entities/Margaret Toich.md": "c-000544",
+    "wiki/entities/Burak Ozkum.md": "c-000545",
+    "wiki/entities/Shmuel Ellis.md": "c-000546",
+    "wiki/entities/Inbar Davidi.md": "c-000547",
+    "wiki/entities/Winston Bennett Jr..md": "c-000548",
+    "wiki/entities/Michèle Nuijten.md": "c-000549",
+    "wiki/entities/Bita Fayaz-Farkhad.md": "c-000550",
+    "wiki/entities/Javier A. Granados Samayoa.md": "c-000551",
+    "wiki/entities/Andrea Hollingshead.md": "c-000552",
+    "wiki/entities/Kristina Lewis.md": "c-000553",
+    "wiki/entities/Richard Moreland.md": "c-000554",
+    "wiki/entities/Daniel M. Wegner.md": "c-000555",
+    "wiki/concepts/Confirmation Bias.md": "c-000556",
+    "wiki/concepts/Hindsight Bias.md": "c-000557",
+    "wiki/concepts/Overconfidence.md": "c-000558",
+    "wiki/concepts/Image Theory.md": "c-000559",
+    "wiki/concepts/Multiattribute Utility Theory.md": "c-000560",
+    "wiki/concepts/Scoring Rules.md": "c-000561",
+    "wiki/concepts/Operant Conditioning.md": "c-000562",
+    "wiki/concepts/Type I and Type II Errors (Medicine).md": "c-000563",
+    "wiki/concepts/Learning from Experience.md": "c-000564",
+    "wiki/concepts/Failure-Driven Learning.md": "c-000565",
+    "wiki/concepts/Instructional Design.md": "c-000566",
+    "wiki/concepts/Training Design and Delivery.md": "c-000567",
+    "wiki/concepts/Stakeholder Engagement (Evaluation).md": "c-000568",
+    "wiki/concepts/Cross-Cultural Communication (Evaluation).md": "c-000569",
+    "wiki/concepts/Traditional Job Analysis.md": "c-000570",
+    "wiki/concepts/Knowing-Doing Gap.md": "c-000571",
+    "wiki/concepts/Illusions of Competence.md": "c-000572",
+    "wiki/concepts/Leadership Transitions.md": "c-000573",
+    "wiki/concepts/First 90 Days Framework.md": "c-000574",
+    "wiki/concepts/Strategic Frame.md": "c-000575",
+    "wiki/concepts/Multiverse Analysis.md": "c-000576",
+    "wiki/concepts/Replicability.md": "c-000577",
+    "wiki/concepts/Principal-Agent Problem.md": "c-000578",
+    "wiki/concepts/Incentive Compatibility.md": "c-000579",
+    "wiki/concepts/Construct Proliferation.md": "c-000580",
+    "wiki/concepts/Open Methods and Tools.md": "c-000581"
   },
   ".raw/Pearsall et al. - 2025 - A stimulus-based model of the team adaptation process An integrated conceptual review..pdf": {
     "hash": "62f683006d3323a67c67fc23621f632a",

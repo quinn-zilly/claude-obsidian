@@ -1,9 +1,11 @@
 ---
 type: project
+address: c-000482
 title: "Training and Development Checklist"
 course: "Learning Systems & Training"
 status: draft
 created: 2026-06-04
+updated: 2026-06-04
 tags:
   - project
   - training

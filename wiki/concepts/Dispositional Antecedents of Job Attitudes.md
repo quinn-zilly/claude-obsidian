@@ -4,6 +4,7 @@ type: concept
 title: "Dispositional Antecedents of Job Attitudes"
 tags: [concept, dispositional, personality, job-satisfaction, job-attitudes, organizational-psychology]
 created: 2026-06-01
+updated: 2026-06-01
 status: evergreen
 related: ["[[Job Attitudes]]", "[[Job Satisfaction]]", "[[Core Self-Evaluations]]", "[[Situational Antecedents of Job Attitudes]]", "[[Timothy A. Judge]]"]
 ---

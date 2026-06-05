@@ -5,6 +5,7 @@ title: "Decision-Making Competence"
 tags: [concept, JDM, individual-differences, measurement, development]
 status: evergreen
 created: 2026-05-26
+updated: 2026-05-26
 related: ["[[Judgment and Decision Making (Field)]]", "[[DOSPERT Scale]]", "[[Calibration (Judgment)]]"]
 ---
 

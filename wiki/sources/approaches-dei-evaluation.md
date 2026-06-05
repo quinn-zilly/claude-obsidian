@@ -1,5 +1,6 @@
 ---
 type: source
+address: c-000484
 title: "Approaches for Diverse, Equitable, and Inclusive Evaluation"
 author: "Unknown (policy brief)"
 year: unknown
@@ -17,6 +18,7 @@ related:
   - "[[Cross-Cultural Communication (Evaluation)]]"
   - "[[Diversity Training]]"
 ingested: 2026-06-04
+updated: 2026-06-05
 ---
 
 # Approaches for Diverse, Equitable, and Inclusive Evaluation

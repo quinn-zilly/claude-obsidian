@@ -1,10 +1,11 @@
 ---
-address: c-000384
+address: c-000452
 type: concept
 title: "Operative vs Official Goals"
 tags: [concept, organizational-behavior, goals, politics]
 status: evergreen
 created: 2026-06-04
+updated: 2026-06-04
 related: ["[[Reward System Misalignment]]", "[[Goal Displacement]]", "[[kerr-1995-folly-rewarding-A|Kerr 1995]]"]
 ---
 

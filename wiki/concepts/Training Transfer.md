@@ -5,6 +5,7 @@ title: "Training Transfer"
 tags: [concept, training-evaluation, transfer-of-training, organizational-behavior]
 status: evergreen
 created: 2026-06-01
+updated: 2026-06-01
 related: ["[[Kirkpatrick Four-Level Model]]", "[[Augmented Training Criteria Framework]]", "[[Training Reactions (Affective vs Utility)]]", "[[alliger-et-al-1997-training-criteria-meta-analysis]]", "[[Training Context and Transfer Climate]]", "[[bell-et-al-2017-100-years-training-development]]"]
 ---
 

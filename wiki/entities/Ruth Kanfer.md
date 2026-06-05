@@ -6,6 +6,7 @@ title: "Ruth Kanfer"
 tags: [researcher, IO-psychology, motivation, self-regulation, resource-allocation]
 status: developing
 created: 2026-05-30
+updated: 2026-05-30
 related: ["[[Work Motivation Meta-Framework (Kanfer)]]", "[[Resource Allocation Theory (Motivation)]]", "[[wiki/sources/kanfer-frese-johnson-2017-work-motivation|Kanfer et al. 2017]]", "[[Michael Frese]]", "[[Russell Johnson]]"]
 ---
 

@@ -7,6 +7,7 @@ affiliation: "Northwestern University (Department of Psychology and Institute fo
 tags: [leadership, gender, researcher, meta-analysis, role-congruity]
 status: developing
 created: 2026-06-01
+updated: 2026-06-01
 related:
   - "[[Gender and Leadership]]"
   - "[[Three Waves of Leadership Research]]"

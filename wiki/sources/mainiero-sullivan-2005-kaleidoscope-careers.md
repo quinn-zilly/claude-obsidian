@@ -3,7 +3,7 @@ type: source
 author:
   - "[[Lisa Mainiero]]"
   - "[[Sherry Sullivan]]"
-address: c-000395
+address: c-000453
 title: "Mainiero & Sullivan (2005) — Kaleidoscope Careers"
 status: evergreen
 tags: [source, careers, women, gender, work-family, kaleidoscope-career-model, opt-out, authenticity, balance, challenge]
@@ -99,7 +99,7 @@ Five assumption-busting pairs (what firms think is sufficient → what they shou
 
 ## Connections to Other Sources
 
-- [[boundaryless-career]] (Arthur & Rousseau, 1996) — KCM extends boundaryless career to address gender
+- [[Boundaryless Career]] (Arthur & Rousseau, 1996) — KCM extends boundaryless career to address gender
 - [[beigi-2025-career-success-minority]] — visibility constraints on minority career advancement; complementary framework
 - [[bell-et-al-2017-100-years-training-development]] — organizational context as key career/development variable
 

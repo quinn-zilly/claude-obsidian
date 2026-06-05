@@ -8,6 +8,7 @@ source_file: ".raw/input/Stepping to the Edge of One's Comfort Zone, McCauley & 
 tags: [source, leadership-development, stretch-experiences, learning-agility, on-the-job-development]
 status: evergreen
 related: ["[[Learning Agility]]", "[[Stretch Experiences]]", "[[Paul Yost]]", "[[Cynthia McCauley]]", "[[yost-plunkett-2010-ten-catalysts]]"]
+updated: 2026-06-05
 ---
 
 # Stepping to the Edge of One's Comfort Zone

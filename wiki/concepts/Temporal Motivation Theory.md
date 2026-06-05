@@ -6,6 +6,7 @@ aliases: ["TMT", "Temporal Motivation Theory", "hyperbolic discounting (motivati
 tags: [motivation, time, procrastination, deadlines, self-regulation]
 status: developing
 created: 2026-06-01
+updated: 2026-06-01
 related:
   - "[[Multiple Goal Self-Regulation]]"
   - "[[Control Theory (Self-Regulation)]]"

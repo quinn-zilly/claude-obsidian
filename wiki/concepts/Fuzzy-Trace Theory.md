@@ -5,6 +5,7 @@ title: "Fuzzy-Trace Theory"
 tags: [concept, JDM, development, adolescence, memory, gist]
 status: evergreen
 created: 2026-05-26
+updated: 2026-05-26
 related: ["[[Decision-Making Competence]]", "[[Judgment and Decision Making (Field)]]"]
 ---
 

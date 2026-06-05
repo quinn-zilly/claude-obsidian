@@ -5,6 +5,7 @@ title: "Three Waves of Leadership Research"
 tags: [leadership, history-of-science, framework, organizational-psychology]
 status: mature
 created: 2026-06-01
+updated: 2026-06-01
 related:
   - "[[Trait Paradigm (Leadership)]]"
   - "[[Leader Behavior and Ohio State Studies]]"

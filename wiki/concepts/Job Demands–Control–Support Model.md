@@ -6,6 +6,7 @@ aliases: ["JDC", "JDCS", "JD-CS", "Job Demands-Control model", "Karasek model", 
 tags: [work-design, stress, well-being, IO-psychology, motivation]
 status: developing
 created: 2026-06-01
+updated: 2026-06-01
 related:
   - "[[Work Design (Concept)]]"
   - "[[Work Motivation Meta-Framework (Kanfer)]]"

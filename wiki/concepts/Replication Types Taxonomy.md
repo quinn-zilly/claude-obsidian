@@ -12,6 +12,7 @@ tags:
   - open-science
 status: developing
 created: 2026-06-03
+updated: 2026-06-03
 related:
   - "[[Replication Crisis]]"
   - "[[Effect Size Heterogeneity]]"

@@ -5,6 +5,7 @@ entity_type: person
 title: "John D. Kammeyer-Mueller"
 tags: [entity, person, organizational-psychology, turnover, job-attitudes]
 created: 2026-06-01
+updated: 2026-06-01
 status: evergreen
 related: ["[[Job Attitudes]]", "[[Job Satisfaction]]", "[[Organizational Commitment]]", "[[Timothy A. Judge]]"]
 ---

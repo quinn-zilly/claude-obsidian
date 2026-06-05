@@ -5,6 +5,7 @@ entity_type: person
 title: "Timothy A. Judge"
 tags: [entity, person, organizational-psychology, job-satisfaction, personality]
 created: 2026-06-01
+updated: 2026-06-01
 status: evergreen
 related: ["[[Job Attitudes]]", "[[Job Satisfaction]]", "[[Core Self-Evaluations]]", "[[Affective Events Theory]]", "[[John D. Kammeyer-Mueller]]"]
 ---

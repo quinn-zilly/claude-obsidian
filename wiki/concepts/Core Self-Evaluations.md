@@ -5,6 +5,7 @@ title: "Core Self-Evaluations"
 aliases: ["CSE", "CSEs"]
 tags: [concept, core-self-evaluations, personality, job-satisfaction, dispositional, organizational-psychology]
 created: 2026-06-01
+updated: 2026-06-01
 status: evergreen
 related: ["[[Job Attitudes]]", "[[Job Satisfaction]]", "[[Dispositional Antecedents of Job Attitudes]]", "[[Timothy A. Judge]]", "[[High-Performance Cycle]]"]
 ---

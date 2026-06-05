@@ -5,6 +5,7 @@ title: "Trainee Characteristics"
 tags: [training, individual-differences, motivation, self-efficacy, goal-orientation]
 status: mature
 created: 2026-06-01
+updated: 2026-06-01
 related:
   - "[[Active Learning (Training)]]"
   - "[[Training Transfer]]"

@@ -6,6 +6,7 @@ aliases: ["resource depletion", "self-control depletion"]
 tags: [motivation, self-regulation, cognitive-resources, work-psychology, replication-crisis]
 status: developing
 created: 2026-05-30
+updated: 2026-05-30
 related: ["[[Resource Allocation Theory (Motivation)]]", "[[Work Motivation Meta-Framework (Kanfer)]]", "[[Robustness (Science)]]", "[[Replication as Theoretical Commitment]]", "[[Goal-Setting Theory]]"]
 ---
 

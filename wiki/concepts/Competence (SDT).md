@@ -6,6 +6,7 @@ tags: [concept, motivation, psychology, SDT, competence]
 status: developing
 related: ["[[Self-Determination Theory]]", "[[Basic Psychological Needs (SDT)]]", "[[Autonomy (SDT)]]", "[[Relatedness (SDT)]]", "[[Intrinsic Motivation]]", "[[Cognitive Evaluation Theory]]", "[[ryan-deci-2000-sdt]]"]
 created: 2026-05-29
+updated: 2026-05-29
 ---
 
 # Competence (SDT)

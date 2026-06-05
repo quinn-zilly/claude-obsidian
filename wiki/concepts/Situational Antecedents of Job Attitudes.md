@@ -4,6 +4,7 @@ type: concept
 title: "Situational Antecedents of Job Attitudes"
 tags: [concept, situational, job-characteristics, leadership, organizational-practices, job-attitudes]
 created: 2026-06-01
+updated: 2026-06-01
 status: evergreen
 related: ["[[Job Attitudes]]", "[[Job Satisfaction]]", "[[Job Characteristics Model]]", "[[Dispositional Antecedents of Job Attitudes]]", "[[Affective Events Theory]]", "[[Timothy A. Judge]]"]
 ---

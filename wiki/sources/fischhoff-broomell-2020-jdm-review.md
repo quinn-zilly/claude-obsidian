@@ -11,6 +11,7 @@ doi: "10.1146/annurev-psych-010419-050747"
 tags: [source, JDM, decision-making, judgment, behavioral-decision-research]
 status: evergreen
 created: 2026-05-26
+updated: 2026-05-26
 related: ["[[connolly-2012-jdm]]", "[[tversky-kahneman-1974-heuristics-biases]]"]
 ---
 
@@ -35,7 +36,7 @@ The field progressed by analyzing tasks before describing behavior: formal stand
 3. **Pooling (Wisdom of Crowd)** — aggregate judgment > any member when judgments correlate with criterion but not with each other; lacks explanatory transparency
 
 **Consistency** studied via:
-- Bayesian inference as standard — conjunction fallacy, base-rate neglect (links to [[Tversky & Kahneman 1974]])
+- Bayesian inference as standard — conjunction fallacy, base-rate neglect (links to [[tversky-kahneman-1974-heuristics-biases|Tversky & Kahneman 1974]])
 - Dempster-Shafer as alternative — handles incomplete hypothesis sets; "known unknowns"
 - Emerging trend: multi-method, open-ended tasks to capture how people *naturally* think about uncertainty (lay concepts of confidence vs. likelihood)
 

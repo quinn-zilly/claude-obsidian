@@ -5,6 +5,7 @@ title: "Libertarian Paternalism"
 tags: [concept, JDM, nudge, choice-architecture, behavioral-policy, applied]
 status: evergreen
 created: 2026-05-26
+updated: 2026-05-26
 related: ["[[Constructed Preference]]", "[[Judgment and Decision Making (Field)]]", "[[Behaviour Change Determinants]]"]
 ---
 

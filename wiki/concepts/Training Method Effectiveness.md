@@ -5,6 +5,7 @@ title: "Training Method Effectiveness"
 tags: [concept, training-design, training-methods, instructional-design, organizational-behavior]
 status: evergreen
 created: 2026-06-04
+updated: 2026-06-04
 related: ["[[Training Effectiveness (Meta-Analytic Evidence)]]", "[[Training Needs Analysis]]", "[[Kirkpatrick Four-Level Model]]", "[[arthur-et-al-2003-training-meta-analysis]]", "[[Online Training Transfer Taxonomy]]"]
 ---
 

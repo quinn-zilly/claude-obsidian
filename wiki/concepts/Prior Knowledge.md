@@ -3,6 +3,7 @@ address: c-000395
 type: concept
 title: "Prior Knowledge"
 created: 2026-06-04
+updated: 2026-06-04
 tags: [concept, cognition, learning-science, pedagogy]
 status: evergreen
 related: ["[[Knowledge Organization]]", "[[Mastery Learning]]", "[[cmu-eberly-learning-principles]]"]

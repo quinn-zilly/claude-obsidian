@@ -7,6 +7,7 @@ tags: [concept, motivation, psychology, SDT, well-being]
 status: evergreen
 related: ["[[Richard Ryan]]", "[[Edward Deci]]", "[[Intrinsic Motivation]]", "[[Extrinsic Motivation]]", "[[Basic Psychological Needs (SDT)]]", "[[Cognitive Evaluation Theory]]", "[[Organismic Integration Theory]]", "[[Causality Orientations Theory]]", "[[Goal Contents Theory]]", "[[Relationships Motivation Theory]]", "[[Basic Psychological Needs Theory]]", "[[Autonomy (SDT)]]", "[[Competence (SDT)]]", "[[Relatedness (SDT)]]", "[[Internalization (SDT)]]", "[[ryan-deci-2000-sdt]]", "[[ryan-et-al-2022-sdt-meta-review]]"]
 created: 2026-05-29
+updated: 2026-05-29
 ---
 
 # Self-Determination Theory (SDT)

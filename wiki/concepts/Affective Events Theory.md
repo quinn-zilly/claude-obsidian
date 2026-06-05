@@ -5,6 +5,7 @@ title: "Affective Events Theory"
 aliases: ["AET"]
 tags: [concept, affective-events-theory, job-attitudes, affect, emotions, organizational-psychology]
 created: 2026-06-01
+updated: 2026-06-01
 status: evergreen
 related: ["[[Job Attitudes]]", "[[Job Satisfaction]]", "[[Experience-Sampling Methodology]]", "[[Dispositional Antecedents of Job Attitudes]]", "[[Job Performance (Outcomes of Job Attitudes)]]"]
 ---

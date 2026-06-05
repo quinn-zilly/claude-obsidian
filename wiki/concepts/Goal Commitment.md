@@ -5,6 +5,7 @@ title: "Goal Commitment"
 tags: [motivation, goal-setting, performance, moderator]
 status: developing
 created: 2026-05-30
+updated: 2026-05-30
 related: ["[[Goal-Setting Theory]]", "[[Self-Efficacy (Goal Setting)]]", "[[High-Performance Cycle]]", "[[Pay-for-Performance]]", "[[Incentive Effect (Compensation)]]"]
 ---
 

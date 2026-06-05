@@ -10,6 +10,7 @@ doi: 10.1016/j.orgdyn.2019.06.001
 tags: [training-investment, training-evaluation, benchmarking, transfer-climate, practitioner-guide, source]
 status: evergreen
 created: 2026-06-04
+updated: 2026-06-04
 ---
 
 # Smith-Jentsch (2020) — Making Smart Investments in Training
@@ -121,4 +122,4 @@ Smith-Jentsch's 20 recommendations (condensed):
 - [[Technology-Based Training]] — e-learning implementation risks: broken flow, distractions, reduced interaction
 - [[Training Method Effectiveness]] — active practice is non-negotiable for skill acquisition
 - [[Kimberly A. Smith-Jentsch]] — author; applied training scientist; FAA/Navy/NASA consulting experience
-- [[Alvarez et al. (2004)]] → [[alvarez-et-al-2004-training-evaluation-effectiveness]] — complements: Alvarez maps *what* predicts outcomes; Smith-Jentsch addresses *why training declines* in practice
+- [[alvarez-et-al-2004-training-evaluation-effectiveness|Alvarez et al. (2004)]] → [[alvarez-et-al-2004-training-evaluation-effectiveness]] — complements: Alvarez maps *what* predicts outcomes; Smith-Jentsch addresses *why training declines* in practice

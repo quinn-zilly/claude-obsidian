@@ -9,6 +9,7 @@ tags:
   - meta-analysis
 status: developing
 created: 2026-06-03
+updated: 2026-06-03
 related:
   - "[[Power Analysis (Replication Studies)]]"
   - "[[Meta-Analysis]]"

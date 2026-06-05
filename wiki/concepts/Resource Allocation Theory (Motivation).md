@@ -6,6 +6,7 @@ aliases: ["resource allocation model", "attentional resource allocation"]
 tags: [motivation, self-regulation, cognitive-resources, goal-setting, work-psychology]
 status: developing
 created: 2026-05-30
+updated: 2026-05-30
 related: ["[[Work Motivation Meta-Framework (Kanfer)]]", "[[Goal-Setting Theory]]", "[[Ego Depletion]]", "[[Learning Goals vs Performance Goals]]", "[[Self-Efficacy (Goal Setting)]]", "[[Ruth Kanfer]]"]
 ---
 

@@ -39,7 +39,7 @@ updated: unknown
 
 Robert M. Grant. "Toward a Knowledge-Based Theory of the Firm." *Strategic Management Journal* 17, Special Issue (1996): 109–122.
 
-Published in the landmark SMJ Special Issue on "Knowledge and the Firm," the same issue as [[Kogut & Zander]], Spender, and others foundational KBV papers.
+Published in the landmark SMJ Special Issue on "Knowledge and the Firm," the same issue as Kogut & Zander, Spender, and others foundational KBV papers.
 
 ## Summary
 
@@ -104,4 +104,4 @@ Firms exist where knowledge integration is most efficiently accomplished through
 
 ## Citation Impact
 
-Highly influential; cited in virtually all KBV literature. Companion piece to [[alav
+Highly influential; cited in virtually all KBV literature. Companion piece to [[alavi-leidner-2001-knowledge-management|Alavi & Leidner (2001)]]

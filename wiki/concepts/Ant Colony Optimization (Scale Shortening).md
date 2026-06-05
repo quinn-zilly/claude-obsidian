@@ -5,6 +5,7 @@ title: "Ant Colony Optimization (Scale Shortening)"
 tags: [concept, psychometrics, scale-development, short-forms, algorithms]
 status: evergreen
 created: 2026-06-01
+updated: 2026-06-01
 related: ["[[Likert Scale Development]]", "[[Item Response Theory]]", "[[Coefficient Omega]]", "[[jebb-ng-tay-2021-likert-scale-advances]]"]
 ---
 

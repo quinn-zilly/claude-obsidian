@@ -5,6 +5,7 @@ title: "Coefficient Omega"
 tags: [concept, psychometrics, reliability, measurement]
 status: evergreen
 created: 2026-06-01
+updated: 2026-06-01
 related: ["[[Likert Scale Development]]", "[[Item Response Theory]]", "[[jebb-ng-tay-2021-likert-scale-advances]]"]
 ---
 

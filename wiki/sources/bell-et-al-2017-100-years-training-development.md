@@ -12,6 +12,7 @@ doi: 10.1037/apl0000142
 tags: [training, development, learning, review, JAP, I-O-psychology]
 status: evergreen
 created: 2026-06-01
+updated: 2026-06-01
 related:
   - "[[Training Transfer]]"
   - "[[Kirkpatrick Four-Level Model]]"

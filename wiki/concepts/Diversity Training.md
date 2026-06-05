@@ -5,7 +5,8 @@ title: "Diversity Training"
 tags: [concept, diversity-training, DEI, organizational-psychology, training]
 status: evergreen
 created: 2026-06-04
-related: ["[[Diversity Training Myths]]", "[[cheng-et-al-2019-diversity-training-myths|Cheng et al. 2019]]", "[[Bezrukova et al. 2016]]", "[[Training Needs Analysis]]", "[[Multicultural vs. Colorblind Approaches]]", "[[Eduardo Salas]]"]
+updated: 2026-06-04
+related: ["[[Diversity Training Myths]]", "[[cheng-et-al-2019-diversity-training-myths|Cheng et al. 2019]]", "[[bezrukova-et-al-2016-diversity-training-meta-analysis|Bezrukova et al. 2016]]", "[[Training Needs Analysis]]", "[[Multicultural vs. Colorblind Approaches]]", "[[Eduardo Salas]]"]
 ---
 
 # Diversity Training
@@ -73,4 +74,4 @@ All employees — including majority group members. Diversity training is **not*
 
 ## See Also
 
-[[Diversity Training Myths]] | [[Training Needs Analysis]] | [[Multicultural vs. Colorblind Approaches]] | [[Bezrukova et al. 2016]] | [[cheng-et-al-2019-diversity-training-myths|Cheng et al. 2019]] | [[Implicit Bias]] | [[Eduardo Salas]]
+[[Diversity Training Myths]] | [[Training Needs Analysis]] | [[Multicultural vs. Colorblind Approaches]] | [[bezrukova-et-al-2016-diversity-training-meta-analysis|Bezrukova et al. 2016]] | [[cheng-et-al-2019-diversity-training-myths|Cheng et al. 2019]] | [[Implicit Bias]] | [[Eduardo Salas]]

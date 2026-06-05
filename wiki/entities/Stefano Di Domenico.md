@@ -6,6 +6,7 @@ tags: [entity, person, researcher, SDT, motivation]
 status: stub
 related: ["[[Self-Determination Theory]]", "[[Richard Ryan]]", "[[ryan-et-al-2022-sdt-meta-review]]"]
 created: 2026-05-29
+updated: 2026-05-29
 ---
 
 # Stefano Di Domenico

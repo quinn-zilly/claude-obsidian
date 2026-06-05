@@ -6,6 +6,7 @@ title: "Edwin A. Locke"
 tags: [researcher, IO-psychology, motivation, goal-setting]
 status: developing
 created: 2026-05-30
+updated: 2026-05-30
 related: ["[[Goal-Setting Theory]]", "[[Gary Latham]]", "[[Self-Efficacy (Goal Setting)]]", "[[High-Performance Cycle]]", "[[wiki/sources/locke-latham-2002-goal-setting-theory|Locke & Latham 2002]]"]
 ---
 

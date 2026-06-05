@@ -1,10 +1,12 @@
 ---
 type: concept
+address: c-000470
 title: "Situational Cue Types (TAT)"
 aliases: ["TAT situational features", "functional situational features"]
 tags: [concept, personality, trait-activation, interactionism]
 status: mature
 created: 2026-06-01
+updated: 2026-06-01
 related:
   - "[[Trait Activation Theory]]"
   - "[[Situation Strength]]"

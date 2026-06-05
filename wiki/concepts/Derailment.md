@@ -5,6 +5,7 @@ title: "Derailment"
 tags: [concept, leadership-development, career, talent-management]
 status: evergreen
 related: ["[[Stretch Experiences]]", "[[Leadership Pipeline]]", "[[Learning Agility]]", "[[On-the-Job Development]]", "[[yost-plunkett-2009-derailment]]"]
+updated: 2026-06-05
 ---
 
 # Derailment

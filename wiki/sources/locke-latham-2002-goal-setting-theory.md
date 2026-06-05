@@ -12,6 +12,7 @@ doi: "10.1037/0003-066X.57.9.705"
 tags: [goal-setting, motivation, work-psychology, IO-psychology, self-efficacy, performance]
 status: evergreen
 created: 2026-05-30
+updated: 2026-05-30
 related: ["[[Goal-Setting Theory]]", "[[Self-Efficacy (Goal Setting)]]", "[[High-Performance Cycle]]", "[[Edwin Locke]]", "[[Gary Latham]]", "[[Self-Determination Theory]]", "[[Pay-for-Performance]]"]
 ---
 

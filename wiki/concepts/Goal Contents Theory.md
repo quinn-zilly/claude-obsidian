@@ -7,6 +7,7 @@ tags: [concept, motivation, psychology, SDT, GCT, goals, well-being]
 status: evergreen
 related: ["[[Self-Determination Theory]]", "[[Basic Psychological Needs (SDT)]]", "[[Intrinsic Motivation]]", "[[Extrinsic Motivation]]", "[[ryan-et-al-2022-sdt-meta-review]]", "[[Emma Bradshaw]]", "[[Richard Ryan]]"]
 created: 2026-05-29
+updated: 2026-05-29
 ---
 
 # Goal Contents Theory (GCT)

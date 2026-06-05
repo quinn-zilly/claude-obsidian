@@ -1,11 +1,12 @@
 ---
 type: paper
-address:
+address: c-000490
 title: KM Research Paper
 tags:
   - knowledge-management
   - open-science
 status: developing
+updated: 2026-06-03
 ---
 # Questions
 

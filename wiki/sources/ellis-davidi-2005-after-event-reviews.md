@@ -13,12 +13,13 @@ tags: [after-event-review, debriefing, learning-from-experience, mental-models, 
 status: evergreen
 related:
   - "[[After-Event Reviews]]"
-  - "[[Mental Models (Learning)]]"
+  - "[[Mental Models (Decision)|Mental Models (Learning)]]"
   - "[[Learning from Experience]]"
   - "[[Training Transfer]]"
   - "[[Failure-Driven Learning]]"
   - "[[Goal-Directed Practice and Feedback]]"
 created: 2026-06-04
+updated: 2026-06-04
 ---
 
 # Ellis & Davidi (2005) — After-Event Reviews: Drawing Lessons From Successful and Failed Experience
@@ -123,7 +124,7 @@ FSAER success maps shifted from situational causes (performance, feeling) toward
 ## Related Concepts
 
 - [[After-Event Reviews]] — this paper's primary contribution
-- [[Mental Models (Learning)]] — cognitive cause maps as operationalization
+- [[Mental Models (Decision)|Mental Models (Learning)]] — cognitive cause maps as operationalization
 - [[Failure-Driven Learning]] — the baseline theory challenged
 - [[Learning from Experience]] — broad category
 - [[Training Transfer]] — AER as post-training transfer mechanism

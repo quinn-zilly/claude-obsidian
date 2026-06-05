@@ -5,6 +5,7 @@ title: "Team Leadership"
 tags: [leadership, teams, functional-leadership, multilevel, shared-leadership]
 status: mature
 created: 2026-06-01
+updated: 2026-06-01
 related:
   - "[[Three Waves of Leadership Research]]"
   - "[[Transformational and Charismatic Leadership]]"

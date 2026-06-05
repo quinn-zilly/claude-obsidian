@@ -1,5 +1,5 @@
 ---
-address: c-000442
+address: c-000450
 type: source
 title: "Transitions"
 authors: ["Paul R. Yost", "Mary M. Plunkett"]
@@ -8,6 +8,7 @@ source_file: ".raw/Output/Yost-Plunkett-2009-transition.md"
 tags: [source, leadership-development, transitions, career, talent-management]
 status: evergreen
 related: ["[[Transition Checklist]]", "[[Leadership Pipeline]]", "[[Derailment]]", "[[Paul Yost]]", "[[Mary Plunkett]]", "[[Stretch Experiences]]"]
+updated: 2026-06-05
 ---
 
 # Transitions

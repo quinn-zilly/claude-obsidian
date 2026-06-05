@@ -1,5 +1,6 @@
 ---
 type: concept
+address: c-000459
 title: "Equitable Data Collection"
 tags:
   - dei
@@ -11,6 +12,7 @@ related:
   - "[[DEI Evaluation]]"
   - "[[Stakeholder Engagement (Evaluation)]]"
   - "[[approaches-dei-evaluation]]"
+updated: 2026-06-05
 ---
 
 # Equitable Data Collection

@@ -5,6 +5,7 @@ title: "Stimulus Detection (Team Adaptation)"
 tags: [concept, team-adaptation, teams, phase-1]
 status: developing
 created: 2026-06-01
+updated: 2026-06-01
 related:
   - "[[Team Adaptation (Stimulus-Based Model)]]"
   - "[[Adaptive Stimulus]]"

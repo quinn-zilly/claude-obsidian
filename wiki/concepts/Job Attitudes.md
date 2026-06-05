@@ -4,6 +4,7 @@ type: concept
 title: "Job Attitudes"
 tags: [concept, job-attitudes, organizational-psychology, work-psychology]
 created: 2026-06-01
+updated: 2026-06-01
 status: evergreen
 related: ["[[Job Satisfaction]]", "[[Organizational Commitment]]", "[[Affective Events Theory]]", "[[Core Self-Evaluations]]", "[[Experience-Sampling Methodology]]", "[[Job Characteristics Model]]", "[[Dispositional Antecedents of Job Attitudes]]", "[[Situational Antecedents of Job Attitudes]]", "[[Job Performance (Outcomes of Job Attitudes)]]", "[[Timothy A. Judge]]", "[[John D. Kammeyer-Mueller]]"]
 ---

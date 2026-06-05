@@ -7,6 +7,7 @@ tags: [concept, motivation, psychology, SDT, COT]
 status: evergreen
 related: ["[[Self-Determination Theory]]", "[[Perceived Locus of Causality]]", "[[Autonomy (SDT)]]", "[[ryan-et-al-2022-sdt-meta-review]]", "[[Richard Ryan]]", "[[Edward Deci]]"]
 created: 2026-05-29
+updated: 2026-05-29
 ---
 
 # Causality Orientations Theory (COT)

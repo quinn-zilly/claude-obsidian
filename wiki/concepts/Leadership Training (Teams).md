@@ -1,10 +1,12 @@
 ---
 type: concept
+address: c-000464
 title: "Leadership Training (Teams)"
 aliases: ["leadership training", "leader development"]
 tags: [concept, teams, leadership, training, intervention]
 status: developing
 created: 2026-06-01
+updated: 2026-06-01
 related:
   - "[[Team Development Interventions]]"
   - "[[Team Training]]"

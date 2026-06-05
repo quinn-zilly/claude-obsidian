@@ -5,6 +5,7 @@ title: "Calibration (Judgment)"
 tags: [concept, JDM, judgment, uncertainty, forecasting, calibration]
 status: evergreen
 created: 2026-05-26
+updated: 2026-05-26
 related: ["[[Judgment and Decision Making (Field)]]", "[[Good Judgment Project]]", "[[Superforecasters]]", "[[Signal Detection Theory (Decision)]]"]
 ---
 

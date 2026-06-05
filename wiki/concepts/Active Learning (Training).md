@@ -5,6 +5,7 @@ title: "Active Learning (Training)"
 tags: [training, learning, design, self-regulation]
 status: developing
 created: 2026-06-01
+updated: 2026-06-01
 related:
   - "[[Training Design and Delivery]]"
   - "[[Technology-Based Training]]"

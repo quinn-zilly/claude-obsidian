@@ -1,10 +1,12 @@
 ---
 type: concept
+address: c-000458
 title: "Emergent States (Teams)"
 aliases: ["emergent states", "cohesion", "potency", "collective efficacy", "team cohesion"]
 tags: [concept, teams, emergent-states, cohesion, potency]
 status: developing
 created: 2026-06-01
+updated: 2026-06-01
 related:
   - "[[Teamwork Processes (Marks et al. Taxonomy)]]"
   - "[[Team Development Interventions]]"

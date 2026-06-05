@@ -5,6 +5,7 @@ title: "Fouled-Up Reward Systems"
 tags: [concept, reward-systems, incentives, organizational-behavior]
 status: evergreen
 created: 2026-06-04
+updated: 2026-06-04
 related: ["[[Reward System Misalignment]]", "[[Goal Displacement]]", "[[Steven Kerr]]", "[[kerr-1995-folly-rewarding-A|Kerr 1995]]"]
 ---
 

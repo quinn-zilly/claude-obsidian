@@ -3,6 +3,7 @@ address: c-000399
 type: concept
 title: "Goal-Directed Practice and Feedback"
 created: 2026-06-04
+updated: 2026-06-04
 tags: [concept, learning-science, pedagogy, feedback, deliberate-practice]
 status: evergreen
 related: ["[[Mastery Learning]]", "[[Motivation and Learning]]", "[[Self-Regulatory Skills]]", "[[cmu-eberly-learning-principles]]"]

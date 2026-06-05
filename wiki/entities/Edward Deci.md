@@ -8,6 +8,7 @@ tags: [entity, person, motivation, psychology, SDT]
 status: developing
 related: ["[[Self-Determination Theory]]", "[[Richard Ryan]]", "[[ryan-deci-2000-sdt]]", "[[Intrinsic Motivation]]", "[[Cognitive Evaluation Theory]]", "[[Organismic Integration Theory]]"]
 created: 2026-05-29
+updated: 2026-05-29
 ---
 
 # Edward L. Deci

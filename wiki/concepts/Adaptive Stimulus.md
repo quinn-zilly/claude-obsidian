@@ -5,6 +5,7 @@ title: "Adaptive Stimulus"
 tags: [concept, team-adaptation, teams]
 status: developing
 created: 2026-06-01
+updated: 2026-06-01
 related:
   - "[[Team Adaptation (Stimulus-Based Model)]]"
   - "[[Stimulus Detection (Team Adaptation)]]"

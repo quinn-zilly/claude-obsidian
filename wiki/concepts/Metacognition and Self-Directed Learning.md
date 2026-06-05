@@ -3,6 +3,7 @@ address: c-000401
 type: concept
 title: "Metacognition and Self-Directed Learning"
 created: 2026-06-04
+updated: 2026-06-04
 tags: [concept, metacognition, self-regulation, learning-science, pedagogy]
 status: evergreen
 related: ["[[Self-Directed Learning]]", "[[Self-Regulatory Skills]]", "[[Goal-Directed Practice and Feedback]]", "[[Judgment of Learning]]", "[[cmu-eberly-learning-principles]]"]

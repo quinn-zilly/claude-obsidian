@@ -105,7 +105,7 @@ Several pages use verbose citation strings as wikilinks instead of slugs. These 
 - `[[Open Science Collaboration 2015]]` → `[[open-science-collaboration-2015]]`
 - `[[Nosek and Bar-Anan 2012 - Scientific Utopia I]]` → `[[nosek-bar-anan-2012-scientific-utopia-i]]`
 - `[[Nosek et al. 2012 - Scientific Utopia II]]` → `[[nosek-2012-scientific-utopia-ii]]`
-- `[[Argote, Linda]]` → `[[Linda Argote]]` (in some source pages)
+- `[[Linda Argote]]` → `[[Linda Argote]]` (in some source pages)
 
 Not blocking; fix during next ingest round.
 

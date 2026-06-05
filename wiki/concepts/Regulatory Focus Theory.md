@@ -6,6 +6,7 @@ aliases: ["regulatory focus", "promotion focus", "prevention focus"]
 tags: [motivation, goal-setting, self-regulation, work-psychology, well-being]
 status: developing
 created: 2026-05-30
+updated: 2026-05-30
 related: ["[[Work Motivation Meta-Framework (Kanfer)]]", "[[Learning Goals vs Performance Goals]]", "[[Goal-Setting Theory]]", "[[Self-Determination Theory]]", "[[wiki/sources/kanfer-frese-johnson-2017-work-motivation|Kanfer et al. 2017]]"]
 ---
 

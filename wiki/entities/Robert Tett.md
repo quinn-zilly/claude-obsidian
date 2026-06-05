@@ -1,10 +1,12 @@
 ---
 type: entity
+address: c-000480
 entity_type: person
 title: "Robert Tett"
 tags: [entity, person, researcher, personality, I-O-psychology]
 status: developing
 created: 2026-06-01
+updated: 2026-06-01
 related:
   - "[[Trait Activation Theory]]"
   - "[[tett-et-al-2021-trait-activation-theory]]"

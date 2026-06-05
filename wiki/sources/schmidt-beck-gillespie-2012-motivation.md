@@ -6,6 +6,7 @@ aliases: ["Schmidt et al. 2012", "Schmidt Beck Gillespie 2012"]
 tags: [motivation, goal-setting, self-regulation, self-efficacy, affect, personality, source]
 status: evergreen
 created: 2026-06-01
+updated: 2026-06-01
 authors: ["Aaron M. Schmidt", "James W. Beck", "Jennifer Z. Gillespie"]
 year: 2012
 venue: "Handbook of Psychology: Industrial and Organizational Psychology (2nd ed.), Ch. 13, Wiley"

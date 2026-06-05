@@ -12,6 +12,7 @@ doi: "10.1037/apl0000089"
 tags: [leadership, applied-psychology, review, history-of-science, meta-analysis]
 status: evergreen
 created: 2026-06-01
+updated: 2026-06-01
 related:
   - "[[Three Waves of Leadership Research]]"
   - "[[Trait Paradigm (Leadership)]]"

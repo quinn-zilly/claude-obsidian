@@ -1,5 +1,6 @@
 ---
 type: source
+address: c-000485
 title: "Team Development Interventions: Evidence-Based Approaches for Improving Teamwork"
 authors: ["Christina N. Lacerenza", "Shannon L. Marlow", "Scott I. Tannenbaum", "Eduardo Salas"]
 year: 2018
@@ -11,6 +12,7 @@ doi: "10.1037/amp0000295"
 tags: [source, teams, team-development, team-training, team-building, leadership-training, team-debriefing, organizational-psychology]
 status: ingested
 created: 2026-06-01
+updated: 2026-06-01
 related:
   - "[[Team Development Interventions]]"
   - "[[Team Debriefing]]"

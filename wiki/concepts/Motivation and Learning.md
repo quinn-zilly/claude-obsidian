@@ -3,6 +3,7 @@ address: c-000397
 type: concept
 title: "Motivation and Learning"
 created: 2026-06-04
+updated: 2026-06-04
 tags: [concept, motivation, learning-science, pedagogy, self-determination]
 status: evergreen
 related: ["[[Intrinsic Motivation]]", "[[Extrinsic Motivation]]", "[[Self-Regulatory Skills]]", "[[Classroom Climate]]", "[[cmu-eberly-learning-principles]]", "[[Work Motivation Meta-Framework (Kanfer)]]"]

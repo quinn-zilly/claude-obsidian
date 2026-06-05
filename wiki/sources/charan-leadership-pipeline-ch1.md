@@ -8,6 +8,7 @@ source_file: ".raw/input/Leadership-Pipeline, Chapter 1, Charan.pdf"
 tags: [source, leadership-development, leadership-pipeline, succession, talent-management, passages]
 status: evergreen
 related: ["[[Leadership Pipeline]]", "[[Ram Charan]]", "[[Derailment]]", "[[Stretch Experiences]]"]
+updated: 2026-06-05
 ---
 
 # The Leadership Pipeline — Chapter 1: Six Leadership Passages

@@ -6,6 +6,7 @@ title: "Andrew T. Jebb"
 tags: [entity, person, psychometrics, researcher]
 status: evergreen
 created: 2026-06-01
+updated: 2026-06-01
 related: ["[[Louis Tay]]", "[[Likert Scale Development]]", "[[jebb-ng-tay-2021-likert-scale-advances]]"]
 ---
 

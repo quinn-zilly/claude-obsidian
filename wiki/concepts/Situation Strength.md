@@ -1,10 +1,12 @@
 ---
 type: concept
+address: c-000469
 title: "Situation Strength"
 aliases: ["strong situations", "weak situations", "situational strength"]
 tags: [concept, personality, interactionism, trait-activation]
 status: developing
 created: 2026-06-01
+updated: 2026-06-01
 related:
   - "[[Trait Activation Theory]]"
   - "[[Situational Cue Types (TAT)]]"

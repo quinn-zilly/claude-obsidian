@@ -6,6 +6,7 @@ aliases: ["ART", "action regulation"]
 tags: [motivation, goal-striving, planning, work-psychology, German-psychology]
 status: developing
 created: 2026-05-30
+updated: 2026-05-30
 related: ["[[Work Motivation Meta-Framework (Kanfer)]]", "[[Goal-Setting Theory]]", "[[Resource Allocation Theory (Motivation)]]", "[[Michael Frese]]", "[[wiki/sources/kanfer-frese-johnson-2017-work-motivation|Kanfer et al. 2017]]"]
 ---
 

@@ -7,6 +7,7 @@ tags: [concept, motivation, psychology, SDT, causality]
 status: evergreen
 related: ["[[Self-Determination Theory]]", "[[Causality Orientations Theory]]", "[[Autonomy (SDT)]]", "[[Intrinsic Motivation]]", "[[Extrinsic Motivation]]", "[[Richard Ryan]]", "[[Edward Deci]]"]
 created: 2026-05-29
+updated: 2026-05-29
 ---
 
 # Perceived Locus of Causality (PLOC)

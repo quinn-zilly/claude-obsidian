@@ -6,6 +6,7 @@ title: "Ram Charan"
 tags: [entity, person, leadership-development, business-strategy]
 status: developing
 related: ["[[Leadership Pipeline]]", "[[charan-leadership-pipeline-ch1]]"]
+updated: 2026-06-05
 ---
 
 # Ram Charan

@@ -5,6 +5,7 @@ title: "Leader Behavior and Ohio State Studies"
 tags: [leadership, behavior, Ohio-State, initiating-structure, consideration]
 status: mature
 created: 2026-06-01
+updated: 2026-06-01
 related:
   - "[[Three Waves of Leadership Research]]"
   - "[[Trait Paradigm (Leadership)]]"

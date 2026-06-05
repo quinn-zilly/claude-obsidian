@@ -12,7 +12,6 @@ tags:
 status: evergreen
 related:
   - "[[Claude SEO]]"
-  - "[[2026-04-14-claude-seo-v190-session]]"
   - "[[Semantic Topic Clustering]]"
   - "[[Search Experience Optimization]]"
 ---

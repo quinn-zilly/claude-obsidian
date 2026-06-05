@@ -36,7 +36,7 @@ Uhlmann, E. L., Ebersole, C. R., Chartier, C. R., Errington, T. M., Kidwell, M. 
 ## Authors
 
 - [[Eric Uhlmann]] — INSEAD Singapore; lead author
-- [[Brian Nosek]] — UVA / Center for Open Science; co-author; [[Scientific Utopia]] series architect
+- [[Brian Nosek]] — UVA / Center for Open Science; co-author; [[nosek-2012-scientific-utopia-ii|Scientific Utopia]] series architect
 
 ## Place in the Series
 

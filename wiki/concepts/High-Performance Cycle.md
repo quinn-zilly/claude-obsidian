@@ -6,6 +6,7 @@ aliases: ["HPC"]
 tags: [motivation, performance, satisfaction, goal-setting, work-psychology]
 status: developing
 created: 2026-05-30
+updated: 2026-05-30
 related: ["[[Goal-Setting Theory]]", "[[Self-Efficacy (Goal Setting)]]", "[[Edwin Locke]]", "[[Gary Latham]]", "[[Pay-for-Performance]]", "[[Intrinsic Motivation]]"]
 ---
 

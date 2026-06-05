@@ -18,6 +18,7 @@ tags:
   - psychology
 status: ingested
 created: 2026-06-03
+updated: 2026-06-03
 ---
 
 # Shrout & Rodgers (2018) — Psychology, Science, and Knowledge Construction
@@ -57,7 +58,7 @@ The paper works through nine questions:
 
 ## Questionable Research Practices (QRPs)
 
-See [[Questionable Research Practices (QRPs)]] for full taxonomy. Key types:
+See [[Questionable Research Practices|Questionable Research Practices (QRPs)]] for full taxonomy. Key types:
 - **HARKing** (Kerr 1998): Hypothesizing After Results are Known — conflates exploratory/confirmatory; see [[HARKing]]
 - **p-hacking** (Simmons et al. 2011): multiple DVs, optional stopping, covariate fishing, dropping groups
 - **fMRI double-dipping** (Vul et al. 2009): circular analysis inflating brain-behavior correlations
@@ -144,7 +145,7 @@ Key insight: effect sizes are NOT fixed population parameters — they vary syst
 - [[Replication Crisis]] — parent concept page; update with Shrout & Rodgers framing
 - [[Open Science]] — preregistration as most important reform
 - [[HARKing]] — ← new page from this source
-- [[Questionable Research Practices (QRPs)]] — ← new page from this source
+- [[Questionable Research Practices|Questionable Research Practices (QRPs)]] — ← new page from this source
 - [[Publication Bias]] — file drawer; half-size effect sizes in OSC
 - [[P-hacking]] — Simmons et al. (2011) taxonomy
 - [[Power Analysis (Replication Studies)]] — ← new page

@@ -42,8 +42,8 @@ These reference session log pages that don't exist in the wiki. Expected; ignore
 ### Category B: Comma-style author refs (fixable — convert to entity page links)
 Pages using "Last, First" citation style instead of wikilinks to entity pages.
 
-- `[[Argote, Linda]]` in [[ren-argote-2011-tms]] → should be `[[Linda Argote]]`
-- `[[Hollingshead, Andrea]]` in [[ren-argote-2011-tms]] → create [[Andrea Hollingshead]] stub or remove
+- `[[Linda Argote]]` in [[ren-argote-2011-tms]] → should be `[[Linda Argote]]`
+- `[[Andrea Hollingshead]]` in [[ren-argote-2011-tms]] → create [[Andrea Hollingshead]] stub or remove
 - `[[Bastardi, Uhlmann, & Ross (2011)]]` in [[Motivated Reasoning]] → citation, not a page link; remove brackets
 - `[[Buckheit & Donoho (1995)]]` in [[Open Workflow]] → citation; remove brackets
 - `[[John, Loewenstein, & Prelec 2012]]` in [[nosek-2012-scientific-utopia-ii]] → citation; remove brackets

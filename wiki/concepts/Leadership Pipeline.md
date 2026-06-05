@@ -5,6 +5,7 @@ title: "Leadership Pipeline"
 tags: [concept, leadership-development, succession, talent-management, passages]
 status: evergreen
 related: ["[[Derailment]]", "[[Stretch Experiences]]", "[[On-the-Job Development]]", "[[charan-leadership-pipeline-ch1]]", "[[Ram Charan]]"]
+updated: 2026-06-05
 ---
 
 # Leadership Pipeline

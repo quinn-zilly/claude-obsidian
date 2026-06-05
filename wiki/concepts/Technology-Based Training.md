@@ -5,6 +5,7 @@ title: "Technology-Based Training"
 tags: [training, e-learning, technology, design]
 status: developing
 created: 2026-06-01
+updated: 2026-06-01
 related:
   - "[[Active Learning (Training)]]"
   - "[[Training Design and Delivery]]"

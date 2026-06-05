@@ -6,6 +6,7 @@ aliases: ["self-regulation skills", "self-regulatory processes"]
 tags: [self-regulation, Kanfer, self-management, behavior-change, motivation]
 status: developing
 created: 2026-06-04
+updated: 2026-06-04
 related: ["[[Self-Management Training]]", "[[Self-Efficacy (Goal Setting)]]", "[[Work Motivation Meta-Framework (Kanfer)]]", "[[Goal-Setting Theory]]", "[[frayne-latham-1987-self-management-attendance|Frayne & Latham 1987]]"]
 ---
 

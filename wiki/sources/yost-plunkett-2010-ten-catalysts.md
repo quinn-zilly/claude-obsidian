@@ -80,7 +80,7 @@ Reward systems must reinforce development alongside performance. Promote leaders
 
 ## Related Sources
 
-- [[McCall 2010]] — the "different horse" argument this responds to
+- [[Morgan McCall|McCall 2010]] — the "different horse" argument this responds to
 - [[Organizational Learning]] — broader context
 - [[Knowledge Transfer]] — OJD as knowledge transfer mechanism
 

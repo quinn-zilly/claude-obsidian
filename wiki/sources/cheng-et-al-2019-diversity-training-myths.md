@@ -9,7 +9,8 @@ doi: "10.1016/j.orgdyn.2018.09.001"
 tags: [source, diversity-training, myths, DEI, organizational-psychology, training-design]
 status: evergreen
 created: 2026-06-04
-related: ["[[Diversity Training]]", "[[Diversity Training Myths]]", "[[Bezrukova et al. 2016]]", "[[Eduardo Salas]]", "[[Mikki Hebl]]", "[[Eden King]]"]
+updated: 2026-06-04
+related: ["[[Diversity Training]]", "[[Diversity Training Myths]]", "[[bezrukova-et-al-2016-diversity-training-meta-analysis|Bezrukova et al. 2016]]", "[[Eduardo Salas]]", "[[Mikki Hebl]]", "[[Eden King]]"]
 ---
 
 # Cheng et al. (2019) — Challenging Diversity Training Myths
@@ -79,4 +80,4 @@ Key meta-analytic anchor throughout: **Bezrukova et al. (2016)** — 40+ years o
 
 Lead from Rice University group (Hebl, King labs). Eduardo Salas (team science, training science) is a co-author, bridging diversity training and general training science.
 
-See: [[Mikki Hebl]], [[Eden King]], [[Eduardo Salas]], [[Diversity Training]], [[Diversity Training Myths]], [[Bezrukova et al. 2016]]
+See: [[Mikki Hebl]], [[Eden King]], [[Eduardo Salas]], [[Diversity Training]], [[Diversity Training Myths]], [[bezrukova-et-al-2016-diversity-training-meta-analysis|Bezrukova et al. 2016]]

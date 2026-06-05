@@ -3,11 +3,12 @@ address: c-000427
 tags: [leadership-development, ROI, utility-analysis, human-capital, training-evaluation]
 status: evergreen
 created: 2026-06-04
+updated: 2026-06-04
 ---
 
 # Return on Development Investment (RODI)
 
-RODI is a utility-analysis-based methodology for estimating the financial return of leadership development interventions ([[Avolio et al. (2010)]]). Adapts Cascio & Boudreau's (2008) HR utility framework to leadership contexts.
+RODI is a utility-analysis-based methodology for estimating the financial return of leadership development interventions ([[Bruce J. Avolio|Avolio et al. (2010)]]). Adapts Cascio & Boudreau's (2008) HR utility framework to leadership contexts.
 
 ## Formula
 

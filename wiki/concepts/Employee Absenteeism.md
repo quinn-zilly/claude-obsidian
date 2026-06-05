@@ -6,6 +6,7 @@ aliases: ["absenteeism", "job attendance", "employee attendance"]
 tags: [absenteeism, attendance, HR, IO-psychology, self-management, measurement]
 status: developing
 created: 2026-06-04
+updated: 2026-06-04
 related: ["[[Self-Management Training]]", "[[Self-Efficacy (Goal Setting)]]", "[[Outcome Expectancies]]", "[[frayne-latham-1987-self-management-attendance|Frayne & Latham 1987]]", "[[Gary Latham]]"]
 ---
 

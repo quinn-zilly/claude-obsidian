@@ -12,6 +12,7 @@ tags:
   - institutional-theory
 status: developing
 created: 2026-05-24
+updated: 2026-05-24
 related:
   - "[[Mirjam Werner]]"
   - "[[Framing (Organizational Theory)]]"

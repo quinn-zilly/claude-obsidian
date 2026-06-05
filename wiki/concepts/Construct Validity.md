@@ -5,6 +5,7 @@ title: "Construct Validity"
 tags: [concept, psychometrics, measurement, validity]
 status: evergreen
 created: 2026-06-01
+updated: 2026-06-01
 related: ["[[Likert Scale Development]]", "[[Construct Definition]]", "[[jebb-ng-tay-2021-likert-scale-advances]]"]
 ---
 

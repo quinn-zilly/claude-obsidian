@@ -6,6 +6,7 @@ aliases: ["Frayne & Latham 1987", "frayne-latham-1987"]
 tags: [source, self-management, attendance, absenteeism, self-efficacy, social-learning-theory, training, IO-psychology, field-experiment]
 status: evergreen
 created: 2026-06-04
+updated: 2026-06-04
 authors: ["Colette A. Frayne", "Gary P. Latham"]
 year: 1987
 journal: "Journal of Applied Psychology"

@@ -7,6 +7,7 @@ affiliation: "Durham University (Department of Psychology, Business School)"
 tags: [leadership, researcher, social-cognition, ILT]
 status: developing
 created: 2026-06-01
+updated: 2026-06-01
 related:
   - "[[Implicit Leadership Theories]]"
   - "[[Trait Paradigm (Leadership)]]"

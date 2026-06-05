@@ -6,6 +6,7 @@ tags: [concept, motivation, psychology, SDT, autonomy]
 status: evergreen
 related: ["[[Self-Determination Theory]]", "[[Basic Psychological Needs (SDT)]]", "[[Competence (SDT)]]", "[[Relatedness (SDT)]]", "[[Intrinsic Motivation]]", "[[Internalization (SDT)]]", "[[ryan-deci-2000-sdt]]"]
 created: 2026-05-29
+updated: 2026-05-29
 ---
 
 # Autonomy (SDT)

@@ -7,6 +7,7 @@ affiliation: Cornell University (ILR School, Human Resource Studies)
 tags: [I-O-psychology, training, learning, team-training]
 status: evergreen
 created: 2026-06-01
+updated: 2026-06-01
 related:
   - "[[bell-et-al-2017-100-years-training-development]]"
   - "[[Active Learning (Training)]]"

@@ -5,6 +5,7 @@ title: "Training Context and Transfer Climate"
 tags: [training, transfer, context, climate, systems]
 status: mature
 created: 2026-06-01
+updated: 2026-06-01
 related:
   - "[[Training Transfer]]"
   - "[[Kirkpatrick Four-Level Model]]"

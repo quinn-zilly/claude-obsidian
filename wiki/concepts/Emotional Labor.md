@@ -6,6 +6,7 @@ aliases: ["emotional labour", "surface acting", "deep acting", "display rules"]
 tags: [motivation, affect, emotion, work, self-regulation, IO-psychology]
 status: developing
 created: 2026-06-01
+updated: 2026-06-01
 related:
   - "[[Control Theory (Self-Regulation)]]"
   - "[[Self-Determination Theory]]"

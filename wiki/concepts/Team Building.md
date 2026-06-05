@@ -1,10 +1,12 @@
 ---
 type: concept
+address: c-000472
 title: "Team Building"
 aliases: ["team-building intervention"]
 tags: [concept, teams, intervention, interpersonal]
 status: mature
 created: 2026-06-01
+updated: 2026-06-01
 related:
   - "[[Team Development Interventions]]"
   - "[[Team Training]]"

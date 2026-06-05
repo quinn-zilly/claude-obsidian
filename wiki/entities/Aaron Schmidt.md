@@ -6,6 +6,7 @@ aliases: ["Aaron M. Schmidt", "A.M. Schmidt"]
 tags: [person, IO-psychology, motivation, researcher]
 status: developing
 created: 2026-06-01
+updated: 2026-06-01
 related:
   - "[[Control Theory (Self-Regulation)]]"
   - "[[Multiple Goal Self-Regulation]]"

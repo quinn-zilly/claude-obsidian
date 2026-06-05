@@ -9,6 +9,7 @@ tags:
   - methodology
 status: developing
 created: 2026-05-24
+updated: 2026-05-24
 related:
   - "[[Cognitive Frame]]"
   - "[[Framing (Organizational Theory)]]"

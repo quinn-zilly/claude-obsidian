@@ -1,5 +1,6 @@
 ---
 type: source
+address: c-000487
 title: "There's a Science for That: Team Development Interventions in Organizations"
 authors: ["Marissa L. Shuffler", "Deborah DiazGranados", "Eduardo Salas"]
 year: 2011
@@ -11,6 +12,7 @@ doi: "10.1177/0963721411422054"
 tags: [source, teams, team-development, team-training, team-building, organizational-psychology]
 status: ingested
 created: 2026-06-01
+updated: 2026-06-01
 related:
   - "[[Team Development Interventions]]"
   - "[[Team Building]]"
@@ -117,6 +119,6 @@ Real-world example: surgical team training across 74 facilities → **lower mort
 - [[Transactive Memory Systems]] — listed as key team cognition outcome; trained via cross-training and coordination training
 - [[Trait Activation Theory]] — TAT team-building application (mutual trait activation, chemistry) complements this intervention science; TAT identifies *which* traits to develop for which team context
 - [[Organizational Learning]] — team training as mechanism for organizational learning; team self-correction = organizational learning process at team level
-- [[Kraiger & Ford 2021]] — deeper treatment of learning science underlying team training design
+- [[kraiger-ford-2021-workplace-instruction|Kraiger & Ford 2021]] — deeper treatment of learning science underlying team training design
 - [[Marissa Shuffler]] — first author; UCF
 - [[Eduardo Salas]] — senior author; UCF Institute for Simulation & Training

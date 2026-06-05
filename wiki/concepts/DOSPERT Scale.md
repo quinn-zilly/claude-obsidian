@@ -5,6 +5,7 @@ title: "DOSPERT Scale"
 tags: [concept, JDM, individual-differences, risk, measurement]
 status: evergreen
 created: 2026-05-26
+updated: 2026-05-26
 related: ["[[Decision-Making Competence]]", "[[Judgment and Decision Making (Field)]]"]
 ---
 

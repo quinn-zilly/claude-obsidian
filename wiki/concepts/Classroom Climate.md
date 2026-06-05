@@ -3,6 +3,7 @@ address: c-000400
 type: concept
 title: "Classroom Climate"
 created: 2026-06-04
+updated: 2026-06-04
 tags: [concept, learning-science, pedagogy, belonging, stereotype-threat, climate]
 status: evergreen
 related: ["[[Motivation and Learning]]", "[[Metacognition and Self-Directed Learning]]", "[[cmu-eberly-learning-principles]]"]

@@ -6,6 +6,7 @@ tags: [concept, motivation, psychology, SDT, well-being, needs]
 status: evergreen
 related: ["[[Self-Determination Theory]]", "[[Autonomy (SDT)]]", "[[Competence (SDT)]]", "[[Relatedness (SDT)]]", "[[Intrinsic Motivation]]", "[[ryan-deci-2000-sdt]]"]
 created: 2026-05-29
+updated: 2026-05-29
 ---
 
 # Basic Psychological Needs (SDT)

@@ -5,6 +5,7 @@ title: "Experience-Sampling Methodology"
 aliases: ["ESM", "ecological momentary assessment", "EMA"]
 tags: [concept, ESM, methodology, job-attitudes, within-person, multilevel]
 created: 2026-06-01
+updated: 2026-06-01
 status: evergreen
 related: ["[[Job Attitudes]]", "[[Job Satisfaction]]", "[[Affective Events Theory]]", "[[Dispositional Antecedents of Job Attitudes]]"]
 ---

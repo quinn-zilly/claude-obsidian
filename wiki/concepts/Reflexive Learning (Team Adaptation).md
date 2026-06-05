@@ -5,6 +5,7 @@ title: "Reflexive Learning (Team Adaptation)"
 tags: [concept, team-adaptation, teams, phase-5, learning]
 status: developing
 created: 2026-06-01
+updated: 2026-06-01
 related:
   - "[[Team Adaptation (Stimulus-Based Model)]]"
   - "[[Duration Assessment (Team Adaptation)]]"

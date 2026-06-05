@@ -29,7 +29,7 @@ Open workflow means researchers make visible and accessible:
 
 In current practice, "openness" occurs almost entirely through a single mechanism: **the journal article**. But journals present a polished narrative of what the researcher learned, not how learning occurred.
 
-[[Buckheit & Donoho (1995)]] captured this:
+Buckheit & Donoho (1995) captured this:
 
 > "A scientific publication is not the scholarship itself, it is merely advertising of the scholarship"
 
@@ -39,7 +39,7 @@ The actual research—measures, methods, analysis choices—is largely opaque to
 
 ### 1. Reduces HARKing
 
-[[HARKing]] (Hypothesizing After Results are Known) is common when researchers can reconstruct their research history to match findings. [[Nosek et al. 2012 - Scientific Utopia II]] note:
+[[HARKing]] (Hypothesizing After Results are Known) is common when researchers can reconstruct their research history to match findings. [[nosek-2012-scientific-utopia-ii|Nosek et al. 2012 - Scientific Utopia II]] note:
 
 > People are more likely to presume that what they know now was how they conceived it at the beginning
 
@@ -51,14 +51,14 @@ Pre-registration clarifies: What did we hypothesize at the start? What did we di
 
 Registry reveals what research was done but not published. Companies and funders can see whether studies with negative results were simply never written up or published.
 
-Clinical trials example ([[clinicaltrials.gov]]):
+Clinical trials example (clinicaltrials.gov):
 - 2005: ICMJE required preregistration for RCTs
 - Finding: 31% of registered trials showed discrepancies between registered and published outcomes
 - Of these, 82% of discrepancies favored statistically significant results
 
 ### 3. Enables Accountability
 
-[[Nosek et al. 2012 - Scientific Utopia II]] argue that knowing "someone could look" improves scientific practice even if no one actually does.
+[[nosek-2012-scientific-utopia-ii|Nosek et al. 2012 - Scientific Utopia II]] argue that knowing "someone could look" improves scientific practice even if no one actually does.
 
 Their opening anecdote: Motyl and Nosek ran a replication of their own surprising finding (political extremists see gray literally) and found the effect vanished. They didn't publish the original because **lab mates knew about the replication.** Accountability to peers prevented ignoring the null result.
 
@@ -72,7 +72,7 @@ Without a registry, the distinction collapses in hindsight. With open workflow:
 
 ## Implementation Model
 
-[[clinicaltrials.gov]] serves as a proof of concept:
+clinicaltrials.gov serves as a proof of concept:
 
 - National Institutes of Health–sponsored registry
 - Trial registration required before data collection (since 2005)
@@ -117,6 +117,6 @@ The transparency gained enables:
 
 ## Sources
 
-- [[Nosek et al. 2012 - Scientific Utopia II]]
+- [[nosek-2012-scientific-utopia-ii|Nosek et al. 2012 - Scientific Utopia II]]
 - Mathieu, S., Boutron, I., Moher, D., Altman, D. G., & Ravaud, P. (2009). Comparison of registered and published primary outcomes in randomized controlled trials. Journal of the American Medical Association, 302, 977–984.
-- [[Schooler 2011]]: Unpublished results hide the decline effect
+- Schooler 2011: Unpublished results hide the decline effect

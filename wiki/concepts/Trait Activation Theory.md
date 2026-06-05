@@ -1,10 +1,12 @@
 ---
 type: concept
+address: c-000478
 title: "Trait Activation Theory"
 aliases: [TAT, "trait activation"]
 tags: [concept, personality, interactionism, work-psychology, PE-fit, motivation]
 status: mature
 created: 2026-06-01
+updated: 2026-06-01
 related:
   - "[[Situational Cue Types (TAT)]]"
   - "[[Personality Dynamics (TAT)]]"

@@ -1,10 +1,11 @@
 ---
-address: c-000385
+address: c-000451
 type: concept
 title: "Goal Displacement"
 tags: [concept, organizational-behavior, goals, reward-systems]
 status: evergreen
 created: 2026-06-04
+updated: 2026-06-04
 related: ["[[Reward System Misalignment]]", "[[Fouled-Up Reward Systems]]", "[[Operative vs Official Goals]]", "[[kerr-1995-folly-rewarding-A|Kerr 1995]]"]
 ---
 

@@ -5,6 +5,7 @@ title: "Situational Interview"
 tags: [selection, HR, goal-setting, IO-psychology, interview]
 status: developing
 created: 2026-05-30
+updated: 2026-05-30
 related: ["[[Goal-Setting Theory]]", "[[Gary Latham]]", "[[Pay-for-Performance]]", "[[On-the-Job Development]]"]
 ---
 

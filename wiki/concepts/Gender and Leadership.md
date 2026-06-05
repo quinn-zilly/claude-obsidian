@@ -5,6 +5,7 @@ title: "Gender and Leadership"
 tags: [leadership, gender, stereotypes, meta-analysis, role-congruity]
 status: mature
 created: 2026-06-01
+updated: 2026-06-01
 related:
   - "[[Three Waves of Leadership Research]]"
   - "[[Implicit Leadership Theories]]"

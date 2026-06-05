@@ -1,10 +1,12 @@
 ---
 type: concept
+address: c-000476
 title: "Teamwork Processes (Marks et al. Taxonomy)"
 aliases: ["teamwork processes", "Marks et al. 2001 taxonomy", "team process dimensions", "transition processes", "action processes", "interpersonal processes"]
 tags: [concept, teams, team-processes, IPO-model, meta-analysis]
 status: mature
 created: 2026-06-01
+updated: 2026-06-01
 related:
   - "[[Emergent States (Teams)]]"
   - "[[Team Development Interventions]]"

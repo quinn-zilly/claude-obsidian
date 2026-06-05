@@ -8,6 +8,7 @@ tags: [entity, person, motivation, psychology, SDT]
 status: developing
 related: ["[[Self-Determination Theory]]", "[[Edward Deci]]", "[[ryan-deci-2000-sdt]]", "[[ryan-et-al-2022-sdt-meta-review]]", "[[Intrinsic Motivation]]", "[[Basic Psychological Needs (SDT)]]", "[[Jasper Duineveld]]", "[[Emma Bradshaw]]", "[[Stefano Di Domenico]]"]
 created: 2026-05-29
+updated: 2026-05-29
 ---
 
 # Richard M. Ryan

@@ -5,6 +5,7 @@ title: "Loss Aversion"
 tags: [concept, JDM, prospect-theory, CPT, behavioral-economics]
 status: evergreen
 created: 2026-05-26
+updated: 2026-05-26
 related: ["[[Prospect Theory]]", "[[Cumulative Prospect Theory]]", "[[Framing Effects]]"]
 ---
 

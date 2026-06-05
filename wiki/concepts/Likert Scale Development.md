@@ -5,6 +5,7 @@ title: "Likert Scale Development"
 tags: [concept, psychometrics, measurement, scale-development]
 status: evergreen
 created: 2026-06-01
+updated: 2026-06-01
 related: ["[[Construct Validity]]", "[[Construct Definition]]", "[[Coefficient Omega]]", "[[Item Response Theory]]", "[[Ant Colony Optimization (Scale Shortening)]]", "[[Readability Tests for Survey Items]]", "[[jebb-ng-tay-2021-likert-scale-advances]]"]
 ---
 

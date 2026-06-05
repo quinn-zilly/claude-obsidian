@@ -1,6 +1,8 @@
 ---
+address: c-000471
 title: Strategic Job Analysis (SJA)
 tags: [concept, HRM, job-analysis, strategy]
+updated: 2026-06-05
 ---
 
 # Strategic Job Analysis (SJA)

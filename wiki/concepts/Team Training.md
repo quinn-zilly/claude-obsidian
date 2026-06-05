@@ -1,10 +1,12 @@
 ---
 type: concept
+address: c-000475
 title: "Team Training"
 aliases: ["team training intervention", "CRM training"]
 tags: [concept, teams, training, KSA, cognition]
 status: mature
 created: 2026-06-01
+updated: 2026-06-01
 related:
   - "[[Team Development Interventions]]"
   - "[[Team Building]]"
@@ -67,7 +69,7 @@ Evidence: CRM training credited by NTSB for survival of US Airways Flight 1549 (
 
 ## Relationship to Learning Science
 
-Team training instantiates the learning science principles from [[Kraiger & Ford 2021]]: declarative → procedural → compiled knowledge via practice + feedback. Transfer requires similarity between training and performance environments (identical elements principle). Team self-correction training builds metacognitive regulation at team level.
+Team training instantiates the learning science principles from [[kraiger-ford-2021-workplace-instruction|Kraiger & Ford 2021]]: declarative → procedural → compiled knowledge via practice + feedback. Transfer requires similarity between training and performance environments (identical elements principle). Team self-correction training builds metacognitive regulation at team level.
 
 ## Source
 - [[shuffler-et-al-2011-team-development-interventions]]

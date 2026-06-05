@@ -14,6 +14,7 @@ related:
   - "[[Goal-Directed Practice and Feedback]]"
   - "[[Kirkpatrick Four-Level Model]]"
 created: 2026-06-04
+updated: 2026-06-04
 ---
 
 # APA — Guidance for Writing Behavioral Learning Objectives

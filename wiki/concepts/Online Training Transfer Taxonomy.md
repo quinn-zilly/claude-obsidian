@@ -5,6 +5,7 @@ title: "Online Training Transfer Taxonomy"
 tags: [concept, training-transfer, online-training, e-learning, taxonomy, HRD, digital-literacy]
 status: evergreen
 created: 2026-06-04
+updated: 2026-06-04
 related: ["[[Transfer of Training]]", "[[Training Transfer]]", "[[Training Context and Transfer Climate]]", "[[Technology-Based Training]]", "[[shukla-et-al-2024-transfer-online-training]]", "[[Kirkpatrick Four-Level Model]]", "[[Training Effectiveness (Meta-Analytic Evidence)]]"]
 ---
 

@@ -4,6 +4,7 @@ type: concept
 title: "Job Satisfaction"
 tags: [concept, job-satisfaction, job-attitudes, organizational-psychology]
 created: 2026-06-01
+updated: 2026-06-01
 status: evergreen
 related: ["[[Job Attitudes]]", "[[Organizational Commitment]]", "[[Affective Events Theory]]", "[[Core Self-Evaluations]]", "[[Job Characteristics Model]]", "[[Dispositional Antecedents of Job Attitudes]]", "[[Situational Antecedents of Job Attitudes]]", "[[Job Performance (Outcomes of Job Attitudes)]]", "[[Experience-Sampling Methodology]]", "[[High-Performance Cycle]]"]
 ---

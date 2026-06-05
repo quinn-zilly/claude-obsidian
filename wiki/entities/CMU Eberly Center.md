@@ -4,6 +4,7 @@ type: entity
 entity_type: organization
 title: "CMU Eberly Center"
 created: 2026-06-04
+updated: 2026-06-04
 tags: [entity, organization, education, pedagogy, CMU]
 status: evergreen
 related: ["[[cmu-eberly-learning-principles]]", "[[Prior Knowledge]]", "[[Metacognition and Self-Directed Learning]]"]

@@ -1,11 +1,12 @@
 ---
-address: c-000386
+address: c-000454
 type: entity
 subtype: person
 title: "Steven Kerr"
 tags: [person, organizational-behavior, reward-systems, management]
 status: stub
 created: 2026-06-04
+updated: 2026-06-04
 related: ["[[kerr-1995-folly-rewarding-A|Kerr 1995]]", "[[Reward System Misalignment]]", "[[Fouled-Up Reward Systems]]"]
 ---
 

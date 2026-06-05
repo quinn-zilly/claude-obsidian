@@ -13,6 +13,7 @@ related:
   - "[[Proactive Engagement]]"
   - "[[Institutional Change Pathways]]"
 created: 2026-06-04
+updated: 2026-06-04
 ---
 
 # HR Change from the Middle

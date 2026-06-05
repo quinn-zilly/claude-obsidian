@@ -1,5 +1,6 @@
 ---
 type: source
+address: c-000488
 title: "Trait Activation Theory: A Review of the Literature and Applications to Five Lines of Personality Dynamics Research"
 authors: ["Robert P. Tett", "Margaret J. Toich", "S. Burak Ozkum"]
 year: 2021
@@ -10,6 +11,7 @@ doi: "10.1146/annurev-orgpsych-012420-062228"
 tags: [source, personality, trait-activation, interactionism, PE-fit, personality-dynamics, work-motivation]
 status: ingested
 created: 2026-06-01
+updated: 2026-06-01
 related:
   - "[[Trait Activation Theory]]"
   - "[[Situational Cue Types (TAT)]]"

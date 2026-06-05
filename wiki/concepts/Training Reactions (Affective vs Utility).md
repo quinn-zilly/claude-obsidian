@@ -5,6 +5,7 @@ title: "Training Reactions (Affective vs Utility)"
 tags: [concept, training-evaluation, training-reactions, transfer-of-training]
 status: evergreen
 created: 2026-06-01
+updated: 2026-06-01
 related: ["[[Kirkpatrick Four-Level Model]]", "[[Augmented Training Criteria Framework]]", "[[Training Transfer]]", "[[alliger-et-al-1997-training-criteria-meta-analysis]]"]
 ---
 

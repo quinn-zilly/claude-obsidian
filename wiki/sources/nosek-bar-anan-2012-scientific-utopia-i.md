@@ -37,7 +37,7 @@ related:
 
 ## Core Argument
 
-Current scientific communication is inefficient, slow, incomplete, inaccurate, and unmodifiable. The barriers to reform are social (inertia, vested interests in current prestige structures), **not** technical or financial. Technology already exists to implement all six proposed changes. This paper is Part I of a trilogy; [[nosek-bar-anan-2012-scientific-utopia-ii|Scientific Utopia II]] addresses incentive structures.
+Current scientific communication is inefficient, slow, incomplete, inaccurate, and unmodifiable. The barriers to reform are social (inertia, vested interests in current prestige structures), **not** technical or financial. Technology already exists to implement all six proposed changes. This paper is Part I of a trilogy; [[nosek-2012-scientific-utopia-ii|Scientific Utopia II]] addresses incentive structures.
 
 ## Five Inefficiencies of Current System
 

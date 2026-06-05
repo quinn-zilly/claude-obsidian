@@ -97,9 +97,9 @@ Five established measurement approaches identified:
 - Hollingshead (1998a, 1998b) and Wegner et al. (1991) questionnaires
 
 **For Small Groups:**
-- [[Liang et al. (1995)]] - behavioral coding + direct expertise measures
+- Liang et al. (1995) - behavioral coding + direct expertise measures
 - Austin (2003) - four components (knowledge stock, consensus, specialization, accuracy)
-- [[Lewis (2003)]] - 15-item scale (specialization, credibility, coordination) *most widely adopted*
+- Lewis (2003) - 15-item scale (specialization, credibility, coordination) *most widely adopted*
 - Faraj & Sproull (2000) - expertise location & expertise utilization
 
 **Recommendation:** Use standard measures (especially Lewis 2003) to accumulate knowledge. Compare new measures against standards.
@@ -194,11 +194,11 @@ Dimensions not always highly correlated. In mature, established teams, correlati
 
 ## Cross-References
 
-- [[Wegner, Daniel M.]] (original theorist)
-- [[Lewis, Kristina]] (measurement pioneer)
-- [[Moreland, Richard]] (group dynamics perspective)
-- [[Argote, Linda]] (organizational learning perspective)
-- [[Hollingshead, Andrea]] (communication & retrieval)
+- [[Daniel M. Wegner]] (original theorist)
+- [[Kristina Lewis]] (measurement pioneer)
+- [[Richard Moreland]] (group dynamics perspective)
+- [[Linda Argote]] (organizational learning perspective)
+- [[Andrea Hollingshead]] (communication & retrieval)
 
 ---
 

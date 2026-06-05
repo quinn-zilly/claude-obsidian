@@ -5,6 +5,7 @@ title: "Applied Basic Psychology"
 tags: [concept, JDM, science-practice, methodology, decision-science]
 status: evergreen
 created: 2026-05-26
+updated: 2026-05-26
 related: ["[[Judgment and Decision Making (Field)]]", "[[Good Judgment Project]]"]
 ---
 

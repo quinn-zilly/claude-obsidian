@@ -12,6 +12,7 @@ doi: "10.1037/apl0001237"
 tags: [source, team-adaptation, teams, adaptive-process, stimulus-based-model]
 status: ingested
 created: 2026-06-01
+updated: 2026-06-01
 related:
   - "[[Team Adaptation (Stimulus-Based Model)]]"
   - "[[Adaptive Stimulus]]"

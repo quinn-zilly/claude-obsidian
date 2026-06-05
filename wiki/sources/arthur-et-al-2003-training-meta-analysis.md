@@ -12,6 +12,7 @@ doi: "10.1037/0021-9010.88.2.234"
 tags: [source, training-effectiveness, meta-analysis, training-design, training-evaluation, kirkpatrick]
 status: ingested
 created: 2026-06-04
+updated: 2026-06-04
 related: ["[[Kirkpatrick Four-Level Model]]", "[[Training Needs Analysis]]", "[[Training Method Effectiveness]]", "[[Training Transfer]]", "[[alliger-et-al-1997-training-criteria-meta-analysis]]", "[[Winfred Arthur Jr.]]", "[[bell-et-al-2017-100-years-training-development]]"]
 ---
 

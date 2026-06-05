@@ -7,6 +7,7 @@ affiliation: "Executive Consulting Group, Inc.; University at Albany (SUNY)"
 tags: [entity, person, I-O-psychology, training-evaluation, team-training]
 status: stub
 created: 2026-06-01
+updated: 2026-06-01
 related: ["[[George M. Alliger]]", "[[alliger-et-al-1997-training-criteria-meta-analysis]]", "[[Training Transfer]]"]
 ---
 

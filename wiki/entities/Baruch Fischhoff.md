@@ -6,6 +6,7 @@ title: "Baruch Fischhoff"
 tags: [entity, person, JDM, decision-science, risk-communication, Carnegie-Mellon]
 status: evergreen
 created: 2026-05-26
+updated: 2026-05-26
 related: ["[[Stephen Broomell]]", "[[Daniel Kahneman]]", "[[Judgment and Decision Making (Field)]]"]
 ---
 

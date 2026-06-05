@@ -6,6 +6,7 @@ tags: [concept, motivation, psychology, SDT, well-being, ill-being]
 status: evergreen
 related: ["[[Self-Determination Theory]]", "[[Basic Psychological Needs Theory]]", "[[Basic Psychological Needs (SDT)]]", "[[Autonomy (SDT)]]", "[[Competence (SDT)]]", "[[Relatedness (SDT)]]", "[[ryan-et-al-2022-sdt-meta-review]]"]
 created: 2026-05-29
+updated: 2026-05-29
 ---
 
 # Need Frustration (SDT)

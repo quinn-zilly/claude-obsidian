@@ -6,6 +6,7 @@ title: "Stephen Broomell"
 tags: [entity, person, JDM, decision-modeling, information-theory, Carnegie-Mellon]
 status: evergreen
 created: 2026-05-26
+updated: 2026-05-26
 related: ["[[Baruch Fischhoff]]", "[[Judgment and Decision Making (Field)]]"]
 ---
 

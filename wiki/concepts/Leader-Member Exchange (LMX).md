@@ -6,6 +6,7 @@ aliases: [LMX, Leader-Member Exchange Theory, Vertical Dyad Linkage]
 tags: [leadership, LMX, dyadic, social-exchange, relationship]
 status: mature
 created: 2026-06-01
+updated: 2026-06-01
 related:
   - "[[Three Waves of Leadership Research]]"
   - "[[Transformational and Charismatic Leadership]]"

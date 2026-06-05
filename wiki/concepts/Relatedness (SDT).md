@@ -6,6 +6,7 @@ tags: [concept, motivation, psychology, SDT, relatedness]
 status: developing
 related: ["[[Self-Determination Theory]]", "[[Basic Psychological Needs (SDT)]]", "[[Autonomy (SDT)]]", "[[Competence (SDT)]]", "[[Internalization (SDT)]]", "[[ryan-deci-2000-sdt]]"]
 created: 2026-05-29
+updated: 2026-05-29
 ---
 
 # Relatedness (SDT)

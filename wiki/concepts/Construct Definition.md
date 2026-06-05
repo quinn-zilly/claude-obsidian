@@ -5,6 +5,7 @@ title: "Construct Definition"
 tags: [concept, psychometrics, measurement, construct-clarity]
 status: evergreen
 created: 2026-06-01
+updated: 2026-06-01
 related: ["[[Likert Scale Development]]", "[[Construct Validity]]", "[[jebb-ng-tay-2021-likert-scale-advances]]"]
 ---
 

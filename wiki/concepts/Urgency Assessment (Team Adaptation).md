@@ -5,6 +5,7 @@ title: "Urgency Assessment (Team Adaptation)"
 tags: [concept, team-adaptation, teams, phase-2]
 status: developing
 created: 2026-06-01
+updated: 2026-06-01
 related:
   - "[[Team Adaptation (Stimulus-Based Model)]]"
   - "[[Stimulus Detection (Team Adaptation)]]"

@@ -10,6 +10,7 @@ pages: "341–367"
 doi: "10.1146/annurev-psych-120710-100511"
 tags: [source, job-attitudes, job-satisfaction, organizational-commitment, organizational-psychology]
 created: 2026-06-01
+updated: 2026-06-01
 status: evergreen
 related: ["[[Job Attitudes]]", "[[Job Satisfaction]]", "[[Organizational Commitment]]", "[[Affective Events Theory]]", "[[Core Self-Evaluations]]", "[[Experience-Sampling Methodology]]", "[[Timothy A. Judge]]", "[[John D. Kammeyer-Mueller]]", "[[Job Characteristics Model]]"]
 ---

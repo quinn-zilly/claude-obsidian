@@ -5,6 +5,7 @@ title: "Contingency Theories of Leadership"
 tags: [leadership, contingency, situational, Fiedler]
 status: mature
 created: 2026-06-01
+updated: 2026-06-01
 related:
   - "[[Three Waves of Leadership Research]]"
   - "[[Leader Behavior and Ohio State Studies]]"

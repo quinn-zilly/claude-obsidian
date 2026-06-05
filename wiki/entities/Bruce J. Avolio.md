@@ -7,6 +7,7 @@ affiliation: "University of Washington (Department of Management and Organizatio
 tags: [leadership, researcher, transformational, authentic-leadership]
 status: developing
 created: 2026-06-01
+updated: 2026-06-01
 related:
   - "[[Transformational and Charismatic Leadership]]"
   - "[[Team Leadership]]"

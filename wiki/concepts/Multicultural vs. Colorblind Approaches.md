@@ -5,6 +5,7 @@ title: "Multicultural vs. Colorblind Approaches"
 tags: [concept, diversity-training, DEI, intergroup-relations, colorblindness, multiculturalism]
 status: evergreen
 created: 2026-06-04
+updated: 2026-06-04
 related: ["[[Diversity Training]]", "[[Diversity Training Myths]]", "[[cheng-et-al-2019-diversity-training-myths|Cheng et al. 2019]]", "[[Implicit Bias]]"]
 ---
 

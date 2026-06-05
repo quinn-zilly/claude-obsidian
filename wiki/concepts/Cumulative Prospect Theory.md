@@ -5,6 +5,7 @@ title: "Cumulative Prospect Theory"
 tags: [concept, JDM, prospect-theory, choice-modeling, CPT]
 status: evergreen
 created: 2026-05-26
+updated: 2026-05-26
 related: ["[[Prospect Theory]]", "[[Loss Aversion]]", "[[Decision by Sampling]]", "[[Framing Effects]]"]
 ---
 

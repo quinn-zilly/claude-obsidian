@@ -21,7 +21,7 @@ related:
 
 # Representativeness Heuristic
 
-One of the three core heuristics identified by [[Tversky and Kahneman (1974)|tversky-kahneman-1974-heuristics-biases]].
+One of the three core heuristics identified by [[tversky-kahneman-1974-heuristics-biases|Tversky and Kahneman (1974)]].
 
 ## Definition
 

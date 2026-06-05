@@ -1,10 +1,12 @@
 ---
 type: concept
+address: c-000474
 title: "Team Development Interventions"
 aliases: ["team development", "TDI"]
 tags: [concept, teams, training, team-building, organizational-psychology]
 status: mature
 created: 2026-06-01
+updated: 2026-06-01
 related:
   - "[[Team Building]]"
   - "[[Team Training]]"

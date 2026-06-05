@@ -11,12 +11,13 @@ doi: ""
 tags: [source, training-evaluation, kirkpatrick, meta-analysis, training-criteria]
 status: ingested
 created: 2026-06-01
+updated: 2026-06-01
 related: ["[[Kirkpatrick Four-Level Model]]", "[[Augmented Training Criteria Framework]]", "[[Training Transfer]]", "[[Training Reactions (Affective vs Utility)]]", "[[George M. Alliger]]", "[[Scott I. Tannenbaum]]"]
 ---
 
 # Alliger et al. 1997 — Training Criteria Meta-Analysis
 
-Nav: [[index]] | [[wiki/sources]]
+Nav: [[index]] | [[sources/_index|Sources]]
 
 ## One-Line Summary
 
@@ -90,5 +91,5 @@ All criterion types averaged α > .58; six of seven > .75. Immediate measures sl
 
 ## Prior Work Extended
 
-- [[Alliger & Janak 1989]] (direct precursor; tripled studies, quadrupled correlations)
+- Alliger & Janak 1989 (direct precursor; tripled studies, quadrupled correlations)
 - Warr & Bunce (1995): independent tripartite division of reactions (enjoyment, usefulness, difficulty)

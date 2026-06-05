@@ -6,6 +6,7 @@ aliases: ["M.A. Campion", "Mike Campion"]
 tags: [person, IO-psychology, work-design, researcher]
 status: developing
 created: 2026-06-01
+updated: 2026-06-01
 related:
   - "[[Work Design (Concept)]]"
   - "[[Interdisciplinary Model of Job Design]]"

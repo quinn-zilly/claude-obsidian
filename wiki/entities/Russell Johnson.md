@@ -6,6 +6,7 @@ title: "Russell E. Johnson"
 tags: [researcher, IO-psychology, motivation, self-regulation, justice, implicit-motivation]
 status: developing
 created: 2026-05-30
+updated: 2026-05-30
 related: ["[[Work Motivation Meta-Framework (Kanfer)]]", "[[Ego Depletion]]", "[[Regulatory Focus Theory]]", "[[wiki/sources/kanfer-frese-johnson-2017-work-motivation|Kanfer et al. 2017]]", "[[Ruth Kanfer]]", "[[Michael Frese]]"]
 ---
 

@@ -14,6 +14,7 @@ related:
   - "[[Transition Checklist]]"
   - "[[Stretch Experiences]]"
 created: 2026-06-04
+updated: 2026-06-04
 ---
 
 # Five Design Characteristics (OJD)

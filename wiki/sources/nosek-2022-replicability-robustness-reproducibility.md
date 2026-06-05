@@ -187,8 +187,8 @@ Five interdependent levels, each necessary, none sufficient:
 - [[P-hacking]] — garden of forking paths; Gelman & Loken 2013
 - [[Publication Bias]] — mechanism driving low replicability
 - [[Many Labs]] — primary multi-site replication data source
-- [[Open Science Collaboration (2015)]] — 36% benchmark
-- [[LeBel et al. (2018)]] — credibility framework cited throughout
+- [[open-science-collaboration-2015|Open Science Collaboration (2015)]] — 36% benchmark
+- [[Etienne LeBel|LeBel et al. (2018)]] — credibility framework cited throughout
 - [[TOP Guidelines]] — journal policy audit
 - [[Psychological Science Accelerator]] — large-scale collaboration mentioned
 - [[Open Science Framework]] — infrastructure layer

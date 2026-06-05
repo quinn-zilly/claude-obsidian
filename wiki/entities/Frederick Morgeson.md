@@ -6,6 +6,7 @@ aliases: ["Fred Morgeson", "F.P. Morgeson"]
 tags: [person, IO-psychology, work-design, researcher]
 status: developing
 created: 2026-06-01
+updated: 2026-06-01
 related:
   - "[[Work Design (Concept)]]"
   - "[[Work Design Questionnaire]]"

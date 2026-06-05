@@ -10,6 +10,7 @@ tags:
   - sensemaking
 status: developing
 created: 2026-05-24
+updated: 2026-05-24
 related:
   - "[[Framing (Organizational Theory)]]"
   - "[[Cognitive Frame]]"

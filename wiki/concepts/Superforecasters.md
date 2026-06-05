@@ -5,6 +5,7 @@ title: "Superforecasters"
 tags: [concept, JDM, forecasting, individual-differences, calibration]
 status: evergreen
 created: 2026-05-26
+updated: 2026-05-26
 related: ["[[Good Judgment Project]]", "[[Calibration (Judgment)]]", "[[Decision-Making Competence]]"]
 ---
 

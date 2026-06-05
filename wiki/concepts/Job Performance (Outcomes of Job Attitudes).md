@@ -4,6 +4,7 @@ type: concept
 title: "Job Performance (Outcomes of Job Attitudes)"
 tags: [concept, job-performance, job-attitudes, OCB, turnover, withdrawal, creativity, organizational-psychology]
 created: 2026-06-01
+updated: 2026-06-01
 status: evergreen
 related: ["[[Job Attitudes]]", "[[Job Satisfaction]]", "[[Organizational Commitment]]", "[[Affective Events Theory]]", "[[Timothy A. Judge]]", "[[John D. Kammeyer-Mueller]]"]
 ---

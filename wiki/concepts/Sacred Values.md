@@ -5,6 +5,7 @@ title: "Sacred Values"
 tags: [concept, JDM, preference, ethics, extremism, moral-psychology]
 status: evergreen
 created: 2026-05-26
+updated: 2026-05-26
 related: ["[[Constructed Preference]]", "[[Judgment and Decision Making (Field)]]"]
 ---
 

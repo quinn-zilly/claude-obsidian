@@ -7,6 +7,7 @@ affiliation: "Kravis Leadership Institute, Claremont McKenna College"
 tags: [leadership, researcher, LMX, development]
 status: developing
 created: 2026-06-01
+updated: 2026-06-01
 related:
   - "[[Leader-Member Exchange (LMX)]]"
   - "[[Shared Leadership]]"

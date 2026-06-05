@@ -6,6 +6,7 @@ aliases: [Transformational Leadership, Charismatic Leadership, New School Leader
 tags: [leadership, transformational, charisma, vision, follower-development]
 status: mature
 created: 2026-06-01
+updated: 2026-06-01
 related:
   - "[[Three Waves of Leadership Research]]"
   - "[[Leader-Member Exchange (LMX)]]"

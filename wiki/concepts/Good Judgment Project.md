@@ -5,6 +5,7 @@ title: "Good Judgment Project"
 tags: [concept, JDM, forecasting, calibration, intervention, intelligence-analysis]
 status: evergreen
 created: 2026-05-26
+updated: 2026-05-26
 related: ["[[Calibration (Judgment)]]", "[[Superforecasters]]", "[[Wisdom of the Crowd]]"]
 ---
 

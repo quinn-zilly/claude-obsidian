@@ -5,6 +5,7 @@ title: "Training Effectiveness (Meta-Analytic Evidence)"
 tags: [concept, training-effectiveness, meta-analysis, training-evaluation, organizational-behavior]
 status: evergreen
 created: 2026-06-04
+updated: 2026-06-04
 related: ["[[Kirkpatrick Four-Level Model]]", "[[Training Needs Analysis]]", "[[Training Method Effectiveness]]", "[[Training Transfer]]", "[[arthur-et-al-2003-training-meta-analysis]]", "[[bell-et-al-2017-100-years-training-development]]", "[[alliger-et-al-1997-training-criteria-meta-analysis]]"]
 ---
 

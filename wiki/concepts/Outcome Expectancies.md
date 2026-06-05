@@ -6,6 +6,7 @@ aliases: ["outcome expectancy", "outcome expectations"]
 tags: [motivation, self-efficacy, social-learning-theory, Bandura, expectancy]
 status: developing
 created: 2026-06-04
+updated: 2026-06-04
 related: ["[[Self-Efficacy (Goal Setting)]]", "[[Social Cognitive Theory]]", "[[Self-Management Training]]", "[[frayne-latham-1987-self-management-attendance|Frayne & Latham 1987]]", "[[Goal-Setting Theory]]"]
 ---
 

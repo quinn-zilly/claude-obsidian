@@ -6,6 +6,7 @@ title: "Winfred Arthur Jr."
 tags: [entity, person, IO-psychology, training, meta-analysis]
 status: stub
 created: 2026-06-04
+updated: 2026-06-04
 related: ["[[arthur-et-al-2003-training-meta-analysis]]", "[[Training Effectiveness (Meta-Analytic Evidence)]]"]
 ---
 

@@ -7,6 +7,7 @@ aliases: ["Frayne", "Colette Frayne"]
 tags: [researcher, IO-psychology, self-management, training, attendance]
 status: developing
 created: 2026-06-04
+updated: 2026-06-04
 related: ["[[Gary Latham]]", "[[Self-Management Training]]", "[[frayne-latham-1987-self-management-attendance|Frayne & Latham 1987]]", "[[Employee Absenteeism]]"]
 ---
 

@@ -1,5 +1,6 @@
 ---
 type: concept
+address: c-000463
 title: "Kaleidoscope Career Model"
 status: evergreen
 tags: [concept, careers, gender, women, work-family, kaleidoscope, ABC-model, authenticity, balance, challenge]

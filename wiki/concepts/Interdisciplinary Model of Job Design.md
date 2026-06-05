@@ -6,6 +6,7 @@ aliases: ["Campion interdisciplinary model", "MJDQ", "Multimethod Job Design Que
 tags: [work-design, job-design, IO-psychology]
 status: developing
 created: 2026-06-01
+updated: 2026-06-01
 related:
   - "[[Work Design (Concept)]]"
   - "[[Work Design Questionnaire]]"

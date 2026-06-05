@@ -5,6 +5,7 @@ title: "Training Needs Analysis"
 tags: [training, needs-analysis, design, gap]
 status: developing
 created: 2026-06-01
+updated: 2026-06-01
 related:
   - "[[Training Context and Transfer Climate]]"
   - "[[bell-et-al-2017-100-years-training-development]]"

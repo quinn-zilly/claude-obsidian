@@ -5,6 +5,7 @@ title: "CMU Eberly Center — Learning Principles"
 source_url: https://www.cmu.edu/teaching/principles/learning.html
 fetched: 2026-06-04
 created: 2026-06-04
+updated: 2026-06-04
 tags: [source, education, learning-science, pedagogy, CMU]
 status: evergreen
 related: ["[[Prior Knowledge]]", "[[Knowledge Organization]]", "[[Motivation and Learning]]", "[[Mastery Learning]]", "[[Goal-Directed Practice and Feedback]]", "[[Classroom Climate]]", "[[Metacognition and Self-Directed Learning]]", "[[CMU Eberly Center]]"]

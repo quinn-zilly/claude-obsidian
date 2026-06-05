@@ -6,6 +6,7 @@ aliases: ["learning goal", "performance goal", "LGO", "PGO", "mastery goal"]
 tags: [motivation, goal-setting, task-complexity, education, performance]
 status: developing
 created: 2026-05-30
+updated: 2026-05-30
 related: ["[[Goal-Setting Theory]]", "[[Self-Efficacy (Goal Setting)]]", "[[Goal Commitment]]", "[[Learning Agility]]", "[[On-the-Job Development]]"]
 ---
 

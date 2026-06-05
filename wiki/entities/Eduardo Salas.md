@@ -1,10 +1,12 @@
 ---
 type: entity
+address: c-000479
 entity_type: person
 title: "Eduardo Salas"
 tags: [entity, person, researcher, teams, I-O-psychology, diversity-training]
 status: developing
 created: 2026-06-01
+updated: 2026-06-01
 related:
   - "[[Team Development Interventions]]"
   - "[[Team Training]]"

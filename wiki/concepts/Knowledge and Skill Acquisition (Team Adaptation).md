@@ -5,6 +5,7 @@ title: "Knowledge and Skill Acquisition (Team Adaptation)"
 tags: [concept, team-adaptation, teams, phase-6, learning]
 status: developing
 created: 2026-06-01
+updated: 2026-06-01
 related:
   - "[[Team Adaptation (Stimulus-Based Model)]]"
   - "[[Reflexive Learning (Team Adaptation)]]"

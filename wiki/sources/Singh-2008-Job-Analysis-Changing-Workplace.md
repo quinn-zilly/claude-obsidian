@@ -1,10 +1,12 @@
 ---
+address: c-000483
 title: "Job Analysis for a Changing Workplace"
 author: Parbudyal Singh
 year: 2008
 journal: "Human Resource Management Review (implied)"
 keywords: [strategic job analysis, job analysis, changing workplace, competency modelling, KSA, HRM]
 tags: [source, HRM, job-analysis, strategy]
+updated: 2026-06-05
 ---
 
 # Singh (2008) — Job Analysis for a Changing Workplace
@@ -103,5 +105,5 @@ Traditional job analysis assumes stable, individually-held jobs defined by fixed
 
 ## Related Entities
 - [[Parbudyal Singh]]
-- [[Schneider and Konz]]
+- Schneider and Konz
 - [[Juan Sanchez]]

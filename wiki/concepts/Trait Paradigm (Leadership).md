@@ -5,6 +5,7 @@ title: "Trait Paradigm (Leadership)"
 tags: [leadership, traits, personality, history-of-science]
 status: mature
 created: 2026-06-01
+updated: 2026-06-01
 related:
   - "[[Three Waves of Leadership Research]]"
   - "[[Implicit Leadership Theories]]"

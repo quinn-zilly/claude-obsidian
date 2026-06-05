@@ -6,6 +6,7 @@ title: "Gary P. Latham"
 tags: [researcher, IO-psychology, motivation, goal-setting, HR]
 status: developing
 created: 2026-05-30
+updated: 2026-05-30
 related: ["[[Goal-Setting Theory]]", "[[Edwin Locke]]", "[[Self-Efficacy (Goal Setting)]]", "[[High-Performance Cycle]]", "[[Situational Interview]]", "[[Colette Frayne]]", "[[Self-Management Training]]", "[[Employee Absenteeism]]", "[[wiki/sources/locke-latham-2002-goal-setting-theory|Locke & Latham 2002]]", "[[frayne-latham-1987-self-management-attendance|Frayne & Latham 1987]]"]
 ---
 

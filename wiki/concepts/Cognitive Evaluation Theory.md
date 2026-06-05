@@ -7,6 +7,7 @@ tags: [concept, motivation, psychology, SDT, CET]
 status: evergreen
 related: ["[[Self-Determination Theory]]", "[[Intrinsic Motivation]]", "[[Autonomy (SDT)]]", "[[Competence (SDT)]]", "[[ryan-deci-2000-sdt]]"]
 created: 2026-05-29
+updated: 2026-05-29
 ---
 
 # Cognitive Evaluation Theory (CET)

@@ -10,6 +10,7 @@ doi: 10.1016/j.leaqua.2010.06.006
 tags: [leadership-development, ROI, RODI, utility-analysis, human-capital, source]
 status: evergreen
 created: 2026-06-04
+updated: 2026-06-04
 ---
 
 # Avolio, Avey & Quisenberry (2010) — Estimating Return on Leadership Development Investment
@@ -125,5 +126,5 @@ RODI capped at 200% to balance linear model against dynamic performance realitie
 - [[Training Context and Transfer Climate]] — transfer climate as RODI moderator
 - [[Trainee Characteristics]] — self-efficacy, GMA, motivation to lead as RODI moderators
 - [[Transformational and Charismatic Leadership]] — dominant intervention model in the meta-analysis
-- [[Alvarez et al. (2004)]] — IMTEE models variables affecting outcomes; RODI translates those effects to dollars
-- [[Smith-Jentsch (2020)]] — both argue for evidence-based, rigorous approach to training investment decisions
+- [[alvarez-et-al-2004-training-evaluation-effectiveness|Alvarez et al. (2004)]] — IMTEE models variables affecting outcomes; RODI translates those effects to dollars
+- [[Kimberly A. Smith-Jentsch|Smith-Jentsch (2020)]] — both argue for evidence-based, rigorous approach to training investment decisions

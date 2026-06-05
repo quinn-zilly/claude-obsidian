@@ -9,6 +9,7 @@ doi: "10.3389/fpsyg.2021.637547"
 tags: [source, psychometrics, measurement, likert, scale-development]
 status: evergreen
 created: 2026-06-01
+updated: 2026-06-01
 related: ["[[Likert Scale Development]]", "[[Construct Validity]]", "[[Coefficient Omega]]", "[[Item Response Theory]]", "[[Ant Colony Optimization (Scale Shortening)]]", "[[Readability Tests for Survey Items]]", "[[Construct Definition]]"]
 ---
 

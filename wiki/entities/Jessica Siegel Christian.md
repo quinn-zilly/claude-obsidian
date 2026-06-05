@@ -6,6 +6,7 @@ title: "Jessica Siegel Christian"
 tags: [entity, person, researcher, team-adaptation, teams, I-O-psychology]
 status: developing
 created: 2026-06-01
+updated: 2026-06-01
 related:
   - "[[pearsall-christian-croitoru-2025-team-adaptation]]"
   - "[[Team Adaptation (Stimulus-Based Model)]]"

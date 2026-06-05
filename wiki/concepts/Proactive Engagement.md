@@ -6,6 +6,7 @@ aliases: ["personal initiative", "proactive behavior", "work engagement"]
 tags: [motivation, proactivity, engagement, work-psychology, IO-psychology]
 status: developing
 created: 2026-05-30
+updated: 2026-05-30
 related: ["[[Work Motivation Meta-Framework (Kanfer)]]", "[[Action Regulation Theory]]", "[[Job Characteristics Model]]", "[[Self-Determination Theory]]", "[[On-the-Job Development]]", "[[Michael Frese]]"]
 ---
 

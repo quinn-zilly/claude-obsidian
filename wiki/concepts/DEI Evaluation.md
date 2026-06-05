@@ -1,5 +1,6 @@
 ---
 type: concept
+address: c-000457
 title: "DEI Evaluation"
 tags:
   - dei
@@ -14,6 +15,7 @@ related:
   - "[[Diversity Training]]"
   - "[[Classroom Climate]]"
   - "[[approaches-dei-evaluation]]"
+updated: 2026-06-05
 ---
 
 # DEI Evaluation

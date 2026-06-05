@@ -11,6 +11,7 @@ doi: 10.1177/1534484304270820
 tags: [training-evaluation, training-effectiveness, IMTEE, Kirkpatrick, posttraining-attitudes, source]
 status: evergreen
 created: 2026-06-04
+updated: 2026-06-04
 ---
 
 # Alvarez, Salas & Garofano (2004) — Integrated Model of Training Evaluation and Effectiveness

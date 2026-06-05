@@ -7,6 +7,7 @@ affiliation: "Ohio State University (Fisher College of Business)"
 tags: [entity, person, I-O-psychology, training, development, motivation]
 status: stub
 created: 2026-06-01
+updated: 2026-06-01
 related:
   - "[[bell-et-al-2017-100-years-training-development]]"
   - "[[Trainee Characteristics]]"

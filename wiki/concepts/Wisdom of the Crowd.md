@@ -5,6 +5,7 @@ title: "Wisdom of the Crowd"
 tags: [concept, JDM, judgment, aggregation, forecasting]
 status: evergreen
 created: 2026-05-26
+updated: 2026-05-26
 related: ["[[Calibration (Judgment)]]", "[[Good Judgment Project]]", "[[Prediction Markets (Science)]]"]
 ---
 

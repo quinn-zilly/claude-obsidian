@@ -3,11 +3,12 @@ address: c-000426
 tags: [training-evaluation, training-effectiveness, model, Kirkpatrick, posttraining-attitudes]
 status: evergreen
 created: 2026-06-04
+updated: 2026-06-04
 ---
 
 # Integrated Model of Training Evaluation and Effectiveness (IMTEE)
 
-The IMTEE ([[Alvarez et al. (2004)]]) is a four-level model integrating all major prior training evaluation and effectiveness frameworks using a strict empirical inclusion criterion (≥3 studies finding significant relationships in the same direction across 73 studies, 1993–2002).
+The IMTEE ([[alvarez-et-al-2004-training-evaluation-effectiveness|Alvarez et al. (2004)]]) is a four-level model integrating all major prior training evaluation and effectiveness frameworks using a strict empirical inclusion criterion (≥3 studies finding significant relationships in the same direction across 73 studies, 1993–2002).
 
 ## Core Distinction
 

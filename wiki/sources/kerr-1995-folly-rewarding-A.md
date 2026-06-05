@@ -1,5 +1,5 @@
 ---
-address: c-000381
+address: c-000455
 type: source
 title: "On the Folly of Rewarding A, While Hoping for B"
 author: "Steven Kerr"
@@ -11,6 +11,7 @@ tags: [source, reward-systems, incentives, organizational-behavior, management]
 status: ingested
 ingested: 2026-06-04
 related: ["[[Steven Kerr]]", "[[Reward System Misalignment]]", "[[Goal Displacement]]", "[[Fouled-Up Reward Systems]]", "[[Operant Conditioning]]", "[[Type I and Type II Errors (Medicine)]]"]
+updated: 2026-06-05
 ---
 
 # Kerr (1995) — On the Folly of Rewarding A, While Hoping for B

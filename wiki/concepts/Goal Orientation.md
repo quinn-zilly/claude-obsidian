@@ -6,6 +6,7 @@ aliases: ["dispositional goal orientation", "learning orientation", "mastery goa
 tags: [motivation, personality, learning, goal-setting, individual-differences]
 status: mature
 created: 2026-06-01
+updated: 2026-06-01
 related:
   - "[[Goal-Setting Theory]]"
   - "[[Learning Goals vs Performance Goals]]"

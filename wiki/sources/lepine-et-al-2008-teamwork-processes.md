@@ -1,5 +1,6 @@
 ---
 type: source
+address: c-000486
 title: "A Meta-Analysis of Teamwork Processes: Tests of a Multidimensional Model and Relationships with Team Effectiveness Criteria"
 authors: ["Jeffery A. LePine", "Ronald F. Piccolo", "Christine L. Jackson", "John E. Mathieu", "Jessica R. Saul"]
 year: 2008
@@ -10,6 +11,7 @@ doi: "10.1111/j.1744-6570.2008.00114.x"
 tags: [source, teams, teamwork-processes, meta-analysis, team-effectiveness, IPO-model]
 status: ingested
 created: 2026-06-01
+updated: 2026-06-01
 related:
   - "[[Teamwork Processes (Marks et al. Taxonomy)]]"
   - "[[Emergent States (Teams)]]"

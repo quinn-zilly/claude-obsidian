@@ -6,6 +6,7 @@ aliases: ["Morgeson et al. 2012", "Morgeson Garza Campion 2012"]
 tags: [work-design, job-design, IO-psychology, WDQ, motivation, source]
 status: evergreen
 created: 2026-06-01
+updated: 2026-06-01
 authors: ["Frederick P. Morgeson", "Adela S. Garza", "Michael A. Campion"]
 year: 2012
 venue: "Handbook of Psychology (2nd ed.), Ch. 20, Wiley"
@@ -18,7 +19,7 @@ related:
   - "[[Interdisciplinary Model of Job Design]]"
   - "[[Frederick Morgeson]]"
   - "[[Michael Campion]]"
-  - "[[Nahrgang Humphrey Morgeson]]"
+  - "Nahrgang, Humphrey & Morgeson"
 ---
 
 # Work Design — Morgeson, Garza & Campion (2012)

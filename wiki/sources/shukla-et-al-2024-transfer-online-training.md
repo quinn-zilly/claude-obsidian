@@ -12,6 +12,7 @@ doi: "10.1002/hrdq.21518"
 tags: [source, training-transfer, online-training, e-learning, systematic-review, taxonomy, HRD]
 status: ingested
 created: 2026-06-04
+updated: 2026-06-04
 related: ["[[Online Training Transfer Taxonomy]]", "[[Transfer of Training]]", "[[Training Transfer]]", "[[Training Context and Transfer Climate]]", "[[Technology-Based Training]]", "[[Ashutosh Shukla]]", "[[Kirkpatrick Four-Level Model]]"]
 ---
 

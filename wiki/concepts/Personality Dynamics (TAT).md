@@ -1,10 +1,12 @@
 ---
 type: concept
+address: c-000466
 title: "Personality Dynamics (TAT)"
 aliases: ["TAT personality dynamics", "within-person personality variability"]
 tags: [concept, personality, trait-activation, self-regulation, career, personality-states]
 status: developing
 created: 2026-06-01
+updated: 2026-06-01
 related:
   - "[[Trait Activation Theory]]"
   - "[[Situational Cue Types (TAT)]]"

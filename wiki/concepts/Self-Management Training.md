@@ -6,6 +6,7 @@ aliases: ["self-regulation training", "self-management", "SMT"]
 tags: [self-management, training, self-regulation, self-efficacy, behavior-change, Kanfer, Bandura, IO-psychology]
 status: evergreen
 created: 2026-06-04
+updated: 2026-06-04
 related: ["[[Self-Efficacy (Goal Setting)]]", "[[Goal-Setting Theory]]", "[[Outcome Expectancies]]", "[[Self-Regulatory Skills]]", "[[Employee Absenteeism]]", "[[Social Cognitive Theory]]", "[[frayne-latham-1987-self-management-attendance|Frayne & Latham 1987]]", "[[Gary Latham]]", "[[Colette Frayne]]", "[[Work Motivation Meta-Framework (Kanfer)]]"]
 ---
 

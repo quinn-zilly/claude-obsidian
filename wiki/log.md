@@ -148,7 +148,7 @@
 ## 2026-06-01 ingest | Schmidt, Beck & Gillespie 2012 — Motivation
 - Source: `.raw/Schmidt et al. - 2012 - Motivation.pdf`
 - Summary: [[schmidt-beck-gillespie-2012-motivation]]
-- Pages created: [[Control Theory (Self-Regulation)]], [[Multiple Goal Self-Regulation)]], [[Temporal Motivation Theory]], [[Emotional Labor]], [[Goal Orientation]], [[Aaron Schmidt]]
+- Pages created: [[Control Theory (Self-Regulation)]], [[Multiple Goal Self-Regulation]], [[Temporal Motivation Theory]], [[Emotional Labor]], [[Goal Orientation]], [[Aaron Schmidt]]
 - Pages updated: [[Self-Efficacy (Goal Setting)]], [[Regulatory Focus Theory]], [[Goal-Setting Theory]] (source page)
 - Key insight: motivation = resource allocation across competing goals; SE effects (positive vs. negative) reconciled by ambiguity + challenge moderators; velocity independently predicts affect beyond discrepancy magnitude.
 
@@ -194,14 +194,14 @@ related:
 - Source: `.raw/Ryan et al. - 2022 - We know this much is (meta-analytically) true A meta-review of meta-analytic findings evaluating se.pdf`
 - Summary: [[ryan-et-al-2022-sdt-meta-review]]
 - Pages created: [[ryan-et-al-2022-sdt-meta-review]], [[Causality Orientations Theory]], [[Goal Contents Theory]], [[Relationships Motivation Theory]], [[Basic Psychological Needs Theory]], [[Need Frustration (SDT)]], [[Perceived Locus of Causality]], [[Jasper Duineveld]], [[Emma Bradshaw]], [[Stefano Di Domenico]]
-- Pages updated: [[Self-Determination Theory]], [[Richard Ryan]], [[wiki/index.md]], [[wiki/hot.md]], [[wiki/log.md]]
+- Pages updated: [[Self-Determination Theory]], [[Richard Ryan]], [[index]], [[hot]], [[log]]
 - Addresses: c-000264 to c-000273 (c-000274–275 spare)
 
 ## 2026-05-29 | ingest | Ryan & Deci 2000 — Self-Determination Theory
 - Source: `.raw/Ryan and Deci - Self-Determination Theory and the Facilitation of Intrinsic Motivation, Social Development, and Well.pdf`
 - Summary: [[ryan-deci-2000-sdt]]
 - Pages created: [[ryan-deci-2000-sdt]], [[Self-Determination Theory]], [[Basic Psychological Needs (SDT)]], [[Autonomy (SDT)]], [[Competence (SDT)]], [[Relatedness (SDT)]], [[Intrinsic Motivation]], [[Extrinsic Motivation]], [[Cognitive Evaluation Theory]], [[Organismic Integration Theory]], [[Internalization (SDT)]], [[Richard Ryan]], [[Edward Deci]]
-- Pages updated: [[wiki/index.md]], [[wiki/hot.md]], [[wiki/log.md]]
+- Pages updated: [[index]], [[hot]], [[log]]
 - Key insight: Autonomy ≠ independence; contingent rewards reliably undermine intrinsic motivation; all three needs (not just one) required for well-being; extrinsic aspiration pursuit → ill-being even when goals are attained.
 
 ## 2026-05-26 | ingest | Fischhoff & Broomell 2020 — Judgment and Decision Making
@@ -410,7 +410,7 @@ Parse recent entries: `grep "^## \[" wiki/log.md | head -10`
 - Scope: six-test menu the user approved. Codex gpt-5.4 for T1/T4/T6 (sub-agent delegation); chair for T0/T2/T3 (one-shot shell) and all integration (index, log, hot, commit).
 - Style: all new content uses colons or parens instead of em-dashes. Pre-existing em-dashes in index entries and wiki/concepts/_index.md left as-is (clean-room boundary; deferred to F-slice style pass).
 - Tests still green: `make test` passes (74+ assertions).
-- Integration: chair added the 3 new concepts to `wiki/index.md` and `wiki/concepts/_index.md` with colon-style descriptions so the fresh pages are discoverable. The cluster extends `[[How does the LLM Wiki pattern work?]]` and cross-references `[[LLM Wiki Pattern]]`.
+- Integration: chair added the 3 new concepts to `wiki/index.md` and `wiki/concepts/_index.md` with colon-style descriptions so the fresh pages are discoverable. The cluster extends `[[How does the LLM Wiki pattern work]]` and cross-references `[[LLM Wiki Pattern]]`.
 - Next recommended slice: either (G) commit this test batch and declare v1.6.0 validated, or (H) run a second fold k=3 now that 8 newer entries exist above this one and close the hierarchical-fold-not-yet-supported loop in a future phase.
 
 ## [2026-04-24] save | v1.6.0 closeout (Teams, chair-led)
