@@ -160,11 +160,11 @@ Use cases: whiteboard photos, screenshots, diagrams, infographics, document scan
 
 ## Single Source Ingest
 
-Trigger: user drops a file into `.raw/Outpt` or pastes content. 
+Trigger: user drops a file into `.raw/` or pastes content. 
 
 Steps:
 
-1. **Check** for the source in `.raw/Output`. DO NOT read files in the .raw/Input folder unless specifically asked by the user.
+1. **Check** for the source in `.raw/`. DO NOT read files in the .raw/Input folder unless specifically asked by the user.
 2. **Read** the source completely. Do not skim.
 3. **Discuss** key takeaways with the user. Ask: "What should I emphasize? How granular?" Skip this if the user says "just ingest it."
 4. **Create** source summary in `wiki/sources/`. Use the source frontmatter schema from `references/frontmatter.md`. Assign an address per the **Address Assignment** section below.

@@ -474,3 +474,16 @@ Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[
 - [[giner-sorolla-2012-science-or-art|Giner-Sorolla (2012)]] — Perspectives on Psychological Science | publication bottleneck as root cause of replication crisis; three aesthetic criteria; information-economic account | 2026-05-21
 - [[kerr-1998-harking|Kerr (1998)]] — Personality and Social Psychology Review | HARKing origin paper; three forms; cognitive/social mechanisms; proposed preregistration reforms | 2026-05-21
 - [[nosek-2022-replicability-robustness-reproducibility|Nosek et al. (2022)]] — A
+
+## Folds
+
+- [[fold-k5-from-2026-05-23-to-2026-06-04-n32|Fold k5 — 2026-05-23 to 2026-06-04]] — 32 entries (training/dev, motivation, teams, JDM)
+- [[fold-k4-from-2026-04-08-to-2026-04-24-n16|Fold k4 — 2026-04-08 to 2026-04-24]] — 16 entries
+- [[fold-k3-from-2026-04-23-to-2026-04-24-n8|Fold k3 — 2026-04-23 to 2026-04-24]] — 8 entries
+
+
+## Folds
+
+- [[fold-k5-from-2026-05-23-to-2026-06-04-n32|Fold k5 — 2026-05-23 to 2026-06-04]] — 32 entries (training/dev, motivation, teams, JDM)
+- [[fold-k4-from-2026-04-08-to-2026-04-24-n16|Fold k4 — 2026-04-08 to 2026-04-24]] — 16 entries
+- [[fold-k3-from-2026-04-23-to-2026-04-24-n8|Fold k3 — 2026-04-23 to 2026-04-24]] — 8 entries
