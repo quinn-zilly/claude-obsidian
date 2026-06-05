@@ -32,6 +32,7 @@ status: evergreen
 - Yost & Plunkett (2010) — "Developing leadership talent through experiences." In Silzer & Dowell (Eds.), *Strategy Driven Talent Management.* Jossey-Bass.
 - [[mccauley-yost-2021-comfort-zone]] — "Stepping to the Edge of One's Comfort Zone" with McCauley (2021) — stretch experiences & learning agility strategies
 - **Derailment** chapter: Yost & Plunkett (2009) — [[yost-plunkett-2009-derailment]] — "When Leaders Derail" (Ch. 9 of *Real Time Leadership Development*)
+- [[yost-2014-leading-from-where-you-are]] — "Leading from Where You Are" Ch. 6 in *Using Experience to Develop Leadership Talent* (McCauley & McCall, Eds.) — viral OJD; five design characteristics; middle-out HR change
 
 ## Collaborators
 

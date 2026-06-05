@@ -56,9 +56,14 @@ Ten catalysts to embed OJD in HR systems:
 - [[Learning Curves]] — OJD produces the experience that drives learning curve effects
 - [[Tacit vs Explicit Knowledge]] — OJD is primary route for tacit knowledge acquisition
 
+## Spreading OJD System-Wide (Yost 2014)
+
+When HR professionals launch OJD without top-down mandate, [[Viral On-the-Job Development]] is the strategy: design initiatives using [[Five Design Characteristics (OJD)]] (Strategic, Simple, Sneeze-able, Systemic, Sustainable) so they propagate through succession management, performance management, and communities of practice. See [[HR Change from the Middle]] for the leadership frame.
+
 ## Key Sources
 
 - [[yost-plunkett-2010-ten-catalysts]] — 10 catalysts framework
+- [[yost-2014-leading-from-where-you-are]] — viral OJD; five design characteristics; middle-out change
 - McCall et al. (1988) — *Lessons of Experience* (foundational)
 - McCauley (2006) — developmental assignments taxonomy
 - [[beigi-2025-career-success-minority|Beigi et al. (2025)]] — OJD resource denial (training & development, stretch assignments) as structural mechanism producing minority career gaps; [[Complex Visibility]] suppresses learning agility, the prerequisite for OJD yield

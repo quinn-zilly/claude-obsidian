@@ -1,3 +1,10 @@
+## 2026-06-04 ingest | Yost (2014) — Leading from Where You Are
+- Source: `.raw/Input/Yost - 2014 - Leading from where you are.pdf`
+- Summary: [[yost-2014-leading-from-where-you-are]]
+- Pages created: [[yost-2014-leading-from-where-you-are]], [[Viral On-the-Job Development]], [[Five Design Characteristics (OJD)]], [[HR Change from the Middle]]
+- Pages updated: [[Paul Yost]], [[On-the-Job Development]], [[index]], [[hot]], [[log]]
+- Key insight: OJD initiatives don't need top-down mandate — design them as viral catalysts using five characteristics (Strategic, Simple, Sneeze-able, Systemic, Sustainable) and they spread through succession, performance management, and CoPs on their own.
+
 ## 2026-06-04 batch ingest | McCauley & Yost (2021) + Yost & Plunkett (2009) + Charan et al. (2001)
 - Sources: `.raw/input/Stepping to the Edge of One's Comfort Zone, McCauley & Yost, 2021.pdf`, `.raw/input/Derailment-EDLDch9-Yost & Plunkett-2009.pdf`, `.raw/input/Leadership-Pipeline, Chapter 1, Charan.pdf`
 - Summaries: [[mccauley-yost-2021-comfort-zone]], [[yost-plunkett-2009-derailment]], [[charan-leadership-pipeline-ch1]]

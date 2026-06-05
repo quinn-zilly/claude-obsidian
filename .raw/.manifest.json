@@ -1148,6 +1148,23 @@
       "pages_updated": [
         "wiki/index.md"
       ]
+    },
+    ".raw/Input/Yost - 2014 - Leading from where you are.pdf": {
+      "hash": "6ee0feaf3d993713f0eec6950985b065",
+      "ingested_at": "2026-06-04",
+      "pages_created": [
+        "wiki/sources/yost-2014-leading-from-where-you-are.md",
+        "wiki/concepts/Viral On-the-Job Development.md",
+        "wiki/concepts/Five Design Characteristics (OJD).md",
+        "wiki/concepts/HR Change from the Middle.md"
+      ],
+      "pages_updated": [
+        "wiki/entities/Paul Yost.md",
+        "wiki/concepts/On-the-Job Development.md",
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md"
+      ]
     }
   },
   "address_map": {
@@ -1509,7 +1526,11 @@
     "wiki/concepts/Derailment.md": "c-000442",
     "wiki/sources/charan-leadership-pipeline-ch1.md": "c-000443",
     "wiki/concepts/Leadership Pipeline.md": "c-000444",
-    "wiki/entities/Ram Charan.md": "c-000445"
+    "wiki/entities/Ram Charan.md": "c-000445",
+    "wiki/sources/yost-2014-leading-from-where-you-are.md": "c-000446",
+    "wiki/concepts/Viral On-the-Job Development.md": "c-000447",
+    "wiki/concepts/Five Design Characteristics (OJD).md": "c-000448",
+    "wiki/concepts/HR Change from the Middle.md": "c-000449"
   },
   ".raw/Pearsall et al. - 2025 - A stimulus-based model of the team adaptation process An integrated conceptual review..pdf": {
     "hash": "62f683006d3323a67c67fc23621f632a",

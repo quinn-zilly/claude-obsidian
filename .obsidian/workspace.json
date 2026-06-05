@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "c89bd2446ca53da2",
+        "id": "8d56253334f11c8c",
         "type": "tabs",
         "children": [
           {
-            "id": "70a1ebd1708d4794",
+            "id": "637c20850e1eeabf",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "wiki/sources/yost-2014-leading-from-where-you-are.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "yost-2014-leading-from-where-you-are"
             }
           }
         ]
@@ -227,8 +231,18 @@
       "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "70a1ebd1708d4794",
+  "active": "637c20850e1eeabf",
   "lastOpenFiles": [
+    "wiki/log.md.tmp.1552.b3f21f6ed923",
+    "wiki/hot.md.tmp.1552.094f84411672",
+    "wiki/index.md.tmp.1552.39a3c601e576",
+    "wiki/index.md.tmp.1552.085749fc22f3",
+    "wiki/concepts/On-the-Job Development.md.tmp.1552.693da17d6e30",
+    "wiki/concepts/HR Change from the Middle.md",
+    "wiki/concepts/Five Design Characteristics (OJD).md",
+    "wiki/concepts/Viral On-the-Job Development.md",
+    "wiki/sources/yost-2014-leading-from-where-you-are.md",
+    "wiki/sources/yost-2014-leading-from-where-you-are.md.tmp.1552.8a1a41f3d38c",
     "wiki/sources/yost-plunkett-2009-derailment.md",
     "wiki/hot.md.tmp.21768.56afa9886f8a",
     "wiki/index.md.tmp.21768.5c59487c2e28",
@@ -242,17 +256,12 @@
     "wiki/concepts/Stretch Experiences.md",
     "wiki/sources/mccauley-yost-2021-comfort-zone.md",
     "wiki/sources/mccauley-yost-2021-comfort-zone.md.tmp.21768.7446e71cc94d",
-    "wiki/sedQqq2m4",
-    "wiki/sed3Xwrmk",
-    "wiki/sedNEz7TV",
     "wiki/entities/Kimberly A. Smith-Jentsch.md",
     "wiki/concepts/Return on Development Investment (RODI).md",
     "wiki/concepts/Integrated Model of Training Evaluation and Effectiveness (IMTEE).md",
     "wiki/sources/avolio-et-al-2010-ROI-leadership-development.md",
     "wiki/sources/smith-jentsch-2020-smart-investments-training.md",
-    "wiki/sources/smith-jentsch-2020-smart-investments-training.md.tmp.20340.58289df24cf2",
     "wiki/sources/alvarez-et-al-2004-training-evaluation-effectiveness.md",
-    "wiki/log.md.tmp.15696.3f017e67a692",
     "wiki/concepts/Behavioral Learning Objectives.md",
     "wiki/concepts/After-Event Reviews.md",
     "wiki/sources/apa-learning-objectives.md",
@@ -260,10 +269,6 @@
     "wiki/sources/burke-hutchins-2007-training-transfer.md",
     "wiki/entities/Ashutosh Shukla.md",
     "wiki/entities/Winfred Arthur Jr.md",
-    "wiki/sources/shukla-et-al-2024-transfer-online-training.md",
-    "wiki/concepts/Training Method Effectiveness.md",
-    "wiki/sources/arthur-et-al-2003-training-meta-analysis.md",
-    "wiki/concepts/Online Training Transfer Taxonomy.md",
     "Excalidraw/Scripts/Downloaded/Slideshow.svg",
     "wiki/meta/History.png",
     "wiki/meta/Ready pull.png",

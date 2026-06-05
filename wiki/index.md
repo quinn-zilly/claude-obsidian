@@ -23,7 +23,7 @@ related:
 
 # Wiki Index
 
-Last updated: 2026-06-04 | Total pages: 390 | Sources ingested: 54
+Last updated: 2026-06-04 | Total pages: 394 | Sources ingested: 55
 
 Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[getting-started]]
 
@@ -154,6 +154,9 @@ Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[
 - [[DBpedia]] — structured knowledge from 111 Wikipedia editions; 400M+ facts; central LOD hub (developing)
 - [[Linked Open Data]] — RDF/SPARQL-based best practices for publishing and connecting structured web data (developing)
 - [[On-the-Job Development]] — OJD; 70% of leadership development; experiences over training; ten catalysts to hardwire into HR (developing)
+- [[Viral On-the-Job Development]] — design strategy for OJD initiatives that spread organically system-wide without top-down mandate; five design characteristics; Yost 2014 (evergreen)
+- [[Five Design Characteristics (OJD)]] — Strategic, Simple, Sneeze-able, Systemic, Sustainable; derived from 16 senior HR interviews; Yost et al. 2011 / Yost 2014 (evergreen)
+- [[HR Change from the Middle]] — I-O/HR professionals as catalysts; minority influence model; small wins; contrast with top-down change; Yost 2014 (evergreen)
 - [[Stretch Experiences]] — developmental assignments; five challenge types; LA antecedent+moderator+outcome; equity issues; org strategies (evergreen)
 - [[Derailment]] — involuntary career cessation; 10 deadly sins; transitions as risk moments; recovery process; org prevention (evergreen)
 - [[Leadership Pipeline]] — Charan et al.; six passages; skills/time/values shifts; pipeline clogs; diagnostic tool (evergreen)
@@ -257,6 +260,8 @@ Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[
 - [[Readability Tests for Survey Items]] — Flesch-Kincaid Grade Level ≤8.0 per item recommended; test items individually; Coh-Metrix and QUAID as supplements (evergreen)
 - [[Coefficient Omega]] — congeneric reliability estimator; preferred over alpha when factor loadings differ (common); requires good-fitting factor model (evergreen)
 - [[Ant Colony Optimization (Scale Shortening)]] — algorithm for short-form creation; evaluates multi-criteria; outperforms factor-loading maximization; does not guarantee content coverage (evergreen)
+
+- [[yost-2014-leading-from-where-you-are|Yost (2014)]] — Ch. 6 in *Using Experience to Develop Leadership Talent* | viral OJD; five design characteristics; succession/perf mgmt/CoP integration; middle-out HR change | 2026-06-04
 
 ### Sources (new — 2026-06-04)
 
