@@ -1,0 +1,107 @@
+---
+title: "Job Analysis for a Changing Workplace"
+author: Parbudyal Singh
+year: 2008
+journal: "Human Resource Management Review (implied)"
+keywords: [strategic job analysis, job analysis, changing workplace, competency modelling, KSA, HRM]
+tags: [source, HRM, job-analysis, strategy]
+---
+
+# Singh (2008) — Job Analysis for a Changing Workplace
+
+## Summary
+
+Traditional job analysis assumes stable, individually-held jobs defined by fixed tasks and KSAs. This assumption breaks down under dynamic conditions: team-based work, rapid tech change, short product cycles, "boundaryless" orgs. Singh argues for **Strategic Job Analysis (SJA)** — a proactive, future-oriented approach aligned with org strategy.
+
+## Core Argument
+
+1. Traditional JA is rooted in Taylorist scientific management: static jobs, clear boundaries, 1-person-1-job.
+2. Modern orgs violate these assumptions: fluid roles, teams, jobs that don't yet exist.
+3. SJA reframes JA as a continuous, environmentally-aware, strategy-linked process.
+
+## Singh's SJA Framework (Fig. 1)
+
+### Step 1: Environmental Analysis / Job Scan
+- Systematic scan of internal + external environment for trends, threats, opportunities
+- Methods: Delphi, scenario planning, regression/econometric forecasting models
+- SMEs (incumbents, supervisors, HR, strategic planners, external experts) workshop future changes
+- Sanchez (1994): ask SMEs to describe "a day in the job of the future"
+
+### Step 2: Analyze Current Jobs
+- Standard JA for current roles
+- **Team JA**: focus on generic KSAs (coordination, conflict resolution, problem-solving, communication) rather than individual task lists
+- KSA approach + team functions approach (orientation, resource distribution, timing, coordination, motivation)
+
+### Step 3: Gap Analysis
+- Compare current vs. predicted future job requirements
+- **Little/no difference** → stable env → traditional JA sufficient, "do nothing" viable (Mintzberg: don't over-reassess)
+- **Moderate difference** → iterative redesign; "soft" skills long-term, technical skills closer to adoption
+- **Significant difference** → predict future behaviors via SMEs; define broad KSAs for jobs that may not yet exist
+
+### Step 4: Evaluate Effectiveness / Validity
+- Continuous assessment via selection outcomes, performance appraisal
+- SME disagreement is a known validity concern (Dierdorff & Wilson, 2005)
+- Counter: Harvey & Wilson (2000) show experienced SMEs produce superior JA ratings
+
+## Strategic Typology Link (Miles & Snow, 1978)
+
+| Type | JA Approach |
+|------|-------------|
+| **Defender** | Traditional JA — stable env, narrow skills, top-down, Taylorist alignment |
+| **Prospector** | SJA — decentralized, broad skills, rapid change, multi-skilling, empowerment |
+| Analyzer | Mix of above |
+| Reactor | Not addressed (treated as strategic failure) |
+
+## Implications
+
+### Legal
+- SJA must withstand discrimination challenges; courts consider *business necessity*
+- Competency/SJA approach defensible if intent is non-discriminatory and process is systematic
+- Key cases: *Griggs v. Duke Power Co.*, *Abermarle Paper Co. v. Moody*, *Chavez v. Coors Brewing Co.*
+
+### Selection & Staffing
+- Move beyond person-job match → person-strategy fit
+- KSAs must include team skills, adaptability, ability to handle ambiguity, creativity
+- Risk of "tight fit": over-alignment inhibits flexibility when strategy shifts (Evans, 1986)
+- Recommendation: "loose fit" — hire adaptable, trainable employees
+
+### Enduring Abilities to Prioritize
+- Adaptability / flexibility
+- Ability to handle ambiguity and stress
+- Learning agility (learn and relearn)
+- Creativity, problem-solving
+- Cooperative work with peers
+
+## Prior SJA Frameworks Reviewed
+
+| Author | Contribution |
+|--------|-------------|
+| Schneider & Konz (1989) | 8-step multi-method JA; SME workshop on future changes; foundational SJA paper |
+| Snow & Snell (1993) | 3 staffing models: job-match → strategy-supplement → competency-driven |
+| Sanchez (1994) | Assumptions critique; scenario-based future KSAs; team/work analysis |
+| Siddique (2004) | Competency-focused JA → positive org performance link |
+
+## Limitations / Open Questions
+
+- Validity/reliability of SME future predictions (Dierdorff & Wilson, 2005)
+- No field studies validating the proposed framework
+- Tension between strategic fit and flexibility
+- Legal status of SJA in courts largely untested
+
+## Key Quotes
+
+> "Job analysis, as we generally know it, suffers from a couple of serious plagues... we need organizational forecasting information, strategic plans, and both current information and plans related to the interactions between different organizational activities." — Guion (1993)
+
+> "The goal of strategic job analysis is specification of the tasks to be performed and the KSAs required for effective performance for a job as it is predicted to exist in the future." — Schneider & Konz (1989)
+
+## Related Concepts
+- [[Strategic Job Analysis (SJA)]]
+- [[Competency Modelling]]
+- [[KSA Framework]]
+- [[Miles and Snow Strategic Typology]]
+- [[Traditional Job Analysis]]
+
+## Related Entities
+- [[Parbudyal Singh]]
+- [[Schneider and Konz]]
+- [[Juan Sanchez]]

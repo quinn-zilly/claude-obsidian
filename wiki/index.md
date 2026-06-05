@@ -23,7 +23,7 @@ related:
 
 # Wiki Index
 
-Last updated: 2026-06-04 | Total pages: 394 | Sources ingested: 55
+Last updated: 2026-06-04 | Total pages: 409 | Sources ingested: 60
 
 Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[getting-started]]
 
@@ -45,7 +45,13 @@ Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[
 - [[Active Learning (Training)]] — learner as active participant; guided exploration, error management, mastery framing; Bell et al. 2017 Theme 3 centerpiece (status: developing)
 - [[Technology-Based Training]] — e-learning, CAI, simulations; media irrelevance (Clark 1994); design not media determines effectiveness; blended learning gap (status: developing)
 - [[Training Context and Transfer Climate]] — what happens before/after training; supervisor support, transfer climate (Tracey et al. 1995), expectation setting, work experience as development; rc=.37 with transfer (status: mature)
+- [[Experience-Driven Development]] — outside-in model; training as catalyst for OJD; 90% outside-classroom; development continuum; Yost (2013) (status: evergreen)
+- [[Training as Catalyst (OJD)]] — design principle: build training to trigger/accelerate OJD rather than maximize in-class learning; pre/post catalyst patterns (status: developing)
 - [[Training Needs Analysis]] — identifying training needs; major empirical gap despite prescriptive importance; rapid needs assessment urgent (status: developing)
+- [[Strategic Job Analysis (SJA)]] — future-oriented, strategy-linked JA; 4-step framework (env scan → current JA → gap analysis → validity eval); best fit for prospector orgs (status: developing)
+- [[KSA Framework]] — Knowledge/Skills/Abilities; traditional JA output; SJA shifts emphasis to broad enduring abilities (adaptability, learning agility, ambiguity tolerance) (status: developing)
+- [[Competency Modelling]] — behavioral competencies as bridge between JA and strategy; Siddique 2004 → org performance link (status: developing)
+- [[Miles-Snow-Strategic-Typology]] — Defender/Prospector/Analyzer/Reactor; Defender → traditional JA; Prospector → SJA; Miles & Snow 1978 (status: developing)
 - [[Trainee Characteristics]] — GMA, self-efficacy, goal orientation, personality; within-person self-efficacy reversal; trainability distinct from job success (status: mature)
 - [[Diversity Training]] — organizational DEI intervention; evidence-based design principles; not a binary "works/doesn't work" question; Bezrukova 2016 meta-analysis g=.38 (status: evergreen)
 - [[Diversity Training Myths]] — 19 common misconceptions in 3 categories (effectiveness/content/design); Cheng et al. 2019 myth-centered review (status: evergreen)
@@ -260,10 +266,16 @@ Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[
 - [[Readability Tests for Survey Items]] — Flesch-Kincaid Grade Level ≤8.0 per item recommended; test items individually; Coh-Metrix and QUAID as supplements (evergreen)
 - [[Coefficient Omega]] — congeneric reliability estimator; preferred over alpha when factor loadings differ (common); requires good-fitting factor model (evergreen)
 - [[Ant Colony Optimization (Scale Shortening)]] — algorithm for short-form creation; evaluates multi-criteria; outperforms factor-loading maximization; does not guarantee content coverage (evergreen)
+- [[DEI Evaluation]] — three-goal framework: engage representative stakeholders, ensure data quality/validity, communicate across differences; inclusive evaluation = better validity + better org outcomes (developing)
+- [[Equitable Data Collection]] — representativeness checks, bias detection (reference bias, mischievous responders), disaggregated analysis as default; missing subgroup data = explicit limitation not oversight (developing)
 
+- [[yost-2013-experience-driven-development|Yost (2013)]] — *ASTD Handbook* Ch. 57 | outside-in model; 90% outside-classroom; training as catalyst; development continuum (classroom→action learning→mentoring→job rotation→job assignments) | 2026-06-04
 - [[yost-2014-leading-from-where-you-are|Yost (2014)]] — Ch. 6 in *Using Experience to Develop Leadership Talent* | viral OJD; five design characteristics; succession/perf mgmt/CoP integration; middle-out HR change | 2026-06-04
+- [[Singh-2008-Job-Analysis-Changing-Workplace|Singh (2008)]] — *Human Resource Management Review* | strategic job analysis framework; SJA vs. traditional JA; gap analysis (no/moderate/significant change); Miles & Snow defender/prospector typology applied to JA | 2026-06-04
 
 ### Sources (new — 2026-06-04)
+
+- [[approaches-dei-evaluation]] — practice brief; three-goal DEI evaluation framework (stakeholder engagement, data quality, cross-difference communication); resources list incl. Equitable Evaluation Initiative, Child Trends, Project Evident | 2026-06-04
 
 - [[burke-hutchins-2007-training-transfer]] — integrative review ~170 studies; three-factor taxonomy (learner/design/environment); transfer problem scope; HRD Rev 2007
 - [[ellis-davidi-2005-after-event-reviews]] — AER quasi-field study; FSAER > FAER; mental model richness as mediator; IDF navigation; J Applied Psych 2005
@@ -285,7 +297,10 @@ Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[
 - [[Developmental Experiences]] — curated work assignments that produce leadership growth; turnarounds, start-ups, cross-functional roles (developing)
 - [[70-20-10 Rule]] — 70% OJD, 20% relationships, 10% training; heuristic from McCall et al. 1988 / Lombardo & Eichinger 1988 (developing)
 - [[Personal Advisory Board]] — 5–7 person developmental network replacing single mentor; Higgins & Kram (developing)
-- [[Transition Checklist]] — structured tool for role transitions; leverages high-openness-to-learning moments (developing)
+- [[Transition Checklist]] — structured tool for role transitions; four domains (manager/directs/network/performance); leverages high-openness-to-learning moments; Yost & Plunkett 2009 (developing)
+- [[Leadership Transitions]] — two frameworks: Dotlich et al. 9 career passages + Charan et al. 6 pipeline levels; each requires giving up prior-level strengths; nonlinear, wrenching steps; identity + adaptability as meta-competencies (developing)
+- [[First 90 Days Framework]] — Watkins 2003; 90-day credibility window; early wins establish momentum; break long-term projects into 30–90 day deliverables (developing)
+- [[Kaleidoscope Career Model]] — women's careers shaped by three rotating parameters (authenticity, balance, challenge); relational, non-linear; challenges opt-out narrative; Mainiero & Sullivan 2005 (status: evergreen)
 - [[Complex Visibility]] — three-state model (hypervisibility, invisibility, managed visibility) mediating minority status → career success disparity; Beigi et al. 2025 (developing)
 - [[Hypervisibility]] — excess scrutiny and tokenism imposed on minority employees; mistakes amplified, successes discounted (developing)
 - [[Invisibility (Career)]] — contributions overlooked, voice suppressed, excluded from informal networks; co-exists with hypervisibility (developing)
@@ -452,6 +467,7 @@ Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[
 - [[yost-plunkett-2010-ten-catalysts|Yost & Plunkett (2010)]] — Industrial and Organizational Psychology | ten catalysts to embed OJD in HR systems | 2026-05-21
 - [[mccauley-yost-2021-comfort-zone|McCauley & Yost (2021)]] — *The Age of Agility* Ch. 8 | stretch experiences; LA as antecedent/moderator/outcome; 8 daily heuristics | 2026-06-04
 - [[yost-plunkett-2009-derailment|Yost & Plunkett (2009)]] — *Real Time Leadership Development* Ch. 9 | 10 deadly sins of derailment; recovery process; org prevention | 2026-06-04
+- [[yost-plunkett-2009-transition|Yost & Plunkett (2009)]] — *Real Time Leadership Development* Ch. 19 | transitions as norm not exception; 9 career passages + 6 pipeline levels; 5 navigation strategies; transition checklist | 2026-06-04
 - [[charan-leadership-pipeline-ch1|Charan et al. (2001)]] — *The Leadership Pipeline* Ch. 1 | six passages; skills/time/values; pipeline clogs; succession diagnostic | 2026-06-04
 - [[beigi-2025-career-success-minority|Beigi et al. (2025)]] — Journal of Management | career success and minority status; complex visibility; 337 articles; 4 minority groups | 2026-05-21
 - [[uhlmann-2019-crowdsourcing-science|Uhlmann et al. (2019)]] — Perspectives on Psychological Science | Scientific Utopia III; crowdsourcing as complement to standard model; 2×2 typology; structural reforms | 2026-05-21

@@ -63,6 +63,7 @@ When HR professionals launch OJD without top-down mandate, [[Viral On-the-Job De
 ## Key Sources
 
 - [[yost-plunkett-2010-ten-catalysts]] — 10 catalysts framework
+- [[yost-2013-experience-driven-development]] — outside-in model; training as catalyst; 90% outside-classroom claim; development continuum
 - [[yost-2014-leading-from-where-you-are]] — viral OJD; five design characteristics; middle-out change
 - McCall et al. (1988) — *Lessons of Experience* (foundational)
 - McCauley (2006) — developmental assignments taxonomy

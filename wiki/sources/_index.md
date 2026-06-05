@@ -63,6 +63,11 @@ All source pages — summaries of ingested documents, transcripts, articles, and
 
 - [[lehmann-2015-dbpedia|Lehmann et al. (2015)]] — *Semantic Web* — DBpedia; 400M+ facts from 111 Wikipedia editions; LOD hub; NLP/QA applications
 
+### Careers & Career Development
+
+- [[mainiero-sullivan-2005-kaleidoscope-careers|Mainiero & Sullivan (2005)]] — *Academy of Management Executive* — Kaleidoscope Career Model; ABC parameters (authenticity, balance, challenge); relational model of women's careers; challenges opt-out narrative
+- [[beigi-2025-career-success-minority|Beigi et al. (2025)]] — *Journal of Management* — career success and minority status; complex visibility framework; resource management perspective
+
 ---
 
 ## Add new sources here after each ingest.

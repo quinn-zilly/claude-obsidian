@@ -1,3 +1,10 @@
+## 2026-06-04 ingest | Yost (2013) — Training and Experience-Driven Development
+- Source: `.raw/Output/Yost-2013-ExperienceDrivenDevelopment.md`
+- Summary: [[yost-2013-experience-driven-development]]
+- Pages created: [[yost-2013-experience-driven-development]], [[Experience-Driven Development]], [[Training as Catalyst (OJD)]]
+- Pages updated: [[Paul Yost]], [[On-the-Job Development]], [[Training Context and Transfer Climate]], [[index]], [[hot]], [[log]]
+- Key insight: Training's highest-leverage function is not maximizing in-class learning but catalyzing the 90% of development that occurs outside the classroom — the outside-in model inverts the transfer-of-training framing entirely.
+
 ## 2026-06-04 ingest | Yost (2014) — Leading from Where You Are
 - Source: `.raw/Input/Yost - 2014 - Leading from where you are.pdf`
 - Summary: [[yost-2014-leading-from-where-you-are]]

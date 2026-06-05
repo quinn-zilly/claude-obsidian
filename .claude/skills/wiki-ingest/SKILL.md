@@ -7,7 +7,7 @@ description: "Ingest sources into the Obsidian wiki vault. Reads a source, extra
 
 Read the source. Write the wiki. Cross-reference everything. A single source typically touches 8-15 wiki pages.
 
-**Syntax standard**: Write all Obsidian Markdown using proper Obsidian Flavored Markdown. Wikilinks as `[[Note Name]]`, callouts as `> [!type] Title`, embeds as `![[file]]`, properties as YAML frontmatter. If the kepano/obsidian-skills plugin is installed, prefer its canonical obsidian-markdown skill for Obsidian syntax reference. Otherwise, follow the guidance in this skill.
+**Syntax standard**: Write all Obsidian Markdown using proper Obsidian Flavored Markdown. Wikilinks as `[[Note Name]]`, callouts as `> [!type] Title`, embeds as `![[file]]`, properties as YAML frontmatter. Use the obsidian-markdown skill for further instructions.
 
 ---
 
@@ -92,46 +92,23 @@ Steps:
 
 Use cases: whiteboard photos, screenshots, diagrams, infographics, document scans.
 
----
-
-## PDF Ingestion
-
-Trigger: user points to a `.pdf` file, or names a file that exists in `.raw/input/`.
-
-Steps:
-
-1. **List** available PDFs so the user can confirm the selection:
-   ```powershell
-   Get-ChildItem .raw/input/*.pdf | Select-Object -ExpandProperty Name
-   ```
-2. **Select** the PDF. If the user already named it, use that name. If ambiguous, ask.
-3. **Choose output name**. Default: replace `.pdf` extension with `.md` (e.g. `Campbell.pdf` → `Campbell.md`). Confirm with user or use their suggestion. If `.raw/output/<name>.md` already exists, ask before proceeding — the script will error on collision.
-4. **Run** the conversion script:
-   ```bash
-   python scripts/pdf-to-md.py "<input.pdf>" "<output.md>"
-   ```
-   Script auto-selects the Python 3.12 install where marker is installed; no need to pick an interpreter.
-5. **Verify** `.raw/output/<output.md>` exists and is non-empty.
-6. Proceed with **Single Source Ingest** using `.raw/output/<output.md>` as the source file (start at step 1 of that section).
-
----
-
 ## Single Source Ingest
 
-Trigger: user drops a file into `.raw/` or pastes content. PDF sources should go through **PDF Ingestion** first.
+Trigger: user drops a file into `.raw/Outpt` or pastes content. 
 
 Steps:
 
-1. **Read** the source completely. Do not skim.
-2. **Discuss** key takeaways with the user. Ask: "What should I emphasize? How granular?" Skip this if the user says "just ingest it."
-3. **Create** source summary in `wiki/sources/`. Use the source frontmatter schema from `references/frontmatter.md`. Assign an address per the **Address Assignment** section below.
-4. **Create or update** entity pages for every person, org, product, and repo mentioned. One page per entity. Assign addresses to new entity pages.
-5. **Create or update** concept pages for significant ideas and frameworks. Assign addresses to new concept pages.
-6. **Update** relevant domain page(s) and their `_index.md` sub-indexes.
-7. **Update** `wiki/overview.md` if the big picture changed.
-8. **Update** `wiki/index.md`. Add entries for all new pages.
-9. **Update** `wiki/hot.md` with this ingest's context.
-10. **Append** to `wiki/log.md` (new entries at the TOP):
+1. **Check** for the source in `.raw/Output`. DO NOT read files in the .raw/Input folder unless specifically asked by the user.
+2. **Read** the source completely. Do not skim.
+3. **Discuss** key takeaways with the user. Ask: "What should I emphasize? How granular?" Skip this if the user says "just ingest it."
+4. **Create** source summary in `wiki/sources/`. Use the source frontmatter schema from `references/frontmatter.md`. Assign an address per the **Address Assignment** section below.
+5. **Create or update** entity pages for every person, org, product, and repo mentioned. One page per entity. Assign addresses to new entity pages.
+6. **Create or update** concept pages for significant ideas and frameworks. Assign addresses to new concept pages.
+7. **Update** relevant domain page(s) and their `_index.md` sub-indexes.
+8. **Update** `wiki/overview.md` if the big picture changed.
+9. **Update** `wiki/index.md`. Add entries for all new pages.
+10. **Update** `wiki/hot.md` with this ingest's context.
+11. **Append** to `wiki/log.md` (new entries at the TOP):
     ```markdown
     ## [YYYY-MM-DD] ingest | Source Title
     - Source: `.raw/articles/filename.md`

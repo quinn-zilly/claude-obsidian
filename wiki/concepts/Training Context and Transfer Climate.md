@@ -76,3 +76,6 @@ Training does not occur in a vacuum. What happens *before* and *after* formal tr
 - Tracey et al. (1995) — transfer climate empirical
 - Blume et al. (2010) — transfer meta-analysis
 - [[Training Transfer]] — sibling concept page
+- [[yost-2013-experience-driven-development]] — reframes transfer climate as the *primary* arena; outside-in model treats the work environment as the main event, not the after-thought
+- [[Experience-Driven Development]] — the framework that elevates transfer climate to center stage
+- [[Training as Catalyst (OJD)]] — catalyst design is a proactive approach to engineering transfer climate

@@ -1165,6 +1165,12 @@
         "wiki/hot.md",
         "wiki/log.md"
       ]
+    },
+    "Mainiero and Sullivan - 2005 - Kaleidoscope careers": {
+      "file": "Mainiero and Sullivan - 2005 - Kaleidoscope careers An alternate explanation for the \"opt-out\" revolution.pdf",
+      "ingested": "2026-06-04",
+      "wiki_page": "wiki/sources/mainiero-sullivan-2005-kaleidoscope-careers.md",
+      "address": "c-000395"
     }
   },
   "address_map": {
@@ -1530,7 +1536,8 @@
     "wiki/sources/yost-2014-leading-from-where-you-are.md": "c-000446",
     "wiki/concepts/Viral On-the-Job Development.md": "c-000447",
     "wiki/concepts/Five Design Characteristics (OJD).md": "c-000448",
-    "wiki/concepts/HR Change from the Middle.md": "c-000449"
+    "wiki/concepts/HR Change from the Middle.md": "c-000449",
+    "c-000395": "wiki/sources/mainiero-sullivan-2005-kaleidoscope-careers.md"
   },
   ".raw/Pearsall et al. - 2025 - A stimulus-based model of the team adaptation process An integrated conceptual review..pdf": {
     "hash": "62f683006d3323a67c67fc23621f632a",
