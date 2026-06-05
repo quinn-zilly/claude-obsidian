@@ -178,20 +178,6 @@ Parse recent entries: `grep "^## \[" wiki/log.md | head -10`
 - Pages updated: [[Job Characteristics Model]]
 - Key insight: WDQ extends JCM's 5 motivational chars to 18 across task/knowledge/social/contextual domains; work conditions alone explain 16% incremental variance in stress; motivational–mechanistic tradeoff partially resolvable via specialization.
 
----
-type: meta
-title: "Operation Log"
-updated: 2026-05-21
-tags:
-  - meta
-  - log
-status: evergreen
-related:
-  - "[[index]]"
-  - "[[hot]]"
-  - "[[overview]]"
-  - "[[sources/_index]]"
----
 
 ## 2026-05-30 | ingest | Kanfer, Frese & Johnson 2017 — Work Motivation: A Century of Progress
 - Source: `.raw/Kanfer et al. - 2017 - Motivation related to work A century of progress..pdf`
@@ -375,8 +361,6 @@ related:
 - Pages updated: [[concepts/_index]], [[entities/_index]], [[sources/_index]], [[index]], [[hot]]
 - Addresses assigned: c-000018 through c-000054 (37 pages)
 - Key insight: This ingest spans three new sub-domains: (1) Knowledge-based theory of the firm / microfoundations — Grant's four integration mechanisms and Barney & Felin's aggregation framework extend the existing KM domain and directly address the micro-macro gap identified in [[zahra-2020-knowledge-integration]]; (2) Open science / replication crisis — OSC 2015, Nosek 2018, LeBel 2018, and Munafò 2017 form a tight cluster documenting the replication crisis and proposing reforms; (3) Semantic web / knowledge graphs — DBpedia and LOD represent knowledge codification at web scale, connecting to tacit/explicit distinctions from the KM domain. Cross-domain connection: [[metaBUS]] bridges open science and KM by creating a knowledge retention infrastructure for meta-analytic science.
-
----
 
 ## 2026-05-15 | batch-ingest | 4 Knowledge Management PDFs
 
