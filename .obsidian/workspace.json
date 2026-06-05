@@ -211,7 +211,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 205.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -230,7 +230,7 @@
       "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "5565f1231fe95c42",
+  "active": "673151f542aae49d",
   "lastOpenFiles": [
     "tests/test_tiling_check.py",
     "tests/test_boundary_score.py",
