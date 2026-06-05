@@ -11,10 +11,14 @@
             "id": "2e272d4cb0de1692",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "wiki/sources/yost-2013-experience-driven-development.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "yost-2013-experience-driven-development"
             }
           }
         ]
@@ -228,12 +232,17 @@
   },
   "active": "2e272d4cb0de1692",
   "lastOpenFiles": [
+    "wiki/log.md",
+    "wiki/index.md",
+    "wiki/sources/nosek-2012-scientific-utopia-ii.md",
+    "wiki/maps/dashboard.md",
+    "wiki/maps/dashboard.base",
+    "wiki/maps/Wiki Map.md",
+    "wiki/maps/Wiki Map.canvas",
     "wiki/questions/How does the LLM Wiki pattern work.md",
     "wiki/comparisons/Wiki vs RAG.md",
     "wiki/comparisons/claude-obsidian-ecosystem.md",
-    "wiki/log.md",
     "wiki/hot.md",
-    "wiki/index.md",
     "wiki/overview.md",
     "wiki/concepts/sed1cjwfG",
     "wiki/sources/sedSgtMzZ",
@@ -253,9 +262,6 @@
     "wiki/concepts/Stakeholder Engagement (Evaluation).md",
     "wiki/concepts/Training Design and Delivery.md",
     "wiki/concepts/Instructional Design.md",
-    "wiki/concepts/Failure-Driven Learning.md",
-    "wiki/concepts/Learning from Experience.md",
-    "wiki/concepts/Type I and Type II Errors (Medicine).md",
     "wiki/concepts/sedU8Q1ZI",
     "wiki/entities/sedghPbWo",
     "wiki/sedz5RVmg",
@@ -263,7 +269,6 @@
     "wiki/meta/lint-report-2026-06-05.md.tmp.14056.39119f27ebea",
     "wiki/sed0qcjiA",
     "wiki/meta/lint-report-2026-06-05.md.tmp.13092.f82d177341e4",
-    "wiki/projects/Training Checklist.md.tmp.28740.a87cb4a22a0c",
     "Excalidraw/Scripts/Downloaded/Slideshow.svg",
     "wiki/meta/History.png",
     "wiki/meta/Ready pull.png",
@@ -274,7 +279,6 @@
     "wiki/meta/Post Stage.png",
     "wiki/meta/Pre stage.png",
     "wiki/meta/Environment pre stage.png",
-    "wiki/maps/Wiki Map.canvas",
     "wiki/canvases/wiki-map.canvas",
     "wiki/canvases/fibonacci-wiki-map.canvas",
     "wiki/canvases/youtube-explainer.canvas",
