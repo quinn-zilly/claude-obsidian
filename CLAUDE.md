@@ -48,19 +48,20 @@ Do NOT read the wiki for general coding questions or things already in this proj
 
 ## Plugin Skills
 
-| Skill | Trigger |
-|-------|---------|
-| `/wiki` | Setup, scaffold, route to sub-skills |
-| `ingest [source]` | Single or batch source ingestion |
-| `query: [question]` | Answer from wiki content |
-| `lint the wiki` | Health check |
-| `/save` | File the current conversation as a structured wiki note |
-| `/autoresearch [topic]` | Autonomous research loop: search, fetch, synthesize, file |
-| `/canvas` | Visual layer: add images, PDFs, notes to Obsidian canvas |
-| `/wiki-cli` (v1.7) | Obsidian CLI transport wrapper; default mutation path on desktop |
-| `/wiki-retrieve` (v1.7) | Hybrid contextual + BM25 + cosine-rerank retrieval (opt-in via `bash bin/setup-retrieve.sh`) |
-| `/wiki-mode` (v1.8) | Methodology modes (LYT / PARA / Zettelkasten / Generic). Set via `bash bin/setup-mode.sh`; consumed by wiki-ingest / save / autoresearch for routing new pages |
-| `/think` (v1.9) | The 10-principle thinking loop (OBSERVE-OBSERVE-LISTEN-THINK-CONNECT-CONNECT-FEEL-ACCEPT-CREATE-GROW) as an invocable workflow. Apply to architectural decisions, audits, post-mortems, ambiguous user requests. Every other skill has a "How to think" appendix mapping this framework to its specific work |
+| Skill                   | Trigger                                                                                                                                                                                                                                                                                                      |
+| ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| `/wiki`                 | Setup, scaffold, route to sub-skills                                                                                                                                                                                                                                                                         |
+| `ingest [source]`       | Single or batch source ingestion                                                                                                                                                                                                                                                                             |
+| `query: [question]`     | Answer from wiki content                                                                                                                                                                                                                                                                                     |
+| `lint the wiki`         | Health check                                                                                                                                                                                                                                                                                                 |
+| `/save`                 | File the current conversation as a structured wiki note                                                                                                                                                                                                                                                      |
+| `/wiki-fold`            | Log-rollup skill                                                                                                                                                                                                                                                                                             |
+| `/autoresearch [topic]` | Autonomous research loop: search, fetch, synthesize, file                                                                                                                                                                                                                                                    |
+| `/canvas`               | Visual layer: add images, PDFs, notes to Obsidian canvas                                                                                                                                                                                                                                                     |
+| `/wiki-cli` (v1.7)      | Obsidian CLI transport wrapper; default mutation path on desktop                                                                                                                                                                                                                                             |
+| `/wiki-retrieve` (v1.7) | Hybrid contextual + BM25 + cosine-rerank retrieval (opt-in via `bash bin/setup-retrieve.sh`)                                                                                                                                                                                                                 |
+| `/wiki-mode` (v1.8)     | Methodology modes (LYT / PARA / Zettelkasten / Generic). Set via `bash bin/setup-mode.sh`; consumed by wiki-ingest / save / autoresearch for routing new pages                                                                                                                                               |
+| `/think` (v1.9)         | The 10-principle thinking loop (OBSERVE-OBSERVE-LISTEN-THINK-CONNECT-CONNECT-FEEL-ACCEPT-CREATE-GROW) as an invocable workflow. Apply to architectural decisions, audits, post-mortems, ambiguous user requests. Every other skill has a "How to think" appendix mapping this framework to its specific work |
 
 ## Transport (v1.7+)
 
