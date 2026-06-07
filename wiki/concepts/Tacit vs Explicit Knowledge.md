@@ -12,6 +12,7 @@ related:
   - "[[Knowledge Transfer]]"
   - "[[Organizational Learning]]"
   - "[[Transactive Memory Systems]]"
+  - "[[Knowledge Management MOC]]"
 ---
 
 # Tacit vs. Explicit Knowledge

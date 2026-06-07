@@ -12,6 +12,7 @@ related:
   - "[[Transformational and Charismatic Leadership]]"
   - "[[Alice H. Eagly]]"
   - "[[lord-et-al-2017-leadership-in-applied-psychology]]"
+  - "[[Teams & Org Behavior MOC]]"
 ---
 
 # Gender and Leadership

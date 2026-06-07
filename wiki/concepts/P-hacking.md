@@ -17,6 +17,7 @@ related:
   - "[[Replication Crisis]]"
   - "[[munafo-2017-manifesto]]"
   - "[[nosek-2018-preregistration]]"
+  - "[[Open Science MOC]]"
 created: unknown
 updated: unknown
 ---

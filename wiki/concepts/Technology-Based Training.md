@@ -11,6 +11,7 @@ related:
   - "[[Training Design and Delivery]]"
   - "[[Training Transfer]]"
   - "[[bell-et-al-2017-100-years-training-development]]"
+  - "[[Learning & Development MOC]]"
 ---
 
 # Technology-Based Training

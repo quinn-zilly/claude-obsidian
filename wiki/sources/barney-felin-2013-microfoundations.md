@@ -27,6 +27,7 @@ related:
   - "[[Knowledge-Based View of the Firm]]"
   - "[[Organizational Learning]]"
   - "[[grant-1996-knowledge-based-theory]]"
+  - "[[Institutional & Strategy MOC]]"
 created: unknown
 updated: unknown
 ---

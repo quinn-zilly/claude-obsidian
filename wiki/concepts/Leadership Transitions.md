@@ -9,6 +9,7 @@ updated: 2026-06-05
 related:
   - "[[Leadership Pipeline]]"
   - "[[Transition Checklist]]"
+  - "[[Teams & Org Behavior MOC]]"
 ---
 
 # Leadership Transitions

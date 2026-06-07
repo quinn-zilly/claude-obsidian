@@ -26,6 +26,7 @@ related:
   - "[[Knowledge-Based Theory of the Firm]]"
   - "[[Tacit vs Explicit Knowledge]]"
   - "[[barney-felin-2013-microfoundations]]"
+  - "[[Institutional & Strategy MOC]]"
 created: unknown
 updated: unknown
 ---

@@ -33,6 +33,7 @@ related:
   - "[[open-science-collaboration-2015]]"
   - "[[munafo-2017-manifesto]]"
   - "[[foster-deardorff-2017-osf]]"
+  - "[[Open Science MOC]]"
 created: unknown
 updated: unknown
 ---

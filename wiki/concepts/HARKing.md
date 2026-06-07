@@ -20,6 +20,7 @@ related:
   - "[[munafo-2017-manifesto]]"
   - "[[nosek-2018-preregistration]]"
   - "[[Aesthetic Standards in Science]]"
+  - "[[Open Science MOC]]"
 created: unknown
 updated: 2026-05-21
 ---

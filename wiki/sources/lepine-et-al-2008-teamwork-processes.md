@@ -19,6 +19,7 @@ related:
   - "[[Transactive Memory Systems]]"
   - "[[Jeffery LePine]]"
   - "[[John Mathieu]]"
+  - "[[Teams & Org Behavior MOC]]"
 ---
 
 # LePine et al. 2008 — Teamwork Processes Meta-Analysis

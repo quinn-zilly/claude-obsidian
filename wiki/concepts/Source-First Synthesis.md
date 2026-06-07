@@ -16,6 +16,7 @@ related:
   - "[[Compounding Knowledge]]"
   - "[[Persistent Wiki Artifact]]"
   - "[[Query-Time Retrieval]]"
+  - "[[Knowledge Management MOC]]"
 ---
 
 # Source-First Synthesis

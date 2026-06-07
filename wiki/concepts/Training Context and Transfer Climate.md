@@ -11,6 +11,7 @@ related:
   - "[[Kirkpatrick Four-Level Model]]"
   - "[[Augmented Training Criteria Framework]]"
   - "[[bell-et-al-2017-100-years-training-development]]"
+  - "[[Learning & Development MOC]]"
 ---
 
 # Training Context and Transfer Climate

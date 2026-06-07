@@ -21,6 +21,7 @@ related:
   - "[[Andrej Karpathy]]"
   - "[[index]]"
   - "[[concepts/_index]]"
+  - "[[Knowledge Management MOC]]"
 sources:
 ---
 

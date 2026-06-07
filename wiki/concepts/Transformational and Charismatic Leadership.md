@@ -15,6 +15,7 @@ related:
   - "[[Leadership Training (Teams)]]"
   - "[[Bruce J. Avolio]]"
   - "[[lord-et-al-2017-leadership-in-applied-psychology]]"
+  - "[[Teams & Org Behavior MOC]]"
 ---
 
 # Transformational and Charismatic Leadership

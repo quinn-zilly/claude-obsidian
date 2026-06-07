@@ -29,6 +29,7 @@ related:
   - "[[Open Science]]"
   - "[[Replication Crisis]]"
   - "[[nosek-2018-preregistration]]"
+  - "[[Open Science MOC]]"
 ---
 
 # Nosek & Bar-Anan (2012) — Scientific Utopia I: Opening Scientific Communication

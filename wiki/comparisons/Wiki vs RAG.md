@@ -23,6 +23,7 @@ related:
   - "[[Compounding Knowledge]]"
   - "[[index]]"
   - "[[How does the LLM Wiki pattern work]]"
+  - "[[Knowledge Management MOC]]"
 sources: []
 ---
 

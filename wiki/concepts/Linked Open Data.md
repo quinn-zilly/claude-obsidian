@@ -15,6 +15,7 @@ related:
   - "[[Christian Bizer]]"
   - "[[Knowledge Transfer]]"
   - "[[lehmann-2015-dbpedia]]"
+  - "[[Knowledge Management MOC]]"
 created: unknown
 updated: unknown
 ---

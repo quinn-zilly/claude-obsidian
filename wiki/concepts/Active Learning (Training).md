@@ -11,6 +11,7 @@ related:
   - "[[Technology-Based Training]]"
   - "[[Training Transfer]]"
   - "[[bell-et-al-2017-100-years-training-development]]"
+  - "[[Learning & Development MOC]]"
 ---
 
 # Active Learning (Training)

@@ -30,6 +30,7 @@ related:
   - "[[munafo-2017-manifesto]]"
   - "[[nosek-2018-preregistration]]"
   - "[[lebel-2018-credibility-framework]]"
+  - "[[Open Science MOC]]"
 created: unknown
 updated: unknown
 ---

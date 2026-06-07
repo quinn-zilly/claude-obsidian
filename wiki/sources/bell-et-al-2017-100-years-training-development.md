@@ -28,6 +28,7 @@ related:
   - "[[J. Kevin Ford]]"
   - "[[Raymond A. Noe]]"
   - "[[Kurt Kraiger]]"
+  - "[[Learning & Development MOC]]"
 ---
 
 # Bell et al. (2017) — 100 Years of Training and Development Research

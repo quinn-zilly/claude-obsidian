@@ -35,6 +35,7 @@ related:
   - "[[DBpedia]]"
   - "[[Linked Open Data]]"
   - "[[Knowledge Transfer]]"
+  - "[[Knowledge Management MOC]]"
 created: unknown
 updated: unknown
 ---

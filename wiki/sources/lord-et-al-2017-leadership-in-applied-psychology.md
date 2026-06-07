@@ -28,6 +28,7 @@ related:
   - "[[David V. Day]]"
   - "[[Bruce J. Avolio]]"
   - "[[Alice H. Eagly]]"
+  - "[[Teams & Org Behavior MOC]]"
 ---
 
 # Lord et al. 2017 — Leadership in Applied Psychology: Three Waves of Theory and Research

@@ -10,6 +10,8 @@ related:
   - "[[Transactive Memory Systems]]"
   - "[[Emergent States (Teams)]]"
   - "[[Team Adaptation (Stimulus-Based Model)]]"
+  - "[[Knowledge Management MOC]]"
+  - "[[Teams & Org Behavior MOC]]"
 ---
 
 # Organizational Memory

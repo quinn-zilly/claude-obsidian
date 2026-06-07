@@ -13,6 +13,7 @@ related:
   - "[[Tacit vs Explicit Knowledge]]"
   - "[[zahra-2020-knowledge-integration]]"
   - "[[alavi-leidner-2001-knowledge-management]]"
+  - "[[Institutional & Strategy MOC]]"
 ---
 
 # Knowledge-Based View of the Firm

@@ -14,6 +14,7 @@ related:
   - "[[Transactive Memory Systems]]"
   - "[[argote-2021-organizational-learning]]"
   - "[[alavi-leidner-2001-knowledge-management]]"
+  - "[[Knowledge Management MOC]]"
 ---
 
 # Knowledge Transfer

@@ -22,6 +22,7 @@ related:
   - "[[open-science-collaboration-2015]]"
   - "[[munafo-2017-manifesto]]"
   - "[[nosek-2022-replicability-robustness-reproducibility]]"
+  - "[[Open Science MOC]]"
 created: unknown
 updated: 2026-05-22
 ---

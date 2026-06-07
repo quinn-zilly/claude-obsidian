@@ -15,6 +15,7 @@ related:
   - "[[Preregistration]]"
   - "[[Open Science]]"
   - "[[HARKing]]"
+  - "[[Open Science MOC]]"
 ---
 
 # Replication

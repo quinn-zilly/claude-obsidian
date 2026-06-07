@@ -15,6 +15,7 @@ related:
   - "[[Spacing Effect]]"
   - "[[Learning vs Performance Distinction]]"
   - "[[New Theory of Disuse]]"
+  - "[[Learning & Development MOC]]"
 ---
 
 # Testing Effect

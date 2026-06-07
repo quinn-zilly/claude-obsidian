@@ -21,6 +21,8 @@ tags:
   - scientific-reform
   - research-incentives
 journal: Perspectives on Psychological Science
+related:
+  - "[[Open Science MOC]]"
 ---
 
 # Nosek et al. (2012) - Scientific Utopia II: Restructuring Incentives and Practices to Promote Truth Over Publishability

@@ -16,6 +16,7 @@ related:
   - "[[Transactive Memory Systems]]"
   - "[[Tacit vs Explicit Knowledge]]"
   - "[[grant-1996-knowledge-based-theory]]"
+  - "[[Institutional & Strategy MOC]]"
 created: unknown
 updated: unknown
 ---

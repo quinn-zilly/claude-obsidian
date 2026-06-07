@@ -14,6 +14,7 @@ status: ingested
 created: 2026-06-04
 updated: 2026-06-04
 related: ["[[Kirkpatrick Four-Level Model]]", "[[Training Needs Analysis]]", "[[Training Method Effectiveness]]", "[[Training Transfer]]", "[[alliger-et-al-1997-training-criteria-meta-analysis]]", "[[Winfred Arthur Jr.]]", "[[bell-et-al-2017-100-years-training-development]]"]
+  - "[[Learning & Development MOC]]"
 ---
 
 # Arthur et al. (2003) — Training Effectiveness Meta-Analysis

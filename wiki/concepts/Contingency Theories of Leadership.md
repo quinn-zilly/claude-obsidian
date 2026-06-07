@@ -11,6 +11,7 @@ related:
   - "[[Leader Behavior and Ohio State Studies]]"
   - "[[Implicit Leadership Theories]]"
   - "[[lord-et-al-2017-leadership-in-applied-psychology]]"
+  - "[[Teams & Org Behavior MOC]]"
 ---
 
 # Contingency Theories of Leadership

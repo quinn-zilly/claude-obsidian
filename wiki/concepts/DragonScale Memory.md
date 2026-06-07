@@ -22,6 +22,7 @@ related:
   - "[[Compounding Knowledge]]"
   - "[[Hot Cache]]"
   - "[[concepts/_index]]"
+  - "[[Knowledge Management MOC]]"
 sources:
 ---
 

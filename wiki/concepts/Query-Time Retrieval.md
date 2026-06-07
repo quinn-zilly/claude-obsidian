@@ -16,6 +16,7 @@ related:
   - "[[LLM Wiki Pattern]]"
   - "[[Persistent Wiki Artifact]]"
   - "[[Source-First Synthesis]]"
+  - "[[Knowledge Management MOC]]"
 ---
 
 # Query-Time Retrieval

@@ -22,6 +22,7 @@ related:
   - "[[Knowledge Retention]]"
   - "[[Transactive Memory Systems]]"
   - "[[Linda Argote]]"
+  - "[[Teams & Org Behavior MOC]]"
 ---
 
 # Argote & Miron-Spektor (2011) — From Experience to Knowledge

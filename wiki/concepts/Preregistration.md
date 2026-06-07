@@ -20,6 +20,7 @@ related:
   - "[[Open Science]]"
   - "[[nosek-2018-preregistration]]"
   - "[[munafo-2017-manifesto]]"
+  - "[[Open Science MOC]]"
 created: unknown
 updated: unknown
 ---

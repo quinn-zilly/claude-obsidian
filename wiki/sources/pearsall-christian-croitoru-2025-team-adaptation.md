@@ -27,6 +27,7 @@ related:
   - "[[Transactive Memory Systems]]"
   - "[[Matthew J. Pearsall]]"
   - "[[Jessica Siegel Christian]]"
+  - "[[Teams & Org Behavior MOC]]"
 ---
 
 # Pearsall, Christian & Croitoru (2025) — Team Adaptation Stimulus-Based Model

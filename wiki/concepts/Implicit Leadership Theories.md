@@ -13,6 +13,7 @@ related:
   - "[[Leader Behavior and Ohio State Studies]]"
   - "[[Gender and Leadership]]"
   - "[[lord-et-al-2017-leadership-in-applied-psychology]]"
+  - "[[Teams & Org Behavior MOC]]"
 ---
 
 # Implicit Leadership Theories (ILTs)

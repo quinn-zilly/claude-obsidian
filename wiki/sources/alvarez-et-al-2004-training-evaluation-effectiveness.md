@@ -12,6 +12,8 @@ tags: [training-evaluation, training-effectiveness, IMTEE, Kirkpatrick, posttrai
 status: evergreen
 created: 2026-06-04
 updated: 2026-06-04
+related:
+  - "[[Learning & Development MOC]]"
 ---
 
 # Alvarez, Salas & Garofano (2004) — Integrated Model of Training Evaluation and Effectiveness

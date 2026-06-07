@@ -12,6 +12,7 @@ related:
   - "[[Team Development Interventions]]"
   - "[[Transactive Memory Systems]]"
   - "[[lepine-et-al-2008-teamwork-processes]]"
+  - "[[Teams & Org Behavior MOC]]"
 ---
 
 # Emergent States (Teams)

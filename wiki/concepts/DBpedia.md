@@ -16,6 +16,7 @@ related:
   - "[[Knowledge Transfer]]"
   - "[[Tacit vs Explicit Knowledge]]"
   - "[[lehmann-2015-dbpedia]]"
+  - "[[Knowledge Management MOC]]"
 created: unknown
 updated: unknown
 ---

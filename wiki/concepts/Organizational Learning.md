@@ -16,6 +16,7 @@ related:
   - "[[Linda Argote]]"
   - "[[argote-2011-org-learning-experience]]"
   - "[[argote-2021-organizational-learning]]"
+  - "[[Teams & Org Behavior MOC]]"
 ---
 
 # Organizational Learning

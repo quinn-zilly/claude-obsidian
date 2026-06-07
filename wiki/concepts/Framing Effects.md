@@ -8,6 +8,7 @@ status: developing
 created: 2026-05-23
 updated: 2026-05-23
 related: ["[[Prospect Theory]]", "[[Judgment and Decision Making (Field)]]", "[[Heuristics and Biases Program]]", "[[connolly-2012-jdm]]", "[[Framing (Organizational Theory)]]", "[[Cognitive Frame]]", "[[Priming vs Framing]]"]
+  - "[[Institutional & Strategy MOC]]"
 ---
 
 # Framing Effects

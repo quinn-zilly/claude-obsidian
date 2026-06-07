@@ -13,6 +13,7 @@ related:
   - "[[Transactive Memory Systems]]"
   - "[[Tacit vs Explicit Knowledge]]"
   - "[[zahra-2020-knowledge-integration]]"
+  - "[[Knowledge Management MOC]]"
 ---
 
 # Knowledge Integration

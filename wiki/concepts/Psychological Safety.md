@@ -15,6 +15,7 @@ related:
   - "[[lacerenza-et-al-2018-team-development-interventions]]"
   - "[[Reflexive Learning (Team Adaptation)]]"
   - "[[Team Adaptation (Stimulus-Based Model)]]"
+  - "[[Teams & Org Behavior MOC]]"
 ---
 
 # Psychological Safety

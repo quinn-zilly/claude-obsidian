@@ -11,6 +11,7 @@ related:
   - "[[Three Waves of Leadership Research]]"
   - "[[Transformational and Charismatic Leadership]]"
   - "[[lord-et-al-2017-leadership-in-applied-psychology]]"
+  - "[[Teams & Org Behavior MOC]]"
 ---
 
 # Shared Leadership

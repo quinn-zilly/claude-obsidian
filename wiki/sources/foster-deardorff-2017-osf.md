@@ -29,6 +29,7 @@ related:
   - "[[nosek-2018-preregistration]]"
   - "[[munafo-2017-manifesto]]"
   - "[[open-science-collaboration-2015]]"
+  - "[[Open Science MOC]]"
 created: unknown
 updated: unknown
 ---

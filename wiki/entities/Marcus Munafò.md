@@ -15,6 +15,7 @@ related:
   - "[[Replication Crisis]]"
   - "[[munafo-2017-manifesto]]"
   - "[[Brian Nosek]]"
+  - "[[Open Science MOC]]"
 created: unknown
 updated: unknown
 ---

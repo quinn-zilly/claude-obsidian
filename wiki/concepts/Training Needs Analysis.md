@@ -11,6 +11,7 @@ related:
   - "[[bell-et-al-2017-100-years-training-development]]"
   - "[[arthur-et-al-2003-training-meta-analysis]]"
   - "[[Training Effectiveness (Meta-Analytic Evidence)]]"
+  - "[[Learning & Development MOC]]"
 ---
 
 # Training Needs Analysis

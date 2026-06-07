@@ -15,6 +15,7 @@ related:
   - "[[Preregistration]]"
   - "[[Registered Reports]]"
   - "[[P-hacking]]"
+  - "[[Open Science MOC]]"
 ---
 
 # File-Drawer Problem
