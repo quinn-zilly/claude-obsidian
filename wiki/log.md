@@ -18,6 +18,13 @@ Navigation: [[index]] | [[hot]] | [[overview]]
 
 Append-only. New entries go at the TOP. Never edit past entries.
 
+## [2026-06-07] ingest | Leidner & Kayworth (2006) — Culture in IS Research
+- Source: `.raw/Leidner-Kayworth-2006-Culture-IS-Review.md`
+- Summary: [[leidner-kayworth-2006-culture-is-review]]
+- Pages created: [[Dorothy Leidner]], [[Timothy Kayworth]], [[IT-Culture Conflict]], [[Cultural Fit]], [[IT Culture]], [[Hofstede's Cultural Dimensions]], [[Culture & IT MOC]]
+- Pages updated: [[Home MOC]], [[index]], [[hot]]
+- Key insight: Merges national- and organizational-culture IS literatures under a values lens; central contribution is the theory of IT-culture conflict (system / contribution / vision), whose resolution gradually reshapes culture.
+
 Entry format: `## [YYYY-MM-DD] operation | Title`
 
 Parse recent entries: `grep "^## \[" wiki/log.md | head -10`

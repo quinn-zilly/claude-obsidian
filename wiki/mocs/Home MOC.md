@@ -12,6 +12,7 @@ related:
   - "[[Learning & Development MOC]]"
   - "[[Institutional & Strategy MOC]]"
   - "[[Knowledge Management MOC]]"
+  - "[[Culture & IT MOC]]"
 ---
 
 # Home — Map of Content
@@ -29,6 +30,7 @@ This is the front door. Start here, pick a domain, follow links into the cluster
 - [[Learning & Development MOC]] — learning science, training transfer, and on-the-job development.
 - [[Institutional & Strategy MOC]] — institutional change, the knowledge-based view of the firm, framing, and careers.
 - [[Knowledge Management MOC]] — organizational memory, knowledge graphs, and the LLM-wiki pattern this vault implements.
+- [[Culture & IT MOC]] — national/organizational culture and information technology; cultural fit, IT values, and the theory of IT-culture conflict.
 
 ## Vault infrastructure
 

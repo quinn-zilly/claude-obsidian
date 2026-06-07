@@ -45,6 +45,10 @@ Navigation: [[Home MOC]] | [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[
 - [[Classroom Climate]] — social/emotional/intellectual environment × student development; stereotype threat (Steele & Aronson 1995), belonging (Walton & Cohen 2007); CMU Eberly Principle 6 (status: evergreen)
 - [[Metacognition and Self-Directed Learning]] — monitor-assess-plan-apply-reflect cycle; not natural, must be taught; CMU Eberly Principle 7 (status: evergreen)
 - [[Reward System Misalignment]] — formal rewards reinforce A while org hopes for B; structural not motivational; four causes (Kerr 1995)
+- [[IT-Culture Conflict]] — theory (Leidner & Kayworth 2006); system / contribution / vision conflict among group values, system-embedded values, and IT values (developing)
+- [[Cultural Fit]] — congruence between a group's values and values embedded in a system; dominant construct in IT-culture adoption research (developing)
+- [[IT Culture]] — the values a group attributes to IT (IT values); IT is symbolic, not value-neutral; Kaarst-Brown's five patterns (developing)
+- [[Hofstede's Cultural Dimensions]] — power distance, uncertainty avoidance, individualism–collectivism, masculinity–femininity; dominant national-culture taxonomy in IS research (developing)
 - [[Fouled-Up Reward Systems]] — Kerr's term; canonical table of hoped-for vs. rewarded behaviors in management
 - [[Goal Displacement]] — means become ends; metric displaces underlying goal; Blau & Scott (1962); Goodhart's Law adjacent
 - [[Operative vs Official Goals]] — Perrow (1961); official = vague/accepted; operative = specific/costly; basis of political reward folly
@@ -373,6 +377,8 @@ Navigation: [[Home MOC]] | [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[
 - [[Linda Argote]] — Carnegie Mellon; leading organizational learning researcher; learning curves, knowledge repositories (developing)
 - [[Shaker Zahra]] — University of Minnesota; knowledge integration, dynamic capabilities, absorptive capacity (developing)
 - [[Maryam Alavi]] — Emory University; knowledge management systems, IT and organizational knowledge (developing)
+- [[Dorothy Leidner]] — Baylor University (2006); culture and IS, knowledge management systems, IT-culture conflict (developing)
+- [[Timothy Kayworth]] — Baylor University (2006); culture and IS; co-author of the IT-culture conflict theory (stub)
 - [[Paul DiMaggio]] — Yale/Princeton/NYU sociologist; co-developer of institutional isomorphism theory and organizational field concept (developing)
 - [[Walter Powell]] — Yale/Stanford sociologist; co-developer of institutional isomorphism; later work on network forms and biotech knowledge networks (developing)
 - [[Ar9av-obsidian-wiki]] — multi-agent compatible LLM Wiki plugin; delta tracking manifest (status: current)
@@ -480,7 +486,8 @@ Navigation: [[Home MOC]] | [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[
 - [[foster-deardorff-2017-osf|Foster & Deardorff (2017)]] — JMLA | OSF resource review; preregistration infrastructure | 2026-05-19
 - [[open-science-collaboration-2015|Open Science Collaboration (2015)]] — Science | 100 replications; 36% success rate; replication crisis benchmark | 2026-05-19
 - [[munafo-2017-manifesto|Munafò et al. (2017)]] — Nature Human Behaviour | manifesto for reproducible science; five reform categories | 2026-05-19
-- [[nosek-bar-anan-2012-scientific-utopia-i|Nosek & Bar-Anan (2012)]] — Psychological Inquiry | Scientific Utopia I; six communication reforms; barriers are social not technical | 2026-05-20
+- [[nosek-bar-anan-2012-scientific-utopia-i|Nosek & Bar-Anan (2012)]] — Psychological Inquiry | Scientific Utopia I; six communication reforms; barriers are social not technical
+- [[leidner-kayworth-2006-culture-is-review|Leidner & Kayworth (2006)]] — MIS Quarterly | culture in IS review; theory of IT-culture conflict | 2026-06-07 | 2026-05-20
 - [[yost-plunkett-2010-ten-catalysts|Yost & Plunkett (2010)]] — Industrial and Organizational Psychology | ten catalysts to embed OJD in HR systems | 2026-05-21
 - [[mccauley-yost-2021-comfort-zone|McCauley & Yost (2021)]] — *The Age of Agility* Ch. 8 | stretch experiences; LA as antecedent/moderator/outcome; 8 daily heuristics | 2026-06-04
 - [[yost-plunkett-2009-derailment|Yost & Plunkett (2009)]] — *Real Time Leadership Development* Ch. 9 | 10 deadly sins of derailment; recovery process; org prevention | 2026-06-04

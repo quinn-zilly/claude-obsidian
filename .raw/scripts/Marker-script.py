@@ -1,6 +1,7 @@
 #! python3.12
 
 import tkinter as tk
+from pathlib import Path
 from tkinter import filedialog
 
 from marker.converters.pdf import PdfConverter
@@ -18,13 +19,7 @@ if __name__ == '__main__':
     if not input_path:
         raise SystemExit("No input file selected.")
 
-    output_path = filedialog.asksaveasfilename(
-        title="Save Markdown as",
-        defaultextension=".md",
-        filetypes=[("Markdown files", "*.md"), ("All files", "*.*")],
-    )
-    if not output_path:
-        raise SystemExit("No output file selected.")
+    output_path = Path(__file__).resolve().parent.parent / (Path(input_path).stem + ".md")
 
     converter = PdfConverter(
         artifact_dict=create_model_dict(),

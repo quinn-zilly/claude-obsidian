@@ -1194,6 +1194,26 @@
         "wiki/log.md",
         "wiki/hot.md"
       ]
+    },
+    ".raw/Leidner-Kayworth-2006-Culture-IS-Review.md": {
+      "hash": "4130735d4dd3fac0d04c7c5f0094805b",
+      "ingested_at": "2026-06-07",
+      "pages_created": [
+        "wiki/sources/leidner-kayworth-2006-culture-is-review.md",
+        "wiki/entities/Dorothy Leidner.md",
+        "wiki/entities/Timothy Kayworth.md",
+        "wiki/concepts/IT-Culture Conflict.md",
+        "wiki/concepts/Cultural Fit.md",
+        "wiki/concepts/IT Culture.md",
+        "wiki/concepts/Hofstede's Cultural Dimensions.md",
+        "wiki/mocs/Culture & IT MOC.md"
+      ],
+      "pages_updated": [
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md",
+        "wiki/mocs/Home MOC.md"
+      ]
     }
   },
   "address_map": {
@@ -1698,7 +1718,14 @@
     "wiki/concepts/Research Resource Identifier (RRID).md": "c-000589",
     "wiki/entities/UK Reproducibility Network.md": "c-000590",
     "wiki/entities/Robert T. Thibault.md": "c-000591",
-    "wiki/entities/Anita E. Bandrowski.md": "c-000592"
+    "wiki/entities/Anita E. Bandrowski.md": "c-000592",
+    "wiki/sources/leidner-kayworth-2006-culture-is-review.md": "c-000593",
+    "wiki/entities/Dorothy Leidner.md": "c-000594",
+    "wiki/entities/Timothy Kayworth.md": "c-000595",
+    "wiki/concepts/IT-Culture Conflict.md": "c-000596",
+    "wiki/concepts/Cultural Fit.md": "c-000597",
+    "wiki/concepts/IT Culture.md": "c-000598",
+    "wiki/concepts/Hofstede's Cultural Dimensions.md": "c-000599"
   },
   ".raw/Pearsall et al. - 2025 - A stimulus-based model of the team adaptation process An integrated conceptual review..pdf": {
     "hash": "62f683006d3323a67c67fc23621f632a",
