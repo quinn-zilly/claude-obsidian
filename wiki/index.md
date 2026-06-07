@@ -24,7 +24,7 @@ related:
 
 # Wiki Index
 
-Last updated: 2026-06-04 | Total pages: 409 | Sources ingested: 60
+Last updated: 2026-06-07 | Total pages: 419 | Sources ingested: 61
 
 Navigation: [[Home MOC]] | [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[getting-started]]
 
@@ -37,6 +37,9 @@ Navigation: [[Home MOC]] | [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[
 
 ## Concepts
 
+- [[Absorptive Capacity]] — firm's ability to identify, assimilate, transform, apply external knowledge (Cohen & Levinthal 1990); asset vs. capability fork; domain-specific, path-dependent (status: developing)
+- [[Dynamic Capabilities]] — capacity to create/extend/modify the resource base (Helfat et al. 2007); reconfigures substantive capabilities (status: developing)
+- [[Exploration vs Exploitation]] — twin pillars of organizational learning (March 1991); absorptive capacity biases toward exploitation (status: developing)
 - [[Prior Knowledge]] — double-edged: robust+accurate = foundation; inert/inaccurate/inappropriately activated = interference; CMU Eberly Principle 1 (status: evergreen)
 - [[Knowledge Organization]] — connection structure determines retrieval and transfer; accurate meaningful organization → fluent application; CMU Eberly Principle 2 (status: evergreen)
 - [[Motivation and Learning]] — tripartite: value × expectancy × perceived environmental support; CMU Eberly Principle 3; links to intrinsic motivation, self-efficacy, belonging (status: evergreen)
@@ -364,6 +367,12 @@ Navigation: [[Home MOC]] | [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[
 
 ## Entities
 
+- [[Wesley Cohen]] — co-originator of absorptive capacity; Cohen & Levinthal (1989/1990/1994)
+- [[Daniel Levinthal]] — co-originator of absorptive capacity; exploration/exploitation (Levinthal & March 1993)
+- [[Varun Grover]] — Clemson; Distinguished Professor of IS; IT value, technostress
+- [[Nicholas Roberts]] — USC Upstate; lead author, Roberts et al. (2012)
+- [[Pamela Galluch]] — Roanoke College; ICT, stress/coping, absorptive capacity
+- [[Michael Dinger]] — Henderson State; IT workforce, information security
 - [[Steven Kerr]] — organizational behavior scholar; "Folly of Rewarding A" (1975/1995); VP Corporate Management Development GE; AOM President 1989-90
 - [[Joep Cornelissen]] — VU Amsterdam / Rotterdam School of Management; framing, sensemaking, conceptual blending, corporate communication; Cornelissen & Werner 2014 (developing)
 - [[Mirjam Werner]] — University of Leeds POLIS; co-author of Cornelissen & Werner 2014 framing review (developing)
@@ -446,6 +455,7 @@ Navigation: [[Home MOC]] | [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[
 
 ## Sources
 
+- [[roberts-2012-absorptive-capacity-is-review|Roberts et al. (2012)]] — MIS Quarterly | review of absorptive capacity in IS (98 articles, 1990-2008); asset-vs-capability confusion; 4 themes; IT-capability × org-capability synergy framework + 4 propositions | 2026-06-07
 - [[thibault-2023-open-science-2-0|Thibault et al. (2023)]] — PLOS Biology | Open Science 2.0 essay; openness necessary-but-not-sufficient; Web1.0→2.0 analogy; 4 requirements + 7-point roadmap; data-sharing gap (1-3% actual); fund infrastructure not volunteers | 2026-06-07
 - [[arthur-et-al-2003-training-meta-analysis|Arthur, Bennett, Edens & Bell (2003)]] — Journal of Applied Psychology | meta-analysis of training design/evaluation features; d=0.60–0.63 across Kirkpatrick criteria; method×skill match, needs assessment, criterion type as moderators; 397 ds, 162 sources, 1960–2000 | 2026-06-04
 - [[shukla-et-al-2024-transfer-online-training|Shukla, Dash & Kumar (2024)]] — Human Resource Development Quarterly | systematic review + taxonomy of online training transfer factors; 33 articles, PRISMA; 4 categories (computer literacy/attitudes, learner characteristics, instructional design, org support); digital literacy = novel online-only category | 2026-06-04

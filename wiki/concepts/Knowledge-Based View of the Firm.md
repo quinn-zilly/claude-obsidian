@@ -13,6 +13,9 @@ related:
   - "[[Tacit vs Explicit Knowledge]]"
   - "[[zahra-2020-knowledge-integration]]"
   - "[[alavi-leidner-2001-knowledge-management]]"
+  - "[[Absorptive Capacity]]"
+  - "[[Dynamic Capabilities]]"
+  - "[[roberts-2012-absorptive-capacity-is-review]]"
   - "[[Institutional & Strategy MOC]]"
 ---
 

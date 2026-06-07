@@ -1214,6 +1214,33 @@
         "wiki/log.md",
         "wiki/mocs/Home MOC.md"
       ]
+    },
+    ".raw/Roberts et al. - 2012 - Absorptive Capacity and Information Systems Research Review, Synthesis, and Directions for Future R.md": {
+      "hash": "66df5dc818584572d4d684ef76d2c6ca",
+      "ingested_at": "2026-06-07",
+      "pages_created": [
+        "wiki/sources/roberts-2012-absorptive-capacity-is-review.md",
+        "wiki/concepts/Absorptive Capacity.md",
+        "wiki/concepts/Dynamic Capabilities.md",
+        "wiki/concepts/Exploration vs Exploitation.md",
+        "wiki/entities/Nicholas Roberts.md",
+        "wiki/entities/Pamela Galluch.md",
+        "wiki/entities/Michael Dinger.md",
+        "wiki/entities/Varun Grover.md",
+        "wiki/entities/Wesley Cohen.md",
+        "wiki/entities/Daniel Levinthal.md"
+      ],
+      "pages_updated": [
+        "wiki/concepts/Organizational Learning.md",
+        "wiki/concepts/Knowledge Transfer.md",
+        "wiki/concepts/Knowledge-Based View of the Firm.md",
+        "wiki/entities/Shaker Zahra.md",
+        "wiki/mocs/Knowledge Management MOC.md",
+        "wiki/sources/_index.md",
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md"
+      ]
     }
   },
   "address_map": {
@@ -1725,7 +1752,17 @@
     "wiki/concepts/IT-Culture Conflict.md": "c-000596",
     "wiki/concepts/Cultural Fit.md": "c-000597",
     "wiki/concepts/IT Culture.md": "c-000598",
-    "wiki/concepts/Hofstede's Cultural Dimensions.md": "c-000599"
+    "wiki/concepts/Hofstede's Cultural Dimensions.md": "c-000599",
+    "wiki/sources/roberts-2012-absorptive-capacity-is-review.md": "c-000600",
+    "wiki/concepts/Absorptive Capacity.md": "c-000601",
+    "wiki/concepts/Dynamic Capabilities.md": "c-000602",
+    "wiki/concepts/Exploration vs Exploitation.md": "c-000603",
+    "wiki/entities/Nicholas Roberts.md": "c-000604",
+    "wiki/entities/Pamela Galluch.md": "c-000605",
+    "wiki/entities/Michael Dinger.md": "c-000606",
+    "wiki/entities/Varun Grover.md": "c-000607",
+    "wiki/entities/Wesley Cohen.md": "c-000608",
+    "wiki/entities/Daniel Levinthal.md": "c-000609"
   },
   ".raw/Pearsall et al. - 2025 - A stimulus-based model of the team adaptation process An integrated conceptual review..pdf": {
     "hash": "62f683006d3323a67c67fc23621f632a",

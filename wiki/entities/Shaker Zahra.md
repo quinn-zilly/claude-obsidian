@@ -13,6 +13,8 @@ related:
   - "[[Knowledge Integration]]"
   - "[[Knowledge-Based View of the Firm]]"
   - "[[Organizational Learning]]"
+  - "[[Absorptive Capacity]]"
+  - "[[Dynamic Capabilities]]"
   - "[[zahra-2020-knowledge-integration]]"
 ---
 

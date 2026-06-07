@@ -38,6 +38,13 @@ This cluster maps how knowledge is captured, structured, remembered, and retriev
 - [[Memory Differentiation]]
 - [[DragonScale Memory]]
 
+## Absorptive capacity & dynamic capabilities
+
+- [[Absorptive Capacity]] — identify / assimilate / transform / apply external knowledge
+- [[Dynamic Capabilities]] — capacity to reconfigure the resource base
+- [[Exploration vs Exploitation]] — the twin pillars of organizational learning
+- [[roberts-2012-absorptive-capacity-is-review|Roberts et al. (2012)]] — absorptive capacity in IS research
+
 ## Knowledge graphs & linked data
 
 - [[Linked Open Data]]

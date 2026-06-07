@@ -18,6 +18,13 @@ Navigation: [[index]] | [[hot]] | [[overview]]
 
 Append-only. New entries go at the TOP. Never edit past entries.
 
+## [2026-06-07] ingest | Roberts et al. (2012) — Absorptive Capacity and IS Research
+- Source: `.raw/Roberts et al. - 2012 - Absorptive Capacity and Information Systems Research Review, Synthesis, and Directions for Future R.md`
+- Summary: [[roberts-2012-absorptive-capacity-is-review]]
+- Pages created: [[Absorptive Capacity]], [[Dynamic Capabilities]], [[Exploration vs Exploitation]], [[Nicholas Roberts]], [[Pamela Galluch]], [[Michael Dinger]], [[Varun Grover]], [[Wesley Cohen]], [[Daniel Levinthal]]
+- Pages updated: [[Organizational Learning]], [[Knowledge Transfer]], [[Knowledge-Based View of the Firm]], [[Shaker Zahra]], [[Knowledge Management MOC]], [[sources/_index]], [[index]], [[hot]]
+- Key insight: Absorptive capacity drifts in IS use because researchers conflate the asset view (prior-knowledge stock) with the capability view (routines to absorb); the corrective is to define it as a multidimensional collective capability and pair three IT capabilities (outside-in/spanning/inside-out) with coordination + socialization capabilities to name the missing IT artifact.
+
 ## [2026-06-07] ingest | Leidner & Kayworth (2006) — Culture in IS Research
 - Source: `.raw/Leidner-Kayworth-2006-Culture-IS-Review.md`
 - Summary: [[leidner-kayworth-2006-culture-is-review]]

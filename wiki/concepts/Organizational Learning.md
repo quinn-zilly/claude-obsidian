@@ -13,9 +13,12 @@ related:
   - "[[Transactive Memory Systems]]"
   - "[[Knowledge Integration]]"
   - "[[Tacit vs Explicit Knowledge]]"
+  - "[[Absorptive Capacity]]"
+  - "[[Exploration vs Exploitation]]"
   - "[[Linda Argote]]"
   - "[[argote-2011-org-learning-experience]]"
   - "[[argote-2021-organizational-learning]]"
+  - "[[roberts-2012-absorptive-capacity-is-review]]"
   - "[[Teams & Org Behavior MOC]]"
 ---
 

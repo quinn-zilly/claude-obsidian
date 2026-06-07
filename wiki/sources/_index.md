@@ -71,3 +71,7 @@ All source pages — summaries of ingested documents, transcripts, articles, and
 ---
 
 ## Add new sources here after each ingest.
+
+### Absorptive Capacity & IS Strategy
+
+- [[roberts-2012-absorptive-capacity-is-review|Roberts et al. (2012)]] — *MIS Quarterly* — review of [[Absorptive Capacity]] across 98 IS articles; asset-vs-capability confusion; four themes; IT-capability × organizational-capability synergy framework

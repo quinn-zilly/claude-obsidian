@@ -12,8 +12,10 @@ related:
   - "[[Knowledge Retention]]"
   - "[[Tacit vs Explicit Knowledge]]"
   - "[[Transactive Memory Systems]]"
+  - "[[Absorptive Capacity]]"
   - "[[argote-2021-organizational-learning]]"
   - "[[alavi-leidner-2001-knowledge-management]]"
+  - "[[roberts-2012-absorptive-capacity-is-review]]"
   - "[[Knowledge Management MOC]]"
 ---
 

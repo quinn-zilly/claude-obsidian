@@ -338,10 +338,9 @@ On a page rename, the skill must update the `address_map` key (old path -> new p
 
 ### Batch ingest
 
-<<<<<<< HEAD:.claude/skills/wiki-ingest/SKILL.md
+
 Assign addresses sequentially during single-source-ingest for each source. Do not pre-reserve a block of counter values. The helper is cheap (one lock, one integer read/write).
-=======
-Assign addresses sequentially during single-source-ingest for each source. Do not pre-reserve a block of counter values. The helper is cheap (one lock, one integer read/write).
+
 
 ---
 
@@ -361,4 +360,4 @@ When working on this skill, apply the 10-principle loop. See [`skills/think/SKIL
 | 8 | ACCEPT | Not every claim is wiki-worthy. Editorial judgment is part of ingest, not a bug to remove. |
 | 9 | CREATE | Source + entity + concept pages with full frontmatter; cross-references; contradiction callouts where needed. |
 | 10 | GROW | Contradictions found mid-ingest are the most valuable wiki signal. File them as questions for follow-up, not silently. |
->>>>>>> upstream/main:skills/wiki-ingest/SKILL.md
+
