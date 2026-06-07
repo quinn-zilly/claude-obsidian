@@ -33,6 +33,7 @@ Navigation: [[Home MOC]] | [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[
 ## Questions
 
 - [[knowledge-management-academic-science-problems-solutions]] — problems with KM in academic science (broken communication, publishability-over-truth incentives, non-scaling vertical model, openness-on-paper) and proposed solutions across the Scientific Utopia trilogy + Munafò manifesto + Open Science 2.0 (answer_quality: solid)
+- [[ideal-km-system-academic-research]] — the ideal KM system for academic research = Open Science 2.0 (modular versioned record, FAIR interoperability, distributed QC, specialized credited labor); answers goal-of-research, general KM theory, academia-specifics, and outside exemplars (GitHub, GenBank/UniProt/AlphaFold, Web 2.0) (answer_quality: solid)
 
 ## Concepts
 

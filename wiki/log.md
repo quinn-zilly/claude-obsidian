@@ -398,3 +398,8 @@ Parse recent entries: `grep "^## \[" wiki/log.md | head -10`
 - Created [[knowledge-management-academic-science-problems-solutions]] in wiki/questions/
 - Synthesizes: [[nosek-bar-anan-2012-scientific-utopia-i]], [[nosek-2012-scientific-utopia-ii]], [[uhlmann-2019-crowdsourcing-science]], [[munafo-2017-manifesto]], [[thibault-2023-open-science-2-0]]
 - Added Questions section + entry to [[index]]
+
+## 2026-06-07 — wiki-query: ideal KM system for academic research
+- Question filed: [[ideal-km-system-academic-research]] (Open Science 2.0 as target state + 4 sub-questions)
+- Pages updated: [[index]] (Questions section)
+- Related existing: [[knowledge-management-academic-science-problems-solutions]] (problems/solutions complement)
