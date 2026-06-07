@@ -7,6 +7,7 @@ tags:
   - index
 status: evergreen
 related:
+  - "[[Home MOC]]"
   - "[[overview]]"
   - "[[log]]"
   - "[[hot]]"
@@ -25,7 +26,7 @@ related:
 
 Last updated: 2026-06-04 | Total pages: 409 | Sources ingested: 60
 
-Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[getting-started]]
+Navigation: [[Home MOC]] | [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[getting-started]]
 
 ---
 
