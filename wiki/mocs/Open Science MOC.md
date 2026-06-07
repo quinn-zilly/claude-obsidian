@@ -24,7 +24,7 @@ This cluster maps the meta-science of how psychology and the social sciences pro
 - [[Replicability]]
 - [[Replication]]
 - [[Preregistration]]
-- [[The Preregistration Revolution]]
+- [[nosek-2018-preregistration|The Preregistration Revolution]]
 - [[Registered Reports]]
 - [[Publication Bias]]
 - [[Publication Bottleneck]]
@@ -33,12 +33,12 @@ This cluster maps the meta-science of how psychology and the social sciences pro
 - [[Questionable Research Practices]]
 - [[File-Drawer Problem]]
 - [[TOP Guidelines]]
-- [[Open Science Framework (OSF): Supporting Research from Hypothesis to Publication]]
-- [[Estimating the Reproducibility of Psychological Science]]
-- [[A Manifesto for Reproducible Science]]
-- [[Scientific Utopia I: Opening Scientific Communication]]
-- [[Scientific Utopia II: Restructuring Incentives and Practices to Promote Truth Over Publishability]]
-- [[Replicability, Robustness, and Reproducibility in Psychological Science]]
+- [[foster-deardorff-2017-osf|Open Science Framework (OSF): Supporting Research from Hypothesis to Publication]]
+- [[open-science-collaboration-2015|Estimating the Reproducibility of Psychological Science]]
+- [[munafo-2017-manifesto|A Manifesto for Reproducible Science]]
+- [[nosek-bar-anan-2012-scientific-utopia-i|Scientific Utopia I: Opening Scientific Communication]]
+- [[nosek-2012-scientific-utopia-ii|Scientific Utopia II: Restructuring Incentives and Practices to Promote Truth Over Publishability]]
+- [[nosek-2022-replicability-robustness-reproducibility|Replicability, Robustness, and Reproducibility in Psychological Science]]
 
 ## Key people
 
@@ -57,4 +57,4 @@ This cluster maps the meta-science of how psychology and the social sciences pro
 ## Open questions / frontier
 
 - How do open-science reforms interact with incentive structures in [[Institutional & Strategy MOC]]?
-- Which reforms have measurable downstream effects on replicability vs. which are aspirational?
+- Which reforms have measurable downstream effects on re

@@ -25,7 +25,7 @@ This cluster maps how people learn, how training works (and transfers), and how 
 - [[Testing Effect]]
 - [[Desirable Difficulties]]
 - [[New Theory of Disuse]]
-- [[Learning Versus Performance: An Integrative Review]]
+- [[soderstrom-bjork-2015-learning-vs-performance|Learning Versus Performance: An Integrative Review]]
 - [[Self-Directed Learning]]
 - [[Active Learning (Training)]]
 
@@ -37,9 +37,9 @@ This cluster maps how people learn, how training works (and transfers), and how 
 - [[Training Needs Analysis]]
 - [[Instructional Design]]
 - [[Kirkpatrick Four-Level Model]]
-- [[An Integrated Model of Training Evaluation and Effectiveness]]
-- [[Effectiveness of Training in Organizations: A Meta-Analysis of Design and Evaluation Features]]
-- [[100 Years of Training and Development Research: What We Know and Where We Should Go]]
+- [[alvarez-et-al-2004-training-evaluation-effectiveness|An Integrated Model of Training Evaluation and Effectiveness]]
+- [[arthur-et-al-2003-training-meta-analysis|Effectiveness of Training in Organizations: A Meta-Analysis of Design and Evaluation Features]]
+- [[bell-et-al-2017-100-years-training-development|100 Years of Training and Development Research: What We Know and Where We Should Go]]
 - [[Technology-Based Training]]
 
 ## On-the-job development
@@ -49,7 +49,7 @@ This cluster maps how people learn, how training works (and transfers), and how 
 - [[Training as Catalyst (OJD)]]
 - [[70-20-10 Rule]]
 - [[Stretch Experiences]]
-- [[After-Event Reviews: Drawing Lessons From Successful and Failed Experience]]
+- [[ellis-davidi-2005-after-event-reviews|After-Event Reviews: Drawing Lessons From Successful and Failed Experience]]
 - [[Learning Agility]]
 
 ## Adjacent MOCs

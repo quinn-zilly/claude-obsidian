@@ -8,37 +8,44 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:wiki/sources  ",
+      "query": "tag:#moc  ",
       "color": {
         "a": 1,
-        "rgb": 5431380
+        "rgb": 10506976
       }
     },
     {
       "query": "path:wiki/concepts  ",
       "color": {
         "a": 1,
-        "rgb": 14725458
+        "rgb": 14732626
       }
     },
     {
-      "query": "path:wiki/entities",
+      "query": "path:wiki/sources  ",
       "color": {
         "a": 1,
-        "rgb": 5401056
+        "rgb": 8708178
+      }
+    },
+    {
+      "query": "path:wiki/projects  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
       }
     }
   ],
   "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": -1.9,
-  "nodeSizeMultiplier": 0.954947916666667,
-  "lineSizeMultiplier": 0.240364583333333,
+  "textFadeMultiplier": -1,
+  "nodeSizeMultiplier": 1.00290909090909,
+  "lineSizeMultiplier": 0.165090909090909,
   "collapse-forces": false,
-  "centerStrength": 0.35139146567718,
-  "repelStrength": 10.6374768089054,
-  "linkStrength": 0.768229166666667,
-  "linkDistance": 266,
-  "scale": 0.13967376105607496,
+  "centerStrength": 0.345751391465677,
+  "repelStrength": 11.6645640074212,
+  "linkStrength": 0.763710575139147,
+  "linkDistance": 150,
+  "scale": 0.10260243633003632,
   "close": false
 }

@@ -42,7 +42,7 @@ This cluster maps how knowledge is captured, structured, remembered, and retriev
 
 - [[Linked Open Data]]
 - [[DBpedia]]
-- [[DBpedia – A Large-scale, Multilingual Knowledge Base Extracted from Wikipedia]]
+- [[lehmann-2015-dbpedia|DBpedia – A Large-scale, Multilingual Knowledge Base Extracted from Wikipedia]]
 
 ## Adjacent MOCs
 

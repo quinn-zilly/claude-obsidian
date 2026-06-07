@@ -33,8 +33,8 @@ This cluster maps how organizations and fields change, how strategy rests on kno
 
 - [[Knowledge-Based View of the Firm]]
 - [[Knowledge-Based Theory of the Firm]]
-- [[Toward a Knowledge-Based Theory of the Firm]]
-- [[What Are Microfoundations?]]
+- [[grant-1996-knowledge-based-theory|Toward a Knowledge-Based Theory of the Firm]]
+- [[barney-felin-2013-microfoundations|What Are Microfoundations?]]
 
 ## Framing & sensemaking
 
@@ -45,7 +45,7 @@ This cluster maps how organizations and fields change, how strategy rests on kno
 - [[Collective Action Frame]]
 - [[Framing Effects]]
 - [[Priming vs Framing]]
-- [[Putting Framing in Perspective: A Review of Framing and Frame Analysis across the Management and Organizational Literature]]
+- [[cornelissen-werner-2014-framing-review|Putting Framing in Perspective: A Review of Framing and Frame Analysis across the Management and Organizational Literature]]
 
 ## Careers
 
@@ -53,7 +53,7 @@ This cluster maps how organizations and fields change, how strategy rests on kno
 - [[Boundaryless Career]]
 - [[ABC Model of Careers]]
 - [[Person–Environment Fit]]
-- [[Mainiero & Sullivan (2005) — Kaleidoscope Careers]]
+- [[mainiero-sullivan-2005-kaleidoscope-careers|Mainiero & Sullivan (2005) — Kaleidoscope Careers]]
 
 ## Adjacent MOCs
 

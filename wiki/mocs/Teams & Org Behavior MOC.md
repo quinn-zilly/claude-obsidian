@@ -21,26 +21,26 @@ This cluster maps how groups in organizations adapt, coordinate, remember, and l
 ## Core notes
 
 - [[Team Adaptation (Stimulus-Based Model)]]
-- [[A Stimulus-Based Model of the Team Adaptation Process: An Integrated Conceptual Review]]
+- [[pearsall-christian-croitoru-2025-team-adaptation|A Stimulus-Based Model of the Team Adaptation Process: An Integrated Conceptual Review]]
 - [[Stimulus Detection (Team Adaptation)]]
 - [[Duration Assessment (Team Adaptation)]]
 - [[Knowledge and Skill Acquisition (Team Adaptation)]]
 - [[Reflexive Learning (Team Adaptation)]]
 - [[Emergent States (Teams)]]
 - [[Transactive Memory Systems]]
-- [[Transactive Memory Systems 1985–2010: An Integrative Framework]]
+- [[ren-argote-2011-tms|Transactive Memory Systems 1985–2010: An Integrative Framework]]
 - [[Teamwork Processes (Marks et al. Taxonomy)]]
-- [[A Meta-Analysis of Teamwork Processes: Tests of a Multidimensional Model and Relationships with Team Effectiveness Criteria]]
+- [[lepine-et-al-2008-teamwork-processes|A Meta-Analysis of Teamwork Processes: Tests of a Multidimensional Model and Relationships with Team Effectiveness Criteria]]
 - [[Psychological Safety]]
 - [[Sensemaking (Organizational)]]
 - [[Organizational Learning]]
-- [[Organizational Learning: From Experience to Knowledge]]
+- [[argote-miron-spektor-2011-org-learning-journal|Organizational Learning: From Experience to Knowledge]]
 - [[Organizational Memory]]
 
 ## Leadership sub-cluster
 
 - [[Three Waves of Leadership Research]]
-- [[Leadership in Applied Psychology: Three Waves of Theory and Research]]
+- [[lord-et-al-2017-leadership-in-applied-psychology|Leadership in Applied Psychology: Three Waves of Theory and Research]]
 - [[Shared Leadership]]
 - [[Implicit Leadership Theories]]
 - [[Contingency Theories of Leadership]]
