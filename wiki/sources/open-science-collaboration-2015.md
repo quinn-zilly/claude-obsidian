@@ -37,6 +37,8 @@ updated: unknown
 
 # Open Science Collaboration (2015) — Estimating the Reproducibility of Psychological Science
 
+## Estimating Reproducibility Abstract
+
 > [!key-insight] Core Claim
 > Only 36% of 100 attempted replications of published psychology studies produced statistically significant results in the same direction; replication effects were half the magnitude of originals. Replication success was predicted by strength of original evidence, not team expertise.
 

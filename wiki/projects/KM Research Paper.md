@@ -24,3 +24,30 @@ updated: 2026-06-03
 - What changes need to be made?
 	- What are the most critical changes?
 	- What are the next small wins?
+
+# Draft
+
+![[nosek-bar-anan-2012-scientific-utopia-i#Five Inefficiencies of Current System]]
+
+![[nosek-bar-anan-2012-scientific-utopia-i#Six Proposed Changes]]
+
+![[nosek-bar-anan-2012-scientific-utopia-i#Theoretical Framing]]
+
+![[nosek-2012-scientific-utopia-ii#Core Problem Incentive Misalignment]]
+
+![[nosek-2012-scientific-utopia-ii#Problems with Current Practices]]
+
+![[nosek-2012-scientific-utopia-ii#Strategies That Won't Work (Or Not Enough)]]
+
+![[nosek-2012-scientific-utopia-ii#Solutions Restructuring Incentives and Practices]]
+
+![[Compounding Knowledge#Compounding Knowledge]]
+
+![[Institutional Isomorphism#Institutional Isomorphism]]
+
+![[Crowdsourcing Science#Crowdsourcing Science]]
+
+![[open-science-collaboration-2015#Estimating Reproducibility Abstract]]
+
+![[munafo-2017-manifesto#Summary]]
+

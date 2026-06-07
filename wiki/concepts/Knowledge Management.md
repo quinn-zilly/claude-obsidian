@@ -20,7 +20,7 @@ related:
 
 ## Definition
 
-Knowledge management (KM) is the deliberate organizational effort to identify, create, represent, distribute, and enable adoption of knowledge — both tacit and explicit — within and across organizations. The goal is to leverage knowledge assets for competitive advantage. ^6JOLfGYm
+Knowledge management (KM) is the deliberate organizational effort to identify, create, represent, distribute, and enable adoption of knowledge — both tacit and explicit — within and across organizations. The goal is to leverage knowledge assets for competitive advantage. 
 
 **Alavi & Leidner (2001):** KM is the process of creating, storing, transferring, and applying organizational knowledge, supported by information technologies (knowledge management systems, KMS).
 
