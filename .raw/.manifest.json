@@ -1171,6 +1171,29 @@
       "ingested": "2026-06-04",
       "wiki_page": "wiki/sources/mainiero-sullivan-2005-kaleidoscope-careers.md",
       "address": "c-000395"
+    },
+    ".raw/Thibault et al. - 2023 - Open Science 2.0 Towards a truly collaborative research ecosystem.md": {
+      "hash": "fad5f81f88279aad46452a4d7a7c4cba",
+      "ingested_at": "2026-06-07",
+      "pages_created": [
+        "wiki/sources/thibault-2023-open-science-2-0.md",
+        "wiki/concepts/Open Science 2.0.md",
+        "wiki/concepts/CRediT.md",
+        "wiki/concepts/FAIR Principles.md",
+        "wiki/concepts/Reproducibility Networks.md",
+        "wiki/concepts/Meta-Research.md",
+        "wiki/concepts/Big Team Science.md",
+        "wiki/concepts/Research Resource Identifier (RRID).md",
+        "wiki/entities/UK Reproducibility Network.md",
+        "wiki/entities/Robert T. Thibault.md",
+        "wiki/entities/Anita E. Bandrowski.md"
+      ],
+      "pages_updated": [
+        "wiki/mocs/Open Science MOC.md",
+        "wiki/index.md",
+        "wiki/log.md",
+        "wiki/hot.md"
+      ]
     }
   },
   "address_map": {
@@ -1664,7 +1687,18 @@
     "wiki/concepts/Principal-Agent Problem.md": "c-000578",
     "wiki/concepts/Incentive Compatibility.md": "c-000579",
     "wiki/concepts/Construct Proliferation.md": "c-000580",
-    "wiki/concepts/Open Methods and Tools.md": "c-000581"
+    "wiki/concepts/Open Methods and Tools.md": "c-000581",
+    "wiki/sources/thibault-2023-open-science-2-0.md": "c-000582",
+    "wiki/concepts/Open Science 2.0.md": "c-000583",
+    "wiki/concepts/CRediT.md": "c-000584",
+    "wiki/concepts/FAIR Principles.md": "c-000585",
+    "wiki/concepts/Reproducibility Networks.md": "c-000586",
+    "wiki/concepts/Meta-Research.md": "c-000587",
+    "wiki/concepts/Big Team Science.md": "c-000588",
+    "wiki/concepts/Research Resource Identifier (RRID).md": "c-000589",
+    "wiki/entities/UK Reproducibility Network.md": "c-000590",
+    "wiki/entities/Robert T. Thibault.md": "c-000591",
+    "wiki/entities/Anita E. Bandrowski.md": "c-000592"
   },
   ".raw/Pearsall et al. - 2025 - A stimulus-based model of the team adaptation process An integrated conceptual review..pdf": {
     "hash": "62f683006d3323a67c67fc23621f632a",

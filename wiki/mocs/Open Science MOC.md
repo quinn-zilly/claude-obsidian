@@ -39,6 +39,17 @@ This cluster maps the meta-science of how psychology and the social sciences pro
 - [[nosek-bar-anan-2012-scientific-utopia-i|Scientific Utopia I: Opening Scientific Communication]]
 - [[nosek-2012-scientific-utopia-ii|Scientific Utopia II: Restructuring Incentives and Practices to Promote Truth Over Publishability]]
 - [[nosek-2022-replicability-robustness-reproducibility|Replicability, Robustness, and Reproducibility in Psychological Science]]
+- [[thibault-2023-open-science-2-0|Open Science 2.0: Towards a Truly Collaborative Research Ecosystem]]
+
+## Toward Open Science 2.0 (reform infrastructure)
+
+- [[Open Science 2.0]]
+- [[CRediT]]
+- [[FAIR Principles]]
+- [[Reproducibility Networks]]
+- [[Meta-Research]]
+- [[Big Team Science]]
+- [[Research Resource Identifier (RRID)]]
 
 ## Key people
 
@@ -48,6 +59,9 @@ This cluster maps the meta-science of how psychology and the social sciences pro
 - [[Simine Vazire]]
 - [[Center for Open Science]]
 - [[Open Science Collaboration]]
+- [[Robert T. Thibault]]
+- [[Anita E. Bandrowski]]
+- [[UK Reproducibility Network]]
 
 ## Adjacent MOCs
 

@@ -30,6 +30,10 @@ Navigation: [[Home MOC]] | [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[
 
 ---
 
+## Questions
+
+- [[knowledge-management-academic-science-problems-solutions]] — problems with KM in academic science (broken communication, publishability-over-truth incentives, non-scaling vertical model, openness-on-paper) and proposed solutions across the Scientific Utopia trilogy + Munafò manifesto + Open Science 2.0 (answer_quality: solid)
+
 ## Concepts
 
 - [[Prior Knowledge]] — double-edged: robust+accurate = foundation; inert/inaccurate/inappropriately activated = interference; CMU Eberly Principle 1 (status: evergreen)
@@ -144,6 +148,13 @@ Navigation: [[Home MOC]] | [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[
 - [[Effect Size Heterogeneity]] — effect sizes vary by person, context, and lab; theoretically meaningful, not mere noise; key for replication interpretation (developing)
 - [[Replication Types Taxonomy]] — direct/exact → systematic → conceptual continuum; all informative; different inferences (developing)
 - [[Open Science]] — transparency, open data, preregistration; reform movement for credible knowledge accumulation (mature)
+- [[Open Science 2.0]] — target ecosystem (Thibault 2023); openness + active collaboration on each other's scholarship; Web 2.0 analogy; means not an end (developing)
+- [[CRediT]] — Contributor Roles Taxonomy; 14 standardized roles; contributorship over authorship; enables team science + meta-research (developing)
+- [[FAIR Principles]] — Findable/Accessible/Interoperable/Reusable; makes shared data machine-integrable; openness ≠ FAIR (developing)
+- [[Reproducibility Networks]] — national bottom-up consortiums driving rigor; UKRN secured £4.5M from Research England (developing)
+- [[Meta-Research]] — research-on-research; iterative problem→solution→test loop; open-data-badge cycle; tests if reforms actually work (developing)
+- [[Big Team Science]] — large role-specialized teams vs PI-apprenticeship model; UK Biobank, BIDS, PSA; funding gap (developing)
+- [[Research Resource Identifier (RRID)]] — persistent reagent IDs; trackability 15%→~50%; grassroots success case study (developing)
 - [[Preregistration]] — committing to research design before data collection; separates confirmatory from exploratory (mature)
 - [[Conflict of Interest in Science]] — fundamental tension between personal incentive (publication) and institutional goal (accuracy); misalignment causes [[Motivated Reasoning]] and [[P-hacking]]; resolved via [[Open Workflow]], open data, incentive restructuring (developing)
 - [[Motivated Reasoning]] — unconscious cognitive bias toward conclusions we're motivated to reach; ordinary human psychology that explains how [[Publication Bias]] becomes systematic despite ethical intent (developing)
@@ -376,6 +387,9 @@ Navigation: [[Home MOC]] | [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[
 - [[Ella Miron-Spektor]] — Bar-Ilan University; organizational learning, creativity, teams (developing)
 - [[Frank Bosco]] — Virginia Commonwealth University; metaBUS lead developer (developing)
 - [[Brian Nosek]] — UVA / Center for Open Science; OSC 2015; preregistration revolution; Scientific Utopia series (developing)
+- [[Robert T. Thibault]] — Stanford METRICS; meta-researcher; lead author of Open Science 2.0 (2023) (stub)
+- [[Anita E. Bandrowski]] — UCSD / SciCrunch CEO; driving force behind the RRID initiative (stub)
+- [[UK Reproducibility Network]] — first national reproducibility network; £4.5M Research England investment; co-founded by Munafò (developing)
 - [[Yoav Bar-Anan]] — Ben-Gurion University; social psychologist; co-author Scientific Utopia I (developing)
 - [[Etienne LeBel]] — Western University; credibility framework; curatescience.org (developing)
 - [[Jens Lehmann]] — Leipzig/Bonn; DBpedia primary architect (developing)
@@ -425,6 +439,7 @@ Navigation: [[Home MOC]] | [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[
 
 ## Sources
 
+- [[thibault-2023-open-science-2-0|Thibault et al. (2023)]] — PLOS Biology | Open Science 2.0 essay; openness necessary-but-not-sufficient; Web1.0→2.0 analogy; 4 requirements + 7-point roadmap; data-sharing gap (1-3% actual); fund infrastructure not volunteers | 2026-06-07
 - [[arthur-et-al-2003-training-meta-analysis|Arthur, Bennett, Edens & Bell (2003)]] — Journal of Applied Psychology | meta-analysis of training design/evaluation features; d=0.60–0.63 across Kirkpatrick criteria; method×skill match, needs assessment, criterion type as moderators; 397 ds, 162 sources, 1960–2000 | 2026-06-04
 - [[shukla-et-al-2024-transfer-online-training|Shukla, Dash & Kumar (2024)]] — Human Resource Development Quarterly | systematic review + taxonomy of online training transfer factors; 33 articles, PRISMA; 4 categories (computer literacy/attitudes, learner characteristics, instructional design, org support); digital literacy = novel online-only category | 2026-06-04
 - [[cheng-et-al-2019-diversity-training-myths|Cheng et al. (2019)]] — Organizational Dynamics | 19 diversity training myths debunked; myth-centered review; effectiveness/content/design&delivery categories; Bezrukova 2016 meta-analysis g=.38 | 2026-06-04

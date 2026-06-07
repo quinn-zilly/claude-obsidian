@@ -22,6 +22,13 @@ Entry format: `## [YYYY-MM-DD] operation | Title`
 
 Parse recent entries: `grep "^## \[" wiki/log.md | head -10`
 
+## [2026-06-07] ingest | Open Science 2.0 (Thibault et al. 2023)
+- Source: `.raw/Thibault et al. - 2023 - Open Science 2.0 Towards a truly collaborative research ecosystem.md`
+- Summary: [[thibault-2023-open-science-2-0]]
+- Pages created: [[Open Science 2.0]], [[CRediT]], [[FAIR Principles]], [[Reproducibility Networks]], [[Meta-Research]], [[Big Team Science]], [[Research Resource Identifier (RRID)]], [[UK Reproducibility Network]], [[Robert T. Thibault]], [[Anita E. Bandrowski]]
+- Pages updated: [[Open Science MOC]], [[index]], [[hot]]
+- Key insight: Openness is necessary but not sufficient — Open Science 2.0 targets an ecosystem where transparency permeates the whole process AND researchers actively collaborate on each other's open scholarship, sustained by public funding rather than volunteers.
+
 ## [2026-06-05] fold | batch-exponent-k5 rollup of 32 entries
 - Location: wiki/folds/fold-k5-from-2026-05-23-to-2026-06-04-n32.md
 - Range: 2026-05-23 to 2026-06-04
@@ -386,3 +393,8 @@ Parse recent entries: `grep "^## \[" wiki/log.md | head -10`
 - Addresses assigned: c-000003 through c-000017 (15 pages)
 - Key insight: All four sources converge on the tacit/explicit distinction as the central design variable for knowledge management. Argote's experience-context-knowledge cycle provides a unifying framework for organizational learning; Alavi & Leidner's process view gives IT its role within that framework; Zahra et al. show that micro and macro perspectives on knowledge integration have largely talked past each other.
 
+
+## 2026-06-07 — Filed question answer (wiki-query)
+- Created [[knowledge-management-academic-science-problems-solutions]] in wiki/questions/
+- Synthesizes: [[nosek-bar-anan-2012-scientific-utopia-i]], [[nosek-2012-scientific-utopia-ii]], [[uhlmann-2019-crowdsourcing-science]], [[munafo-2017-manifesto]], [[thibault-2023-open-science-2-0]]
+- Added Questions section + entry to [[index]]
