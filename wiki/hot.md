@@ -1,9 +1,15 @@
 ---
 type: meta
-title: "Hot Cache"
-
+title: Hot Cache
 status: evergreen
-related: ["[[index]]","[[log]]","[[Wiki Map]]","[[getting-started]]","[[DragonScale Memory]]"]
+related:
+  - "[[index]]"
+  - "[[log]]"
+  - "[[Wiki Map]]"
+  - "[[getting-started]]"
+  - "[[DragonScale Memory]]"
+tags:
+  - meta
 ---
 
 # Hot Cache
