@@ -19,6 +19,13 @@ Navigation: [[index]] | [[hot]] | [[overview]]
 
 Append-only. New entries go at the TOP. Never edit past entries.
 
+## [2026-06-08] ingest | False-Positive Psychology (Simmons et al. 2011)
+- Source: `.raw/Simmons et al. - 2011 - False-Positive Psychology...md`
+- Summary: [[simmons-et-al-2011-false-positive-psychology]]
+- Pages created: [[Researcher Degrees of Freedom]], [[Joseph P. Simmons]], [[Leif D. Nelson]], [[Uri Simonsohn]]
+- Pages updated: [[P-hacking]], [[Questionable Research Practices]], [[Preregistration]], [[Open Science MOC]], [[index]]
+- Key insight: Coined "researcher degrees of freedom"; 4 common RDFs combine to a 61% false-positive rate; fix is disclosure (6 author requirements + 4 reviewer guidelines), not new statistics.
+
 ## [2026-06-08] ingest | Basson et al. (2022) — Data sources & OA measurement (Dimensions vs WoS)
 - Source: `.raw/Basson et al. - 2022 - The effect of data sources on the measurement of open access A comparison of Dimensions and the Web.md`
 - Summary: [[basson-et-al-2022-oa-dimensions-wos|Basson et al. (2022)]]

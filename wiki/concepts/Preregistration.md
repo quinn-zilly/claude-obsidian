@@ -17,6 +17,8 @@ related:
   - "[[Publication Bias]]"
   - "[[P-hacking]]"
   - "[[HARKing]]"
+  - "[[Researcher Degrees of Freedom]]"
+  - "[[simmons-et-al-2011-false-positive-psychology]]"
   - "[[Open Science]]"
   - "[[nosek-2018-preregistration]]"
   - "[[munafo-2017-manifesto]]"

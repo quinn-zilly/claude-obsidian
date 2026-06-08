@@ -32,6 +32,8 @@ This cluster maps the meta-science of how psychology and the social sciences pro
 - [[Publication Bias]]
 - [[Publication Bottleneck]]
 - [[P-hacking]]
+- [[Researcher Degrees of Freedom]]
+- [[simmons-et-al-2011-false-positive-psychology|False-Positive Psychology (Simmons et al. 2011)]]
 - [[HARKing]]
 - [[Questionable Research Practices]]
 - [[File-Drawer Problem]]

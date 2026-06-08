@@ -33,7 +33,7 @@ QRPs are relatively common; but longitudinal trend unclear (most surveys ask "ev
 
 ## Mechanism
 
-QRPs are **ordinary psychology under misaligned incentives** — not fraud requiring conscious intent. Publication pressure + analytic flexibility + no audit trail → rational exploitation of researcher degrees of freedom. Aligns with Giner-Sorolla (2012) [[Publication Bottleneck]] argument and Nosek et al. 2012 [[Conflict of Interest in Science]].
+QRPs are **ordinary psychology under misaligned incentives** — not fraud requiring conscious intent. Publication pressure + analytic flexibility + no audit trail → rational exploitation of [[Researcher Degrees of Freedom]] (Simmons et al. 2011). Aligns with Giner-Sorolla (2012) [[Publication Bottleneck]] argument and Nosek et al. 2012 [[Conflict of Interest in Science]].
 
 ## Why QRPs Reduce Replicability
 

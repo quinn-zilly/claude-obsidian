@@ -178,6 +178,7 @@ Navigation: [[Home MOC]] | [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[
 - [[Registered Reports]] — in-principle journal acceptance before results known; eliminates publication bias (developing)
 - [[Publication Bias]] — file drawer problem; positive results disproportionately published; inflates effect sizes (developing)
 - [[P-hacking]] — analytic flexibility inflating false-positive rates; garden of forking paths (developing)
+- [[Researcher Degrees of Freedom]] — Simmons et al. 2011 coinage; defensible analytic choice points exploited toward significance; 4 common RDFs → 61% false-positive rate (developing)
 - [[HARKing]] — Hypothesizing After Results are Known; post-hoc hypotheses presented as a priori; three forms: classic, omission, pirating (mature)
 - [[Analytic Reproducibility]] — reproducing published results from same data; second dimension of credibility framework (developing)
 - [[Open Access]] — freely accessible scientific literature; gold vs green OA models; $900M savings argument; pillar of open science; OA measurement is database-dependent (developing)

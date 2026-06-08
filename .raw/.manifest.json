@@ -1290,6 +1290,26 @@
         "wiki/hot.md",
         "wiki/log.md"
       ]
+    },
+    ".raw/Simmons et al. - 2011 - False-Positive Psychology Undisclosed Flexibility in Data Collection and Analysis Allows Presenting.md": {
+      "hash": "1e83d5e63082c11b745929694dea9b3a",
+      "ingested_at": "2026-06-08",
+      "pages_created": [
+        "wiki/sources/simmons-et-al-2011-false-positive-psychology.md",
+        "wiki/concepts/Researcher Degrees of Freedom.md",
+        "wiki/entities/Joseph P. Simmons.md",
+        "wiki/entities/Leif D. Nelson.md",
+        "wiki/entities/Uri Simonsohn.md"
+      ],
+      "pages_updated": [
+        "wiki/concepts/P-hacking.md",
+        "wiki/concepts/Questionable Research Practices.md",
+        "wiki/concepts/Preregistration.md",
+        "wiki/mocs/Open Science MOC.md",
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md"
+      ]
     }
   },
   "address_map": {
@@ -1832,7 +1852,12 @@
     "wiki/entities/Unpaywall.md": "c-000639",
     "wiki/concepts/Bibliometric Database Coverage.md": "c-000640",
     "wiki/concepts/OA Type Classification.md": "c-000641",
-    "wiki/concepts/Geographic Bias in Indexing.md": "c-000642"
+    "wiki/concepts/Geographic Bias in Indexing.md": "c-000642",
+    "wiki/sources/simmons-et-al-2011-false-positive-psychology.md": "c-000643",
+    "wiki/concepts/Researcher Degrees of Freedom.md": "c-000644",
+    "wiki/entities/Joseph P. Simmons.md": "c-000645",
+    "wiki/entities/Leif D. Nelson.md": "c-000646",
+    "wiki/entities/Uri Simonsohn.md": "c-000647"
   },
   ".raw/Pearsall et al. - 2025 - A stimulus-based model of the team adaptation process An integrated conceptual review..pdf": {
     "hash": "62f683006d3323a67c67fc23621f632a",

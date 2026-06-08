@@ -15,6 +15,8 @@ related:
   - "[[Preregistration]]"
   - "[[Analytic Reproducibility]]"
   - "[[Replication Crisis]]"
+  - "[[Researcher Degrees of Freedom]]"
+  - "[[simmons-et-al-2011-false-positive-psychology]]"
   - "[[munafo-2017-manifesto]]"
   - "[[nosek-2018-preregistration]]"
   - "[[Open Science MOC]]"
@@ -28,7 +30,7 @@ P-hacking (also called **data dredging** or **analytic flexibility**) is the pra
 
 ## Mechanisms
 
-P-hacking does not require deliberate fraud. It arises naturally from the combination of:
+P-hacking is the act of exploiting [[Researcher Degrees of Freedom]] — the defensible analytic choice points named by [[simmons-et-al-2011-false-positive-psychology|Simmons et al. (2011)]], who showed four common ones combine to a 61% false-positive rate. It does not require deliberate fraud. It arises naturally from the combination of:
 - Many legitimate analytical choices (exclusion criteria, covariate sets, measurement operationalizations, analysis window endpoints)
 - Confirmation and hindsight bias (analysts accept results matching expectations, reject others as "artifacts")
 - Incentives that reward significant results

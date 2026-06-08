@@ -28,6 +28,9 @@ created: 2026-06-03
 
 # Outline
 
+- The primary objective of science as a discipline is to accumulate knowledge about nature [[nosek-2012-scientific-utopia-ii]]. 
+- 
+
 
 # Sources
 
