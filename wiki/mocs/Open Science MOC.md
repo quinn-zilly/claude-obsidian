@@ -43,6 +43,17 @@ This cluster maps the meta-science of how psychology and the social sciences pro
 - [[nosek-2012-scientific-utopia-ii|Scientific Utopia II: Restructuring Incentives and Practices to Promote Truth Over Publishability]]
 - [[nosek-2022-replicability-robustness-reproducibility|Replicability, Robustness, and Reproducibility in Psychological Science]]
 - [[thibault-2023-open-science-2-0|Open Science 2.0: Towards a Truly Collaborative Research Ecosystem]]
+- [[basson-et-al-2022-oa-dimensions-wos|The Effect of Data Sources on the Measurement of Open Access (Dimensions vs WoS)]]
+
+## Open access & its measurement
+
+- [[Open Access]]
+- [[OA Type Classification]]
+- [[Bibliometric Database Coverage]]
+- [[Geographic Bias in Indexing]]
+- [[Dimensions]]
+- [[Web of Science]]
+- [[Unpaywall]]
 
 ## Toward Open Science 2.0 (reform infrastructure)
 

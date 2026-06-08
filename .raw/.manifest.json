@@ -1265,6 +1265,31 @@
         "wiki/entities/_index.md",
         "wiki/concepts/_index.md"
       ]
+    },
+    ".raw/Basson et al. - 2022 - The effect of data sources on the measurement of open access A comparison of Dimensions and the Web.md": {
+      "hash": "99a307b3f355c50d4ef6148be4a146e7",
+      "ingested_at": "2026-06-08",
+      "pages_created": [
+        "wiki/sources/basson-et-al-2022-oa-dimensions-wos.md",
+        "wiki/entities/Isabel Basson.md",
+        "wiki/entities/Marc-André Simard.md",
+        "wiki/entities/Zoé Aubierge Ouangré.md",
+        "wiki/entities/Cassidy R. Sugimoto.md",
+        "wiki/entities/Vincent Larivière.md",
+        "wiki/entities/Dimensions.md",
+        "wiki/entities/Web of Science.md",
+        "wiki/entities/Unpaywall.md",
+        "wiki/concepts/Bibliometric Database Coverage.md",
+        "wiki/concepts/OA Type Classification.md",
+        "wiki/concepts/Geographic Bias in Indexing.md"
+      ],
+      "pages_updated": [
+        "wiki/concepts/Open Access.md",
+        "wiki/mocs/Open Science MOC.md",
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md"
+      ]
     }
   },
   "address_map": {
@@ -1795,7 +1820,19 @@
     "wiki/concepts/Technology Acceptance Model.md": "c-000618",
     "wiki/concepts/Facilitating Conditions.md": "c-000619",
     "wiki/entities/Yogesh Dwivedi.md": "c-000612",
-    "wiki/entities/Viswanath Venkatesh.md": "c-000613"
+    "wiki/entities/Viswanath Venkatesh.md": "c-000613",
+    "wiki/sources/basson-et-al-2022-oa-dimensions-wos.md": "c-000631",
+    "wiki/entities/Isabel Basson.md": "c-000632",
+    "wiki/entities/Marc-André Simard.md": "c-000633",
+    "wiki/entities/Zoé Aubierge Ouangré.md": "c-000634",
+    "wiki/entities/Cassidy R. Sugimoto.md": "c-000635",
+    "wiki/entities/Vincent Larivière.md": "c-000636",
+    "wiki/entities/Dimensions.md": "c-000637",
+    "wiki/entities/Web of Science.md": "c-000638",
+    "wiki/entities/Unpaywall.md": "c-000639",
+    "wiki/concepts/Bibliometric Database Coverage.md": "c-000640",
+    "wiki/concepts/OA Type Classification.md": "c-000641",
+    "wiki/concepts/Geographic Bias in Indexing.md": "c-000642"
   },
   ".raw/Pearsall et al. - 2025 - A stimulus-based model of the team adaptation process An integrated conceptual review..pdf": {
     "hash": "62f683006d3323a67c67fc23621f632a",

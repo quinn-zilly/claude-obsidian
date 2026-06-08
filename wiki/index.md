@@ -180,7 +180,10 @@ Navigation: [[Home MOC]] | [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[
 - [[P-hacking]] — analytic flexibility inflating false-positive rates; garden of forking paths (developing)
 - [[HARKing]] — Hypothesizing After Results are Known; post-hoc hypotheses presented as a priori; three forms: classic, omission, pirating (mature)
 - [[Analytic Reproducibility]] — reproducing published results from same data; second dimension of credibility framework (developing)
-- [[Open Access]] — freely accessible scientific literature; gold vs green OA models; $900M savings argument; pillar of open science (developing)
+- [[Open Access]] — freely accessible scientific literature; gold vs green OA models; $900M savings argument; pillar of open science; OA measurement is database-dependent (developing)
+- [[OA Type Classification]] — Unpaywall five-route scheme: gold / green-only / hybrid / bronze / closed; mix is diagnostic of self-archiving vs journal-OA culture (developing)
+- [[Bibliometric Database Coverage]] — selective (WoS, Scopus) vs comprehensive (Dimensions, DOI-keyed) indexing; what a database covers shapes what studies can measure (developing)
+- [[Geographic Bias in Indexing]] — selective databases under-represent non-Western/developing-country journals; understates global-South OA uptake; equity stakes (developing)
 - [[Scientific Communication Reform]] — unbundling registration, dissemination, peer review, and archiving; six reforms from Nosek & Bar-Anan (developing)
 - [[Open Science Framework]] — osf.io; platform for preregistration, open data, and research collaboration (developing)
 - [[metaBUS]] — 1M+ curated bivariate findings from applied psychology; rapid meta-analysis infrastructure (developing)
@@ -414,6 +417,14 @@ Navigation: [[Home MOC]] | [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[
 - [[Brian Nosek]] — UVA / Center for Open Science; OSC 2015; preregistration revolution; Scientific Utopia series (developing)
 - [[Robert T. Thibault]] — Stanford METRICS; meta-researcher; lead author of Open Science 2.0 (2023) (stub)
 - [[Anita E. Bandrowski]] — UCSD / SciCrunch CEO; driving force behind the RRID initiative (stub)
+- [[Isabel Basson]] — Université de Montréal / Stellenbosch; scientometrics; first author of OA-measurement Dimensions-vs-WoS study (stub)
+- [[Marc-André Simard]] — Université de Montréal; scientometrics; WoS–Unpaywall OA linkage method (stub)
+- [[Zoé Aubierge Ouangré]] — Université de Montréal; information science; research access in developing countries (stub)
+- [[Cassidy R. Sugimoto]] — Georgia Tech; scientometrics & science policy; co-author Measuring Research (stub)
+- [[Vincent Larivière]] — Université de Montréal; major scientometrics figure; OA measurement & bibliometrics (stub)
+- [[Dimensions]] — Digital Science; broadest bibliometric database; DOI-keyed inclusion via Crossref (stub)
+- [[Web of Science]] — Clarivate; citation-selective bibliometric database; descends from Garfield's SCI; Western bias (stub)
+- [[Unpaywall]] — DOI-keyed open database of OA status; source of the five-category OA classification (stub)
 - [[UK Reproducibility Network]] — first national reproducibility network; £4.5M Research England investment; co-founded by Munafò (developing)
 - [[Yoav Bar-Anan]] — Ben-Gurion University; social psychologist; co-author Scientific Utopia I (developing)
 - [[Etienne LeBel]] — Western University; credibility framework; curatescience.org (developing)
@@ -464,6 +475,7 @@ Navigation: [[Home MOC]] | [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[
 
 ## Sources
 
+- [[basson-et-al-2022-oa-dimensions-wos|Basson et al. (2022)]] — PLOS ONE | OA measurement is database-dependent; Dimensions vs WoS, 2015–2019; overall OA 46.6% vs 43.4%; gap largest for global South (S.Asia +57.9%); WoS Western indexing bias; green-only higher in WoS, bronze higher in Dimensions | 2026-06-08
 - [[dwivedi-2019-utaut-revision|Dwivedi et al. (2019)]] — Information Systems Frontiers | critical review + MASEM of UTAUT (1600 obs, 21 relationships, 162 studies); reinstates attitude as mediator; adds FC→BI; emergent AT→UB, FC→AT, SI→AT; R² BI 38→45%, UB 21→27% | 2026-06-07
 - [[roberts-2012-absorptive-capacity-is-review|Roberts et al. (2012)]] — MIS Quarterly | review of absorptive capacity in IS (98 articles, 1990-2008); asset-vs-capability confusion; 4 themes; IT-capability × org-capability synergy framework + 4 propositions | 2026-06-07
 - [[thibault-2023-open-science-2-0|Thibault et al. (2023)]] — PLOS Biology | Open Science 2.0 essay; openness necessary-but-not-sufficient; Web1.0→2.0 analogy; 4 requirements + 7-point roadmap; data-sharing gap (1-3% actual); fund infrastructure not volunteers | 2026-06-07

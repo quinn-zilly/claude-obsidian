@@ -19,6 +19,13 @@ Navigation: [[index]] | [[hot]] | [[overview]]
 
 Append-only. New entries go at the TOP. Never edit past entries.
 
+## [2026-06-08] ingest | Basson et al. (2022) — Data sources & OA measurement (Dimensions vs WoS)
+- Source: `.raw/Basson et al. - 2022 - The effect of data sources on the measurement of open access A comparison of Dimensions and the Web.md`
+- Summary: [[basson-et-al-2022-oa-dimensions-wos|Basson et al. (2022)]]
+- Pages created: [[basson-et-al-2022-oa-dimensions-wos]], [[Isabel Basson]], [[Marc-André Simard]], [[Zoé Aubierge Ouangré]], [[Cassidy R. Sugimoto]], [[Vincent Larivière]], [[Dimensions]], [[Web of Science]], [[Unpaywall]], [[Bibliometric Database Coverage]], [[OA Type Classification]], [[Geographic Bias in Indexing]]
+- Pages updated: [[Open Access]], [[Open Science MOC]], [[index]], [[hot]]
+- Key insight: OA prevalence is database-dependent — Dimensions reports more OA than WoS (46.6% vs 43.4%), gap largest for the global South (South Asia +57.9%) due to WoS's Western indexing bias.
+
 ## [2026-06-07] ingest | Dwivedi et al. (2019) — Re-examining UTAUT
 - Source: `.raw/Dwivedi et al. - 2019 - Re-examining the Unified Theory of Acceptance and Use of Technology (UTAUT) Towards a Revised Theor.md`
 - Summary: [[dwivedi-2019-utaut-revision|Dwivedi et al. (2019)]]

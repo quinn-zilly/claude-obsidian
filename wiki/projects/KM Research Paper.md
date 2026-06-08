@@ -26,29 +26,36 @@ created: 2026-06-03
 	- What are the most critical changes?
 	- What are the next small wins?
 
-# Draft
+# Outline
 
-![[nosek-bar-anan-2012-scientific-utopia-i#Five Inefficiencies of Current System]]
 
-![[nosek-bar-anan-2012-scientific-utopia-i#Six Proposed Changes]]
+# Sources
 
-![[nosek-bar-anan-2012-scientific-utopia-i#Theoretical Framing]]
+[[nosek-bar-anan-2012-scientific-utopia-i]]
 
-![[nosek-2012-scientific-utopia-ii#Core Problem Incentive Misalignment]]
+[[nosek-2012-scientific-utopia-ii]]
 
-![[nosek-2012-scientific-utopia-ii#Problems with Current Practices]]
+[[dimaggio-powell-1983-institutional-isomorphism]]
 
-![[nosek-2012-scientific-utopia-ii#Strategies That Won't Work (Or Not Enough)]]
+[[uhlmann-2019-crowdsourcing-science]]
 
-![[nosek-2012-scientific-utopia-ii#Solutions Restructuring Incentives and Practices]]
+[[open-science-collaboration-2015]]
 
-![[Compounding Knowledge#Compounding Knowledge]]
+[[munafo-2017-manifesto]]
 
-![[Institutional Isomorphism#Institutional Isomorphism]]
+[[thibault-2023-open-science-2-0]]
 
-![[Crowdsourcing Science#Crowdsourcing Science]]
+[[lebel-2018-credibility-framework]]
 
-![[open-science-collaboration-2015#Estimating Reproducibility Abstract]]
+[[giner-sorolla-2012-science-or-art]]
 
-![[munafo-2017-manifesto#Summary]]
+[[alavi-leidner-2001-knowledge-management]]
+
+[[leidner-kayworth-2006-culture-is-review]]
+
+[[micelotta-2017-pathways-institutional-change]]
+
+[[basson-et-al-2022-oa-dimensions-wos]]
+
+
 

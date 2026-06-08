@@ -17,6 +17,10 @@ related:
   - "[[Replication Crisis]]"
   - "[[nosek-bar-anan-2012-scientific-utopia-i]]"
   - "[[Linked Open Data]]"
+  - "[[OA Type Classification]]"
+  - "[[Bibliometric Database Coverage]]"
+  - "[[Geographic Bias in Indexing]]"
+  - "[[basson-et-al-2022-oa-dimensions-wos]]"
 ---
 
 # Open Access
@@ -28,6 +32,12 @@ Scientific literature made freely available to readers without subscription payw
 **Gold OA** — Publisher makes the article immediately and permanently free at point of publication. Author or institution typically pays an Article Processing Charge (APC). Example: *PLOS ONE*, *PLOS Biology*.
 
 **Green OA** — Author self-archives a version (preprint or accepted manuscript) in an institutional or subject repository. The published version may remain behind a paywall; the deposited version is free. Example: PsyArXiv, arXiv, PubMed Central.
+
+For empirical work this binary is refined into the five-route [[OA Type Classification]] (gold / green-only / hybrid / bronze / closed).
+
+## Measuring OA Is Database-Dependent
+
+"What fraction of science is OA?" has no single answer — it depends on which bibliometric database you measure over. [[basson-et-al-2022-oa-dimensions-wos|Basson et al. (2022)]] found [[Dimensions]] reports more OA than [[Web of Science]] (46.6% vs 43.4% overall, 2015–2019), and the gap is largest for the global South (South Asia +57.9%, LAC +36.6%). See [[Bibliometric Database Coverage]] and [[Geographic Bias in Indexing]]: selective, Western-skewed databases systematically understate OA uptake outside North America and Europe.
 
 ## Economic Argument (Nosek & Bar-Anan 2012)
 

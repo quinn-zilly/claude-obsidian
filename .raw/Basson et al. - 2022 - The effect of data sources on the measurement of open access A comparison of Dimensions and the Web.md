@@ -1,0 +1,188 @@
+![](_page_0_Picture_1.jpeg)
+
+# OPEN ACCESS
+
+**Citation:** Basson I, Simard M-A, Ouangré ZA, Sugimoto CR, Larivière V (2022) The effect of data sources on the measurement of open access: A comparison of Dimensions and the Web of Science. PLoS ONE 17(3): e0265545. https://doi.org/10.1371/journal.pone.0265545
+
+**Editor:** Frank Havemann, Humboldt-Universität zu Berlin, GERMANY
+
+Received: November 16, 2021
+
+Accepted: March 3, 2022
+
+Published: March 31, 2022
+
+Copyright: © 2022 Basson et al. This is an open access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.
+
+Data Availability Statement: Restrictions apply to both datasets used in this paper. Aggregated data is available on Figshare (https://doi.org/10.6084/m9.figshare.18319238). The Web of Science data is owned by Clarivate Analytics. To obtain the bibliometric data in the same manner as authors (i.e. by purchasing them), readers can contact Clarivate Analytics at the following URL: https://clarivate.com/webofsciencegroup/solutions/webof-science/contact-us/. The Dimensions data is owned by Digital Science, which has a programme
+
+<span id="page-0-0"></span>**BESEARCH ARTICLE** 
+
+# The effect of data sources on the measurement of open access: A comparison of Dimensions and the Web of Science
+
+Isabel Basson<sub>6</sub>, Marc-André Simard, Zoé Aubierge Ouangré, Cassidy R. Sugimoto, Vincent Larivière
+
+- 1 École de bibliothéconomie et des sciences de l'information, Université de Montréal, Montréal, Québec, Canada, 2 DST-NRF Centre of Excellence in Scientometrics and STI Policy; and Centre for Research on Evaluation, Science and Technology, Stellenbosch University, Stellenbosch, Western Cape, South Africa, 3 School of Public Policy, Georgia Institute of Technology, Atlanta, Georgia, United States of America
+- \* isabel.basson@umontreal.ca
+
+### **Abstract**
+
+With the growing number of open access (OA) mandates, the accurate measurement of OA publishing is an important policy issue. Existing studies have provided estimates of the prevalence of OA publications ranging from 27.9% to 53.7%, depending on the data source and period of investigation. This paper aims at providing a comparison of the proportion of OA publishing as represented in two major bibliometric databases, Web of Science (WoS) and Dimensions, and assesses how the choice of database affects the measurement of OA across different countries. Results show that a higher proportion of publications indexed in Dimensions are OA than those indexed by WoS, and that this is particularly true for publications originating from outside North America and Europe. The paper concludes with a discussion of the cause and consequences of these differences, motivating the use of more inclusive databases when examining OA, especially for publications originating beyond North America and Europe.
+
+### Introduction
+
+Over the past 30 years, the democratization of the internet has made it possible for researchers, journals, and publishers to provide free online access to scholarly papers. This practice, also known as open access (OA), allows anyone with an internet connection to access, read, distribute, and download scientific publications for free with no legal or technical barriers [1]. OA publishing is no longer a marginal phenomenon, thanks to a massive rise in OA mandates [2], the introduction of several new OA publishers and OA options for legacy publishers [3], the creation of open-source software that facilitates the production of publications (such as the Public Knowledge Project), and the rise of OA mega-journals such as PLOS ONE and Scientific Reports [4].
+
+The advantages of OA have been well-documented: increased global visibility [5], higher citation rates [6, 7], and a better use of taxpayers' money [8]. Several studies have attempted to
+
+<span id="page-1-0"></span>that provides no cost access to its data. It can be accessed at: [https://dimensions.ai/data\\_access.](https://dimensions.ai/data_access)
+
+**Funding:** This work is based on research funded by the International Development Research Centre (IDRC) Science Granting Councils Initiative in Sub-Saharan Africa program under project 109272: Open access in Africa: Indicators, infrastructure, and policies. [https://www.idrc.ca/en/project/open](https://www.idrc.ca/en/project/open-access-africa-indicators-infrastructure-and-policies)[access-africa-indicators-infrastructure-and-policies](https://www.idrc.ca/en/project/open-access-africa-indicators-infrastructure-and-policies) VL, CRS The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.
+
+**Competing interests:** The authors have declared that no competing interests exist.
+
+assess the overall share of OA publications in the scientific literature, with results ranging from 27.9% to 53.7%, depending on the data source and period of investigation [[6](#page-9-0), [7](#page-9-0), [9,](#page-9-0) [10\]](#page-9-0). The range of these proportions demonstrate the uncertainty and variability in these numbers. This study aims at providing a comparison of the proportion of OA as represented in two prominent bibliometric databases, Web of Science (WoS) and Dimensions, and assess how the different coverage of these two databases may affect the measurement of OA across different countries.
+
+# **Data sources**
+
+The Science Citation Index (SCI) was originally developed by Eugene Garfield [[11](#page-9-0)] to help librarians and researchers find articles and journals relevant for their work through citation indexing. Since it was impossible to manually index the entire range of journals (~50,000 at the time [\[11\]](#page-9-0)), only the most cited periodicals were indexed. For decades, WoS remained the main—if not only—source of large-scale bibliometric data. However, over the past 15 years, there has been a multiplication of new data sources such as Scopus (2004), Google Scholar (2004), Microsoft Academic (2016), and more recently, Dimensions (2018). The different approaches to indexation lead to inevitable differences in coverage, which have been wellstudied in several previous investigations [\[12–17\]](#page-9-0).
+
+For instance, Mongeon and Paul-Hus [[13](#page-9-0)] have shown that, compared to Scopus, WoS has a significantly lower coverage of research in all fields, and is also much less likely to index journals from non-English-speaking countries and developing countries [\[13,](#page-9-0) [18\]](#page-9-0). Dimensions has much broader coverage than both WoS and Scopus [[16](#page-9-0), [19](#page-9-0), [20](#page-9-0)]. This is largely explained by the fact that Dimensions uses Crossref (among other sources) to populate the database and focuses on a single variable for inclusion (i.e., the presence of a Digital Object Identifier (DOI)) rather than on selective criteria (e.g., citations or reputation). Despite the lack of selectivity, there are journal articles not indexed by Dimensions that are indexed by Scopus, due to the lack of a DOI across all publications [[16](#page-9-0)]. However, Dimensions remains—by far—the largest and broadest indexer of scientific documents. It remains to be seen, however, whether the use of this database produces different outcomes in studies of OA.
+
+# **Country differences in OA practises**
+
+Countries differ in the proportion of their publications that are OA [[6,](#page-9-0) [9,](#page-9-0) [21\]](#page-10-0). One explanation is merely one of disciplinary differences: there are well-established differences in OA practices across disciplines [\[6](#page-9-0), [22](#page-10-0)] and countries differ in their disciplinary profiles [\[23,](#page-10-0) [24\]](#page-10-0). Policy can also drive differences, with institutional and government mandates varying in both their scope and intensity across countries [[2\]](#page-9-0). These differences often intersect, in sometimes unexpected ways, with levels of economic development. For example, Iyandemye and Thomas [\[25\]](#page-10-0) found regional differences in OA publication in biomedicine, with low-income countries and countries in sub-Saharan Africa showing a high percentage of OA publication, moderate OA publication in North America and Europe, and low participation in North Africa and South Asia. They suggested a combination of article processing charge (APC) waivers, self-archiving infrastructure, and funder policies could be contributing to these differences between countries.
+
+The approach used by developing and developed countries for OA dissemination have historically been different [[5,](#page-9-0) [10\]](#page-9-0). Developed countries tend to make use of repositories, with selfarchiving mandates in place at many institutions [[26](#page-10-0)] and funders [\[2](#page-9-0)]. These mandates may be supported by corresponding infrastructure, such as the government-funded PubMed repository or institutionally-supported repositories. Repositories are less prevalent in developing countries, as reported by the Registry of Open Access Repositories [\(http://roar.eprints.org/\)](http://roar.eprints.org/).
+
+<span id="page-2-0"></span>Conversely, authors from developing countries tend to make use of OA journals [\[27\]](#page-10-0) with various initiatives in these countries and regions which specifically focus on supporting local journals and launching OA journals to promote research from their regions. Such platforms include AJOL (Africa), AmeliCA (Latin America), and SciELO (Brazil).
+
+In addition, OA is built on the assumption that internet access is a basic public utility that is reliably and conveniently available to everyone. This flawed assumption places developing countries at a significant disadvantage when discussing, implementing infrastructures to support, and benefitting from OA [\[28\]](#page-10-0). For example, in 2018, nearly 75% of the African population did not have access to the internet [\[29\]](#page-10-0). This lack of (affordable) internet access sometimes extends to researchers at African universities [\[30\]](#page-10-0). This assumption extends to the affordability of OA for researchers. APCs could make it prohibitively expensive for researchers from developing countries to render their articles OA through hybrid OA and APC charging OA journals. Full APC waivers for researchers from low-income countries, as opposed to partial waivers for middle income countries, could also be contributing to differences in OA publication practised [[25](#page-10-0), [31](#page-10-0)].
+
+# **Materials and methods**
+
+We investigated all journal-based publications indexed in WoS and Dimensions for publication years 2015 to 2019 for which first author country affiliation data was available. Both data for Dimensions and WoS were obtained from the data providers and transformed into SQL databases for data compilation. OA status for WoS papers was obtained by linking the database with Unpaywall (see, Simard et al. [\[10\]](#page-9-0)). For Dimensions, the Unpaywall OA status of papers was already provided in the data. We used Unpaywall's five-categories classification system [\[7](#page-9-0)] to discuss the OA status of publications:
+
+- **Gold**: Published in an OA journal that is indexed by the Directory of Open Access Journals (DOAJ).
+- **Green only**: Toll-access on the publisher page but is free in an OA repository.
+- **Hybrid**: Free under an OA license in a toll-access journal.
+- **Bronze**: Free to read on the publisher page, but without a clearly identifiable license.
+- **Closed**: All other publications, including those shared only on an Academic Social Network (ASN) or in Sci-Hub.
+
+While papers can be self-archived (green OA) and published as OA through a journal (hybrid, bronze, gold), in this study we assigned only one OA category to a paper, giving priority to journal-based OA status. Each publication was assigned to a single country based on the country affiliation that appeared on the publications for the first author. We then used the World Bank Country Classification to assign each publication into a region [\[32\]](#page-10-0). The different datasets were linked using the country ISO 2 alpha codes. The document types included for this study are articles and reviews for WoS and articles for Dimensions. However, the definition of "article" differs in the two indexes. While WoS classifies documents published in journals into a wide range of documents—with articles and reviews considered as peer-reviewed documents and used in measures of research production [[33](#page-10-0), [34\]](#page-10-0)—, Dimensions classifies all journal documents as articles. This includes documents generally excluded from bibliometric studies—such as meeting abstracts—without the option to exclude them [\[16\]](#page-9-0). While this approach limits the comparability of the two datasets due to the different document types included, this is a limitation of the data sources, and reflects the most accurate representation
+
+<span id="page-3-0"></span>of research production currently achievable by both indexes, thus this approach is aligned with the objective of this study. In both databases, we only considered documents with at least one institutional address. The datasets were analysed, and the figures generated, using R [\[35–39\]](#page-10-0). While the subject areas in which researchers and institutions are active or specialise in differ between countries and OA practises and level of engagement differ across disciplines, no fieldnormalisation is required for this study as the aim of the study is to compare countries with themselves between the two databases. Over the 2015 to 2019 period, WoS indexed a total of 8,053,050 publications for which affiliation data is available. Dimensions indexed 10,743,016 such publications.
+
+# **Results**
+
+Of WoS and Dimensions publications with affiliation data, 43.4% of WoS publications and 46.6% of the Dimensions publications are available as OA publications, as shown in Fig 1. The largest differences observed between the two datasets are for the "green only", and "bronze" categories, with a larger percentage of OA publications in WoS for the former, and a larger percentage in Dimensions for the latter.
+
+Strong differences can be seen when examining according to regions ([Fig](#page-4-0) 2). For developed regions (Europe & Central Asia, North America), the percentage of OA publications is similar in both WoS and Dimensions. For all the other regions—which correspond to less developed parts of the world—, the percentage of OA publications in Dimensions are significantly higher than in WoS, especially for South Asia (+57.9%), Latin Americas and the Caribbean (+36.6%), the Middle East and North Africa (+33.5%) and, to a lesser extent, Sub-Saharan Africa (+12.4%).
+
+![](_page_3_Figure_6.jpeg)
+
+**Fig 1. Percentage of open access publications, by access type and database, 2015–2019.**
+
+<https://doi.org/10.1371/journal.pone.0265545.g001>
+
+<span id="page-4-0"></span>![](_page_4_Figure_2.jpeg)
+
+**[Fig](#page-3-0) 2. Percentage of open access publications, by region and database, 2015–2019.**
+
+<https://doi.org/10.1371/journal.pone.0265545.g002>
+
+These proportions differ substantially when considering different types of OA [\(Fig](#page-5-0) 3). For all regions but North America, the single most abundant type of OA, regardless of database, is gold OA. For North America, the most abundant type of OA is green only OA (19.4%) in WoS, and bronze OA (16.3%) in Dimensions. The percentage of gold OA is substantially higher in Dimensions than in WoS for South Asia (+28.3%), Latin Americas and the Caribbean (+22.6), and the Middle East and North Africa (19.9%) with only a slight difference for
+
+<span id="page-5-0"></span>![](_page_5_Figure_2.jpeg)
+
+**[Fig](#page-4-0) 3. Percentage of open access publications, by region, open access type and database, 2015–2019.**
+
+<https://doi.org/10.1371/journal.pone.0265545.g003>
+
+Sub-Saharan Africa (+0.3). However, it is higher in WoS for East Asia and Pacific (+13.2), with only a slight difference for Europe and Central Asia (+3.3), and North America (+2.3%). For Asia and the regions in the southern hemisphere, very few publications (*<*10%) are green only OA. For almost all regions, a larger percentage of publications in WoS are green only OA than in Dimensions. The exception is South Asia (+3.3), with only a slight difference in favour of Dimensions. The percentage of hybrid OA is low (*<*10%) for all regions, regardless of database used. The percentage of hybrid OA is higher in WoS for both North America (+24.4%) and, to a lesser extent, Europe and Central Asia (+3.4). For all other regions, the percentage is higher
+
+<span id="page-6-0"></span>in Dimensions. For bronze OA, the percentage is substantially higher in Dimensions than for WoS for each of the regions.
+
+Basson et al. [40] found that the percentage of OA publications for some countries are significantly lower when using WoS data as opposed to when Dimensions data is used. Fig 4A and 4B illustrate this for each country by examining the relative difference in the percentage of OA publications indexed in Dimensions compared to the percentage of OA publications indexed in WoS (see [41] for data underlying for the figures). In  $\underline{\text{Fig 4A}}$ ,  $\frac{(x-y)}{(x+y)}$ , with x representing the percentage of papers for the country in the Dimensions dataset that are OA, and y representing the percentage of papers for the country in the WoS dataset that are OA, was used to calculate the relative difference between the percentages. This results in a measure where a value of -1 indicates countries for which Dimensions indexes no OA publications, whereas a value of 1 indicates those countries for which WoS indexes no OA publications, i.e., the closer to 0 the more similar the databases are in their percentage of OA publications indexed for the country in question. In Fig 4B, countries, with more than 100 publications, are plotted on a scatterplot comparing the two percentages to illustrate the number of countries that have a higher percentage or a lower percentage when using Dimensions as opposed to WoS. The figures show, for most countries, Dimensions includes a higher percentage of OA publications than for WoS (Fig 4B), and that this particularly the case for countries in the Asia and in the global South (Fig 4A).
+
+### Discussion
+
+Our results show that the measurement of OA differs when using WoS or Dimensions, and that the difference is more striking for authors from outside North America, Europe, and Central Asia. Given the Western bias of journals indexed in WoS [13]—which are also indexed in Dimensions [16]—the measurement of OA in these regions does not vary much in the two databases. However, for the other regions, which generally have fewer of their journals indexed in WoS, the additional publications that are indexed in Dimensions are much more likely to be OA. More specifically, as Dimensions has much broader indexing, this higher percentage of OA publications is potentially due to the inclusion of smaller national journals.
+
+This has implications for the distribution of different types of OA, as the literature suggests that the countries generally represented in WoS are also those that tend to more often make use of self-archiving (green OA). This is observed when investigating green only OA, the only OA type that is consistently higher in WoS than in Dimensions, and substantially higher for North America, Europe, and Central Asia. The focus on self-archiving in these regions potentially explains the larger percentage of green only OA publications in WoS, as various mandates are applicable, and many repositories are available, to these authors. The higher percentage of bronze OA in Dimensions for all regions could reflect the inclusion of many non-DOAJ listed journal publications in Dimensions. It is likely that these bronze OA publications are in journals not published by the major publishers and lack the same level of standardization in metadata, resulting in difficulty classifying the publications and their inability to be indexed in DOAJ. It is also possible that due to the broad inclusion criteria of Dimensions that some predatory journals are included in this bronze OA category (potential cases were noted during a cursory investigation of the dataset) or that these bronze publications are of document types not included in the WoS dataset used for this study (e.g., editorial material that would be included in the Dimensions dataset but not the WoS dataset). Further research is required to investigate the characteristics of the additional publications included in Dimensions.
+
+<span id="page-7-0"></span>![](_page_7_Figure_2.jpeg)
+
+**[Fig](#page-6-0) 4. A) Relative difference in percentage of open access publications between Dimensions and WoS, by country, 2015–2019, B) Scatterplot of the percentage of open access publications for Dimensions and WoS, by country and region (includes only countries with more than 100 publications, ISO 2 code for countries with 20***<* **percentage point difference), 2015–2019.**
+
+<https://doi.org/10.1371/journal.pone.0265545.g004>
+
+<span id="page-8-0"></span>Lastly, this difference in measurement is most clearly illustrated at the level of countries. If WoS is used to measure OA for countries, the OA percentage tends to be lower for some countries in comparison to a more inclusive database such as Dimensions. Just as OA aims to provide visibility and access to research publications beyond toll-access journals, Dimensions provides a lens to investigate a broader number of publications, as opposed to only those that are considered to be the most relevant or core by Western-centric data sources such as WoS or Scopus. However, this larger coverage is not without challenges. Despite indexing more papers than WoS, Dimensions has a larger percentage of articles with missing metadata. This is particularly an issue for affiliations [\[20,](#page-9-0) [42\]](#page-10-0), which Dimensions standardises using the GRID (Global Research Identifier Database) system alongside its use of ORCID [[19](#page-9-0)]. According to Szomszor and Adams [\[42\]](#page-10-0) many countries (especially in Africa, South America, and Central Asia) had no institutions included in GRID. The coverage has expanded since, as illustrated by the current study, which is encouraging but illustrates that while Dimensions includes publications from a larger range of journals than WoS, bibliometric studies on the level of countries are limited by the data included in GRID. The lack of affiliation data observed by Guerrero-Bote, et al., [\[20\]](#page-9-0) in Dimensions for a large number of journal documents is only partially due to the difference in document types included in Scopus and Dimensions, as Scopus excludes, and Dimensions includes document types that do not tend to have authors. This would not explain why Scopus consistently provides more documents than Dimensions when results are aggregated by country considering Dimensions is supposed to have a wider coverage than Scopus. This potentially points to the GRID system failing to provide a country affiliation to a substantial number of eligible documents.
+
+Along those lines, the lack of disaggregation of document types within Dimensions for journal publications not only hinders the ability to examine the characteristics of Dimensions, but also limits the possibility to conduct bibliometric studies, especially comparative ones. Considering the philosophy behind Dimensions of "combining a comprehensive coverage of the scientific literature with a flexible set of filters for making selections of the literature" [[19](#page-9-0)], one hopes such disaggregation by document type will be included in the future. Given this limitation, our study cannot conclusively examine whether the differences between in OA percentages observed for the two databases is affected by the document types included in the analysis.
+
+Despite these challenges, our analysis shows that the measurement of OA may differ significantly when one looks beyond the subset of most cited journals. Ultimately, given that Dimensions indexes journals published by the many platforms developed in the South—AJOL (Africa), AmeliCA (Latin America), and SciELO (Brazil)—it has the potential to be a more suitable platform for a more inclusive measurement of OA uptake, especially of publications by authors from outside North America, Europe, and Central Asia.
+
+# **Author Contributions**
+
+**Conceptualization:** Cassidy R. Sugimoto, Vincent Larivière.
+
+**Formal analysis:** Isabel Basson.
+
+**Funding acquisition:** Cassidy R. Sugimoto, Vincent Larivière.
+
+**Investigation:** Isabel Basson.
+
+**Methodology:** Cassidy R. Sugimoto, Vincent Larivière.
+
+**Resources:** Vincent Larivière. **Visualization:** Isabel Basson.
+
+**Writing – original draft:** Isabel Basson, Marc-Andre´ Simard, Zoe´ Aubierge Ouangre´.
+
+<span id="page-9-0"></span>**Writing – review & editing:** Isabel Basson, Marc-Andre´ Simard, Zoe´ Aubierge Ouangre´, Cassidy R. Sugimoto, Vincent Larivière.
+
+# **References**
+
+- **[1](#page-0-0).** BOAI. Read the Budapest Open Access Initiative. In: Budapest Open Access Initiative [Internet]. 2002 [cited 28 Jul 2021]. <http://www.budapestopenaccessinitiative.org/read>
+- **[2](#page-1-0).** Larivière V, Sugimoto CR. Do authors comply when funders enforce open access to research? Nature. 2018; 562: 483–486. <https://doi.org/10.1038/d41586-018-07101-w> PMID: [30356205](http://www.ncbi.nlm.nih.gov/pubmed/30356205)
+- **[3](#page-0-0).** Rodrigues RS, Abadal E, de Arau´jo BKH. Open access publishers: The new players. PLoS One. 2020; 15. <https://doi.org/10.1371/journal.pone.0233432> PMID: [32502146](http://www.ncbi.nlm.nih.gov/pubmed/32502146)
+- **[4](#page-0-0).** Siler K, Larivière V, Sugimoto CR. The diverse niches of megajournals: Specialism within generalism. J Assoc Inf Sci Technol. 2020; 71: 800–816. <https://doi.org/10.1002/asi.24299>
+- **[5](#page-1-0).** Evans JA, Reimer J. Open access and global participation in science. Science (80-). 2009; 323: 1025. <https://doi.org/10.1126/science.1154562> PMID: [19229029](http://www.ncbi.nlm.nih.gov/pubmed/19229029)
+- **[6](#page-1-0).** Archambault E´, Amyot D, Deschamps P, Nicol A, Provencher F, Rebout L, et al. Proportion of Open Access Papers Published in Peer-Reviewed Journals at the European and World Levels—1996–2013. 2014. [http://www.science-metrix.com/sites/default/files/science-metrix/publications/d\\_1.8\\_sm\\_ec\\_dg](http://www.science-metrix.com/sites/default/files/science-metrix/publications/d_1.8_sm_ec_dg-rtd_proportion_oa_1996-2013_v11p.pdf)[rtd\\_proportion\\_oa\\_1996-2013\\_v11p.pdf](http://www.science-metrix.com/sites/default/files/science-metrix/publications/d_1.8_sm_ec_dg-rtd_proportion_oa_1996-2013_v11p.pdf)
+- **[7](#page-0-0).** Piwowar H, Priem J, Larivière V, Alperin JP, Matthias L, Norlander B, et al. The state of OA: A largescale analysis of the prevalence and impact of Open Access articles. PeerJ. 2018; 2018. [https://doi.org/](https://doi.org/10.7717/peerj.4375) [10.7717/peerj.4375](https://doi.org/10.7717/peerj.4375) PMID: [29456894](http://www.ncbi.nlm.nih.gov/pubmed/29456894)
+- **[8](#page-0-0).** Suber P. The taxpayer argument for open access. In: SPARC Open Access Newsletter [Internet]. 2003 [cited 10 Aug 2021]. [https://dash.harvard.edu/bitstream/handle/1/4725013/suber\\_taxpayer.htm](https://dash.harvard.edu/bitstream/handle/1/4725013/suber_taxpayer.htm)
+- **[9](#page-1-0).** European Commission. Trends for open access to publications. In: European Commission [Internet]. 2019 [cited 10 Aug 2021]. [https://ec.europa.eu/info/research-and-innovation/strategy/goals-research](https://ec.europa.eu/info/research-and-innovation/strategy/goals-research-and-innovation-policy/open-science/open-science-monitor/trends-open-access-publications_en)[and-innovation-policy/open-science/open-science-monitor/trends-open-access-publications\\_en](https://ec.europa.eu/info/research-and-innovation/strategy/goals-research-and-innovation-policy/open-science/open-science-monitor/trends-open-access-publications_en)
+- **[10](#page-2-0).** Simard M-A, Ghiasi G, Mongeon P, Larivière V. Geographic Differences in the Uptake of Open Access. Proceedings of the 18th International Conference on Scientometrics and Informetrics (ISSI 2021). 2021. pp. 1033–1038. <https://issi2021.org/proceedings/>
+- **[11](#page-1-0).** Garfield E. Citation Indexes for Science. Science (80-). 1955; 122: 108–111. [https://doi.org/10.1126/](https://doi.org/10.1126/science.122.3159.108) [science.122.3159.108](https://doi.org/10.1126/science.122.3159.108) PMID: [14385826](http://www.ncbi.nlm.nih.gov/pubmed/14385826)
+- **[12](#page-1-0).** De Moya-Anego´n F, Chinchilla-Rodrı´guez Z, Vargas-Quesada B, Corera-A´lvarez E, Muñoz-Ferna´ndez FJ, Gonza´lez-Molina A, et al. Coverage analysis of Scopus: A journal metric approach. Scientometrics. 2007; 73: 53–78. <https://doi.org/10.1007/s11192-007-1681-4>
+- **[13](#page-1-0).** Mongeon P, Paul-Hus A. The journal coverage of Web of Science and Scopus: a comparative analysis. Scientometrics. 2016; 106: 213–228. <https://doi.org/10.1007/s11192-015-1765-5>
+- **14.** Martı´n-Martı´n A, Orduna-Malea E, Thelwall M, Delgado Lo´pez-Co´zar E. Google Scholar, Web of Science, and Scopus: A systematic comparison of citations in 252 subject categories. J Informetr. 2018; 12: 1160–1177. <https://doi.org/10.1016/j.joi.2018.09.002>
+- **15.** Martı´n-Martı´n A, Thelwall M, Orduna-Malea E, Delgado Lo´pez-Co´zar E. Google Scholar, Microsoft Academic, Scopus, Dimensions, Web of Science, and OpenCitations' COCI: a multidisciplinary comparison of coverage via citations. Scientometrics. 2021; 126: 871–906. [https://doi.org/10.1007/s11192-020-](https://doi.org/10.1007/s11192-020-03690-4) [03690-4](https://doi.org/10.1007/s11192-020-03690-4) PMID: [32981987](http://www.ncbi.nlm.nih.gov/pubmed/32981987)
+- **[16](#page-1-0).** Visser M, van Eck NJ, Waltman L. Large-scale comparison of bibliographic data sources: Scopus, Web of Science, Dimensions, Crossref, and Microsoft Academic. Quant Sci Stud. 2021; 2: 20–41. [https://doi.](https://doi.org/10.1162/qss%5Fa%5F00112) [org/10.1162/qss\\_a\\_00112](https://doi.org/10.1162/qss%5Fa%5F00112)
+- **[17](#page-1-0).** Huang C-K, Neylon C, Brookes-Kenworthy C, Hosking R, Montgomery L, Wilson K, et al. Comparison of bibliographic data sources: Implications for the robustness of university rankings. Quant Sci Stud. 2020; 1: 1–34. [https://doi.org/10.1162/qss\\_a\\_00031](https://doi.org/10.1162/qss%5Fa%5F00031)
+- **[18](#page-1-0).** Zhu J, Liu W. A tale of two databases: the use of Web of Science and Scopus in academic papers. Scientometrics. 2020; 123: 321–335. <https://doi.org/10.1007/s11192-020-03387-8>
+- **[19](#page-8-0).** Herzog C, Hook D, Konkiel S. Dimensions: Bringing down barriers between scientometricians and data. Quant Sci Stud. 2020; 1: 387–395. [https://doi.org/10.1162/qss\\_a\\_00020](https://doi.org/10.1162/qss%5Fa%5F00020)
+- **[20](#page-8-0).** Guerrero-Bote VP, Chinchilla-Rodrı´guez Z, Mendoza A, de Moya-Anego´n F. Comparative Analysis of the Bibliographic Data Sources Dimensions and Scopus: An Approach at the Country and Institutional Levels. Front Res Metrics Anal. 2021; 5. <https://doi.org/10.3389/frma.2020.593494> PMID: [33870055](http://www.ncbi.nlm.nih.gov/pubmed/33870055)
+
+- <span id="page-10-0"></span>**[21](#page-1-0).** Huang CK, Neylon C, Hosking R, Montgomery L, Wilson KS, Ozaygen A, et al. Evaluating the impact of open access policies on research institutions. Elife. 2020; 9: 1–13. <https://doi.org/10.7554/eLife.57067> PMID: [32924933](http://www.ncbi.nlm.nih.gov/pubmed/32924933)
+- **[22](#page-1-0).** Basson I, Blanckenberg JP, Prozesky H. Do open access journal articles experience a citation advantage? Results and methodological reflections of an application of multiple measures to an analysis by WoS subject areas. Scientometrics. 2021; 126: 459–484. <https://doi.org/10.1007/s11192-020-03734-9>
+- **[23](#page-1-0).** Yang LY, Yue T, Ding JL, Han T. A comparison of disciplinary structure in science between the G7 and the BRIC countries by bibliometric methods. Scientometrics. 2012; 93: 497–516. [https://doi.org/10.](https://doi.org/10.1007/s11192-012-0695-8) [1007/s11192-012-0695-8](https://doi.org/10.1007/s11192-012-0695-8)
+- **[24](#page-1-0).** Aksnes DW, van Leeuwen TN, Sivertsen G. The effect of booming countries on changes in the relative specialization index (RSI) on country level. Scientometrics. 2014; 101: 1391–1401. [https://doi.org/10.](https://doi.org/10.1007/s11192-014-1245-3) [1007/s11192-014-1245-3](https://doi.org/10.1007/s11192-014-1245-3)
+- **[25](#page-1-0).** Iyandemye J, Thomas MP. Low income countries have the highest percentages of open access publication: A systematic computational analysis of the biomedical literature. PLoS One. 2019; 14. [https://](https://doi.org/10.1371/journal.pone.0220229) [doi.org/10.1371/journal.pone.0220229](https://doi.org/10.1371/journal.pone.0220229) PMID: [31356618](http://www.ncbi.nlm.nih.gov/pubmed/31356618)
+- **[26](#page-1-0).** Xia J, Gilchrist SB, Smith NXP, Kingery JA, Radecki JR, Wilhelm ML, et al. A review of open access self-archiving mandate policies. portal Libr Acad. 2012; 12: 85–102. [https://doi.org/10.1353/pla.2012.](https://doi.org/10.1353/pla.2012.0000) [0000](https://doi.org/10.1353/pla.2012.0000)
+- **[27](#page-2-0).** Sotudeh H, Horri A. Great expectations: the role of open access in improving countries' recognition. Scientometrics. 2008; 76: 69–93. <https://doi.org/10.1007/s11192-007-1890-x>
+- **[28](#page-2-0).** Ouangre´ ZA. Le comportement dans la recherche d'information des e´tudiants au doctorat en me´decine au Burkina Faso. Universite´ de Montre´al. 2020. [https://papyrus.bib.umontreal.ca/xmlui/handle/1866/](https://papyrus.bib.umontreal.ca/xmlui/handle/1866/23397) [23397](https://papyrus.bib.umontreal.ca/xmlui/handle/1866/23397)
+- **[29](#page-2-0).** Broadband Commission. The State of Broadband 2019 Broadband as a Foundation for Sustainable Development. Geneva: International Telecommunication Union and United Nations Educational, Scientific and Cultural Organization; 2019.
+- **[30](#page-2-0).** Beaudry C, Mouton J, Prozesky HE. The next generation of scientists in Africa. Cape Town: African Minds; 2018.
+- **[31](#page-2-0).** Norris M, Oppenheim C, Rowland F. Open access citation rates and developing countries. ELPUB 2008 Conference on Electronic Publishing. Toronto; 2008. pp. 335–342. [https://elpub.architexturez.net/](https://elpub.architexturez.net/system/files/pdf/335_elpub2008.content.pdf) [system/files/pdf/335\\_elpub2008.content.pdf](https://elpub.architexturez.net/system/files/pdf/335_elpub2008.content.pdf)
+- **[32](#page-2-0).** World Bank. World Bank Country and Lending Groups. 2021 [cited 10 Aug 2021]. [https://datahelpdesk.](https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country-and-lending-groups) [worldbank.org/knowledgebase/articles/906519-world-bank-country-and-lending-groups](https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country-and-lending-groups)
+- **[33](#page-2-0).** Harzing AW. Document categories in the ISI Web of Knowledge: Misunderstanding the Social Sciences? Scientometrics. 2013; 94: 23–34. <https://doi.org/10.1007/s11192-012-0738-1>
+- **[34](#page-2-0).** Sugimoto CR, Larivière V. Measuring research. New York: Oxford University Press; 2018.
+- **[35](#page-3-0).** Wickham H, Averick M, Bryan J, Chang W, McGowan L, Franc¸ois R, et al. Welcome to the Tidyverse. J Open Source Softw. 2019; 4: 1686. <https://doi.org/10.21105/joss.01686>
+- **36.** Sievert C. Interactive Web-Based Data Visualization with R, plotly, and shiny. Chapman and Hall/CRC; 2020. <https://plotly-r.com>
+- **37.** Xie Y. Dynamic Documents with R and knitr. 2nd Editio. Chapman and Hall/CRC; 2015.
+- **38.** Xie Y. knitr: A Comprehensive Tool for Reproducible Research in R. In: Stodden V, Leisch F, Peng RD, editors. Implementing Reproducible Computational Research. Chapman and Hall/CRC; 2014.
+- **[39](#page-3-0).** Neuwirth E. RColorBrewer: ColorBrewer Palettes. R package version 1.1–2. In: CRAN [Internet]. 2014 [cited 18 Jan 2022]. <https://cran.r-project.org/package=RColorBrewer>
+- **[40](#page-6-0).** Basson I, Simard M-A, Ouangre´ ZA, Sugimoto CR, Larivière V. Data sources and their effects on the measurement of open access. Comparing Dimensions with the Web of Science. Proceedings of the 18th International Conference on Scientometrics and Informetrics (ISSI 2021). Leuven; 2021. pp. 93– 98. <https://issi2021.org/proceedings/>
+- **[41](#page-6-0).** Basson I, Simard M-A, Larivière V. Number of total publications and percentage of open access publications for Dimensions and WoS, by country, 2015–2019. 2022. [https://doi.org/10.6084/m9.figshare.](https://doi.org/10.6084/m9.figshare.18319238) [18319238](https://doi.org/10.6084/m9.figshare.18319238)
+- **[42](#page-8-0).** Szomszor M, Adams J, Digital Science (Company). Discovery and analysis of global research trends using GRID: the Global Research Identifier Database. London; 2017 Feb.
