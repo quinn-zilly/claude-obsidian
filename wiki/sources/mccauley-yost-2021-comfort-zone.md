@@ -9,6 +9,7 @@ tags: [source, leadership-development, stretch-experiences, learning-agility, on
 status: evergreen
 related: ["[[Learning Agility]]", "[[Stretch Experiences]]", "[[Paul Yost]]", "[[Cynthia McCauley]]", "[[yost-plunkett-2010-ten-catalysts]]"]
 updated: 2026-06-05
+created: 2026-06-04
 ---
 
 # Stepping to the Edge of One's Comfort Zone

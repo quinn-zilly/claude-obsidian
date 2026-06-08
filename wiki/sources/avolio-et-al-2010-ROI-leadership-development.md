@@ -11,6 +11,7 @@ tags: [leadership-development, ROI, RODI, utility-analysis, human-capital, sourc
 status: evergreen
 created: 2026-06-04
 updated: 2026-06-04
+type: source
 ---
 
 # Avolio, Avey & Quisenberry (2010) — Estimating Return on Leadership Development Investment

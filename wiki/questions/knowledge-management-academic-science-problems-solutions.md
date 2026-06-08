@@ -1,4 +1,5 @@
 ---
+address: c-000628
 type: question
 title: "Knowledge Management in Academic Science: Problems and Proposed Solutions"
 question: "What are some of the main problems with knowledge management in academic science? What are the proposed solutions?"

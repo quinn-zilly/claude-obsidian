@@ -3,6 +3,9 @@ address: c-000465
 title: Miles and Snow Strategic Typology
 tags: [concept, strategy, HRM]
 updated: 2026-06-05
+type: concept
+status: seed
+created: 2026-06-04
 ---
 
 # Miles and Snow Strategic Typology (1978)

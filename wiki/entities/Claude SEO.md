@@ -10,7 +10,6 @@ tags:
   - seo
 status: evergreen
 related:
-  - "[[Pro Hub Challenge]]"
   - "[[Semantic Topic Clustering]]"
   - "[[Search Experience Optimization]]"
   - "[[SEO Drift Monitoring]]"

@@ -4,6 +4,7 @@ tags: [person, training-scientist, team-training, transfer]
 status: developing
 created: 2026-06-04
 updated: 2026-06-04
+type: entity
 ---
 
 # Kimberly A. Smith-Jentsch

@@ -14,6 +14,7 @@ created: 2026-06-04
 updated: 2026-06-04
 related:
   - "[[Learning & Development MOC]]"
+type: source
 ---
 
 # Alvarez, Salas & Garofano (2004) — Integrated Model of Training Evaluation and Effectiveness

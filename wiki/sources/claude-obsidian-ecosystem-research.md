@@ -9,7 +9,7 @@ tags:
   - competitive-analysis
 status: current
 related:
-  - "[[claude-obsidian-ecosystem]]"
+  - "[[claude-obsidian-ecosystem-research]]"
   - "[[cherry-picks]]"
   - "[[LLM Wiki Pattern]]"
 raw_file: ".raw/claude-obsidian-ecosystem-research.md"
@@ -28,7 +28,7 @@ Comprehensive internet sweep of all Claude + Obsidian projects. Found 16+ active
 
 ## Pages Created from This Source
 
-- [[claude-obsidian-ecosystem]] — feature matrix comparison
+- [[claude-obsidian-ecosystem-research]] — feature matrix comparison
 - [[cherry-picks]] — prioritized feature backlog
 - [[Ar9av-obsidian-wiki]] — entity page
 - [[Nexus-claudesidian-mcp]] — entity page

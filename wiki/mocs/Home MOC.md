@@ -1,4 +1,5 @@
 ---
+address: c-000621
 type: moc
 title: "Home MOC"
 created: "2026-06-06"
@@ -13,6 +14,8 @@ related:
   - "[[Institutional & Strategy MOC]]"
   - "[[Knowledge Management MOC]]"
   - "[[Culture & IT MOC]]"
+status: developing
+updated: 2026-06-07
 ---
 
 # Home — Map of Content
@@ -42,4 +45,4 @@ This is the front door. Start here, pick a domain, follow links into the cluster
 
 ## How MOCs work here (LYT mode)
 
-The vault is in **LYT** (Linking Your Thinking) mode. MOCs are navigation hubs, not folders. New atomic notes are filed flat under `wiki/notes/`; MOCs link into them. Existing notes still live in their original folders (`wiki/concepts/`, `wiki/entities/`, etc.) — see the migration plan for moving them.
+The vault is in **LYT** (Linking Your Thinking) mode. MOCs are navigation hubs, not folders. New atomic notes are filed flat und

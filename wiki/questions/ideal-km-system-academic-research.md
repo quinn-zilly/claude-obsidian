@@ -1,4 +1,5 @@
 ---
+address: c-000627
 type: question
 title: "The Ideal Knowledge Management System for Academic Research"
 question: "What does the ideal system for knowledge management look like in academic research? (a) What is the goal of academic research? (b) What is known by the general field of KM? (c) What is specific to academia? (d) What are some examples outside of academia already doing these things (e.g., GitHub)?"

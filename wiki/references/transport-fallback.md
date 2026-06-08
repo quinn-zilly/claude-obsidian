@@ -1,4 +1,5 @@
 ---
+address: c-000630
 type: reference
 title: "Transport Fallback Decision Tree"
 status: evergreen
@@ -6,6 +7,9 @@ related:
   - "[[wiki-cli]]"
   - "[[mcp-setup]]"
 updated: 2026-05-17
+created: 2026-05-17
+tags:
+  - untagged
 ---
 
 # Transport Fallback Decision Tree

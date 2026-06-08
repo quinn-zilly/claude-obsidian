@@ -1,4 +1,5 @@
 ---
+address: c-000626
 type: moc
 title: "Teams & Org Behavior MOC"
 created: "2026-06-06"
@@ -8,6 +9,8 @@ related:
   - "[[Home MOC]]"
   - "[[Learning & Development MOC]]"
   - "[[Institutional & Strategy MOC]]"
+status: developing
+updated: 2026-06-07
 ---
 
 # Teams & Organizational Behavior — Map of Content

@@ -4,6 +4,7 @@ tags: [leadership-development, ROI, utility-analysis, human-capital, training-ev
 status: evergreen
 created: 2026-06-04
 updated: 2026-06-04
+type: concept
 ---
 
 # Return on Development Investment (RODI)

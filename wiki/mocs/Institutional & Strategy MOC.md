@@ -1,4 +1,5 @@
 ---
+address: c-000622
 type: moc
 title: "Institutional & Strategy MOC"
 created: "2026-06-06"
@@ -8,6 +9,8 @@ related:
   - "[[Home MOC]]"
   - "[[Teams & Org Behavior MOC]]"
   - "[[Knowledge Management MOC]]"
+status: developing
+updated: 2026-06-07
 ---
 
 # Institutional & Strategy — Map of Content

@@ -1,4 +1,5 @@
 ---
+address: c-000624
 type: moc
 title: "Learning & Development MOC"
 created: "2026-06-06"
@@ -8,6 +9,8 @@ related:
   - "[[Home MOC]]"
   - "[[Teams & Org Behavior MOC]]"
   - "[[Open Science MOC]]"
+status: developing
+updated: 2026-06-07
 ---
 
 # Learning & Development — Map of Content

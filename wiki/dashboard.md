@@ -12,6 +12,7 @@ related:
   - "[[log]]"
   - "[[concepts/_index]]"
   - "[[Compounding Knowledge]]"
+created: 2026-06-05
 ---
 
 # Wiki Dashboard

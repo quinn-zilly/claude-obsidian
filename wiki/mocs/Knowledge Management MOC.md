@@ -1,4 +1,5 @@
 ---
+address: c-000623
 type: moc
 title: "Knowledge Management MOC"
 created: "2026-06-06"
@@ -8,6 +9,8 @@ related:
   - "[[Home MOC]]"
   - "[[Teams & Org Behavior MOC]]"
   - "[[Institutional & Strategy MOC]]"
+status: developing
+updated: 2026-06-07
 ---
 
 # Knowledge Management — Map of Content
@@ -49,14 +52,4 @@ This cluster maps how knowledge is captured, structured, remembered, and retriev
 
 - [[Linked Open Data]]
 - [[DBpedia]]
-- [[lehmann-2015-dbpedia|DBpedia – A Large-scale, Multilingual Knowledge Base Extracted from Wikipedia]]
-
-## Adjacent MOCs
-
-- [[Teams & Org Behavior MOC]] — transactive/organizational memory
-- [[Institutional & Strategy MOC]] — knowledge-based view of the firm
-
-## Open questions / frontier
-
-- Where does the wiki-vs-RAG tradeoff actually break for large vaults?
-- How do organizational-memory mechanisms inform LLM-wiki design?
+- [[lehmann-2015-dbpedia|DBpedi

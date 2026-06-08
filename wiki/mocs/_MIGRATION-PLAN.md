@@ -8,6 +8,7 @@ tags:
 status: proposal
 related:
   - "[[Home MOC]]"
+updated: 2026-06-06
 ---
 
 # LYT Migration Plan — proposal (not yet executed)

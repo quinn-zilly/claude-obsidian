@@ -12,6 +12,7 @@ related:
   - "[[LLM Wiki Pattern]]"
   - "[[Wiki vs RAG]]"
   - "[[Wiki Map]]"
+created: 2026-04-07
 ---
 
 # Getting Started with claude-obsidian

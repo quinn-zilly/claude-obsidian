@@ -6,8 +6,7 @@ tags: [concept, training-evaluation, kirkpatrick, training-criteria]
 status: evergreen
 created: 2026-06-01
 updated: 2026-06-01
-related: ["[[Augmented Training Criteria Framework]]", "[[Training Reactions (Affective vs Utility)]]", "[[Training Transfer]]", "[[alliger-et-al-1997-training-criteria-meta-analysis]]"]
-  - "[[Learning & Development MOC]]"
+related: ["[[Augmented Training Criteria Framework]]", "[[Training Reactions (Affective vs Utility)]]", "[[Training Transfer]]", "[[alliger-et-al-1997-training-criteria-meta-analysis]]", "[[Learning & Development MOC]]"]
 ---
 
 # Kirkpatrick Four-Level Model

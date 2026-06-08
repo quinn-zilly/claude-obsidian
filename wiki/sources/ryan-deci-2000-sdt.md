@@ -15,6 +15,7 @@ tags: [source, motivation, psychology, SDT, well-being]
 status: evergreen
 related: ["[[Self-Determination Theory]]", "[[Intrinsic Motivation]]", "[[Extrinsic Motivation]]", "[[Basic Psychological Needs (SDT)]]", "[[Cognitive Evaluation Theory]]", "[[Organismic Integration Theory]]", "[[Richard Ryan]]", "[[Edward Deci]]", "[[Autonomy (SDT)]]", "[[Competence (SDT)]]", "[[Relatedness (SDT)]]", "[[Internalization (SDT)]]"]
 updated: 2026-05-29
+created: 2026-06-01
 ---
 
 # Ryan & Deci (2000) — SDT Overview

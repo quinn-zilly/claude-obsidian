@@ -4,6 +4,7 @@ tags: [training-evaluation, training-effectiveness, model, Kirkpatrick, posttrai
 status: evergreen
 created: 2026-06-04
 updated: 2026-06-04
+type: concept
 ---
 
 # Integrated Model of Training Evaluation and Effectiveness (IMTEE)

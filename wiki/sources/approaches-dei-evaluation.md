@@ -19,6 +19,7 @@ related:
   - "[[Diversity Training]]"
 ingested: 2026-06-04
 updated: 2026-06-05
+created: 2026-06-04
 ---
 
 # Approaches for Diverse, Equitable, and Inclusive Evaluation

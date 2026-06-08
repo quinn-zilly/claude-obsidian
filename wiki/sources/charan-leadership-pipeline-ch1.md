@@ -9,6 +9,7 @@ tags: [source, leadership-development, leadership-pipeline, succession, talent-m
 status: evergreen
 related: ["[[Leadership Pipeline]]", "[[Ram Charan]]", "[[Derailment]]", "[[Stretch Experiences]]"]
 updated: 2026-06-05
+created: 2026-06-04
 ---
 
 # The Leadership Pipeline — Chapter 1: Six Leadership Passages

@@ -9,6 +9,7 @@ tags: [source, leadership-development, transitions, career, talent-management]
 status: evergreen
 related: ["[[Transition Checklist]]", "[[Leadership Pipeline]]", "[[Derailment]]", "[[Paul Yost]]", "[[Mary Plunkett]]", "[[Stretch Experiences]]"]
 updated: 2026-06-05
+created: 2026-06-04
 ---
 
 # Transitions

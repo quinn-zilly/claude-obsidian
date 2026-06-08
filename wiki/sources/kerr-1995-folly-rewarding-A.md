@@ -12,6 +12,7 @@ status: ingested
 ingested: 2026-06-04
 related: ["[[Steven Kerr]]", "[[Reward System Misalignment]]", "[[Goal Displacement]]", "[[Fouled-Up Reward Systems]]", "[[Operant Conditioning]]", "[[Type I and Type II Errors (Medicine)]]"]
 updated: 2026-06-05
+created: 2026-06-04
 ---
 
 # Kerr (1995) — On the Folly of Rewarding A, While Hoping for B

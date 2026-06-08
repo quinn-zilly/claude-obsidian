@@ -11,7 +11,6 @@ tags:
 status: evergreen
 related:
   - "[[Claude SEO]]"
-  - "[[Pro Hub Challenge]]"
   - "[[Semantic Topic Clustering]]"
 ---
 

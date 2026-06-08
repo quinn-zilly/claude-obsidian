@@ -9,6 +9,7 @@ tags: [source, leadership-development, derailment, career, talent-management]
 status: evergreen
 related: ["[[Derailment]]", "[[Paul Yost]]", "[[Mary Plunkett]]", "[[Stretch Experiences]]", "[[Leadership Pipeline]]"]
 updated: 2026-06-05
+created: 2026-06-04
 ---
 
 # When Leaders Derail

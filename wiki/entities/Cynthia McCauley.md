@@ -7,6 +7,7 @@ tags: [entity, person, leadership-development, CCL]
 status: developing
 related: ["[[Paul Yost]]", "[[mccauley-yost-2021-comfort-zone]]", "[[Stretch Experiences]]", "[[Learning Agility]]"]
 updated: 2026-06-05
+created: 2026-06-04
 ---
 
 # Cynthia D. McCauley

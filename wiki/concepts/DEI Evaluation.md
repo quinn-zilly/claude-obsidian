@@ -16,6 +16,7 @@ related:
   - "[[Classroom Climate]]"
   - "[[approaches-dei-evaluation]]"
 updated: 2026-06-05
+created: 2026-06-04
 ---
 
 # DEI Evaluation

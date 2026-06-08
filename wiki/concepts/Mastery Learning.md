@@ -6,8 +6,7 @@ created: 2026-06-04
 updated: 2026-06-04
 tags: [concept, learning-science, pedagogy, skill-acquisition, expertise]
 status: evergreen
-related: ["[[Prior Knowledge]]", "[[Knowledge Organization]]", "[[Goal-Directed Practice and Feedback]]", "[[Active Learning (Training)]]", "[[cmu-eberly-learning-principles]]"]
-  - "[[Learning & Development MOC]]"
+related: ["[[Prior Knowledge]]", "[[Knowledge Organization]]", "[[Goal-Directed Practice and Feedback]]", "[[Active Learning (Training)]]", "[[cmu-eberly-learning-principles]]", "[[Learning & Development MOC]]"]
 ---
 
 # Mastery Learning

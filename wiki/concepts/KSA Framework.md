@@ -3,6 +3,9 @@ address: c-000462
 title: KSA Framework (Knowledge, Skills, Abilities)
 tags: [concept, HRM, job-analysis]
 updated: 2026-06-05
+type: concept
+status: seed
+created: 2026-06-04
 ---
 
 # KSA Framework

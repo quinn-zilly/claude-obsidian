@@ -18,6 +18,7 @@ related:
   - "[[LLM Wiki Pattern]]"
   - "[[Hot Cache]]"
   - "[[Compounding Knowledge]]"
+created: 2026-04-07
 ---
 
 # Concepts Index
@@ -83,7 +84,7 @@ All concept pages — ideas, patterns, and frameworks extracted from sources.
 - [[Semantic Topic Clustering]] — SERP-based keyword grouping; hub-spoke architecture (evergreen)
 - [[Search Experience Optimization]] — "read SERPs backwards" methodology; page-type mismatch detection (evergreen)
 - [[SEO Drift Monitoring]] — "git for SEO" baseline/diff/track with SQLite persistence (evergreen)
-- [[Pro Hub Challenge]] — community challenge pattern for building claude-seo/claude-blog extensions (evergreen)
+- Pro Hub Challenge — community challenge pattern for building claude-seo/claude-blog extensions (evergreen)
 - [[SVG Diagram Style Guide]] — canonical visual style; Space Grotesk, dark theme, #E07850 accent (evergreen)
 
 ---

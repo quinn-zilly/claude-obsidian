@@ -4,9 +4,9 @@ type: concept
 title: "Stretch Experiences"
 tags: [concept, leadership-development, on-the-job-development, learning-agility]
 status: evergreen
-related: ["[[Learning Agility]]", "[[On-the-Job Development]]", "[[Leadership Pipeline]]", "[[Derailment]]", "[[mccauley-yost-2021-comfort-zone]]", "[[yost-plunkett-2010-ten-catalysts]]"]
-  - "[[Learning & Development MOC]]"
+related: ["[[Learning Agility]]", "[[On-the-Job Development]]", "[[Leadership Pipeline]]", "[[Derailment]]", "[[mccauley-yost-2021-comfort-zone]]", "[[yost-plunkett-2010-ten-catalysts]]", "[[Learning & Development MOC]]"]
 updated: 2026-06-05
+created: 2026-06-04
 ---
 
 # Stretch Experiences

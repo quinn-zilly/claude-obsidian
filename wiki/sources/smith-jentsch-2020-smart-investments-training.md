@@ -11,6 +11,7 @@ tags: [training-investment, training-evaluation, benchmarking, transfer-climate,
 status: evergreen
 created: 2026-06-04
 updated: 2026-06-04
+type: source
 ---
 
 # Smith-Jentsch (2020) — Making Smart Investments in Training

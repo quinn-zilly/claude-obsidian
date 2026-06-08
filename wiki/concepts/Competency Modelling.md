@@ -3,6 +3,9 @@ address: c-000456
 title: Competency Modelling
 tags: [concept, HRM, job-analysis]
 updated: 2026-06-05
+type: concept
+status: seed
+created: 2026-06-04
 ---
 
 # Competency Modelling
