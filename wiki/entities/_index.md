@@ -76,3 +76,6 @@ All entity pages — people, organizations, products, and tools.
 ---
 
 ## Add new entities here as they are identified during ingests.
+
+- [[Yogesh Dwivedi]] — Swansea University IS researcher; lead author of the revised UTAUT (2019)
+- [[Viswanath Venkatesh]] — originator of UTAUT (2003), UTAUT2 (2012), TAM2/TAM3

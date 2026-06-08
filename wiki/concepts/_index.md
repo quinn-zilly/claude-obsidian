@@ -89,3 +89,10 @@ All concept pages — ideas, patterns, and frameworks extracted from sources.
 ---
 
 ## Add new concepts here as they are extracted from sources.
+
+- [[UTAUT]] — Unified Theory of Acceptance and Use of Technology (Venkatesh et al. 2003); 4 constructs + 4 moderators (developing)
+- [[Revised UTAUT Model]] — Dwivedi et al. (2019): attitude reinstated, moderators dropped, FC→BI added (developing)
+- [[Attitude as Mediator]] — individual-characteristics construct UTAUT omitted; partial mediation + direct effect on usage (developing)
+- [[MASEM]] — meta-analytic structural equation modelling; pool corrected correlation matrices, then fit SEM (developing)
+- [[Technology Acceptance Model]] — Davis (1989); perceived usefulness + ease of use; ancestor of UTAUT (seed)
+- [[Facilitating Conditions]] — UTAUT construct; org/technical infrastructure supporting use; contested FC→BI path (seed)

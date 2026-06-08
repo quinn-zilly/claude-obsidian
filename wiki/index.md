@@ -37,6 +37,12 @@ Navigation: [[Home MOC]] | [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[
 
 ## Concepts
 
+- [[UTAUT]] — Unified Theory of Acceptance and Use of Technology (Venkatesh et al. 2003); four constructs (PE, EE, SI, FC) + four moderators; synthesizes 8 adoption models (status: developing)
+- [[Revised UTAUT Model]] — Dwivedi et al. (2019): drop moderators, add FC→BI, add attitude as mediator; better fit + variance (status: developing)
+- [[Attitude as Mediator]] — individual-characteristics construct UTAUT omitted; partially mediates exogenous constructs on intention, direct effect on usage (status: developing)
+- [[MASEM]] — meta-analytic structural equation modelling; pool corrected correlation matrices across studies, then fit SEM (status: developing)
+- [[Technology Acceptance Model]] — Davis (1989); perceived usefulness + ease of use; TRA special case; ancestor of UTAUT (status: seed)
+- [[Facilitating Conditions]] — UTAUT construct; org/technical infrastructure supporting use; contested FC→BI path (status: seed)
 - [[Absorptive Capacity]] — firm's ability to identify, assimilate, transform, apply external knowledge (Cohen & Levinthal 1990); asset vs. capability fork; domain-specific, path-dependent (status: developing)
 - [[Dynamic Capabilities]] — capacity to create/extend/modify the resource base (Helfat et al. 2007); reconfigures substantive capabilities (status: developing)
 - [[Exploration vs Exploitation]] — twin pillars of organizational learning (March 1991); absorptive capacity biases toward exploitation (status: developing)
@@ -367,6 +373,8 @@ Navigation: [[Home MOC]] | [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[
 
 ## Entities
 
+- [[Yogesh Dwivedi]] — Swansea University IS researcher; lead author of revised UTAUT (2019)
+- [[Viswanath Venkatesh]] — originator of UTAUT (2003), UTAUT2 (2012), TAM2/TAM3
 - [[Wesley Cohen]] — co-originator of absorptive capacity; Cohen & Levinthal (1989/1990/1994)
 - [[Daniel Levinthal]] — co-originator of absorptive capacity; exploration/exploitation (Levinthal & March 1993)
 - [[Varun Grover]] — Clemson; Distinguished Professor of IS; IT value, technostress
@@ -455,6 +463,7 @@ Navigation: [[Home MOC]] | [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[
 
 ## Sources
 
+- [[dwivedi-2019-utaut-revision|Dwivedi et al. (2019)]] — Information Systems Frontiers | critical review + MASEM of UTAUT (1600 obs, 21 relationships, 162 studies); reinstates attitude as mediator; adds FC→BI; emergent AT→UB, FC→AT, SI→AT; R² BI 38→45%, UB 21→27% | 2026-06-07
 - [[roberts-2012-absorptive-capacity-is-review|Roberts et al. (2012)]] — MIS Quarterly | review of absorptive capacity in IS (98 articles, 1990-2008); asset-vs-capability confusion; 4 themes; IT-capability × org-capability synergy framework + 4 propositions | 2026-06-07
 - [[thibault-2023-open-science-2-0|Thibault et al. (2023)]] — PLOS Biology | Open Science 2.0 essay; openness necessary-but-not-sufficient; Web1.0→2.0 analogy; 4 requirements + 7-point roadmap; data-sharing gap (1-3% actual); fund infrastructure not volunteers | 2026-06-07
 - [[arthur-et-al-2003-training-meta-analysis|Arthur, Bennett, Edens & Bell (2003)]] — Journal of Applied Psychology | meta-analysis of training design/evaluation features; d=0.60–0.63 across Kirkpatrick criteria; method×skill match, needs assessment, criterion type as moderators; 397 ds, 162 sources, 1960–2000 | 2026-06-04
@@ -474,43 +483,4 @@ Navigation: [[Home MOC]] | [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[
 - [[tett-et-al-2021-trait-activation-theory|Tett, Toich & Ozkum (2021)]] — Annual Review of Organizational Psychology | TAT review 2011–2019; 60% moderator significance rate; personality dynamics 5×5 matrix; future directions | 2026-06-01
 - [[ryan-et-al-2022-sdt-meta-review|Ryan et al. (2022)]] — Psychological Bulletin | meta-review 60+ SDT meta-analyses; CET/OIT/COT/BPNT/GCT/RMT; effect sizes across education/health/work/sport/parenting | 2026-05-29
 - [[kanfer-frese-johnson-2017-work-motivation|Kanfer, Frese & Johnson (2017)]] — Journal of Applied Psychology | Work motivation century review; content-context-process meta-framework; resource allocation; 10 future directions | 2026-05-30
-- [[locke-latham-2002-goal-setting-theory|Locke & Latham (2002)]] — American Psychologist | Goal-Setting Theory 35-year summary; core findings, 4 mechanisms, moderators, HPC, applications | 2026-05-30
-- [[frayne-latham-1987-self-management-attendance|Frayne & Latham (1987)]] — Journal of Applied Psychology | Self-management training → employee attendance; SE mechanism; RCT unionized govt workers; 12-hr program; attendance ω²=.10 | 2026-06-04
-- [[ryan-deci-2000-sdt|Ryan & Deci (2000)]] — American Psychologist | SDT canonical overview; intrinsic motivation, OIT continuum, basic psychological needs | 2026-05-29
-- [[fischhoff-broomell-2020-jdm-review|Fischhoff & Broomell (2020)]] — Annual Review of Psychology | JDM state-of-field review | 2026-05-26
-- [[jebb-ng-tay-2021-likert-scale-advances|Jebb, Ng & Tay (2021)]] — Frontiers in Psychology | Selective review of 40 Likert scale development advances 1995–2019; 5 in-depth topics: construct validity, construct definition, readability tests, omega/IRT, ACO short forms | 2026-06-01
-- [[cornelissen-werner-2014-framing-review|Cornelissen & Werner (2014)]] — Academy of Management Annals | multi-level framing review | 2026-05-24
-- [[connolly-2012-jdm|Connolly, Ordóñez & Barker (2012)]] — Handbook of Psychology Ch. 19 | JDM comprehensive survey | 2026-05-23
-- [[claude-obsidian-ecosystem-research]] — 2026-04-08 | web research across 16+ repos | 8 wiki pages created
-- [[zahra-2020-knowledge-integration|Zahra et al. (2020)]] — Academy of Management Annals | knowledge integration review | 2026-05-15
-- [[argote-2021-organizational-learning|Argote et al. (2021)]] — Management Science | organizational learning processes review | 2026-05-15
-- [[argote-2011-org-learning-experience|Argote & Miron-Spektor (2011)]] — Organization Science | experience-to-knowledge framework | 2026-05-15
-- [[alavi-leidner-2001-knowledge-management|Alavi & Leidner (2001)]] — MIS Quarterly | KMS conceptual foundations | 2026-05-15
-- [[grant-1996-knowledge-based-theory|Grant (1996)]] — SMJ | knowledge-based theory of the firm; four integration mechanisms | 2026-05-19
-- [[barney-felin-2013-microfoundations|Barney & Felin (2013)]] — AMP | microfoundations; additive vs. emergent aggregation | 2026-05-19
-- [[argote-miron-spektor-2011-org-learning-journal|Argote & Miron-Spektor (2011, journal)]] — Org Science | experience × context → knowledge (journal article version) | 2026-05-19
-- [[bosco-2020-metabus|Bosco et al. (2020)]] — AMPPS | metaBUS; 1M+ curated findings; rapid meta-analysis | 2026-05-19
-- [[nosek-2018-preregistration|Nosek et al. (2018)]] — PNAS | preregistration revolution; prediction vs. postdiction | 2026-05-19
-- [[lebel-2018-credibility-framework|LeBel et al. (2018)]] — AMPPS | credibility framework; four dimensions; replication taxonomy | 2026-05-19
-- [[lehmann-2015-dbpedia|Lehmann et al. (2015)]] — Semantic Web | DBpedia; 400M+ facts; LOD hub | 2026-05-19
-- [[foster-deardorff-2017-osf|Foster & Deardorff (2017)]] — JMLA | OSF resource review; preregistration infrastructure | 2026-05-19
-- [[open-science-collaboration-2015|Open Science Collaboration (2015)]] — Science | 100 replications; 36% success rate; replication crisis benchmark | 2026-05-19
-- [[munafo-2017-manifesto|Munafò et al. (2017)]] — Nature Human Behaviour | manifesto for reproducible science; five reform categories | 2026-05-19
-- [[nosek-bar-anan-2012-scientific-utopia-i|Nosek & Bar-Anan (2012)]] — Psychological Inquiry | Scientific Utopia I; six communication reforms; barriers are social not technical
-- [[leidner-kayworth-2006-culture-is-review|Leidner & Kayworth (2006)]] — MIS Quarterly | culture in IS review; theory of IT-culture conflict | 2026-06-07 | 2026-05-20
-- [[yost-plunkett-2010-ten-catalysts|Yost & Plunkett (2010)]] — Industrial and Organizational Psychology | ten catalysts to embed OJD in HR systems | 2026-05-21
-- [[mccauley-yost-2021-comfort-zone|McCauley & Yost (2021)]] — *The Age of Agility* Ch. 8 | stretch experiences; LA as antecedent/moderator/outcome; 8 daily heuristics | 2026-06-04
-- [[yost-plunkett-2009-derailment|Yost & Plunkett (2009)]] — *Real Time Leadership Development* Ch. 9 | 10 deadly sins of derailment; recovery process; org prevention | 2026-06-04
-- [[yost-plunkett-2009-transition|Yost & Plunkett (2009)]] — *Real Time Leadership Development* Ch. 19 | transitions as norm not exception; 9 career passages + 6 pipeline levels; 5 navigation strategies; transition checklist | 2026-06-04
-- [[charan-leadership-pipeline-ch1|Charan et al. (2001)]] — *The Leadership Pipeline* Ch. 1 | six passages; skills/time/values; pipeline clogs; succession diagnostic | 2026-06-04
-- [[beigi-2025-career-success-minority|Beigi et al. (2025)]] — Journal of Management | career success and minority status; complex visibility; 337 articles; 4 minority groups | 2026-05-21
-- [[uhlmann-2019-crowdsourcing-science|Uhlmann et al. (2019)]] — Perspectives on Psychological Science | Scientific Utopia III; crowdsourcing as complement to standard model; 2×2 typology; structural reforms | 2026-05-21
-- [[giner-sorolla-2012-science-or-art|Giner-Sorolla (2012)]] — Perspectives on Psychological Science | publication bottleneck as root cause of replication crisis; three aesthetic criteria; information-economic account | 2026-05-21
-- [[kerr-1998-harking|Kerr (1998)]] — Personality and Social Psychology Review | HARKing origin paper; three forms; cognitive/social mechanisms; proposed preregistration reforms | 2026-05-21
-- [[nosek-2022-replicability-robustness-reproducibility|Nosek et al. (2022)]] — Annual Review of Psychology | the three R's (replicability/robustness/reproducibility); replication as theoretical commitment; what predicts replication success; cultural/structural barriers; metascience agenda | 2026-05-22
-
-## Folds
-
-- [[fold-k5-from-2026-05-23-to-2026-06-04-n32|Fold k5 — 2026-05-23 to 2026-06-04]] — 32 entries (training/dev, motivation, teams, JDM)
-- [[fold-k4-from-2026-04-08-to-2026-04-24-n16|Fold k4 — 2026-04-08 to 2026-04-24]] — 16 entries
-- [[fold-k3-from-2026-04-23-to-2026-04-24-n8|Fold k3 — 2026-04-23 to 2026-04-24]] — 8 entries
+- [[locke

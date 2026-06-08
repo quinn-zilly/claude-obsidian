@@ -18,6 +18,13 @@ Navigation: [[index]] | [[hot]] | [[overview]]
 
 Append-only. New entries go at the TOP. Never edit past entries.
 
+## [2026-06-07] ingest | Dwivedi et al. (2019) — Re-examining UTAUT
+- Source: `.raw/Dwivedi et al. - 2019 - Re-examining the Unified Theory of Acceptance and Use of Technology (UTAUT) Towards a Revised Theor.md`
+- Summary: [[dwivedi-2019-utaut-revision|Dwivedi et al. (2019)]]
+- Pages created: [[UTAUT]], [[Revised UTAUT Model]], [[Attitude as Mediator]], [[MASEM]], [[Technology Acceptance Model]], [[Facilitating Conditions]], [[Yogesh Dwivedi]], [[Viswanath Venkatesh]]
+- Pages updated: [[Culture & IT MOC]], [[index]], [[hot]]
+- Key insight: Reinstating attitude (dropped by UTAUT for parsimony) as a mediator lifts explained variance (BI 38%→45%, UB 21%→27%) and yields a far better-fitting model; attitude is where technology attributes and contextual factors converge before becoming intention/behaviour.
+
 ## [2026-06-07] ingest | Roberts et al. (2012) — Absorptive Capacity and IS Research
 - Source: `.raw/Roberts et al. - 2012 - Absorptive Capacity and Information Systems Research Review, Synthesis, and Directions for Future R.md`
 - Summary: [[roberts-2012-absorptive-capacity-is-review]]
@@ -388,32 +395,4 @@ Parse recent entries: `grep "^## \[" wiki/log.md | head -10`
   - `.raw/Munafò et al. - 2017 - A Manifesto for Reproducible Science.pdf`
 - Source summaries created: [[grant-1996-knowledge-based-theory]], [[barney-felin-2013-microfoundations]], [[argote-miron-spektor-2011-org-learning-journal]], [[bosco-2020-metabus]], [[nosek-2018-preregistration]], [[lebel-2018-credibility-framework]], [[lehmann-2015-dbpedia]], [[foster-deardorff-2017-osf]], [[open-science-collaboration-2015]], [[munafo-2017-manifesto]]
 - Concepts created: [[Knowledge-Based Theory of the Firm]], [[Microfoundations]], [[Replication Crisis]], [[Open Science]], [[Preregistration]], [[Registered Reports]], [[Publication Bias]], [[P-hacking]], [[HARKing]], [[Analytic Reproducibility]], [[Open Science Framework]], [[metaBUS]], [[DBpedia]], [[Linked Open Data]]
-- Entities created: [[Robert Grant]], [[Jay Barney]], [[Teppo Felin]], [[Ella Miron-Spektor]], [[Frank Bosco]], [[Brian Nosek]], [[Etienne LeBel]], [[Jens Lehmann]], [[Christian Bizer]], [[Marcus Munafò]], [[John Ioannidis]], [[Center for Open Science]], [[Open Science Collaboration]]
-- Pages updated: [[concepts/_index]], [[entities/_index]], [[sources/_index]], [[index]], [[hot]]
-- Addresses assigned: c-000018 through c-000054 (37 pages)
-- Key insight: This ingest spans three new sub-domains: (1) Knowledge-based theory of the firm / microfoundations — Grant's four integration mechanisms and Barney & Felin's aggregation framework extend the existing KM domain and directly address the micro-macro gap identified in [[zahra-2020-knowledge-integration]]; (2) Open science / replication crisis — OSC 2015, Nosek 2018, LeBel 2018, and Munafò 2017 form a tight cluster documenting the replication crisis and proposing reforms; (3) Semantic web / knowledge graphs — DBpedia and LOD represent knowledge codification at web scale, connecting to tacit/explicit distinctions from the KM domain. Cross-domain connection: [[metaBUS]] bridges open science and KM by creating a knowledge retention infrastructure for meta-analytic science.
-
-## [2026-05-15] batch-ingest | 4 Knowledge Management PDFs
-
-- Sources:
-  - `.raw/Zahra et al. - 2020 - What Do We Know About Knowledge Integration...pdf`
-  - `.raw/Argote et al. - 2021 - Organizational Learning Processes and Outcomes...pdf`
-  - `.raw/Argote-OrganizationalLearningExperience-2011.pdf`
-  - `.raw/Alavi and Leidner - 2001 - Knowledge Management and Knowledge Management Systems...pdf`
-- Summaries created: [[zahra-2020-knowledge-integration]], [[argote-2021-organizational-learning]], [[argote-2011-org-learning-experience]], [[alavi-leidner-2001-knowledge-management]]
-- Concepts created: [[Knowledge Integration]], [[Organizational Learning]], [[Knowledge Management]], [[Learning Curves]], [[Transactive Memory Systems]], [[Knowledge Transfer]], [[Tacit vs Explicit Knowledge]], [[Knowledge-Based View of the Firm]], [[Knowledge Retention]]
-- Entities created: [[Linda Argote]], [[Shaker Zahra]], [[Maryam Alavi]]
-- Pages updated: [[concepts/_index]], [[entities/_index]], [[sources/_index]], [[index]], [[hot]]
-- Addresses assigned: c-000003 through c-000017 (15 pages)
-- Key insight: All four sources converge on the tacit/explicit distinction as the central design variable for knowledge management. Argote's experience-context-knowledge cycle provides a unifying framework for organizational learning; Alavi & Leidner's process view gives IT its role within that framework; Zahra et al. show that micro and macro perspectives on knowledge integration have largely talked past each other.
-
-
-## 2026-06-07 — Filed question answer (wiki-query)
-- Created [[knowledge-management-academic-science-problems-solutions]] in wiki/questions/
-- Synthesizes: [[nosek-bar-anan-2012-scientific-utopia-i]], [[nosek-2012-scientific-utopia-ii]], [[uhlmann-2019-crowdsourcing-science]], [[munafo-2017-manifesto]], [[thibault-2023-open-science-2-0]]
-- Added Questions section + entry to [[index]]
-
-## 2026-06-07 — wiki-query: ideal KM system for academic research
-- Question filed: [[ideal-km-system-academic-research]] (Open Science 2.0 as target state + 4 sub-questions)
-- Pages updated: [[index]] (Questions section)
-- Related existing: [[knowledge-management-academic-science-problems-solutions]] (problems/solutions complement)
+- Entities created: [[Robert Grant]], [[Jay Barney]], [[Teppo Felin]], [[Ella Miron-Spektor]], [[Frank Bosco]], [[Brian Nosek]],

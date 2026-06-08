@@ -1241,6 +1241,30 @@
         "wiki/hot.md",
         "wiki/log.md"
       ]
+    },
+    ".raw/Dwivedi et al. - 2019 - Re-examining the Unified Theory of Acceptance and Use of Technology (UTAUT) Towards a Revised Theor.md": {
+      "hash": "36a389dfd15d4419616bb31e00478454",
+      "ingested_at": "2026-06-07",
+      "pages_created": [
+        "wiki/sources/dwivedi-2019-utaut-revision.md",
+        "wiki/concepts/UTAUT.md",
+        "wiki/concepts/Revised UTAUT Model.md",
+        "wiki/concepts/Attitude as Mediator.md",
+        "wiki/concepts/MASEM.md",
+        "wiki/concepts/Technology Acceptance Model.md",
+        "wiki/concepts/Facilitating Conditions.md",
+        "wiki/entities/Yogesh Dwivedi.md",
+        "wiki/entities/Viswanath Venkatesh.md"
+      ],
+      "pages_updated": [
+        "wiki/index.md",
+        "wiki/log.md",
+        "wiki/hot.md",
+        "wiki/mocs/Culture & IT MOC.md",
+        "wiki/sources/_index.md",
+        "wiki/entities/_index.md",
+        "wiki/concepts/_index.md"
+      ]
     }
   },
   "address_map": {
@@ -1762,7 +1786,16 @@
     "wiki/entities/Michael Dinger.md": "c-000606",
     "wiki/entities/Varun Grover.md": "c-000607",
     "wiki/entities/Wesley Cohen.md": "c-000608",
-    "wiki/entities/Daniel Levinthal.md": "c-000609"
+    "wiki/entities/Daniel Levinthal.md": "c-000609",
+    "wiki/sources/dwivedi-2019-utaut-revision.md": "c-000611",
+    "wiki/concepts/UTAUT.md": "c-000614",
+    "wiki/concepts/Revised UTAUT Model.md": "c-000615",
+    "wiki/concepts/Attitude as Mediator.md": "c-000616",
+    "wiki/concepts/MASEM.md": "c-000617",
+    "wiki/concepts/Technology Acceptance Model.md": "c-000618",
+    "wiki/concepts/Facilitating Conditions.md": "c-000619",
+    "wiki/entities/Yogesh Dwivedi.md": "c-000612",
+    "wiki/entities/Viswanath Venkatesh.md": "c-000613"
   },
   ".raw/Pearsall et al. - 2025 - A stimulus-based model of the team adaptation process An integrated conceptual review..pdf": {
     "hash": "62f683006d3323a67c67fc23621f632a",
