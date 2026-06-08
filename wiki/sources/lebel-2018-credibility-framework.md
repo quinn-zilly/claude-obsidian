@@ -95,6 +95,23 @@ LeBel et al. apply the framework to a specific finding — that men and women di
 
 The paper introduces curatescience.org as a platform for applying this framework to published findings, crowdsourcing credibility ratings with evidence links.
 
+## Benefits
+Theory building and application
+- Researchers can base beliefs about the credibility of effects on empirical evidence rather than  authority (e.g., journal or university prestige). 
+- Researchers can more accurately estimate effect sizes within a research area, and thereby better  estimate sample sizes needed to achieve sufficient statistical power. 
+- Researchers can identify important studies that have not yet been replicated and commission such  replications (via, e.g., StudySwap or the Psychological Science Accelerator). 
+Metascience 
+- Curation can yield a rich database of transparently reported original and replication studies that  can be used for metascience research to deepen understanding of the predictors of replicability (e.g., the original study’s p value, sample size, study design). 
+- The curated information can be used to track transparency, reproducibility, robustness, and  replicability of studies over time in order to gauge a discipline’s progress in achieving higher research integrity. 
+Pedagogy
+- A searchable database can be used to teach students about transparency and replication (e.g., it  provides real-world examples of effects exhibiting different levels of replicability; it can also inform teachers about replicable effects that can justifiably be included in course materials). 
+Practical benefits
+- Curated information can help researchers locate publicly available experimental materials for  follow-up research and publicly available data sets and reproducible code for secondary analyses and reanalyses from alternative theoretical perspectives.
+- Researchers can identify replicable effects that are ready to be extended (which is particularly  useful for graduate students, early-career researchers, and applied researchers). 
+Social norms
+- Making it easier to find transparently reported research increases the likelihood that ambivalent  or unaware researchers will decide to adopt transparent practices, and hence can accelerate a cultural shift in the research community so that it becomes the social norm to report one’s research transparently.
+- increasing the visibility of replication studies rewards researchers who devote their time to replicating the work of others.
+
 ## Key Entities
 
 - [[Etienne LeBel]] — Western University (University of Western Ontario); social psychology, meta-science
