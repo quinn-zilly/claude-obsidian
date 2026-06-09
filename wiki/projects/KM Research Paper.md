@@ -20,12 +20,13 @@ Of particular importance are the following:
 # Questions
 
 - What is the ideal system for creating, sharing, and organizing knowledge in academia? 
-	- What do we know from KM?
-	- What is specific to academic research?
+	- What do we know from Knowledge Management (KM) and Organizational Learning/Memory literature?
+	- What is specific to academia?
 	- What is the goal of KM in academia?
-- How is academia handling KM now?
+- How is academia handling KM and Organizational Memory now?
 	- What are the factors that contribute to this system?
 	- What are the incentives, structures, and cultures that maintain the system?
+	- What are the unintended outcomes of this system?
 - What is the difference between the ideal and reality?
 	- What is going well?
 	- What can continue to be built upon?
@@ -33,7 +34,7 @@ Of particular importance are the following:
 - What changes need to be made?
 	- What are the most critical changes?
 	- What are the next small wins?
-	- What are the barriers to change
+	- What are the barriers to change?
 
 # Outline
 - Intro
