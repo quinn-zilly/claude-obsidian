@@ -9,6 +9,14 @@ status: developing
 updated: 2026-06-03
 created: 2026-06-03
 ---
+# Instructions
+Each student will write a formal research paper on some topics of their choice within the knowledge management domain (subject to the approval of the instructor).  This research paper should be of high enough quality to submit to an IS conference or journal.  APA style and 10+  formal references need to be used.  Each student/team will also give a 5-10-minute presentation of their research on the assigned date.
+
+Of particular importance are the following:
+- Adherence to the APA style formatting, including things like cover sheets and citation methods
+- Strong references from good journals (the list of journals in the syllabus for this course is a good starting point)
+- A focused topic
+
 # Questions
 
 - What is the ideal system for creating, sharing, and organizing knowledge in academia? 
@@ -25,23 +33,23 @@ created: 2026-06-03
 - What changes need to be made?
 	- What are the most critical changes?
 	- What are the next small wins?
+	- What are the barriers to change
 
 # Outline
 - Intro
 - Replication Crisis in Science
 - Current Progress in Open Science
-- Future Solutions and Institutional Change
+- Future Solutions and Open Science 2.0
+- Barriers and Institutional Change
 - Conclusion
 
+# Rough Draft
 ## Intro
 - The primary objective of science as a discipline is to accumulate knowledge about the nature of the observable universe [[nosek-2012-scientific-utopia-ii]]. 
 - Under the post-positivist paradigm of Western science, knowledge is accumulated via the objective falsification of hypotheses to reach the closest reasonable approximation of verifiable truth [[Ponterotto-2005-Qualitative-Research-Paradigms]].
 - The mission of science is best served by researchers who are motivated to search for truth about nature, and disseminate their findings openly and accurately. However, individual researchers are best served by what will allow them to succeed professionally. That is, scientists must do what gets their work published in prestigious journals. The problem is that under the current incentive structure, the goals of truth and accuracy are not aligned with the goal of publishability. Historically, journals almost exclusively publish positive findings of novel results, so studies with null or replicated findings go unpublished [[nosek-2012-scientific-utopia-ii]]. 
 - Despite the best intentions of all involved, one cannot hope for researchers to prioritize accuracy when they are being rewarded for publishability. People tend to behave in the ways in which they are incentivized to behave, and it is folly to expect otherwise [[kerr-1995-folly-rewarding-A]].
 - Open science has become more prevalent thanks to a number of tools and communities like OSF [[nosek-2022-replicability-robustness-reproducibility]] . 
-- Preliminary evidence suggests the registered reports can improve the quality of research rigor. Soderberg et al. (2018) had 353 researchers peer review and compare a published RR paper and a comparison paper from a non-RR publication. They found significant improvements in perceived methodological and analytical rigor without significant differences in novelty or creativity.
-- There is a long way to go
-	- [[hardwicke-et-al-2022-transparency-prevalence-psychology]] examined a random sample of psychology studies from 2014-2017. They found that, although 65% of the articles were publicly available, provided access to research materials (14%), study protocols (0%), data (2%), or analysis scripts (> 1%). Furthermore, only 3% of the studies had preregistered their hypotheses.
 
 ## Problems
 
@@ -60,7 +68,7 @@ Misaligned incentives, "Openness is not needed because we are untrustworthy; it 
 - Motivated reasoning justifies questionable practices in the service of personal motives.
 - This creates questionable practices, which increases the proportion of false results
 
-- The OSC conducted direct replications of 100 experimental and correlational studies published in three 2008 issues of major psychology journals. Of those 100 replication attempts, only 36 produced statistically significant results in the same direction and replication effects were half the magnitude of originals [[open-science-collaboration-2015]]
+
 
 - Publication bottleneck (too many studies, too few publication outlets) forces researchers to master the *art* of producing perfect-looking results. Articles cannot pass through by showing theoretical meaning and methodological rigor alone; their results must _appear_ to support the hypothesis perfectly. This favors aesthetic criteria over scientific ones [[giner-sorolla-2012-science-or-art]].
 	- Statistical perfection (p<.05)
@@ -68,14 +76,14 @@ Misaligned incentives, "Openness is not needed because we are untrustworthy; it 
 	- Novelty
 
 ### Questionable Research Practices
-Questionable practices:
+[[Questionable Research Practices]]:
 1. Running many low-powered studies instead of high-powered ones
 2. Selective dismissal of "failed" pilot studies while uncritically accepting successful ones
 3. Selective reporting of positive vs. negative results
 4. Stopping data collection once significance is achieved
 5. Including multiple variables and reporting only those that "worked" ([[P-hacking]])
 6. Maintaining flexibility in analysis, exclusion criteria, and data transformations
-7. Reporting discoveries as if confirmatory (HARKing)
+7. Reporting discoveries as if confirmatory ([[HARKing]])
 8. Avoiding direct replication
 
 ## Solutions
@@ -202,6 +210,7 @@ Questionable practices:
 Four ingredients of an ideal ecosystem-wide implementation:
 
 1. **A modular and dynamic research record** — share components (hypotheses, protocols, data, code, manuscripts, reviews) when each is ready, not at the end. Linked via persistent identifiers, with version control and forking. A "record of versions" rather than a static "version of record." GitHub/open-source is the working model; protocols.io, Figshare, Dryad, Octopus, ResearchEquals are partial instances.
+	- Related -> [[Transactive Memory Systems]]
 2. **Standardization and interoperability** — agreed data structures, vocabularies, metadata so humans *and machines* can integrate datasets. GenBank/UniProt/AlphaFold show the payoff. Custom spreadsheets are the anti-pattern.
 3. **Ongoing quality control** — distributed and partly automated, throughout the cycle (like manufacturing QC), not just at the end. AI could flag missing info, retracted references, bad RRIDs, protocol inconsistencies.
 4. **Reorganization of scientific labor** — task specialization across larger teams (Data Manager, Systematic Reviewer, Statistician), rewarded as such. Distributed collaborations like [[Big Team Science\|Psychological Science Accelerator]] and ManyBabies as models.
@@ -217,6 +226,69 @@ Four ingredients of an ideal ecosystem-wide implementation:
 - Prestige is the primary currency being traded in academic research.
 - Because publishing is the primary method of gaining and maintaining prestige, it creates normative pressure to conform to standards of publishability, which outweighs any competitive pressures to improve accuracy [[dimaggio-powell-1983-institutional-isomorphism]].
 - Forces individual researchers to conform to institutionally embedded publishing standards
+
+## Evidence
+
+- The OSC conducted direct replications of 100 experimental and correlational studies published in three 2008 issues of major psychology journals. Of those 100 replication attempts, only 36 produced statistically significant results in the same direction and replication effects were half the magnitude of originals [[open-science-collaboration-2015]]
+ - Preliminary evidence suggests the registered reports can improve the quality of research rigor. Soderberg et al. (2018) had 353 researchers peer review and compare a published RR paper and a comparison paper from a non-RR publication. They found significant improvements in perceived methodological and analytical rigor without significant differences in novelty or creativity.
+- There is a long way to go. [[hardwicke-et-al-2022-transparency-prevalence-psychology]] examined a random sample of psychology studies from 2014-2017. They found that, although 65% of the articles were publicly available, provided access to research materials (14%), study protocols (0%), data (2%), or analysis scripts (> 1%). Furthermore, only 3% of the studies had preregistered their hypotheses.
+
+# Concepts
+
+- [[Replication Crisis]]
+- [[Replicability]]
+- [[Replication]]
+- [[Open Science]]
+- [[Open Science 2.0]]
+- [[Open Science Framework]]
+- [[Open Science Collaboration]]
+- [[Questionable Research Practices]]
+- [[Motivated Reasoning]]
+- [[Scientific Communication Reform]]
+- [[Preregistration]]
+- [[Open Access]]
+- [[Open Data]]
+- [[Open Methods and Tools]]
+- [[Open Workflow]]
+- [[Big Team Science]]
+- [[FAIR Principles]]
+- [[File-Drawer Problem]]
+- [[Reward System Misalignment]]
+- [[Goal Displacement]]
+- [[Publication Bias]]
+- [[Publication Bottleneck]]
+- [[Researcher Degrees of Freedom]]
+- [[Publish or Perish]]
+- [[HARKing]]
+- [[P-hacking]]
+- [[Registered Reports]]
+- [[Replication Types Taxonomy|Replication Types]]
+- [[Crowdsourcing Science]]
+- [[CRediT]]
+- [[Reproducibility Networks]]
+- [[Meta-Research]]
+- [[Knowledge Management]]
+- [[Knowledge Transfer]]
+- [[Knowledge Retention]]
+- [[IT-Culture Conflict]]
+- [[IT Culture]]
+- [[Institutional Isomorphism]]
+- [[Rationalized Myth]]
+- [[Institutional Change Pathways]]
+- [[Institutional Entrepreneurship]]
+- [[Institutional Frame]]
+- [[Decoupling]]
+- [[Philosophy of Science Parameters]]
+- [[Research Paradigm]]
+- [[Organizational Learning]]
+- [[Organizational Memory]]
+- [[Transactive Memory Systems]]
+- [[Knowledge Specialization]]
+- [[Expertise Location]]
+- [[Task Coordination]]
+- [[Web 2.0 Technologies]]
+- [[Web of Science]]
+- [[OA Type Classification]]
 
 # Sources
 
@@ -257,3 +329,13 @@ Four ingredients of an ideal ecosystem-wide implementation:
 [[hardwicke-et-al-2022-transparency-prevalence-psychology]]
 
 [[open-science-collaboration-2015]]
+
+[[shrout-rodgers-2018-replication-crisis]]
+
+[[bosco-2020-metabus]]
+
+[[ren-argote-2011-tms]]
+
+[[argote-2011-org-learning-experience]]
+
+[[argote-2021-organizational-learning]]

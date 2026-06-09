@@ -29,7 +29,7 @@ md = MarkItDown(
     enable_plugins=True,
     llm_client=OpenRouter(
     api_key=os.getenv('openrouter_key')
-),
+    ),
     llm_model="openrouter/free",
 )
 result = md.convert(input_path)

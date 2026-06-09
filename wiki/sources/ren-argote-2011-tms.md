@@ -13,7 +13,6 @@ source_type: academic-review
 created: 2026-05-21
 type: source
 status: developing
-updated: 2026-05-21
 tags:
   - transactive-memory
   - team-cognition
@@ -22,6 +21,19 @@ tags:
 address: c-000207
 related:
   - "[[Teams & Org Behavior MOC]]"
+  - "[[Transactive Memory Systems]]"
+  - "[[Team Cognition]]"
+  - "[[Organizational Memory]]"
+  - "[[Knowledge Specialization]]"
+  - "[[Expertise Location]]"
+  - "[[Task Credibility]]"
+  - "[[Team Mental Models]]"
+  - "[[Shared Mental Models]]"
+  - "[[Organizational Learning]]"
+  - "[[Knowledge Transfer]]"
+  - "[[Group Performance]]"
+  - "[[Team Learning]]"
+updated: 2026-06-09
 ---
 
 # Transactive Memory Systems 1985–2010: An Integrative Framework
@@ -197,7 +209,7 @@ Dimensions not always highly correlated. In mature, established teams, correlati
 ## Cross-References
 
 - [[Daniel M. Wegner]] (original theorist)
-- [[Kristina Lewis]] (measurement pioneer)
+- [[Kyle Lewis]] (measurement pioneer)
 - [[Richard Moreland]] (group dynamics perspective)
 - [[Linda Argote]] (organizational learning perspective)
 - [[Andrea Hollingshead]] (communication & retrieval)
