@@ -19,6 +19,7 @@ Of particular importance are the following:
 
 # Questions
 
+These are the questions I want to investigate in this research paper:
 - What is the ideal system for creating, sharing, and organizing knowledge in academia? 
 	- What do we know from Knowledge Management (KM) and Organizational Learning/Memory literature?
 	- What is specific to academia?
@@ -52,7 +53,7 @@ Of particular importance are the following:
 - Despite the best intentions of all involved, one cannot hope for researchers to prioritize accuracy when they are being rewarded for publishability. People tend to behave in the ways in which they are incentivized to behave, and it is folly to expect otherwise [[kerr-1995-folly-rewarding-A]].
 - Open science has become more prevalent thanks to a number of tools and communities like OSF [[nosek-2022-replicability-robustness-reproducibility]] . 
 
-## Problems
+## Replication Crisis in Science
 
 ### Scientific Communication is Inefficient
 Five inefficiencies of scientific communication [[nosek-bar-anan-2012-scientific-utopia-i]]
@@ -69,7 +70,7 @@ Misaligned incentives, "Openness is not needed because we are untrustworthy; it 
 - Motivated reasoning justifies questionable practices in the service of personal motives.
 - This creates questionable practices, which increases the proportion of false results
 
-
+- The OSC conducted direct replications of 100 experimental and correlational studies published in three 2008 issues of major psychology journals. Of those 100 replication attempts, only 36 produced statistically significant results in the same direction and replication effects were half the magnitude of originals [[open-science-collaboration-2015]]
 
 - Publication bottleneck (too many studies, too few publication outlets) forces researchers to master the *art* of producing perfect-looking results. Articles cannot pass through by showing theoretical meaning and methodological rigor alone; their results must _appear_ to support the hypothesis perfectly. This favors aesthetic criteria over scientific ones [[giner-sorolla-2012-science-or-art]].
 	- Statistical perfection (p<.05)
@@ -206,7 +207,12 @@ Misaligned incentives, "Openness is not needed because we are untrustworthy; it 
 
 3. **Assessing robustness:** crowdsourcing uniquely suited to evaluate reliability and generalizability; multilab designs vary populations and procedures; failure to replicate tends to be *consistent* across labs (not explained by moderators)
 
-### Open Science 2.0
+## Current Progress in Open Science
+- Open science has become more prevalent thanks to a number of tools and communities like OSF [[nosek-2022-replicability-robustness-reproducibility]] . 
+- Preliminary evidence suggests the registered reports can improve the quality of research rigor. Soderberg et al. (2018) had 353 researchers peer review and compare a published RR paper and a comparison paper from a non-RR publication. They found significant improvements in perceived methodological and analytical rigor without significant differences in novelty or creativity.
+- There is a long way to go. [[hardwicke-et-al-2022-transparency-prevalence-psychology]] examined a random sample of psychology studies from 2014-2017. They found that, although 65% of the articles were publicly available, provided access to research materials (14%), study protocols (0%), data (2%), or analysis scripts (> 1%). Furthermore, only 3% of the studies had preregistered their hypotheses.
+
+## Future Solutions and Open Science 2.0
 
 Four ingredients of an ideal ecosystem-wide implementation:
 
@@ -217,7 +223,7 @@ Four ingredients of an ideal ecosystem-wide implementation:
 4. **Reorganization of scientific labor** — task specialization across larger teams (Data Manager, Systematic Reviewer, Statistician), rewarded as such. Distributed collaborations like [[Big Team Science\|Psychological Science Accelerator]] and ManyBabies as models.
 
 
-## Institutional Change
+## Barriers and Institutional Change
 - Given the clear benefits of proposed changes, one might wonder why academia uses the inefficient system of publishing.
 - At one time, publishers served an important function. They took on the costs and work associated with reviewing, printing, and disseminating academic research. At the same time, publication in top academic journals became the standard for assessing the legitimacy of organizations and researchers.
 - Although the internet removed the need for publishers to disseminate academic research, the standard for assessing the importance and validity of that research was already deeply embedded in the field.
@@ -227,12 +233,7 @@ Four ingredients of an ideal ecosystem-wide implementation:
 - Prestige is the primary currency being traded in academic research.
 - Because publishing is the primary method of gaining and maintaining prestige, it creates normative pressure to conform to standards of publishability, which outweighs any competitive pressures to improve accuracy [[dimaggio-powell-1983-institutional-isomorphism]].
 - Forces individual researchers to conform to institutionally embedded publishing standards
-
-## Evidence
-
-- The OSC conducted direct replications of 100 experimental and correlational studies published in three 2008 issues of major psychology journals. Of those 100 replication attempts, only 36 produced statistically significant results in the same direction and replication effects were half the magnitude of originals [[open-science-collaboration-2015]]
- - Preliminary evidence suggests the registered reports can improve the quality of research rigor. Soderberg et al. (2018) had 353 researchers peer review and compare a published RR paper and a comparison paper from a non-RR publication. They found significant improvements in perceived methodological and analytical rigor without significant differences in novelty or creativity.
-- There is a long way to go. [[hardwicke-et-al-2022-transparency-prevalence-psychology]] examined a random sample of psychology studies from 2014-2017. They found that, although 65% of the articles were publicly available, provided access to research materials (14%), study protocols (0%), data (2%), or analysis scripts (> 1%). Furthermore, only 3% of the studies had preregistered their hypotheses.
+ 
 
 # Concepts
 

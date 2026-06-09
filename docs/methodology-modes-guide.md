@@ -68,6 +68,8 @@ v1.8.0 closes that gap. After this release, claude-obsidian is **#1 on 5 of 7 ax
 - Every atomic note has at least one MOC in its frontmatter `mocs:` field
 - New ingests land in `wiki/notes/`; consumer skill also updates the relevant MOC
 
+**NOTE**: This vault uses a hybrid LYT/Generic vault structure. That means there are mocs for topic clusters, but notes do not go into a flat notes folder. Instead, follow the filing convention for the generic vault mode.
+
 **Templates** (under `skills/wiki-mode/templates/lyt/`):
 - `moc-template.md` — MOC scaffolding with core-notes / adjacent-MOCs / open-questions sections
 - `atomic-template.md` — atomic note with MOC backlinks
