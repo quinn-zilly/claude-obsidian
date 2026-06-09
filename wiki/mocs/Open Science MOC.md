@@ -10,7 +10,7 @@ related:
   - "[[Learning & Development MOC]]"
   - "[[Knowledge Management MOC]]"
 status: developing
-updated: 2026-06-07
+updated: 2026-06-08
 ---
 
 # Open Science — Map of Content
@@ -47,33 +47,25 @@ This cluster maps the meta-science of how psychology and the social sciences pro
 - [[thibault-2023-open-science-2-0|Open Science 2.0: Towards a Truly Collaborative Research Ecosystem]]
 - [[basson-et-al-2022-oa-dimensions-wos|The Effect of Data Sources on the Measurement of Open Access (Dimensions vs WoS)]]
 
+## Research paradigms & philosophy of science
+
+- [[Ponterotto-2005-Qualitative-Research-Paradigms|Ponterotto (2005) — Qualitative Research Paradigms primer]]
+- [[Research Paradigm]]
+- [[Philosophy of Science Parameters]]
+- [[Positivism]]
+- [[Postpositivism]]
+- [[Constructivism–Interpretivism]]
+- [[Critical–Ideological Paradigm]]
+- [[Idiographic vs Nomothetic]]
+- [[Etic vs Emic]]
+- [[Consensual Qualitative Research]]
+- [[Grounded Theory]]
+- [[Bricoleur]]
+
 ## Open access & its measurement
 
 - [[Open Access]]
 - [[OA Type Classification]]
 - [[Bibliometric Database Coverage]]
 - [[Geographic Bias in Indexing]]
-- [[Dimensions]]
-- [[Web of Science]]
-- [[Unpaywall]]
-
-## Toward Open Science 2.0 (reform infrastructure)
-
-- [[Open Science 2.0]]
-- [[CRediT]]
-- [[FAIR Principles]]
-- [[Reproducibility Networks]]
-- [[Meta-Research]]
-- [[Big Team Science]]
-- [[Research Resource Identifier (RRID)]]
-
-## Key people
-
-- [[Brian Nosek]]
-- [[John Ioannidis]]
-- [[Marcus Munafò]]
-- [[Simine Vazire]]
-- [[Center for Open Science]]
-- [[Open Science Collaboration]]
-- [[Robert T. Thibault]]
 -

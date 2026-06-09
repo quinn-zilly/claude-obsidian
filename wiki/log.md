@@ -19,6 +19,13 @@ Navigation: [[index]] | [[hot]] | [[overview]]
 
 Append-only. New entries go at the TOP. Never edit past entries.
 
+## [2026-06-08] ingest | Ponterotto (2005) — Qualitative Research Paradigms primer
+- Source: `.raw/Ponterotto - 2005 - Qualitative research in counseling psychology A primer on research paradigms and philosophy of scie.md`
+- Summary: [[Ponterotto-2005-Qualitative-Research-Paradigms]]
+- Pages created: [[Research Paradigm]], [[Philosophy of Science Parameters]], [[Positivism]], [[Postpositivism]], [[Constructivism–Interpretivism]], [[Critical–Ideological Paradigm]], [[Idiographic vs Nomothetic]], [[Etic vs Emic]], [[Bricoleur]], [[Consensual Qualitative Research]], [[Grounded Theory]], [[Joseph Ponterotto]]
+- Pages updated: [[index]], [[sources/_index]], [[Open Science MOC]], [[hot]]
+- Key insight: Four research paradigms map onto five philosophy-of-science parameters; researchers risk "postpositivizing" constructivist qualitative methods when they import postpositivist habits without grasping the underlying ontology/epistemology.
+
 ## [2026-06-08] ingest | False-Positive Psychology (Simmons et al. 2011)
 - Source: `.raw/Simmons et al. - 2011 - False-Positive Psychology...md`
 - Summary: [[simmons-et-al-2011-false-positive-psychology]]
@@ -399,15 +406,4 @@ Parse recent entries: `grep "^## \[" wiki/log.md | head -10`
 
 - Sources (10 PDFs from Zotero KMBI/Research Paper collection):
   - `.raw/Grant - 1996 - Toward a Knowledge-Based Theory of the Firm.pdf`
-  - `.raw/Barney, Felin - 2013 - What Are Microfoundations.pdf`
-  - `.raw/Argote, Miron-Spektor - 2011 - Organizational Learning From Experience to Knowledge.pdf` (journal article)
-  - `.raw/Bosco et al. - 2020 - Advancing Meta-Analysis With metaBUS.pdf`
-  - `.raw/Nosek et al. - 2018 - The Preregistration Revolution.pdf`
-  - `.raw/LeBel et al. - 2018 - A Unified Framework to Quantify the Credibility of Scientific Findings.pdf`
-  - `.raw/Lehmann et al. - 2015 - DBpedia.pdf`
-  - `.raw/Foster, Deardorff - 2017 - Open Science Framework (OSF).pdf`
-  - `.raw/Open Science Collaboration - 2015 - Estimating the reproducibility of psychological science.pdf`
-  - `.raw/Munafò et al. - 2017 - A Manifesto for Reproducible Science.pdf`
-- Source summaries created: [[grant-1996-knowledge-based-theory]], [[barney-felin-2013-microfoundations]], [[argote-miron-spektor-2011-org-learning-journal]], [[bosco-2020-metabus]], [[nosek-2018-preregistration]], [[lebel-2018-credibility-framework]], [[lehmann-2015-dbpedia]], [[foster-deardorff-2017-osf]], [[open-science-collaboration-2015]], [[munafo-2017-manifesto]]
-- Concepts created: [[Knowledge-Based Theory of the Firm]], [[Microfoundations]], [[Replication Crisis]], [[Open Science]], [[Preregistration]], [[Registered Reports]], [[Publication Bias]], [[P-hacking]], [[HARKing]], [[Analytic Reproducibility]], [[Open Science Framework]], [[metaBUS]], [[DBpedia]], [[Linked Open Data]]
-- Entities created: [[Robert Grant]], [[Jay Barney]], [[Teppo Felin]], [[Ella Miron-Spektor]], [[Frank Bosco]], [[Brian Nosek]],
+  - `.ra

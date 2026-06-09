@@ -1310,6 +1310,32 @@
         "wiki/hot.md",
         "wiki/log.md"
       ]
+    },
+    ".raw/Ponterotto - 2005 - Qualitative research in counseling psychology A primer on research paradigms and philosophy of scie.md": {
+      "hash": "8699dbcc4c0040045bb4e5f4c3b2de8b",
+      "ingested_at": "2026-06-08",
+      "pages_created": [
+        "wiki/sources/Ponterotto-2005-Qualitative-Research-Paradigms.md",
+        "wiki/concepts/Research Paradigm.md",
+        "wiki/concepts/Philosophy of Science Parameters.md",
+        "wiki/concepts/Positivism.md",
+        "wiki/concepts/Postpositivism.md",
+        "wiki/concepts/Constructivism–Interpretivism.md",
+        "wiki/concepts/Critical–Ideological Paradigm.md",
+        "wiki/concepts/Idiographic vs Nomothetic.md",
+        "wiki/concepts/Etic vs Emic.md",
+        "wiki/concepts/Bricoleur.md",
+        "wiki/concepts/Consensual Qualitative Research.md",
+        "wiki/concepts/Grounded Theory.md",
+        "wiki/entities/Joseph Ponterotto.md"
+      ],
+      "pages_updated": [
+        "wiki/index.md",
+        "wiki/sources/_index.md",
+        "wiki/mocs/Open Science MOC.md",
+        "wiki/hot.md",
+        "wiki/log.md"
+      ]
     }
   },
   "address_map": {
@@ -1857,7 +1883,20 @@
     "wiki/concepts/Researcher Degrees of Freedom.md": "c-000644",
     "wiki/entities/Joseph P. Simmons.md": "c-000645",
     "wiki/entities/Leif D. Nelson.md": "c-000646",
-    "wiki/entities/Uri Simonsohn.md": "c-000647"
+    "wiki/entities/Uri Simonsohn.md": "c-000647",
+    "wiki/sources/Ponterotto-2005-Qualitative-Research-Paradigms.md": "c-000648",
+    "wiki/concepts/Research Paradigm.md": "c-000649",
+    "wiki/concepts/Philosophy of Science Parameters.md": "c-000650",
+    "wiki/concepts/Positivism.md": "c-000651",
+    "wiki/concepts/Postpositivism.md": "c-000652",
+    "wiki/concepts/Constructivism–Interpretivism.md": "c-000653",
+    "wiki/concepts/Critical–Ideological Paradigm.md": "c-000654",
+    "wiki/concepts/Idiographic vs Nomothetic.md": "c-000655",
+    "wiki/concepts/Etic vs Emic.md": "c-000656",
+    "wiki/concepts/Bricoleur.md": "c-000657",
+    "wiki/concepts/Consensual Qualitative Research.md": "c-000658",
+    "wiki/concepts/Grounded Theory.md": "c-000659",
+    "wiki/entities/Joseph Ponterotto.md": "c-000660"
   },
   ".raw/Pearsall et al. - 2025 - A stimulus-based model of the team adaptation process An integrated conceptual review..pdf": {
     "hash": "62f683006d3323a67c67fc23621f632a",

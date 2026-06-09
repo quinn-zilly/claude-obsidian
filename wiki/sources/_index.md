@@ -54,6 +54,7 @@ All source pages — summaries of ingested documents, transcripts, articles, and
 ### Open Science & Meta-Science
 
 - [[open-science-collaboration-2015|Open Science Collaboration (2015)]] — *Science* — 100 psychology replications; 36% significant; replication effects half the magnitude of originals
+- [[Ponterotto-2005-Qualitative-Research-Paradigms|Ponterotto (2005)]] — *Journal of Counseling Psychology* — primer on research paradigms & philosophy of science; 4 paradigms × 5 parameters; "postpositivizing" critique; locates CQR & grounded theory
 - [[munafo-2017-manifesto|Munafò et al. (2017)]] — *Nature Human Behaviour* — manifesto for reproducible science; five-category reform program
 - [[nosek-2018-preregistration|Nosek et al. (2018)]] — *PNAS* — the preregistration revolution; separating confirmatory from exploratory research
 - [[lebel-2018-credibility-framework|LeBel et al. (2018)]] — *AMPPS* — four-dimension credibility framework: transparency, analytic reproducibility, analytic robustness, effect replicability
