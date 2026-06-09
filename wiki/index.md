@@ -25,7 +25,7 @@ created: 2026-04-07
 
 # Wiki Index
 
-Last updated: 2026-06-07 | Total pages: 419 | Sources ingested: 61
+Last updated: 2026-06-09 | Total pages: 424 | Sources ingested: 62
 
 Navigation: [[Home MOC]] | [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[getting-started]]
 
@@ -38,6 +38,10 @@ Navigation: [[Home MOC]] | [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[
 
 ## Concepts
 
+- [[Positive-Outcome Bias]] — literature-level over-reporting of confirmatory results; rises along the hard→soft / pure→applied gradient; symptom of publication bias (Fanelli 2012) (status: developing)
+- [[Publish or Perish]] — bibliometric evaluation regime that pressures positive/novel results and feeds QRPs (status: developing)
+- [[In-Principle Acceptance]] — journal's binding commitment to publish a Registered Report after Stage-1 design review, before results (status: developing)
+- [[Statcheck]] — R package (Epskamp & Nuijten) that recomputes p-values from reported test statistics to flag reporting/decision errors (status: developing)
 - [[UTAUT]] — Unified Theory of Acceptance and Use of Technology (Venkatesh et al. 2003); four constructs (PE, EE, SI, FC) + four moderators; synthesizes 8 adoption models (status: developing)
 - [[Revised UTAUT Model]] — Dwivedi et al. (2019): drop moderators, add FC→BI, add attitude as mediator; better fit + variance (status: developing)
 - [[Attitude as Mediator]] — individual-characteristics construct UTAUT omitted; partially mediates exogenous constructs on intention, direct effect on usage (status: developing)
@@ -143,6 +147,9 @@ Navigation: [[Home MOC]] | [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[
 - [[Institutional Frame]] — naturalized, taken-for-granted cognitive frame; "dead metaphor"; structures expectations invisibly; Weber & Glynn 2006 (developing)
 - [[Sensemaking (Organizational)]] — Weick 1995; cue + relation + frame = meaning; sensebreaking; Mann Gulch; cognitive basis of framing at micro level (developing)
 - [[Technological Frame]] — collectively constructed assumptions about technology's nature and appropriate use; Orlikowski & Gash 1994; congruence debates (developing)
+- [[Rationalized Myth]] — institutional rule prescribing a practice as the rational/proper way to a social end, taken for granted as legitimate independent of whether it works; Meyer & Rowan 1977 (developing)
+- [[Decoupling]] — deliberate gap between legitimacy-conferring formal structure and actual work; buffers myth-conformity from efficiency scrutiny; Meyer & Rowan 1977 (developing)
+- [[Logic of Confidence]] — good-faith assumption (Goffman's avoidance/discretion/overlooking) that keeps a decoupled organization orderly without inspection; Meyer & Rowan 1977 (developing)
 - [[Institutional Isomorphism]] — three mechanisms (coercive, mimetic, normative) by which organizations in a field converge structurally without efficiency gains (developing)
 - [[Organizational Field]] — the totality of relevant actors constituting a recognized area of institutional life; unit of analysis for isomorphism theory (developing)
 - [[Institutional Change Pathways]] — 2×2 typology: scope (transformational/developmental) × pace (revolutionary/evolutionary) yields Displacement, Alignment, Accommodation, Accretion (developing)
@@ -168,6 +175,7 @@ Navigation: [[Home MOC]] | [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[
 - [[FAIR Principles]] — Findable/Accessible/Interoperable/Reusable; makes shared data machine-integrable; openness ≠ FAIR (developing)
 - [[Reproducibility Networks]] — national bottom-up consortiums driving rigor; UKRN secured £4.5M from Research England (developing)
 - [[Meta-Research]] — research-on-research; iterative problem→solution→test loop; open-data-badge cycle; tests if reforms actually work (developing)
+- [[Transparency & Reproducibility Indicators]] — codable signals (OA, materials, data, scripts, prereg, disclosure, replication, synthesis) proxying verifiability; the unit of prevalence sweeps; adoption≠sufficiency; link-rot & mandate effects (developing)
 - [[Big Team Science]] — large role-specialized teams vs PI-apprenticeship model; UK Biobank, BIDS, PSA; funding gap (developing)
 - [[Research Resource Identifier (RRID)]] — persistent reagent IDs; trackability 15%→~50%; grassroots success case study (developing)
 - [[Preregistration]] — committing to research design before data collection; separates confirmatory from exploratory (mature)
@@ -378,6 +386,15 @@ Navigation: [[Home MOC]] | [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[
 
 ## Entities
 
+- [[John W. Meyer]] — Stanford sociologist; co-founder of new institutionalism + world-society theory; co-author Meyer & Rowan (1977)
+- [[Brian Rowan]] — sociologist of education & organizations (Michigan); co-author Meyer & Rowan (1977); decoupling in schools
+- [[Daniele Fanelli]] — meta-scientist (Edinburgh); bias/misconduct in the literature; "hierarchy of the sciences"
+- [[Courtney K. Soderberg]] — COS methodologist; lead author of the RR quality study (2021)
+- [[Timothy M. Errington]] — COS; reproducibility projects; co-lead of Soderberg et al. (2021)
+- [[Kevin M. Esterling]] — political scientist (UC Riverside); statistics + reproduction on Soderberg et al. (2021)
+- [[Sarah R. Schiavone]] — psychology (UC Davis); article coding on Soderberg et al. (2021)
+- [[Julia Bottesini]] — quantitative psychology (UC Davis); article coding on Soderberg et al. (2021)
+- [[Felix Singleton Thorn]] — meta-research psychology (Melbourne); Soderberg et al. (2021)
 - [[Yogesh Dwivedi]] — Swansea University IS researcher; lead author of revised UTAUT (2019)
 - [[Viswanath Venkatesh]] — originator of UTAUT (2003), UTAUT2 (2012), TAM2/TAM3
 - [[Wesley Cohen]] — co-originator of absorptive capacity; Cohen & Levinthal (1989/1990/1994)
@@ -446,7 +463,10 @@ Navigation: [[Home MOC]] | [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[
 - [[Roger Giner-Sorolla]] — University of Kent; social psychologist; "Science or Art?" 2012; information-economic bottleneck account of replication crisis (developing)
 - [[Norbert Kerr]] — Michigan State University; social psychologist; coined HARKing (1998); foundational to open science reform literature (stub)
 - [[Simine Vazire]] — University of Melbourne; open science reform; "credibility revolution" framing; Nosek 2022 co-author (stub)
-- [[Tom Hardwicke]] — University of Amsterdam; analytic reproducibility; open data policy audits; Nosek 2022 co-author (stub)
+- [[Tom Hardwicke]] — University of Amsterdam; analytic reproducibility; open data policy audits; Nosek 2022 co-author; lead author of psych transparency-prevalence baseline (stub)
+- [[Jessica E. Kosie]] — Princeton; developmental psych; coder on Hardwicke et al. 2022 (stub)
+- [[Joshua D. Wallach]] — Yale; epidemiology; lead of biomed transparency sweep (Wallach 2018); Ioannidis collaborator (stub)
+- [[Mallory C. Kidwell]] — Utah; lead of Kidwell et al. 2016 badge-effect study (stub)
 - [[Anna Dreber]] — Stockholm School of Economics; prediction markets for science; replication forecasting (developing)
 - [[Dolores Albarracín]] — University of Pennsylvania; social psychologist; attitude change, persuasion, behaviour change interventions; HIV prevention meta-analysis (developing)
 - [[Ingrid Smithey Fulmer]] — U of Illinois UIUC; compensation, pay transparency, Compensation Activation Theory; Fulmer et al. 2023 (developing)
@@ -476,6 +496,10 @@ Navigation: [[Home MOC]] | [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[
 
 ## Sources
 
+- [[meyer-rowan-1977-institutionalized-organizations|Meyer & Rowan (1977)]] — American Journal of Sociology | founding paper of new institutionalism; formal structure reflects rationalized institutional myths, adopted ceremonially for legitimacy not efficiency; the efficiency–legitimacy conflict is resolved by decoupling + a logic of confidence; direct precursor to DiMaggio & Powell (1983) | 2026-06-09
+- [[fanelli-2012-negative-results-disappearing|Fanelli (2012)]] — Scientometrics | 4,656 hypothesis-testing papers (1990–2007); positive-result share rose 70%→86% (~6%/yr); steepest in social/applied sciences; US > UK in positive bias; first direct evidence negatives are disappearing | 2026-06-09
+- [[soderberg-et-al-2021-registered-reports-quality|Soderberg et al. (2021)]] — Nature Human Behaviour | 353 reviewers rated 29 RRs vs 57 matched standard papers; RRs higher on all 19 criteria (mean +0.46), biggest on methods/analysis rigour; no cost to novelty/creativity; open data 86% vs ~15% | 2026-06-09
+- [[hardwicke-et-al-2022-transparency-prevalence-psychology|Hardwicke et al. (2022)]] — Perspectives on Psychological Science | prevalence baseline of transparency/reproducibility practices in 250 psych articles (2014–17); open access 65% but protocols 0% / data 2% / scripts 1% / materials 14% / prereg 3%; disclosure (funding 62%, COI 39%) higher because journal-mandated; link-rot 7/26; reform had not reached routine practice | 2026-06-09
 - [[basson-et-al-2022-oa-dimensions-wos|Basson et al. (2022)]] — PLOS ONE | OA measurement is database-dependent; Dimensions vs WoS, 2015–2019; overall OA 46.6% vs 43.4%; gap largest for global South (S.Asia +57.9%); WoS Western indexing bias; green-only higher in WoS, bronze higher in Dimensions | 2026-06-08
 - [[dwivedi-2019-utaut-revision|Dwivedi et al. (2019)]] — Information Systems Frontiers | critical review + MASEM of UTAUT (1600 obs, 21 relationships, 162 studies); reinstates attitude as mediator; adds FC→BI; emergent AT→UB, FC→AT, SI→AT; R² BI 38→45%, UB 21→27% | 2026-06-07
 - [[roberts-2012-absorptive-capacity-is-review|Roberts et al. (2012)]] — MIS Quarterly | review of absorptive capacity in IS (98 articles, 1990-2008); asset-vs-capability confusion; 4 themes; IT-capability × org-capability synergy framework + 4 propositions | 2026-06-07

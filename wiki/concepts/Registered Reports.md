@@ -42,7 +42,7 @@ Registered Reports (RRs) are a publishing format in which peer review and editor
 
 | Bias | How RRs Address It |
 |------|-------------------|
-| **[[Publication Bias]]** | Commitment to publish *before* results; null results see print |
+| **[[Publication Bias]]** | [[In-Principle Acceptance]] *before* results; null results see print |
 | **[[P-hacking]]** | Analysis plan pre-specified; deviations must be disclosed |
 | **[[HARKing]]** | Hypotheses registered before data; cannot be reformulated post-hoc |
 | **CARKing** (Critiquing After Results are Known) | Reviewers assess design on merits, not outcome |
@@ -53,6 +53,10 @@ Registered Reports (RRs) are a publishing format in which peer review and editor
 - **>100 journals adopted** as of 2018; >200 by the early 2020s
 - *Nature Human Behaviour* — adopted in its inaugural volume (same issue as [[munafo-2017-manifesto]])
 - Journals span psychology, neuroscience, medicine, ecology, economics
+
+## Evidence of Quality
+
+[[soderberg-et-al-2021-registered-reports-quality|Soderberg et al. (2021)]]: 353 reviewers rated 29 published RRs against 57 matched standard-model papers. RRs scored higher on **all 19** quality criteria (mean +0.46 on a −4…+4 scale), with the largest gains on methods rigour (+0.99) and analysis rigour (+0.96), and **no penalty** to novelty or creativity — directly rebutting the fear that RR planning kills discovery. RRs also had far higher rates of open data (86% vs ~15%) and open materials (59% vs ~10%).
 
 ## Relationship to Preregistration
 

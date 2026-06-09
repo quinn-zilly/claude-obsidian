@@ -26,11 +26,15 @@ related:
   - "[[Walter Powell]]"
   - "[[Microfoundations]]"
   - "[[Knowledge Transfer]]"
+  - "[[meyer-rowan-1977-institutionalized-organizations]]"
 ---
 
 # DiMaggio & Powell (1983) — The Iron Cage Revisited
 
 Paul J. DiMaggio and Walter W. Powell. "The Iron Cage Revisited: Institutional Isomorphism and Collective Rationality in Organizational Fields." *American Sociological Review* 48, no. 2 (1983): 147–160.
+
+> [!info] Builds on Meyer & Rowan (1977)
+> This paper extends [[meyer-rowan-1977-institutionalized-organizations|Meyer & Rowan's "Formal Structure as Myth and Ceremony"]] (1977). Meyer & Rowan established *why* organizations adopt institutionalized structure (legitimacy over efficiency, via [[Rationalized Myth|rationalized myths]]); DiMaggio & Powell specify *how* fields converge through three mechanisms.
 
 ## Core Argument
 

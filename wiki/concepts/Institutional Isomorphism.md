@@ -24,7 +24,7 @@ related:
 
 # Institutional Isomorphism
 
-The process by which organizations within the same [[Organizational Field]] become structurally similar over time through institutional pressures, regardless of whether the convergence improves efficiency. First systematically theorized by [[Paul DiMaggio]] and [[Walter Powell]] in their landmark 1983 paper [[dimaggio-powell-1983-institutional-isomorphism]].
+The process by which organizations within the same [[Organizational Field]] become structurally similar over time through institutional pressures, regardless of whether the convergence improves efficiency. First systematically theorized by [[Paul DiMaggio]] and [[Walter Powell]] in their landmark 1983 paper [[dimaggio-powell-1983-institutional-isomorphism]], which built on [[John W. Meyer]] and [[Brian Rowan]]'s [[meyer-rowan-1977-institutionalized-organizations|"Formal Structure as Myth and Ceremony"]] (1977) — the source of the idea that organizations become isomorphic with the [[Rationalized Myth|rationalized myths]] of their environment.
 
 ## The Core Paradox
 

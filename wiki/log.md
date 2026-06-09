@@ -19,6 +19,28 @@ Navigation: [[index]] | [[hot]] | [[overview]]
 
 Append-only. New entries go at the TOP. Never edit past entries.
 
+## [2026-06-09] ingest | Institutionalized Organizations: Formal Structure as Myth and Ceremony
+- Source: `.raw/Meyer and Rowan - 1977 - Institutionalized Organizations Formal Structure as Myth and Ceremony.md`
+- Summary: [[meyer-rowan-1977-institutionalized-organizations]]
+- Pages created: [[Rationalized Myth]], [[Decoupling]], [[Logic of Confidence]], [[John W. Meyer]], [[Brian Rowan]]
+- Pages updated: [[dimaggio-powell-1983-institutional-isomorphism]], [[Institutional Isomorphism]], [[Institutional & Strategy MOC]], [[index]], [[hot]]
+- Key insight: The foundational 1977 paper behind the wiki's existing DiMaggio & Powell (1983) cluster — formal structure as ceremonial conformity to rationalized myths (legitimacy over efficiency), with decoupling + logic of confidence as the reconciling devices.
+
+## [2026-06-09] ingest | Fanelli (2012) + Soderberg et al. (2021) — disappearing negatives & RR quality
+- Sources: `.raw/Fanelli - 2012 - Negative results are disappearing...md`, `.raw/Soderberg et al. - 2021 - Initial evidence of research quality of registered reports...md`
+- Summaries: [[fanelli-2012-negative-results-disappearing]], [[soderberg-et-al-2021-registered-reports-quality]]
+- Concepts created: [[Positive-Outcome Bias]], [[Publish or Perish]], [[In-Principle Acceptance]], [[Statcheck]]
+- Entities created: [[Daniele Fanelli]], [[Courtney K. Soderberg]], [[Timothy M. Errington]], [[Kevin M. Esterling]], [[Sarah R. Schiavone]], [[Julia Bottesini]], [[Felix Singleton Thorn]]
+- Pages updated: [[Publication Bias]], [[File-Drawer Problem]], [[Registered Reports]], [[Brian Nosek]], [[Simine Vazire]], [[Center for Open Science]], [[Open Science MOC]], [[index]], [[hot]]
+- Key insight: A problem/solution pair. Fanelli is the empirical diagnosis — positive results rose ~22% (1990→2007), negatives vanishing across most fields, worst in soft/applied sciences (Soderberg cites it as ref 6). Soderberg is the cure's report card — Registered Reports beat the standard model on all 19 quality criteria with no cost to novelty or creativity, exactly the incentive realignment Fanelli's "publish or perish" diagnosis implies. No contradictions with existing pages; both reinforce the [[Publication Bias]] → [[Registered Reports]] arc.
+
+## [2026-06-09] ingest | Hardwicke et al. (2022) — Transparency & Reproducibility prevalence in psychology
+- Source: `.raw/Hardwicke et al. - 2022 - Estimating the Prevalence of Transparency and Reproducibility-Related Research Practices in Psycholo.md`
+- Summary: [[hardwicke-et-al-2022-transparency-prevalence-psychology]]
+- Pages created: [[Transparency & Reproducibility Indicators]], [[Jessica E. Kosie]], [[Joshua D. Wallach]], [[Mallory C. Kidwell]]
+- Pages updated: [[Tom Hardwicke]], [[John Ioannidis]], [[Robert T. Thibault]], [[Open Science MOC]], [[index]], [[hot]]
+- Key insight: Baseline sweep of 250 psych articles (2014–17) — open access common (65%) but protocols 0%, data 2%, scripts 1%, prereg 3%. Reform had not reached routine practice; numbers serve as a temporal baseline. Disclosure (funding 62%, COI 39%) beats sharing because journals mandate it. Reporting ≠ availability (link-rot: 7/26 dead materials links).
+
 ## [2026-06-08] ingest | Ponterotto (2005) — Qualitative Research Paradigms primer
 - Source: `.raw/Ponterotto - 2005 - Qualitative research in counseling psychology A primer on research paradigms and philosophy of scie.md`
 - Summary: [[Ponterotto-2005-Qualitative-Research-Paradigms]]

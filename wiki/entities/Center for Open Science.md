@@ -46,6 +46,7 @@ The Center for Open Science (COS) is a non-profit organization based in Charlott
 
 - **[[open-science-collaboration-2015|Reproducibility Project: Psychology]]** — 100-study replication initiative coordinated through COS; produced the Science 2015 paper
 - **Reproducibility Project: Cancer Biology** — analogous replication effort in cancer biology
+- **[[soderberg-et-al-2021-registered-reports-quality|RR quality study (2021)]]** — COS-led evidence that Registered Reports outperform the standard model on rigour without sacrificing novelty
 
 ## Significance
 

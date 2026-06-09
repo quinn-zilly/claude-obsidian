@@ -13,10 +13,12 @@ related:
   - "[[Open Science 2.0]]"
   - "[[thibault-2023-open-science-2-0]]"
   - "[[Open Science MOC]]"
+  - "[[hardwicke-et-al-2022-transparency-prevalence-psychology]]"
 sources:
   - "[[thibault-2023-open-science-2-0]]"
+  - "[[hardwicke-et-al-2022-transparency-prevalence-psychology]]"
 created: 2026-06-07
-updated: 2026-06-07
+updated: 2026-06-09
 ---
 
 # Robert T. Thibault

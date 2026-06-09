@@ -26,7 +26,7 @@ if __name__ == '__main__':
     )
 
     rendered = converter(input_path)
-    text, _, images = text_from_rendered(rendered)
+    text = text_from_rendered(rendered)
 
     with open(output_path, "w", encoding="utf-8") as file:
         file.write(text)

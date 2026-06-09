@@ -14,4 +14,4 @@ related: ["[[Brian Nosek]]","[[nosek-2022-replicability-robustness-reproducibili
 
 Psychologist at University of Melbourne, School of Psychological Sciences. Co-author on [[nosek-2022-replicability-robustness-reproducibility]] and prominent voice in open science reform.
 
-Known for work on credibility in psychological science and self-knowledge. Associated with the "credibility revolution" framing (Vazire 2018).
+Known for work on credibility in psychological science and self-knowledge. Associated with the "credibility revolution" framing (Vazire 2018). Co-author and article coder on [[soderberg-et-al-2021-registered-reports-quality|Soderberg et al. (2021)]].

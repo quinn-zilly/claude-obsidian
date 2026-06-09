@@ -60,6 +60,8 @@ All source pages — summaries of ingested documents, transcripts, articles, and
 - [[lebel-2018-credibility-framework|LeBel et al. (2018)]] — *AMPPS* — four-dimension credibility framework: transparency, analytic reproducibility, analytic robustness, effect replicability
 - [[bosco-2020-metabus|Bosco et al. (2020)]] — *AMPPS* — metaBUS: 1M+ curated findings database; rapid meta-analysis infrastructure
 - [[foster-deardorff-2017-osf|Foster & Deardorff (2017)]] — *JMLA* — OSF resource review; preregistration platform; open research infrastructure
+- [[fanelli-2012-negative-results-disappearing|Fanelli (2012)]] — *Scientometrics* — 4,656 papers (1990–2007); positive-result share 70→86%; negatives disappearing across most fields; steepest in soft/applied sciences; US > UK positive bias
+- [[soderberg-et-al-2021-registered-reports-quality|Soderberg et al. (2021)]] — *Nature Human Behaviour* — 353 reviewers; 29 RRs vs 57 matched standard papers; RRs win on all 19 quality criteria, biggest on methods/analysis rigour; no cost to novelty/creativity
 
 ### Semantic Web & Knowledge Graphs
 

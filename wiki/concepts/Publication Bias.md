@@ -47,6 +47,8 @@ Robert Rosenthal (1979) named the underlying phenomenon: researchers conduct man
 
 ## Evidence
 
+[[fanelli-2012-negative-results-disappearing|Fanelli (2012)]]: across 4,656 hypothesis-testing papers, the share reporting positive support rose from 70% (1990) to 86% (2007) — direct evidence of growing [[Positive-Outcome Bias]], steepest in the soft and applied sciences.
+
 [[open-science-collaboration-2015]]: replication effect sizes averaged half the original effect sizes. The authors note this is consistent with publication bias inflating originals; replications with preregistered designs and no selection pressure showed unbiased estimates.
 
 [[munafo-2017-manifesto]]: 90% of Nature survey respondents agreed there is a reproducibility crisis; 85% of biomedical research estimated as wasted.

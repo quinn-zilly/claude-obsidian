@@ -1336,6 +1336,92 @@
         "wiki/hot.md",
         "wiki/log.md"
       ]
+    },
+    ".raw/Hardwicke et al. - 2022 - Estimating the Prevalence of Transparency and Reproducibility-Related Research Practices in Psycholo.md": {
+      "hash": "4b7ffdaa32999a6d1ae90c850ef020a6",
+      "ingested_at": "2026-06-09",
+      "pages_created": [
+        "wiki/sources/hardwicke-et-al-2022-transparency-prevalence-psychology.md",
+        "wiki/concepts/Transparency & Reproducibility Indicators.md",
+        "wiki/entities/Jessica E. Kosie.md",
+        "wiki/entities/Joshua D. Wallach.md",
+        "wiki/entities/Mallory C. Kidwell.md"
+      ],
+      "pages_updated": [
+        "wiki/entities/Tom Hardwicke.md",
+        "wiki/entities/John Ioannidis.md",
+        "wiki/entities/Robert T. Thibault.md",
+        "wiki/mocs/Open Science MOC.md",
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md"
+      ]
+    },
+    ".raw/Fanelli - 2012 - Negative results are disappearing from most disciplines and countries.md": {
+      "hash": "fbfaf507b05906a59316fdb43e579ed6",
+      "ingested_at": "2026-06-09",
+      "pages_created": [
+        "wiki/sources/fanelli-2012-negative-results-disappearing.md",
+        "wiki/concepts/Positive-Outcome Bias.md",
+        "wiki/concepts/Publish or Perish.md",
+        "wiki/entities/Daniele Fanelli.md"
+      ],
+      "pages_updated": [
+        "wiki/concepts/Publication Bias.md",
+        "wiki/concepts/File-Drawer Problem.md",
+        "wiki/mocs/Open Science MOC.md",
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md",
+        "wiki/sources/_index.md"
+      ]
+    },
+    ".raw/Soderberg et al. - 2021 - Initial evidence of research quality of registered reports compared with the standard publishing mod.md": {
+      "hash": "fd4ab0b71806da4a707d3d05e3727cc0",
+      "ingested_at": "2026-06-09",
+      "pages_created": [
+        "wiki/sources/soderberg-et-al-2021-registered-reports-quality.md",
+        "wiki/concepts/In-Principle Acceptance.md",
+        "wiki/concepts/Statcheck.md",
+        "wiki/entities/Courtney K. Soderberg.md",
+        "wiki/entities/Timothy M. Errington.md",
+        "wiki/entities/Kevin M. Esterling.md",
+        "wiki/entities/Sarah R. Schiavone.md",
+        "wiki/entities/Julia Bottesini.md",
+        "wiki/entities/Felix Singleton Thorn.md"
+      ],
+      "pages_updated": [
+        "wiki/concepts/Registered Reports.md",
+        "wiki/entities/Brian Nosek.md",
+        "wiki/entities/Simine Vazire.md",
+        "wiki/entities/Center for Open Science.md",
+        "wiki/mocs/Open Science MOC.md",
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md",
+        "wiki/sources/_index.md"
+      ]
+    },
+    ".raw/Meyer and Rowan - 1977 - Institutionalized Organizations Formal Structure as Myth and Ceremony.md": {
+      "hash": "554f3482582911df5d1f4977ff6b8872",
+      "ingested_at": "2026-06-09",
+      "pages_created": [
+        "wiki/notes/meyer-rowan-1977-institutionalized-organizations.md",
+        "wiki/concepts/Rationalized Myth.md",
+        "wiki/concepts/Decoupling.md",
+        "wiki/concepts/Logic of Confidence.md",
+        "wiki/entities/John W. Meyer.md",
+        "wiki/entities/Brian Rowan.md",
+        "wiki/concepts/Loose Coupling.md"
+      ],
+      "pages_updated": [
+        "wiki/sources/dimaggio-powell-1983-institutional-isomorphism.md",
+        "wiki/concepts/Institutional Isomorphism.md",
+        "wiki/mocs/Institutional & Strategy MOC.md",
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md"
+      ]
     }
   },
   "address_map": {
@@ -1896,7 +1982,32 @@
     "wiki/concepts/Bricoleur.md": "c-000657",
     "wiki/concepts/Consensual Qualitative Research.md": "c-000658",
     "wiki/concepts/Grounded Theory.md": "c-000659",
-    "wiki/entities/Joseph Ponterotto.md": "c-000660"
+    "wiki/entities/Joseph Ponterotto.md": "c-000660",
+    "wiki/sources/hardwicke-et-al-2022-transparency-prevalence-psychology.md": "c-000661",
+    "wiki/concepts/Transparency & Reproducibility Indicators.md": "c-000662",
+    "wiki/entities/Jessica E. Kosie.md": "c-000663",
+    "wiki/entities/Joshua D. Wallach.md": "c-000664",
+    "wiki/entities/Mallory C. Kidwell.md": "c-000665",
+    "wiki/sources/fanelli-2012-negative-results-disappearing.md": "c-000666",
+    "wiki/sources/soderberg-et-al-2021-registered-reports-quality.md": "c-000667",
+    "wiki/concepts/Positive-Outcome Bias.md": "c-000668",
+    "wiki/concepts/Publish or Perish.md": "c-000669",
+    "wiki/concepts/Statcheck.md": "c-000670",
+    "wiki/concepts/In-Principle Acceptance.md": "c-000671",
+    "wiki/entities/Daniele Fanelli.md": "c-000672",
+    "wiki/entities/Courtney K. Soderberg.md": "c-000673",
+    "wiki/entities/Timothy M. Errington.md": "c-000674",
+    "wiki/entities/Kevin M. Esterling.md": "c-000675",
+    "wiki/entities/Sarah R. Schiavone.md": "c-000676",
+    "wiki/entities/Julia Bottesini.md": "c-000677",
+    "wiki/entities/Felix Singleton Thorn.md": "c-000678",
+    "wiki/notes/meyer-rowan-1977-institutionalized-organizations.md": "c-000680",
+    "wiki/entities/John W. Meyer.md": "c-000681",
+    "wiki/entities/Brian Rowan.md": "c-000682",
+    "wiki/concepts/Rationalized Myth.md": "c-000683",
+    "wiki/concepts/Decoupling.md": "c-000684",
+    "wiki/concepts/Logic of Confidence.md": "c-000685",
+    "wiki/concepts/Loose Coupling.md": "c-000686"
   },
   ".raw/Pearsall et al. - 2025 - A stimulus-based model of the team adaptation process An integrated conceptual review..pdf": {
     "hash": "62f683006d3323a67c67fc23621f632a",

@@ -27,16 +27,21 @@ created: 2026-06-03
 	- What are the next small wins?
 
 # Outline
+- Intro
+- Replication Crisis in Science
+- Current Progress in Open Science
+- Future Solutions and Institutional Change
+- Conclusion
 
 ## Intro
 - The primary objective of science as a discipline is to accumulate knowledge about the nature of the observable universe [[nosek-2012-scientific-utopia-ii]]. 
 - Under the post-positivist paradigm of Western science, knowledge is accumulated via the objective falsification of hypotheses to reach the closest reasonable approximation of verifiable truth [[Ponterotto-2005-Qualitative-Research-Paradigms]].
 - The mission of science is best served by researchers who are motivated to search for truth about nature, and disseminate their findings openly and accurately. However, individual researchers are best served by what will allow them to succeed professionally. That is, scientists must do what gets their work published in prestigious journals. The problem is that under the current incentive structure, the goals of truth and accuracy are not aligned with the goal of publishability. Historically, journals almost exclusively publish positive findings of novel results, so studies with null or replicated findings go unpublished [[nosek-2012-scientific-utopia-ii]]. 
 - Despite the best intentions of all involved, one cannot hope for researchers to prioritize accuracy when they are being rewarded for publishability. People tend to behave in the ways in which they are incentivized to behave, and it is folly to expect otherwise [[kerr-1995-folly-rewarding-A]].
-- Open science has become more prevalent thanks to a number of tools and communities like OSF. 
+- Open science has become more prevalent thanks to a number of tools and communities like OSF [[nosek-2022-replicability-robustness-reproducibility]] . 
 - Preliminary evidence suggests the registered reports can improve the quality of research rigor. Soderberg et al. (2018) had 353 researchers peer review and compare a published RR paper and a comparison paper from a non-RR publication. They found significant improvements in perceived methodological and analytical rigor without significant differences in novelty or creativity.
 - There is a long way to go
-	- Hardwick et al. (2022) examined a random sample of psychology studies from 2014-2017. They found that, although 65% of the articles were publicly available, provided access to research materials (14%), study protocols (0%), data (2%), or analysis scripts (> 1%). Furthermore, only 3% of the studies had preregistered their hypotheses.
+	- [[hardwicke-et-al-2022-transparency-prevalence-psychology]] examined a random sample of psychology studies from 2014-2017. They found that, although 65% of the articles were publicly available, provided access to research materials (14%), study protocols (0%), data (2%), or analysis scripts (> 1%). Furthermore, only 3% of the studies had preregistered their hypotheses.
 
 ## Problems
 
@@ -77,13 +82,120 @@ Questionable practices:
 
 ### Improving Communication Efficiency
 
+#### 1. Full Digital Communication
+- Eliminate print editions and issue-based publishing
+- Remove page limits entirely
+- Enable supplemental materials without restriction
+- Allow multimedia, raw data, analysis code as standard components
+
+#### 2. Open Access
+- All published science freely accessible (see [[Open Access]])
+- Estimate: $900M annual savings if switching from subscription to open-access model
+- Gold OA (publish-and-open) vs. Green OA (self-archiving)
+- PLoS (Public Library of Science) as existence proof
+- Taxpayer funding argument: publicly funded research should be publicly accessible
+
+#### 3. Disentangle Publication from Evaluation
+- **arXiv model**: deposit first, filter later
+- Preprint repositories allow immediate dissemination before peer review
+- Separates "does it exist" from "is it good"
+- Reduces file-drawer problem: all work becomes findable regardless of quality judgment
+- Peer review becomes a labeling/sorting function, not a gatekeeping/existence function
+
+#### 4. Grading System + Diversified Dissemination
+- One article can appear in multiple journals (no exclusive submission)
+- Separate review services operate independently of journals
+- Journals become "curated reading lists" rather than sole arbiters of merit
+- Grading replaces binary accept/reject with dimensional quality assessment
+
+#### 5. Publishing Peer Review
+- Reviews published alongside manuscripts (named or anonymous)
+- Reviews become citable scholarly products — reputation currency for reviewers
+- Creates accountability for review quality
+- Allows scientific community to see the review dialogue, not just outcome
+
+#### 6. Open Continuous Peer Review
+- Community commenting continues post-publication
+- Crowdsourced expertise: domain specialists weigh in beyond initial reviewers
+- Errors can be flagged and addressed publicly
+- Living documents replace static publications
 ### Restructuring Incentives
 
 **Journals Focused on Soundness, Not Importance**
 - PLoS ONE model: peer review evaluates research soundness, not perceived importance
 - Since 2006: 13,798 articles (2011), 70% acceptance rate, 2011 impact factor 4.41 (top 25%)
 - Shows importance is not predictive of citation impact
+
+**Post-Publication Peer Review**
+- Make publication trivial (anyone can publish)
+- Peer review becomes evaluation, not gatekeeping
+- Models: arXiv (physics), SSRN, RePEc
+- Shifts incentives from "getting published" to "having impact on future research"
+- Removes barrier to publishing replications and negative results
+
+#### Open Data
+
+**Benefits:**
+- Enables confirmation, critique, extension of prior research
+- Detects and corrects errors (Bakker & Wicherts 2011: 15% of papers contain statistical errors)
+- Allows meta-analysis and data aggregation
+- Creates opportunities for novel methodologies and insights
+
+#### Open Methods and Tools
+
+**Why needed:**
+- Published methodology lacks sufficient detail for replication
+- Many factors unreported: room temperature, experimenter identity, time of day, verbal vs. written instructions
+- Paradigm-driven research requires precision in intentional modifications
+
+**Solutions:**
+- Video of experimental setting and procedure
+- Figshare for archiving data and methods
+- Open Science Framework for project management and archiving
+- Makes methods citable contributions (not just papers)
+- Enables reuse, reducing wasted effort recreating tools
+
+#### Open Workflow
+
+**Principle:**
+- Scientific workflow (study registration, analysis plans, results) should be transparent
+- Accountability mechanism: knowing someone could look improves practices
+
+**Model:**
+- clinicaltrials.gov: registry for clinical trials
+- 2005: ICMJE required preregistration of RCTs
+- Evidence: 31% of registered trials showed discrepancies with published outcomes; 82% favored significant results
+
+**Benefits:**
+- Clarifies confirmatory vs. exploratory findings (reduces hindsight bias and HARKing)
+- Reveals file-drawer problem (what research was done but not published?)
+- Makes false outcome reporting harder to hide
+
+**Addresses hindsight bias:**
+- Without registry, researchers (and readers) reconstruct what was planned based on what was found
+- Registry separates: "What did we hypothesize?" from "What did we discover?"
+- Both are valuable; discovery should be labeled as such
 ### Crowdsourcing Science
+
+| Stage                             | Crowd mechanism                                                                                                                        |
+| --------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
+| Ideation                          | Polymath projects, hypothesis contests (Jia et al., 2018)                                                                              |
+| Assembling resources              | Science Exchange, StudySwap                                                                                                            |
+| Study design                      | Same hypothesis → multiple independent designs (Landy et al., 2018)                                                                    |
+| Data collection                   | Mechanical Turk, citizen science, PSA (300+ labs)                                                                                      |
+| Data analysis                     | Same dataset → multiple analyst teams (Silberzahn et al., 2018: 29 teams, radical effect-size dispersion)                              |
+| Pre-publication replication       | Pipeline Project (Schweinsberg et al., 2016): 6/10 replicated                                                                          |
+| Writing                           | Crowd writing with coordination team                                                                                                   |
+| Peer review                       | Open/crowd review; 677-day avg. submission-to-publication in current system                                                            |
+| Replication of published findings | Many Labs, OSC 2015, CREP                                                                                                              |
+| Deciding future directions        | Prediction markets (Dreber et al., 2015; Camerer et al., 2016, 2018): aggregated predictions accurately anticipate replication results |
+#### Three Benefits of Crowdsourcing
+
+1. **Enabling big science:** research designs that exceed single-lab capacity; vary stimuli/procedures rather than holding them constant; high-powered, precise studies; flip planning from "what can we do?" to "what's the best way?"
+
+2. **Democratizing science:** Matthew effect means early advantages compound; grant funding overallocated to elite institutions; crowdsourcing opens participation to researchers from less-resourced institutions and underrepresented groups; talent is globally distributed
+
+3. **Assessing robustness:** crowdsourcing uniquely suited to evaluate reliability and generalizability; multilab designs vary populations and procedures; failure to replicate tends to be *consistent* across labs (not explained by moderators)
 
 ### Open Science 2.0
 
@@ -136,4 +248,12 @@ Four ingredients of an ideal ecosystem-wide implementation:
 
 [[Ponterotto-2005-Qualitative-Research-Paradigms]]
 
+[[nosek-2022-replicability-robustness-reproducibility]]
 
+[[meyer-rowan-1977-institutionalized-organizations]]
+
+[[fanelli-2012-negative-results-disappearing]]
+
+[[hardwicke-et-al-2022-transparency-prevalence-psychology]]
+
+[[open-science-collaboration-2015]]

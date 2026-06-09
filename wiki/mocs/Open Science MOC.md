@@ -10,7 +10,7 @@ related:
   - "[[Learning & Development MOC]]"
   - "[[Knowledge Management MOC]]"
 status: developing
-updated: 2026-06-08
+updated: 2026-06-09
 ---
 
 # Open Science — Map of Content
@@ -37,6 +37,10 @@ This cluster maps the meta-science of how psychology and the social sciences pro
 - [[HARKing]]
 - [[Questionable Research Practices]]
 - [[File-Drawer Problem]]
+- [[Positive-Outcome Bias]]
+- [[Publish or Perish]]
+- [[In-Principle Acceptance]]
+- [[Statcheck]]
 - [[TOP Guidelines]]
 - [[foster-deardorff-2017-osf|Open Science Framework (OSF): Supporting Research from Hypothesis to Publication]]
 - [[open-science-collaboration-2015|Estimating the Reproducibility of Psychological Science]]
@@ -45,6 +49,10 @@ This cluster maps the meta-science of how psychology and the social sciences pro
 - [[nosek-2012-scientific-utopia-ii|Scientific Utopia II: Restructuring Incentives and Practices to Promote Truth Over Publishability]]
 - [[nosek-2022-replicability-robustness-reproducibility|Replicability, Robustness, and Reproducibility in Psychological Science]]
 - [[thibault-2023-open-science-2-0|Open Science 2.0: Towards a Truly Collaborative Research Ecosystem]]
+- [[hardwicke-et-al-2022-transparency-prevalence-psychology|Prevalence of Transparency & Reproducibility Practices in Psychology (Hardwicke et al. 2022)]]
+- [[fanelli-2012-negative-results-disappearing|Negative Results Are Disappearing (Fanelli 2012)]]
+- [[soderberg-et-al-2021-registered-reports-quality|Research Quality of Registered Reports vs Standard Model (Soderberg et al. 2021)]]
+- [[Transparency & Reproducibility Indicators]]
 - [[basson-et-al-2022-oa-dimensions-wos|The Effect of Data Sources on the Measurement of Open Access (Dimensions vs WoS)]]
 
 ## Research paradigms & philosophy of science

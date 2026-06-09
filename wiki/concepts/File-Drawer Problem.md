@@ -30,7 +30,7 @@ The file-drawer problem (Rosenthal, 1979) refers to the systematic non-publicati
 
 ## Consequences
 
-The file-drawer problem is a primary driver of [[Publication Bias]] and inflates effect size estimates in meta-analyses. It interacts with [[P-hacking]] to produce a literature that appears more reliable than it is.
+The file-drawer problem is a primary driver of [[Publication Bias]] and inflates effect size estimates in meta-analyses. It interacts with [[P-hacking]] to produce a literature that appears more reliable than it is. [[fanelli-2012-negative-results-disappearing|Fanelli (2012)]] provides direct longitudinal evidence of the resulting [[Positive-Outcome Bias]].
 
 ## Solutions
 

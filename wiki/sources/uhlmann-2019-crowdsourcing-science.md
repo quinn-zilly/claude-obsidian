@@ -76,18 +76,18 @@ Aggregating 6 major replication initiatives (190 effects): crowdsourced teams su
 
 ## Crowdsourcing Across the Research Lifecycle
 
-| Stage | Crowd mechanism |
-|---|---|
-| Ideation | Polymath projects, hypothesis contests (Jia et al., 2018) |
-| Assembling resources | Science Exchange, StudySwap |
-| Study design | Same hypothesis → multiple independent designs (Landy et al., 2018) |
-| Data collection | Mechanical Turk, citizen science, PSA (300+ labs) |
-| Data analysis | Same dataset → multiple analyst teams (Silberzahn et al., 2018: 29 teams, radical effect-size dispersion) |
-| Pre-publication replication | Pipeline Project (Schweinsberg et al., 2016): 6/10 replicated |
-| Writing | Crowd writing with coordination team |
-| Peer review | Open/crowd review; 677-day avg. submission-to-publication in current system |
-| Replication of published findings | Many Labs, OSC 2015, CREP |
-| Deciding future directions | Prediction markets (Dreber et al., 2015; Camerer et al., 2016, 2018): aggregated predictions accurately anticipate replication results |
+| Stage                             | Crowd mechanism                                                                                                                        |
+| --------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
+| Ideation                          | Polymath projects, hypothesis contests (Jia et al., 2018)                                                                              |
+| Assembling resources              | Science Exchange, StudySwap                                                                                                            |
+| Study design                      | Same hypothesis → multiple independent designs (Landy et al., 2018)                                                                    |
+| Data collection                   | Mechanical Turk, citizen science, PSA (300+ labs)                                                                                      |
+| Data analysis                     | Same dataset → multiple analyst teams (Silberzahn et al., 2018: 29 teams, radical effect-size dispersion)                              |
+| Pre-publication replication       | Pipeline Project (Schweinsberg et al., 2016): 6/10 replicated                                                                          |
+| Writing                           | Crowd writing with coordination team                                                                                                   |
+| Peer review                       | Open/crowd review; 677-day avg. submission-to-publication in current system                                                            |
+| Replication of published findings | Many Labs, OSC 2015, CREP                                                                                                              |
+| Deciding future directions        | Prediction markets (Dreber et al., 2015; Camerer et al., 2016, 2018): aggregated predictions accurately anticipate replication results |
 
 ## Silberzahn et al. (2018) — Crowdsourcing Data Analysis
 

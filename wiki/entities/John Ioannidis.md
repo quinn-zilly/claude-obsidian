@@ -16,9 +16,11 @@ related:
   - "[[Publication Bias]]"
   - "[[munafo-2017-manifesto]]"
   - "[[Marcus Munafò]]"
+  - "[[hardwicke-et-al-2022-transparency-prevalence-psychology]]"
+  - "[[Meta-Research]]"
   - "[[Open Science MOC]]"
 created: unknown
-updated: unknown
+updated: 2026-06-09
 ---
 
 # John Ioannidis
