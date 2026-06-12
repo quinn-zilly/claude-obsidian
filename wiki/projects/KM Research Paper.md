@@ -17,6 +17,10 @@ Of particular importance are the following:
 - Strong references from good journals (the list of journals in the syllabus for this course is a good starting point)
 - A focused topic
 
+## Topic
+
+Current trends in Open Science, reproducibility, and replication for academic research.
+
 # Questions
 
 These are the questions I want to investigate in this research paper:
