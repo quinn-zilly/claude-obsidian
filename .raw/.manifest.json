@@ -1422,6 +1422,67 @@
         "wiki/hot.md",
         "wiki/log.md"
       ]
+    },
+    ".raw/Humphrey et al. - 2007 - Integrating motivational, social, and contextual work design features A meta-analytic summary and t.md": {
+      "hash": "259916ea33aa135a87be03ba1e7a30ee",
+      "ingested_at": "2026-06-12",
+      "pages_created": [
+        "wiki/sources/humphrey-nahrgang-morgeson-2007-work-design-meta-analysis.md",
+        "wiki/entities/Stephen Humphrey.md",
+        "wiki/entities/Jennifer Nahrgang.md"
+      ],
+      "pages_updated": [
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md",
+        "wiki/mocs/Teams & Org Behavior MOC.md",
+        "wiki/concepts/Job Characteristics Model.md",
+        "wiki/concepts/Work Design (Concept).md",
+        "wiki/concepts/Job Demands–Control–Support Model.md",
+        "wiki/entities/Frederick Morgeson.md"
+      ]
+    },
+    ".raw/Oldham and Fried - 2016 - Job design research and theory Past, present and future.md": {
+      "hash": "4b3fd7498e098bed772dabcb6630d1b3",
+      "ingested_at": "2026-06-12",
+      "pages_created": [
+        "wiki/sources/oldham-fried-2016-job-design-past-present-future.md",
+        "wiki/concepts/Job Crafting.md",
+        "wiki/entities/Greg R. Oldham.md",
+        "wiki/entities/Yitzhak Fried.md",
+        "wiki/entities/Amy Wrzesniewski.md",
+        "wiki/entities/J. Richard Hackman.md"
+      ],
+      "pages_updated": [
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md",
+        "wiki/mocs/Teams & Org Behavior MOC.md",
+        "wiki/concepts/Job Characteristics Model.md",
+        "wiki/concepts/Work Design (Concept).md",
+        "wiki/concepts/Job Demands–Control–Support Model.md",
+        "wiki/entities/Frederick Morgeson.md"
+      ]
+    },
+    ".raw/Morgeson and Humphrey - 2006 - The Work Design Questionnaire (WDQ) Developing and validating a comprehensive measure for assessing.md": {
+      "hash": "9d82f41e32d057f91f24fcad69b32579",
+      "ingested_at": "2026-06-12",
+      "pages_created": [
+        "wiki/sources/morgeson-humphrey-2006-work-design-questionnaire.md"
+      ],
+      "pages_updated": [
+        "wiki/concepts/Work Design Questionnaire.md",
+        "wiki/concepts/Work Design (Concept).md",
+        "wiki/entities/Frederick Morgeson.md",
+        "wiki/entities/Stephen Humphrey.md",
+        "wiki/entities/Michael Campion.md",
+        "wiki/entities/J. Richard Hackman.md",
+        "wiki/entities/Greg R. Oldham.md",
+        "wiki/mocs/Teams & Org Behavior MOC.md",
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md"
+      ]
     }
   },
   "address_map": {
@@ -2007,7 +2068,17 @@
     "wiki/concepts/Rationalized Myth.md": "c-000683",
     "wiki/concepts/Decoupling.md": "c-000684",
     "wiki/concepts/Logic of Confidence.md": "c-000685",
-    "wiki/concepts/Loose Coupling.md": "c-000686"
+    "wiki/concepts/Loose Coupling.md": "c-000686",
+    "wiki/sources/humphrey-nahrgang-morgeson-2007-work-design-meta-analysis.md": "c-000687",
+    "wiki/entities/Stephen Humphrey.md": "c-000690",
+    "wiki/entities/Jennifer Nahrgang.md": "c-000691",
+    "wiki/sources/oldham-fried-2016-job-design-past-present-future.md": "c-000688",
+    "wiki/concepts/Job Crafting.md": "c-000689",
+    "wiki/entities/Greg R. Oldham.md": "c-000692",
+    "wiki/entities/Yitzhak Fried.md": "c-000693",
+    "wiki/entities/Amy Wrzesniewski.md": "c-000694",
+    "wiki/entities/J. Richard Hackman.md": "c-000695",
+    "wiki/sources/morgeson-humphrey-2006-work-design-questionnaire.md": "c-000696"
   },
   ".raw/Pearsall et al. - 2025 - A stimulus-based model of the team adaptation process An integrated conceptual review..pdf": {
     "hash": "62f683006d3323a67c67fc23621f632a",

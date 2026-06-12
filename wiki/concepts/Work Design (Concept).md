@@ -6,7 +6,7 @@ aliases: ["job design", "work design research", "work design theory"]
 tags: [work-design, job-design, IO-psychology, motivation, context]
 status: mature
 created: 2026-06-01
-updated: 2026-06-01
+updated: 2026-06-12
 related:
   - "[[Job Characteristics Model]]"
   - "[[Work Design Questionnaire]]"
@@ -15,6 +15,7 @@ related:
   - "[[Interdisciplinary Model of Job Design]]"
   - "[[Work Motivation Meta-Framework (Kanfer)]]"
   - "[[Self-Determination Theory]]"
+  - "[[morgeson-humphrey-2006-work-design-questionnaire|Morgeson & Humphrey (2006)]]"
   - "[[wiki/sources/morgeson-garza-campion-2012-work-design|Morgeson et al. 2012]]"
 ---
 
@@ -58,8 +59,11 @@ Motivational ↔ Mechanistic design: enriching work → satisfaction + training 
 - [[Self-Determination Theory]]: SDT's need satisfaction (autonomy, competence, relatedness) maps to JCM psychological states
 - [[Work Motivation Meta-Framework (Kanfer)]]: work design = "context" cell; job characteristics as motivational antecedents operating through goal processes
 - [[Job Demands–Control–Support Model]]: demands + control + support → strain/engagement; JD-R generalizes this
+- [[Job Crafting]]: the employee-initiated, bottom-up counterpart to manager-imposed design (contemporary frontier)
 
 ## Sources
 
 - [[wiki/sources/morgeson-garza-campion-2012-work-design|Morgeson et al. 2012]]
 - [[wiki/sources/kanfer-frese-johnson-2017-work-motivation|Kanfer et al. 2017]]
+- [[humphrey-nahrgang-morgeson-2007-work-design-meta-analysis|Humphrey, Nahrgang & Morgeson (2007)]] — meta-analytic evidence for the broadened taxonomy
+- [[oldham-fried-2016-job-design-past-present-future|Oldham & Fried (2016)]] — past/present/future review

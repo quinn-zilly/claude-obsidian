@@ -10,7 +10,7 @@ related:
   - "[[Learning & Development MOC]]"
   - "[[Institutional & Strategy MOC]]"
 status: developing
-updated: 2026-06-07
+updated: 2026-06-12
 ---
 
 # Teams & Organizational Behavior — Map of Content
@@ -39,6 +39,21 @@ This cluster maps how groups in organizations adapt, coordinate, remember, and l
 - [[Organizational Learning]]
 - [[argote-miron-spektor-2011-org-learning-journal|Organizational Learning: From Experience to Knowledge]]
 - [[Organizational Memory]]
+
+## Work & job design sub-cluster
+
+- [[Work Design (Concept)]]
+- [[Job Characteristics Model]]
+- [[Work Design Questionnaire]]
+- [[Interdisciplinary Model of Job Design]]
+- [[Job Demands–Control–Support Model]]
+- [[Job Crafting]]
+- [[Job Attitudes]]
+- [[Job Satisfaction]]
+- [[morgeson-humphrey-2006-work-design-questionnaire|Morgeson & Humphrey (2006): The Work Design Questionnaire (WDQ)]]
+- [[humphrey-nahrgang-morgeson-2007-work-design-meta-analysis|Humphrey, Nahrgang & Morgeson (2007): Integrating Motivational, Social, and Contextual Work Design Features]]
+- [[oldham-fried-2016-job-design-past-present-future|Oldham & Fried (2016): Job Design Research and Theory — Past, Present and Future]]
+- [[morgeson-garza-campion-2012-work-design|Morgeson, Garza & Campion (2012): Work Design]]
 
 ## Leadership sub-cluster
 

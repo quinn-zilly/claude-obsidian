@@ -19,6 +19,20 @@ Navigation: [[index]] | [[hot]] | [[overview]]
 
 Append-only. New entries go at the TOP. Never edit past entries.
 
+## [2026-06-12] ingest | Morgeson & Humphrey (2006) — The Work Design Questionnaire (WDQ)
+- Source: `.raw/Morgeson and Humphrey - 2006 - The Work Design Questionnaire (WDQ) Developing and validating a comprehensive measure for assessing.md`
+- Summary: [[morgeson-humphrey-2006-work-design-questionnaire|Morgeson & Humphrey (2006)]] (address c-000696)
+- Pages created: [[morgeson-humphrey-2006-work-design-questionnaire]]
+- Pages updated: [[Work Design Questionnaire]] (+21-factor nuance), [[Work Design (Concept)]], [[Frederick Morgeson]], [[Stephen Humphrey]] (seed→developing), [[Michael Campion]], [[J. Richard Hackman]], [[Greg R. Oldham]], [[Teams & Org Behavior MOC]], [[index]], [[hot]]
+- Key insight: Backfilled the primary source behind the vault's existing WDQ concept page (the concept and 2007 meta-analysis were already in the wiki but the 2006 development paper had no source note). Best-fitting CFA is 21-factor (autonomy → 3 facets, interdependence → 2 directions), not 18. Core theoretical payoff: task characteristics raise satisfaction without raising training/compensation cost, while only knowledge characteristics drive those costs — a way around the classic motivational work-design trade-off.
+
+## [2026-06-12] batch ingest | Humphrey et al. (2007) + Oldham & Fried (2016) — work/job design
+- Sources: `.raw/Humphrey et al. - 2007 - Integrating motivational, social, and contextual work design features...md`, `.raw/Oldham and Fried - 2016 - Job design research and theory Past, present and future.md`
+- Summaries: [[humphrey-nahrgang-morgeson-2007-work-design-meta-analysis]], [[oldham-fried-2016-job-design-past-present-future]]
+- Pages created: [[Job Crafting]], [[Stephen Humphrey]], [[Jennifer Nahrgang]], [[Greg R. Oldham]], [[Yitzhak Fried]], [[Amy Wrzesniewski]], [[J. Richard Hackman]]
+- Pages updated: [[Job Characteristics Model]], [[Work Design (Concept)]], [[Job Demands–Control–Support Model]], [[Frederick Morgeson]], [[Teams & Org Behavior MOC]] (new work/job-design sub-cluster), [[index]], [[hot]]
+- Key insight: Slotted both papers into the vault's existing work-design cluster. Humphrey et al. (2007) supplies the meta-analytic case that social (+up to 40%) and contextual (+up to 16%) characteristics add incremental variance beyond motivational ones, with meaningfulness as the dominant JCM mediator; Oldham & Fried (2016) delivers JCT's senior-author verdict and pivots the field to job crafting + dynamic person–job fit.
+
 ## [2026-06-09] ingest | Institutionalized Organizations: Formal Structure as Myth and Ceremony
 - Source: `.raw/Meyer and Rowan - 1977 - Institutionalized Organizations Formal Structure as Myth and Ceremony.md`
 - Summary: [[meyer-rowan-1977-institutionalized-organizations]]

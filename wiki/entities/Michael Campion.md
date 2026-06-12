@@ -30,4 +30,5 @@ IO psychologist; Purdue University. Developed interdisciplinary model of job des
 
 ## Sources
 
+- [[morgeson-humphrey-2006-work-design-questionnaire|Morgeson & Humphrey (2006)]] — MJDQ is the comparison baseline for the WDQ
 - [[wiki/sources/morgeson-garza-campion-2012-work-design|Morgeson et al. 2012]]

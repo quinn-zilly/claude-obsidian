@@ -43,7 +43,11 @@ Bakker et al. (2005): autonomy, feedback, or social support buffers burnout unde
 
 Social characteristics (social support, feedback from others) and contextual characteristics (physical demands, work conditions) in the WDQ directly map to JD-R resources and demands. Work conditions explain 16% incremental variance in stress beyond motivational + social characteristics.
 
+Oldham & Fried (2016) place JD-R among the contemporary moderator frameworks, and the [[Job Crafting|JD-R typology of job crafting]] (Tims, Bakker & Derks 2012) derives its four activity types from this demands/resources logic.
+
 ## Sources
 
 - [[wiki/sources/morgeson-garza-campion-2012-work-design|Morgeson et al. 2012]]
 - [[wiki/sources/kanfer-frese-johnson-2017-work-motivation|Kanfer et al. 2017]]
+- [[humphrey-nahrgang-morgeson-2007-work-design-meta-analysis|Humphrey, Nahrgang & Morgeson (2007)]] — social support / work conditions incremental variance
+- [[oldham-fried-2016-job-design-past-present-future|Oldham & Fried (2016)]]
