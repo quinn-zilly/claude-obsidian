@@ -17,7 +17,9 @@ related:
   - "[[Proactive Engagement]]"
   - "[[Amy Wrzesniewski]]"
   - "[[Greg R. Oldham]]"
+  - "[[Role Theory (Work Design)]]"
   - "[[oldham-fried-2016-job-design-past-present-future|Oldham & Fried (2016)]]"
+  - "[[parker-morgeson-johns-2017-100-years-work-design|Parker et al. (2017)]]"
 ---
 
 # Job Crafting

@@ -6,8 +6,8 @@ aliases: ["JCM", "job characteristics theory", "Hackman-Oldham"]
 tags: [motivation, work-design, job-design, context, IO-psychology]
 status: developing
 created: 2026-05-30
-updated: 2026-05-30
-related: ["[[Work Motivation Meta-Framework (Kanfer)]]", "[[Intrinsic Motivation]]", "[[Self-Determination Theory]]", "[[wiki/sources/kanfer-frese-johnson-2017-work-motivation|Kanfer et al. 2017]]", "[[wiki/sources/kraiger-ford-2021-workplace-instruction|Kraiger & Ford 2021]]"]
+updated: 2026-06-12
+related: ["[[Work Design (Concept)]]", "[[Work Motivation Meta-Framework (Kanfer)]]", "[[Intrinsic Motivation]]", "[[Self-Determination Theory]]", "[[Frederick Herzberg]]", "[[Relational Job Design]]", "[[parker-morgeson-johns-2017-100-years-work-design|Parker et al. (2017)]]", "[[wiki/sources/kanfer-frese-johnson-2017-work-motivation|Kanfer et al. 2017]]", "[[wiki/sources/kraiger-ford-2021-workplace-instruction|Kraiger & Ford 2021]]"]
 ---
 
 # Job Characteristics Model

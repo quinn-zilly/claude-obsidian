@@ -1483,6 +1483,37 @@
         "wiki/hot.md",
         "wiki/log.md"
       ]
+    },
+    ".raw/Parker et al. - 2017 - One hundred years of work design research Looking back and looking forward..md": {
+      "hash": "bf209330bbab02479548f570276fcdf3",
+      "ingested_at": "2026-06-12",
+      "pages_created": [
+        "wiki/sources/parker-morgeson-johns-2017-100-years-work-design.md",
+        "wiki/concepts/Job Demands-Resources Model.md",
+        "wiki/concepts/Job Demands-Control Model.md",
+        "wiki/concepts/Role Theory (Work Design).md",
+        "wiki/concepts/Autonomous Work Groups.md",
+        "wiki/concepts/Relational Job Design.md",
+        "wiki/concepts/Learning and Development Perspective on Work Design.md",
+        "wiki/entities/Sharon Parker.md",
+        "wiki/entities/Gary Johns.md",
+        "wiki/entities/Robert Karasek.md",
+        "wiki/entities/Evangelia Demerouti.md",
+        "wiki/entities/Adam Grant.md",
+        "wiki/entities/Frederick Herzberg.md",
+        "wiki/entities/Eric Trist.md"
+      ],
+      "pages_updated": [
+        "wiki/concepts/Work Design (Concept).md",
+        "wiki/concepts/Job Characteristics Model.md",
+        "wiki/concepts/Sociotechnical Systems Theory.md",
+        "wiki/concepts/Job Crafting.md",
+        "wiki/entities/Frederick Morgeson.md",
+        "wiki/mocs/Teams & Org Behavior MOC.md",
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md"
+      ]
     }
   },
   "address_map": {
@@ -2078,7 +2109,21 @@
     "wiki/entities/Yitzhak Fried.md": "c-000693",
     "wiki/entities/Amy Wrzesniewski.md": "c-000694",
     "wiki/entities/J. Richard Hackman.md": "c-000695",
-    "wiki/sources/morgeson-humphrey-2006-work-design-questionnaire.md": "c-000696"
+    "wiki/sources/morgeson-humphrey-2006-work-design-questionnaire.md": "c-000696",
+    "wiki/sources/parker-morgeson-johns-2017-100-years-work-design.md": "c-000697",
+    "wiki/concepts/Job Demands-Resources Model.md": "c-000698",
+    "wiki/concepts/Job Demands-Control Model.md": "c-000699",
+    "wiki/concepts/Role Theory (Work Design).md": "c-000700",
+    "wiki/concepts/Autonomous Work Groups.md": "c-000701",
+    "wiki/concepts/Relational Job Design.md": "c-000702",
+    "wiki/concepts/Learning and Development Perspective on Work Design.md": "c-000703",
+    "wiki/entities/Sharon Parker.md": "c-000704",
+    "wiki/entities/Gary Johns.md": "c-000705",
+    "wiki/entities/Robert Karasek.md": "c-000706",
+    "wiki/entities/Evangelia Demerouti.md": "c-000707",
+    "wiki/entities/Adam Grant.md": "c-000708",
+    "wiki/entities/Frederick Herzberg.md": "c-000709",
+    "wiki/entities/Eric Trist.md": "c-000710"
   },
   ".raw/Pearsall et al. - 2025 - A stimulus-based model of the team adaptation process An integrated conceptual review..pdf": {
     "hash": "62f683006d3323a67c67fc23621f632a",

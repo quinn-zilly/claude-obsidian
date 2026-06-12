@@ -307,6 +307,12 @@ Navigation: [[Home MOC]] | [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[
 - [[Ant Colony Optimization (Scale Shortening)]] — algorithm for short-form creation; evaluates multi-criteria; outperforms factor-loading maximization; does not guarantee content coverage (evergreen)
 - [[DEI Evaluation]] — three-goal framework: engage representative stakeholders, ensure data quality/validity, communicate across differences; inclusive evaluation = better validity + better org outcomes (developing)
 - [[Equitable Data Collection]] — representativeness checks, bias detection (reference bias, mischievous responders), disaggregated analysis as default; missing subgroup data = explicit limitation not oversight (developing)
+- [[Job Demands-Resources Model]] — Demerouti et al. 2001; demands → burnout (strain path), resources → engagement (motivational path); generalizes Karasek beyond control; challenge vs hindrance demands (developing)
+- [[Job Demands-Control Model]] — Karasek 1979; demands × control; high-strain = high demands + low control; control buffers demands; strong main effects, weak interaction; Whitehall evidence (developing)
+- [[Role Theory (Work Design)]] — role conflict/ambiguity/overload (Kahn et al. 1964) + role expansion (crafting, role orientation, role breadth self-efficacy); roles broader than jobs (developing)
+- [[Autonomous Work Groups]] — whole-task, multiskilled, self-managing teams; team-level expression of sociotechnical systems; mixed evidence; Barker 1993 "iron cage" (developing)
+- [[Relational Job Design]] — Grant 2007; relational architecture of jobs connects workers to beneficiaries → prosocial motivation (developing)
+- [[Learning and Development Perspective on Work Design]] — Parker 2014; work design drives learning, identity, development not just motivation; proactive personality + locus-of-control loops (developing)
 
 - [[yost-2013-experience-driven-development|Yost (2013)]] — *ASTD Handbook* Ch. 57 | outside-in model; 90% outside-classroom; training as catalyst; development continuum (classroom→action learning→mentoring→job rotation→job assignments) | 2026-06-04
 - [[yost-2014-leading-from-where-you-are|Yost (2014)]] — Ch. 6 in *Using Experience to Develop Leadership Talent* | viral OJD; five design characteristics; succession/perf mgmt/CoP integration; middle-out HR change | 2026-06-04
@@ -331,6 +337,13 @@ Navigation: [[Home MOC]] | [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[
 - [[Evelyn Micelotta]] — UNM; institutional change, institutional logics
 - [[Michael Lounsbury]] — U of Alberta; institutional logics perspective, cultural entrepreneurship
 - [[Royston Greenwood]] — U of Alberta; professional firms, organizational archetypes, institutional complexity
+- [[Sharon Parker]] — work design researcher (UWA/Curtin); lead author Parker, Morgeson & Johns 2017; role orientation, proactivity, learning/development perspective (developing)
+- [[Gary Johns]] — OB scholar (Concordia); co-author PMJ 2017; context in OB, curvilinear job-scope effects, unintended job-design consequences (seed)
+- [[Robert Karasek]] — originator of the job demands-control model (1979); job strain, decision latitude; Healthy Work with Theorell (seed)
+- [[Evangelia Demerouti]] — co-developer of the job demands-resources model (Demerouti et al. 2001); burnout/engagement (seed)
+- [[Adam Grant]] — Wharton; relational job design (2007); task significance; Give and Take; NOT Robert Grant (seed)
+- [[Frederick Herzberg]] — Motivator-Hygiene (Two-Factor) Theory; sparked job enrichment → JCM; "One More Time" HBR classic (seed)
+- [[Eric Trist]] — Tavistock; co-founder of sociotechnical systems theory; Longwall coal-mining studies (Trist & Bamforth 1951) (seed)
 - [[Leadership Map]] — four-dimension taxonomy: experiences, competencies, key relationships, learning agility; Yost & Plunkett (developing)
 - [[Learning Agility]] — dispositional capacity to extract lessons from experience; determines OJD yield (developing)
 - [[Developmental Experiences]] — curated work assignments that produce leadership growth; turnarounds, start-ups, cross-functional roles (developing)
@@ -496,6 +509,7 @@ Navigation: [[Home MOC]] | [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[
 
 ## Sources
 
+- [[parker-morgeson-johns-2017-100-years-work-design|Parker, Morgeson & Johns (2017)]] — Journal of Applied Psychology (Centennial) | big-picture map of 100 years of work design; scientific mapping of 5,708 articles → 5 historically-anchored clusters (sociotechnical/AWG, JCM, job demands-control, job demands-resources, role theory); clusters reflect history not topic, so integration is the field's opportunity; JAP = 6.4% of articles but ~19% of citations; impact on academia/economics/epidemiology/HBR/policy; proactive + dynamic + multilevel future agenda | 2026-06-12
 - [[morgeson-humphrey-2006-work-design-questionnaire|Morgeson & Humphrey (2006)]] — Journal of Applied Psychology | development & validation of the WDQ; 107 terms → 18 categories / 21 CFA factors across task/knowledge/social/contextual domains; N=540 incumbents, 243 jobs; avg α ≈ .87; only knowledge characteristics predict training/compensation cost (route around the satisfaction-vs-cost trade-off); social support incrementally predicts satisfaction | 2026-06-12
 - [[humphrey-nahrgang-morgeson-2007-work-design-meta-analysis|Humphrey, Nahrgang & Morgeson (2007)]] — Journal of Applied Psychology | definitive work-design meta-analysis (259 studies, N=219,625); 14 characteristics explain ~43% of variance across 19 outcomes; social characteristics add up to +40% and work context up to +16% incremental variance beyond motivational; experienced meaningfulness is the dominant JCM mediator | 2026-06-12
 - [[oldham-fried-2016-job-design-past-present-future|Oldham & Fried (2016)]] — Organizational Behavior and Human Decision Processes | past/present/future review of job design by JCT's co-author; JCT verdict (strong on attitudes + meaningfulness, modest on behavior, mixed moderators); shift to employee-driven job crafting; eight future directions | 2026-06-12

@@ -17,6 +17,13 @@ related:
   - "[[Self-Determination Theory]]"
   - "[[morgeson-humphrey-2006-work-design-questionnaire|Morgeson & Humphrey (2006)]]"
   - "[[wiki/sources/morgeson-garza-campion-2012-work-design|Morgeson et al. 2012]]"
+  - "[[parker-morgeson-johns-2017-100-years-work-design|Parker et al. (2017)]]"
+  - "[[Job Demands-Resources Model]]"
+  - "[[Job Demands-Control Model]]"
+  - "[[Role Theory (Work Design)]]"
+  - "[[Autonomous Work Groups]]"
+  - "[[Relational Job Design]]"
+  - "[[Learning and Development Perspective on Work Design]]"
 ---
 
 # Work Design

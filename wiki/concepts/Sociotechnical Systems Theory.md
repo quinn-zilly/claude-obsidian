@@ -6,9 +6,12 @@ aliases: ["STS", "sociotechnical systems", "sociotechnical design"]
 tags: [work-design, teams, organizational-theory, IO-psychology]
 status: developing
 created: 2026-06-01
-updated: 2026-06-01
+updated: 2026-06-12
 related:
   - "[[Work Design (Concept)]]"
+  - "[[Autonomous Work Groups]]"
+  - "[[Eric Trist]]"
+  - "[[parker-morgeson-johns-2017-100-years-work-design|Parker et al. (2017)]]"
   - "[[wiki/sources/morgeson-garza-campion-2012-work-design|Morgeson et al. 2012]]"
 ---
 

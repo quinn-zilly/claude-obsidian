@@ -19,6 +19,14 @@ Navigation: [[index]] | [[hot]] | [[overview]]
 
 Append-only. New entries go at the TOP. Never edit past entries.
 
+## [2026-06-12] ingest | Parker, Morgeson & Johns (2017) — One Hundred Years of Work Design Research
+- Source: `.raw/Parker et al. - 2017 - One hundred years of work design research Looking back and looking forward..md`
+- Summary: [[parker-morgeson-johns-2017-100-years-work-design|Parker, Morgeson & Johns (2017)]] (address c-000697)
+- Pages created: [[parker-morgeson-johns-2017-100-years-work-design]], [[Job Demands-Resources Model]] (c-000698), [[Job Demands-Control Model]] (c-000699), [[Role Theory (Work Design)]] (c-000700), [[Autonomous Work Groups]] (c-000701), [[Relational Job Design]] (c-000702), [[Learning and Development Perspective on Work Design]] (c-000703), [[Sharon Parker]] (c-000704), [[Gary Johns]] (c-000705), [[Robert Karasek]] (c-000706), [[Evangelia Demerouti]] (c-000707), [[Adam Grant]] (c-000708), [[Frederick Herzberg]] (c-000709), [[Eric Trist]] (c-000710)
+- Pages updated: [[Work Design (Concept)]], [[Job Characteristics Model]], [[Sociotechnical Systems Theory]], [[Job Crafting]], [[Frederick Morgeson]], [[Teams & Org Behavior MOC]], [[index]], [[hot]]
+- Key insight: The field's five canonical theory clusters are historically siloed rather than substantively distinct, so the highest-value move is cross-cluster integration (e.g. studying health/burnout outcomes of job characteristics, or motivational outcomes of demand-control). JAP punches far above its volume in citation influence. Future agenda reorients from passive ("how does work design affect outcomes?") to proactive ("what role does work design play in achieving outcomes and enabling adaptation to automation?").
+- Contradiction watch: new [[Job Demands-Control Model]] page overlaps the existing [[Job Demands–Control–Support Model]] (en-dash, "Support"); flagged on both for a merge/cross-link decision at next lint.
+
 ## [2026-06-12] ingest | Morgeson & Humphrey (2006) — The Work Design Questionnaire (WDQ)
 - Source: `.raw/Morgeson and Humphrey - 2006 - The Work Design Questionnaire (WDQ) Developing and validating a comprehensive measure for assessing.md`
 - Summary: [[morgeson-humphrey-2006-work-design-questionnaire|Morgeson & Humphrey (2006)]] (address c-000696)

@@ -52,4 +52,4 @@ This cluster maps how knowledge is captured, structured, remembered, and retriev
 
 - [[Linked Open Data]]
 - [[DBpedia]]
-- [[lehmann-2015-dbpedia|DBpedi
+- [[lehmann-2015-dbpedia|DBpedia]]
