@@ -20,13 +20,13 @@ Hackman & Oldham (1975, 1976). Dominant context-based motivation theory for 25+ 
 
 **Five job characteristics** → **Three psychological states** → **Internal work motivation**
 
-| Job Characteristic | Psychological State |
-|-------------------|---------------------|
-| Skill variety | |
-| Task identity | → Experienced meaningfulness of work |
-| Task significance | |
-| Autonomy | → Experienced responsibility for outcomes |
-| Feedback | → Knowledge of actual results |
+| Job Characteristic | Psychological State                       |
+| ------------------ | ----------------------------------------- |
+| Skill variety      |                                           |
+| Task identity      | → Experienced meaningfulness of work      |
+| Task significance  |                                           |
+| Autonomy           | → Experienced responsibility for outcomes |
+| Feedback           | → Knowledge of actual results             |
 
 **Design goal:** "performance becomes its own reward, a virtuous self-perpetuating cycle of positive work motivation powered by self-generated rewards" (Hackman & Oldham 1976, p. 256)
 

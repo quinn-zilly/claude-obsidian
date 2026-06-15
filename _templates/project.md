@@ -4,6 +4,7 @@ address:
 title:
 tags:
 status:
-updated:
-created:
+updated: <% tp.date.now("YYYY-MM-DD") %>
+created: <% tp.date.now("YYYY-MM-DD") %>
+related:
 ---
