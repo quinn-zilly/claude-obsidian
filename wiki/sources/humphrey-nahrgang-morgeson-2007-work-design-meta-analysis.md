@@ -22,7 +22,7 @@ related:
   - "[[Job Characteristics Model]]"
   - "[[Work Design (Concept)]]"
   - "[[Work Design Questionnaire]]"
-  - "[[Job Demands–Control–Support Model]]"
+  - "[[Job Demands-Control Model]]"
   - "[[Job Satisfaction]]"
   - "[[Organizational Commitment]]"
   - "[[Employee Absenteeism]]"
@@ -99,7 +99,7 @@ This is the empirical case that social and contextual features are **non-redunda
 ## Why This Source Matters
 
 - Empirically validates broadening work design beyond the [[Job Characteristics Model]]'s five characteristics.
-- Supplies the meta-analytic evidence repeatedly cited in [[Work Design (Concept)]], [[Work Design Questionnaire]], and [[Job Demands–Control–Support Model]].
+- Supplies the meta-analytic evidence repeatedly cited in [[Work Design (Concept)]], [[Work Design Questionnaire]], and [[Job Demands-Control Model]].
 - Establishes meaningfulness as the proximal mechanism — the bridge to [[Self-Determination Theory]] need-satisfaction accounts.
 
 ## Method Notes
@@ -111,7 +111,7 @@ Schmidt–Hunter psychometric meta-analysis; corrected for unreliability in pred
 - [[Job Characteristics Model]] — the model being tested and extended; this paper supplies its meta-analytic verdict.
 - [[Work Design Questionnaire]] — the 18-characteristic measure this evidence underwrites.
 - [[oldham-fried-2016-job-design-past-present-future|Oldham & Fried (2016)]] — cites this meta-analysis as the authoritative empirical summary of JCT.
-- [[Job Demands–Control–Support Model]] — social support / work conditions findings feed the JD-R resources-and-demands logic.
+- [[Job Demands-Control Model]] — social support / work conditions findings feed the JD-R resources-and-demands logic.
 
 ## Sources
 

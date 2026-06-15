@@ -12,7 +12,7 @@ created: 2026-06-12
 updated: 2026-06-12
 related:
   - "[[Work Design (Concept)]]"
-  - "[[Job Demands–Control–Support Model]]"
+  - "[[Job Demands-Resources Model]]"
   - "[[Frederick Morgeson]]"
   - "[[Stephen Humphrey]]"
   - "[[humphrey-nahrgang-morgeson-2007-work-design-meta-analysis|Humphrey, Nahrgang & Morgeson (2007)]]"

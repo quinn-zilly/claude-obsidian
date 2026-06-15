@@ -15,7 +15,7 @@ related:
   - "[[Work Design Questionnaire]]"
   - "[[Job Characteristics Model]]"
   - "[[Sociotechnical Systems Theory]]"
-  - "[[Job Demands–Control–Support Model]]"
+  - "[[Job Demands-Control Model]]"
   - "[[Interdisciplinary Model of Job Design]]"
   - "[[Frederick Morgeson]]"
   - "[[Michael Campion]]"

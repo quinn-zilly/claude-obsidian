@@ -22,7 +22,7 @@ related:
   - "[[Job Characteristics Model]]"
   - "[[Work Design (Concept)]]"
   - "[[Job Crafting]]"
-  - "[[Job Demands–Control–Support Model]]"
+  - "[[Job Demands-Control Model]]"
   - "[[Interdisciplinary Model of Job Design]]"
   - "[[Transformational and Charismatic Leadership]]"
   - "[[Hofstede's Cultural Dimensions]]"
@@ -53,7 +53,7 @@ A narrative review of ~50 years of job-design research by **Greg Oldham** (co-au
 ## Present: Streams That Refined and Expanded JCT
 
 - **Measurement of job characteristics:** JDS factor-structure problems; negatively-worded-item fixes didn't improve prediction; employee ratings are *generally accurate* (moderate self–observer convergence), shaped somewhat by dispositions and social information. Field moved to self-reports via JDS, JCI, or WDQ.
-- **New moderators:** personality (esp. neuroticism), career stage, physical context, others' jobs, uncertainty (job control matters more under high uncertainty), and the **JD-R framework** (Demerouti et al. 2001) — see [[Job Demands–Control–Support Model]].
+- **New moderators:** personality (esp. neuroticism), career stage, physical context, others' jobs, uncertainty (job control matters more under high uncertainty), and the **JD-R framework** (Demerouti et al. 2001) — see [[Job Demands-Control Model]].
 - **Effects of organizational context on job design:** structure (formalization, centralization), technology (Thompson 1967 categories), and physical space shape the characteristics jobs actually have.
 - **Interdisciplinary perspective** (Campion) → see [[Interdisciplinary Model of Job Design]].
 - **Alternative job characteristics:** social dimensions (Grant & Parker 2009) and Humphrey et al.'s (2007) motivational/contextual/social groupings; service/knowledge economy raised their salience.
@@ -83,7 +83,7 @@ A narrative review of ~50 years of job-design research by **Greg Oldham** (co-au
 - [[Job Characteristics Model]] — the theory whose verdict this paper delivers.
 - [[Job Crafting]] — the central future direction; defined and elaborated here.
 - [[humphrey-nahrgang-morgeson-2007-work-design-meta-analysis|Humphrey, Nahrgang & Morgeson (2007)]] — repeatedly cited as the empirical summary of JCT and the social/contextual extension.
-- [[Job Demands–Control–Support Model]] — JD-R framing of moderators and mediators.
+- [[Job Demands-Control Model]] — JD-R framing of moderators and mediators.
 
 ## Sources
 

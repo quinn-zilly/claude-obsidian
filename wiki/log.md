@@ -451,3 +451,8 @@ Parse recent entries: `grep "^## \[" wiki/log.md | head -10`
 - Sources (10 PDFs from Zotero KMBI/Research Paper collection):
   - `.raw/Grant - 1996 - Toward a Knowledge-Based Theory of the Firm.pdf`
   - `.ra
+## 2026-06-15 — query filed
+- [[seven-job-design-dimensions]] — wiki-query answer on 7 job-design dimensions (JCM 5 + 2 social) predicting performance/engagement, with hospital dietary-aide worked example. Sourced from Humphrey et al. 2007, Morgeson & Humphrey 2006, Oldham & Fried 2016.
+
+## 2026-06-15 — lint/merge
+- Merged duplicate `[[Job Demands–Control–Support Model]]` (c-000305, en-dash) into canonical `[[Job Demands-Control Model]]` (c-000699). JDCS evidence + moderators + WDQ-mapping + sources folded in; "Job Demands–Control–Support Model" kept as an alias on the canonical page for link resolution. JD-R-specific inbound links (Jennifer Nahrgang entity, Job Crafting JD-R typology) repointed to [[Job Demands-Resources Model]]; all other inbound links repointed to the canonical JD-C page. Old page deleted. Closes the duplicate flagged in hot.md.

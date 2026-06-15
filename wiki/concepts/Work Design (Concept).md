@@ -11,7 +11,7 @@ related:
   - "[[Job Characteristics Model]]"
   - "[[Work Design Questionnaire]]"
   - "[[Sociotechnical Systems Theory]]"
-  - "[[Job Demands–Control–Support Model]]"
+  - "[[Job Demands-Control Model]]"
   - "[[Interdisciplinary Model of Job Design]]"
   - "[[Work Motivation Meta-Framework (Kanfer)]]"
   - "[[Self-Determination Theory]]"
@@ -65,7 +65,7 @@ Motivational ↔ Mechanistic design: enriching work → satisfaction + training 
 - [[Job Characteristics Model]]: the dominant motivational framework; five task characteristics; largely subsumed into WDQ
 - [[Self-Determination Theory]]: SDT's need satisfaction (autonomy, competence, relatedness) maps to JCM psychological states
 - [[Work Motivation Meta-Framework (Kanfer)]]: work design = "context" cell; job characteristics as motivational antecedents operating through goal processes
-- [[Job Demands–Control–Support Model]]: demands + control + support → strain/engagement; JD-R generalizes this
+- [[Job Demands-Control Model]]: demands + control + support → strain/engagement; JD-R generalizes this
 - [[Job Crafting]]: the employee-initiated, bottom-up counterpart to manager-imposed design (contemporary frontier)
 
 ## Sources

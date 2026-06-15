@@ -46,7 +46,7 @@ This cluster maps how groups in organizations adapt, coordinate, remember, and l
 - [[Job Characteristics Model]]
 - [[Work Design Questionnaire]]
 - [[Interdisciplinary Model of Job Design]]
-- [[Job Demands–Control–Support Model]]
+- [[Job Demands-Control Model]]
 - [[Job Demands-Control Model]]
 - [[Job Demands-Resources Model]]
 - [[Role Theory (Work Design)]]

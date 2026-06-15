@@ -12,7 +12,7 @@ updated: 2026-06-12
 related:
   - "[[Work Design (Concept)]]"
   - "[[Job Characteristics Model]]"
-  - "[[Job Demands–Control–Support Model]]"
+  - "[[Job Demands-Resources Model]]"
   - "[[Person–Environment Fit]]"
   - "[[Proactive Engagement]]"
   - "[[Amy Wrzesniewski]]"
@@ -37,7 +37,7 @@ Three approaches:
 
 ## JD-R Typology (Tims, Bakker & Derks 2012)
 
-Four activity types tied to the [[Job Demands–Control–Support Model|JD-R framework]], each with a validated measure:
+Four activity types tied to the [[Job Demands-Resources Model|JD-R framework]], each with a validated measure:
 1. Increasing **social** job resources (maximizing feedback from the social context).
 2. Increasing **structural** job resources (developing personal capabilities).
 3. Increasing **challenging** job demands (taking on new projects).

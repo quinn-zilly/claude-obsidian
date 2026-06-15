@@ -12,7 +12,7 @@ created: 2026-06-12
 updated: 2026-06-12
 related:
   - "[[Job Demands-Control Model]]"
-  - "[[Job Demands–Control–Support Model]]"
+  - "[[Job Demands-Control Model]]"
   - "[[Job Demands-Resources Model]]"
   - "[[Work Design (Concept)]]"
   - "[[parker-morgeson-johns-2017-100-years-work-design|Parker et al. (2017)]]"
