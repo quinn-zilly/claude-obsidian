@@ -6,7 +6,7 @@ tags: [concept, organizational-commitment, job-attitudes, organizational-psychol
 created: 2026-06-01
 updated: 2026-06-01
 status: evergreen
-related: ["[[Job Attitudes]]", "[[Job Satisfaction]]", "[[Affective Events Theory]]", "[[Job Performance (Outcomes of Job Attitudes)]]", "[[Timothy A. Judge]]", "[[John D. Kammeyer-Mueller]]"]
+related: ["[[Job Attitudes]]", "[[Job Satisfaction]]", "[[Affective Events Theory]]", "[[Job Performance (Outcomes of Job Attitudes)]]", "[[Timothy A. Judge]]", "[[John D. Kammeyer-Mueller]]", "[[Social Exchange Theory]]", "[[Perceived Organizational Support]]", "[[Organizational Justice]]"]
 ---
 
 # Organizational Commitment
@@ -44,8 +44,13 @@ Positive commitment–performance relationship, but not strong (Wright & Bonett 
 - High continuance + low affective commitment → poorer performance (Sinclair et al. 2005)
 - High affective commitment buffers against stress → performance decrements (Hunter & Thatcher 2007)
 
+## As a Social-Exchange-Quality Indicator
+
+Beyond the job-attitudes tradition above, commitment serves as one of the four **social-exchange-quality indicators** in justice research (with trust, [[Perceived Organizational Support|POS]], [[Leader-Member Exchange (LMX)|LMX]]). In [[Social Exchange Theory]], employees **exchange commitment for organizational support** (Eisenberger et al.); commitment is both **particularistic** (to the org) and **symbolic**. [[colquitt-et-al-2013-justice-millennium-decade-later|Colquitt et al. (2013)]] found commitment mediates [[Organizational Justice|justice]]→performance and justice→OCB. POS–commitment meta-analytic r = .60 (Rhoades & Eisenberger 2002).
+
 ## Key Sources
 
 - [[judge-kammeyer-mueller-2012-job-attitudes]] — comprehensive review
+- [[colquitt-et-al-2013-justice-millennium-decade-later]] — commitment as justice→behavior mediator
 - Meyer et al. (2002) — three-component model meta-analysis
 - Solinger et al. (2008) — critique and reformulation

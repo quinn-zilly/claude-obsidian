@@ -1,0 +1,1313 @@
+## Page 1
+
+1AJCo0rRu.o1Trpn1IaaC7nl7Lz o/aE0fn 1Mo4,9 aM2n0ait6gc3ehm0e5lel2n /7t S9/ 6oD0cei2acle Emxbcehra 2n0g0e5 Theory
+Social Exchange Theory:
+An Interdisciplinary Review
+Russell Cropanzano*
+Department of Management and Policy, University of Arizona, P.O. Box 210108, Tucson, AZ 85721-0108
+Marie S. Mitchell
+Department of Management, University of Central Florida, P.O. Box 161400, Orlando, FL 32816-1400
+Socialexchangetheory(SET)isonethemostinfluentialconceptualparadigmsinorganizational
+behavior.Despiteitsusefulness,theoreticalambiguitieswithinSETremain.Asaconsequence,
+testsofthemodel,aswellasitsapplications,tendtorelyonanincompletelyspecifiedsetofideas.
+Theauthorsaddressconceptualdifficultiesandhighlightareasinneedofadditionalresearch.In
+sodoing,theypayspecialattentiontofourissues:(a)therootsoftheconceptualambiguities,(b)
+normsandrulesofexchange,(c)natureoftheresourcesbeingexchanged,and(d)socialexchange
+relationships.
+Keywords: socialexchangetheory;reciprocity;workplacerelationships
+Social exchange theory (SET) is among the most influential conceptual paradigms for
+understandingworkplacebehavior.Itsvenerablerootscanbetracedbacktoatleastthe1920s
+(e.g.,Malinowski,1922;Mauss,1925),bridgingsuchdisciplinesasanthropology(e.g.,Firth,
+1967; Sahlins, 1972), socialpsychology (e.g., Gouldner, 1960; Homans, 1958; Thibault&
+Kelley,1959),andsociology(e.g.,Blau,1964).Althoughdifferentviewsofsocialexchange
+haveemerged,theoristsagreethatsocialexchangeinvolvesaseriesofinteractionsthatgener-
+ateobligations(Emerson,1976).WithinSET,theseinteractionsareusuallyseenasinterde-
+pendentandcontingentontheactionsofanotherperson(Blau,1964).SETalsoemphasizes
+*Corresponding author. Tel.: 520-621-3901; fax: 520-621-4171
+E-mail address: russell@eller.arizona.edu
+Journal of Management, Vol. 31 No. 6, December 2005 874-900
+DOI:10.1177/0149206305279602
+© 2005 Southern Management Association. All rights reserved.
+874
+
+## Page 2
+
+Cropanzano, Mitchell / Social Exchange Theory 875
+that these interdependent transactions have the potential to generate high-quality relation-
+ships,althoughasweshallseethisonlywilloccurundercertaincircumstances.
+SET’s explanatory value has been felt in such diverse areas as social power (Molm,
+Peterson,&Takahashi,1999), networks(Brass,Galaskiewicz,Greve,&Tsai,2004;Cook,
+Molm,&Yamagishi,1993),boardindependence(Westphal&Zajac,1997),organizational
+justice(Konovsky,2000),psychologicalcontracts(Rousseau,1995),andleadership(Liden,
+Sparrowe,&Wayne,1997),amongothers.However,recentreviewshaveemphasizedprob-
+lemsfacingthetheory.Forexample,Coyle-ShapiroandConway(2004)discussedtheoretical
+ambiguitiesandempiricalneeds,whereasCropanzano,Rupp,Mohler,andSchminke(2001)
+lamentedfrequentmisunderstandingsofthegeneralSETmodel.
+ThegoalofthisarticleistotracetheproblemsofSETbacktotheirroots.Despitetheuse-
+fulnessoftheSETframework,webelievethedifficultiesfacingSETaresystemic:Thecore
+ideasthatcomprise SEThaveyettobeadequately articulatedand integrated.Asaconse-
+quence,testsofthemodel,aswellasitsapplications,tendtobeusinganincompletelyspeci-
+fiedsetofideas.Thispredicamentcreatesatleasttwoproblems.First,SETconstructshave
+notbeenfullyidentified.ManytestsofSETleaveoutcriticaltheoreticalvariables.Second,
+someformulationsofSETareambiguous,lendingthemselvestomultipleinterpretations.As
+aresult,thepresenceofanyvaguenessrendersamodeldifficulttotest.
+SETmaywellhavethepotentialtoprovideaunitaryframeworkformuchoforganizational
+behavior.Yet,evenifthispotentialexists,itisunlikelytomanifestitselfgiventhecurrentcon-
+ceptual difficulties. Our review will return to the foundational ideas of SET’s explanatory
+power:(a)rulesandnormsofexchange,(b)resourcesexchanged,and(c)relationshipsthat
+emerge.Eachoftheseideasisofconsiderableimportance,buteachhaslackedcleardefinition
+and/orhasbeenthesourceofconceptualmisunderstanding.Therefore,weclosewithdiscus-
+sionshighlightingtheseconceptualuncertaintiesandprovidesuggestionsforclarity.
+Rules and Norms of Exchange
+OneofthebasictenetsofSETisthatrelationshipsevolveovertimeintotrusting,loyal,and
+mutualcommitments.Todoso,partiesmustabidebycertain“rules”ofexchange.Rulesof
+exchangeforma“normativedefinitionofthesituationthatformsamongorisadoptedbythe
+participantsinanexchangerelation”(Emerson,1976:351).Inthisway,rulesandnormsof
+exchangeare“theguidelines”ofexchangeprocesses.Thus,theuseofSETinmodelsoforga-
+nizational behavior is framed on the basis of the exchange rule or principle the researcher
+relieson.Mostofmanagementresearchfocusesonexpectationsofreciprocity;however,a
+number of other exchange rules havebeen outlined in SET. Thus, themajorityof thissec-
+tionwilloutlineprinciplesof reciprocity,butwealsointroduce negotiatedrulesand lesser
+researchedrulesofexchange.
+Reciprocity Rules
+Reciprocity or repayment in kind is probably the best known exchange rule. Gouldner
+(1960) provided an interdisciplinary review of what was then known of SET. Gouldner’s
+
+## Page 3
+
+876 Journal of Management / December 2005
+review makes clear that there is some ambiguity in the way in which reciprocity can be
+defined.Theprimarycontributionofthisreviewwasoutliningthenatureofreciprocitywithin
+exchangeanddistinguishingthreedifferenttypesofreciprocity:(a)reciprocityasatransac-
+tionalpatternofinterdependentexchanges,(b)reciprocityasafolkbelief,and(c)reciprocity
+asamoralnorm.Werevieweachofthesetraditionsofreciprocityintermsoforganizational
+research.
+Reciprocityasinterdependentexchanges.Tounderstandinterdependence,itishelpfulto
+first consider what itis not. Generally speaking, a party can have atleastthree postures to
+another person (cf. Blau, 1964; Homans, 1961): (a) independence (outcomes are based
+entirely on one’s solo effort), (b) dependence (outcomes are based entirely on the other’s
+effort), and (c) interdependence (outcomes are based on a combination of parties’efforts).
+Noticethatcompleteindependenceandcompletedependencedonotimplyasocialexchange,
+assuch.Thisisbecauseanexchangerequiresabidirectionaltransaction—somethinghastobe
+givenandsomethingreturned.Forthisreason,interdependence,whichinvolvesmutualand
+complementary arrangements, is considered a defining characteristic of social exchange
+(Molm,1994).
+Although weconsideravarietyofexchangeslaterwithinthissection,wenowfocuson
+howreciprocalinterdependenceisespeciallyimportantwithinthesocialexchangeliterature.
+Reciprocal interdependence emphasizes contingent interpersonal transactions, whereby an
+actionbyonepartyleadstoaresponsebyanother.Ifapersonsuppliesabenefit,thereceiving
+party should respond in kind (Gergen, 1969). Kelley and Thibaut (Kelley, 1968; Kelley &
+Thibault,1978;Thibault&Kelley,1959)exploredpatternsofexchangesequences.Generally,
+thisresearchtendstobeexperimental,althoughfieldevidenceisalsoconsistentwiththegen-
+eralfindings(e.g.,Farrell&Rusbult,1981;Rusbult,Farrell,Rogers,&Mainous,1988).
+Inthistradition,a“reciprocalexchange”isunderstoodasonethatdoesnotincludeexplicit
+bargaining (Molm, 2000, 2003). Rather, one party’s actions are contingent on the other’s
+behavior.Becauseofthis,interdependencereducesriskandencouragescooperation(Molm,
+1994).Theprocessbeginswhenatleastoneparticipantmakesa“move,”andiftheotherrecip-
+rocates,newroundsofexchangeinitiate.Oncetheprocessisinmotion,eachconsequencecan
+createaself-reinforcingcycle.Thesequenceislikelytobecontinuous,makingitdifficultto
+organizeintodiscretesteps.Agreatdealofresearchhasinvestigatedtheroleofinterdepen-
+denceinexchange.Althoughathoroughreviewofthisvastliteratureisbeyondthescopeof
+this article, it is noteworthy that evidence is consistent with Gouldner’s model (e.g., Alge,
+Wiethoff,&Klein,2003;Uhl-Bien&Maslyn,2003).
+Reciprocityasafolkbelief.Reciprocityasa“folkbelief”involvestheculturalexpectation
+thatpeoplegetwhattheydeserve(Gouldner,1960).Malinowski(1932)describedthistypeof
+reciprocityinhisdescriptionsoftraderelationshipsbetweenfarmingandfishingcommuni-
+ties.Participantsinthesetransactionsacceptedsomecombinationof(a)asensethatovertime
+allexchangesreachafairequilibrium,(b)thosewhoareunhelpfulwillbepunished,and(c)
+thosewhoarehelpfulwillreceivehelpinthefuture.Inotherwords,everythingworksoutin
+theend.
+
+## Page 4
+
+Cropanzano, Mitchell / Social Exchange Theory 877
+Awell-knownexampleofthisexpectationisprovidedbyLerner(1980)inhisresearchon
+the “just world” perceptions. Just world beliefs act as a perceptual bias in that individuals
+maintain a belief in a universal justice,even when evidence to that effect is lacking. Some
+organizationalresearchissuggestiveofpositivebenefitstofolkbeliefs.Forexample,Biesand
+Tripp(1996)foundonealternativetorevengeseekingwas“karma.”Theserespondentsindi-
+catedtheychosenottoseekrevengebecausetheybelievedtheperpetratorswouldeventually
+“get what was coming to them.” This suggests folk beliefs may lessen the likelihood of
+destructivebehaviors, atleastinsome situations.Unfortunately, organizationalresearchers
+haveyettoexplorereciprocityfolkbeliefs.
+Reciprocityasanormandindividualorientation.Reciprocityhasalsobeenconsidereda
+culturalmandate,inwhichthosewhodonotcomplyarepunished(Malinowski,1932;Mauss,
+1967).Thekeydifferencebetweenanormandafolkbeliefisthatnormsinvolveaqualitythat
+philosopherssometimestermought(e.g.,Moore,1903/2004).Thatis,anormisastandard
+that describes how one should behave, and those who follow these norms are obligated to
+behavereciprocally.ThislogicledGouldner(1960)tospeculatethatanormofreciprocityisa
+universalprinciple,andthisviewissharedbyothers(e.g.,Tsui&Wang,2002;Wang,Tsui,
+Zhang,&Ma,2003).Ofcourse,evenifreciprocityisahumanuniversal,thisisnottosaythat
+allindividualsvaluereciprocitytothesamedegree.Indeed, asonemightimagine,thereis
+strongevidencesupportingtheexistenceofculturalandindividualdifferences(Parker,1998;
+Rousseau&Schalk,2000;Shore&Coyle-Shapiro,2003).
+Forexample,somesocialpsychologistshaveadvancedthenotionthatindividualsdifferin
+thedegreetheyendorsereciprocity(Clark&Mills,1979;Murstein,Cerreto,&MacDonald,
+1977). Those high in an exchange orientation carefully track obligations (score keeping).
+Thoselowinexchangeorientationarelessconcernedaboutobligationsandarelesslikelyto
+careifexchangesarenotreciprocated.Organizationalresearchershavebeguntoinvestigate
+reciprocityinthisway.Theresults(summarizedintheappendix)arequitepromising.
+Specifically,findingssuggestthatindividualswithastrongexchangeorientationaremore
+likelytoreturnagooddeedthanthoselowinexchangeorientation.Eisenberger,Huntington,
+Hutchison,andSowa(1986,Study2)werefirsttoexploreexchangeideology.Intheirinves-
+tigations of perceived organizational support (POS) and absenteeism, they found that the
+relationshipwasstrongerforindividualswithhighexchangeideologythanthosewithalow
+exchangeideology.Laterexplorationsalsosuggestexchangeideologystrengthenstherela-
+tionship of POS with felt obligation (Eisenberger, Armeli, Rexwinkel, Lynch, & Rhoades,
+2001), citizenshipbehavior (Witt,1991b), and effort and performance (Orpen, 1994). One
+exceptionshouldbenoted.SinclairandTetrick(1995)adaptedmeasurestoexamineexchange
+ideology,POSandunionsupport,andfoundnomoderationeffects.Theybelievedtheresults
+indicatethatunionrelationsarefundamentallydifferentfromthoseheldwithanemployer.
+TheeffectsofexchangeideologyarenotlimitedtoPOS.Exchangebeliefsalsomoderate
+therelationshipbetweenparticipativedecisionmakingandacceptanceofgroup normsand
+satisfactionwithpromotionopportunities(Witt,1992).Wittandcolleaguesfoundthatstrong
+exchangeideologysignificantlyincreasedsatisfactionwithtraining(Witt&Broach,1993)
+andmanager-ratedcommitment(Witt,Kacmar,&Andrews,2001).Exchangeideologyalso
+strengthenstheeffectsofequalopportunityandattitudes(i.e.,jobsatisfactionandprocedural
+
+## Page 5
+
+878 Journal of Management / December 2005
+justice)(Witt,1991a),aswellasindividuals’sensitivitytoorganizationalpolitics,whichulti-
+matelyaffectedtheirintentionstostayintheorganization(Andrews,Witt,&Kacmar,2003).
+Last,WittandWilson(1999)foundexchangeideologystrengthenedtherelationshipbetween
+perceptionsofincomesufficiencyandemployeeattitudes(jobsatisfactionandcommitment).
+Researchershavealsofurtherdelineatedreciprocitynorms(Eisenberger,Lynch,Aselage,
+&Rohdieck,2004;Perugini&Gallucci,2001;Uhl-Bien&Maslyn,2003).Theyarguereci-
+procityrepresentsquidproquopropensities,whetherpositiveornegative.Anegativereci-
+procityorientationinvolvesthetendencytoreturnnegativetreatmentfornegativetreatment;a
+positive reciprocity orientation involves the tendency to return positive treatment for posi-
+tivetreatment.Experimentalresearchsuggests anindividual’sreciprocitypreference influ-
+encesbehavioralandinformationalchoices(Gallucci&Perugini,2003;Perugini,Gallucci,
+Presaghi,&Ercolani,2003).Furthermore,findingsfromEisenbergeretal.(2004)showindi-
+vidualshighonnegativereciprocityviewedothersmoremalevolentlyandwereangrier,which
+suggestsacatharticapproachtoexchange.
+Overall,thisresearchsuggeststhat,althoughthenormofreciprocitymaybeauniversally
+acceptedprinciple(Gouldner,1960),thedegreetowhichpeopleandculturesapplyreciproc-
+ityprinciplesvaries.Clearly,further investigationsof how exchange orientationinfluences
+organizationalrelationshipsisofgreatimportance.Byandlarge,organizationalresearchers
+havefocusedonthesocialrelationshipsthatdevelopbetweenemployeesandtheiremploying
+organization.Exchangeorientationprovidesaninterestingavenueforfutureresearch(e.g.,
+relationswithsupervisors,coworkers,outsiders,andamonggroups).
+Negotiated Rules
+Partiesofexchangemayalsonegotiaterulesinthehopeofreachingbeneficialarrange-
+ments(e.g.,Cook&Emerson,1978;Cook,Emerson,&Gillmore,1983).Negotiatedagree-
+mentstendtobemoreexplicitandquidproquothanreciprocalexchanges.Inaddition,the
+dutiesandobligationsexchangedarefairlydetailedandunderstood.Itisalsonoteworthythat
+negotiatedelementsofexchangedifferinthattheymaycontinuebeyondshort-termagree-
+mentsandmayormaynotbeboundbylegalorcontractualsanctions.Negotiatedexchanges
+areoftenapartofeconomictransactions.Forexample,whenoneacceptsajob,heorsheis
+likelytonegotiatethepaylevel.However,individualsincloserelationships(socialexchange)
+also may feel the need to negotiate—such as when team members negotiate tasks and
+responsibilities.
+Agooddealofresearchhascomparednegotiatedwithreciprocalexchanges.Thisliterature
+isnicelysummarizedintwoarticlesbyMolm(2000,2003).Generally,reciprocityproduces
+betterworkrelationshipsthannegotiationsandallowsforindividualstobemoretrustingof,
+andcommittedto,oneanother(Molm,Takahashi,&Peterson,2000).Furthermore,negoti-
+atedexchangesincitemoreunhelpfulpoweruseandlessequality(Molm,1997;Molmetal.,
+1999).TheworkofMolmandhercolleaguesisveryimportantfororganizationalbehavior.
+Organizationalsciencehasproduced animpressiveliteratureonworkplacenegotiation(cf.
+Bazerman&Neale,1992;Brett,2001).However,thisworkhasgenerallynotbeenconsidered
+inthelightofSET.Molm’s(2000,2003)workprovidesanavenueforpossibleintegration.
+
+## Page 6
+
+Cropanzano, Mitchell / Social Exchange Theory 879
+Beyond Reciprocity and Negotiated Rules
+Although much of the SET literature has focused on reciprocity and negotiated agree-
+ments,otherexchangerulesareviableaswell.Thesehavereceivedmoreattentionfromsoci-
+ologists and anthropologists than from management scientists (for a thorough review, see
+Fiske,1991).Thisisunfortunate,asthesemodelsprovidefertilegroundfortheorydevelop-
+ment.Althoughvariousalternativeframeworksexist,onewell-knownandinfluentialmodel
+wasproposedbyMeeker(1971).Meekerarguesthatinterpersonalexchangescanbetreatedas
+individual decisions. As such, they require some rule or rules to guide the choices made.
+Meekerpositssix:reciprocity,rationality,altruism,groupgain,statusconsistency,andcom-
+petition.Becausereciprocityhasalreadybeendiscussedindetail,weshalllimitourselvestoa
+considerationoftheotherfive.
+InMeeker’s(1971)scheme,rationalityreferstotheuseoflogictoascertainlikelyconse-
+quences (ends) and how one should achieve those things that are valued (means). Weber
+termedthisrulezweckrationalität(1947:115).Thus,arationalactionhastwoparts—anendof
+valuemaximizationandameansoflogic.Ofcourse,Meekerexplicitlyrecognizesthatpeople
+donotalwaysbehaverationally(cf.Shafir&LeBoeuf,2002)andthereforeaddsadditional
+exchangerules.
+Altruismisarulewherebyweseektobenefitanotherpersonevenatanabsolutecosttoour-
+selves.Overtheyears,muchdebatehasbeenheldinsocialpsychologyastowhethersucha
+phenomenonisevenpossible(e.g.,Batson,1991).However,contemporaryresearchseemsto
+supportMeeker’s(1971)contentionthataltruisticmotivesshareaplacebesideotherexchange
+rules(forreviews,seeBatson,1995).
+Ingroupgain,thebenefitsareputintoasinglecommon“pot”(thewordcanbeunderstood
+figurativelyorliterally).Individualstakewhattheyneedfromthiscommonpoolregardlessof
+theirparticularcontribution.Likewise,theycontributetothiscachewhentheyareable.Notice
+thattheexchangeisnotdirectlytransactedfromindividualtoindividual.Rather,allthingsare
+heldincommon.Groupgaindoesnotinvolvedyadicorinterpersonalexchanges;rather,all
+thingsareheldincommon.
+Statusconsistencyorrankequilibrationistheallocationofbenefitsbasedonone’sstation
+withinasocialgroup.Somepeoplebenefitfromanattributethatyieldsstanding,suchasrace,
+aristocraticstatus,andsoforth.Althoughexplicitstatusconsistencyisoftendiscussedwithin
+thecontentofpreindustrialcultures(e.g.,Mauss,1967),itexistsinmodernnationsaswell.
+Consider,forexample,thecaseofpreferentialadmissionstoprestigiousIvyLeagueuniversi-
+ties.Inmakingtheirdecisions,theseschoolssometimesrelyonlegacystatus.Thatis,oneis
+morelikelytobeadmittedifone’sparentsattendedtheuniversityinquestion(foradiscussion
+oftheseissues,seeLind,1995).Legacystatus,then,isastatusconsideration.
+Competition can be thought of as the diametric opposite of altruism. Where altruism is
+assisting others even when it potentially hurts oneself, competition is harming others even
+when it risks one’s own earnings (Meeker, 1971). Economically speaking, such situations
+seemtobeirrational,andinasensetheyare.However,Meekeriscorrectinarguingthatthey
+do exist in real-world social exchanges. A well-known example is revenge seeking. Indi-
+viduals will sometimes seek to “get even” even when doing so is financially costly (e.g.,
+
+## Page 7
+
+880 Journal of Management / December 2005
+Cropanzano&Baron,1991;Kahneman,Knetsch,&Thaler,1986;Turillo,Folger,Lavelle,
+Umphress,&Gee,2002).
+Rules of Exchange: Concluding Thoughts
+Earlier,weobservedthatthebasicconceptsunderlyingsocialexchangetheoryhavenot
+been fully identified in many research programs. Nowhere is this more evident than in the
+studyofexchangerules.AsnotedbyLidenandcolleagues(1997),veryfewstudiesdirectly
+examineexchangeprocesses—orthe“blackbox”ofsocialexchange.Asaresult,wereally
+knowlittleabouttheprocessesofsocialexchange.
+Asalludedtoinourearlierdiscussions,themajorityofthemodelsofSETintheorganiza-
+tionalsciencesfocusprimarilyonprinciplesofreciprocity,ratherthanaltruism,groupgain,
+andsoon.Tobesure,reciprocityisimportant.However,otherexchangerulesmatteraswell,
+andweneglectthemattheriskofourownunderstanding.Moreover,littleattentionhasbeen
+giventothepossibilitythatmultiplerulesareemployedsimultaneously.Forinstance,people
+maycompetewithanout-grouptoobtainresourcesforanin-group.Futureresearchneedsto
+uncoverthisblackboxtoinvestigatedecisionprinciplesbecause,ultimately,itisthoseunder-
+lyingassumptionsthatbecomethedecidingfactorsofwhetherindividualsengageinapar-
+ticulartypeofexchangerelationship.
+The Resources of Exchange
+Key insights on thenature of SETresources originated from classicanthropology stud-
+ies (e.g., Malinowski 1922, 1932; Mauss, 1967). From this work, it was common to view
+exchangeintermsofeconomicvalue.However,exchangeswerealsoshowntohavesymbolic
+relevance. That is, exchange stood for something beyond plain material properties. These
+ideasarestillapartofSETandareembracedbycontemporaryscholarsinthisarea.
+Six Exchange Resources
+FoaandFoa’s(1974,1980)resourcetheorypresentssixtypesofresourcesinexchange:
+love,status,information,money,goods,andservices.Thesebenefitsareorganizedintoatwo-
+dimensionalmatrix.Onedimension referstoaresource’sparticularism(vs. universalism),
+meaning the resource’s worth varies based on its source. Money is relatively low in
+particularism—itsmonetaryvalueisconstantregardlesswhoprovidesit.Love,however,is
+highlyparticularistic,anditsimportancedependsonitssource.Theseconddimensionrefers
+totheresource’sconcreteness,meaninghowtangibleorspecifictheresourceis.Mostservices
+andgoodsareatleastsomewhatconcrete.Lessconcreteresourcesprovidesymbolicbenefit.
+Symbolicresourcesconveyameaningthatgoesbeyondobjectiveworth.
+Although resource theory primarily identifies what is exchanged, Foa and Foa (1974,
+1980) also maintained that certain types of benefits are likely to be exchanged in different
+
+## Page 8
+
+Cropanzano, Mitchell / Social Exchange Theory 881
+ways.Generallyspeaking,thelessparticularisticandthemoreconcreteabenefitis,themore
+likelyitistobeexchangedinashort-term,quidproquofashion.Incontrast,benefitsthatare
+highly particularistic and symbolic are exchanged in a more open-ended manner. It is not
+uncommontoexpectmonetarypaymentforaspecificgood,butlesslikelytobetrueforlove
+orstatus.
+Economic and Socioemotional Outcomes
+Withintheorganizationalsciences,wegenerallyseeFoaandFoa’s(1974,1980)resources
+collapsedintotwoforms:economicandsocioemotionaloutcomes.Economicoutcomesare
+thosethataddressfinancialneedsandtendtobetangible.Socioemotionaloutcomesarethose
+thataddressone’ssocialandesteemneeds(andareoftensymbolicandparticularistic).More-
+over,socioemotionaloutcomessendthemessagethatapersonisvaluedand/ortreatedwith
+dignity(Shore,Tetrick,&Barksdale,2001).
+Tsui,Pearce,Porter,andTripoli(1997)developeda2(cid:1)2typologyofemployee-employer
+relationship strategies based on the types of resources exchanged. Employer resources are
+brokendownbyshort-termversuslong-termrewards,andemployeeresourcesarebrokendown
+byspecific,short-termcontributionsversusunspecified,broad,andopen-endedcontributions.
+Fourtypesofrelationshipsemerge:(a)quasi-spot(resemblingpureeconomicexchange),(b)
+mutualinvestment(resemblingsocialexchange),(c)underinvestment(wheretheemployee
+provides symbolic resources, but is awarded short-term rewards), and (d) overinvestment
+(wheretheemployeeprovidesparticularresources,butisawardedlong-termrewards).
+Thesedifferentmodelsofexchangeresourcesinferthateconomicandsocioemotionalout-
+comesarelikelytobeinfluencedbasedondifferentexchangerules.Forexample,Martinand
+Harder(1994) foundthatAmericanstendtoassignsocioemotionalresourcesequally.Eco-
+nomicbenefits,incontrast,wereassignedinproportiontoperformance.Thesefindingshave
+notalwaysbeenreplicated,however.Chen(1995)foundthatChinesemanagersassignedboth
+economicandsocioemotionaloutcomesinproportiontoperformance.
+Resources Exchanged: Concluding Thoughts
+Onceagain,weseetheidentificationandspecificationproblemsnotedearlier.SETsug-
+geststhatthereareasmanyassixdifferentresources(love,status,information,money,goods,
+andservices),butmostofthesehavenotbeenfullyappreciatedbyorganizationalscientists.
+Consequently, our theoretical tests, which compare only economic and socioemotional
+resources,arepotentiallylimited.Forexample,wedonotknowwhichexchangerulesapplyto
+eachresource.Itislikelygoodsareexchangedindifferentwaysandatdifferenttimes(forevi-
+dence, see Chen, 1995; Martin & Harder, 1994). It would be worthwhile to devote more
+research to this topic. It would also be useful to consider the types of resources that are
+exchangedindifferenttypesofrelationships.Wewilltakeupthisissuelater,afterwehavedis-
+cussedthedifferentsortsofinterpersonalattachmentspredictedbySET.
+
+## Page 9
+
+882 Journal of Management / December 2005
+Social Exchange Relationships
+Withincontemporarymanagementresearch,theaspectofSETthathasgarneredbyfarthe
+mostresearchattentionhasbeenthenotionofworkplacerelationships(e.g.,Shore,Tetrick,&
+Barksdale,1999;Shoreetal.,2004).ThismodelofSETstipulatesthatcertainworkplaceante-
+cedents lead to interpersonal connections, referred to as social exchange relationships
+(Cropanzano, Byrne, Bobocel, & Rupp, 2001). Socialexchange relationships evolve when
+employers “takecare of employees,”which thereby engenders beneficialconsequences. In
+otherwords,thesocialexchangerelationshipisamediatororinterveningvariable:Advanta-
+geous and fair transactions between strong relationships, and these relationships produce
+effectiveworkbehaviorandpositiveemployeeattitudes.Thislineofreasoninghasreceived
+muchattention—mostofwhichusesBlau’s(1964) frameworktodescribesocialexchange
+relationships.
+Blau’s contribution to SET was his comparison of economic and social exchanges. He
+maintainedthat“thebasicandmostcrucialdistinctionisthatsocialexchangeentailsunspeci-
+fiedobligations”(1964:93).Hearguedthatonlysocialexchange“involvesfavorsthatcreate
+diffusefutureobligations...andthenatureofthereturncannotbebargained”(p.93)and
+“onlysocialexchangetendstoengenderfeelingsofpersonalobligations,gratitude,andtrust;
+purely economic exchange as such does not” (p. 94). He also argued that “the benefits
+involvedinsocialexchangedonothaveanexactpriceintermsofasinglequantitativemedium
+ofexchange”(p.94),implyingsocialexchangescreateenduringsocialpatterns.
+Blau(1964)alsooutlinedexchangerelationsascausallyrelated,althoughthedirectionof
+thecausalarrowissomewhatambiguous.Forexample,hearguedthat“thecharacterofthe
+relationship between exchange partners” might “affect the process of social exchange”
+(p.97),meaningthattherelationshipinfluencesthetypeofexchange.Yet,healsoindicated
+thatsuccessfulexchangescancauseoneindividualtobecomecommittedtoanother(p.101),
+suggestingthatanexchangemaysometimesaffectarelationship.
+ThereisanothernoteworthyfeatureofBlau’s(1964)observations.Noticethatinneitherof
+theaforementionedexamplesdoesheusethewordexchangetodenoteatypeofrelationship.
+Instead, relationship and exchange are distinguishable, although causally connected, con-
+structs. Given these comments, it is not clear whether Blau (1964) understood the social
+exchangerelationshipstobeaninterveningvariable,asitiscommonlyconceptualizedwithin
+organizationalresearch.Specifically,Blauseemstohavebeentreatingsocialandeconomic
+exchangesastypesoftransactions,ratherthanastypesofrelationships.Tobesure,thereis
+someambiguityinhislanguage. Forexample,atonepoint,hearguesthatsocialexchange
+involves“trustingothers”and“personalobligations”(Blau,1964:94).However,hedoesnot
+explicitlydiscussthepropertiesofsocialexchangerelationshipsasmediators.Instead,Blau
+primarilyreferredtosocialandeconomicexchangesasformsorvarietiesoftransactions.
+TheworkofMillsandClark(1982;Clark&Mills,1979)ismoreinlinewiththeconceptof
+socialexchangerelationships,althoughtheirnomenclatureisabitdifferent.Theyarguedthat
+thetermexchangerelationshipwasmoreappropriatethaneconomicexchangeandthatcom-
+munal relationship was more appropriate than social exchange. Exchange relationships
+demandrepaymentwithinaparticulartimeperiod,involveexchangesofeconomicorquasi-
+economic goods, and are motivated by personal self-interest. Communal relationships are
+
+## Page 10
+
+Cropanzano, Mitchell / Social Exchange Theory 883
+open-endedandlesstimespecific,involvetheexchangeofsocioemotionalbenefits,andplace
+greateremphasisontheneedsoftheotherparty.
+Onitsface,thissubtledistinctionseemssignificant.ConsistentwiththeworkofMillsand
+Clark(1982),recentconceptualthinkinghasplacedagreateremphasisonrelationshipforma-
+tionthanwaspresentinearlierresearch.Indeed,theseideasarereiteratedintheworkofOrgan
+and colleagues(Organ, 1988, 1990; Organ&Konovsky,1989). For instance,Organmain-
+tainedthatan“exchangerelationship[italicsadded]bindinganindividualtoacollectivebody
+can take on the quality of covenant” (1988: 69). In addition, Organ and Konovsky distin-
+guished between “social exchange and economic exchange relationships [italics added]”
+(p. 162). For Organ et al., SET is more than simply a set of rules for transacting benefits.
+Rather,theseauthorsrearticulatedconceptstofocusontheinterpersonalattachmentbetween
+twoormoreindividuals.These,then,openedthedoortoahostofrelationalconstructs,which
+wediscussfurtherbelow.
+What Is the Social Exchange Relationship in Work Settings?
+Generallyspeaking,whenresearchersdiscussrelationships,theyarereferringtoanassoci-
+ationbetweentwointeractingpartners(whetherindividualsorinstitutions).Asreviewedear-
+lier, management research has extensively examined different forms of interpersonal
+exchange. Of special interest to social exchange theorists are differences in the parties
+involvedintherelationships.Thegeneralpresumptionisthatworkerscanformdistinguish-
+ablesocialexchangerelationships,howeveroperationalized,withtheirimmediatesupervisor
+(e.g., Liden et al., 1997), coworkers (e.g., Cox, 1999; Deckop, Cirka, & Andersson, 2003;
+Ensher,Thomas,&Murphy,2001;Flynn,2003),employingorganizations(e.g.,Moorman,
+Blakely, & Niehoff, 1998), customers (e.g., Houston, Gassenheimer, & Moskulka, 1992;
+Sheth,1996),andsuppliers(e.g.,Perrone,Zaheer,&McEvily,2003).Thesedistinctrelation-
+shipshaveimplicationsforbehavior.Specifically,becauseindividualsreturnthebenefitsthey
+receive, they are likely to match goodwill and helpfulness toward the party with whom
+they have a social exchange relationship (e.g., Malatesta, 1995; Malatesta & Byrne, 1997;
+Masterson,Lewis,Goldman,&Taylor,2000).Theevidenceforthiscontentionisgenerally
+strong, although the theories are somewhat ambiguous as to the best operationalization of
+SET.Wereviewthespecificmodelsemployedbyresearchers.
+Model1:Perceivedorganizationalsupportandleader-memberexchange.POShaslong
+beenconceptualizedinSETterms(Eisenbergeretal.,1986;Eisenberger,Fasolo,&Davis-
+LaMastro, 1990; Eisenberger, Stinglhamber, Vandenberghe, Sucharski, & Rhoades, 2002).
+The benefits of POS often are understood in reciprocal terms—an employee who sees the
+employerassupportiveislikelytoreturnthegesture.WhenPOSishigh,workersare(under
+someconditions)morelikelytoengageinorganizationalcitizenshipbehavior(OCB;Lynch,
+Eisenberger,&Armeli,1999;Moormanetal.,1998),higherjobperformance(Eisenberger
+et al., 2001; Randall, Cropanzano, Bormann, & Birjulin, 1999), and reduced absenteeism
+(Eisenbergeretal.,1986,Study2).Inthisway,researchershaveoftenconceptualizedPOSas
+the“quality”ofthesocialexchangethattakesplacebetweenanemployeeandtheemployeras
+
+## Page 11
+
+884 Journal of Management / December 2005
+awhole;leader-memberexchange(LMX)hasalsobeenviewedastheexchangerelationship
+that takes place between an employee and the supervisor (e.g., Settoon, Bennett, & Liden,
+1996;Wayne,Shore,&Liden,1997).
+Settoonandhiscolleagues(1996)providedevidenceofLMXasthebasisoftheexchange
+betweenanemployeeandsupervisor.TheseauthorsfoundthatPOSpredictedorganizational
+commitment,butnotjobperformanceratings.LMX,however,predictedperformanceratings
+andOCB.(Parenthetically,weshouldnotethattheOCBmeasureemployedhereinfocusedon
+actionsbeneficialtothesupervisorandtheimmediateworkteamratherthantotheorganiza-
+tionasawhole;seeSettoonetal.,1996:222.)ThismightexplainthecloserlinkbetweenLMX
+andOCBwhencomparedwiththatbetweenPOSandOCB.
+Extendingthiswork,Wayneetal.(1997)specificallyexaminedthedifferentialeffectsof
+POSandLMX.TheyfoundthatPOSpredictedOCB,turnoverintentions,andorganizational
+commitment. LMX predicted OCB, job performance, and doing favors for the supervisor.
+Thisworkisnotablefortworeasons.First,neitherdoingfavorsforthebossnorjobperfor-
+manceratingswerepredictedbyPOS.Thesetwocriterionvariablesseemtobemoreclosely
+associated with the supervisory focus (for comparable results, see Cropanzano, Prehar, &
+Chen,2002;Rupp&Cropanzano,2002;Settoonetal.,1996).Second,Wayneetal.employed
+acompositemeasureofOCBthatincludedbehaviorsbeneficialtothesupervisorandtothe
+organization.WhenOCBisbrokendownbytargetoftheexchange,theresultsaresomewhat
+different.ThisissuewastakenupinathirdPOS/LMXstudyconductedbyMastersonetal.
+(2000).
+Mastersonandhercolleagues(2000)measuredmanyofthesamecriterionvariablesexam-
+ined in previous research. However, these authors subdivided OCB into two components:
+OCB-O(citizenshipbeneficialtotheorganization)andOCB-S(citizenshipbeneficialtothe
+supervisor).POSwasamoreefficaciouspredictorofOCB-O,turnoverintentions,andorgani-
+zationalcommitment.LMXwasthemoreefficaciouspredictorofOCB-S,jobsatisfaction,
+andjobperformanceratings.Notice,ofcourse,thatwhenOCBwasseparatedintoitsdifferent
+beneficiaries,theresultsareconsistentwiththemultifocimodelofSET.Also,consistentwith
+other research, the supervisory focus was more closely related to job performance ratings
+thananorganizationalfocus(seealsoCropanzanoetal.,2002;Wayneetal.,1997;Rupp&
+Cropanzano,2002;Settoonetal.,1996).
+Model2:Supporttocommitment.Organizationalcommitmentisawidelyresearchedand
+extremelypromisingrelationalconstruct(Meyer,1997;Meyer&Allen,1997).Researchhas
+shown that commitment predicts a wide range of workplace outcomes (Mathieu & Zajac,
+1990).Althoughstatisticallydistinguishable(Shore&Wayne,1993),POSandorganizational
+commitment are conceptually similar. Indeed, POS is somewhat akin to an organization’s
+commitmenttoanemployee(cf.Eisenbergeretal.,1986;Shore&Shore,1995).
+Giventheseconsiderations,socialexchangestheoristshaveproposedthatemployeesare
+prone to exchange their commitment for an employer’s support (Eisenberger et al., 1986;
+Eisenbergeretal.,1990).Hence,POShasbeenawidelyexaminedantecedentof,anditisa
+consistent strong predictor of, commitment (e.g., Cropanzano, Howes, Grandey, & Toth,
+1997; Eisenberger et al., 2001; Masterson et al., 2000; Randall et al., 1999; Settoon et al.,
+1996;Wayneetal.,1997).Ameta-analysisbyRhoadesandEisenberger(2002)estimatesthe
+
+## Page 12
+
+Cropanzano, Mitchell / Social Exchange Theory 885
+overallassociationbetweenPOSandcommitmenttober=.60(climbingto.67whencor-
+rectedformeasurementerror).
+Building on this literature, Deckop, Mangel, and Cirka (1999) examined the exchange
+properties of commitment and found that characteristics of a pay-for-performance plan
+affectedcommitment;commitment,inturn,affectedOCB.Thestudyraisedquestionsabout
+therelationshipbetweenPOSandcommitment.Toaddressthisissue,Rhoades,Eisenberger,
+andArmeli(2001)investigatedtheinterrelationshipsofworkexperience,POS,affectivecom-
+mitment, and employee turnover in a longitudinal design. The findings are consistent with
+relational models of SET, demonstrating that perceived support generates greater commit-
+mentfromemployees,whichthenpositivelyinfluencesperformance.Insum,theresultspro-
+videconvergentevidencethatPOSplaysanimportantroleinbuildingcommitment,which
+ultimatelyinfluencesimportantorganizationaloutcomes.
+Model3:Addingteamsupporttoorganizationalsupport.Bishop,Scott,andBurroughs
+(2000) set out to integrate the literatures of social support and organizational commitment
+within a team setting. Consistent with Eisenberger et al. (1986; Eisenberger et al., 2001),
+Settoonetal.(1996),andWayneetal.(1997),Bishopetal.maintainedPOSwouldengender
+organizationalcommitment,andorganizationalcommitmentwould,inturn,predictturnover
+intentionsandOCB.Perceivedteamsupportwasexpectedtopredictteamcommitment,and
+teamcommitment,inturn,washypothesizedtoresultinOCBandhigherjobperformance.
+Findingssupportedthismodel,suggestingthatbothsupportandcommitmentareimportant,
+withsupportactingasadistalcauseandcommitmentmediatingitseffectsonworkbehav-
+ior. (Portions of this model were later replicated in a study by Bishop, Scott, Goldsby, &
+Cropanzano,inpress.)
+A similar model of team and organizational commitment was proposed and tested by
+Howes,Cropanzano,Grandey,andMohler(2000).Howessurveyed136stateworkersorga-
+nizedinto25qualityteams,allowingthemtoidentifythreetypesofsupport:organizational
+supportfortheindividual,teamsupportfortheindividual,andorganizationalsupportforthe
+team.Ofthesethreerelationalconstructs,organizationalsupportfortheindividualwasthe
+bestpredictoroforganizationalcommitmentandintentionstoleavetheorganization.Team
+supportfortheindividualwasthebestpredictorofteamcommitment,intentionstoleavethe
+team,andteamcohesion.Inthemain,thesefindingsareconsistentwithBishopetal.(2000),
+withonedifference.Howesandcolleaguesfoundthatorganizationalsupportfortheteamwas
+thebestpredictorofteamperformance.
+Model4:Addingsupervisorysupport.Model2,whichpositsthatsupportleadstocommit-
+ment, raises interest in a supervisory focus as a manifestation of the exchange process.
+Althoughevidenceissparse,thisdynamicdoesseemlikely.SupervisorysupportandPOSare
+consistentlyrelated.Ameta-analysisbyRhoadesandEisenberger(2002)foundthattheaver-
+agecorrelationwasr=.51(corrected,itrosetor=.64).Yet,evidencesuggeststhatthesetwo
+constructsareconceptuallydistinct(George,Reed,Ballard,Colin,&Fielding,1993;Kottke
+&Sharafinski,1988).
+Eisenbergeretal.(2002),however,suggestedasimplifiedmultifocimodeldoesnoteasily
+addresstherelationshipoforganizationalandsupervisorsupport.Theypresentevidencesug-
+
+## Page 13
+
+886 Journal of Management / December 2005
+gestingthatsupervisorysupportisonecauseoforganizationsupport(Study1).Theyalsodis-
+coveredthatthisrelationshipisstrongerwhenthesupervisorhashighstatus(Study2)andthat
+organizationalsupportmediatesthe(negative)relationshipbetweensupervisorysupportand
+turnover.Insum,theeffectsofsupervisorysupportmightbemediatedbyorganizationalsup-
+port.Atthepresenttime,theevidenceistoolimitedtosaywhetherthesefindingswillapplyto
+otherimportantcriterionvariables.Itmaybethat,relativetoorganizationalsupport,supervi-
+sorysupportisthebetterpredictorofleader-relevantconstructs,suchascommitmenttothe
+supervisor,OCBbeneficialtothesupervisor,andsoon(e.g.,Mastersonetal.,2000;Rupp&
+Cropanzano,2002).
+Model 5: Trust. Another promising relational construct is trust (Dirks & Ferrin, 2002).
+BothBlau(1964)andHolmes(1981)identifiedtrustasanidentifyingoutcomeoffavorable
+socialexchanges.Therefore,trustisseeminglyimportanttounderstandingexchange.Unfor-
+tunately,althoughevidencetodatehasbeenpromising,italsohasbeensparse.Konovskyand
+Pugh (1994) found that trust in one’s supervisor mediated between procedural justice and
+OCB.Fromthisframework,Aryee,Budhwar,andChen(2002)examinedtheeffectsofboth
+trustinthesupervisor and trustintheorganizationand found thattrustintheorganization
+mediatedtherelationshipofjustice(distributive,procedural,andinteractional)onjobsatis-
+faction,turnover intentions, and organizationalcommitment.Atthesametime,trustinthe
+supervisormediatedtherelationshipbetweenonlyinteractionaljusticeandperformanceand
+twoformsofOCB(organizationalandsupervisordirected).
+A slightly different approach to presenting the mediational properties of trust was pre-
+sentedbyPillai,Scandura,andWilliams(1999).Pillaiandcolleagueswereconcernedwith
+theimpactoftransformationalandtransactionalleadership(forreviews,seeAvoilio,1999;
+Bass, 1998). These scholars maintained thattransformational leadership causes procedural
+justice, whereas transactional leadership causes distributive justice. Both types of justice
+increaseemployeetrust.Trust,asthecriticalsocialexchangemediator,waspositedtocause
+jobsatisfaction,commitment,andOCB.Thereweresomenonsupportivefindings,but,over-
+all,themodelfitthedatareasonablywell.
+A Typology of Transactions and Relationships
+We now find ourselves at a critical definitional point: What is an exchange? Everyone
+seems to agree that a series of interdependent transactions can produce some sort of inter-
+personal attachment—this notion is fundamental to SET. However, there is some theoreti-
+cal vagueness regarding the concept of relationships. Specifically, the current literature
+admitstwodifferentconceptualizationsofrelationship.Ononehand,arelationshipmightbe
+interpretedastheseriesofinterdependentexchanges.Ontheotherhand,itmightalternatively
+be interpreted as the interpersonal attachments that result from a series of interdependent
+exchanges. This distinction between relationships-as-transactions and relationship-as-
+interpersonal-attachmenthasbeenfullyappreciated.
+Whenrelationshipsarenotdistinguishedfromthetransactionprocess,thereisadangerof
+definingoneintermsoftheother.Stateddifferently,twopartiesmightbeunderstoodtobe
+
+## Page 14
+
+Cropanzano, Mitchell / Social Exchange Theory 887
+Figure 1
+TransactionsandRelationshipsinSocialExchanges
+Type of Transaction
+Social Economic
+Exchange Exchange
+Cell 1: Match Cell 2: Mismatch
+Social Social Economic
+Exchange Transaction in Transaction in a
+a Social Social
+Relationship Relationship
+Type of Relationship
+Cell 4: Match
+Cell 3: Mismatch
+Economic
+Economic Social Transaction
+Transaction in
+in an Economic
+Exchange
+an Economic
+Relationship
+Relationship
+“related” based on how they make exchanges or based on what benefit is exchanged. This
+raisesaratherseriousproblem.Manyrelationshipsinvolveexchangesthataremyriadandat
+leastsomewhatindependentofoneanother.Ifaseriesoftransactionsaretherelationship,then
+which of these arrangements define exchange? More to the point: Why should we have to
+makesuchachoice?Itseemsreasonabletosupposethattwopartiescanexchangedifferent
+thingsindifferentways,whichcallsforagooddealmoretheoreticalprecision.
+Separatingtheexchangerelationshipfromtheformofexchangeallowsustoconsiderthe
+fourcellsillustratedinFigure1.Cell1displaysasocialexchangetransactionwithinthecon-
+text of a social exchange relationship. Cell 4 displays an economic exchange transaction
+withinthecontextofaneconomicexchangerelationship.Thesecellscanbetermedmatches,
+inthattheformofthecontingenttransactionisconsistentwiththetypeofrelationship.From
+this,wecanseethatiftheformofthetransactionwereisomorphicwiththetypeofrelation-
+ship,thenCell1andCell4wouldcomprehensivelysummarizetheconceptualspace.
+Ofcourse,asFigure1delineates,othercircumstancesdoexist,andthesecouldprovidefer-
+tiletheoreticalground.LetusbeginwithCell2,whereasocialexchangerelationshipispaired
+withaneconomictransaction.Thissituationpresumablycouldofferbothrewardsandrisks.
+Foronething,afailuretodischargeeconomicobligationscouldbeseenasbetrayal,which
+
+## Page 15
+
+888 Journal of Management / December 2005
+wouldlikelyresultinfargreaterpsychologicalinjuryandperhapspermanentdamagetothe
+relationship.However,thereareadvantagestosocialexchangerelations,suchasgreatertrust
+and,perhapscognizantoftherisks,adiminishedlikelihoodofduplicity.Consequently,we
+wouldanticipatethatinCell2,relativetoCell4,therewouldbelessperfidyandmorenegative
+emotionwhenunfaithfulnessoccurs.
+Cell3providesanotherinterestingsituation.Herethepartiesareinaneconomicrelation-
+ship but are engaged in a social exchange transaction. For example, in some settings, one
+mightbeexchangingmoneyforasortofclosenessorrelativelyopen-endedsupport.Suchsit-
+uationsarenotuncommon.Forexample,mentalhealthworkershaveprofessionalobligations
+toattendtotheemotionalneedsoftheirclients.Likewise,employeesofserviceorganizations
+aretypicallyencouragedtoshowfriendliness.Thismismatchbetweentakingmoneyforbene-
+fits that one might prefer to reserve for family and close friends can be stressful, perhaps
+engenderingastressfulsenseofemotionallabor(forreviews,seeCropanzano,Weiss,&Elias,
+2004;Grandey,2000).
+Pleasenotethattheseideascouldeasilybeintegratedwithdifferentexchangerules,suchas
+thoseinMeeker’s(1971)model.Webelievethisisanimportantissueforfuturescholarship.
+Nevertheless,doingsorequirestheexplicitseparationoftheformoftheexchangefromthe
+typeofrelationship.Wewilltrytoaddressthistheoreticalambiguityinournextsection.
+Toward Resolving Conceptual Uncertainty
+The Causal Issue of Transactions and Relationships
+Ifatransactionisarelationship,thenitisdefinedtoincludeconstructsthatwemightother-
+wiseviewasconsequencesofsuccessfulexchanges(e.g.,trust,commitment).Tounderstand
+thecausalorder,itisusefultotakethesetwoideasapart.Ofcourse,doingsobringsusbackto
+theambiguityinBlau’s(1964:97,101)comments:Whatisthedirectionofthecausalarrow?
+Onecouldplausiblyarguethataseriesofcontingentexchangesaltertheinterpersonalrela-
+tionship or that an interpersonal relationship alters the series of contingent exchanges. We
+explorebothmodelsinmoredetail.
+Model1:Exchangesalterthenatureofrelationships.EarlierwereviewedMolm’s(2000,
+2003)worksuggestingthatonetypeofexchangeprocess(i.e.,reciprocity)tendstoengender
+strongerinterpersonalbondsthananother(i.e.,negotiation).Graenandcolleagues(Graen&
+Scandura,1987;Graen&Uhl-Bein,1995)havemadesimilarargumentsintheirmodelsof
+LMX.Theyarguethatleadersprovidethefirstsignalofadesireforacloserrelationshipto
+subordinates,suchasadirectcommunicationorimplicitoffer(e.g.,desirabletask).Theleader
+waitsfortheworker’sresponseand,iftheemployeerespondsfavorably,thentheleadercan
+begin another episode. Through such signal-response incidents (or testing patterns), high-
+qualityLMXrelationshipscandevelop(Graen&Uhl-Bein,1995).
+Model2:Relationshipsalterthenatureofexchanges.Althoughtheformofthetransaction
+seemscapableofalteringarelationship,thereversealsocanbethecase.Here,weturntoLMX
+
+## Page 16
+
+Cropanzano, Mitchell / Social Exchange Theory 889
+models.Aswehaveseen,aleader’soffersandasubordinate’sresponsescangeneratehigh-
+qualityLMX(Graen&Scandura, 1987; Graen&Uhl-Bien,1995). However,onceahigh-
+qualityLMXisrealized,therelationshipitselfaltersthenatureoffuturetransactions(Erdogan
+&Liden,2002;Uhl-Bien,Graen,&Scandura,2000).Forexample,theleadermaythenseek
+theemployee’sadviceorprovidehimorherwithmoreopportunities.
+Similarly,Bishopandhiscolleagues(2000)foundthatworkersreturnedsupportwithcom-
+mitment,whichthengeneratedmoreOCB.Inthisregard,theworkofEisenbergerandcol-
+leagues(e.g.,Eisenbergeretal.,1986;Eisenbergeretal.,1990;Eisenbergeretal.,2001)and
+Bishopetal.(2000;Bishopetal.,inpress)isespeciallyinformative.Theseauthorsfoundevi-
+denceofcommitmentasrepaymentforsupport.Theyfurtherdemonstratedthatcommitment
+canlowerturnoverintentionsandincreaseOCB.Althoughthiskindofevidencemaynotbe
+definitive,itiscertainlystronglyevocative.Ithintsthataso-calledsocialexchangerelation-
+ship, once generated, alters the manner in which people treat one another. This possibility
+leavesuswithtwopossiblemodels:(a)onewherebytheexchangecausestherelationshipand
+(b)onewherebytherelationshipcausestheexchange.
+Apotentialresolution.Intuitively,itseemsthatundercertainconditionseithercausalorder
+makessense,butsuchanobservationistheoreticallyambiguousunlesswecanprovideatleast
+tentativeguidelinesastowhattheseconditionsmaybe.Fortunately,FoaandFoa(1974,1980)
+may provide a solution. Foa and Foa’s model allows for different sorts of resources to be
+exchangedindifferentsortsofrelationships.Universalresourcesarelikelytobeemphasized
+incasualassociations,whereasparticularisticresourcesarelikelytobeemphasizedincloser
+relationships.TheseargumentsareconsistentwithTsuietal.’s(1997)model.
+Experimental research also provides support for these arguments. Molm (2000, 2003)
+investigatedsocialexchangeasaseriesofinterdependenttransactions.Universalresources
+were operationalized using money or some other benefit with an obvious pecuniary value
+(e.g.,Gergen,1969;Molm,2003).Trust(aparticularisticbenefit)developedasaresultofsuc-
+cessfulreciprocalexchanges(Molm,2000).Therefore,abenefitthatisuniversalandconcrete
+(e.g.,dollars)facilitatesthedevelopmentofarelationalbenefitthatisparticularisticandper-
+hapssymbolic.Here,theexchangehasseemedtocausetherelationship.
+Furthermore,Eisenbergeretal.(2001)andBishopetal.(2000)suggestedasimilarrecip-
+rocal process. They argued that employees may exchange commitment in return for orga-
+nizationalsupport.Commitmentisbothparticularistic(commitmenttotheorganization)and
+symbolic(itisnotatangiblecommodity).Committedworkersaremoredesirousofmaintain-
+ingtheirassociationsandwillbecomemoremotivatedonbehalfoftheiremployers.Aswith
+the work of Molm (2000, 2003), it seems that a reciprocal exchange has caused a closer
+relationship.
+Asolutionappearsbylookingateachofthetworesearchprogramsinlightofeachother.
+Usual tests of SET focus on relatively discrete sets of contingent transactions. But, when
+researchersstudyatransactionserieswithinworksettings,thepossibilityexiststhatthetrans-
+actionserieshasgoneonforsometimeand/orcouldcontinueintothefuture.Asaresultofthis
+continuity,theoutputfromapasttransactioncanbetheresourceexchangedinafuturetrans-
+action.Researchersmustnecessarilysnipasmallnumberofexchangesoutoftheircontext
+(Eisenbergeretal.andBishopetal.’sapproach)orsimulateasimilarlysmallnumberinalabo-
+
+## Page 17
+
+890 Journal of Management / December 2005
+ratory(Molm’sapproach).Thisisnecessaryforempiricalstudy,butthesescholarscertainly
+donotclaimthatreal-worldexchangesarenecessarilysodiscrete.
+Therefore, relationship development is not a matter of a single stimulus–response. It is
+moreanalogoustoclimbingaladder.Asoneascends,therungforwhichonewasoriginally
+reachingbecomesafootholdforone’snextstep.Thegoalachievedatonestep(successfully
+graspingthenextrung)providesthefoundationforanevenhigherclimb.Inthisway,itcould
+bethatMolm(2000,2003)emphasizedtheearlystageofrelationshipdevelopment,whereas
+Eisenbergeretal.(1986;Eisenbergeretal.,2001;Eisenbergeretal.,2002)andBishopetal.
+(2000) emphasized mature relationships. If Molm had run her experiments indefinitely (a
+practicalimpossibility),thensomeofherparticipantsmayhavebegunexchangingintangi-
+bles,liketrust,support,andcommitment.IfBishopandhiscolleagueshadenteredthefirmat
+thetimetheemployeeswerefirsthired,theymighthaveobservedmoreexamplesofthetangi-
+bleexchangesobservedbyMolm.Becausetheoutcomefromonestagebecomestheinputfor
+thenext,causeandeffectaredeterminedbywhereinthesequencetheresearcherelectsto
+examinetheprocess.Indeed,theseargumentsareconsistentwithUhl-Bienandcolleagues’
+(2000;Graen&Uhl-Bien,1995)modelofLMXdevelopment.Inthismodel,bothleadersand
+membersinitiallytesteachotherintermsofobligationsexchanged.Ifreciprocated,thequal-
+ityoftherelationshipimproves,enablingmoresocioemotionalexchanges.
+Furthermore,thecontradictionbetweenthetwocausalmodelsmaybeonlyamatterofper-
+spective. Molm’s (2000, 2003) work demonstrates that relationships characterized by trust
+and commitment develop from successful reciprocal exchanges. Bishop et al. (2000) and
+Eisenbergeretal.(1986;Eisenbergeretal.,2001;Eisenbergeretal.,2002)addedtothisby
+arguingthattheserelationalvariablesthenbecomebenefitsforuseinlatertransactions.As
+such,relationshipswithothershavethepotentialtobecomeeverstronger,andthatpotentialis
+fosteredinreciprocaltransactions.
+Althoughthetheoreticalmechanismsunderpinning SETmodelscertainlyhavedifferent
+emphases,itisworthaskingwhethertheydeviateinafundamentalway.Statingthematter
+starkly,wemightask,Arerelationshipsagoaltobeachievedoravaluablebenefitthatone
+canbestow?Onthebasisofouranalysishere,wewouldarguethatrelationshipsmaypro-
+videboth,butonlyaslongasthetransactionprocessisallowedtimetodoso.Undersuchcir-
+cumstances, it is reasonable for relational benefits to be both a result and a resource for
+exchange.Consequently,thereisnonecessarycontradictionbetweentheseseeminglydistinct
+perspectives.
+Conclusion
+Nearlyahalfacenturyago,Homans(1958)presentedaconceptofsocialbehaviorthatwas
+based on exchange. Essentially, he introduced the notion that exchanges are not limited to
+material goods but also include symbolic value (e.g., approval and prestige). His writings
+bridgedavarietyofdisciplinesandsparkeddifferingtheoriesofsocialexchange.Although
+theorists diverge on particulars, they do converge on the central “essence” of SET: Social
+exchangecomprisesactionscontingentontherewardingreactionsofothers,whichovertime
+provideformutuallyandrewardingtransactionsandrelationships.
+
+## Page 18
+
+Cropanzano, Mitchell / Social Exchange Theory 891
+Unfortunately,differingtheoriesofSEThaveledtomisconceivedorpragmaticapplica-
+tions.Webelievethisreviewprovidesanimportantcontributioninaddressingthisissueby
+tracingSETbacktoitsroots,therebyclarifyingkeycomponentsofthetheory.Indoingso,we
+outlinedvariousformulationsofSETandtheirapplicationwithintheorganizationalbehavior
+literature.Notdiscountingtheimportanceofthisresearch,weattempttoshedlightonthecon-
+ceptual discrepancies and outline future paths for discovery. An additional benefit of this
+reviewistoreacquaint(oracquaint)SETprinciplesintothemanagementscience.Webelieve
+many important components of SET have been overlooked, or simply neglected, that may
+shedlightonorganizationalphenomena—andatdifferentlevelsofexchange.Therefore,we
+hopethatthisreviewprovidespossibleavenuesforrevisitingoldconceptsandintroducing
+newones.
+
+## Page 19
+
+892
+XIDNEPPA
+yticorpiceR
+ni
+secnereffiD
+laudividnI
+gninimaxE
+seidutS
+denimaxE
+)s(elbairaV
+tnednepeD
+adenimaxE
+)s(elbairaV
+tnednepednI
+noitatneirO
+egnahcxE
+)s(rohtuA
+noitneterdetar-reganaM
+scitiloplanoitazinagrO
+,regrebnesiE(ygoloediegnahcxE
+ramcaKdna,ttiW,swerdnA
+)M(ygoloediegnahcxE
+,awoS&,nosihctuH,notgnitnuH
+)3002(
+)6891
+ssenevitarepooC
+ssenlufpleH
+,regrebnesiE(ssenirawnoitacorpiceR
+dna,regrebnesiE,llerettoC
+noitcaretnierutuffosnoitatcepxE
+ytilibahcaorppA
+)7891,levraM&,llerettoC
+)2991(rehciepS
+noitatneirolaoglaicoS
+,.lateregrebnesiE(ygoloedirotiderC
+msinaillevaihcaM
+)7891
+)M(ssenirawnoitacorpiceR
+)M(ygoloedirotiderC
+roivahebpihsneziticlanoitazinagrO
+stnemecudnireyolpmefosnoitpecreP
+ecnatpeccamronyticorpiceR
+)2002(oripahS-elyoC
+snoitagilboreyolpmefosnoitpecreP
+)7891,.lateregrebnesiE(
+)M(yticorpicerfomronfoecnatpeccA
+)M(ecitsujlarudecorP )M(ecitsujlanoitcaretnI
+)M(reyolpmeehtnitsurT
+reyolpmeotsnoitagilboeeyolpmE
+snoitagilboreyolpmefosnoitpecreP
+,.lateregrebnesiE(ygoloediegnahcxE
+namueNdnaoripahS-elyoC
+otsnoitagilbofotnemlliflufeeyolpmE
+tnemlliflufreyolpmefosnoitpecreP
+)6891
+)4002(
+reyolpme
+snoitagilbofo
+,.lateregrebnesiE(ygoloedirotiderC
+)M(ygoloediegnahcxE
+)7891
+)M(ygoloedirotiderC
+noitatneiroegnahcxelanoitaleR
+ecnednepedecruoseR
+noitatneiroegnahcxelanoitaleR
+)0002(slezteWdnaretyuRed
+ecitsujlarudecorP
+seitluciffidnoitacinummoC
+yrlavirlanoitcnufretnI ecnatsidlanoitcnufretnI
+tnemtimmocevitceffA
+troppuslanoitazinagrodeviecreP
+noisrevdetpada(ygoloediegnahcxE
+,lekniwxeR,ilemrA,regrebnesiE
+ytienatnopslanoitazinagrO
+)I(noitagilbotleF
+)6891,.lateregrebnesiEmorf
+)1002(sedaohRdna,hcnyL
+ecnamrofrepelor-nI
+)M(ygoloediegnahcxE
+roivaheblawardhtiW
+)I(doomevitisoP
+
+## Page 20
+
+893
+msieetnesbA
+troppuslanoitazinagrodeviecreP
+ygoloediegnahcxE
+)6891(.lateregrebnesiE
+)M(ygoloediegnahcxE
+degnahcxesecruoseR
+secruosergniniagraB
+ygoloedinoitacorpiceR
+)7891(.lateregrebnesiE
+)M(ygoloedinoitacorpiceR
+ecnatpeccamronyticorpiceR–
+ygoloedirotiderC–
+ssenirawnoitacorpiceR–
+regnadecneirepxE
+ecnanimodrofdeeN
+yticorpicerfomronevitisoP
+,egalesA,hcnyL,regrebnesiE
+elucidiR
+ytivislupmI
+yticorpicerfomronevitageN
+)4002(kceidhoRdna
+yteixnadecneirepxE
+regnalanoitisopsiD
+tnemegaruocnE
+tsurtlanoitatcepxE
+tnemegagnelanoitomeevitisoP
+tnemtaertelbarovafnu/elbarovaF
+yticorpicerfomronevitisoP
+)M(yticorpicerfomronevitageN
+noitcaretnierutufgnidragernoitamrofnI
+yticorpicerfomronlanosreP
+yticorpicerfomronlanosreP
+)3002(inigurePdnaiccullaG
+roivahebhsifleS
+yticorpicerevitisoP–
+yticorpicerevitisoP–
+yticorpicerevitageN–
+yticorpicerevitageN–
+)M(yticorpicernisfeileB–
+yticorpicernisfeileB–
+pihsneziticdetcerid-rekrowoC
+troppusrekrowocdeviecreP
+regrebnesiE(ygoloediegnahcxE
+)0002(yrneHdnaddaL
+pihsneziticlanoitazinagrO
+troppuslanoitazinagrodeviecreP
+)6891,.late
+)M(ygoloediegnahcxE
+ssensuoitneicsnoC
+yhtapmE
+ecnamrofrepelor-nI
+ssenirawnoitacorpiceR
+regrebnesiE(ssenirawnoitacorpiceR
+ilemrAdna,regrebnesiE,hcnyL
+ecnamrofrepelor-artxE
+)M(troppuslanoitazinagrodeviecreP
+)7891,.late
+)9991(
+troffeeeyolpmE
+troppuslanoitazinagrodeviecreP
+ygoloediegnahcxE
+)4991(neprO
+ecnamrofrepboJ
+)M(ygoloediegnahcxE
+,lartuen,evitagen(roivahebfoytilaicosorP
+yticorpicerfomronlanosreP
+yticorpicerfomronlanosreP
+)1002(iccullaGdnainigureP
+)evitisop
+noitarepooC
+yticorpicerevitisoP–
+sffoyaP
+ytilitsoH
+yticorpicerevitageN–
+noitatneiroeulavlaicoS
+yticorpicernisfeileB–
+)deunitnoc(
+
+## Page 21
+
+894
+)deunitnoC(
+XIDNEPPA
+denimaxE
+)s(elbairaV
+tnednepeD
+adenimaxE
+)s(elbairaV
+tnednepednI
+noitatneirO
+egnahcxE
+)s(rohtuA
+roivahebtsaps’rehtofoecnelaV
+yticorpicerfomronlanosreP
+yticorpicerfomronlanosreP
+,ihgaserP,iccullaG,inigureP
+noitcaertnemhsinupsusrevdraweR
+ygoloedirotiderC
+yticorpicerevitisoP–
+)3002(inalocrEdna
+ssenirawnoitacorpiceR
+yticorpicerevitageN–
+ecnatpeccamron-yticorpiceR
+yticorpicernisfeileB–
+tnemhcatta/yhtapmE
+noitailaternon/ssenevigroF
+noitatiolpxenon/ssenriaF
+noisrevartxE
+ssenelbaeergA
+ssensuoitneicsnoC ytilibatslanoitomE
+ymonotuA
+noitatneiroeulavlaicoS
+tnemtimmocnoinU
+ytilatnemurtsninoinU
+,.lateregrebnesiE(ygoloediegnahcxE
+)5991(kcirteTdnarialcniS
+ytlayolnoinU–
+snoitpecreptroppusnoinU
+)6891
+noinuehtotytilibisnopseR–
+)M(ygoloediegnahcxE
+noinuehtrofkrowotssengnilliW–
+msinoinunifeileB–
+noitcafsitasboJ
+ytinutroppolauqefosnoitpecreP
+,.lateregrebnesiE(ygoloediegnahcxE
+)a1991(ttiW
+ecitsujlarudecorP
+)M(ygoloediegnahcxE
+)6891
+roivahebpihsneziticlanoitazinagrO
+noitcafsitasboJ
+,.lateregrebnesiE(ygoloediegnahcxE
+)b1991(ttiW
+troppuslanoitazinagrodeviecreP
+)6891
+tnemtimmoclanoitazinagrO
+)M(ygoloediegnahcxE
+noitcafsitasboJ
+gnikamnoisicedninoitapicitraP
+,.lateregrebnesiE(ygoloediegnahcxE
+)2991(ttiW
+troppuslanoitazinagrodeviecreP
+)M(ygoloediegnahcxE
+)6891
+ecneirepxegniniarthtiwnoitcafsitaS
+ecitsujlarudecorP
+,.lateregrebnesiE(ygoloediegnahcxE
+)3991(hcaorBdnattiW
+)M(ygoloediegnahcxE
+)6891
+tnemtimmocdetar-reganaM
+ecitsujlarudecorP
+,.lateregrebnesiE(ygoloediegnahcxE
+swerdnAdna,ramcaK,ttiW
+)M(ygoloediegnahcxE
+)6891
+)1002(
+noitcafsitasboJ
+ycneiciffusemocnifosnoitpecreP
+,.lateregrebnesiE(ygoloediegnahcxE
+)0991(nosliWdnattiW
+tnemtimmoclanoitazinagrO
+)M(ygoloediegnahcxE
+)6891
+.elbairavrotaredom=M;elbairavgnitaidemrogninevretni=I.a
+
+## Page 22
+
+Cropanzano, Mitchell / Social Exchange Theory 895
+References
+Alge,B.J.,Wiethoff,C.,&Klein,H.J.2003.Whendoesthemediummatter?Knowledge-buildingexperiencesand
+opportunitiesindecision-makingteams.OrganizationalBehavior&HumanDecisionProcesses,91:26-37.
+Andrews,M.C.,Witt,L.A.,&Kacmar,K.M.2003.Theinteractiveeffectsoforganizationalpoliticsandexchange
+ideologyonmanagerratingsofretention.JournalofVocationalBehavior,62:357-369.
+Aryee,S.,Budhwar,P.S.,&Chen,Z.X.2002.Trustasamediatoroftherelationshipbetweenorganizationaljustice
+andworkoutcomes:Testofasocialexchangemodel.JournalofOrganizationalBehavior,23:267-286.
+Avoilio,B.J.1999.Fullleadershipdevelopment:Buildingthevitalforcesinorganizations.ThousandOaks,CA:
+Sage.
+Bass,B.M.1998.Transformationalleadership:Industrial,military,andeducationalimpact.Mahwah,NJ:Lawrence
+Erlbaum.
+Batson,C.D.1991.Thealtruismquestion:Towardasocial-psychologicalanswer.Hillsdale,NJ:LawrenceErlbaum.
+Batson,C.D.1995.Prosocialmotivation:Whydowehelpothers?InA.T.Tesser(Ed.),Advancedsocialpsychology:
+332-381.NewYork:McGraw-Hill.
+Bazerman,M.H.,&Neale,M.A.1992.Negotiatingrationally.NewYork:FreePress.
+Bies,R.J.,&Tripp,T.M.1996.Beyonddistrust:Gettingevenandtheneedforrevenge.InR.M.Kramer&T.Tyler
+(Eds.),Trustinorganizations:246-260.ThousandOaks,CA:Sage.
+Bishop,J.W.,Scott,K.D.,&Burroughs,S.M.2000.Support,commitment,andemployeeoutcomesinateamenvi-
+ronment.JournalofManagement,26:1113-1132.
+Bishop,J.W.,Scott,K.D.,Goldsby,M.G.,&Cropanzano,R.Inpress.Aconstructvaliditystudyofcommitmentand
+perceivedsupportvariables:Amulti-fociapproachacrossdifferentteamenvironments.Group&Organization
+Management.
+Blau,P.M.1964.Exchangeandpowerinsociallife.NewYork:JohnWiley.
+Brass,D.J.,Galaskiewicz,J.,Greve,H.R.,&Tsai,W.2004.Takingstockofnetworksandorganizations:Amultilevel
+perspective.AcademyofManagementJournal,47:795-817.
+Brett,J.M.2001.Negotiatingglobally:Howtonegotiatedeals,resolvedisputes,andmakedecisionsacrosscultural
+boundaries.SanFrancisco:Jossey-Bass.
+Chen,C.C.1995.Newtrendsinrewardsallocationpreferences:ASino-U.S.comparison.AcademyofManagement
+Journal,38:408-428.
+Clark,M.S.,&Mills,J.1979.Interpersonalattractioninexchangeandcommunalrelationships.JournalofPersonal-
+ity&SocialPsychology,37:12-24.
+Cook,K.S.,&Emerson,R.M.1978.Power,equityandcommitmentinexchangenetworks.AmericanSociological
+Review,43:721-739.
+Cook,K.S.,Emerson,R.M.,&Gillmore,M.R.1983.Thedistributionofpowerinexchangenetworks:Theoryand
+experimentalresults.AmericanJournalofSociology,89:275-305.
+Cook,K.S.,Molm,L.D.,&Yamagishi,T.1993.Exchangerelationsandexchangenetworks:Recentdevelopmentsin
+socialexchangetheory.InJ.Berger&M.Zelditch(Eds.),Theoreticalresearchprograms:Studiesinthegrowthof
+theory:296-322.Stanford,CA:StanfordUniversityPress.
+Cotterell,N.,Eisenberger,R.,&Speicher,H.1992.Inhibitingeffectsofreciprocationwarinessoninterpersonalrela-
+tionships.JournalofPersonality&SocialPsychology,62:658-668.
+Cox,S.A.1999.Groupcommunicationandemployeeturnover:Howcoworkersencouragepeerstovoluntarilyexit.
+SouthernCommunicationJournal,64:181.
+Coyle-Shapiro,J.A.-M.2002.ApsychologicalcontractperspectiveonorganizationalcitizenshipbehaviorJournalof
+OrganizationalBehavior,23:927-947.
+Coyle-Shapiro,J.A.-M.,&Conway,N.2004.Theemploymentrelationshipthroughthelensofsocialexchangethe-
+ory.InJ.Coyle-Shapiro,L.M.Shore,M.S.Taylor,&L.E.Tetrick(Eds.),Theemploymentrelationship:Examin-
+ingpsychologicalandcontextualperspectives:5-28.Oxford,UK:OxfordUniversityPress.
+Coyle-Shapiro,J.A.-M.,&Neuman,J.H.2004.Thepsychologicalcontractandindividualdifferences:Theroleof
+exchangeandcreditorideologies.JournalofVocationalBehavior,64:150-164.
+Cropanzano,R.,&Baron,R.A.1991.Injusticeandorganizationalconflict:Themoderatingeffectofpowerrestora-
+tion.InternationalJournalofConflictManagement,2:5-26.
+
+## Page 23
+
+896 Journal of Management / December 2005
+Cropanzano,R.,Byrne,Z.S.,Bobocel,D.R.,&Rupp,D.E.2001.Moralvirtues,fairnessheuristics,socialentities,
+andotherdenizensoforganizationaljustice.JournalofVocationalBehavior,58:164-209.
+Cropanzano,R.,Howes,J.C.,Grandey,A.A.,&Toth,P.1997.Therelationshipoforganizationalpoliticsandsupport
+toworkbehaviors,attitudes,andstress.JournalofOrganizationalBehavior,18:159-180.
+Cropanzano,R.,Prehar,C.A.,&Chen,P.Y.2002.Usingsocialexchangetheorytodistinguishproceduralfrom
+interactionaljustice.Group&OrganizationalManagement,27:324-351.
+Cropanzano,R.,Rupp,D.E.,Mohler,C.J.,&Schminke,M.2001.Threeroadstoorganizationaljustice.InJ.Ferris
+(Ed.),Researchinpersonnelandhumanresourcesmanagement,Vol.20:1-113.Greenwich,CT:JAI.
+Cropanzano,R.,Weiss,H.M.,&Elias,S.M.(2004).Theimpactofdisplayrulesandemotionallaboronpsychologi-
+calwell-beingatwork.InP.L.Perrewé&D.C.Ganster(Eds.),Researchinoccupationalstressandwellbeing,
+Vol.3:45-89.Amsterdam:Elsevier.
+Deckop,J.R.,Cirka,C.C.,&Andersson,L.M.2003.Doinguntoothers:Thereciprocityofhelpingbehaviorinorga-
+nizations.JournalofBusinessEthics,47:101-114.
+Deckop,J.R.,Mangel,R.,&Cirka,C.C.1999.Gettingmorethanyoupayfor:Organizationalcitizenshipbehavior
+andpay-for-performanceplans.AcademyofManagementJournal,42:420-428.
+deRuyter,K.,&Wetzels,M.2000.Determinantsofarelationalexchangeorientationinthemarketing-manufacturing
+interface.JournalofManagementStudies,37:257.
+Dirks,K.T.,&Ferrin,D.L.2002.Trustinleadership:Meta-analyticfindingsandimplicationsforresearchandprac-
+tice.JournalofAppliedPsychology,87:611-628.
+Eisenberger,R.,Armeli,S.,Rexwinkel,B.,Lynch,P.D.,&Rhoades,L.2001.Reciprocationofperceivedorganiza-
+tionalsupport.JournalofAppliedPsychology,86:42-51.
+Eisenberger,R.,Cotterell,N.,&Marvel,J.1987.Reciprocationideology.JournalofPersonality&SocialPsychology,
+53:743-750.
+Eisenberger,R.,Fasolo,P.,&Davis-LaMastro,V.1990.Perceivedorganizationalsupportandemployeediligence,
+commitment,andinnovation.JournalofAppliedPsychology,75:51-59.
+Eisenberger, R., Huntington,R., Hutchison,S., & Sowa, D. 1986.Perceived organizationalsupport.Journalof
+AppliedPsychology,71:500-507.
+Eisenberger,R.,Lynch,P.,Aselage,J.,&Rohdieck,S.2004.Whotakesthemostrevenge?Individualdifferencesin
+negativereciprocitynormendorsement.Personality&SocialPsychologyBulletin,30:789-799.
+Eisenberger,R.,Stinglhamber,F.,Vandenberghe,C.,Sucharski,I.L.,&Rhoades,L.2002.Perceivedsupervisorsup-
+port:Contributionstoperceivedorganizationalsupportandemployeeretention.JournalofAppliedPsychology,
+87:565-573.
+Emerson,R.M.1976.Socialexchangetheory.AnnualReviewofSociology,2:335-362.
+Ensher,E.A.,Thomas,C.,&Murphy,S.E.2001.Comparisonoftraditional,step-ahead,andpeermentoringonprote-
+ges’support,satisfaction,andperceptionsofcareersuccess:Asocialexchangeperspective.JournalofBusiness
+andPsychology,15:419-438.
+Erdogan,B.,&Liden,R.C.2002.Socialexchangesintheworkplace:Areviewofrecentdevelopmentandfuture
+researchdirectionsinleader-memberexchangetheory.InL.L.Neider&C.A.Schriesheim(Eds.),Leadership:
+65-114.Greenwich,CT:InformationAgePublishing.
+Farrell,D.,&Rusbult,C.E.1981.Exchangevariablesaspredictorsofjobsatisfaction,jobcommitment,andturnover:
+Theimpactofrewards,costs,alternatives,andinvestments.OrganizationalBehaviorandHumanPerformance,
+28:78-95.
+Firth,R.1967.Themesineconomicanthropology.London:Tavistock.
+Fiske,A.P.1991.Structuresofsociallife:Thefourelementaryformsofhumanrelations.NewYork:FreePress.
+Flynn,F.J.2003.HowmuchshouldIgiveandhowoften?Theeffectsofgenerosityandfrequencyoffavorexchange
+onsocialstatusandproductivity.AcademyofManagementJournal,46:539-553.
+Foa,U.G.,&Foa,E.B.1974.Societalstructuresofthemind.Springfield,IL:CharlesCThomas.
+Foa,U.G.,&Foa,E.B.1980.Resourcetheory:Interpersonalbehaviorasexchange.InK.J.Gergen&M.S.
+Greenberg&R.H.Willis(Eds.),Socialexchange:Advancesintheoryandresearch.NewYork:Plenum.
+Gallucci,M.,&Perugini,M.2003.Informationseekingandreciprocity:Atransformationalanalysis.EuropeanJour-
+nalofSocialPsychology,33:473-495.
+George,J.M.,Reed,T.F.,Ballard,K.A.,Colin,J.,&Fielding,J.1993.ContactwithAIDSpatientsasasourceof
+work-relateddistress:Effectsoforganizationalandsocialsupport.AcademyofManagementJournal,36:157.
+
+## Page 24
+
+Cropanzano, Mitchell / Social Exchange Theory 897
+Gergen,K.J.1969.Thepsychologyofbehavioralexchange.Reading,MA:Addison-Wesley.
+Gouldner,A.W.1960.Thenormofreciprocity:Apreliminarystatement.AmericanSociologicalReview,25:161-178.
+Graen,G.B.,&Scandura,T.A.1987.Towardapsychologyofdyadicorganizing.ResearchinOrganizationalBehav-
+ior,9:175-208.
+Graen,G.B.,&Uhl-Bein,M.1995.Developmentofleader-memberexchange(LMX)theoryofleadershipover25
+years:Applyingamulti-levelmulti-domainperspective.LeadershipQuarterly,6:219-247.
+Grandey,A.A.2000.Emotionregulationintheworkplace:Anewwaytoconceptualizeemotionallabor.Journalof
+OccupationalHealthPsychology,5:95-110.
+Holmes,J.G.1981.Theexchangeprocessincloserelationships:Microbehaviorandmacromotives.InM.J.Learner
+&S.C.Lerner(Eds.),Thejusticemotiveinsocialbehavior:261-284.NewYork:Plenum.
+Homans,G.C.1958.Socialbehaviorasexchange.AmericanJournalofSociology,63:597-606.
+Homans,G.C.1961.Socialbehavior:Itselementaryforms.NewYork:HarcourtBrace.
+Houston,F.S.,Gassenheimer,J.B.,&Moskulka,J.M.1992.Marketingexchangetransactionsandrelationships.
+Westport,CT:QuorumBooks.
+Howes,J.C.,Cropanzano,R.,Grandey,A.A.,&Mohler,C.J.2000.Whoissupportingwhom?JournalofQuality
+Management,5:207-223.
+Kahneman,D.,Knetsch,J.L.,&Thaler,R.H.1986.Fairnessandtheassumptionsofeconomics.JournalofBusiness,
+59:285-300.
+Kelley,H.H.1968.Interpersonalaccommodation.AmericanPsychologist,23:399-410.
+Kelley,H.H.,&Thibault,J.W.1978.Interpersonalrelationships:Atheoryofinterdependence.NewYork:John
+Wiley.
+Konovsky,M.A.2000.Understandingproceduraljusticeanditsimpactonbusinessorganizations.JournalofMan-
+agement,26:489-513.
+Konovsky,M.A.,&Pugh,S.D.1994.Citizenshipbehaviorandsocialexchange.AcademyofManagementJournal,
+37:656-669.
+Kottke,J.L.&Sharafinski,C.E.1988.Measuringperceivedsupervisoryandorganizationalsupport.Educational&
+PsychologicalMeasurement,48:1075-1079.
+Ladd,D.,&Henry,R.A.2000.Helpingcoworkersandhelpingtheorganization:Theroleofsupportperceptions,
+exchangeideology,andconscientiousness.JournalofAppliedSocialPsychology,30:2028-2049.
+Lerner,M.J.1980.Thebeliefinajustworld:Afundamentaldelusion.NewYork:Plenum.
+Liden,R.C.,Sparrowe,R.T.,&Wayne,S.J.1997.Leader-memberexchangetheory:Thepastandpotentialforthe
+future.InG.R.Ferris(Ed.)Researchinpersonnelandhumanresourcesmanagement,Vol.15:47-119:Green-
+wich,CT:JAI.
+Lind,E.A.1995.Justiceandauthorityrelationsinorganizations.InR.Cropanzano&M.K.Kacmar(Eds.),Organiza-
+tionalpolitics,justice,andsupport:Managingthesocialclimateoftheworkplace:83-96.Westport,CT:Quorum
+Books.
+Lynch,P.D.,Eisenberger,R.,&Armeli,S.1999.Perceivedorganizationalsupport:Inferiorversussuperiorperfor-
+mancebywaryemployees.JournalofAppliedPsychology,84:467-483.
+Malatesta,R.M.1995.Understandingthedynamicsoforganizationalandsupervisorycommitmentusingasocial
+exchangeframework.Unpublisheddoctoraldissertation,WayneStateUniversity,Michigan.
+Malatesta,R.M.,&Byrne,Z.S.1997.Theimpactofformalandinteractionalproceduresonorganizationalout-
+comes.Paperpresentedatthe12thannualconferenceoftheSocietyforIndustrialandOrganizationalPsychology,
+St.Louis,MO.
+Malinowski,B.1922.ArgonautsofthewesternPacific:Anaccountofnativeenterpriseandadventureinthearchipel-
+agoesofMelansianNewGuinea.London:Routledge.
+Malinowski,B.1932.Crimeandcustominsavagesociety.London:Paul,Trench,Trubner.
+Martin,J.,&Harder,J.W.1994.Breadandroses:Justiceandthedistributionoffinancialandsocioemotionalrewards
+inorganizations.SocialJusticeResearch,7:241-264.
+Masterson,S.S.,Lewis,K.,Goldman,B.M.,&Taylor,M.S.2000.Integratingjusticeandsocialexchange:Thedif-
+feringeffectsoffairproceduresandtreatmentonworkrelationships.AcademyofManagementJournal,43:738-
+748.
+Mathieu,J.E.,&Zajac,D.M.1990.Areviewandmeta-analysisoftheantecedents,correlates,andconsequencesof
+organizationalcommitment.PsychologicalBulletin,108:171-194.
+
+## Page 25
+
+898 Journal of Management / December 2005
+Mauss,M.1925.Thegift:Formsandfunctionsofexchangeinarchaicsocieties.NewYork:TheNortonLibrary.
+Mauss,M.1967.Thegift:Formsandfunctionsofexchangeinarchaicsocieties.NewYork:Norton.
+Meeker,B.F.1971.Decisionsandexchange.AmericanSociologicalReview,36:485-495.
+Meyer,J.P.1997.Organizationalcommitment.InC.L.Cooper&I.T.Robertson(Eds.),Internationalreviewof
+industrialandorganizationalpsychology:175-228.NewYork:JohnWiley.
+Meyer,J.P.,&Allen,N.J.1997.Commitmentintheworkplace:Theory,research,andapplication.ThousandOaks,
+CA:Sage.
+Mills,J.,&Clark,M.S.1982.Exchangeandcommunalrelationships.ReviewofPersonalityandSocialPsychology,3:
+121-144.
+Molm,L.D.1994.Dependenceandrisk:Transformingthestructureofsocialexchange.SocialPsychologyQuarterly,
+57:163-176.
+Molm,L.D.1997.Coercivepowerinsocialexchange.Cambridge,UK:CambridgeUniversityPress.
+Molm,L.D.2000.Theoriesofsocialexchangeandexchangenetworks.InG.Ritzer&B.Smart(Eds.),Handbookof
+socialtheory:260-272.ThousandOaks,CA:Sage.
+Molm,L.D.2003.Theoreticalcomparisonsofformsofexchange.SociologicalTheory,21:1-17.
+Molm,L.D.,Peterson,G.,&Takahashi,N.1999.Powerinnegotiatedandreciprocalexchange.AmericanSociologi-
+calReview,64:876-890.
+Molm,L.D.,Takahashi,N.,&Peterson,G.2000.Riskandtrustinsocialexchange:Anexperimentaltestofaclassical
+proposition.AmericanJournalofSociology,105:1396-1427.
+Moore,G.E.2004.Principiaethica.Mineola,NY:DoverPublications.(Originalworkpublished1903)
+Moorman,R.H.,Blakely,G.L.,&Niehoff,B.P.1998.Doesperceivedorganizationalsupportmediatetherelationship
+betweenproceduraljusticeandorganizationalcitizenshipbehavior?AcademyofManagementJournal,41:351-
+357.
+Murstein,B.I.,Cerreto,M.,&MacDonald,M.G.1977.Atheoryandinvestigationoftheeffectofexchange-
+orientationonmarriageandfriendship.JournalofMarriageandtheFamily,39:543-548.
+Organ,D.W.1988.Organizationalcitizenshipbehavior:Thegoodsoldiersyndrome.Lexington,MA:Lexington
+Books.
+Organ,D.W.1990.Themotivationalbasisoforganizationalcitizenshipbehavior.ResearchinOrganizationalBehav-
+ior,12:43-72.
+Organ,D.W.,&Konovsky,M.1989.Cognitiveversusaffectivedeterminantsoforganizationalcitizenshipbehavior.
+JournalofAppliedPsychology,74:157-164.
+Orpen,C.1994.Theeffectsofexchangeideologyontherelationshipbetweenperceivedorganizationalsupportand
+jobperformance.JournalofSocialPsychology,134:407-408.
+Parker,B.1998.Globalization:Managingacrossboundaries.London:Sage.
+Perrone,V.,Zaheer,A.,&McEvily,B.2003.Freetobetrusted?Organizationalconstraintsontrustinboundaryspan-
+ners.OrganizationScience,14:422-439.
+Perugini,M.,&Gallucci,M.2001.Individualdifferencesandsocialnorms:Thedistinctionbetweenreciprocatorsand
+prosocials.EuropeanJournalofPersonality,15:S19-S35.
+Perugini,M.,Gallucci,M.,Presaghi,F.,&Ercolani,A.P.2003.Thepersonalnormofreciprocity.EuropeanJournalof
+Personality,17(4):251-283.
+Pillai,R.,Scandura,T.A.,&Williams,E.A.1999.Leadershipandorganizationaljustice:Similaritiesanddifferences
+acrosscultures.JournalofInternationalBusinessStudies,30:763-779.
+Randall,M.L.,Cropanzano,R.,Bormann,C.A.,&Birjulin,A.1999.Organizationalpoliticsandorganizationalsup-
+portaspredictorsofworkattitudes,job.JournalofOrganizationalBehavior,20:159.
+Rhoades,L.,&Eisenberger,R.2002.Perceivedorganizationalsupport:Areviewoftheliterature.JournalofApplied
+Psychology,87:698-714.
+Rhoades,L.,Eisenberger,R.,&Armeli,S.2001.Affectivecommitmenttotheorganization:Thecontributionofper-
+ceivedorganizationalsupport.JournalofAppliedPsychology,86:825-836.
+Rousseau,D.M.1995.Psychologicalcontractsinorganizations:Understandingwrittenandunwrittenagreements.
+ThousandOaks,CA:Sage.
+Rousseau,D.M.,&Schalk,R.2000.Psychologicalcontractsinemployment:Cross-nationalperspectives.Thousand
+Oaks,CA:Sage.
+
+## Page 26
+
+Cropanzano, Mitchell / Social Exchange Theory 899
+Rupp,D.E.,&Cropanzano,R.2002.Themediatingeffectsofsocialexchangerelationshipsinpredictingworkplace
+outcomesfrommultifociorganizationaljustice.OrganizationalBehaviorandHumanDecisionProcesses,89:
+925-946.
+Rusbult,C.E.,Farrell,D.,Rogers,G.,&Mainous,A.G.,III.1988.Impactofexchangevariablesonexit,voice,loy-
+alty,andneglect:Anintegrativemodelofresponsestodecliningjobsatisfaction.AcademyofManagementJour-
+nal,31:599-627.
+Sahlins,M.1972.Stoneageeconomics.NewYork:Aldine.
+Settoon,R.P.,Bennett,N.,&Liden,R.C.1996.Socialexchangeinorganizations:Perceivedorganizationalsupport,
+leader-memberexchange,andemployeereciprocity.JournalofAppliedPsychology,81:219-227.
+Shafir,E.,&LeBoeuf,R.A.2002.Rationality.AnnualReviewofPsychology,53:491-517.
+Sheth,J.N.1996.Organizationalbuyingbehavior:PastperformanceandfutureexpectationsJournalofBusiness&
+IndustrialMarketing,11:7-24.
+Shore,L.M.,&Coyle-Shapiro,J.A.-M.2003.Newdevelopmentsintheemployee-organizationrelationship.Journal
+ofOrganizationalBehavior,24:443-450.
+Shore,L.M.,&Shore,T.H.1995.Perceivedorganizationalsupportandorganizationaljustice.InR.Cropanzano&
+K.M.Kacmar(Eds.),Organizationalpolitics,justice,andsupport:Managingthesocialclimateoftheworkplace:
+149-154.Westport,CT:QuorumBooks.
+Shore,L.M.,Tetrick,L.E.,&Barksdale,K.1999.Measurementoftransactionalandexchangerelationships.Paper
+presentedattheannualmeetingoftheSocietyforIndustrialandOrganizationalPsychology,Atlanta,GA.
+Shore,L.M.,Tetrick,L.E.,&Barksdale,K.2001.Socialandeconomicexchangesasmediatorsofcommitmentand
+performance.Unpublishedmanuscript.
+Shore,L.M.,Tetrick,L.E.,Taylor,M.S.,Coyle-Shapiro,J.,Liden,R.C.,McLean-Parks,J.,etal.2004.The
+employee-organizationrelationship:Atimelyconceptinaperiodoftransition.InJ.J.Martocchio(Ed.),Research
+inpersonnelandhumanresourcesmanagement,Vol.23:291-370.Amsterdam:Elsevier.
+Shore,L.M.,&Wayne,S.J.1993.Commitmentandemployeebehavior:Comparisonofaffectivecommitmentand
+continuancecommitmentwithperceivedorganizationalsupport.JournalofAppliedPsychology,78:774-780.
+Sinclair,R.R.,&Tetrick,L.E.1995.Socialexchangeandunioncommitment:Acomparisonofunioninstrumentality
+andunionsupportperceptions.JournalofOrganizationalBehavior,16:669-680.
+Stamper,C.L.,&VanDyne,L.2001.Workstatusandorganizationalcitizenshipbehavior:Afieldstudyofrestaurant
+employees.JournalofOrganizationalBehavior,22:517-535.
+Thibault,J.W.,&Kelley,H.H.1959.Thesocialpsychologyofgroups.NewYork:JohnWiley.
+Tsui,A.S.,Pearce,J.L.,Porter,L.W.,&Tripoli,A.M.1997.Alternativeapproachestotheemployee-organization
+relationship:Doesinvestmentinemployeespayoff?AcademyofManagementJournal,40:1089-1121.
+Tsui,A.S.,&Wang,D.X.2002.Employmentrelationshipsfromtheemployer’sperspective:Currentresearchand
+futuredirections.InC.L.Cooper&I.T.Robertson(Eds.),Internationalreviewofindustrialandorganizational
+psychology:77-114.Chichester,UK:Wiley.
+Turillo,C.J.,Folger,R.,Lavelle,J.J.,Umphress,E.E.,&Gee,J.O.2002.Isvirtueitsownreward?Self-sacrificial
+decisionsforthesakeoffairness.OrganizationalBehavior&HumanDecisionProcesses,89:839-865.
+Uhl-Bien,M.,Graen,G.B.,&Scandura,T.2000.Implicationsofleader-memberexchange(LMX)forstrategic
+humanresourcemanagementsystems:Relationshipsassocialcapitalforcompetitiveadvantage.InG.Ferris
+(Ed.),ResearchinPersonnelandHumanResourceManagement,Vol.18:137-185.Greenwich,CT:JAI.
+Uhl-Bien,M.,&Maslyn,J.2003.Reciprocityinmanager-subordinaterelationships:Components,configurations,
+andoutcomes.JournalofManagement,29:511-532.
+Wang,D.,Tsui,A.S.,Zhang,Y.,&Ma,L.2003.Employmentrelationshipsandfirmperformance:Evidencefroman
+emergingeconomy.JournalofOrganizationalBehavior,24:511-534.
+Wayne,S.J.,Shore,L.M.,&Liden,R.C.1997.Perceivedorganizationalsupportandleader-memberexchange:A
+socialexchangeperspective.AcademyofManagementJournal,40:82-111.
+Weber,M.1947.Thetheoryofsocialandeconomicorganization.NewYork:OxfordUniversityPress.
+Westphal,J.D.,&Zajac,E.J.1997.Defectionsfromtheinnercircle:Socialexchange,reciprocity,andthediffusionof
+boardindependenceinU.S.corporations.AdministrativeScienceQuarterly,42:161-183.
+Witt,L.A.1991a.Equalopportunityperceptionsandjobattitudes.JournalofSocialPsychology,131:431-433.
+Witt,L.A.1991b.Exchangeideologyasamoderatorofjobattitudes:Organizationalcitizenshipbehaviorsrelation-
+ships.JournalofAppliedSocialPsychology,21:1490-1501.
+
+## Page 27
+
+900 Journal of Management / December 2005
+Witt,L.A.1992.Exchangeideologyasamoderatoroftherelationshipsbetweenimportanceofparticipationindeci-
+sionmakingandjobattitudesHumanRelations,45:73-85.
+Witt,L.A.,&Broach,D.1993.Exchangeideologyasamoderatoroftheproceduraljustice-satisfactionrelationship.
+JournalofSocialPsychology,133:97-103.
+Witt,L.A.,Kacmar,K.M.,&Andrews,M.C.2001.Theinteractiveeffectsofproceduraljusticeandexchangeideol-
+ogyonsupervisor-ratedcommitment.JournalofOrganizationalBehavior,22:505-515.
+Witt,L.A.,&Wilson,J.W.1990.Incomesufficiencyasapredictorofjobsatisfactionandorganizationalcommit-
+ment:Dispositionaldifferences.JournalofSocialPsychology,130:267-268.
+Biographical Statements
+RussellCropanzanoistheBrienLeskProfessorofOrganizationalBehaviorintheUniversityofArizona’sEllerCol-
+legeofManagement.Hisresearchfocusesonperceptionsoforganizationaljusticeaswellasontheexperienceand
+impactofworkplaceemotion.HeisafellowintheSocietyforIndustrial/OrganizationalPsychologyandRepresenta-
+tive-at-Large for the Organizational Behavior Division of the Academy of Management.
+MarieS.MitchellisadoctoralcandidateinmanagementattheUniversityofCentralFlorida,specializinginorganiza-
+tionalbehavior.SheholdsanundergraduatedegreeinpoliticalsciencefromGeorgeMasonUniversityandamaster’s
+degreeinhumanresourcesfromRollinsCollege.Herprimaryresearchinterestsincludesocialexchangetheory,
+aggression and workplace deviance, work relationships, and organizational justice.

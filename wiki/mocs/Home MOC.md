@@ -10,6 +10,7 @@ related:
   - "[[index]]"
   - "[[Open Science MOC]]"
   - "[[Teams & Org Behavior MOC]]"
+  - "[[Social Exchange & Organizational Justice MOC]]"
   - "[[Learning & Development MOC]]"
   - "[[Institutional & Strategy MOC]]"
   - "[[Knowledge Management MOC]]"
@@ -30,6 +31,7 @@ This is the front door. Start here, pick a domain, follow links into the cluster
 
 - [[Open Science MOC]] — the replication crisis and the meta-science reform movement (preregistration, registered reports, open data).
 - [[Teams & Org Behavior MOC]] — team adaptation, emergent states, transactive memory, and leadership.
+- [[Social Exchange & Organizational Justice MOC]] — social exchange theory, justice dimensions and measurement, and the exchange-quality mediators (POS, LMX, commitment, OCB).
 - [[Learning & Development MOC]] — learning science, training transfer, and on-the-job development.
 - [[Institutional & Strategy MOC]] — institutional change, the knowledge-based view of the firm, framing, and careers.
 - [[Knowledge Management MOC]] — organizational memory, knowledge graphs, and the LLM-wiki pattern this vault implements.

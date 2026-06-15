@@ -14,6 +14,10 @@ related:
   - "[[Job Attitudes]]"
   - "[[David V. Day]]"
   - "[[lord-et-al-2017-leadership-in-applied-psychology]]"
+  - "[[Social Exchange Theory]]"
+  - "[[Perceived Organizational Support]]"
+  - "[[Organizational Justice]]"
+  - "[[colquitt-et-al-2013-justice-millennium-decade-later]]"
 ---
 
 # Leader-Member Exchange (LMX)
@@ -54,6 +58,9 @@ Leaders treat each follower differently. This differentiation produces variabili
 - Most research does not study the dyadic level of analysis as specified by theory (Schriesheim et al. 1999)
 - Static, cross-sectional measurement dominates despite theory specifying dynamic developmental process
 - Low leader–member agreement unexplained for decades
+
+## As a Social-Exchange-Quality Indicator
+LMX is the canonical **supervisor-focused** exchange-quality indicator in [[Social Exchange Theory]] (vs. [[Perceived Organizational Support|POS]] = organization-focused). [[colquitt-et-al-2013-justice-millennium-decade-later|Colquitt et al. (2013)]] confirmed LMX mediates [[Organizational Justice|justice]]→OCB and justice→task performance — but found focus-matching weaker than the multifoci model assumes.
 
 ## Connections
 - [[Job Attitudes]] — LMX quality is a key situational antecedent of job satisfaction

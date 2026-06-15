@@ -1514,6 +1514,56 @@
         "wiki/hot.md",
         "wiki/log.md"
       ]
+    },
+    ".raw/Cropanzano and Mitchell - 2005 - Social Exchange Theory An Interdisciplinary Review.md": {
+      "hash": "96fcd0ec0d0b1c49ba9c46cdd97571f9",
+      "ingested_at": "2026-06-15",
+      "pages_created": [
+        "wiki/sources/cropanzano-mitchell-2005-social-exchange-theory.md",
+        "wiki/concepts/Social Exchange Theory.md",
+        "wiki/concepts/Norm of Reciprocity.md",
+        "wiki/concepts/Foa & Foa Resource Theory.md",
+        "wiki/concepts/Perceived Organizational Support.md",
+        "wiki/concepts/Organizational Citizenship Behavior.md",
+        "wiki/entities/Russell Cropanzano.md",
+        "wiki/entities/Peter Blau.md",
+        "wiki/entities/Alvin Gouldner.md"
+      ],
+      "pages_updated": [
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md"
+      ]
+    },
+    ".raw/Colquitt et al. - 2013 - Justice at the millennium, a decade later A meta-analytic test of social exchange and affect-based.md": {
+      "hash": "5ed93597284ba1e46f58f570d14364d6",
+      "ingested_at": "2026-06-15",
+      "pages_created": [
+        "wiki/sources/colquitt-et-al-2013-justice-millennium-decade-later.md",
+        "wiki/concepts/Organizational Justice.md",
+        "wiki/concepts/Four Justice Dimensions.md",
+        "wiki/entities/Jason Colquitt.md",
+        "wiki/mocs/Social Exchange & Organizational Justice MOC.md"
+      ],
+      "pages_updated": [
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md"
+      ]
+    },
+    ".raw/Colquitt and Rodell - 2015 - Measuring  justice and fairness.md": {
+      "hash": "276262d40fb2dbca61854e882b9ad5ad",
+      "ingested_at": "2026-06-15",
+      "pages_created": [
+        "wiki/sources/colquitt-rodell-2015-measuring-justice-fairness.md",
+        "wiki/concepts/Justice Measurement Taxonomy.md",
+        "wiki/entities/Jessica Rodell.md"
+      ],
+      "pages_updated": [
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md"
+      ]
     }
   },
   "address_map": {
@@ -2123,7 +2173,23 @@
     "wiki/entities/Evangelia Demerouti.md": "c-000707",
     "wiki/entities/Adam Grant.md": "c-000708",
     "wiki/entities/Frederick Herzberg.md": "c-000709",
-    "wiki/entities/Eric Trist.md": "c-000710"
+    "wiki/entities/Eric Trist.md": "c-000710",
+    "wiki/sources/cropanzano-mitchell-2005-social-exchange-theory.md": "c-000711",
+    "wiki/sources/colquitt-et-al-2013-justice-millennium-decade-later.md": "c-000712",
+    "wiki/sources/colquitt-rodell-2015-measuring-justice-fairness.md": "c-000713",
+    "wiki/concepts/Social Exchange Theory.md": "c-000714",
+    "wiki/concepts/Organizational Justice.md": "c-000715",
+    "wiki/concepts/Four Justice Dimensions.md": "c-000716",
+    "wiki/concepts/Norm of Reciprocity.md": "c-000717",
+    "wiki/concepts/Perceived Organizational Support.md": "c-000718",
+    "wiki/concepts/Organizational Citizenship Behavior.md": "c-000719",
+    "wiki/concepts/Foa & Foa Resource Theory.md": "c-000720",
+    "wiki/concepts/Justice Measurement Taxonomy.md": "c-000721",
+    "wiki/entities/Jason Colquitt.md": "c-000722",
+    "wiki/entities/Russell Cropanzano.md": "c-000723",
+    "wiki/entities/Jessica Rodell.md": "c-000724",
+    "wiki/entities/Peter Blau.md": "c-000725",
+    "wiki/entities/Alvin Gouldner.md": "c-000726"
   },
   ".raw/Pearsall et al. - 2025 - A stimulus-based model of the team adaptation process An integrated conceptual review..pdf": {
     "hash": "62f683006d3323a67c67fc23621f632a",

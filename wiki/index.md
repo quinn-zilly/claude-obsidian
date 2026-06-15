@@ -25,7 +25,7 @@ created: 2026-04-07
 
 # Wiki Index
 
-Last updated: 2026-06-09 | Total pages: 424 | Sources ingested: 62
+Last updated: 2026-06-15 | Total pages: 441 | Sources ingested: 65
 
 Navigation: [[Home MOC]] | [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[getting-started]]
 
@@ -532,4 +532,33 @@ Navigation: [[Home MOC]] | [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[
 - [[shrout-rodgers-2018-replication-crisis|Shrout & Rodgers (2018)]] — Annual Review of Psychology | Broadening perspectives from the replication crisis; QRPs, power analysis, meta-analysis, Bayesian approaches, effect size heterogeneity; argues 36% OSC replication rate is statistically expected; preregistration as most important reform | 2026-06-03
 - [[lord-et-al-2017-leadership-in-applied-psychology|Lord, Day, Zaccaro, Avolio & Eagly (2017)]] — Journal of Applied Psychology | 100-year centennial review of leadership research; three waves (behavioral, social-cognitive/contingency, transformational/LMX/teams); 17 seminal JAP articles; future directions: virtual leadership, shared leadership, neuroscience, development | 2026-06-01
 - [[bell-et-al-2017-100-years-training-development|Bell, Tannenbaum, Ford, Noe & Kraiger (2017)]] — Journal of Applied Psychology | 100-year centennial review; 458 JAP articles; four themes: criteria, trainee char., design, context; trainability, active learning, transfer climate, tech-based training; multilevel criteria; within-person self-efficacy reversal | 2026-06-01
+### Social exchange & organizational justice cluster (new — 2026-06-15)
+
+**MOC:** [[Social Exchange & Organizational Justice MOC]]
+
+**Concepts:**
+
+- [[Social Exchange Theory]] — SET; interdependent contingent exchanges generating obligations; three pillars (rules, resources, relationships); economic vs. social exchange (Blau) (mature)
+- [[Organizational Justice]] — perceived workplace fairness; justice (rule adherence) vs. fairness (global appropriateness); two lenses (exchange + affect) (mature)
+- [[Four Justice Dimensions]] — procedural/distributive/interpersonal/informational + their justice rules; Colquitt 2001 four-factor structure; avg r=.49 (mature)
+- [[Justice Measurement Taxonomy]] — 2×2: faceted/latent justice × overall/faceted fairness; three conversions (focus/context/bracketing) (developing)
+- [[Norm of Reciprocity]] — the operative exchange rule; Gouldner's three senses; exchange ideology as moderator (developing)
+- [[Perceived Organizational Support]] — POS; organization-focused exchange indicator; POS→commitment r=.60 (developing)
+- [[Organizational Citizenship Behavior]] — OCB; exemplar reciprocative behavior; OCB-O/S/I; OCB≠−CWB (developing)
+- [[Foa & Foa Resource Theory]] — six resources × particularism × concreteness; economic vs. socioemotional; justice as symbolic/particularistic resource (developing)
+
+**Entities:**
+
+- [[Russell Cropanzano]] — SET review, contemporary social exchange theory, AET co-author (developing)
+- [[Jason Colquitt]] — four-factor justice scale, justice meta-analyses, measurement (developing)
+- [[Jessica Rodell]] — justice measurement, anticipatory justice; Colquitt collaborator (stub)
+- [[Peter Blau]] — *Exchange and Power in Social Life* (1964); economic vs. social exchange (stub)
+- [[Alvin Gouldner]] — "The Norm of Reciprocity" (1960); three senses of reciprocity (stub)
+
+**Sources:**
+
+- [[cropanzano-mitchell-2005-social-exchange-theory|Cropanzano & Mitchell (2005)]] — *Journal of Management* | canonical SET review; rules/resources/relationships; reciprocity typology; Foa & Foa; multifoci POS/LMX; causal-order ladder metaphor | 2026-06-15
+- [[colquitt-et-al-2013-justice-millennium-decade-later|Colquitt et al. (2013)]] — *Journal of Applied Psychology* | meta-analytic test of social exchange + affect lenses; 493 samples; exchange quality mediates justice→OCB/performance but not CWB; focus-matching & event-vs-entity overturned | 2026-06-15
+- [[colquitt-rodell-2015-measuring-justice-fairness|Colquitt & Rodell (2015)]] — *Oxford Handbook of Justice in the Workplace* Ch. 8 | justice vs. fairness; 2×2 measurement taxonomy; three conversions; four emerging issues (anticipations, within-person, multiple sources, injustice) | 2026-06-15
+
 - [[alliger-et-al-1997-training-criteria-meta-analysis|Alliger, Tannenbaum, Bennett, T

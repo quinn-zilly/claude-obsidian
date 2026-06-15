@@ -19,6 +19,13 @@ Navigation: [[index]] | [[hot]] | [[overview]]
 
 Append-only. New entries go at the TOP. Never edit past entries.
 
+## [2026-06-15] batch ingest | Social exchange & organizational justice (3 sources)
+- Sources: `.raw/Cropanzano and Mitchell - 2005 ...`, `.raw/Colquitt et al. - 2013 ...`, `.raw/Colquitt and Rodell - 2015 ...`
+- Summaries: [[cropanzano-mitchell-2005-social-exchange-theory]], [[colquitt-et-al-2013-justice-millennium-decade-later]], [[colquitt-rodell-2015-measuring-justice-fairness]]
+- Pages created (17): MOC [[Social Exchange & Organizational Justice MOC]]; concepts [[Social Exchange Theory]], [[Organizational Justice]], [[Four Justice Dimensions]], [[Justice Measurement Taxonomy]], [[Norm of Reciprocity]], [[Perceived Organizational Support]], [[Organizational Citizenship Behavior]], [[Foa & Foa Resource Theory]]; entities [[Russell Cropanzano]], [[Jason Colquitt]], [[Jessica Rodell]], [[Peter Blau]], [[Alvin Gouldner]]; + 3 sources. Addresses c-000711–c-000726.
+- Pages updated: [[Leader-Member Exchange (LMX)]], [[Organizational Commitment]], [[Affective Events Theory]], [[Home MOC]], [[Teams & Org Behavior MOC]], [[index]], [[hot]]
+- Key insight: the three sources form a tight theory→test→measure chain. Cropanzano & Mitchell give the SET framework (rules/resources/relationships); Colquitt et al. (2013) meta-analytically confirm exchange-quality mediators (trust/commitment/POS/LMX) carry justice→OCB/performance but NOT justice→CWB, and overturn focus-matching + event-vs-entity assumptions; Colquitt & Rodell (2015) supply the 2×2 measurement taxonomy. Cluster ties into existing [[Affective Events Theory]] (the rival affect lens, co-authored by Cropanzano).
+
 ## [2026-06-12] ingest | Parker, Morgeson & Johns (2017) — One Hundred Years of Work Design Research
 - Source: `.raw/Parker et al. - 2017 - One hundred years of work design research Looking back and looking forward..md`
 - Summary: [[parker-morgeson-johns-2017-100-years-work-design|Parker, Morgeson & Johns (2017)]] (address c-000697)

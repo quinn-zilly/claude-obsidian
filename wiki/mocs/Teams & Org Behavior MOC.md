@@ -77,6 +77,7 @@ This cluster maps how groups in organizations adapt, coordinate, remember, and l
 
 ## Adjacent MOCs
 
+- [[Social Exchange & Organizational Justice MOC]] — justice, social exchange, and the exchange-quality mediators behind job attitudes
 - [[Learning & Development MOC]] — team training and leader development
 - [[Institutional & Strategy MOC]] — framing and the knowledge-based view
 - [[Knowledge Management MOC]] — transactive/organizational memory

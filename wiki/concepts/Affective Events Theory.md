@@ -7,7 +7,7 @@ tags: [concept, affective-events-theory, job-attitudes, affect, emotions, organi
 created: 2026-06-01
 updated: 2026-06-01
 status: evergreen
-related: ["[[Job Attitudes]]", "[[Job Satisfaction]]", "[[Experience-Sampling Methodology]]", "[[Dispositional Antecedents of Job Attitudes]]", "[[Job Performance (Outcomes of Job Attitudes)]]"]
+related: ["[[Job Attitudes]]", "[[Job Satisfaction]]", "[[Experience-Sampling Methodology]]", "[[Dispositional Antecedents of Job Attitudes]]", "[[Job Performance (Outcomes of Job Attitudes)]]", "[[Organizational Justice]]", "[[Organizational Citizenship Behavior]]", "[[Russell Cropanzano]]"]
 ---
 
 # Affective Events Theory (AET)
@@ -42,6 +42,10 @@ AET motivates the use of [[Experience-Sampling Methodology]] because affective r
 Multilevel ESM studies show:
 - Within-person job attitude variation predicts within-person OCB variation (Ilies et al. 2006)
 - Within-person attitude variation predicts workplace deviance (Judge et al. 2006)
+
+## The Affect Lens on Justice
+
+AET grounds the **affect-based lens** on [[Organizational Justice|justice]] (co-author [[Russell Cropanzano]]). [[colquitt-et-al-2013-justice-millennium-decade-later|Colquitt et al. (2013)]] found justice→performance is mediated by **state positive and negative affect** — a complement to the social-exchange lens. Justice reduces state negative affect; affect may be the missing mediator for justice→CWB, which exchange quality fails to explain.
 
 ## Key Sources
 

@@ -24,7 +24,7 @@ Comprehensive self-report measure of work characteristics developed by Morgeson 
 
 ## Development
 
-- Reviewed all work design literature + O*NET database
+- Reviewed all work design literature + ONET database
 - Identified 107 distinct work characteristics
 - Reduced via sorting/classification to **18 categories** in 4 domains
 - Validated: N=540 incumbents, 243 different jobs
