@@ -39,6 +39,10 @@ Navigation: [[Home MOC]] | [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[
 
 ## Concepts
 
+- [[Work Design Influences Framework]] — multilevel framework for work design as a *dependent* variable: four levels × three mechanisms (Parker, Van den Broeck & Holman 2017) (status: developing)
+- [[Ability-Motivation-Opportunity Model]] — AMO: motivation + KSAs + opportunity (incl. power); the proximal engine behind managers' and employees' work-design choices (status: developing)
+- [[Strategic HRM]] — SHRM theory: HR practices (incl. work design) aligned to strategy; cost-min → low-involvement, differentiation → high-involvement (status: stub)
+- [[Institutional Regimes & Employment Regime Theory]] — varieties of capitalism + employment regimes; the "Nordic advantage" in job discretion/cognitive demand (status: stub)
 - [[Positive-Outcome Bias]] — literature-level over-reporting of confirmatory results; rises along the hard→soft / pure→applied gradient; symptom of publication bias (Fanelli 2012) (status: developing)
 - [[Publish or Perish]] — bibliometric evaluation regime that pressures positive/novel results and feeds QRPs (status: developing)
 - [[In-Principle Acceptance]] — journal's binding commitment to publish a Registered Report after Stage-1 design review, before results (status: developing)
@@ -400,6 +404,8 @@ Navigation: [[Home MOC]] | [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[
 
 ## Entities
 
+- [[Anja Van den Broeck]] — work/org psychologist (KU Leuven); motivation & JD-R; co-author Parker, Van den Broeck & Holman (2017)
+- [[David Holman]] — work psychologist (Manchester); cross-national institutional work design (the "Nordic advantage"); co-author Parker, Van den Broeck & Holman (2017)
 - [[John W. Meyer]] — Stanford sociologist; co-founder of new institutionalism + world-society theory; co-author Meyer & Rowan (1977)
 - [[Brian Rowan]] — sociologist of education & organizations (Michigan); co-author Meyer & Rowan (1977); decoupling in schools
 - [[Daniele Fanelli]] — meta-scientist (Edinburgh); bias/misconduct in the literature; "hierarchy of the sciences"
@@ -510,6 +516,7 @@ Navigation: [[Home MOC]] | [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[
 
 ## Sources
 
+- [[parker-vandenbroeck-holman-2017-work-design-influences|Parker, Van den Broeck & Holman (2017)]] — Academy of Management Annals | the antecedents-side companion: work design as a **dependent** variable; multilevel framework (global/national/occupational → organizational → work-group → individual) acting via three mechanisms (direct; via managers' AMO; via employees' AMO); evidence strongest for org factors + national institutions/regimes, weakest for global/cultural/occupational | 2026-06-15
 - [[parker-morgeson-johns-2017-100-years-work-design|Parker, Morgeson & Johns (2017)]] — Journal of Applied Psychology (Centennial) | big-picture map of 100 years of work design; scientific mapping of 5,708 articles → 5 historically-anchored clusters (sociotechnical/AWG, JCM, job demands-control, job demands-resources, role theory); clusters reflect history not topic, so integration is the field's opportunity; JAP = 6.4% of articles but ~19% of citations; impact on academia/economics/epidemiology/HBR/policy; proactive + dynamic + multilevel future agenda | 2026-06-12
 - [[morgeson-humphrey-2006-work-design-questionnaire|Morgeson & Humphrey (2006)]] — Journal of Applied Psychology | development & validation of the WDQ; 107 terms → 18 categories / 21 CFA factors across task/knowledge/social/contextual domains; N=540 incumbents, 243 jobs; avg α ≈ .87; only knowledge characteristics predict training/compensation cost (route around the satisfaction-vs-cost trade-off); social support incrementally predicts satisfaction | 2026-06-12
 - [[humphrey-nahrgang-morgeson-2007-work-design-meta-analysis|Humphrey, Nahrgang & Morgeson (2007)]] — Journal of Applied Psychology | definitive work-design meta-analysis (259 studies, N=219,625); 14 characteristics explain ~43% of variance across 19 outcomes; social characteristics add up to +40% and work context up to +16% incremental variance beyond motivational; experienced meaningfulness is the dominant JCM mediator | 2026-06-12

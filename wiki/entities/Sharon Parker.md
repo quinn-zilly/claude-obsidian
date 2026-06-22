@@ -18,6 +18,8 @@ related:
   - "[[Frederick Morgeson]]"
   - "[[Gary Johns]]"
   - "[[parker-morgeson-johns-2017-100-years-work-design|Parker et al. (2017)]]"
+  - "[[parker-vandenbroeck-holman-2017-work-design-influences|Parker, Van den Broeck & Holman (2017)]]"
+  - "[[Work Design Influences Framework]]"
 ---
 
 # Sharon Parker

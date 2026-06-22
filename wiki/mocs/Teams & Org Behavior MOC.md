@@ -58,6 +58,9 @@ This cluster maps how groups in organizations adapt, coordinate, remember, and l
 - [[Job Attitudes]]
 - [[Job Satisfaction]]
 - [[parker-morgeson-johns-2017-100-years-work-design|Parker, Morgeson & Johns (2017): One Hundred Years of Work Design Research]]
+- [[parker-vandenbroeck-holman-2017-work-design-influences|Parker, Van den Broeck & Holman (2017): Work Design Influences (multilevel antecedents)]]
+- [[Work Design Influences Framework]] — work design as a *dependent* variable
+- [[Ability-Motivation-Opportunity Model]] — the AMO engine behind work-design choices
 - [[morgeson-humphrey-2006-work-design-questionnaire|Morgeson & Humphrey (2006): The Work Design Questionnaire (WDQ)]]
 - [[humphrey-nahrgang-morgeson-2007-work-design-meta-analysis|Humphrey, Nahrgang & Morgeson (2007): Integrating Motivational, Social, and Contextual Work Design Features]]
 - [[oldham-fried-2016-job-design-past-present-future|Oldham & Fried (2016): Job Design Research and Theory — Past, Present and Future]]

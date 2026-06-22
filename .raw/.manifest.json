@@ -1564,6 +1564,26 @@
         "wiki/hot.md",
         "wiki/log.md"
       ]
+    },
+    ".raw/Parker et al. - 2017 - Work Design Influences A Synthesis of Multilevel Factors that Affect the Design of Jobs.md": {
+      "hash": "c55df66005f78f496445d078a09e9537",
+      "ingested_at": "2026-06-15",
+      "pages_created": [
+        "wiki/sources/parker-vandenbroeck-holman-2017-work-design-influences.md",
+        "wiki/concepts/Work Design Influences Framework.md",
+        "wiki/concepts/Ability-Motivation-Opportunity Model.md",
+        "wiki/concepts/Strategic HRM.md",
+        "wiki/concepts/Institutional Regimes & Employment Regime Theory.md",
+        "wiki/entities/Anja Van den Broeck.md",
+        "wiki/entities/David Holman.md"
+      ],
+      "pages_updated": [
+        "wiki/entities/Sharon Parker.md",
+        "wiki/mocs/Teams & Org Behavior MOC.md",
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md"
+      ]
     }
   },
   "address_map": {
@@ -2189,7 +2209,14 @@
     "wiki/entities/Russell Cropanzano.md": "c-000723",
     "wiki/entities/Jessica Rodell.md": "c-000724",
     "wiki/entities/Peter Blau.md": "c-000725",
-    "wiki/entities/Alvin Gouldner.md": "c-000726"
+    "wiki/entities/Alvin Gouldner.md": "c-000726",
+    "wiki/sources/parker-vandenbroeck-holman-2017-work-design-influences.md": "c-000727",
+    "wiki/concepts/Work Design Influences Framework.md": "c-000729",
+    "wiki/concepts/Ability-Motivation-Opportunity Model.md": "c-000728",
+    "wiki/concepts/Strategic HRM.md": "c-000732",
+    "wiki/concepts/Institutional Regimes & Employment Regime Theory.md": "c-000733",
+    "wiki/entities/Anja Van den Broeck.md": "c-000730",
+    "wiki/entities/David Holman.md": "c-000731"
   },
   ".raw/Pearsall et al. - 2025 - A stimulus-based model of the team adaptation process An integrated conceptual review..pdf": {
     "hash": "62f683006d3323a67c67fc23621f632a",

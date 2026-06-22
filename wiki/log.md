@@ -19,6 +19,13 @@ Navigation: [[index]] | [[hot]] | [[overview]]
 
 Append-only. New entries go at the TOP. Never edit past entries.
 
+## [2026-06-15] ingest | Parker, Van den Broeck & Holman (2017): Work Design Influences
+- Source: `.raw/Parker et al. - 2017 - Work Design Influences A Synthesis of Multilevel Factors that Affect the Design of Jobs.md`
+- Summary: [[parker-vandenbroeck-holman-2017-work-design-influences]]
+- Pages created (7): concepts [[Work Design Influences Framework]], [[Ability-Motivation-Opportunity Model]], [[Strategic HRM]] (stub), [[Institutional Regimes & Employment Regime Theory]] (stub); entities [[Anja Van den Broeck]], [[David Holman]]; + 1 source. Addresses c-000727–c-000733.
+- Pages updated: [[Sharon Parker]], [[Teams & Org Behavior MOC]], [[index]], [[hot]]
+- Key insight: This is the antecedents-side companion to [[parker-morgeson-johns-2017-100-years-work-design|Parker, Morgeson & Johns (2017)]] — it flips work design from independent to **dependent** variable and synthesizes its multilevel causes. The engine is the [[Ability-Motivation-Opportunity Model|AMO model]]: context shapes work design mostly *indirectly*, by shifting managers' and employees' motivation/KSAs/opportunity, not deterministically. Bridges the work-design cluster to [[Institutional & Strategy MOC|institutional theory & strategy]].
+
 ## [2026-06-15] batch ingest | Social exchange & organizational justice (3 sources)
 - Sources: `.raw/Cropanzano and Mitchell - 2005 ...`, `.raw/Colquitt et al. - 2013 ...`, `.raw/Colquitt and Rodell - 2015 ...`
 - Summaries: [[cropanzano-mitchell-2005-social-exchange-theory]], [[colquitt-et-al-2013-justice-millennium-decade-later]], [[colquitt-rodell-2015-measuring-justice-fairness]]
