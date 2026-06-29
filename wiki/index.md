@@ -39,6 +39,14 @@ Navigation: [[Home MOC]] | [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[
 
 ## Concepts
 
+- [[APA Ethics Code]] — governing ethics framework for U.S. psychologists; aspirational principles + enforceable standards (status: developing)
+- [[Five General Principles (APA)]] — Beneficence/Nonmaleficence, Fidelity/Responsibility, Integrity, Justice, Respect (status: developing)
+- [[Aspirational vs Enforceable Standards]] — two-tier structure of the APA Ethics Code (status: developing)
+- [[Scientist-Practitioner Model]] — I/O psychology's dominant self-definition; Lefkowitz: deficient + corporate-contaminated (status: developing)
+- [[Scientist-Practitioner-Humanist (S-P-H) Model]] — Lefkowitz's proposed expansion adding humanist values + employee advocacy (status: developing)
+- [[Scientism in Social Science]] — the "value-free science" myth; Hayek's "pretence of knowledge" (status: developing)
+- [[Pro-Management Bias]] — I/O's reflexive managerial perspective (Baritz, *Servants of Power*) (status: developing)
+- [[Means-Ends Inversion]] — technocratic "hired hand" view; means without judging ends (Munsterberg → Roback) (status: developing)
 - [[Social Identity Theory]] — Tajfel & Turner: self-concept = personal + social identity; categorization → identification → intergroup behavior (status: developing)
 - [[Social Identification]] — organizational identification as "perception of oneness" with a group; cognitive, distinct from commitment/internalization (Ashforth & Mael 1989) (status: developing)
 - [[Self-Categorization and Self-Stereotyping]] — identifying with a category attributes its prototype to the self → depersonalization, conformity (status: developing)
@@ -411,6 +419,8 @@ Navigation: [[Home MOC]] | [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[
 
 ## Entities
 
+- [[Joel Lefkowitz]] — I/O psychologist (Baruch/CUNY); ethics & values in applied psychology; proposed the S-P-H model
+- [[American Psychological Association]] — APA; publishes & enforces the Ethics Code; publisher of *American Psychologist*
 - [[Blake E. Ashforth]] — OB scholar (Concordia, 1989); identity, identification, socialization; co-author Ashforth & Mael (1989)
 - [[Fred Mael]] — org psychologist (Wayne State, 1989); built the 6-item organizational identification scale; co-author Ashforth & Mael (1989)
 - [[Anja Van den Broeck]] — work/org psychologist (KU Leuven); motivation & JD-R; co-author Parker, Van den Broeck & Holman (2017)
@@ -525,6 +535,8 @@ Navigation: [[Home MOC]] | [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[
 
 ## Sources
 
+- [[lefkowitz-2008-values-organizational-psychology|Lefkowitz (2008)]] — Journal of Organizational Behavior | "the fault lies not in our ethics, but in our **values**"; five indictments of I/O psychology's implicit values (humanism→business goals, scientism, amorality, pro-management bias, means-over-ends); proposes the **Scientist-Practitioner-Humanist (S-P-H)** model | 2026-06-29
+- [[apa-2017-ethical-principles-code-of-conduct|APA Ethics Code (2017)]] — American Psychologist (2002, amended 2010/2016) | the governing U.S. psychology ethics code; aspirational Preamble + five General Principles + enforceable Standards (10 sections); preamble mandate to serve "individuals, organizations, and society" | 2026-06-29
 - [[ashforth-mael-1989-social-identity-theory-organization|Ashforth & Mael (1989)]] — Academy of Management Review | imported **Social Identity Theory** into OB; redefined organizational identification as a perceptual "perception of oneness" and separated it from commitment, internalization, loyalty, and effort; applied to socialization, role conflict, and intergroup relations; Mael's identification scale became the field standard | 2026-06-29
 - [[parker-vandenbroeck-holman-2017-work-design-influences|Parker, Van den Broeck & Holman (2017)]] — Academy of Management Annals | the antecedents-side companion: work design as a **dependent** variable; multilevel framework (global/national/occupational → organizational → work-group → individual) acting via three mechanisms (direct; via managers' AMO; via employees' AMO); evidence strongest for org factors + national institutions/regimes, weakest for global/cultural/occupational | 2026-06-15
 - [[parker-morgeson-johns-2017-100-years-work-design|Parker, Morgeson & Johns (2017)]] — Journal of Applied Psychology (Centennial) | big-picture map of 100 years of work design; scientific mapping of 5,708 articles → 5 historically-anchored clusters (sociotechnical/AWG, JCM, job demands-control, job demands-resources, role theory); clusters reflect history not topic, so integration is the field's opportunity; JAP = 6.4% of articles but ~19% of citations; impact on academia/economics/epidemiology/HBR/policy; proactive + dynamic + multilevel future agenda | 2026-06-12

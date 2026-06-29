@@ -62,6 +62,18 @@ This cluster maps how organizations and fields change, how strategy rests on kno
 - [[Person–Environment Fit]]
 - [[mainiero-sullivan-2005-kaleidoscope-careers|Mainiero & Sullivan (2005) — Kaleidoscope Careers]]
 
+## Professional ethics & values
+
+- [[APA Ethics Code]] — governing ethics framework for U.S. psychologists
+- [[Five General Principles (APA)]]
+- [[Aspirational vs Enforceable Standards]]
+- [[Scientist-Practitioner Model]] → [[Scientist-Practitioner-Humanist (S-P-H) Model]]
+- [[Scientism in Social Science]]
+- [[Pro-Management Bias]]
+- [[Means-Ends Inversion]]
+- [[lefkowitz-2008-values-organizational-psychology|Lefkowitz (2008) — Expand the Values]]
+- [[apa-2017-ethical-principles-code-of-conduct|APA Ethics Code (2017)]]
+
 ## Adjacent MOCs
 
 - [[Teams & Org Behavior MOC]] — sensemaking, leadership

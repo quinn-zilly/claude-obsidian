@@ -19,6 +19,13 @@ Navigation: [[index]] | [[hot]] | [[overview]]
 
 Append-only. New entries go at the TOP. Never edit past entries.
 
+## [2026-06-29] ingest | Lefkowitz (2008) values + APA (2017) Ethics Code
+- Sources: `.raw/Lefkowitz - 2008 - To prosper, organizational psychology should… ...md`; `.raw/American Psychological Association - 2017 - Ethical principles of psychologists and code of conduct.md`
+- Summaries: [[lefkowitz-2008-values-organizational-psychology]], [[apa-2017-ethical-principles-code-of-conduct]]
+- Pages created (12): sources ×2; entities [[Joel Lefkowitz]], [[American Psychological Association]]; concepts [[APA Ethics Code]], [[Five General Principles (APA)]], [[Aspirational vs Enforceable Standards]], [[Scientist-Practitioner Model]], [[Scientist-Practitioner-Humanist (S-P-H) Model]], [[Scientism in Social Science]], [[Pro-Management Bias]], [[Means-Ends Inversion]]. Addresses c-000744–c-000755.
+- Pages updated: [[Institutional & Strategy MOC]] (new professional-ethics cluster), [[index]], [[hot]].
+- Key insight: Lefkowitz argues I/O psychology's *ethics* are sound but its *values* (the [[Scientist-Practitioner Model]]) are deficient + corporate-contaminated; remedy = the [[Scientist-Practitioner-Humanist (S-P-H) Model]], measured against the [[APA Ethics Code]]'s "individuals, organizations, **and** society" mandate.
+
 ## [2026-06-29] ingest | Ashforth & Mael (1989): Social Identity Theory and the Organization
 - Source: `.raw/Ashforth and Mael - 1989 - Social Identity Theory and the Organization.md`
 - Summary: [[ashforth-mael-1989-social-identity-theory-organization]]

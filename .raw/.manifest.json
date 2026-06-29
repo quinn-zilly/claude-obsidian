@@ -1607,6 +1607,42 @@
         "wiki/hot.md",
         "wiki/log.md"
       ]
+    },
+    ".raw/Lefkowitz - 2008 - To prosper, organizational psychology should… expand the values of organizational psychology to matc.md": {
+      "hash": "923391b98ae15f7daa4b5d43b908c0f6",
+      "ingested_at": "2026-06-29",
+      "pages_created": [
+        "wiki/sources/lefkowitz-2008-values-organizational-psychology.md",
+        "wiki/entities/Joel Lefkowitz.md",
+        "wiki/concepts/Scientist-Practitioner Model.md",
+        "wiki/concepts/Scientist-Practitioner-Humanist (S-P-H) Model.md",
+        "wiki/concepts/Scientism in Social Science.md",
+        "wiki/concepts/Pro-Management Bias.md",
+        "wiki/concepts/Means-Ends Inversion.md"
+      ],
+      "pages_updated": [
+        "wiki/index.md",
+        "wiki/log.md",
+        "wiki/hot.md",
+        "wiki/mocs/Institutional & Strategy MOC.md"
+      ]
+    },
+    ".raw/American Psychological Association - 2017 - Ethical principles of psychologists and code of conduct.md": {
+      "hash": "a15e958177e567d919f5ec423620dfff",
+      "ingested_at": "2026-06-29",
+      "pages_created": [
+        "wiki/sources/apa-2017-ethical-principles-code-of-conduct.md",
+        "wiki/entities/American Psychological Association.md",
+        "wiki/concepts/APA Ethics Code.md",
+        "wiki/concepts/Five General Principles (APA).md",
+        "wiki/concepts/Aspirational vs Enforceable Standards.md"
+      ],
+      "pages_updated": [
+        "wiki/index.md",
+        "wiki/log.md",
+        "wiki/hot.md",
+        "wiki/mocs/Institutional & Strategy MOC.md"
+      ]
     }
   },
   "address_map": {
@@ -2249,7 +2285,19 @@
     "wiki/concepts/Psychological Group.md": "c-000740",
     "wiki/concepts/In-Group Bias and Intergroup Comparison.md": "c-000741",
     "wiki/concepts/Minimal Group Paradigm.md": "c-000742",
-    "wiki/concepts/Routinization of Charisma.md": "c-000743"
+    "wiki/concepts/Routinization of Charisma.md": "c-000743",
+    "wiki/sources/apa-2017-ethical-principles-code-of-conduct.md": "c-000744",
+    "wiki/sources/lefkowitz-2008-values-organizational-psychology.md": "c-000745",
+    "wiki/entities/Joel Lefkowitz.md": "c-000746",
+    "wiki/entities/American Psychological Association.md": "c-000747",
+    "wiki/concepts/APA Ethics Code.md": "c-000748",
+    "wiki/concepts/Five General Principles (APA).md": "c-000749",
+    "wiki/concepts/Aspirational vs Enforceable Standards.md": "c-000750",
+    "wiki/concepts/Scientist-Practitioner Model.md": "c-000751",
+    "wiki/concepts/Scientist-Practitioner-Humanist (S-P-H) Model.md": "c-000752",
+    "wiki/concepts/Scientism in Social Science.md": "c-000753",
+    "wiki/concepts/Pro-Management Bias.md": "c-000754",
+    "wiki/concepts/Means-Ends Inversion.md": "c-000755"
   },
   ".raw/Pearsall et al. - 2025 - A stimulus-based model of the team adaptation process An integrated conceptual review..pdf": {
     "hash": "62f683006d3323a67c67fc23621f632a",
