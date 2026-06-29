@@ -4,9 +4,9 @@ type: concept
 title: "Organizational Commitment"
 tags: [concept, organizational-commitment, job-attitudes, organizational-psychology]
 created: 2026-06-01
-updated: 2026-06-01
+updated: 2026-06-29
 status: evergreen
-related: ["[[Job Attitudes]]", "[[Job Satisfaction]]", "[[Affective Events Theory]]", "[[Job Performance (Outcomes of Job Attitudes)]]", "[[Timothy A. Judge]]", "[[John D. Kammeyer-Mueller]]", "[[Social Exchange Theory]]", "[[Perceived Organizational Support]]", "[[Organizational Justice]]"]
+related: ["[[Job Attitudes]]", "[[Job Satisfaction]]", "[[Affective Events Theory]]", "[[Job Performance (Outcomes of Job Attitudes)]]", "[[Timothy A. Judge]]", "[[John D. Kammeyer-Mueller]]", "[[Social Exchange Theory]]", "[[Perceived Organizational Support]]", "[[Organizational Justice]]", "[[Social Identification]]", "[[Social Identity Theory]]"]
 ---
 
 # Organizational Commitment
@@ -47,6 +47,15 @@ Positive commitment–performance relationship, but not strong (Wright & Bonett 
 ## As a Social-Exchange-Quality Indicator
 
 Beyond the job-attitudes tradition above, commitment serves as one of the four **social-exchange-quality indicators** in justice research (with trust, [[Perceived Organizational Support|POS]], [[Leader-Member Exchange (LMX)|LMX]]). In [[Social Exchange Theory]], employees **exchange commitment for organizational support** (Eisenberger et al.); commitment is both **particularistic** (to the org) and **symbolic**. [[colquitt-et-al-2013-justice-millennium-decade-later|Colquitt et al. (2013)]] found commitment mediates [[Organizational Justice|justice]]→performance and justice→OCB. POS–commitment meta-analytic r = .60 (Rhoades & Eisenberger 2002).
+
+## Distinct from Organizational Identification
+
+> [!contradiction] Conflict with [[ashforth-mael-1989-social-identity-theory-organization|Ashforth & Mael (1989)]]
+> The OCQ tradition (Mowday, Steers & Porter 1979) defines commitment to *include* "the relative strength of an individual's **identification** with and involvement in" the organization — folding identification, internalization, behavioral intentions, and affect into one construct.
+> [[ashforth-mael-1989-social-identity-theory-organization|Ashforth & Mael]] argue this conflates distinct constructs: [[Social Identification|identification]] is a *purely perceptual* "perception of oneness" (org-specific, "I am"), whereas commitment as measured bundles internalization ("I believe"), affect, and intent. One can score high on the OCQ without shared destiny (the org as a convenient career vehicle), and identification predicts psychic loss on leaving that commitment-as-convenience does not.
+> **Evidence:** Mael's (1988) confirmatory factor analysis of his 6-item identification scale against the 15-item OCQ favors a **two-factor** model (AGFI .825) over a single-factor model (.780), supporting differentiability. Needs reconciliation with the social-attitudes reformulation below.
+
+Note the convergence: Solinger et al.'s (2008) reformulation already splits commitment into affect / **cognition (identification/internalization)** / action-readiness — partially conceding the identification–commitment distinction that SIT presses.
 
 ## Key Sources
 

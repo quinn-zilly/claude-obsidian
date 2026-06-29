@@ -10,7 +10,7 @@ related:
   - "[[Learning & Development MOC]]"
   - "[[Institutional & Strategy MOC]]"
 status: developing
-updated: 2026-06-12
+updated: 2026-06-29
 ---
 
 # Teams & Organizational Behavior — Map of Content
@@ -77,6 +77,18 @@ This cluster maps how groups in organizations adapt, coordinate, remember, and l
 - [[Leadership Pipeline]]
 - [[Leadership Transitions]]
 - [[Gender and Leadership]]
+
+## Identity & identification sub-cluster
+
+- [[Social Identity Theory]]
+- [[Social Identification]] — organizational identification as "perception of oneness"
+- [[Self-Categorization and Self-Stereotyping]]
+- [[Psychological Group]]
+- [[In-Group Bias and Intergroup Comparison]]
+- [[Minimal Group Paradigm]]
+- [[Routinization of Charisma]]
+- [[Organizational Commitment]] — distinct from identification ([[ashforth-mael-1989-social-identity-theory-organization|contradiction]])
+- [[ashforth-mael-1989-social-identity-theory-organization|Ashforth & Mael (1989): Social Identity Theory and the Organization]]
 
 ## Adjacent MOCs
 

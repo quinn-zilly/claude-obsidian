@@ -1584,6 +1584,29 @@
         "wiki/hot.md",
         "wiki/log.md"
       ]
+    },
+    ".raw/Ashforth and Mael - 1989 - Social Identity Theory and the Organization.md": {
+      "hash": "41ac031456505cd7c285eef79112d3f4",
+      "ingested_at": "2026-06-29",
+      "pages_created": [
+        "wiki/sources/ashforth-mael-1989-social-identity-theory-organization.md",
+        "wiki/entities/Blake E. Ashforth.md",
+        "wiki/entities/Fred Mael.md",
+        "wiki/concepts/Social Identity Theory.md",
+        "wiki/concepts/Social Identification.md",
+        "wiki/concepts/Self-Categorization and Self-Stereotyping.md",
+        "wiki/concepts/Psychological Group.md",
+        "wiki/concepts/In-Group Bias and Intergroup Comparison.md",
+        "wiki/concepts/Minimal Group Paradigm.md",
+        "wiki/concepts/Routinization of Charisma.md"
+      ],
+      "pages_updated": [
+        "wiki/concepts/Organizational Commitment.md",
+        "wiki/mocs/Teams & Org Behavior MOC.md",
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md"
+      ]
     }
   },
   "address_map": {
@@ -2216,7 +2239,17 @@
     "wiki/concepts/Strategic HRM.md": "c-000732",
     "wiki/concepts/Institutional Regimes & Employment Regime Theory.md": "c-000733",
     "wiki/entities/Anja Van den Broeck.md": "c-000730",
-    "wiki/entities/David Holman.md": "c-000731"
+    "wiki/entities/David Holman.md": "c-000731",
+    "wiki/sources/ashforth-mael-1989-social-identity-theory-organization.md": "c-000734",
+    "wiki/entities/Blake E. Ashforth.md": "c-000735",
+    "wiki/entities/Fred Mael.md": "c-000736",
+    "wiki/concepts/Social Identity Theory.md": "c-000737",
+    "wiki/concepts/Social Identification.md": "c-000738",
+    "wiki/concepts/Self-Categorization and Self-Stereotyping.md": "c-000739",
+    "wiki/concepts/Psychological Group.md": "c-000740",
+    "wiki/concepts/In-Group Bias and Intergroup Comparison.md": "c-000741",
+    "wiki/concepts/Minimal Group Paradigm.md": "c-000742",
+    "wiki/concepts/Routinization of Charisma.md": "c-000743"
   },
   ".raw/Pearsall et al. - 2025 - A stimulus-based model of the team adaptation process An integrated conceptual review..pdf": {
     "hash": "62f683006d3323a67c67fc23621f632a",

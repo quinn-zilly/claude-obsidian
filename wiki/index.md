@@ -25,7 +25,7 @@ created: 2026-04-07
 
 # Wiki Index
 
-Last updated: 2026-06-15 | Total pages: 441 | Sources ingested: 65
+Last updated: 2026-06-29 | Total pages: 453 | Sources ingested: 66
 
 Navigation: [[Home MOC]] | [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[getting-started]]
 
@@ -39,6 +39,13 @@ Navigation: [[Home MOC]] | [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[
 
 ## Concepts
 
+- [[Social Identity Theory]] — Tajfel & Turner: self-concept = personal + social identity; categorization → identification → intergroup behavior (status: developing)
+- [[Social Identification]] — organizational identification as "perception of oneness" with a group; cognitive, distinct from commitment/internalization (Ashforth & Mael 1989) (status: developing)
+- [[Self-Categorization and Self-Stereotyping]] — identifying with a category attributes its prototype to the self → depersonalization, conformity (status: developing)
+- [[Psychological Group]] — a group defined by shared identification, not interpersonal ties; SIT's biggest OB contribution (status: developing)
+- [[In-Group Bias and Intergroup Comparison]] — positive-distinctiveness motive drives bias; conflict without objective causes; legitimacy mitigates (status: developing)
+- [[Minimal Group Paradigm]] — mere (even random) categorization suffices for in-group favoritism (status: developing)
+- [[Routinization of Charisma]] — Weberian route by which classical identification with a leader generalizes to the org (AA vs NCA) (status: developing)
 - [[Work Design Influences Framework]] — multilevel framework for work design as a *dependent* variable: four levels × three mechanisms (Parker, Van den Broeck & Holman 2017) (status: developing)
 - [[Ability-Motivation-Opportunity Model]] — AMO: motivation + KSAs + opportunity (incl. power); the proximal engine behind managers' and employees' work-design choices (status: developing)
 - [[Strategic HRM]] — SHRM theory: HR practices (incl. work design) aligned to strategy; cost-min → low-involvement, differentiation → high-involvement (status: stub)
@@ -404,6 +411,8 @@ Navigation: [[Home MOC]] | [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[
 
 ## Entities
 
+- [[Blake E. Ashforth]] — OB scholar (Concordia, 1989); identity, identification, socialization; co-author Ashforth & Mael (1989)
+- [[Fred Mael]] — org psychologist (Wayne State, 1989); built the 6-item organizational identification scale; co-author Ashforth & Mael (1989)
 - [[Anja Van den Broeck]] — work/org psychologist (KU Leuven); motivation & JD-R; co-author Parker, Van den Broeck & Holman (2017)
 - [[David Holman]] — work psychologist (Manchester); cross-national institutional work design (the "Nordic advantage"); co-author Parker, Van den Broeck & Holman (2017)
 - [[John W. Meyer]] — Stanford sociologist; co-founder of new institutionalism + world-society theory; co-author Meyer & Rowan (1977)
@@ -516,6 +525,7 @@ Navigation: [[Home MOC]] | [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[
 
 ## Sources
 
+- [[ashforth-mael-1989-social-identity-theory-organization|Ashforth & Mael (1989)]] — Academy of Management Review | imported **Social Identity Theory** into OB; redefined organizational identification as a perceptual "perception of oneness" and separated it from commitment, internalization, loyalty, and effort; applied to socialization, role conflict, and intergroup relations; Mael's identification scale became the field standard | 2026-06-29
 - [[parker-vandenbroeck-holman-2017-work-design-influences|Parker, Van den Broeck & Holman (2017)]] — Academy of Management Annals | the antecedents-side companion: work design as a **dependent** variable; multilevel framework (global/national/occupational → organizational → work-group → individual) acting via three mechanisms (direct; via managers' AMO; via employees' AMO); evidence strongest for org factors + national institutions/regimes, weakest for global/cultural/occupational | 2026-06-15
 - [[parker-morgeson-johns-2017-100-years-work-design|Parker, Morgeson & Johns (2017)]] — Journal of Applied Psychology (Centennial) | big-picture map of 100 years of work design; scientific mapping of 5,708 articles → 5 historically-anchored clusters (sociotechnical/AWG, JCM, job demands-control, job demands-resources, role theory); clusters reflect history not topic, so integration is the field's opportunity; JAP = 6.4% of articles but ~19% of citations; impact on academia/economics/epidemiology/HBR/policy; proactive + dynamic + multilevel future agenda | 2026-06-12
 - [[morgeson-humphrey-2006-work-design-questionnaire|Morgeson & Humphrey (2006)]] — Journal of Applied Psychology | development & validation of the WDQ; 107 terms → 18 categories / 21 CFA factors across task/knowledge/social/contextual domains; N=540 incumbents, 243 jobs; avg α ≈ .87; only knowledge characteristics predict training/compensation cost (route around the satisfaction-vs-cost trade-off); social support incrementally predicts satisfaction | 2026-06-12

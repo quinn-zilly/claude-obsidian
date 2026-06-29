@@ -19,6 +19,13 @@ Navigation: [[index]] | [[hot]] | [[overview]]
 
 Append-only. New entries go at the TOP. Never edit past entries.
 
+## [2026-06-29] ingest | Ashforth & Mael (1989): Social Identity Theory and the Organization
+- Source: `.raw/Ashforth and Mael - 1989 - Social Identity Theory and the Organization.md`
+- Summary: [[ashforth-mael-1989-social-identity-theory-organization]]
+- Pages created (10): concepts [[Social Identity Theory]], [[Social Identification]], [[Self-Categorization and Self-Stereotyping]], [[Psychological Group]], [[In-Group Bias and Intergroup Comparison]], [[Minimal Group Paradigm]], [[Routinization of Charisma]]; entities [[Blake E. Ashforth]], [[Fred Mael]]; + 1 source. Addresses c-000734–c-000743.
+- Pages updated: [[Organizational Commitment]] (added identification-vs-commitment contradiction callout), [[Teams & Org Behavior MOC]] (new identity/identification sub-cluster), [[index]].
+- Key insight: Organizational identification = a purely perceptual "perception of oneness," empirically separable (Mael 1988 CFA) from [[Organizational Commitment|commitment]]; the [[Psychological Group]] is more than aggregated interpersonal ties.
+
 ## [2026-06-15] ingest | Parker, Van den Broeck & Holman (2017): Work Design Influences
 - Source: `.raw/Parker et al. - 2017 - Work Design Influences A Synthesis of Multilevel Factors that Affect the Design of Jobs.md`
 - Summary: [[parker-vandenbroeck-holman-2017-work-design-influences]]
