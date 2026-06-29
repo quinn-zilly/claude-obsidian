@@ -50,7 +50,6 @@ These seven design elements are strong predictors of performance, engagement, an
 - Feedback from others
 
 **Hybrid Work**
-- Autonomy
 
 **Goal-Setting**
 
