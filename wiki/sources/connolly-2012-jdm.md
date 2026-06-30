@@ -119,7 +119,7 @@ The unifying frame (Payne, Bettman & Johnson 1993): rule choice is an **effort�
 
 ### From EV to SEU
 
-Expected Value (EV = Σ pᵢxᵢ) is the simplest valuation but a poor descriptive *and* normative guide for single cases. The **St. Petersburg Paradox** (Bernoulli 1738) — a coin-flip game paying $2ⁿ has infinite EV yet most people pay < $4 — drove Bernoulli to **subjective value (utility)**: people value prospects by u(x), not x. von Neumann & Morgenstern (1947) axiomatized **Expected Utility** (EU = Σ pᵢu(xᵢ)); Savage (1954) added **subjective probabilities**, yielding **Subjective Expected Utility (SEU)** = Σ s(pᵢ)u(xᵢ) — the normative standard, extending decision theory from objective-probability gambles to belief-based uncertainty.
+Expected Value (EV = Σ pᵢxᵢ) is the simplest valuation but a poor descriptive *and* normative guide for single cases. The **St. Petersburg Paradox** (Bernoulli 1738) — a coin-flip game paying $2ⁿ has infinite EV yet most people pay < $4 — drove Bernoulli to **subjective value (utility)**: people value prospects by u(x), not x. von Neumann & Morgenstern (1947) axiomatized **Expected Utility** (EU = Σ pᵢu(xᵢ)); Savage (1954) added **subjective probabilities**, yielding **[[Subjective Expected Utility|Subjective Expected Utility (SEU)]]** = Σ s(pᵢ)u(xᵢ) — the normative standard, extending decision theory from objective-probability gambles to belief-based uncertainty.
 
 ### Prospect Theory
 

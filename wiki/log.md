@@ -19,6 +19,11 @@ Navigation: [[index]] | [[hot]] | [[overview]]
 
 Append-only. New entries go at the TOP. Never edit past entries.
 
+## [2026-06-30] concept | Subjective Expected Utility
+- Pages created: [[Subjective Expected Utility]] (address c-000772)
+- Pages updated: [[connolly-2012-jdm]] (relinked SEU mention); [[log]]
+- Key insight: fills the dangling SEU link from the Connolly rewrite; documents the EV→EU→SEU→Prospect Theory arc and the axiom violations (Allais, Ellsberg, transitivity) that drove descriptive successors.
+
 ## [2026-06-30] rewrite | Connolly, Ordóñez & Barker (2012) — Judgment and Decision Making
 - Source: `.raw/Connolly et al. - 2012 - Judgement and Decision Making.md`
 - Page rewritten (deeper): [[connolly-2012-jdm]] — replaced bulleted transcription with synthesized prose: per-section mechanisms, worked examples (drug-test base rate, St. Petersburg, flight-instructor regression), org implications, and cross-cutting themes.
