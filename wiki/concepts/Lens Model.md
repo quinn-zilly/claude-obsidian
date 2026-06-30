@@ -6,8 +6,8 @@ aliases: ["Brunswik lens model", "lens model equation"]
 tags: [concept, jdm, judgment, inference, policy-capturing]
 status: developing
 created: 2026-05-23
-updated: 2026-05-23
-related: ["[[Policy Capturing]]", "[[Judgment and Decision Making (Field)]]", "[[connolly-2012-jdm]]"]
+updated: 2026-06-30
+related: ["[[Policy Capturing]]", "[[Lens Model Equation]]", "[[Bootstrapping (Improper Linear Models)]]", "[[Judgmental Achievement and Consistency]]", "[[Cue Feedback Types]]", "[[Mechanical vs Clinical Prediction]]", "[[Judgment and Decision Making (Field)]]", "[[connolly-2012-jdm]]", "[[karelaia-hogarth-2008-lens-model-meta-analysis]]", "[[kuncel-et-al-2013-mechanical-vs-clinical]]"]
 ---
 
 # Lens Model
@@ -44,7 +44,12 @@ Key generalizations (with caution):
 - Low test-retest reliability
 - Low inter-judge agreement even among experts
 
+## Meta-analytic evidence (Karelaia & Hogarth 2008)
+
+Across 249 task environments, mean $G=.80$, $R_e=.81$, $R_s=.80$, $C=.04$, achievement $r_a=.56$. Linear models capture ~64% of variance in both environments and judgments. See [[Lens Model Equation]] for the decomposition, [[Judgmental Achievement and Consistency]] for the components, [[Cue Feedback Types]] for learning, and [[Bootstrapping (Improper Linear Models)]] for replacing judges with their models. [[kuncel-et-al-2013-mechanical-vs-clinical|Kuncel et al. (2013)]] adopt the lens model as the overarching frame for personnel selection → [[Mechanical vs Clinical Prediction]].
+
 ## Source
 
+- [[karelaia-hogarth-2008-lens-model-meta-analysis]] — 5-decade meta-analysis
 - [[connolly-2012-jdm]] — §Inference Processes
 - Original: Brunswik (1952); Hammond (1955)

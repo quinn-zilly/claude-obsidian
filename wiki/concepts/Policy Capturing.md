@@ -6,8 +6,8 @@ aliases: ["judgment analysis", "policy capturing methodology"]
 tags: [concept, jdm, judgment, methodology, inference]
 status: developing
 created: 2026-05-23
-updated: 2026-05-23
-related: ["[[Lens Model]]", "[[Judgment and Decision Making (Field)]]", "[[connolly-2012-jdm]]"]
+updated: 2026-06-30
+related: ["[[Lens Model]]", "[[Lens Model Equation]]", "[[Bootstrapping (Improper Linear Models)]]", "[[Judgmental Achievement and Consistency]]", "[[Judgment and Decision Making (Field)]]", "[[connolly-2012-jdm]]", "[[karelaia-hogarth-2008-lens-model-meta-analysis]]"]
 ---
 
 # Policy Capturing

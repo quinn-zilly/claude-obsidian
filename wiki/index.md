@@ -294,6 +294,13 @@ Navigation: [[Home MOC]] | [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[
 - [[Applied Basic Psychology]] — two-way science-practice bridge (Baddeley 1979); applied basic + basic applied (evergreen)
 - [[Lens Model]] — Brunswik/Hammond; cue combination model for judgment; representative design requirement (developing)
 - [[Policy Capturing]] — regression model of individual judge; few cues, linear, low reliability; organizational applications (developing)
+- [[Lens Model Equation]] — Tucker 1964 decomposition: $r_a = G R_e R_s + C\sqrt{...}$; basis for meta-analysis (developing)
+- [[Bootstrapping (Improper Linear Models)]] — model of a judge beats the judge by removing inconsistency; $GR_e > r_a$ (developing)
+- [[Judgmental Achievement and Consistency]] — $r_a$ vs $R_s$ (cognitive control); consistency is the lever bootstrapping exploits (developing)
+- [[Cue Feedback Types]] — outcome vs cognitive vs task-information feedback; task-info feedback is most effective (developing)
+- [[Mechanical vs Clinical Prediction]] — formula combination beats holistic by >50% for job performance (Kuncel 2013) (developing)
+- [[General Factor in Job Performance]] — real ~60% construct-level general factor survives halo removal (Viswesvaran 2005) (developing)
+- [[Halo Error]] — idiosyncratic rater impression; inflates within-rater, deflates between-rater correlations (developing)
 - [[Prospect Theory]] — Kahneman & Tversky 1979; reference-point value function; loss aversion; decision weight distortions; dominant descriptive model of risky choice (developing)
 - [[Framing Effects]] — logically equivalent options described differently → different risk preferences; gain vs. loss framing; attribute framing (developing)
 - [[Decision Justification Theory]] — Connolly & Zeelenberg 2002; two-component regret: outcome + process/self-blame; regret priming → better decisions (developing)
@@ -419,6 +426,12 @@ Navigation: [[Home MOC]] | [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[
 
 ## Entities
 
+- [[Robin Hogarth]] — JDM researcher (ICREA/UPF Barcelona); lens model, heuristics vs linear models; co-author Karelaia & Hogarth (2008)
+- [[Natalia Karelaia]] — decision researcher (Lausanne/INSEAD); lens model, decision modeling; co-author Karelaia & Hogarth (2008)
+- [[Chockalingam Viswesvaran]] — I/O psychologist (FIU); job-performance measurement & meta-analysis; lead author Viswesvaran et al. (2005)
+- [[Frank L. Schmidt]] — I/O psychologist (Iowa); co-developed Hunter–Schmidt psychometric meta-analysis / validity generalization
+- [[Deniz S. Ones]] — I/O psychologist (Minnesota); selection & personality; **bridges** Viswesvaran (2005) and Kuncel (2013)
+- [[Nathan R. Kuncel]] — I/O psychologist (Minnesota); selection/admissions validity; lead author Kuncel et al. (2013)
 - [[Joel Lefkowitz]] — I/O psychologist (Baruch/CUNY); ethics & values in applied psychology; proposed the S-P-H model
 - [[American Psychological Association]] — APA; publishes & enforces the Ethics Code; publisher of *American Psychologist*
 - [[Blake E. Ashforth]] — OB scholar (Concordia, 1989); identity, identification, socialization; co-author Ashforth & Mael (1989)
@@ -535,6 +548,9 @@ Navigation: [[Home MOC]] | [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[
 
 ## Sources
 
+- [[karelaia-hogarth-2008-lens-model-meta-analysis|Karelaia & Hogarth (2008)]] — Psychological Bulletin | 5-decade meta-analysis of **lens model** studies (249 environments, ~303k judgments); mean achievement .56, matching .80, consistency .80; three findings — people judge fairly well, learn best from **task-information feedback**, and **bootstrapping** (model of the judge) beats the judge; expertise doesn't raise accuracy | 2026-06-30
+- [[viswesvaran-schmidt-ones-2005-general-factor-job-performance|Viswesvaran, Schmidt & Ones (2005)]] — Journal of Applied Psychology | 90 years of performance-rating intercorrelations; after netting out halo + 3 error sources a **real general factor (~60% of variance)** remains; halo inflates interdimension correlations +33% (supervisor) / +63% (peer); peer & supervisory ratings construct-equivalent | 2026-06-30
+- [[kuncel-et-al-2013-mechanical-vs-clinical|Kuncel, Klieger, Connelly & Ones (2013)]] — Journal of Applied Psychology | meta-analysis (25 samples); **mechanical (formula) data combination beats clinical (holistic) by >50%** for job performance (.44 vs .28), even when experts had more info; framed via the **lens model** ($R_s<1$, $G<1$, $C≈0$) | 2026-06-30
 - [[lefkowitz-2008-values-organizational-psychology|Lefkowitz (2008)]] — Journal of Organizational Behavior | "the fault lies not in our ethics, but in our **values**"; five indictments of I/O psychology's implicit values (humanism→business goals, scientism, amorality, pro-management bias, means-over-ends); proposes the **Scientist-Practitioner-Humanist (S-P-H)** model | 2026-06-29
 - [[apa-2017-ethical-principles-code-of-conduct|APA Ethics Code (2017)]] — American Psychologist (2002, amended 2010/2016) | the governing U.S. psychology ethics code; aspirational Preamble + five General Principles + enforceable Standards (10 sections); preamble mandate to serve "individuals, organizations, and society" | 2026-06-29
 - [[ashforth-mael-1989-social-identity-theory-organization|Ashforth & Mael (1989)]] — Academy of Management Review | imported **Social Identity Theory** into OB; redefined organizational identification as a perceptual "perception of oneness" and separated it from commitment, internalization, loyalty, and effort; applied to socialization, role conflict, and intergroup relations; Mael's identification scale became the field standard | 2026-06-29

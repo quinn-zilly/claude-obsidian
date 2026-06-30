@@ -19,6 +19,22 @@ Navigation: [[index]] | [[hot]] | [[overview]]
 
 Append-only. New entries go at the TOP. Never edit past entries.
 
+## [2026-06-30] rewrite | Connolly, Ordóñez & Barker (2012) — Judgment and Decision Making
+- Source: `.raw/Connolly et al. - 2012 - Judgement and Decision Making.md`
+- Page rewritten (deeper): [[connolly-2012-jdm]] — replaced bulleted transcription with synthesized prose: per-section mechanisms, worked examples (drug-test base rate, St. Petersburg, flight-instructor regression), org implications, and cross-cutting themes.
+- Pages updated: [[connolly-2012-jdm]]; [[log]]
+- Address reused: c-000192 (no new allocation)
+- Key insight: surfaced the chapter's recurring editorial posture (distrust of the "error catalog") and the rare-but-portable debiasing levers (consider-the-opposite, vigilant process, regret salience) that the prior thin page omitted.
+
+## [2026-06-30] batch ingest | Lens model & selection cluster — Karelaia & Hogarth (2008) + Viswesvaran et al. (2005) + Kuncel et al. (2013)
+- Sources: `.raw/Karelaia and Hogarth - 2008 - Determinants of linear judgment...md`; `.raw/Viswesvaran et al. - 2005 - Is there a general factor...md`; `.raw/Kuncel et al. - 2013 - Mechanical versus clinical data combination...md`
+- Summaries: [[karelaia-hogarth-2008-lens-model-meta-analysis]], [[viswesvaran-schmidt-ones-2005-general-factor-job-performance]], [[kuncel-et-al-2013-mechanical-vs-clinical]]
+- Pages created (16): sources ×3; entities [[Robin Hogarth]], [[Natalia Karelaia]], [[Chockalingam Viswesvaran]], [[Frank L. Schmidt]], [[Deniz S. Ones]], [[Nathan R. Kuncel]]; concepts [[Lens Model Equation]], [[Bootstrapping (Improper Linear Models)]], [[Mechanical vs Clinical Prediction]], [[General Factor in Job Performance]], [[Halo Error]], [[Cue Feedback Types]], [[Judgmental Achievement and Consistency]]. Addresses c-000756–c-000771.
+- Pages updated: [[Lens Model]] (added meta-analytic evidence + 6 cross-refs), [[Policy Capturing]], [[index]], [[hot]].
+- Cross-source connections: all three share the **Brunswik lens-model** spine. [[kuncel-et-al-2013-mechanical-vs-clinical|Kuncel (2013)]] cites [[karelaia-hogarth-2008-lens-model-meta-analysis|Karelaia & Hogarth (2008)]] directly for "$C≈0$" (clinical judgment adds no nonlinear edge). [[Deniz S. Ones]] co-authors both IO papers; [[Frank L. Schmidt]]'s psychometric meta-analysis is the shared engine. [[viswesvaran-schmidt-ones-2005-general-factor-job-performance|Viswesvaran (2005)]]'s stable general factor underwrites Kuncel's "performance dimensions don't go stale" rebuttal.
+- Key insight: the unifying thread is **consistency, not knowledge** — human judges roughly know the right cue weights ($G≈.80$) but apply them noisily ($R_s≈.80$); modeling the judge ([[Bootstrapping (Improper Linear Models)|bootstrapping]]) recovers the lost accuracy, which is exactly why mechanical > clinical in selection.
+- NOTE for next lint: minor co-authors David M. Klieger & Brian S. Connelly left as plain text (no entity stubs); JDM concepts remain unclustered — candidate for a future **JDM / Selection MOC**.
+
 ## [2026-06-29] ingest | Lefkowitz (2008) values + APA (2017) Ethics Code
 - Sources: `.raw/Lefkowitz - 2008 - To prosper, organizational psychology should… ...md`; `.raw/American Psychological Association - 2017 - Ethical principles of psychologists and code of conduct.md`
 - Summaries: [[lefkowitz-2008-values-organizational-psychology]], [[apa-2017-ethical-principles-code-of-conduct]]
