@@ -39,6 +39,14 @@ Navigation: [[Home MOC]] | [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[
 
 ## Concepts
 
+- [[Deliberate Practice]] — coach-designed, feedback-driven, effortful training (~4h/day cap); predicts attained level, not raw experience (Ericsson) (developing)
+- [[10-Year Rule]] — ~decade of intense preparation needed for international-level performance in any domain (developing)
+- [[Expert Performance (Ericsson Definition)]] — consistently superior performance on representative tasks, reproducible in the lab; dissociates expertise from experience (developing)
+- [[Skilled Memory Theory]] — experts encode into LTM via retrieval structures; trained digit spans of 82–100+ (Chase & Ericsson) (developing)
+- [[Long-Term Working Memory]] — in-domain expansion of functional working memory; subsumes chunking (Ericsson & Kintsch 1995) (developing)
+- [[Chunking]] — grouping into meaningful units; classic chess account (Chase & Simon) later overturned re: STM storage (developing)
+- [[Talent vs Deliberate Practice]] — nature/nurture of expertise; Ericsson judges innate talent's role "small, possibly negligible" (height excepted) (developing)
+- [[Maximal Adaptation to Task Constraints]] — organizing thesis: expertise = domain-specific adaptations circumventing generic human limits (developing)
 - [[APA Ethics Code]] — governing ethics framework for U.S. psychologists; aspirational principles + enforceable standards (status: developing)
 - [[Five General Principles (APA)]] — Beneficence/Nonmaleficence, Fidelity/Responsibility, Integrity, Justice, Respect (status: developing)
 - [[Aspirational vs Enforceable Standards]] — two-tier structure of the APA Ethics Code (status: developing)
@@ -426,6 +434,11 @@ Navigation: [[Home MOC]] | [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[
 
 ## Entities
 
+- [[K. Anders Ericsson]] — expertise researcher (FSU); originated deliberate-practice framework; skilled memory & LT-WM
+- [[Andreas C. Lehmann]] — music psychologist; expert sight-reading/accompaniment; co-author Ericsson & Lehmann (1996)
+- [[Herbert A. Simon]] — polymath (CMU); Nobel/Turing; bounded rationality; Chase & Simon chess chunking theory
+- [[William G. Chase]] — cognitive psychologist; Chase & Simon chess memory; skilled memory theory with Ericsson
+- [[Adriaan de Groot]] — Dutch psychologist/chess master; *Thought and Choice in Chess* (1946); founding expertise study
 - [[Robin Hogarth]] — JDM researcher (ICREA/UPF Barcelona); lens model, heuristics vs linear models; co-author Karelaia & Hogarth (2008)
 - [[Natalia Karelaia]] — decision researcher (Lausanne/INSEAD); lens model, decision modeling; co-author Karelaia & Hogarth (2008)
 - [[Chockalingam Viswesvaran]] — I/O psychologist (FIU); job-performance measurement & meta-analysis; lead author Viswesvaran et al. (2005)
@@ -548,6 +561,7 @@ Navigation: [[Home MOC]] | [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[
 
 ## Sources
 
+- [[ericsson-lehmann-1996-expert-exceptional-performance|Ericsson & Lehmann (1996)]] — Annual Review of Psychology | Expert performance as **maximal adaptation to task constraints**, acquired via ~10 yrs [[Deliberate Practice|deliberate practice]]; talent "small, possibly negligible"; anticipation, LT-WM & chunking circumvent generic limits | 2026-06-30
 - [[karelaia-hogarth-2008-lens-model-meta-analysis|Karelaia & Hogarth (2008)]] — Psychological Bulletin | 5-decade meta-analysis of **lens model** studies (249 environments, ~303k judgments); mean achievement .56, matching .80, consistency .80; three findings — people judge fairly well, learn best from **task-information feedback**, and **bootstrapping** (model of the judge) beats the judge; expertise doesn't raise accuracy | 2026-06-30
 - [[viswesvaran-schmidt-ones-2005-general-factor-job-performance|Viswesvaran, Schmidt & Ones (2005)]] — Journal of Applied Psychology | 90 years of performance-rating intercorrelations; after netting out halo + 3 error sources a **real general factor (~60% of variance)** remains; halo inflates interdimension correlations +33% (supervisor) / +63% (peer); peer & supervisory ratings construct-equivalent | 2026-06-30
 - [[kuncel-et-al-2013-mechanical-vs-clinical|Kuncel, Klieger, Connelly & Ones (2013)]] — Journal of Applied Psychology | meta-analysis (25 samples); **mechanical (formula) data combination beats clinical (holistic) by >50%** for job performance (.44 vs .28), even when experts had more info; framed via the **lens model** ($R_s<1$, $G<1$, $C≈0$) | 2026-06-30

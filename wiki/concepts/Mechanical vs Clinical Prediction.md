@@ -32,6 +32,9 @@ Mechanical combination consistently wins (Meehl 1954; Sawyer 1966; Grove & Meehl
 
 Job performance: **>50% prediction improvement**, ~25% more correct hires — and these are *underestimates* (no range-restriction or criterion-reliability correction). The mechanical edge held even where experts knew the job and had *more* information than the formula.
 
+> [!tip] Converges with expertise research
+> [[ericsson-lehmann-1996-expert-exceptional-performance|Ericsson & Lehmann (1996)]] reach the same conclusion from cognitive psychology: in judgment domains lacking rapid feedback, the *amount of experience* is poorly related to accuracy, and statistical models combining a few cues match or beat expert prediction (Dawes, Faust & Meehl 1989). Both literatures agree — [[Expert Performance (Ericsson Definition)|experience is not expertise]] absent feedback-rich [[Deliberate Practice|deliberate practice]].
+
 ## Why clinical loses (lens-model account)
 
 Holistic judgment is degraded by inconsistency ($R_s<1$, low [[Judgmental Achievement and Consistency|cognitive control]]) and sub-optimal weighting ($G<1$), without a compensating gain in unique nonlinear insight ($C \approx 0$; [[karelaia-hogarth-2008-lens-model-meta-analysis|Karelaia & Hogarth 2008]]). It's the [[Bootstrapping (Improper Linear Models)|bootstrapping]] result applied to selection.

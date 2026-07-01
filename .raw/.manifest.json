@@ -1698,6 +1698,33 @@
         "wiki/log.md",
         "wiki/hot.md"
       ]
+    },
+    "Ericsson-Lehmann-1996": {
+      "hash": "dcedbc3a27fdde54ca26cc29a507fcc4",
+      "ingested_at": "2026-06-30",
+      "pages_created": [
+        "wiki/sources/ericsson-lehmann-1996-expert-exceptional-performance.md",
+        "wiki/entities/K. Anders Ericsson.md",
+        "wiki/entities/Andreas C. Lehmann.md",
+        "wiki/entities/Herbert A. Simon.md",
+        "wiki/entities/William G. Chase.md",
+        "wiki/entities/Adriaan de Groot.md",
+        "wiki/concepts/Deliberate Practice.md",
+        "wiki/concepts/10-Year Rule.md",
+        "wiki/concepts/Expert Performance (Ericsson Definition).md",
+        "wiki/concepts/Skilled Memory Theory.md",
+        "wiki/concepts/Long-Term Working Memory.md",
+        "wiki/concepts/Chunking.md",
+        "wiki/concepts/Talent vs Deliberate Practice.md",
+        "wiki/concepts/Maximal Adaptation to Task Constraints.md"
+      ],
+      "pages_updated": [
+        "wiki/mocs/Learning & Development MOC.md",
+        "wiki/concepts/Mechanical vs Clinical Prediction.md",
+        "wiki/index.md",
+        "wiki/log.md",
+        "wiki/hot.md"
+      ]
     }
   },
   "address_map": {
@@ -2369,7 +2396,21 @@
     "wiki/concepts/Halo Error.md": "c-000769",
     "wiki/concepts/Cue Feedback Types.md": "c-000770",
     "wiki/concepts/Judgmental Achievement and Consistency.md": "c-000771",
-    "wiki/concepts/Subjective Expected Utility.md": "c-000772"
+    "wiki/concepts/Subjective Expected Utility.md": "c-000772",
+    "wiki/sources/ericsson-lehmann-1996-expert-exceptional-performance.md": "c-000773",
+    "wiki/entities/K. Anders Ericsson.md": "c-000774",
+    "wiki/entities/Andreas C. Lehmann.md": "c-000775",
+    "wiki/entities/Herbert A. Simon.md": "c-000776",
+    "wiki/entities/William G. Chase.md": "c-000777",
+    "wiki/entities/Adriaan de Groot.md": "c-000778",
+    "wiki/concepts/Deliberate Practice.md": "c-000779",
+    "wiki/concepts/10-Year Rule.md": "c-000780",
+    "wiki/concepts/Expert Performance (Ericsson Definition).md": "c-000781",
+    "wiki/concepts/Skilled Memory Theory.md": "c-000782",
+    "wiki/concepts/Long-Term Working Memory.md": "c-000783",
+    "wiki/concepts/Chunking.md": "c-000784",
+    "wiki/concepts/Talent vs Deliberate Practice.md": "c-000785",
+    "wiki/concepts/Maximal Adaptation to Task Constraints.md": "c-000786"
   },
   ".raw/Pearsall et al. - 2025 - A stimulus-based model of the team adaptation process An integrated conceptual review..pdf": {
     "hash": "62f683006d3323a67c67fc23621f632a",

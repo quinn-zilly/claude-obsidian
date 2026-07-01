@@ -19,6 +19,13 @@ Navigation: [[index]] | [[hot]] | [[overview]]
 
 Append-only. New entries go at the TOP. Never edit past entries.
 
+## [2026-06-30] ingest | Ericsson & Lehmann (1996) — Expert and Exceptional Performance
+- Source: `.raw/Ericsson and Lehmann - 1996 - EXPERT AND EXCEPTIONAL PERFORMANCE Evidence of Maximal Adaptation to Task Constraints.md`
+- Summary: [[ericsson-lehmann-1996-expert-exceptional-performance]]
+- Pages created: [[K. Anders Ericsson]], [[Andreas C. Lehmann]], [[Herbert A. Simon]], [[William G. Chase]], [[Adriaan de Groot]], [[Deliberate Practice]], [[10-Year Rule]], [[Expert Performance (Ericsson Definition)]], [[Skilled Memory Theory]], [[Long-Term Working Memory]], [[Chunking]], [[Talent vs Deliberate Practice]], [[Maximal Adaptation to Task Constraints]] (c-000773–786)
+- Pages updated: [[Learning & Development MOC]] (new expertise/deliberate-practice section), [[Mechanical vs Clinical Prediction]] (convergence callout), [[index]]
+- Key insight: Expert performance = **acquired maximal adaptation to task constraints** via ~10 yrs deliberate practice; innate talent "small, possibly negligible" (height excepted). Converges with the JDM/lens-model cluster — experience ≠ valid judgment without feedback-rich practice.
+
 ## [2026-06-30] concept | Subjective Expected Utility
 - Pages created: [[Subjective Expected Utility]] (address c-000772)
 - Pages updated: [[connolly-2012-jdm]] (relinked SEU mention); [[log]]

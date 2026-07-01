@@ -32,6 +32,18 @@ This cluster maps how people learn, how training works (and transfers), and how 
 - [[Self-Directed Learning]]
 - [[Active Learning (Training)]]
 
+## Expertise & deliberate practice
+
+- [[Expert Performance (Ericsson Definition)]]
+- [[Deliberate Practice]]
+- [[10-Year Rule]]
+- [[Talent vs Deliberate Practice]]
+- [[Maximal Adaptation to Task Constraints]]
+- [[Skilled Memory Theory]]
+- [[Long-Term Working Memory]]
+- [[Chunking]]
+- [[ericsson-lehmann-1996-expert-exceptional-performance|Ericsson & Lehmann (1996)]]
+
 ## Training design & evaluation
 
 - [[Training Transfer]]
