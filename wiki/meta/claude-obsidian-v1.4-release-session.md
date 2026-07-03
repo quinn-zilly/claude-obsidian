@@ -10,7 +10,7 @@ tags:
   - audit-response
 status: evergreen
 related:
-  - "[[claude-obsidian-ecosystem]]"
+  - "[[claude-obsidian-ecosystem-research]]"
   - "[[cherry-picks]]"
   - "[[full-audit-and-system-setup-session]]"
   - "[[claude-obsidian-v1.2.0-release-session]]"
@@ -33,7 +33,7 @@ A complete release cycle covering v1.1, v1.4.0, and v1.4.1. Includes ecosystem r
 
 ## v1.1: First Feature Release of This Session
 
-Shipped in response to an internal quality check against the wider ecosystem (16+ Claude plus Obsidian projects researched, filed in [[claude-obsidian-ecosystem]]). The highest-value features from competing implementations were cherry-picked and shipped as v1.1.
+Shipped in response to an internal quality check against the wider ecosystem (16+ Claude plus Obsidian projects researched, filed in [[claude-obsidian-ecosystem-research]]). The highest-value features from competing implementations were cherry-picked and shipped as v1.1.
 
 ### New skills (Agent Skills spec compliant)
 

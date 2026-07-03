@@ -1,12 +1,18 @@
 ---
 type: comps outline
-address:
+address: c-000821
 title: Domain 24 - Motivation - Survey Design
 tags:
-status:
-updated: 2026-06-15
+  - motivation
+  - work-motivation
+  - comps
+status: developing
+updated: 2026-07-03
 created: 2026-06-15
 related:
+  - "[[Goal-Setting Theory]]"
+  - "[[Goal Orientation]]"
+  - "[[Domain 24 - Motivation - Work Design]]"
 ---
 # Question
 

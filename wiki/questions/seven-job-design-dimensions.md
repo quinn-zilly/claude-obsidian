@@ -1,5 +1,6 @@
 ---
 type: question
+address: c-000823
 title: "Seven Job-Design Dimensions That Predict Performance and Engagement"
 question: "Based on theory and research, what are 7 job design dimensions that predict performance and employee engagement/satisfaction? Given an example job, how would you build these elements into the job?"
 answer_quality: solid
@@ -16,6 +17,7 @@ related:
   - "[[Relational Job Design]]"
   - "[[Interdisciplinary Model of Job Design]]"
   - "[[Work Design (Concept)]]"
+  - "[[Domain 24 - Motivation - Work Design]]"
 sources:
   - "[[wiki/sources/humphrey-nahrgang-morgeson-2007-work-design-meta-analysis]]"
   - "[[wiki/sources/morgeson-humphrey-2006-work-design-questionnaire]]"

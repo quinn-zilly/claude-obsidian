@@ -60,6 +60,7 @@ Four approaches (Buller & Bell 1986):
 Theoretically based instructional processes targeting team KSAs; used both *prior to* and *during* performance. Prepares teams before they break down.
 
 Four strategies (Table 4):
+
 | Strategy | Purpose | Targets |
 |---|---|---|
 | Cross-training | Learn teammates' duties | Shared knowledge, mutual monitoring, backup |

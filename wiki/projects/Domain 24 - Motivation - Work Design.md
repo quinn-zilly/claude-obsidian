@@ -1,19 +1,21 @@
 ---
 type: comps outline
-address:
+address: c-000822
 title: Domain 24 - Motivation - Work Design
 tags:
   - motivation
   - work-motivation
   - work-design
   - job-design
-status:
-updated: 2026-06-15
+  - comps
+status: developing
+updated: 2026-07-03
 created: 2026-06-15
 related:
   - "[[seven-job-design-dimensions]]"
   - "[[Work Design (Concept)]]"
   - "[[Job Characteristics Model|JCM]]"
+  - "[[Domain 24 - Motivation - Survey Design]]"
 ---
 # Question
 
