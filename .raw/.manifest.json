@@ -1745,6 +1745,62 @@
         "wiki/hot.md",
         "wiki/sources/_index.md"
       ]
+    },
+    ".raw/Mathieu et al. - 2017 - A century of work teams in the Journal of Applied Psychology..md": {
+      "hash": "f4810a01fd58113a5dbf520670a04a9f",
+      "ingested_at": "2026-07-03",
+      "pages_created": [
+        "wiki/sources/mathieu-et-al-2017-century-work-teams.md",
+        "wiki/concepts/IPO–IMOI Framework.md",
+        "wiki/concepts/Team Effectiveness Criteria.md",
+        "wiki/entities/John E. Mathieu.md",
+        "wiki/entities/John R. Hollenbeck.md",
+        "wiki/entities/Daan van Knippenberg.md",
+        "wiki/entities/Daniel R. Ilgen.md"
+      ],
+      "pages_updated": [
+        "wiki/index.md",
+        "wiki/log.md",
+        "wiki/hot.md",
+        "wiki/mocs/Teams & Org Behavior MOC.md"
+      ]
+    },
+    ".raw/Wageman et al. - 2005 - Team Diagnostic Survey Development of an Instrume.md": {
+      "hash": "a79cfcaf986e68f795d1813c0bcdd27d",
+      "ingested_at": "2026-07-03",
+      "pages_created": [
+        "wiki/sources/wageman-hackman-lehman-2005-team-diagnostic-survey.md",
+        "wiki/concepts/Team Diagnostic Survey.md",
+        "wiki/concepts/Enabling Conditions for Team Effectiveness.md",
+        "wiki/entities/Ruth Wageman.md",
+        "wiki/entities/Erin Lehman.md"
+      ],
+      "pages_updated": [
+        "wiki/index.md",
+        "wiki/log.md",
+        "wiki/hot.md",
+        "wiki/mocs/Teams & Org Behavior MOC.md"
+      ]
+    },
+    ".raw/Burke et al. - 2006 - Understanding team adaptation A conceptual analysis and model..md": {
+      "hash": "b87871c4fe997e871cf326f8f07fa67b",
+      "ingested_at": "2026-07-03",
+      "pages_created": [
+        "wiki/sources/burke-et-al-2006-team-adaptation.md",
+        "wiki/concepts/Team Adaptation (Burke Cross-Level Model).md",
+        "wiki/concepts/Adaptive Team Performance.md",
+        "wiki/concepts/Team Situation Awareness.md",
+        "wiki/concepts/Adaptive Coordination Behaviors.md",
+        "wiki/entities/Kevin C. Stagl.md",
+        "wiki/entities/Linda Pierce.md",
+        "wiki/entities/Dana Kendall.md"
+      ],
+      "pages_updated": [
+        "wiki/index.md",
+        "wiki/log.md",
+        "wiki/hot.md",
+        "wiki/mocs/Teams & Org Behavior MOC.md"
+      ]
     }
   },
   "address_map": {
@@ -2436,7 +2492,27 @@
     "wiki/concepts/ABCs of Teamwork Competencies.md": "c-000791",
     "wiki/entities/Michael A. Rosen.md": "c-000792",
     "wiki/entities/C. Shawn Burke.md": "c-000793",
-    "wiki/entities/Gerald F. Goodwin.md": "c-000794"
+    "wiki/entities/Gerald F. Goodwin.md": "c-000794",
+    "wiki/sources/burke-et-al-2006-team-adaptation.md": "c-000795",
+    "wiki/sources/wageman-hackman-lehman-2005-team-diagnostic-survey.md": "c-000796",
+    "wiki/sources/mathieu-et-al-2017-century-work-teams.md": "c-000797",
+    "wiki/concepts/Team Adaptation (Burke Cross-Level Model).md": "c-000798",
+    "wiki/concepts/Adaptive Team Performance.md": "c-000799",
+    "wiki/concepts/Team Situation Awareness.md": "c-000800",
+    "wiki/concepts/Adaptive Coordination Behaviors.md": "c-000801",
+    "wiki/concepts/Team Diagnostic Survey.md": "c-000802",
+    "wiki/concepts/Enabling Conditions for Team Effectiveness.md": "c-000803",
+    "wiki/concepts/Team Effectiveness Criteria.md": "c-000804",
+    "wiki/concepts/IPO–IMOI Framework.md": "c-000805",
+    "wiki/entities/John E. Mathieu.md": "c-000806",
+    "wiki/entities/John R. Hollenbeck.md": "c-000807",
+    "wiki/entities/Daan van Knippenberg.md": "c-000808",
+    "wiki/entities/Daniel R. Ilgen.md": "c-000809",
+    "wiki/entities/Ruth Wageman.md": "c-000810",
+    "wiki/entities/Erin Lehman.md": "c-000811",
+    "wiki/entities/Kevin C. Stagl.md": "c-000812",
+    "wiki/entities/Linda Pierce.md": "c-000813",
+    "wiki/entities/Dana Kendall.md": "c-000814"
   },
   ".raw/Pearsall et al. - 2025 - A stimulus-based model of the team adaptation process An integrated conceptual review..pdf": {
     "hash": "62f683006d3323a67c67fc23621f632a",

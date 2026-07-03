@@ -19,6 +19,13 @@ Navigation: [[index]] | [[hot]] | [[overview]]
 
 Append-only. New entries go at the TOP. Never edit past entries.
 
+## [2026-07-03] batch ingest | Three foundational team papers (Mathieu 2017, Wageman 2005, Burke 2006)
+- Sources: `.raw/Mathieu et al. - 2017 - A century of work teams...md`, `.raw/Wageman et al. - 2005 - Team Diagnostic Survey...md`, `.raw/Burke et al. - 2006 - Understanding team adaptation...md`
+- Summaries: [[mathieu-et-al-2017-century-work-teams]], [[wageman-hackman-lehman-2005-team-diagnostic-survey]], [[burke-et-al-2006-team-adaptation]]
+- Pages created (20; c-000795–814): sources ×3; concepts [[Team Adaptation (Burke Cross-Level Model)]], [[Adaptive Team Performance]], [[Team Situation Awareness]], [[Adaptive Coordination Behaviors]], [[Team Diagnostic Survey]], [[Enabling Conditions for Team Effectiveness]], [[Team Effectiveness Criteria]], [[IPO–IMOI Framework]]; entities [[John E. Mathieu]], [[John R. Hollenbeck]], [[Daan van Knippenberg]], [[Daniel R. Ilgen]], [[Ruth Wageman]], [[Erin Lehman]], [[Kevin C. Stagl]], [[Linda Pierce]], [[Dana Kendall]]
+- Pages updated: [[J. Richard Hackman]], [[Eduardo Salas]], [[C. Shawn Burke]], [[Teams & Org Behavior MOC]], [[index]], [[hot]]
+- Key insight: The three anchor a **team effectiveness + adaptation** spine — Mathieu et al. give the century-long IPO→IMOI arc and the tasks/composition/processes construct map; Wageman et al. operationalize Hackman's five enabling conditions in the TDS; Burke et al. give the classic four-phase adaptive cycle. Burke (2006) is the seminal predecessor the existing [[Team Adaptation (Stimulus-Based Model)|Pearsall et al. (2025)]] model revises — flagged as a contradiction/lineage link.
+
 ## [2026-07-03] ingest | The Wisdom of Collectives in Organizations (Salas, Rosen, Burke & Goodwin, 2009)
 - Source: `.raw/Salas et al. - 2009 - The Wisdom of Collectives in Organizations An Update of the Teamwork Competencies.md`
 - Summary: [[salas-et-al-2009-wisdom-of-collectives]]

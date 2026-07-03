@@ -10,7 +10,7 @@ related:
   - "[[Learning & Development MOC]]"
   - "[[Institutional & Strategy MOC]]"
 status: developing
-updated: 2026-06-29
+updated: 2026-07-03
 ---
 
 # Teams & Organizational Behavior — Map of Content
@@ -23,13 +23,27 @@ This cluster maps how groups in organizations adapt, coordinate, remember, and l
 
 ## Core notes
 
+- [[mathieu-et-al-2017-century-work-teams|Mathieu, Hollenbeck, van Knippenberg & Ilgen (2017): A Century of Work Teams in JAP]] — the centennial review
+- [[IPO–IMOI Framework]] — the field's organizing meta-framework and its evolution
+- [[Team Effectiveness Criteria]]
 - [[Team Adaptation (Stimulus-Based Model)]]
 - [[pearsall-christian-croitoru-2025-team-adaptation|A Stimulus-Based Model of the Team Adaptation Process: An Integrated Conceptual Review]]
+- [[Team Adaptation (Burke Cross-Level Model)]] — the classic four-phase adaptive cycle (predecessor to the stimulus-based model)
+- [[burke-et-al-2006-team-adaptation|Burke, Stagl, Salas, Pierce & Kendall (2006): Understanding Team Adaptation]]
+- [[Adaptive Team Performance]]
+- [[Team Situation Awareness]]
+- [[Adaptive Coordination Behaviors]]
 - [[Stimulus Detection (Team Adaptation)]]
 - [[Duration Assessment (Team Adaptation)]]
 - [[Knowledge and Skill Acquisition (Team Adaptation)]]
 - [[Reflexive Learning (Team Adaptation)]]
 - [[Emergent States (Teams)]]
+
+### Team effectiveness & measurement sub-cluster
+
+- [[Enabling Conditions for Team Effectiveness]] — Hackman's five conditions
+- [[Team Diagnostic Survey]] — the TDS instrument
+- [[wageman-hackman-lehman-2005-team-diagnostic-survey|Wageman, Hackman & Lehman (2005): Team Diagnostic Survey — Development of an Instrument]]
 - [[Transactive Memory Systems]]
 - [[ren-argote-2011-tms|Transactive Memory Systems 1985–2010: An Integrative Framework]]
 - [[Teamwork Processes (Marks et al. Taxonomy)]]

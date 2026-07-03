@@ -159,6 +159,14 @@ Navigation: [[Home MOC]] | [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[
 - [[Big Five of Teamwork]] — Salas, Sims & Burke (2005): 5 components (leadership, adaptability, mutual performance monitoring, backup, team orientation) + 3 coordinating mechanisms (shared mental models, closed-loop communication, mutual trust); accuracy > sharedness (developing)
 - [[ABCs of Teamwork Competencies]] — Attitudes/Behaviors/Cognitions (KSAOs) taxonomy; Cannon-Bowers et al. 1995, updated w/ empirical-support ratings by Salas et al. 2009 (developing)
 - [[Emergent States (Teams)]] — cohesion, potency, TMS; both antecedents and outcomes of processes; IMOI model (developing)
+- [[IPO–IMOI Framework]] — McGrath's Input–Process–Output → Ilgen et al. (2005) Input–Mediator–Output–Input; mediators = processes + emergent states; feedback loop (developing)
+- [[Team Effectiveness Criteria]] — Hackman's 3-dimensional conception (client output, future capability, member well-being) + Mathieu et al.'s multiple-constituencies view (developing)
+- [[Enabling Conditions for Team Effectiveness]] — Hackman's five: real team, compelling direction, enabling structure, supportive context, expert coaching (developing)
+- [[Team Diagnostic Survey]] — Wageman, Hackman & Lehman (2005) instrument bridging research + practical diagnosis; 2,474 members / 321 teams (developing)
+- [[Team Adaptation (Burke Cross-Level Model)]] — Burke et al. (2006) four-phase adaptive cycle (situation assessment → plan formulation → plan execution → team learning); classic predecessor to the stimulus-based model (developing)
+- [[Adaptive Team Performance]] — emergent phenomenon compiling over time from the recursive adaptive cycle; performance-as-action; composition vs compilation (developing)
+- [[Team Situation Awareness]] — shared understanding of the current situation; Endsley's 3 levels (perception → comprehension → projection); emergent cognitive state (developing)
+- [[Adaptive Coordination Behaviors]] — plan-execution behaviors: mutual performance monitoring, backup behavior, communication, leadership, coordination; legitimacy of backup matters (developing)
 - [[Team Development Interventions]] — team building vs. team training; distinct targets, mechanisms, and outcome profiles; science-based design required (mature)
 - [[Team Building]] — four approaches: goal setting, interpersonal relationships, role clarification, problem solving; best for affect/process outcomes (mature)
 - [[Team Training]] — cross-training, self-correction, coordination, CRM; best for cognitive/performance outcomes (mature)
@@ -444,6 +452,15 @@ Navigation: [[Home MOC]] | [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[
 - [[Michael A. Rosen]] — teams / team cognition / expert-team performance researcher; Salas collaborator (patient safety, Johns Hopkins)
 - [[C. Shawn Burke]] — team-adaptation & shared-leadership researcher (UCF IST); co-author of the Big Five of Teamwork
 - [[Gerald F. Goodwin]] — team-performance researcher (U.S. Army Research Institute); co-editor *Team Effectiveness in Complex Organizations*
+- [[John E. Mathieu]] — teams & multilevel-methods scholar (UConn); lead author of the 2017 JAP centennial team review; Marks, Mathieu & Zaccaro (2001)
+- [[John R. Hollenbeck]] — teams researcher (Michigan State); team structure via skill & authority differentiation
+- [[Daan van Knippenberg]] — OB scholar (Erasmus/Drexel); team diversity, leadership, creativity
+- [[Daniel R. Ilgen]] — teams & motivation scholar (Michigan State); co-originator of the IMOI framework
+- [[Ruth Wageman]] — team-design & leadership scholar (Dartmouth); lead author of the Team Diagnostic Survey; Hackman collaborator
+- [[Erin Lehman]] — team-building & organizational-effectiveness researcher; TDS co-author
+- [[Kevin C. Stagl]] — teams researcher (UCF IST); Salas collaborator on team adaptation & leadership
+- [[Linda Pierce]] — team-performance researcher (U.S. Army Research Laboratory); human-factors / military contexts
+- [[Dana Kendall]] — teams researcher (UCF); contributor to team-adaptation theory
 - [[Robin Hogarth]] — JDM researcher (ICREA/UPF Barcelona); lens model, heuristics vs linear models; co-author Karelaia & Hogarth (2008)
 - [[Natalia Karelaia]] — decision researcher (Lausanne/INSEAD); lens model, decision modeling; co-author Karelaia & Hogarth (2008)
 - [[Chockalingam Viswesvaran]] — I/O psychologist (FIU); job-performance measurement & meta-analysis; lead author Viswesvaran et al. (2005)
@@ -566,6 +583,9 @@ Navigation: [[Home MOC]] | [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[
 
 ## Sources
 
+- [[mathieu-et-al-2017-century-work-teams|Mathieu, Hollenbeck, van Knippenberg & Ilgen (2017)]] — Journal of Applied Psychology (Centennial) | a century of work teams in JAP: shift from individuals-within-teams to the team itself and multiteam systems; three substantive themes (tasks/structure, composition, processes/emergent states); task scope × complexity; skill & authority differentiation; **IPO → IMOI** evolution; multiple-constituencies effectiveness | 2026-07-03
+- [[wageman-hackman-lehman-2005-team-diagnostic-survey|Wageman, Hackman & Lehman (2005)]] — The Journal of Applied Behavioral Science | development of the **Team Diagnostic Survey**, bridging research rigor and practical diagnosis; Hackman's five **enabling conditions** + three-dimensional effectiveness + three process criteria; 2,474 members / 321 teams; Spearman-Brown group-level reliability | 2026-07-03
+- [[burke-et-al-2006-team-adaptation|Burke, Stagl, Salas, Pierce & Kendall (2006)]] — Journal of Applied Psychology | multilevel, multiphasic model of **team adaptation**: four-phase adaptive cycle (situation assessment → plan formulation → plan execution → team learning) producing adaptive team performance; emergent states (shared mental models, team situation awareness, psychological safety); classic predecessor to the stimulus-based model | 2026-07-03
 - [[salas-et-al-2009-wisdom-of-collectives|Salas, Rosen, Burke & Goodwin (2009)]] — *Team Effectiveness in Complex Organizations*, ch. 3 | updates the **teamwork competencies** (ABCs) from Cannon-Bowers et al. 1995 with empirical-support ratings; synthesizes the **Big Five of Teamwork**; frames effective teams as an emergent "wisdom of collectives"; IPO→IMOI and time in teamwork | 2026-07-03
 - [[ericsson-lehmann-1996-expert-exceptional-performance|Ericsson & Lehmann (1996)]] — Annual Review of Psychology | Expert performance as **maximal adaptation to task constraints**, acquired via ~10 yrs [[Deliberate Practice|deliberate practice]]; talent "small, possibly negligible"; anticipation, LT-WM & chunking circumvent generic limits | 2026-06-30
 - [[karelaia-hogarth-2008-lens-model-meta-analysis|Karelaia & Hogarth (2008)]] — Psychological Bulletin | 5-decade meta-analysis of **lens model** studies (249 environments, ~303k judgments); mean achievement .56, matching .80, consistency .80; three findings — people judge fairly well, learn best from **task-information feedback**, and **bootstrapping** (model of the judge) beats the judge; expertise doesn't raise accuracy | 2026-06-30

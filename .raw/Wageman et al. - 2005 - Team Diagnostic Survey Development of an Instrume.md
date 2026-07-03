@@ -1,0 +1,1146 @@
+## Page 1
+
+1TW0Ha.A1gE1eR J7mTO7aI/UCn0 R0Le2EtN 1aA8l.8L /6 TO30EF5A A2M8P1P 9DL8II4AEGDN BOESHTAICV ISOURRAVLE SYCIENCEDecember 2005
+Team Diagnostic Survey
+Development of an Instrument
+Ruth Wageman
+Dartmouth College
+J. Richard Hackman
+Harvard University
+Erin Lehman
+Boston Adventures
+ThisarticledescribesthedevelopmentoftheTeamDiagnosticSurvey(TDS),aninstru-
+mentintendedforusebothforthediagnosisofthestrengthsandweaknessesofwork
+teamsandforresearchonteambehaviorandperformance.TheTDSisbasedexplicitly
+onexistingresearchandtheoryabouttheconditionsthatfosterteameffectiveness.Itpro-
+videsanassessmentofhowwellateamisstructured,supported,andledaswellasseveral
+indicatorsofmembers’workprocessesandtheiraffectivereactionstotheteamandits
+work.ThepsychometricpropertiesoftheTDSaresatisfactory,basedonanalysesofdata
+from2,474membersof321teamsinadiversityoforganizations.Appropriateusesofthe
+instrument are discussed.
+Keywords: team diagnosis; team assessment; team design; team effectiveness
+R
+esearcherswhoseektoproducebasicknowledgeaboutorganizationalworkteams
+thatalsocanbeusedtohelpteamsperformwellfaceseeminglycontradictorymea-
+SupportfortheresearchreportedherewasprovidedbytheCenterforPublicLeadershipatHarvardUniver-
+sity’sKennedySchoolofGovernmentandbytheMITRECorporation.Wegratefullyacknowledgetheassis-
+tanceofnumerouscolleaguesinobtainingaccesstotheteamsstudiedandtoMichaelO’ConnorandtheHay
+Group for assistance in data collection.
+THE JOURNAL OF APPLIED BEHAVIORAL SCIENCE, Vol. 41 No. 4, December 2005 373-398
+DOI:10.1177/0021886305281984
+© 2005 NTL Institute
+373
+
+## Page 2
+
+374 THE JOURNAL OF APPLIED BEHAVIORAL SCIENCE December 2005
+surement imperatives. The production of generalizable knowledge requires instru-
+ments that generate measures of team-relevant concepts that are both specific to
+research purposes and psychometrically sound (i.e., the measures are highly reli-
+ableandexhibitbothconvergentanddiscriminantvalidity).Bycontrast,instruments
+intended for use in helping teams perform better must focus on variables that are
+knowntoaffectperformance,canbemanipulated,andareapplicableacrossavariety
+of teamtypes and settingsso thatnorms can be developed for use ininterpreting a
+team’s scores.
+Numerousinstrumentsexistthatmeeteitheroneortheotheroftheseaspirations.
+Thereare,forexample,literallydozensofconsultant-developedinstrumentsavailable
+for the diagnostic assessment of team dynamics (typical online examples include
+CorneliusAssociates,2004;Lefton&Buzzotta,2005;LinkageAssessmentServices,
+2004; Reliable Surveys Online, 2005; and Parker’s [1998] print compilation of 25
+suchtools).Typically,theseinstrumentsaskmemberstoassesstheirteamsonthose
+dimensions that their developers assume to be most consequential for performance
+andmostamenabletoimprovementthroughconsultativeintervention.Instrumentsof
+thistypegenerallyhavehighfacevalidityandgeneratefeedbackandnormativecom-
+parisonsthatteamsandtheirleadersfindinterestingandinformative.However,their
+contenttendstobebasedmoreontheobservationsandinferencesofpractitionersthan
+onestablishedresearchandtheory,andthefactorstheyassessarenotnecessarilythose
+thatactuallyaremostconsequentialforperformance. Moreover,empiricalfindings
+obtained using such instruments are rarely reported in the research literature; as a
+consequence, they add little to basic knowledge about organizational work teams.
+Bycontrast,scholar-developedmeasuresofteamattributesanddynamicsabound
+in the research literature. Unlike consultant-developed instruments, such measures
+focusexclusivelyonthosevariablesthatareofresearchinteresttothescholarswho
+devisethem;otherfactorsthatmightbeusefulingeneratingarobustteamdiagnosis
+arenotassessed.Becausescholarlyresearchrequiresthatmeasuresbehighlyreliable,
+scalestendtobelengthyandcantakeconsiderabletimeforrespondentstocomplete.
+Moreover, scholars who study teams also desire measures that simultaneously are
+appropriatetothespecificteamsororganizationswheredatawillbecollectedandthat
+generatedatacomparabletothatcollectedinrelatedresearch.Onecommonwayof
+seekingtoachievebothgoalsistodrawsomeitemsfromexistingmeasuresbutalsoto
+tailororadditemstomakethemmorecontextspecific.Suchrevisionsunfortunately
+result in several different measures of essentially the same concept.
+RuthWagemanisanassociateprofessorofbusinessadministrationattheAmosTuckSchoolofBusiness,
+DartmouthCollege.Herresearchfocusesonidentifyingtheorganizational,group,andindividualfactors
+thatinfluencetheeffectivenessoftask-performingteams;theusesandmisusesofpowerinteams;theante-
+cedents and consequences of interdependence; and the theory and practice of leadership development.
+J.RichardHackmanisEdgarPierceProfessorofSocialandOrganizationalPsychologyatHarvardUniver-
+sity.Hisresearchinterestsincludeteamdynamics,leadershipeffectiveness,andthedesignofself-managing
+social systems.
+ErinLehmanisthechiefoperatingofficerofBostonAdventures,anorganizationspecializingincorporate
+teambuildingprograms.Shehasdevelopedexecutiveeducationprogramsandconductedresearchforthe
+HauserCenterforNonprofitOrganizationsandtheCenterforPublicLeadershipattheJohnF.Kennedy
+School of Government and with the Careers Research Initiative at London Business School.
+
+## Page 3
+
+Wageman et al. / TEAM DIAGNOSTIC SURVEY 375
+Measures of team task interdependence illustrate. Mohr (1971) and Pearce and
+Gregersen (1991) each generated measures of team task interdependence using a
+multi-itemLikert-typescale.However,whentheseexistingmeasuresdonotrobustly
+capturethecooperationdemandsofaparticularteamtask,researcherscreaterevised
+scalesthataremorecontextspecific(see,e.g.,Campion,Medsker,&Higgs,1993;Van
+derVegt,Emans,&VandeVliert,2000,2001).Theneteffectofsuchchoicesisthat
+thereisnostandardmeasureoftheconcept—andthereforenopossibilityofdevelop-
+ingnormsthatwouldaidinestablishingtherelativetaskinterdependenceofagiven
+team.Foralltheaforementionedreasons,scholar-developedmeasuresofteamattrib-
+utesgenerallyareoflimiteduseforteamdiagnosisorasguidesforconsultativeinter-
+ventions outside the context in which they are developed.
+TheTeamDiagnosticSurvey(TDS)isaninstrumentforassessingthepropertiesof
+organizational work teams that has been specifically designed to be useful both in
+scholarly research on teams and in the practical diagnosis of teams’strengths and
+weaknesses. The TDS is explicitly based on a conceptual model of the factors that
+researchhasshowntobemostconsequentialforteameffectiveness.Itisshortenough
+tobecompletedbyteammembersfluentinEnglishin20minutesorless.Itscontents
+werepretestedusingawidevarietyofteamsinarangeoforganizationalsettings,soit
+canbeusedtoassessanytypeofworkteamthatoperatesinanorganizationalcontext.
+Itallowsforthedevelopmentofnormsfordifferenttypesofteamsandorganizations.
+Itgeneratesadiagnosticprofileofateamthatcanhelpteammembersandleaderslearn
+abouttheconditionsthatfosterteameffectivenessevenastheyexplorethestandingof
+theirownteamonthosefactors.Andfinally,theinstrument’spsychometricproper-
+tiesare strong enough for itto be used in scholarly research on team behavior and
+performance.
+WedescribeinthisarticletheconceptualmodelonwhichtheTDSisbased,provide
+aconcretedescriptionoftheinstrument,reportitspsychometricpropertiesandpre-
+liminarydataaboutitsconstructvalidity,anddiscussitsusebothasatoolfortheprac-
+ticaldiagnosisoftask-performingteamsandinscholarlyandevaluationresearchon
+team performance.
+CONCEPTUAL BASIS OF THE INSTRUMENT
+TheTDSwasdesignedtoassesstheconceptsinthemodelofteameffectiveness
+proposedbyHackmanandhiscolleagues(Hackman,1987,1990,2002;Hackman&
+Wageman,2005).Thatmodelisunconventionalinthatitdoesnotpositspecificcausal
+factors that are linked directly (or through mediating variables) to their intended
+effects.Neitherdoesitidentifyfactorsthatmoderatethesizeordirectionofspecific
+input-outputrelations.Instead,workteamsareviewedassemiautonomoussocialsys-
+temsthatevolve—overtime,intheirownidiosyncraticways,andininteractionwith
+theirorganizationalcontexts—intoperformingunitsthatvaryineffectiveness.Aswill
+beseen,themodelidentifiesfiveconditionsthatwhenpresentincreasethelikelihood
+(butdonotguarantee)thatateamwillperformwell.TheTDSprovidesmeasuresof
+theseenablingconditions.Inaddition,itassessestheeffectivenessofteamtaskpro-
+
+## Page 4
+
+376 THE JOURNAL OF APPLIED BEHAVIORAL SCIENCE December 2005
+cesses,thequalityofmembers’workrelationships,andindividuals’motivationand
+satisfaction.Wedescribethetheoreticalbasisforallthesemeasuresinthepagesthat
+follow.
+Criteria of Team Effectiveness
+Criterion measures in research on team performance often consist of whatever
+quantitativeindicatorsashappentobeavailableorconvenienttoobtain.Suchmea-
+suresusuallyareunidimensionalandoverlooknonobviousindicatorsofhowwella
+teamisdoing.Wedefineteameffectivenessmorebroadly,usingthefollowingthree-
+dimensional conception:
+1. Theproductiveoutputoftheteam(thatis,itsproduct,service,ordecision)meetsorexceedsthestan-
+dardsofquantity,quality,andtimelinessoftheteam’sclients—thepeoplewhoreceive,review,
+and/orusetheoutput.Itisclientswhoseviewscount,notthoseofteammembers,exceptinthoserel-
+atively rare cases when the team is the client of its own work.
+2. Thesocialprocessestheteamusesincarryingouttheworkenhancemembers’capabilitytowork
+togetherinterdependentlyinthefuture.Wedefineaseffectiveonlyteamsthataremorecapableas
+performingunitswhenapieceofworkisfinishedthantheywerewhenitwasbegun(Hackman,
+1987, 1990, 2002; Hackman & Wageman, 2005).
+3. Thegroupexperiencecontributespositivelytothelearningandwell-beingofindividualteammem-
+bers rather than frustrating, alienating, or deskilling them.
+TheTDSgeneratesdirectmeasuresofateam’sstandingonthesecondandthirdcri-
+teriabutdoesnotassessthefirstcriterionbecauseaself-reportinstrumentcannotgen-
+eratetrustworthydataabouttheacceptabilityofateam’sworktoitsclients.Therefore,
+thestandingofteamsonthefirstcriterionisassessedindirectly,aswedescribenext.
+FollowingHackman(2002),wepositthatateam’sabilitytogenerateproductsor
+servicesthataresatisfactorytoitsclientsisajointfunctionofthefollowingthreeper-
+formanceprocesses:(a)thelevelofeffortgroupmemberscollectivelyexpendcarry-
+ingouttaskwork,(b)theappropriatenesstothetaskoftheperformancestrategiesthe
+groupusesinitswork,1and(c)theamountofknowledgeandskillmembersbringto
+bearonthetask.Werefertothesethreeperformanceprocessesasprocesscriteriaof
+effectiveness(Hackman&Morris,1975).Anyteamthatexpendssufficienteffortinits
+work,deploysatask-appropriateperformancestrategy,andbringsampletalenttobear
+ontheworkisquitelikelytoachieveahighstandingonthefirstcriterionofeffective-
+nessspecifiedearlier.Bythesametoken,teamsthatoperateinwaysthatleaveoneor
+moreofthesefunctionsunfulfilled—thatis,byexpendingeffortinsufficientfortask
+demands,relyingonperformancestrategiesthatarepoorlyalignedwithtaskrequire-
+ments,and/or bringing inappropriate or inadequatetalenttobearon thework—are
+likelytofallshortofclientstandardsofacceptableperformance.TheTDSgenerates
+direct measures of a team’s standing on each of the process criteria of effectiveness.
+Enabling Conditions
+ThetheoryonwhichtheTDSisbasedspecifiesthatthechancesforteameffective-
+nessarehigherwhenthefollowingfiveconditionsaremet:(a)thepeopleresponsible
+
+## Page 5
+
+Wageman et al. / TEAM DIAGNOSTIC SURVEY 377
+fortheworkarearealteamratherthanateaminnameonly,(b)theteamhasacompel-
+lingdirectionforitswork,(c)theteam’sstructurefacilitatesratherthanimpedescol-
+lectivework,(d)theorganizationalcontextwithinwhichtheteamoperatesprovides
+supportfortaskactivities,and(e)theteamhasavailabletoitamplehands-oncoaching
+to help members take the fullest possible advantage of their performance circum-
+stances.Thesefiveconditions,eachofwhichismadeupofmultiplesubconditions,are
+described briefly next; for details, see Hackman (2002). Research attesting to the
+validity of the theory-specified conditions in influencing team effectiveness was
+reportedbyHackman(1990),HackmanandO’Connor(2005),andWageman(2001).
+Realteam.Realteamshavethreefeatures.First,theyhaveclearboundaries that
+reliablydistinguishmembersfromnonmembers.Second,teammembersareinterde-
+pendentforsomecommonpurpose,producingapotentiallyassessableoutcomefor
+whichmembersbearcollectiveresponsibility.Finally,realteamshaveatleastmoder-
+atestabilityofmembership,whichgivesmemberstimeandopportunitytolearnhow
+to work together well.
+Compellingdirection.Thedirectionofagroupisthespecificationofitsoverallpur-
+poses.Goodteamdirectionischallenging(whichenergizesmembers),clear(which
+orientsthemtotheirmainpurposes),andconsequential(whichengagesthefullrange
+of their talents).
+Alsokeytogooddirectionforworkteamsistheemphasisdirectionsettersgiveto
+theend-statestobeachievedrelativetothemeansthatteamsaretouseinpursuing
+thoseends.Specifically,task-focusedmotivationisfosteredwhenendsareclearlyand
+insistentlyspecified but means are leftto the teamitself.Specifying both ends and
+meansmitigatesthechallengetotheteamandunderemploysthefullcomplementof
+team members’ resources; specifying neither runs the risk of anarchy rather than
+focused, purposive collective work; and specifying means but not ends is likely to
+prompt the team to disengage from the work.
+Enablingstructure.Workteamsoftenencounterdifficultiesthatstemfromnothav-
+ingbeensetupright.Sometimestheteam’sstructureisoverelaborate(whichcancre-
+ateobstaclesingettingthingsdone);othertimesitisunderspecified(acommonprob-
+lem for self-managing teams whose creators assume that teams should work
+everythingoutontheirown);stillothertimes,theproblemisthatthewrongstructures
+areputinplace.Ourresearchhasidentifiedthefollowingthreestructuralfeaturesas
+key in fostering competent teamwork:
+• Taskdesign:Theteamtaskshouldbewellalignedwiththeteam’spurposeandhaveahighstandingon
+whatHackmanandOldham(1980)called“motivatingpotential.”Thismeansthattheteamtask(a)is
+awholeandmeaningfulpieceofwork,(b)forwhichmembershaveautonomytoexercisejudgment
+aboutworkprocedures,andthat(c)providesmembersregularandtrustworthyknowledgeofresults.
+Well-designed group tasks foster high, task-focused effort by team members.
+• Teamcomposition:Theteamsizeshouldbeassmallaspossiblegiventheworktobeaccomplished,
+shouldincludememberswithampletaskandinterpersonalskills,andshouldconsistofagooddi-
+versityofmembership—peoplewhoareneithersosimilartooneanotherthattheyduplicateone
+another’sresourcesnorsodifferentthattheyareunabletocommunicateorcoordinatewellwithone
+
+## Page 6
+
+378 THE JOURNAL OF APPLIED BEHAVIORAL SCIENCE December 2005
+another.Awell-composedteamensuresthatmembershavethefullcomplementofknowledgeand
+skillsthatisrequiredtoachievetheteam’spurposesandincreasestheabilityofmemberstoapply
+their complementary talents to the collective work.
+• Corenormsofconduct:Ateamshouldhaveestablishedearlyinitslifeclearandexplicitspecification
+ofthebasicnormsofconductformemberbehavior.Sharedexpectationsaboutbehavior—whether
+“imported”bymembersfromothergroupexperiences,developedgraduallyastheteamgoesaboutits
+work,orexplicitlyspecifiedbythepersonwhocreatestheteam—tendtoremaininplaceuntilsome-
+thingfairlydramaticoccurstopromptmemberstoreconsiderwhatbehaviorsareandarenotappro-
+priate(Gersick,1988).Teamnormsthatfostergoodperformanceprocessesactivelypromotecontinu-
+ousscanningoftheperformancesituationandproactiveplanningofgroupperformancestrategies,
+andtheyclearlyspecifythosebehaviorsthatareoutofboundsfortheteam.Clearspecificationofcore
+normsofconductfreesmembersfromspendingexcessivetimediscussingthekindsofbehaviorthat
+areacceptableinthegroupandfacilitatesthedevelopmentoftaskperformancestrategiesthatare
+appropriate to the team’s task and situation.
+Supportiveorganizationalcontext.Workteamssometimesfinditdifficultorim-
+possibletoobtainthekinds of organizationalsupports thatareneeded for effective
+performance,especiallyinestablishedorganizationswhosehumanresourcesystems
+havebeenprofessionallydesignedandfine-tunedovertheyearstosupportworkper-
+formedbyindividualemployees.Inadditiontothematerialresourcesneededforactu-
+allycarryingoutthework,threefeaturesoftheorganizationalcontextareespecially
+consequential for work performed by teams.
+First,therewardsystemshouldprovidepositiveconsequencesforexcellentteam
+performance. Rewardsandrecognitiontoindividualsshouldneverbedisincentives
+for task-oriented collaboration among team members, which is a common (if un-
+intended) feature of traditional, individual-focused appraisal and compensation
+systems.
+Second,theeducationalsystemshouldmakeavailabletotheteam,attheteam’sini-
+tiative,technicaloreducationalassistanceforanyaspectsoftheworkforwhichmem-
+bersarenotalreadyknowledgeable,skilled,orexperienced—includingifnecessary
+the honing of members’skills in working together on collective tasks.
+Andthird,theinformationsystemshouldprovidetheteamwithwhateverdataand
+projectionsmembersneedtoselectorinventstrategiesforcarryingouttheworkthat
+are fully appropriate for the team’s task and situation.
+Available, expert coaching. Although coaching cannot compensate for a badly
+flawedteamdesign,coachescanhelpteamstakethebestpossibleadvantageoftheir
+performancecircumstances(Hackman&Wageman,2005;Wageman,2001).Therole
+ofthecoachisnottodictatetogroupmemberstheonebestwaytoproceedwiththe
+team’swork. Instead, itistohelp theteamminimizeitsexposure toprocess losses
+(Steiner, 1972) and to maximize its chances of capturing synergistic process gains.
+Thespecifickindsofhelpthatcoachescanprovideforeachofthethreeprocesscri-
+teriaofeffectivenessdiscussedearlierareasfollows.Foreffort:helpingmembers(a)
+minimize coordination and motivation problems and (b) build commitment to the
+groupanditstask.Forperformancestrategy:helpingmembers(a)avoidrelyingon
+habitualroutinesthatmaybeinappropriateforthetaskorsituationand(b)develop
+innovativewaysofproceedingwiththeworkthatarewelltunedtotaskrequirements.
+Forknowledgeandskill:helpingmembers(a)avoidinappropriateweightingofindi-
+
+## Page 7
+
+Wageman et al. / TEAM DIAGNOSTIC SURVEY 379
+viduals’ideasandcontributionsand(b)sharetheirexpertisetobuildtheteam’sreper-
+tory of skills.
+TheTDSassessesthedegreetowhichateam’sleaderandmembersthemselves
+providethekindsoftask-focusedcoachingjustdescribed.Inaddition,theinstrument
+providesmeasuresoftheoverallamountofcoachingavailabletotheteam,members’
+perceptions of the helpfulness of that coaching, and for comparison, certain other
+leader behaviors not specified in the conceptual model, such as reinforcement of
+desiredteambehaviors,assistancewithmembers’interpersonalrelations,andactivi-
+ties that usurp the team’s responsibility for managing its own work processes.
+DEVELOPMENT OF THE TEAM
+DIAGNOSTIC SURVEY
+ThemodeljustsummarizedisdepictedinFigure1.Ouraspirationwastodevelop
+aninstrumentthatreliablyandefficientlyassessesforanytask-performingteamthe
+constructsinthatmodel.Asdescribednext,wecarriedouttwofullrevisionsofapre-
+liminaryinstrumentusingdatacollectedfromalargenumberofteamsinadiversityof
+organizations,followedbyafine-tuningoftheTDSbasedonpsychometricanalyses
+ofthepenultimateversion,andfinallybyaninitialassessmentoftheconstructvalidity
+of the instrument.
+Item Selection
+Theinitialstepininstrumentdevelopmentwastoidentifyexistingsurveyitemsand
+scalesthatassesstheconstructsoftheconceptualmodelonwhichtheTDSisbased.
+Someitems,especiallythosehavingtodowiththedesignoftheteam’sworkandwith
+member motivation and satisfaction, were drawn or adapted from research on the
+motivatingproperties of work designed for individuals (Hackman &Lawler, 1971;
+Hackman&Oldham,1980).Otheritems,especiallythosehavingtodowiththedesign
+andcontextualfeaturesofteams,weredrawnoradaptedfromaninstrumentdesigned
+foracross-organizationalstudyofteambehaviorandperformance(Hackman,1990)
+andfromaprecursorinstrumentdevelopedbyWageman(2001)inastudyoffieldser-
+viceteams.Otheritems,especiallythosehavingtodowiththedescriptionofleader
+behaviors,wereadaptedfromresearchonleadershipandgroupdynamicsinprofes-
+sionalsymphonyorchestras(Allmendinger,Hackman,&Lehman,1996).Andother
+items,especiallythosehavingtodowiththequalityofgroupinteractionprocesses,
+weredrawnfromresearchonthestructureanddynamicsofairlineflightdeckcrews
+(Hackman,1993).Wewrotenewitemsforthoseconstructsforwhichnosatisfactory
+preexisting items were available.
+Theselectionofitemsformulti-itemscalesalwaysinvolvesatrade-offbetween
+contentdiversityandinternalconsistencyreliability(DeVellis,1991).Selectingitems
+thatarehighlysimilartooneanother(e.g.,thosethataskessentiallythesamequestion
+in slightly different words) increases internal consistency reliabilitybut lessens the
+substantiverobustnessofthecompositescoreconstructedbyaveragingthem.Opting
+
+## Page 8
+
+380THE JOURNAL OF APPLIED BEHAVIORAL SCIENCEDecember 2005
+
+FIGURE 1:GraphicalRepresentationoftheModelonWhichtheTeamDiagnosticSurveyIsBased
+
+SOURCE: Adapted from Hackman (2002).
+
+fordiverseitemcontentontheotherhandincreasestherobustnessofthecomposite
+
+measurebutatacosttoreliabilitybecauseinteritemcorrelationswillbelower.This
+
+trade-offcanbemitigatedbyincreasingthenumberofitemsusedtoconstructthe
+
+compositescores,butthatstrategycanresultinaninstrumentsolongthatrespondents
+
+find it burdensome to complete (Cortina, 1993; Ghiselli, 1964).
+
+WesoughttosamplethedomainofeachconstructwidelybutalsotokeeptheTDS
+
+shortenoughtobecompletedin15to20minutes.Thisresultedinsomescalesthat
+
+assessteam-levelpropertieshavinginternalconsistencyreliabilitiesthatwouldbe
+
+marginal(e.g.,.50to.60)iftheinstrumentwereintendedforassessingtheviewsof
+
+individualrespondents.Inthepresentcasehowever,allmeasuresexceptthosethat
+
+assessindividualmotivationandsatisfactionareintendedforuseonlyatthegroup
+
+levelofanalysis.Therefore,scalescoresforvariablesthatassessteamattributesare
+
+constructedbyaveragingresponsesacrossbothitemsandteammembers—ineffect,
+
+treatingeachmemberasprovidinganadditionalestimateofthetruescoreoftheteam
+
+oneachscale.FollowingtherecommendationsofOfficeofEducationalAssessment
+
+(1998)andWuensch(2003),thereliabilityofthegroup-levelcompositescoreswas
+
+computedbyapplyingtheSpearman-Brownformulatotheobtainedreliabilitiesfor
+
+-individualrespondents.Toillustrate,considerathree-itemscaleadministeredtomem
+
+bersofafour-personteam.Iftheaverageintercorrelationamongthethreeitemswere
+
+.25,internalconsistencyreliabilityattheindividuallevelwouldbe.50.Butreliability
+
+## Page 9
+
+Wageman et al. / TEAM DIAGNOSTIC SURVEY 381
+attheteamlevelofanalysiswouldbe.80(notethatthisnumberwouldbelowerfor
+teams smaller than four and higher for larger teams).
+Analysis and Revision Process
+ThefirstdraftoftheTDSwasadministeredtoaconveniencesampleof181highly
+diverseteamsfrom63differentorganizations(totalnumberofrespondents=1,272).
+Wecalculatedinternalconsistencyreliabilitiesforallscalesandflaggedforrevision
+those for which reliability at the individual level of analysis was less than .50.2 To
+assessdiscriminantvalidity,wecomparedtheaveragecorrelationofitemswithineach
+scalewithitemsfromotherscalesandflaggedforrevisionanyscalesforwhichthe
+average within-scale correlation was less than .10 greater than the average inter-
+correlationamongitemsassignedtodifferentscales.Intraclasscorrelationswerecal-
+culatedforallscalestoconfirmthatthescalescorescouldappropriatelybeinterpreted
+at the group level of analysis.
+FieldresearchersadministeringthefirstversionoftheTDSnotedafewitemsthat
+respondents found unclear or confusing, and these items were rewritten. Also, two
+substantialrevisionsweremadeinthesectionoftheinstrumentthatasksaboutthe
+coachingreceivedbyteams.Namely,asectiononthetimingofleadercoachingwas
+droppedbecauseithadpoorpsychometricproperties,andasectionthatassessespeer
+coaching(ascontrastedwithcoachingprovidedbyteamleaders)wasaddedtoensure
+consistency with the construal of coaching specified in our model (Hackman &
+Wageman, 2005).
+TherevisedversionoftheTDSwasadministeredtoanewsampleof140teams,of
+which76weremanagementteamsand64wereteamsthatcarriedoutvariouskindsof
+analyticwork(totalnumberofrespondents=1,202).Allscalesintherevisedversion
+containedatleasttwoitems,andallcompositescaleshadatleastoneitemthatwas
+reverse-scored.Wedescribethecontentsoftherevisedinstrumentnextandthenreport
+its psychometric properties.
+DESCRIPTION OF THE TDS
+TheTeamDiagnosticSurveyisorganizedinto10sections.Section1capturesgen-
+eraldescriptionsoftheteam.Sections2through7assessthemodel-specifiedcondi-
+tionsforteameffectiveness.Sections8and9providemeasuresofthethreeeffective-
+ness criteria. Section 10 asks for respondent biographical information.
+Themodel-specifiedscalesassessedbytheTDSaredescribednext,includingthe
+specificitemsthatcompriseeachconstruct.3Intheactualinstrument,itemsareinter-
+mixed within sections. Except where otherwise noted, allitemsuse a 5-point scale
+ranging from highly inaccurate (1) to highly accurate (5). Group-level composite
+scoresarecomputedbyaveragingresponsesacrossitemsandrespondents.Reverse-
+scored items are indicated by (R).
+
+## Page 10
+
+382 THE JOURNAL OF APPLIED BEHAVIORAL SCIENCE December 2005
+Real Team
+Ateam’sscoreforthisconstructiscomputedbyaveragingmemberresponseson
+subdimensionsthatassessthedegreetowhichtheteamisbounded,isstableovertime,
+and has interdependent work.
+Bounded
+Team membership is quite clear—everybody knows exactly who is and isn’t on this team.
+Thereissomuchambiguityaboutwhoisonthisteamthatitwouldbenearlyimpossibletogeneratean
+accurate membership list. (R)
+Anyone who knows this team could accurately name all its members.
+Anadditionalindicationofboundednessisobtainedfrommemberreportsofteam
+size.A smallerrange (i.e., thedifference between thelargestand smallestreported
+size) is interpreted to reflect greater boundedness.
+Stable
+Different people are constantly joining and leaving this team. (R)
+This team is quite stable, with few changes in membership.
+Interdependent
+Membersofthisteamhavetheirownindividualjobstodo,withlittleneedforthemtoworktogether.(R)
+Generatingtheoutcomeorproductofthisteamrequiresagreatdealofcommunicationandcoordination
+among members.
+Members of this team have to depend heavily on one another to get the team’s work done.
+Compelling Direction
+Ateam’sscoreiscomputedbyaveragingmemberresponsesonsubdimensionsthat
+assessthedegreetowhichteamdirectionisclear,challenging,andconsequential.An
+additional item assesses the focus of the team’s direction on ends versus means.
+Clear
+There is great uncertainty and ambiguity about what this team is supposed to accomplish. (R)
+Thisteam’spurposesarespecifiedsoclearlythatallmembersshouldknowexactlywhattheteamexists
+to accomplish.
+Challenging
+This team’s purposes are so challenging that members have to stretch to accomplish them.
+This team’s purposes are not especially challenging—achieving them is well within reach. (R)
+Consequential
+The purposes of this team don’t make much of a difference to anybody else. (R)
+This team’s purposes are of great consequence for those we serve.
+
+## Page 11
+
+Wageman et al. / TEAM DIAGNOSTIC SURVEY 383
+Ends Versus Means
+Respondents check one of the following, and the team score is the modal response:
+Thepurposesofourteamarespecifiedbyothers,butthemeansandproceduresweusetoaccomplish
+them are left to us.
+Themeansorprocedureswearesupposedtouseinourworkarespecifiedindetailbyothers,butthe
+purposes of our team are left unstated.
+Boththepurposesofourteamandthemeansorprocedureswearesupposedtouseinourworkarespec-
+ified in detail by others.
+Neither the purposes nor the means are specified by others for our team.
+Enabling Structure
+Ateam’sscoreiscomputedbyaveragingmemberresponsesondimensionsthat
+assess the degree to which (a) the team is well composed, (b) the team’s task is
+motivationally well designed, and (c) team norms of conduct are clear and well
+accepted.
+Team composition. Subdimensions that are combined to assess the quality of a
+team’scompositionare(a)thedegreetowhichthesizeoftheteamisappropriatefor
+theworktobeaccomplished(i.e.,neithertoolargenortoosmall),(b)thedegreeto
+whichtheteamhasanappropriatediversityofmembership(i.e.,membersareneither
+toosimilartooneanothernortoodifferentfromoneanothertoaccomplishteampur-
+poses), and (c) the level of member skills, including interpersonal skills.
+Size
+This team is larger than it needs to be. (R)
+This team has too few members for what it has to accomplish. (R)
+This team is just the right size to accomplish its purposes.
+Thecompositescoreforteamsizeisanalgebraiccombinationofrespondents’scores
+onthepreviousitems,notasimpleaverageasiscomputedformostotherTDSscales.
+Specifically, the difference between the first two items is computed to assess the
+degreetowhichtheteamsizeisviewedasappropriate;thisscorecanrangefrom–4
+(toosmall)to+4(toolarge),withascoreof0beingoptimum(neithertoosmallnortoo
+large).Theabsolutevalueofthatdifferencescoreisthensubtractedfrom5andaver-
+agedwiththethirditemtoproduceasummarymeasureofteamsizethatrangesfrom1
+to 5, with higher scores being more favorable.
+Diversity
+Members of this team are too dissimilar to work together well. (R)
+Thisteamdoesnothaveabroadenoughrangeofexperiencesandperspectivestoaccomplishitspur-
+poses. (R)
+Thisteamhasanearlyideal“mix”ofmembers—adiversesetofpeoplewhobringdifferentperspectives
+and experiences to the work.
+
+## Page 12
+
+384 THE JOURNAL OF APPLIED BEHAVIORAL SCIENCE December 2005
+Thiscompositescorealsoisanalgebraiccombinationoftheitemsonwhichitisbased,
+followingthesamelogicasisusedinscoringthegroupsizeitems.Specifically,thedif-
+ferencebetweenthefirsttwoitemsiscomputedtoassessthedegreetowhichtheteam
+hasanappropriatelevelofdiversity;thisscorecanrangefrom–4(toohomogeneous)
+to+4(tooheterogeneous),withascoreof0beingoptimum.Theabsolutevalueofthat
+differencescoreisthensubtractedfrom5andaveragedwiththethirditemtoproducea
+summarymeasureofteamdiversitythatrangesfrom1to5,withhigherscoresbeing
+more favorable.
+Skills
+Membersofthisworkteamhavemorethanenoughtalentandexperienceforthekindofworkthatwedo.
+Everyone in this team has the special skills that are needed for team work.
+Somemembersofthisteamlacktheknowledgeandskillsthattheyneedtodotheirpartsoftheteam’s
+work. (R)
+Teamtaskdesign.Subdimensionsthatarecombinedtoassessthedesignofateam’s
+taskarethedegreetowhichthetaskis(a)awholeandmeaningfulpieceofworkthat
+provides(b)autonomyforexercisingjudgmentaboutworkprocessesand(c)trust-
+worthy knowledge of the results of the work.
+Whole Task
+We do a whole, identifiable piece of work.
+Ourteamdoessuchasmallpartoftheoveralltaskthatitishardtopointspecificallytoourspecialcontri-
+bution. (R)
+This team’s work is inherently meaningful.
+Autonomy/Judgment
+The work of this team leaves little room for the exercise of judgment or initiative. (R)
+The work we do requires the team to make many “judgment calls” as we carry it out.
+Knowledge of Results
+Carryingoutourteam’staskautomaticallygeneratestrustworthyindicatorsofhowwellwearedoing.
+The work itself provides almost no trustworthy feedback about our team’s performance. (R)
+Theonlywaywecanfigureouthowwellweareperformingisforotherpeopleintheorganizationtotell
+us. (R)
+Groupnorms.Ateam’sscoreiscomputedbyaveragingmemberresponsesonthe
+following items.
+Group Norms
+Standards for member behavior in this team are vague and unclear. (R)
+It is clear what is—and what is not—acceptable member behavior in this team.
+Members of this team agree about how members are expected to behave.
+Supportive Organizational Context
+Ateam’sscoreiscomputedbyaveragingmemberresponsesonsubdimensionsthat
+assess the availability of team rewards/recognition, information, training/technical
+
+## Page 13
+
+Wageman et al. / TEAM DIAGNOSTIC SURVEY 385
+consultation,andbasicmaterialresources.Itemsarewordedtoprovidedescriptionsof
+the organization in general, not just the proximal context of the focal team.
+Rewards/Recognition
+Excellent team performance pays off in this organization.
+Even teams that do an especially good job are not recognized or rewarded by the organization. (R)
+This organization recognizes and reinforces teams that perform well.
+Information
+Itiseasyforteamsinthisorganizationtogetanydataorforecaststhatmembersneedtodotheirwork.
+This organization keeps its teams in the dark about information that could affect their work plans. (R)
+Teams in this organization can get whatever information they need to plan their work.
+Education/Consultation
+Teamsinthisorganizationhavetomakedowithwhateverexpertisemembersalreadyhave—technical
+training and support are not available even when needed. (R)
+Whensomethingcomesupthatteammembersdonotknowhowtohandle,itiseasyforthemtoobtain
+the training or technical advice they need.
+In this organization, teams do not receive adequate training for the work they have to do. (R)
+Material Resources
+Teams in this organization can readily obtain all the material resources that they need for their work.
+Scarcity of resources is a real problem for teams in this organization. (R)
+Available, Expert Coaching
+Theinstrumentaddressesthefollowingfouraspectsofteamcoaching:(a)theavail-
+ability of coaching to the team, (b) the perceived helpfulness of the team leader’s
+coaching,(c)theextentandfocusoftheteamleader’scoachingactivities,and(d)the
+extent and focus of peer coaching among team members.
+Availabilityofteamcoaching.Twomeasuresof theavailabilityof team-focused
+coachingaregenerated.Thefirstisasingleitemthatassessesthefocusoftheteam
+leader’s attention: Respondents rank the relative frequency with which their team
+leaderengagesineachoffourkindsofactivities,withtheleader’srelativeemphasison
+team coaching indicated by the mean rank of the second alternative.
+Focus of Leader’s Attention
+Coaching individual team members.
+Helping team members learn how to work well together.
+Gettingtheteamsetupright—clarifyingitspurpose,pickingmembers,structuringthetask,setting
+expectations, and so on.
+Runningexternalinterferencefortheteam—gettingresources,securingoutsideassistance,removing
+roadblocks, and so on.
+The second measure of coaching availability is the mean of the following three
+items:
+
+## Page 14
+
+386 THE JOURNAL OF APPLIED BEHAVIORAL SCIENCE December 2005
+Coaching Availability
+Whenmembersofteamsinthisorganizationhavetroubleworkingtogether,thereisnooneavailableto
+help them out. (R)
+Teamsinthisorganizationhaveaccessto“coaches”whocanhelpthemlearnfromtheirsuccessesand
+mistakes.
+Expert coaches are readily available to teams in this organization.
+Helpfulnessofteamleadercoaching.Respondentsareasked“Overall,howhelpful
+is your team leader in building your team’s capabilities?”The 5-category response
+scale ranges from detrimental through neither particularly helpful or unhelpful to
+quite helpful.
+Asummaryindicatorofhelpfulleadercoachingisconstructedfromthetypesof
+helpful coaching the group receives and its availability. Computation is as follows.
+First,acompositescoreofleaderhelpfulnesswascomputedbyaveragingthedirect
+item listed earlier with measures described in the next subsection of the extent of
+leader task-focused coaching, leader operant coaching, and the reverse of leader
+unhelpful interventions (Wageman, 2001). The summary indicator is obtained by
+computingthesquarerootoftheproductofthecompositecoachingavailabilityand
+leader helpfulness scores. Wechose thiscomputation method because itmakesthe
+summarymeasureofhelpfulleadercoachingcomparabletotheotherTDSscales(i.e.,
+ithasarangefrom1to5,with5beingmostfavorable).Moreover,becausethemeasure
+isbasedontheproductofavailabilityandhelpfulness,ateamcannotobtainahigh
+scoreifeithercomponentislow,consistentwiththetheoreticalmodelpresentedprevi-
+ously that specified that coaching must be both available and expert.
+Extentandfocusofteamleadercoaching.TheTDSassessesthedegreetowhich
+the team leader provides four different kinds of coaching: task-focused coaching,
+operantcoaching(Komaki,1998),interpersonalcoaching,andunhelpfuldirectives.
+Respondentsareaskedtoindicateona4-pointscalerangingfromnevertooftenhow
+frequentlytheteamleaderengagesineachbehavior.Fortask-focusedcoaching,two
+itemseachassesscoachingthatfocusesonteameffort,performancestrategies,and
+useofknowledgeandskill,respectively.Thesethreesubscalesareaveragedtopro-
+duce the overall measure of task-focused coaching.
+Task-Focused Coaching
+The team leader . . .
+helps the team build a high shared commitment to its purposes.
+helps the team sustain the motivation of all members.
+works with the team to develop the best possible approach to its work.
+keeps the team alert to anything that might require a change of work strategy.
+helps members learn from one another and from the team’s work experiences.
+helps the team identify and use well each member’s unique talents.
+Operant Coaching
+The team leader . . .
+provides positive feedback when the team behaves or performs well.
+provides corrective feedback when needed.
+gives inappropriate or undeserved praise or criticism. (R)
+
+## Page 15
+
+Wageman et al. / TEAM DIAGNOSTIC SURVEY 387
+Interpersonal Coaching
+The team leader . . .
+helps members resolve any conflicts that may develop among them.
+helps members work on improving their interpersonal relationships.
+Unhelpful Directives
+The team leader . . .
+micromanages the content and process of team discussions.
+instructs the team in detail about how to solve its problems.
+tells the team everything it is doing wrong.
+Extentandfocusofcoachingprovidedbypeers.Threetypesofpeercoachingare
+assessed:task-focusedcoaching,interpersonalcoaching,andunhelpfulinterventions
+(reverse-scored to produce an overall assessment of good-quality peer coaching).
+These items also use a 4-point scale ranging fromnevertooften.
+Task-Focused Peer Coaching
+Regular team members . . .
+take initiatives to promote high shared motivation and commitment.
+take initiatives to make sure the team develops and uses the best possible approach to its work.
+take initiatives to help the team build and use well members’knowledge and skills.
+Interpersonal Peer Coaching
+Regular team members . . .
+take initiatives to constructively resolve any problems or conflicts that develop among members.
+Unhelpful Peer Interventions
+Regular team members . . .
+tell other members what to do and how they should do it.
+Process Criteria of Team Effectiveness
+Theinstrumentassessesthelevelofeffortmemberscollectivelyexpendonthetask,
+thequalityofteamtaskperformancestrategies,andthedegreetowhichtheteamuses
+wellthefullcomplementofmemberknowledgeandskill.Theaverageofthesethree
+subscales provides an overall measure of the quality of team task processes.
+Effort-Related Process Criteria
+Membersdemonstratetheircommitmenttoourteambyputtinginextratimeandefforttohelpitsucceed.
+Everyone on this team is motivated to have the team succeed.
+Some members of our team do not carry their fair share of the overall workload. (R)
+Strategy-Related Process Criteria
+Ourteamoftencomesupwithinnovativewaysofproceedingwiththeworkthatturnouttobejustwhatis
+needed.
+Ourteamoftenfallsintomindlessroutines,withoutnoticinganychangesthatmayhaveoccurredinour
+situation. (R)
+Ourteamhasagreatdealofdifficultyactuallycarryingouttheplanswemakeforhowwewillproceed
+with the task. (R)
+
+## Page 16
+
+388 THE JOURNAL OF APPLIED BEHAVIORAL SCIENCE December 2005
+Knowledge- and Skill-Related Process Criteria
+Howseriouslyamember’sideasaretakenbyothersonourteamoftendependsmoreonwhothepersonis
+than on how much he or she actually knows. (R)
+Members of our team actively share their special knowledge and expertise with one another.
+Our team is quite skilled at capturing the lessons that can be learned from our work experiences.
+Team Interpersonal Processes
+The TDS includes two indicators of the quality of team members’interpersonal
+relations.Thefirstmeasureassessesmembers’interactions;thesecondasksmembers
+about their satisfaction with within-team relationships.
+Quality of Team Interaction
+There is a lot of unpleasantness among members of this team. (R)
+The longer we work together as a team, the less well we do. (R)
+Working together energizes and uplifts members of our team.
+Everytimesomeoneattemptstocorrectateammemberwhosebehaviorisnotacceptable,thingsseemto
+get worse rather than better. (R)
+Satisfaction With Team Relationships
+My relations with other team members are strained. (R)
+I very much enjoy talking and working with my teammates.
+The chance to get to know my teammates is one of the best parts of working on this team.
+Individual Learning and Well-Being
+Theinstrumentincludesthefollowingthreemeasuresofindividualaffectivereac-
+tions to the team and its work: level of internal work motivation, satisfaction with
+growthopportunities,andoverallsatisfactionwiththeteam.Eachoftheseitemsand
+theitemsassessingsatisfactionwithteamrelationships(previouslist)aremeasuredon
+a 5-point scale ranging fromstrongly disagreetostrongly agree.
+Internal Work Motivation
+I feel a real sense of personal satisfaction when our team does well.
+I feel bad and unhappy when our team has performed poorly.
+My own feelings are not affected one way or the other by how well our team performs. (R)
+When our team has done well, I have done well.
+Satisfaction With Growth Opportunities
+I learn a great deal from my work on this team.
+My own creativity and initiative are suppressed by this team. (R)
+Working on this team stretches my personal knowledge and skills.
+General Satisfaction
+I enjoy the kind of work we do in this team.
+Working on this team is an exercise in frustration. (R)
+Generally speaking, I am very satisfied with this team.
+
+## Page 17
+
+Wageman et al. / TEAM DIAGNOSTIC SURVEY 389
+Supplementary Measures
+TheTDSincludesasmallnumberofadditionalmeasuresthatarenotincludedin
+ourconceptualmodelofteameffectivenessbutthatcanbehelpfulininterpretinga
+team’s standing on the model-specified constructs.
+1. Descriptiveinformationabouttheteambeingassessed,includingthepurposeoftheteam,thenum-
+berofmenandwomenintheteam,theexpectedlifespanoftheteam,whethertheworkoftheteamis
+themainpartoftherespondent’sjoborisonlyasmallpartofthejob,andwhethertherespondentis
+the formal leader of the team.
+2. Thelevelofauthoritytheteamhastomanageitswork.Respondentscircleyesornotoindicate
+whetherornottheteamhastheauthoritytodecideaboutspecificwork-relatedmatters.These
+responses are scored to place the team in one of the following five categories:
+• Self-governingteam:Theteamhastheauthoritytomanageitsworkprocesses,alteritsdesignand
+organizational features, and specify its main purposes.
+• Professionalteam:Theteamhastheauthoritytospecifyitsmainpurposesbutnottoalterits
+design or organizational features.
+• Self-designingteam:Theteamhastheauthoritytoalterdesignororganizationalfeaturesthatare
+affectingtheteamoritswork(e.g.,selectingitsownmembers,obtainingspecialtraining,etc.).
+• Self-managingteam:Theteamhastheauthoritytomanageitsownworkprocessesandtochange
+or adjust them if needed.
+• Manager-led team: The team has no authority beyond actually carrying out the work.
+• Hybrid team: The team does not fall into any of these categories.
+3. ThefinaloptionalsectionoftheTDSrequestsbriefbiographicalinformationfromrespondents.
+Questionsaskfortherespondent’sage,gender,tenureintheorganization,timeinpresentjob,and
+time as a member of the team being described.
+EMPIRICAL PROPERTIES OF THE TEAM
+DIAGNOSTIC SURVEY
+Psychometric information on theTDSscalesfor the140 teamswhose members
+completedthesecondrevisionoftheinstrumentarepresentedforthefiveenabling
+conditions,thecoachingvariables,andthecriterionvariablesinTables1through3.In
+additiontothemeanandstandarddeviationofeachvariable,wereporttheaverage
+correlationofitemswithineachscale(labeledrwithinscale)andtheaveragecorrela-
+tionofitemswithallotheritemsinthesamesectionoftheTDS(labeledrbetween
+scale).Comparisonofthewithinandthebetweencorrelationsprovidesaconservative
+testofdiscriminantvaliditybecauseitemswithinsectionsaremostlikelytobesubject
+tomethodvarianceandbecauseTDSitemswithinsectionsassessconstructsthatare
+closely related conceptually. We also report both internal consistency reliabilities
+(coefficientalphas)fordatafromindividualrespondents(eventhoughtheinstrument
+is not intended for use in assessing individual perceptions) and the projected reli-
+abilities of team scores (conservatively assuming teams of size four).
+AsTable1shows,allteam-levelreliabilitiesaresatisfactory,althoughtheyarerela-
+tivelylowforsomesubcomponentsoftwostructurevariables:sizeanddiversityfor
+team composition and whole task and autonomy/judgment for team task design.
+
+## Page 18
+
+390 THE JOURNAL OF APPLIED BEHAVIORAL SCIENCE December 2005
+TABLE 1
+Descriptive Statistics and Psychometrics for the Five Enabling Conditions
+rWithin rBetween Alpha Alpha
+Items M SD Scale Scale (Individual) (Team)
+Real team 3.94 0.66
+Bounded 2 4.41 0.85 .40 .15 .57 .84
+Interdependent 2 3.90 0.91 .39 .11 .56 .84
+Stable 2 3.52 1.18 .68 .12 .81 .94
+Compelling direction 3.86 0.61
+Clarity 2 3.64 1.09 .46 .05 .63 .87
+Challenge 2 3.57 0.98 .21 –.07 .35 .68
+Consequentiality 2 4.38 0.84 .51 .15 .68 .89
+Enabling structure 3.64 0.59
+Team composition 7 3.71 0.68
+Size 2 3.51 1.18 .22 .10 .36 .69
+Diversity 2 3.88 0.79 .18 .18 .31 .64
+Skills 3 3.74 0.87 .36 .20 .63 .87
+Task design 7 3.81 0.63
+Whole task 2 3.75 0.93 .19 .18 .32 .65
+Autonomy/judgment 2 4.09 0.77 .25 .09 .40 .73
+Knowledge of results 3 3.59 0.87 .41 .19 .68 .89
+Group norms 3 3.41 1.01 .55 .21 .79 .94
+Supportive context 3.33 0.73
+Rewards/recognition 3 3.56 0.97 .58 .31 .81 .94
+Information 3 3.32 0.90 .48 .36 .73 .92
+Education/consultation 3 3.45 0.88 .48 .35 .73 .92
+Material resources 2 2.98 0.98 .48 .33 .65 .88
+Team coaching 3.29 0.69
+Coaching availability 3 3.03 0.94 .50 .31 .75 .92
+Coaching helpfulness 1 3.66 0.60
+NOTE:N=1,202respondentsin140teams.Projectedinternalconsistencyreliabilities(coefficientalphas)
+fortheteamlevelofanalysisarebasedonanassumptionofateamoffourmembers;reliabilitieswouldbe
+larger for larger teams and smaller for smaller teams.
+Discriminantvaliditiesareunsatisfactoryforthediversityandwholetaskvariables,
+whichsuggeststhatthesubcomponentsofteamcompositionandtaskdesignshould
+be interpreted with caution.
+For conceptual reasons, we did not calculate internal consistency reliabilitiesor
+averageintercorrelationsfortheoverallrealteam,direction,enablingstructure,and
+supportive context constructs. In each case, the elementsof these higher levelcon-
+structscan(anddo)varyindependentlyofeachother.Forexample,ateam’sdirection
+couldbequiteclearbutneitherchallengingnorconsequential;alternatively,itcould
+behighlyconsequentialbutnotatallclearorchallenging.Insuchcases,thefactthata
+team scored higher on some components of the higher level construct than others
+wouldbeanempiricalfindingofdiagnosticsignificanceforthefocalteamratherthan
+a reliability problem. The same logic applies to the other global conditions whose
+components can vary independently.
+
+## Page 19
+
+Wageman et al. / TEAM DIAGNOSTIC SURVEY 391
+TABLE 2
+Descriptive Statistics and Psychometrics for Leader and Peer Coaching
+Activities
+rWithin rBetween Alpha Alpha
+Items M SD Scale Scale (Individual) (Team)
+Leader coaching
+Task-focused coaching 6 3.67 .76 .66 .41 .92 .98
+Operant coaching 2 3.63 .79 .27 .38 .43 .75
+Interpersonal coaching 2 3.12 .92 .65 .47 .79 .94
+Unhelpful directives 3 3.27 .74 .34 .33 .51 .86
+Peer coaching
+Task-focused coaching 3 3.40 .78 .76 .38 .90 .97
+Interpersonal coaching 1 3.16 .94
+Unhelpful interventions 1 2.65 .91
+TABLE 3
+Descriptive Statistics and Psychometrics for Team Effectiveness Criteria
+rWithin rBetween Alpha Alpha
+Items M SD Scale Scale (Individual) (Team)
+Process criteria 9 3.63 .72
+Effort 3 3.80 .89 .49 .41 .74 .92
+Performance strategy 3 3.58 .85 .43 .42 .69 .90
+Knowledge and skill 3 3.52 .81 .40 .40 .67 .89
+Team social processes
+Quality of interaction 4 3.80 .79 .47 .41 .78 .93
+Relationship satisfaction 3 3.91 .70 .52 .33 .76 —
+Individual well-being
+Internal work motivation 4 4.13 .60 .33 .23 .66 —
+Growth satisfaction 3 3.87 .77 .45 .37 .71 —
+General satisfaction 4 3.89 .84 .57 .38 .84 —
+NOTE:Team-levelreliabilitieswerenotcomputedforthemeasuresofmotivationandsatisfactionbecause
+these are individual-level constructs.
+Table2presentspsychometricdataforthecoachingmeasures.Thetwo-itemmea-
+sureofleaderoperantcoachingandthethree-itemmeasureofleaderunhelpfuldirec-
+tives exhibit weak discriminant validitiesand have internal consistency reliabilities
+thatare lower than those of the other coaching measures. Table3 presents psycho-
+metric data for the criterion measures. All reliabilities are satisfactory, but
+discriminantvaliditiesareweakbothforthemeasuresofthethreeprocesscriteriaand
+forthemeasureofthequalityofmemberinteraction.Itmaybethatthisreflectsasub-
+stantivereality—namely,thatteamsthataredoingwelltendtohavegoodprocesses
+acrosstheboard(Hackman,1987).Alternatively,itmaybethattheinstrumentisnot
+sensitiveenoughtodistinguishcleanlyamongtheseveralaspectsofgroupprocess.
+Thepresentdatadonotallowustochoosebetweenthesetwoexplanations.Onlyalter-
+
+## Page 20
+
+392 THE JOURNAL OF APPLIED BEHAVIORAL SCIENCE December 2005
+nativeandindependentassessmentsofgroupprocesses(e.g.,bycodedobservations)
+would ultimately allow one to distinguish between the two possibilities.
+We retained the coaching and process criteria subscales because of their impor-
+tanceinthemodelandbecausesimilarversionsofthesescaleshaveinotherstudies
+achievedsufficientdiscriminantvalidityandhavebeenimportantpredictorsofteam
+effectiveness (see, e.g., Wageman, 2001; Wageman & Mannix, 2005).
+Intraclasscorrelationswerecalculatedforallmeasurestoensurethatitisappropri-
+atetoaggregateandinterpretthematthegrouplevelofanalysis.Theintraclasscorre-
+lationsrangedfromahighof.63(forcompellingdirection)toalowof.24(forrespon-
+dentgender,aninherentlyindividual-levelvariable),withamedianof.50.Allwere
+significantatp<.001.Inaddition,correlationsamongthefiveenablingconditions
+wereexamined. Theyranged from .19 (realteamwithcoaching availability)to.59
+(contextsupportswithcoachingavailability),withamedianof.38,indicatingthatthe
+enabling conditions are positively but moderately associated with one another, as
+would be expected.
+Basedonthedatareportedearlierandoncommentsfromcolleagueswhohadused
+thepenultimateversionoftheTDS,wemadeseveralminorrevisionsofitems.4The
+finalversionoftheinstrument,presentedintheprevioussectionofthisarticle,pro-
+videsreasonablysoundmeasuresoftheconstructsinthemodelofteameffectiveness
+on which the TDS is based.
+DISCUSSION
+TheTeamDiagnosticSurveyhasadequatepsychometricproperties,isuseablefor
+anytypeoftask-performingteam,andcanbecompletedin20minutesorlessbyteam
+memberswhoarefluentinEnglish.Thereremain,however,questionsaboutthesub-
+stantivevalidityoftheTDSandaboutitsappropriateusethatcanberesolvedonlyas
+researchers and practitioners accumulate additional experience with the instrument.
+Validity of the TDS
+Althoughthepreviouslyreportedintraclasscorrelationsforconstructsassessedby
+theTDSdocumentthattheinstrumentreliablydistinguishesamongteams,italsois
+necessary to demonstrate that it can detect meaningful differences among different
+typesofteamsandthatitcanpredicthowwellteamsactuallyperform. Wediscuss
+these matters next.
+Findings about the power of the TDS to detect substantively meaningful differ-
+encesacrossteamtypesareprovidedinTable4.Thesampleconsistedofthreetypesof
+teams:coactingintelligenceanalysisgroupswhosemembersworkinparallel,interde-
+pendentanalyticteamswhosemembersworktogethertogenerateintelligenceprod-
+uctsforwhichtheteamasawholeisaccountable,andseniorexecutiveteamswhose
+members share responsibility for overseeing the performance of large organiza-
+tions.Asisseeninthetable,statisticallyreliabledifferencesacrossteamtypeswere
+obtained for 28 of the 36 TDS composite scores. The interdependent teams score
+
+## Page 21
+
+Wageman et al. / TEAM DIAGNOSTIC SURVEY 393
+TABLE 4
+Comparison of Composite Score Means for Three Types of Work Teams
+Coacting Interdependent
+Analytic Analytic Senior
+(n= 38) (n= 26) Management
+M SD M SD M SD FValue
+Real team 3.61 .37 4.10 .37 4.11 .34 26.22***
+Bounded 4.30 .35 4.50 .53 4.51 .41 3.18*
+Interdependent 3.49 .61 4.09 .48 4.02 .38 18.55***
+Stable 3.05 .65 3.71 .75 3.80 .63 17.03***
+Compelling direction 3.59 .29 3.84 .34 3.99 .37 17.48***
+Clarity 3.54 .62 3.99 .72 3.64 .62 4.14*
+Challenge 3.13 .52 3.09 .61 3.83 .45 35.18***
+Consequentiality 4.10 .49 4.45 .37 4.50 .38 12.75***
+Enabling structure 3.55 .35 3.78 .33 3.67 .31 3.95*
+Team composition 3.46 .40 3.70 .44 3.83 .32 13.28***
+Task design 3.74 .36 4.00 .39 3.82 .33 4.22*
+Group norms 3.46 .56 3.65 .49 3.36 .52 2.83
+Supportive context 3.21 .46 3.32 .45 3.41 .36 3.19*
+Rewards/recognition 3.28 .67 3.53 .58 3.73 .42 9.20***
+Information 3.17 .46 3.25 .54 3.43 .44 4.35**
+Education 3.43 .57 3.43 .42 3.48 .43 0.21
+Resources 2.96 .50 3.08 .67 3.02 .51 0.35
+Team coaching 3.20 .37 3.40 .37 3.30 .34 2.50
+Coaching availability 2.94 .39 3.08 .51 3.06 .45 1.12
+Coaching helpfulness 3.61 .40 3.82 .37 3.65 .30 3.23*
+Leader coaching activities
+Task focused 3.58 .52 3.91 .51 3.65 .35 4.95**
+Operant 3.62 .54 3.77 .68 3.58 .38 1.48
+Interpersonal 3.11 .62 3.40 .58 3.08 .41 4.00*
+Unhelpful 3.26 .52 3.35 .62 3.24 .36 0.57
+Peer coaching activities
+Task focused 3.44 .47 3.88 .46 3.30 .34 19.79***
+Interpersonal 3.13 .48 3.50 .74 3.16 .39 6.25**
+Unhelpful 2.56 .53 2.65 .50 2.66 .35 0.69
+Process criteria 3.69 .51 4.03 .48 3.58 .35 10.80***
+Effort 3.65 .64 4.05 .58 3.87 .42 4.84**
+Strategy 3.73 .51 4.10 .52 3.44 .39 21.84***
+Knowledge and skill 3.69 .50 3.93 .46 3.43 .36 14.80***
+Team social processes
+Quality of interaction 3.76 .51 4.06 .49 3.79 .39 4.21*
+Relationship satisfaction 3.85 .44 4.16 .40 3.87 .30 7.15***
+Individual well-being
+Internal work motivation 3.87 .29 4.14 .33 4.23 .27 20.08***
+Growth satisfaction 3.88 .48 4.14 .43 3.84 .33 5.74**
+General satisfaction 3.76 .53 4.18 .63 3.91 .41 5.82**
+NOTE:df= 2,137.
+*p< .05. **p< .01. ***p< .001
+
+## Page 22
+
+394 THE JOURNAL OF APPLIED BEHAVIORAL SCIENCE December 2005
+higherontheenablingconditionsandonthecriterionmeasuresthandothecoacting
+groups.Theseniormanagementteamsscoreespeciallyhighonsomeaspectsofteam
+directionandcontextualsupportsandonmemberinternalmotivationbutareloweron
+clarity of group norms and on some aspects of coaching—especially task-focused
+peercoaching.Thesedataofcoursearemerelyillustrative;onlyasadditionalTDS
+data accumulate for a broader sample of teams and organizations will it become
+possible to establish stable norms for teams of different types.
+Additionaldataalsowillberequiredtofullyestablishtheconstructvalidityofthe
+instrumentbydocumentingtheantecedentsandconsequencesofthemodel-specified
+conceptsassessedbytheTDSaswellasotheraspectsofgroupfunctioningwithwhich
+ateam’sstandingontheTDSmaybeassociated.Twoexistingstudiesdoprovidesup-
+portiveevidenceregardingtheconstructvalidityoftheinstrument.Wageman(2001)
+usedmanyscalesfromaprecursoroftheTDSinastudyoffieldserviceteamsatthe
+XeroxCorporationandfoundthatthescalessignificantlypredictedbothlevelofteam
+self-managementandobjectivelymeasuredteamperformance. Fortheseteams,di-
+rection, structure, and context together—which she termed design features of the
+teams—controlledsignificantlymorecriterionvariancethandidteamleaders’coach-
+ingbehaviors(forteamself-management,designfeaturescontrolled42%ofthevari-
+ance, compared to less than 10% for the coaching measures; for objective per-
+formance, design controlled 37% of the variance, compared to less than 1% for
+coaching).5
+InarecentstudythatusedthepenultimateversionoftheTDStoassesstheintelli-
+genceanalysisteamsmentionedearlier,HackmanandO’Connor(2005) foundthat
+TDS-generated measures of the enabling conditions significantly predicted team
+effectiveness:Inalinearregression,thefiveconditionscontrolled74%ofthevariation
+ofacriterionmeasureconstructedbyaveragingthreedifferenteffectivenessindica-
+tors.Inthisstudy,coachingactivitiesweremuchstrongerpredictorsofeffectiveness
+than was the case in the Wageman (2001) study; indeed, task-focused coaching by
+peershadthehighestcorrelationwiththecompositeeffectivenesscriterionofanyof
+the TDS measures.
+ThefindingssummarizedhereshowthatvalidationoftheTDSandrefinementof
+thetheoryonwhichitisbasedmustproceedsimultaneouslyasresearchcontinuesto
+identifywhichoftheenablingconditionsaremostpotentforwhichtypesofteamsand
+whydifferentkinds ofteamsarehelpedmoreby certainconditions thanby others.
+Moreover,itwillbeinformativetoexploreindetailthedynamicsofteamsforwhich
+the TDS-measured enabling conditions do not predict effectiveness—that is, teams
+that do well despite their poor performance circumstances and teams that perform
+poorly despite the presence of the enabling conditions.
+Using the TDS
+TheTeamDiagnosticSurveywasdesignedfortwomutuallysupportiveactivities:
+researchontheeffectivenessoftask-performingteamsandinterventionsinsocialsys-
+temsthatseektoimproveteameffectiveness.Apaperversionoftheinstrumentand
+thekeyforcomputinggroup-levelcompositescoresisavailablefromtheauthors,and
+
+## Page 23
+
+Wageman et al. / TEAM DIAGNOSTIC SURVEY 395
+anonlineversionoftheinstrumentsuitableforbothresearchandconsultativeapplica-
+tions is available at http://research.wjh.harvard.edu/TDS.
+DatafromtheTDS—whethercollectedbyresearchers,consultants,teamleaders,
+ormembersthemselves—providereliableindicatorsofthequalityofteamdesignand
+leadershipandcanidentifythemajorpointsofleverage(e.g.,anoverlargeteamorlack
+ofcoaching)forimprovingateam’seffectiveness.Forexample,Table4showsthata
+numberoftheseniormanagementteamsinoursamplesufferfromunformednormsof
+conduct.TheCEOsofsuchteamsmightbecoachedinhowtohelptheteamarticulate
+and enforce constructive operating norms.
+Comparisonsacrossteamsinanorganizationcanbeusedtopinpointcommonali-
+ties(e.g.,poordirectionsettingorfewrewardsforteamexcellence)thatcouldfocus
+training and development activitiesfor teamleaders or organizationalsystem rede-
+sign. For example, Table 4 shows that the coacting analytic groups are underchal-
+lengedbytheirpurposesandareunderrewardedasteams.Anorganizationalchange
+intervention aimed at helping leaders create real teams, teaching them to articulate
+challengingpurposes,andredesigningtherewardsystemtoprovidevaluedoutcomes
+forteamexcellencecouldhaveamajorpositiveimpactonteameffectivenessinthis
+organization.
+NotethattheTeamDiagnosticSurveyisintendedforuseonlywithintactteamsthat
+perform work in a social system context, not groups that are teams in name only.
+BecauseTDSscoresarereliableandmeaningfulonlyattheteamlevelofanalysis,the
+instrumentisnotappropriateforassessingtheperceptionsorattitudesofindividual
+members.Datafromteammembersshouldalwaysbeaggregatedtotheteamlevel,
+andintraclasscorrelationsshouldalwaysbecomputedtoaffirmthattheteam-level
+scores can be meaningfully interpreted.
+Whenusedtodiagnosethestrengthsandweaknessesofworkteams,theaspiration
+shouldbetoobtainresponsesfromallteammembersbecausethosewhoprefernotto
+completetheinstrumentmayhaveperceptionsthatwouldbecriticalingeneratinga
+robustassessmentoftheteam.Wesuggestthatdataforateamnotevenbeanalyzed
+unless more than 50% of its members—and ideally substantially more than that—
+completethesurvey.Theinstrumentalsoisnotappropriateforpersonnelevaluation,
+suchastoassesshowwellteamleadersaredoingtheirjobs.Instead,thegreatestprac-
+ticalbenefitsofusingtheTDSareobtainedwhenteammembersmeettoreviewtheir
+TDSfindings,explorethepossiblereasonsfortheteam’spatternofscores,andreflect
+togetheraboutwhattheymightdotostrengthentheirteam’sstandingontheenabling
+conditions.TheonlineversionoftheTDS,citedearlier,providesparticipatingteams
+withasetoffeedbackchartsanddiscussionquestionsspecificallyintendedtohelp
+members have constructive discussions about such matters.
+WhentheTDSisusedinscholarlyorevaluationresearch,independentassessments
+shouldalwaysbeobtainedforthoseaspectsofteambehaviororperformancethatare
+ofgreatestresearchinterest,aswasdoneintheHackmanandO’Connor(2005)study
+describedearlier.Independentassessmentsareimportantinpartbecauseofthevul-
+nerabilityofself-reportsurveystointerpretiveambiguitiesthatstemfromcommon
+methodvariance.Butitalsoisthecasethatmanyfeaturesofteams—especiallyteam
+processes, leadership, and performance—are vulnerable to cognitive and affective
+
+## Page 24
+
+396 THE JOURNAL OF APPLIED BEHAVIORAL SCIENCE December 2005
+distortionsofwhichrespondentsmaybeunaware.ProperinterpretationofTDSfind-
+ings require that aggregated individual responses be anchored in objective reality.
+Moreover,becauseteamsaresocialsystems,theyoftencreateandenforcesocial
+realitiesthatmaybeatvariancewiththeactualfeaturesoftheirperformancecircum-
+stances.Althoughsocialrealitiesmaybeimportanttounderstandforsomeresearch
+purposes,italsoiscriticaltoknowhowwellrespondents’viewsfitwithindicatorsthat
+arelessvulnerablethansurveystotheinfluenceoflaytheoriesaboutteamdynamics
+and performance (Staw, 1975).
+Whetherusedforteamdiagnosisorscholarlyresearch,theTeamDiagnosticSur-
+veycanbringquantitativedatatobearinenrichingunderstandingofworkteamsandin
+correctingthedistortionsthatpervadetheeverydayassessmentsmadebothbyteam
+membersandbyoutsideobservers.Evenso,findingsfromtheTDSitselfcanbemis-
+leadingifcareisnottakentoensurethattheconditionsofdatacollection,dataanalysis
+procedures,andinterpretationsofTDSfindingsallaremanagedatthehighestlevels
+of professionalism.
+NOTES
+1.Ateam’sperformancestrategyisthesetofchoicesmembersmakeabouthowtocarryoutthework.
+Forexample,amanufacturingteammightdecidetodivideitselfintothreesubgroups,eachofwhichwould
+produceonesubassembly,withthefinalproducttobeassembledlater.Orabasketballteammightdecideto
+usemodifiedzonedefense,withoneplayerassignedtoguardtheopposingteam’sbestshooter.Orateam
+performingacreativetaskmightchoosetofreeassociateaboutpossiblesolutionsinthefirstmeeting,reflect
+foraweekabouttheideasthatcameup,andthenreconvenetodrafttheproduct.Allofthesearechoices
+about strategy.
+2.Interitemcorrelationsonwhichreliabilitieswerebasedwerecomputedboth(a)usingtheentiresam-
+pleof1,272respondentsand(b)usingmultiplesubsamples,eachofwhichconsistedofonerespondentfrom
+eachofthe181teams(thelatterprocedureisnotvulnerabletothenonindependenceoftheresponsesofmul-
+tipleindividualswithingiventeams).Becausethesetwoproceduresyieldedvirtuallyidenticalinteritemcor-
+relations, we report the simpler analysis that uses all 1,272 respondents.
+3.TheitemspresentedarethoseincludedinthefinalversionoftheTeamDiagnosticSurveyafterfine-
+tuning a few items based on analyses of the second revision of the instrument.
+4.Specifically,werevisedoneiteminthechallengescalebecausecommentsfromuserssuggestedthat
+respondentswereinterpretingtheitemasastatementaboutteamskillsratherthanaboutteampurposes.We
+addedoneitemeachtothescalesassessingteamboundednessandinterdependence.Werevisedoneitem
+eachfromthesizeandjudgmentscales,revisedbothitemsinthediversityscaletobetterreflecttheconstruct
+definition,andaddedoneitemtothewholetaskscale.Wealsorevisedoneitemeachfromtheleaderoperant
+coachingandleaderunhelpfuldirectivesscalestoaddresstheirreliabilityproblems.Finally,wedeletedone
+item from the general satisfaction scale.
+5.Moreover,competenttask-focusedcoaching(e.g.,leadingaproblem-solvingprocess)helpedwell-
+designedteamsexploittheirfavorablecircumstancesbutmadelittledifferenceforpoorlydesignedteams.
+Bycontrast,unhelpfulcoachinginterventions(e.g.,identifyingateam’sproblemsandtellingmembershow
+theyshouldsolvethem)weremuchmoredeleteriousforpoorlydesignedteamsthanforthosethathadan
+enabling team structure and a supportive organizational context.
+
+## Page 25
+
+Wageman et al. / TEAM DIAGNOSTIC SURVEY 397
+REFERENCES
+Allmendinger,J.,Hackman,J.R.,&Lehman,E.V.(1996).Lifeandworkinsymphonyorchestras.Musical
+Quarterly,80, 194-219.
+Campion,M.A.,Medsker,G.J.,&Higgs,C.(1993).Relationsbetweenworkgroupcharacteristicsandeffi-
+ciency: Implications for designing effective work groups.Personnel Psychology,46, 823-850.
+CorneliusAssociates.(2004).Teamrolesanalysis:Self-assessmentformforteambuilding.Availableat
+http://www.corneliusassociates.com
+Cortina,J.M.(1993).Whatiscoefficientalpha?Anexaminationoftheoryandapplications.Journalof
+Applied Psychology,78, 98-104.
+DeVellis, R. F. (1991).Scale development: Theory and applications. Newbury Park, CA: Sage.
+Gersick,C.J.G.(1988).Timeandtransitioninworkteams:Towardanewmodelofgroupdevelopment.
+Academy of Management Journal,31, 9-41.
+Ghiselli, E. E. (1964).Theory of psychological measurement. New York: McGraw-Hill.
+Hackman,J.R.(1987).Thedesignofworkteams.InJ.Lorsch(Ed.),Handbookoforganizationalbehavior
+(pp. 315-342). Englewood Cliffs, NJ: Prentice Hall.
+Hackman, J. R. (1990).Groups that work (and those that don’t). San Francisco: Jossey-Bass.
+Hackman,J.R.(1993).Teams,leaders,andorganizations:Newdirectionsforcrew-orientedflighttraining.
+InE.L.Wiener,B.G.Kanki,&R.L.Helmreich(Eds.),Cockpitresourcemanagement(pp.47-69).San
+Diego, CA: Academic Press.
+Hackman,J.R.(2002).Leadingteams:Settingthestageforgreatperformances.Boston:HarvardBusiness
+School Press.
+Hackman,J.R.,&Lawler,E.E.(1971).Employeereactionstojobcharacteristics.JournalofAppliedPsy-
+chology Monograph,55, 259-286.
+Hackman,J.R.,&Morris,C.G.(1975).Grouptasks,groupinteractionprocess,andgroupperformance
+effectiveness:Areviewandproposedintegration.InL.Berkowitz(Ed.),Advancesinexperimental
+social psychology(pp. 45-99). San Diego, CA: Academic Press.
+Hackman,J.R.,&O’Connor,M.(2005).Whatmakes foragreatanalyticteam?Individualvs.team
+approachestointelligenceanalysis.Washington,DC:IntelligenceScienceBoard,OfficeoftheDirector
+of Central Intelligence.
+Hackman, J. R., & Oldham, G. R. (1980).Work redesign. Reading, MA: Addison-Wesley.
+Hackman,J.R.,&Wageman,R.(2005).Atheoryofteamcoaching.AcademyofManagementReview,30,
+269-287.
+Komaki, J. L. (1998).Leadership from an operant perspective. New York: Routledge.
+Lefton,R.E.,&Buzzotta,V.R.(2005).TheTeamScorecard.Availableathttp://www.communicare.com
+Linkage Assessment Services. (2004).The HiPlay Team Assessment. Burlington, MA: Linkage, Inc.
+Mohr,L.B.(1971).Organizationaltechnologyandorganizationalstructure.AdministrativeScienceQuar-
+terly,16, 444-459.
+Office of Educational Assessment. (1998).Inter-rater reliability. Seattle: University of Washington.
+Parker, G. R. (1998).25 instruments for team building. Amherst, MA: HRD Press.
+Pearce,J.L.,&Gregersen,H.B.(1991).Taskinterdependenceandextrarolebehavior:Atestofthemediat-
+ing effects of felt responsibility.Journal of Applied Psychology,76, 838-844.
+Reliable Surveys Online. (2005).Team effectiveness. Available at http://reliablesurveys.com
+Staw,B.M.(1975).Attributionofthe“causes”ofperformance:Ageneralalternativeinterpretationofcross-
+sectional research on organizations.Organizational Behavior and Human Performance,13, 414-432.
+Steiner, I. D. (1972).Group process and productivity. San Diego, CA: Academic Press.
+VanderVegt,G.S.,Emans,B.J.,&VandeVliert,E.(2000).Affectiveresponsestointragroupinterdepen-
+dence and job complexity.Journal of Management,26, 633-655.
+VanderVegt,G.S.,Emans,B.J.,&VandeVliert,E.(2001).Patternsofinterdependenceinworkteams:A
+two-levelinvestigationoftherelationswithjobandteamsatisfaction.PersonnelPsychology,54,51-68.
+
+## Page 26
+
+398 THE JOURNAL OF APPLIED BEHAVIORAL SCIENCE December 2005
+Wageman,R.(2001).Howleadersfosterself-managingteameffectiveness:Designchoicesversushands-on
+coaching.Organization Science,12, 559-577.
+Wageman,R.,&Mannix,E.A.(2005).Theusesandmisusesofindividualpowerinteams:Evidencefrom
+the field. Manuscript submitted for publication.
+Wuensch,K.L.(2003).Interrateragreement.RetrievedMarch24,2005,fromhttp://core.ecu.edu/psych/
+wuensch/docs20/InterRater.doc

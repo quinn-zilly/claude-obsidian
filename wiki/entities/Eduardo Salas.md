@@ -6,12 +6,14 @@ title: "Eduardo Salas"
 tags: [entity, person, researcher, teams, I-O-psychology, diversity-training]
 status: developing
 created: 2026-06-01
-updated: 2026-06-01
 related:
   - "[[Team Development Interventions]]"
   - "[[Team Training]]"
   - "[[Team Building]]"
   - "[[shuffler-et-al-2011-team-development-interventions]]"
+  - "[[burke-et-al-2006-team-adaptation]]"
+  - "[[Team Adaptation (Burke Cross-Level Model)]]"
+updated: 2026-07-03
 ---
 
 # Eduardo Salas
@@ -26,6 +28,7 @@ Moved to Rice University (Houston, TX) by 2018. Email: eduardo.salas@rice.edu
 - Salas et al. (2001) — CRM training meta-analysis (*Human Factors*)
 - Salas et al. (2008) — team training meta-analysis (*Human Factors*)
 - Salas, Cooke & Rosen (2008) — teamwork attitudes/behaviors/cognitions framework
+- **Burke, Stagl, Salas, Pierce & Kendall (2006)** — [[burke-et-al-2006-team-adaptation]] — the classic [[Team Adaptation (Burke Cross-Level Model)|four-phase adaptive cycle]] model
 - **Salas, Rosen, Burke & Goodwin (2009)** — [[salas-et-al-2009-wisdom-of-collectives]] — "wisdom of collectives"; update of the [[ABCs of Teamwork Competencies]] and the [[Big Five of Teamwork]]
 - Salas, Rozell, Mullen & Driskell (1999) — team building meta-analysis
 - **Shuffler, DiazGranados & Salas (2011)** — [[shuffler-et-al-2011-team-development-interventions]]
