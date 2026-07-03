@@ -83,3 +83,7 @@ All source pages — summaries of ingested documents, transcripts, articles, and
 ### Technology Acceptance & IS Adoption
 
 - [[dwivedi-2019-utaut-revision|Dwivedi et al. (2019)]] — *Information Systems Frontiers* — critical review + [[MASEM]] of [[UTAUT]]; reinstates [[Attitude as Mediator|attitude]] as a mediator, drops moderators, adds FC→BI
+
+### Teams & Teamwork Competencies
+
+- [[salas-et-al-2009-wisdom-of-collectives|Salas, Rosen, Burke & Goodwin (2009)]] — *Team Effectiveness in Complex Organizations* (ch. 3) — updates the [[ABCs of Teamwork Competencies]] with empirical-support ratings; synthesizes the [[Big Five of Teamwork]]; "wisdom of collectives" as emergent team property; IPO→IMOI

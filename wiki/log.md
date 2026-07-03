@@ -19,6 +19,13 @@ Navigation: [[index]] | [[hot]] | [[overview]]
 
 Append-only. New entries go at the TOP. Never edit past entries.
 
+## [2026-07-03] ingest | The Wisdom of Collectives in Organizations (Salas, Rosen, Burke & Goodwin, 2009)
+- Source: `.raw/Salas et al. - 2009 - The Wisdom of Collectives in Organizations An Update of the Teamwork Competencies.md`
+- Summary: [[salas-et-al-2009-wisdom-of-collectives]]
+- Pages created: [[Big Five of Teamwork]], [[ABCs of Teamwork Competencies]], [[Michael A. Rosen]], [[C. Shawn Burke]], [[Gerald F. Goodwin]] (c-000789–794)
+- Pages updated: [[Eduardo Salas]], [[Teams & Org Behavior MOC]], [[index]], [[hot]]
+- Key insight: Updates the 1995 Cannon-Bowers et al. teamwork competencies into the **ABCs** (Attitudes/Behaviors/Cognitions, KSAOs) with empirical-support ratings, and synthesizes the **Big Five of Teamwork**; team performance reframed as an emergent "wisdom of collectives," with the field shifting IPO → IMOI to take time and emergent states seriously.
+
 ## [2026-06-30] ingest | Ericsson & Lehmann (1996) — Expert and Exceptional Performance
 - Source: `.raw/Ericsson and Lehmann - 1996 - EXPERT AND EXCEPTIONAL PERFORMANCE Evidence of Maximal Adaptation to Task Constraints.md`
 - Summary: [[ericsson-lehmann-1996-expert-exceptional-performance]]

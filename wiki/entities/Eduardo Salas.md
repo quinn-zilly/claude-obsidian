@@ -26,6 +26,7 @@ Moved to Rice University (Houston, TX) by 2018. Email: eduardo.salas@rice.edu
 - Salas et al. (2001) — CRM training meta-analysis (*Human Factors*)
 - Salas et al. (2008) — team training meta-analysis (*Human Factors*)
 - Salas, Cooke & Rosen (2008) — teamwork attitudes/behaviors/cognitions framework
+- **Salas, Rosen, Burke & Goodwin (2009)** — [[salas-et-al-2009-wisdom-of-collectives]] — "wisdom of collectives"; update of the [[ABCs of Teamwork Competencies]] and the [[Big Five of Teamwork]]
 - Salas, Rozell, Mullen & Driskell (1999) — team building meta-analysis
 - **Shuffler, DiazGranados & Salas (2011)** — [[shuffler-et-al-2011-team-development-interventions]]
 - **Lacerenza, Marlow, Tannenbaum & Salas (2018)** — [[lacerenza-et-al-2018-team-development-interventions]]

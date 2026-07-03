@@ -156,6 +156,8 @@ Navigation: [[Home MOC]] | [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[
 - [[Return on Development Investment (RODI)]] — Avolio et al. 2010 utility formula: N×T×d×SDy−C; avg d=0.52 from meta-analysis; 44–87% average RODI; developmental readiness and selection as moderators (evergreen)
 - [[Psychological Safety]] — mutual belief team won't punish speaking up; cross-cutting enabler for training and debriefing; #1 Google team predictor (developing)
 - [[Teamwork Processes (Marks et al. Taxonomy)]] — 10 narrow → 3 intermediate (transition/action/interpersonal) → 1 general factor; all ρ ≈ .29 with performance; stronger when interdependence high (mature)
+- [[Big Five of Teamwork]] — Salas, Sims & Burke (2005): 5 components (leadership, adaptability, mutual performance monitoring, backup, team orientation) + 3 coordinating mechanisms (shared mental models, closed-loop communication, mutual trust); accuracy > sharedness (developing)
+- [[ABCs of Teamwork Competencies]] — Attitudes/Behaviors/Cognitions (KSAOs) taxonomy; Cannon-Bowers et al. 1995, updated w/ empirical-support ratings by Salas et al. 2009 (developing)
 - [[Emergent States (Teams)]] — cohesion, potency, TMS; both antecedents and outcomes of processes; IMOI model (developing)
 - [[Team Development Interventions]] — team building vs. team training; distinct targets, mechanisms, and outcome profiles; science-based design required (mature)
 - [[Team Building]] — four approaches: goal setting, interpersonal relationships, role clarification, problem solving; best for affect/process outcomes (mature)
@@ -439,6 +441,9 @@ Navigation: [[Home MOC]] | [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[
 - [[Herbert A. Simon]] — polymath (CMU); Nobel/Turing; bounded rationality; Chase & Simon chess chunking theory
 - [[William G. Chase]] — cognitive psychologist; Chase & Simon chess memory; skilled memory theory with Ericsson
 - [[Adriaan de Groot]] — Dutch psychologist/chess master; *Thought and Choice in Chess* (1946); founding expertise study
+- [[Michael A. Rosen]] — teams / team cognition / expert-team performance researcher; Salas collaborator (patient safety, Johns Hopkins)
+- [[C. Shawn Burke]] — team-adaptation & shared-leadership researcher (UCF IST); co-author of the Big Five of Teamwork
+- [[Gerald F. Goodwin]] — team-performance researcher (U.S. Army Research Institute); co-editor *Team Effectiveness in Complex Organizations*
 - [[Robin Hogarth]] — JDM researcher (ICREA/UPF Barcelona); lens model, heuristics vs linear models; co-author Karelaia & Hogarth (2008)
 - [[Natalia Karelaia]] — decision researcher (Lausanne/INSEAD); lens model, decision modeling; co-author Karelaia & Hogarth (2008)
 - [[Chockalingam Viswesvaran]] — I/O psychologist (FIU); job-performance measurement & meta-analysis; lead author Viswesvaran et al. (2005)
@@ -561,6 +566,7 @@ Navigation: [[Home MOC]] | [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[
 
 ## Sources
 
+- [[salas-et-al-2009-wisdom-of-collectives|Salas, Rosen, Burke & Goodwin (2009)]] — *Team Effectiveness in Complex Organizations*, ch. 3 | updates the **teamwork competencies** (ABCs) from Cannon-Bowers et al. 1995 with empirical-support ratings; synthesizes the **Big Five of Teamwork**; frames effective teams as an emergent "wisdom of collectives"; IPO→IMOI and time in teamwork | 2026-07-03
 - [[ericsson-lehmann-1996-expert-exceptional-performance|Ericsson & Lehmann (1996)]] — Annual Review of Psychology | Expert performance as **maximal adaptation to task constraints**, acquired via ~10 yrs [[Deliberate Practice|deliberate practice]]; talent "small, possibly negligible"; anticipation, LT-WM & chunking circumvent generic limits | 2026-06-30
 - [[karelaia-hogarth-2008-lens-model-meta-analysis|Karelaia & Hogarth (2008)]] — Psychological Bulletin | 5-decade meta-analysis of **lens model** studies (249 environments, ~303k judgments); mean achievement .56, matching .80, consistency .80; three findings — people judge fairly well, learn best from **task-information feedback**, and **bootstrapping** (model of the judge) beats the judge; expertise doesn't raise accuracy | 2026-06-30
 - [[viswesvaran-schmidt-ones-2005-general-factor-job-performance|Viswesvaran, Schmidt & Ones (2005)]] — Journal of Applied Psychology | 90 years of performance-rating intercorrelations; after netting out halo + 3 error sources a **real general factor (~60% of variance)** remains; halo inflates interdimension correlations +33% (supervisor) / +63% (peer); peer & supervisory ratings construct-equivalent | 2026-06-30
