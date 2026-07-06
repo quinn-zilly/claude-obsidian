@@ -5,8 +5,8 @@ title: "Multicultural vs. Colorblind Approaches"
 tags: [concept, diversity-training, DEI, intergroup-relations, colorblindness, multiculturalism]
 status: evergreen
 created: 2026-06-04
-updated: 2026-06-04
-related: ["[[Diversity Training]]", "[[Diversity Training Myths]]", "[[cheng-et-al-2019-diversity-training-myths|Cheng et al. 2019]]", "[[Implicit Bias]]"]
+updated: 2026-07-06
+related: ["[[Diversity Training]]", "[[Diversity Training Myths]]", "[[cheng-et-al-2019-diversity-training-myths|Cheng et al. 2019]]", "[[Implicit Bias]]", "[[Diversity Ideologies]]", "[[leslie-et-al-2020-diversity-ideologies-meta-analysis|Leslie et al. 2020]]"]
 ---
 
 # Multicultural vs. Colorblind Approaches
@@ -44,6 +44,11 @@ Diversity training framing matters. Broad, multicultural framing:
 > [!key-insight]
 > The goal is not to pretend differences don't exist, but to acknowledge them in a way that promotes understanding, appreciation, and inclusion.
 
+## Refinement: Beyond the Binary
+
+> [!note] Colorblind is not one thing
+> [[Diversity Ideologies|Leslie et al. (2020)]] show the "colorblind" pole actually bundles **three** distinct identity-blind ideologies — colorblindness, meritocracy, and assimilation — with **divergent** effects. Colorblindness reduces stereotyping but is null for discrimination; meritocracy strongly reduces discrimination (ρ = −.48) but not prejudice; assimilation *worsens* all bias forms. So "colorblind fails" is too coarse: the multicultural advantage holds overall, but the identity-blind side needs disaggregation. See [[Diversity Ideologies]].
+
 ## See Also
 
-[[Diversity Training]] | [[Diversity Training Myths]] | [[cheng-et-al-2019-diversity-training-myths|Cheng et al. 2019]] | [[Implicit Bias]]
+[[Diversity Ideologies]] | [[Diversity Training]] | [[Diversity Training Myths]] | [[cheng-et-al-2019-diversity-training-myths|Cheng et al. 2019]] | [[Implicit Bias]]

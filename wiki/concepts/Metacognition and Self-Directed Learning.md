@@ -3,10 +3,10 @@ address: c-000401
 type: concept
 title: "Metacognition and Self-Directed Learning"
 created: 2026-06-04
-updated: 2026-06-04
+updated: 2026-07-06
 tags: [concept, metacognition, self-regulation, learning-science, pedagogy]
 status: evergreen
-related: ["[[Self-Directed Learning]]", "[[Self-Regulatory Skills]]", "[[Goal-Directed Practice and Feedback]]", "[[Judgment of Learning]]", "[[cmu-eberly-learning-principles]]"]
+related: ["[[Self-Directed Learning]]", "[[Self-Regulatory Skills]]", "[[Goal-Directed Practice and Feedback]]", "[[Judgment of Learning]]", "[[cmu-eberly-learning-principles]]", "[[Dunning-Kruger Effect]]"]
 ---
 
 # Metacognition and Self-Directed Learning
@@ -51,3 +51,8 @@ CMU Eberly: "students tend not to engage in these processes naturally." This is 
 - Carver & Scheier (1998): *On the Self-Regulation of Behavior*
 - Schommer (1994): epistemological beliefs and learning
 - [[cmu-eberly-learning-principles]]
+
+## Connection: the metacognitive deficit of incompetence
+
+> [!connection] Dunning-Kruger
+> The systematic overestimation of one's own learning is a special case of the **[[Dunning-Kruger Effect]]** ([[kruger-dunning-1999-unskilled-and-unaware|Kruger & Dunning 1999]]): the skills that produce competent work overlap with the skills needed to judge it, so the least skilled have the least insight. The remedy — building competence — is exactly what develops the metacognitive skill to self-assess accurately.

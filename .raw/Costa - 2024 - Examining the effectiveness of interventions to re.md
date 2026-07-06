@@ -1,0 +1,2715 @@
+## Page 1
+
+Journal of Applied Psychology
+Examining the Effectiveness of Interventions to Reduce Discriminatory
+Behavior at Work: An Attitude Dimension Consistency Perspective
+Elaine Costa
+Online First Publication, August 29, 2024. https://dx.doi.org/10.1037/apl0001215
+CITATION
+Costa, E. (2024). Examining the effectiveness of interventions to reduce discriminatory behavior at work:
+An attitude dimension consistency perspective.. Journal of Applied Psychology. Advance online publication.
+https://dx.doi.org/10.1037/apl0001215
+
+## Page 2
+
+JournalofAppliedPsychology
+
+©2024AmericanPsychologicalAssociation
+
+ISSN:0021-9010https://doi.org/10.1037/apl0001215
+
+ExaminingtheEffectivenessofInterventionstoReduceDiscriminatory
+
+BehavioratWork:AnAttitudeDimensionConsistencyPerspective
+
+ElaineCosta
+
+McIntireSchoolofCommerce,UniversityofVirginia
+
+Academicinterestinreducingdiscriminationhasproducedsubstantialresearchtestinginterventionsto
+
+ﬁmitigatebiasedoutcomes.However,disparatendingsandascarcityofstudiesexaminingwork-related
+
+behavioralmeasuresmakeitchallengingtodeterminewhichinterventionsarebettersuitedtoreduce
+
+.y
+
+workplacediscrimination.Derivedfromthetripartitetheoryofattitudesandtheprincipleofcompatibility,I
+
+l
+
+d
+
+.as
+
+developaconceptualmodelmappingtheattitudefocusofinterventionsandcodestudiesinthisliterature
+
+ro
+
+er
+
+hbfromthepasttwodecadesforthesecommonproperties.Basedonameta-analysisof70articlestotaling208
+
+s
+
+id
+
+lﬁe
+
+beffectsizes,Itestthisconceptualmodel,ndingthatithelpsexplainwhysomeinterventionstoreduce
+
+tu
+
+a
+
+pn
+
+discriminationyieldsuperioroutcomesrelativetoothers.Inparticular,resultsindicatethatpassive
+
+id
+
+m
+
+einterventions,suchasshort-termeducationorremindersofbiasprocesses,arelargelyineffectiveinshifting
+
+ei
+
+ls
+
+ls
+
+abehavior.Conversely,theclassofinterventionsthattargetsbehaviordirectlybyattemptingtoinhibitthe
+
+i
+
+ds
+
+te
+
+imanifestationofbias(e.g.,makingindividualsaccountablefortheirdecisionsorchangingsocialnorms)
+
+bf
+
+o
+
+oemergedasthemosthelpfulcategoryofinterventionsinthisarea.Overall,resultssupportakeyprediction
+
+te
+
+nt
+
+oftheattitudedimensionconsistencyperspective,demonstratingthataligningtheattitudedimensionoo
+
+n
+
+r
+
+primarilytargetedbyaninterventionandtheoutcomemeasuredcouldleadtoimprovedresultsinthisarea.os
+
+i
+
+nd
+
+on
+
+iKeywords:discrimination;diversity,equity,andinclusion;interventions;prejudice;biasreductiona
+
+t
+
+a
+
+ir
+
+ce
+
+os
+
+us
+
+s
+
+Al
+
+a
+
+toaddresstheseissues,traditionally,thishasbeenachallengingInrecentyears,increasedpublicconcernoversocialjusticeissuesu
+
+ld
+
+a
+
+icquestiontoanswer,asinterventionshavemetwithmixedsuccessinledcorporateleadersworldwidetoprioritizediversity,equity,and
+
+vi
+
+gi
+
+do
+
+nthisliteratureintwodistinctways.First,interventionsthatappearinclusion(DEI)policiesintheirorganizations.Surveysconductedal
+
+oi
+
+he’
+
+effectiveundercertainconditionsproducenullorweakereffectsinfewmonthstoayearafterGeorgeFloydsdeathshowedthatDEIch
+
+yt
+
+s
+
+fPdifferentcontexts(Aboudetal.,2012;Hsiehetal.,2022;Rodon&initiativesremainedatopconcernamongC-suiteexecutives,
+
+o
+
+ne
+
+éaFranco-Guilln,2014).Despitethis,onlyasmallproportionofpromptingseveralpro-diversityandequitypolicyannouncements
+
+s
+
+cu
+
+i
+
+rl
+
+researchexamininginterventionstodecreasebiasinvestigateswork-fromorganizationsacrossindustries(Colletta,2022;Fortune-ea
+
+mn
+
+oA
+
+relatedoutcomes,withmostinterventionalstudiesassessingmoreDeloitte,2020;Glazer&Francis,2021;Ryan&Fiatte,2022).Whiles
+
+r
+
+ee
+
+phgeneral,nonwork-relatedattitudesandbehaviors(Palucketal.,2021).someoftheseinitiativesrampedupcurrentstandardorganizational
+
+t
+
+e
+
+yﬂh
+
+Thisisnotablesinceworkplacesettingscouldpotentiallyinuencethepracticesinthisarea,suchasincreasingdiversitytraining,othersb
+
+t
+
+rd
+
+ointroducedmorenovelstrategies,suchasimplementinganon-effectivenessofinterventionsindifferentways.Forexample,research
+
+ef
+
+t
+
+hy
+
+gymizedresumes(Agovino,2020;Carlos,2021).Akeyopenhasshownthatadoptingabusinessframingtodecisionmakingcanl
+
+ei
+
+rl
+
+yoﬂ
+
+questiontomanagementpracticethatshouldbeinformedbytheoryinuencethecognitiveprocessingofinformation(Reesetal.,2022).p
+
+s
+
+o
+
+dc
+
+ﬁandgroundedinempiricalevidenceiswhichinitiativescompanieseInaddition,ascertainwork-specicinterventionscanbeexaminedin
+
+ds
+
+in
+
+shouldadoptbasedontheirpropensitytoproducemeaningfuleawaythatisdistinctfromothercontexts(e.g.,anonymizingresumes,t
+
+nt
+
+ne
+
+changeinorganizations.Whilemuchresearchhasbeenconductedimremindingindividualsaboutequalemploymentopportunitypolicies
+
+su
+
+i
+
+c
+
+eandlaws),anevaluativereviewofinterventionscenteredonlyono
+
+ld
+
+c
+
+i
+
+tworkplaceoutcomesisapressingneed.s
+
+ri
+
+ah
+
+TsSecond,inmanycases,aninterventionmighteffectivelyreduceone
+
+i
+
+h
+
+T
+
+aspectofbias(e.g.,discriminatorybehavior)butnotanother(e.g.,
+
+JennyM.Hooblerservedasactioneditor.
+
+prejudicialevaluations;Forscheretal.,2019;Palucketal.,2021).In
+
+ElaineCostahttps://orcid.org/0000-0002-5786-7399
+
+thisregard,Iarguethattheseresultsoccurbecausedifferent
+
+AnearlierversionofthisworkwaspresentedattheRisingScholars
+
+dimensionsinterventionslikelytargetdistinctofattitudes.CurrentConference,HarvardBusinessSchool,October2021,andattheTrendsin
+
+ﬁscholarshiplacksaframeworkthatsystematicallyclassieswhich
+
+PsychologySummit(TiPS),HarvardUniversityWomeninPsychology,
+
+November2021.IwishtothankDavidTannenbaumandJacquelineChenforelementofattitudesisprimarilyalteredbywhichinterventional
+
+’theircommentsandfeedbackonearlierdraftsofthispaper,aswellastheapproach,hinderingresearchersabilitytopredicthowindividualsare
+
+researchassistantswhocontributedwithcodingforthisproject.
+
+likelytorespondtothesevariousinterventions.However,under-
+
+ElaineCostaplayedaleadroleintheconceptualization,formalanalysis,’
+
+standingtheinterplaybetweenaninterventionsattitudinalfocusand
+
+investigation,methodology,projectadministration,visualization,supervi-
+
+thedesiredoutcomeiscriticalforbuildingbetterinterventionsinthis
+
+––sion,writingoriginaldraft,andwritingreviewandediting.
+
+area.Toaddressthislimitation,Ireviewstudiesinthisliterature,
+
+CorrespondenceconcerningthisarticleshouldbeaddressedtoElaine
+
+mappinginterventionapproachestotheprimaryattitudedimension
+
+Costa,McIntireSchoolofCommerce,UniversityofVirginia,Roussand
+
+affectedbyeachinterventionprocedure,uncoveringcommonalitiesin
+
+RobertsonHalls,Charlottesville,VA22904,UnitedStates.Email:
+
+howtheyhavebeentypicallyimplemented.Indevelopingthiscosta@virginia.edu
+
+1
+
+## Page 3
+
+intervention classification system, I leverage the tripartite model of Conversely, Gloor and Puhl (2016) found a perspective-taking
+attitudes(Rosenberg&Hovland,1960),whichidentifiesthedistinct intervention increased empathy and improved affective reactions
+components that underpin attitudes toward social groups. The toward obese individuals while having no impact on behavioral
+resulting taxonomy offers a comprehensive view of which aspect intentions relating to social interactions (e.g., working in the same
+ofattitudesthedifferentinterventionstrategiestestedsofarprimarily officeorsocializingatanevent).Meanwhile,Paluck(2011)evaluated
+intervene on. Using this categorization, I formulate and test a the effect of a peer influence intervention on several bias outcome
+frameworkshowingwhichclassofinterventionsworksbesttoreduce measures, finding that the intervention was effective in changing
+discriminatorybehaviorintheworkplaceandwhy. behavior in the treated group but not their beliefs. Likewise, field
+Overall,thisexaminationexpandsthecumulativeknowledgein experiments leveraging intergroup contact interventions by Mousa
+this literature in three ways. First, a taxonomy that methodically (2020)andScaccoandWarren(2018)reduceddiscriminatorybehavior
+identifies intervention categories based on attitude dimensions butshowednoeffectsorinconsistentresultsonprejudicialattitudes.
+shouldenhancethepredictiveabilityofinterventionalprocedures— The mixed results in the bias intervention literature stem from
+helping improve the efficacy of future intervention approaches. variousfactors,suchashowconstructsaremeasuredoridiosyncratic
+Second,bydemonstratingthatdifferencesexistineffectivenessto aspectsofinterventionparadigmsacrossstudies(Dixonetal.,2010;
+reduce biased outcomes based on which attitude component is Gloor & Puhl, 2016; Paluck & Green, 2009; Skinner & Meltzoff,
+targeted by different interventions, this work contributes a novel 2019). Yet, given that a number of studies measuring different
+perspective to the stereotypes and discrimination scholarship by attitudinaldimensionsinthesameinvestigationshowresultswhere
+clarifying one reason why certain interventions produce more theinterventionissuccessfulononedimensionbutproducesnullor
+successfulresultsthanothers.Last,byidentifyingthemosteffective moremodesteffectsontheothers,suggestsanotherpossiblesourceof
+intervention approaches aimed at reducing workplace discrimina- this inconsistency: that interventions are fundamentally targeting
+tion specifically, this work offers guidance to leaders and different dimensions of attitudes (Álvarez-Delgado et al., 2022;
+practitioners in their efforts to combat one of the most critical Hanisch et al., 2016). In this case, while an intervention can also
+andpersistentsocietalchallengesfacingorganizations(Amisetal., change other attitudinal dimensions, stronger effects should occur
+2020;Sharma&Mann,2018;Yang&Liu, 2021). whenthereisconcordancebetweentheintervention’sfocalattitude
+dimensionandtheoutcomemeasured(Chambonetal.,2022;Koket
+al., 2016). Therefore, to improve theoretical and practical under-
+Theoretical Background and Conceptual Model standing in this area, it is helpful to consider the focal attitudinal
+dimension of the intervention relative to their effectiveness in
+Attitude Dimensions
+changingworkplacebiasmeasures.
+Bias is an unfair response (evaluative, emotional, cognitive, or The tripartite model of attitudes has been employed in various
+behavioral) that favors or disfavors an individual or the group to settingsbeyondtheworkplacetoexaminebiasreductioninterven-
+whichtheybelongoverothers(Dovidio&Gaertner,2010).Oneway tions. For instance, researchers have examined reducing different
+bias, or attitudinal preferences, are broadly distinguished in the attitudinal measures of political bias, such as countering biased
+literature is through the tripartite model of attitudes (Rosenberg & cognitiveandemotionalresponsesrootedinpoliticalaffiliationby
+Hovland, 1960). According to the contemporary view of this providing participants with different viewpoints or empathetic
+theoreticalmodel,attitudesreflectanappraisalofatargetassociated narratives(Mernyketal.,2022;Voelkeletal.,2023).Similarly,in
+with three dimensions: cognitive (thoughts, ideas, or beliefs), healthresearch,thetripartiteframeworkhasinformedinterventions
+affective (negative or positive emotions), and behavioral (overt to reduce mental health stigma and bias. These investigations
+actionsandresponses;Fabrigaretal.,2005;Kaiser&Wilson,2019). leveraged education and awareness campaigns to target cognitive
+Whenapplyingthismodel tointergroup attitudes,these manifesta- components,personalnarrativestomodifyemotionalreactions,and
+tions relate to the following concepts: stereotypes constitute the supportive behaviors and language to promote behavioral change
+cognitivedimension,representingsociallylearnedmentalschemasof (Dalky, 2012; Na et al., 2022). Most prominently, consumer
+agivengroup;prejudiceistheaffectivedimensioncharacterizedby psychologyresearchhasshownthattheconsistencyofaffectiveand
+anoverallpositiveornegativevalence;anddiscriminationembodies cognitive-based messages with the desired outcome can enhance
+the behavioraldimension, capturing attitudes manifested inactions theirpersuasiveness(Clarksonetal.,2011;Fabrigar&Petty,1999).
+anddecisions(Esses&Dovidio,2002;Fiske,1998). Essentially, while psychological interventions have employed the
+Duetogrowingawarenessandinterestincounteractingbias,much tripartite model in different research areas, this article’s focus on
+research has focused on understanding and testing interventions to matching intervention approaches with outcome measures in the
+reduce its detrimental effects. The impact of these approaches has contextofworkplacebiasoffersanovelperspectiveforaddressing
+produced inconsistent results, however, with some interventions intergroupbiasmoreeffectively.
+showing improvements across all attitude dimensions while others
+changing certain aspects of attitudes but not others. For instance,
+Taxonomy of Interventions
+Turner and West (2012) found that imagining contact with a
+stigmatized group member helped reduce all dimensions of bias: Igroundthetaxonomyofinterventionsonthetripartitemodelof
+Participantsreportedimprovedbeliefsaboutthecharacterofthetarget, attitudes,asitdescribeshowdifferentcomponentsofattitudes(i.e.,
+morepositivefeelings,anddemonstratedmoreapproachablebehavior cognitive,affective,andbehavioral)serveassourcesofinformation
+(i.e.,choosingtositclosertothepartner).Similarly,Nieretal.(2001) from which individuals develop summary evaluations about
+showed that invoking a common identity increased both positive others—andcould,therefore,beindividuallytargetedbyinterven-
+affectiveresponsesandprosocialbehaviortowardBlackconfederates. tions.Inaddition,Idifferentiatebetweenactiveinterventions,which
+.srehsilbupdeillastifoenoronoitaicossAlacigolohcysPnaciremAehtybdethgirypocsitnemucodsihT
+.yldaorbdetanimessidebottonsidnaresulaudividniehtfoesulanosrepehtrofylelosdednetnisielcitrasihT
+2 COSTA
+
+## Page 4
+
+3REDUCINGDISCRIMINATIONATWORK
+
+(cid:129)Inhibitingbiasmanifestation(activeinterventionsoperat-employtechniquesthattargetthedifferentattitudinalcomponents,
+
+ingprimarilyonbehavior).andpassiveinterventions,whichonlyleveragethedisclosureof
+
+ﬂíinformation,suchasinmessagesorleaets(Albarracnetal.,2005;
+
+(cid:129)Educatingaboutbiasprocesses(passiveinterventions,with
+
+Kuningasetal.,2020).Passiveinterventionsdonotattemptto
+
+noprimaryattitudedimensiontargeted).
+
+ﬁchangeanyspecicattitudecomponentand,therefore,completely
+
+’relyontheevaluatorsinternalmotivationtoupdatetheir
+
+evaluationsorbehavior.Figure1depictsthisconceptualmodel
+
+DisruptingStereotypeProcessing
+
+mappinginterventioncategoriestoattitudedimensions.
+
+ThisclassofinterventionsmainlyoperatesonthecognitiveInanefforttocategorizeinterventionsinthebiasliterature,Lentonet
+
+dimensionofattitudesandisdesignedtointerferewiththetypicalal.(2009)offeredthreetypesgroundedonstereotyping:inhibiting
+
+processingofstereotypes.Thiscanbeaccomplishedbyshiftingstereotypeactivation,emphasizingstereotypeheterogeneity,and
+
+attentionalfocusawayfromstereotypicalinformationorbymanagingpreventingstereotypeexpression.Previously,Blair(2002)putforward
+
+ﬂchoicearchitecture(i.e.,howalternativesarepresentedtoadecision-thatstereotypesandprejudicearemalleableandcanbeinuencedby
+
+.y
+
+’ﬁ’maker).Asaresult,theseinterventionsfunctionbychanginghowlfactorssuchasonesmotives,specicstrategies,perceiversfocusof
+
+d
+
+.as
+
+ﬂroinformationaboutatargetisperceivedorbyinuencingtowhich
+
+eattention,andcontextualcues.Buildingontheseframeworks,Iproposer
+
+hb
+
+s
+
+informationtheevaluatordirectstheirattention.Forexample,id
+
+fourcategoriesthatorganizeinterventionsaccordingtowhichattitudel
+
+eb
+
+tu
+
+aReynoldsetal.(2021)inducedparticipantstoadoptacalculative
+
+pdimensiontheprocedureprimarilyoperates(i.e.,cognitive,affective,n
+
+id
+
+mmindset,whileUhlmannandCohen(2005)askedparticipantsto
+
+’ebehavioral,ornone).Todetermineeachinterventionsattitude
+
+ei
+
+ls
+
+lcommittoimportantcriteriapriortoevaluations.SingletaryandHebls
+
+a
+
+idimensionalfocus,Iconductedareviewofliteratureidentifyingthe
+
+ds
+
+t(2009)providedindividuatinginformationabouttargets,whileFenge
+
+i
+
+bkeymechanismunderlyingattitudechangeininterventionalstudiesf
+
+o
+
+etal.(2020)manipulatedthedecisionenvironmentbycreatingo
+
+ﬁteandcodedthemaccordingly.Table1deneseachinterventiontype
+
+nt
+
+partitiondependenceinthepresentationofcandidates.Asubcategoryoo
+
+nanddescribestheempiricalandtheoreticalreasoningforsorting
+
+r
+
+osofthisclassofinterventionsaimstopreventstereotypeactivation
+
+i
+
+ninterventiontypesintoeachcategory.Table2providesasummaryofd
+
+ocompletely.Inthisapproach,thestrategyemployedprecludesn
+
+ia
+
+t
+
+athekeyfeaturesofeachinterventioncategory.Thisanalysisresultedin
+
+irstereotypesfrombeingtriggeredaltogetherduringtargetevaluation,
+
+ce
+
+os
+
+thefollowingbiasreductioninterventioncategories:us
+
+sotheydonotfactorintothedecision-makingprocess.Aprominents
+
+Al
+
+a
+
+’uexampleofthisinterventionisGoldinandRouses(2000)study
+
+l(cid:129)d
+
+aDisruptingstereotypeprocessing(activeinterventions
+
+ic
+
+viexaminingorchestrahiringovertime,whichconcealedcandidate
+
+gi
+
+operatingprimarilyoncognition).do
+
+nl
+
+identitieswithascreenduringauditions.Theanonymizationofoi
+
+he
+
+c(cid:129)hUpdatingaffectivestates(activeinterventionsoperating
+
+candidateinformationisatypeofchoicearchitectureinterventiony
+
+t
+
+s
+
+fPﬂ
+
+oprimarilyonaffect).aimedateliminatingtheinuenceofdemographicinformationinthe
+
+ne
+
+as
+
+cu
+
+i
+
+rl
+
+ea
+
+mn
+
+oA
+
+s
+
+rFigure1
+
+ee
+
+ph
+
+tConceptualModelofBiasReductionInterventionsandTheirCorrespondingAttitudeDimensionalFocus
+
+e
+
+yh
+
+bt
+
+rd
+
+o
+
+ef
+
+t
+
+hy
+
+gl
+
+ei
+
+rl
+
+yo
+
+ps
+
+o
+
+dc
+
+e
+
+ds
+
+in
+
+et
+
+nt
+
+ne
+
+im
+
+su
+
+i
+
+c
+
+eo
+
+ld
+
+c
+
+i
+
+ts
+
+ri
+
+ah
+
+Ts
+
+i
+
+h
+
+T
+
+ﬁNoteprimary.Thismodelillustratestheattitudedimensionthatisthetargetofthefourinterventioncategoriesidentiedinthis
+
+review.Thepresentmodelproposesthat,whileinterventionsmaychangedimensionsthatarenottheprimaryfocusof
+
+interventions,ingeneral,strongereffectsshouldbeachievedwhenthereiscorrespondencebetweentheattitudinalfocusofan
+
+interventionandthemeasuredoutcome.
+
+## Page 5
+
+.srehsilbupdeillastifoenoronoitaicossAlacigolohcysPnaciremAehtybdethgirypocsitnemucodsihT
+.yldaorbdetanimessidebottonsidnaresulaudividniehtfoesulanosrepehtrofylelosdednetnisielcitrasihT
+4 COSTA
+Table1
+InterventionTypes:DescriptionsandBasisforClassification
+Interventiontype Description Basisforclassification
+Category:Disruptingstereotypeprocessing
+Blinding/anonymizingresume Removalormaskingofdemographic-related Suppressestheaccesstosocialcategorysignals
+information(e.g.,gender,race)froma duringevaluations(Lacroux&Martin-Lacroux,
+candidate’sjobapplicationmaterials 2020)
+Calculativemindset Inducingevaluatorstoadoptaquantitativeor Adoptionofacalculativemindsetshiftsinformation
+rationalframeofmindwhenanalyzingqualitative processingtobemoredata-driven,detached,
+problemsandsituations impersonal,andlessinfluencedbyaffective
+responses(Reynoldsetal.,2021).
+Countersterotypicinformation Disclosinginformationaboutthetargetthatdirectly Surprisehasbeenfoundtomediatethereductionof
+contradictsthestereotypestowhichthetarget intergroupbiasincounterstereotypeinterventions.
+belongs Whenthetargetcannotbeeasilyclassified,it
+triggerstheperceiver’sneedforinformation
+seekingtoresolvethediscrepancy,withthis
+processalteringstereotypicrepresentationsofthe
+target(Hutter&Crisp,2005;Hutteretal.,2009;
+Kundaetal.,1990;Maguireetal.,2011;Pratiet
+al.,2015).
+Individuatinginformation Providinginformationaboutanindividualthatis Reducestherelianceonstereotypes,favoring
+unrelatedtotheirmembershipinagroup(i.e.,not attentiontotheindividuatinginformationin
+linkedtoexistingassociativeinformation,but evaluations(Ruggsetal.,2011;Singletary&
+alsonotcontradictingthese);inducingevaluators Hebl,2009)
+tothinkabouttargetsasindividualsratherthanas
+partofagroup.
+Isolatedversuscollectivedecision Evaluatorsselectgroupmembersformultipleslots Incollectivedecisionsettings,informationaboutthe
+inadecisiontask(collectivedecision)ratherthan diversityofchoicesbecomesmoresalientto
+selectingmembersforasingleslotorrole evaluators(Changetal.,2020).
+(isolatedchoice).
+Jointevaluationversusseparate Duringevaluation,twoormoreoptions(e.g.,job Simultaneousevaluationofcandidatesshiftsfocus
+evaluation candidates)arepresentedconcurrentlyratherthan fromgroupstereotypestoindividualperformance
+oneatatime. (Bohnetetal.,2016).
+Majoritysignaling Thetargetofanevaluationpresentsinformation Altershowevaluatorsperceiveone’sdemographic
+aboutthemselvesinawaythatconcealsor informationsothatthetarget’sgroup
+downplaysminoritycuesorhighlightssignalsof membershipismorelikelytobecategorizedas
+belongingtomajoritygroups. themajority’s(Ruedin&VanBelle,2023).
+Nonstereotypicassociation Evaluatorsaretrainedtoassociatenonstereotypical Trainingaimedatnegatingcategoryassociationsis
+concepts(i.e.,notculturallytypical)witha expectedtoreducetheautomaticactivationof
+particulargroup. stereotypes(Kawakamietal.,2005).
+Partitiondependence Optionsarepresentedtoevaluatorspartitionedinto Differentpartitionarrangementsaffecthow
+differentgroupingconfigurations. evaluatorsperceiveinformation,whichinfluences
+howtheyallocateresources.Decision-makers
+haveatendencytodiversifytheirselections
+basedonhowoptionsarepartitioned(Fengetal.,
+2020).
+Structuredevaluation Introducesstandardizationintotheevaluation Directingattentiontoclearlydefinedcriteriaand
+processbyhavingevaluatorsutilizestandardized usingstandardbenchmarksduringevaluation
+appraisalcriteriaandanchoredratingscalesin reducesambiguityintheprocess,which
+assessingalternatives. decreasesrelianceonstereotypesandheuristicsin
+decisionmaking.(Campionetal.,1997;Kutcher
+&Bragger,2004).
+Category:Educatingaboutbiasprocesses
+Diversitytraining Evaluatorsreceiveinformation(e.g.,viamultimedia Noprimaryattitudecomponenttargeted.No
+onlineorin-personworkshops)toraiseawareness alterationsofcognitive,affective,orbehavioral
+ofbiasprocessesandtheirnegative dimensionsoccurbysolelyraisingawarenessof
+consequences.Insomeinstances,diversity biaswithoutamotivationalframeandskills
+trainingmightalsoincludetakingtheImplicit developmentpresent(Bezrukovaetal.,2016;
+AssociationTestandlearningstrategiesto Burns&Monteith,2019).Diversitytrainingand
+combatbias. bringingattentiontostereotypesandbiascanalso
+backfire(Pendryetal.,2007;Rawski&Conroy,
+2020;Robinsonetal.,2020).
+Egalitarianmessage Evaluatorsreadanondiscriminationstatementor Noprimaryattitudecomponenttargeted.Equal
+policy(e.g.,equalopportunityemployment opportunityandegalitarianmessagesarepassive
+message)andareinstructedtobasetheir policiesthatdonotrequiretheevaluator’s
+conclusionssolelyonjob-relevantfactors. involvementnorcompeltheircompliance
+(Crosbyetal.,2006).
+(tablecontinues)
+
+## Page 6
+
+.srehsilbupdeillastifoenoronoitaicossAlacigolohcysPnaciremAehtybdethgirypocsitnemucodsihT
+.yldaorbdetanimessidebottonsidnaresulaudividniehtfoesulanosrepehtrofylelosdednetnisielcitrasihT
+REDUCINGDISCRIMINATIONATWORK 5
+Table1 (continued)
+Interventiontype Description Basisforclassification
+Category:Inhibitingbiasmanifestation
+Accountability Evaluatorsareinformedthattheywillneedto Theexpectationthatonemightbeaskedtojustify
+explainorjustifytheirratings,decisions,or one’sactionisrecognizedasacausalfactorof
+conclusions. behaviorinsocialpsychology(Frink&Klimoski,
+2004;Halletal.,2009).Thisoccursbecause
+whendecision-makersfeelaccountabletoothers,
+theyscrutinizetheirownbehavior,relyingmore
+onevidencethanstereotypes(Dobbin&Kalev,
+2017).Accountabilitytheoryexplainsthatthis
+occursduetoself-presentationmotivations
+(conformingtobehaviorthatisperceivedas
+desirablepreventscriticalreactions,preserves,or
+improvesreputation;Dobbs&Crano,2001;
+Frink&Ferris,1998;Lerner&Tetlock,1999).
+Affirmativeaction Evaluatorsareinformedthatwhentheymake Policiesandlawsstronglyinfluencebehaviorby
+candidateselections,theymustmeetacertain servingasadeterrentduetolegitimacy,easing
+groupcompositionbenchmark(i.e.,some coordination,andsignalinginformationabout
+representationstandard)andthatthiswillbe riskandpublicattitudes(McAdams,2015;Tyran
+enforcedinsomefashion. &Feld,2002).
+Socialnorms Disclosinginformationonthesociallyacceptable Normativeinformationisknowntoguidebehavior
+andappropriatestandardofconductina insocialsituationsandtobeavehicleof
+particularsocialsettingtoevaluators. behavioralchangeduetothenegativesocial
+consequencesofnonconformity(Prentice&
+Paluck,2020;Tankard&Paluck,2016).
+Category:Updatingaffectivestates
+Acknowledgment Thetargethighlightsthestigmatizedaspectoftheir Whenthetargetofanevaluationacknowledges
+identitywhencommunicatingwiththeevaluator. theirstigmatizedidentity,theyelicitlessnegative
+feelingssuchasdisdain,pity(Davis,1961).They
+areperceivedaswell-adjusted,whicheasesthe
+interactionsbyreducingtensionanddiscomfort
+duringtheinteraction(Hebl&Skorinko,2005;
+Hebletal.,2000).Thisinterventionreduces
+discriminationviatheevaluator’sinternal
+motivationtoreduceprejudice(Kirgiosetal.,
+2022)inducedthroughnegativeself-directed
+affectsuchasguiltandshame(seeself-regulation
+ofprejudicemodel;Monteithetal.,2010).
+Commonidentity Emphasizingthetarget’sexistingsuperordinateor Thecommoningroupidentitymodelproposesthat
+sharedgroupmembershipwiththeevaluator recategorizationtoacommonsuperordinate
+groupextendspositiveingroupfeelingstoformer
+outgroupindividuals(Capozzaetal.,2010;
+Gaertneretal.,1993).Researchshowsthisoccurs
+duetoareductioninintergroupthreatand
+anxiety,whichinturnincreasesoutgrouppositive
+evaluations(warmth,sympathy;Rieketal.,
+2010).
+Imaginecontact Inducingtheevaluatortoimagineapositivesocial Theimaginedcontacthypothesissuggeststhat
+interactionwithamemberofthetargetgroup positiveattitudesandbehaviorensuefromthis
+priortoevaluation exercise(Crisp&Turner,2009).Experiments
+demonstratethemediatingroleofemotionsin
+decreasingprejudice(i.e.,decreasedanxiety,
+increasedempathytowardtheoutgroup),while
+nocognitiveroleisfoundinthisintervention
+(Pettigrew&Tropp,2008;Tropp&Pettigrew,
+2005;Turneretal.,2013;Vezzalietal.,2013).
+Multiculturalexperience Introducingevaluatorstoaspectsofaculture Multiculturalexperiencereducesprejudicevia
+differentfromtheirown,suchasinpictures, contact(primarilymediatedbyemotionalfactors
+music,andmovieclips(e.g.,multimedia suchasintergroupanxiety;Binderetal.,2009;
+presentationortraining) Tadmoretal.,2012)andcommonidentityeffects
+ofasuperordinatenature(i.e.,viaastronger
+identificationwithallofhumanity;Sparkman&
+Eidelman,2018;Sparkman&Hamer,2020).
+(tablecontinues)
+
+## Page 7
+
+evaluation process, forcing the decision-maker to concentrate their evokingasharedidentitybetweenthetargetandthedecision-maker
+appraisalsolelyonhumancapitalfactorsinstead.Intheirvariedways, (Schmaderetal.,2013),andtakingtheperspectiveofthetargetof
+thisclassofinterventionsdivertsfocustoothercuesorre-arrangesthe evaluation(Mendozaetal.,2019).Manyoftheseinterventionsact
+decision environment to compete with or overwhelm stereotype byreducingnegativeemotionalstates,suchasintergroupanxiety,or
+processing.Thus,inthiscategory,thementalschemasorstereotypes increasing positive feelings, such as empathy toward the social
+about the target are largely unaffected—rather, the objective is to group or evaluation target. Accordingly, decreased anxiety and
+interferewiththeirregularprocessing. increasedempathymediatedtheeffectivenessofintergroupcontact
+interventions, while increasing knowledge of the group, a more
+cognitive-based approach, did not (Pettigrew & Tropp, 2008).
+Updating Affective States
+Importantly,thisclassmaynotcompletely“update”impressionsof
+Inthiscategory,interventionsaimtoindexnewaffectivestates thegroupasawhole.Instead,theycaninitiateasubcategorization
+thatareinconsistentwithpreviousnegativegroupcategorizations. process where the affective information perceived to be uncom-
+Alternatively,theycaninvolveanemotionalappealthatgivesriseto monly associated with the original group is appended to a
+a cognitive dissonant state to facilitate behavior change (e.g., via subcategory of the target group. This allows the feelings and
+guilt or shame). Examples include imagining contact with an beliefsassociatedwiththesubcategorytobeascribedtothetargetof
+individualfromthetargetgroup(Moss-Racusin&Rabasco,2018), evaluation(Williams,2001).Inessence,theseinterventionsoperate
+.srehsilbupdeillastifoenoronoitaicossAlacigolohcysPnaciremAehtybdethgirypocsitnemucodsihT
+.yldaorbdetanimessidebottonsidnaresulaudividniehtfoesulanosrepehtrofylelosdednetnisielcitrasihT
+6 COSTA
+Table1 (continued)
+Interventiontype Description Basisforclassification
+Perspectivetaking Promptingevaluatorstoimaginehowthetarget Prejudicereductionwiththisinterventionis
+feelsorthewaysthatthetarget’sidentityaffects mediatedbyempathyandself-otheroverlap,a
+theirlife measureofemotionalcloseness.Perspective
+takingincreasesliking,sympathy,intentionto
+help,andpsychologicalclosenesswiththe
+outgroup(Kuetal.,2015;Myers&Hodges,
+2013;Shihetal.,2009;Todd&Galinsky,2014;
+Vescioetal.,2003;Waugh&Fredrickson,2006)
+Warmth/positivity Increasingsignalsofawarmandfriendly Targetswhodisplaypositivityareratedhigherin
+personality(whenthiscueisnotdirectly likabilityandsocialadeptness(Ruggsetal.,
+counteringagroupstereotypeof“coldness”). 2011).Thewarmthdimensionisassociatedwith
+Targetsareinstructedtobehavepositivelyduring likinginevaluativejudgments;Fiskeetal.,
+anevaluation(i.e.,upbeat,smilingfrequently, 2007).
+beingpleasant)oraredescribedasaffableand
+sociable.
+Table2
+TaxonomyofBiasReductionInterventions
+Primaryattitudedimensiontargeted Interventionapproach
+Interventioncategory byintervention Keydefiningcharacteristic example
+Disruptingstereotypeprocessing Cognitive(interfereswithorprevents (cid:129) Shiftsattentionawayfromstereotypetoother (cid:129) Structuredevaluation
+processingofstereotypes) information (cid:129) Individuating
+(cid:129) Blocksactivationofstereotype information
+(cid:129) Doesnotattempttoalterthecontentof (cid:129) Anonymizingresumes
+attitudes
+Updatingaffectivestates Affect(indexesnewaffectivestates (cid:129) Increasespositivefeelings,decreasesnega- (cid:129) Perspectivetaking
+thatareinconsistentwithprevious tivefeelingstowardthetargetortheself (cid:129) Imaginingcontact
+categorizationsorcausesa (cid:129) Elicitsanemotionalresponsetoadjustone’s (cid:129) Commonidentity
+dissonantstate) behavior
+(cid:129) Couldbeginaprocessofalteringthecontent
+ofattitudesviaaffect
+Inhibitingbiasmanifestation Behavior(motivatesindividualsnot (cid:129) Offersastrongexternalmotivationalcueto (cid:129) Socialnorms
+toactonstereotypesorbias) conformwithacertainbehavior (cid:129) Accountability
+(cid:129) Involvessomelevelofcost/sanctionstothe (cid:129) Affirmativeaction
+individual
+(cid:129) Doesnotattempttoalterthecontentof
+attitudes
+Educationaboutbiasprocesses None(createsawareness,reminds (cid:129) Directsattentiontobiasandstereotypes (cid:129) Diversitytraining
+individualsofstereotypesandbias) processes (cid:129) Equalemployment
+(cid:129) Attemptstoalterthecontentofattitudesin opportunitymessage
+short-termtraining/awarenessinterventions
+(cid:129) Reliesheavilyonindividuals’internalmoti-
+vationtonotactonstereotypesandprejudices
+
+## Page 8
+
+onemotionssothattheevaluatorfeelslessnegativeormorepositive (Chung, 2001; Levine & Leonard, 1984). Formal discrimination
+toward the target, the self, or the situation than in the baseline relates to the biased allocation of scarce organizational resources
+condition. (e.g., hiring, promotion, salary allocations), while informal
+discriminationcapturesthequalityofinteractionsamongemployees
+(e.g.,hostility,ostracism;Welle&Heilman,2007).Inotherwords,
+Inhibiting Bias Manifestation
+formaldiscriminationdepictsbehaviortypicallyconsideredillegal
+Thisinterventioncategoryprovidesstrongexternalmotivational intheworkplace.Incontrast,informaldiscriminationdoesnotentail
+cuesforindividualstonotactonstereotypesandprejudice,directly unlawful behavior but still reflects animus toward an individual
+targeting discriminatory behavior. This is typically accomplished basedontheir groupmembership.
+vianormativeorregulatoryaspectsinthesocial environmentthat Notably, evidence from field studies suggests that interventions
+exertpressureontheindividualtoconformtoastandardofconduct. can produce distinct patterns for these two forms of discrimination.
+Therefore,thisclassofinterventionschanges,guides,andinforms For instance, some field studies show no differences in formal
+behaviorbythepresenceofanimpliedorexplicitnegativesanction discrimination measures before interventions (e.g., pregnant vs.
+resultingfromnoncompliancewithacertainbehavior.Examplesof nonpregnant confederates are allowed to complete job applications
+thisinterventioncategoryincludeaccountability,socialnorms,and at the same rates) or following interventions (e.g., no callback rate
+affirmativeactionpolicies.Forinstance,Nadleretal.(2014)tested changesforstigmatizedgroupsacrossthetreatmentandcontrolarms
+accountabilityby askingparticipants to explaintheir ratings toan of the intervention). On the other hand, these studies demonstrate
+authority figure. Duguid and Thomas-Hunt (2015) informed noticeableeffectsofthesameinterventionsoninformaldiscrimination,
+participants that thenormative behaviorinthat context wastotry suchasreductionsinnegativityorrudenessandincreasesinfriendly
+toovercomebiasedpreconceptionswhenevaluatingothers. behavior toward stigmatized groups (Barron et al., 2011; King &
+Ahmad,2010;Singletary&Hebl,2009).Thisdiscrepancycouldoccur
+Educating About Bias Processes duetotherealitythatformaldiscrimination,beingtypicallyillegal,is
+less likely to be openly practiced and, thus, harder to detect and
+Thiscategoryofinterventionsislargelyinformational,aimedat measureinthefield.Thisimpliesthatwhileformaldiscriminationmay
+raising awareness or reminding individuals about bias and its remainrelativelystaticduetolegalconstraints,informaldiscrimina-
+negativeconsequences.Ratherthanspecificallytargetinganattitude
+tion, driven by more discretionary behaviors, is more amenable to
+dimension, passive interventions rely solely on the individual’s changethroughinterventions.Asthedifferentialimpactofinterven-
+internal motivation to change attitudes or behavior. Examples tionsonformalandinformaldiscriminationisarelativelyunexplored
+includediversitytraining,whereindividualslearnaboutstereotypes areaofstudy,Itakeanexploratoryapproachtothisquestion:
+and bias processes, are instructed to be vigilant, and may receive
+guidanceonavoidingdiscriminatorybehavior(Changetal.,2019; ResearchQuestion2:Areinterventionstargetingthebehavioral
+Devineetal.,2012,2017).Alternatively,individualsarereminded dimension ofattitudes moreeffective inreducing informalas
+aboutegalitarianpoliciestoattendtopriortoanevaluation(Lindner opposedtoformal discriminatoryoutcomes?
+etal.,2014;Nadleretal.,2014).Thisclassofinterventionsisthe
+only one that attempts to combat biased outcomes by bringing The (In)Consistency of the Attitude–Behavior
+stereotypingand bias processesinto explicit view,contrary tothe
+Relationship
+othermethods,whichdonotmentionorovertlyraisethemasissues
+tobeconsideredbyindividuals.Asaresult,theycarrythegreatest While research on attitudes spans concepts like structure,
+riskofbackfiring(Atewologunetal.,2018;Hideg&Wilson,2020). measurement, content, and formation theories, the relationship
+between attitude (here, referring to its evaluative manifestations
+Workplace Behavior Dimension only: cognitive and affective dimensions) and ensuing behavior
+features as a prominent topic in social psychology (Eagly &
+Theclassificationsystemoutlinedpreviouslyseekstoinformand Chaiken,1993).EarlystudiesandWicker’s(1969)seminalreview
+improvepredictionsonthemosteffectiveinterventioncategoriesto shatteredpreviousassumptionsthatevaluativeattitudesareclosely
+reducethedifferentformsofbiasedoutcomesinorganizations.In relatedtoovertactions—firmlyestablishingtheconceptofattitude–
+addition, this study aims to identify which intervention types behaviorinconsistency.Althoughlaterresearchdemonstratedthat
+effectively reduce workplace discrimination. Because it remains fairlystrongattitude–behaviorcorrelationscanoccurundercertain
+unclearfromatheoreticalstandpointwhichinterventionapproaches circumstances (e.g., voting, sports attendance), the notion of an
+(rather than broad categories) will produce the best results in overarching cross-situational relationship between evaluative
+reducingdiscriminatorybehavior,Iapproachthiscriticalquestion attitudes and behavior has not been supported (Zanna et al.,
+onanexploratorybasis. 1980). The absence of a reliably consistent association between
+evaluativeattitudesandbehaviorsisespeciallycriticalinprejudice
+Research Question 1: Which intervention types are most research, where social desirability concerns and situational forces
+effectiveinreducingdiscriminatoryoutcomesintheworkplace? exertanoutsizedinfluenceinthepoorattitude–behaviorcorrespon-
+dence(Greenwaldetal.,2009;Phillips&Olson,2014).Empirical
+In the organizational literature, discriminatory behavior is work in this area suggests that while correlated, there is clear
+further distinguished between formal and informal discrimination evidence for the independence of attitude dimensions, implying
+.srehsilbupdeillastifoenoronoitaicossAlacigolohcysPnaciremAehtybdethgirypocsitnemucodsihT
+.yldaorbdetanimessidebottonsidnaresulaudividniehtfoesulanosrepehtrofylelosdednetnisielcitrasihT
+REDUCINGDISCRIMINATIONATWORK 7
+
+## Page 9
+
+limits on the conditions when interventions attempting to modify processes,thisclassofinterventionsdoesnotattempttodisruptor
+onedimensionofattitudeswillgenerateassociatedchangesinothers preventthecognitiveprocessingofcategorizations;rather,itdirects
+(Forscheretal.,2019;Palucketal.,2021;Schütz&Six,1996).In attentiontoit.Thiscanactuallyleadtomorediscrimination,asit
+lightofthis,someinterventionsmayproducesuperiorresultsthan activatesstereotypes,sendsthemessagethatbiasesareinvoluntary
+othersinreducingbiasedoutcomeswhenexamininginterventions andnormal,maytriggeridentitythreatamongadvantagedgroups,
+basedontheirattitudedimensionalfocus. and can spark managerial resistance (Atewologun et al., 2018;
+One way that evaluative attitudes and behavior show stronger Dobbin&Kalev,2017;Hideg&Wilson,2020;Hirsh&Cha,2017;
+associations is through the principle of compatibility (Ajzen & Osman, 2021). Likewise, while educational interventions may
+Fishbein,1977).Thisprinciplepositsthattomaximizetheassociation increase sympathy toward typically disadvantaged groups among
+betweenevaluativeattitudesandbehavior,theyshouldbemeasuredat already self-motivated, nonprejudiced decision-makers, evidence
+thesamelevelofspecificitywithrespecttotarget,action,context,and showstheytendtobackfireforthosewhoholdprejudices.Inother
+time (Smith & Haslam, 2017). In other words, while more general words, these interventions tend to move attitudinal measures for
+attitudescancorrelatewithsomespecificbehavior,strongerattitude individuals who are already intrinsically motivated to act in an
+predictorsoccurwhenthesematchthebehavior’slevelofconcreteness unbiasedmannerwhilehavingminimal,null,ordetrimentaleffects
+(e.g.,measuringparticipants’specificattitudestowardenrollingina on those who are not as motivated to do so (Chang et al., 2019;
+voluntarydiversitytrainingcoursethisquarterratherthantheirgeneral Devine et al., 2012; Jackson et al., 2014). In addition, by
+attitudestowarddiversity).Theprincipleofcompatibilityhasreceived emphasizing outside control, these interventions can, at times,
+strong empirical support, generally demonstrating much stronger undermine individuals’ motivation to regulate their prejudice,
+correlations between evaluative attitudes and behavior when this producingabacklasheffectinstead(Chowetal.,2021;Legaultet
+principleisfollowed(Ajzen,2005).Forexample,Kraus(1995)meta- al., 2011; Onyeador et al., 2021). This suggests educational
+analyzed88studiesinvestigatingtherelationshipbetweenevaluative interventions are also generally ineffective at constructively
+attitudes and behavior, finding correlations of r = 0.54 under updatingaffectivestates.Finally,becausetheydonotcarryimplied
+conditionsofhighcorrespondenceandofr=0.13underconditionsof or explicit sanctions for the individual to adhere to conduct
+lowcorrespondence. standards, educational interventions do not directly target actions,
+Similarly, Iarguethatmostinterventionsinvolvemodifyingan thus being largely ineffectual at changing behavior. For these
+underlying primary attitude dimension. While an intervention can reasons, educational interventions should not produce substantive
+impactotherdimensions,themagnitudeofitseffectivenessshould changesinanyofthemeasures ofbias.
+be stronger when there is an alignment between the dimensional
+focusoftheinterventionandtheoutcomevariable.Forinstance,if Hypothesis 4: Interventions that do not directly target any
+aninterventionprimarilytargetstheaffectivecomponent,prejudi- attitudedimension(i.e.,educatingaboutbiasprocessescategory)
+cialmeasuresarelikelytochangetoagreaterextentcomparedtothe will be less effective in reducing workplace bias measures
+other dimensions. With that said, if the researcher is measuring relativetoallotherinterventioncategories.
+behavioral outcomes, the intervention’s effectiveness might not
+emergeorbesmallinmagnitude.Therefore,whenthemainattitude
+dimension targeted by an intervention matches the measured Method
+outcome,arelativelystrongereffectisexpectedtooccurinreducing Search Strategy
+biasmeasures.
+IfirstlocatedrelevantstudiesbysearchingAPAPsycInfo,Google
+Hypothesis 1: Interventions thatdirectly target thebehavioral Scholar, Web of Science, Scopus, and ProQuest databases for a
+dimension of attitudes (i.e., inhibiting bias manifestation combinationofkeywordsrelatingtointerventions(e.g.,experiment,
+category) will bemore effective whenpaired with behavioral treatment, etc.) involving workplace outcomes (e.g., recruit*,
+outcomemeasures comparedtononpairedcombinations. employ*,etc.)withinthecontextofintergroupbias(e.g.,prejudic*,
+discriminat*, etc.) In addition, I performed backward searches of
+Hypothesis 2: Interventions that directly target the affective
+previousmeta-analysesandreviewsonthistopictoidentifyfurther
+dimensionofattitudes(i.e.,updatingaffectivestatescategory)
+records(e.g.,Nandigama&Shyamsunder,2021;Palucketal.,2021;
+will be more effective when paired with affective outcome
+Stephens et al., 2020). Finally, I posted requests for unpublished
+measurescomparedtononpairedcombinations.
+studies on listservs for the Society for Personality and Social
+Hypothesis 3: Interventions that directly target the cognitive Psychology (SPSP Connect!), the Academy of Management’s
+dimension of attitudes (i.e., disrupting stereotype processing Organizational Behavior (OB), Diversity, Equity and Inclusion
+category) will be more effective when paired with cognitive (DEI), and Managerial and Organizational Cognition (MOC)
+outcomemeasures comparedtononpairedcombinations.
+divisions.Nolimitswereplacedonpublicationdate,withthefinal
+range of studies analyzed published between 2000 and 2022.
+Passive interventions are largely informational, aimed at Appendix A contains the full keyword parameters used in the
+generatingawarenessorservingasremindersforacauseorissue, literaturesearch.
+suchastheimportanceofvotingorvaccination.Inlinewiththese
+aims,passiveinterventionstypicallyincludeposters,handouts,and
+Selection Criteria
+othereducationaltools,requiringself-disciplineandwell-motivated
+individuals to be effective (Milot et al., 2015). By bringing Ievaluatedarticlesintwostages.Inthefirststage,onlythetitle
+awareness or reminding individuals about stereotypes and bias and abstract were screened for potential inclusion in the analysis.
+.srehsilbupdeillastifoenoronoitaicossAlacigolohcysPnaciremAehtybdethgirypocsitnemucodsihT
+.yldaorbdetanimessidebottonsidnaresulaudividniehtfoesulanosrepehtrofylelosdednetnisielcitrasihT
+8 COSTA
+
+## Page 10
+
+Specifically,ifthetitleandabstractdidnotrefertoastudytestingan 2. Affective: Measures assessing changes in emotions or
+interventionrelatedtointergroupbias,itwasexcluded.Duringthe feelingsaboutgroups.Examplesincludedperceptionsof
+second stage, I identified potentially eligible studies based on the warmth, friendliness, and the degree of liking for a job
+full-textevaluationofthearticle.Theinclusioncriteriaatthisstage applicant.
+involved: (a) examination of the effects of a bias reduction
+intervention1; (b) containing at least one attitudinal outcome 3. Behavior:Measuresassessingchangesinactualbehaviors,
+measure relevant to the workplace; and (c) reporting sufficient suchasdecidingwhomtomentor,orbehavioralintentions,
+suchaswillingnesstohire.
+statisticstoderivestandardizedeffectsizes.Thecompleteselection
+processflowchartfor thisanalysisis depictedinFigure2.
+Coding of Variables
+Data Coding First,theauthorandatrainedassistantindependentlycodedall
+relevant variables except for intervention category. To assess
+Intervention Types
+intercoderagreement,Icomparedthefollowingdatapoints:effect
+The intervention type was determined based on the description value,samplesize,interventiontype,sampletype,andpublication
+actuallyusedinthetreatmentgroupratherthanthelabelgivenbythe status. I calculated intercoder agreement as the percentage of
+authors.Forexample,astudylabelinganintervention“commitment agreement across these combined data points. From this analysis,
+tohiringcriteria”thatconsistedofevaluatingcandidatesbasedon 962agreementsand78disagreementswereidentifiedoutof1,040
+predetermined critical factors for a role was coded as “structured data points (over 92% agreement for the variables of interest).
+evaluation” since much of its features are consistent with this Trainedthirdandfourthcodersindependentlycodedtheinterven-
+interventionapproach. tion category for each study, following the proposed intervention
+framework. Their coding was based on the intervention type
+(previously agreed by the first and second coders) and the
+Intervention Category
+descriptions of the treatment and control conditions. Figure 3
+To determine which aspect of attitude was the focal point of a depictsthecategorizationofthe22interventiontypesidentifiedin
+given intervention, an analysis of the description of the treatment this review based on this analysis. Interrater agreement for
+andcontrolconditionswasperformedforeachstudyandclassified intervention category was calculated using Cohen’s Kappa, with
+accordingtotheproposedtaxonomy: substantial agreement observed (κ = 92.8%, p < .001). Any
+discrepanciesateachcodingstagewerediscussedandresolvedby
+1. Disrupting stereotype processing: Interventions targeting
+the contributing coders by reviewing the studies in question. The
+the cognitive component of attitudes by attempting to
+hypotheseswere unknowntoallcodersexcept fortheauthor.
+disrupttheprocessingorretrievalofstereotypes,primarily
+impacting what information the individual focuses on
+Analytical Approach
+(e.g.,anonymizingresumes,structuredevaluation,etc.).
+Icomputedtheeffectsfromthestudiesasthestandardizedmean
+2. Updating affective states: Interventions mainly targeting
+difference (Cohen’s d) between the intervention and control group
+the affective component of attitudes by attempting to
+outcomes and corrected to Hedges’ g to adjust for bias in small
+increasepositiveordecreasenegativeemotionstowardthe
+samples(Hedges&Olkin,1995).Additionally,Iappliedreliability
+target of evaluation or the self (e.g., imagining contact,
+correctionstoadjustforstatisticalartifactsarisingfrommeasurement
+perspectivetaking, etc.).
+errors(Hunter&Schmidt,2004).Incaseswherereliabilityestimates
+3. Inhibiting bias manifestation: Interventions targeting the were unavailable, I adjusted values using the sample average
+behavioral component of attitudes by providing a strong reliability(Wiernik&Dahlke,2020).Iftherequisitestatistics(e.g.,
+externalmotivationforindividualsnottoactonstereotypes meansandstandarddeviations)wereunavailable,Icalculatedeffect
+orbias(e.g.,accountability,affirmativeaction,etc.). sizesbyconvertingavailablestatisticsfromthearticleorbydirectly
+contacting the first author (Borenstein et al., 2009; Higgins et al.,
+4. Educating about bias processes: Interventions primarily
+2019;Polanin&Snilstveit,2016).
+designedtocreateawareness,inform,oractasreminders
+Themeta-analyticproceduresinthisstudyfollowedtheinverse-
+(e.g., equalitymessages,diversitytraining).
+variancemethod,acommonpracticethatplaceshigherweightson
+studiesprovidingmorepreciseestimatesbyleveragingtheirsample
+Outcome Variables size (Borenstein et al., 2009). Specifically, the weight assigned to
+eacheffectsizewastheinverseofitssamplingvariance(w =1/v).
+i i
+Icategorizedoutcomemeasuresbasedonwhethertheyassessed
+Followingconvention,Iassignedthesignofeffectsizessuchthat
+changes in workplace-relevant constructs related to stereotyping,
+studieswithoutcomesinthedirectionexpectedbytheauthorswere
+prejudice, or discrimination. More specifically, outcomes fell into
+coded as positive, while those with outcomes in the opposite
+thefollowingcategories:
+1. Cognitive: Measures assessing changes in beliefs,
+thoughts, opinions, or schemas about groups. Examples
+included perceptions of competence, skills for the job,
+andperformanceexpectations for jobcandidates.
+.srehsilbupdeillastifoenoronoitaicossAlacigolohcysPnaciremAehtybdethgirypocsitnemucodsihT
+.yldaorbdetanimessidebottonsidnaresulaudividniehtfoesulanosrepehtrofylelosdednetnisielcitrasihT
+REDUCINGDISCRIMINATIONATWORK 9
+1While random assignment of participants into treatment and control
+groupswasthepreferredapproachintheselectionofinterventionalstudies,I
+alsoincludedquasi-experimentalfieldstudieswhererandomassignmentwas
+notfeasibleduetopracticalconstraints(e.g.,adistrictadoptinganonymous
+applications).
+
+## Page 11
+
+10COSTA
+
+Figure2
+
+PreferredReportingItemsforSystematicReviewsandMeta-AnalysesFlowDiagramofStudy
+
+SelectionsbyStage
+
+.y
+
+l
+
+d
+
+.as
+
+ro
+
+er
+
+hb
+
+s
+
+id
+
+le
+
+b
+
+tu
+
+a
+
+pn
+
+id
+
+m
+
+e
+
+ei
+
+ls
+
+ls
+
+a
+
+i
+
+ds
+
+te
+
+i
+
+bf
+
+o
+
+o
+
+te
+
+nt
+
+oo
+
+n
+
+r
+
+os
+
+i
+
+nd
+
+on
+
+ia
+
+t
+
+a
+
+ir
+
+ce
+
+os
+
+us
+
+s
+
+Al
+
+a
+
+u
+
+ld
+
+a
+
+ic
+
+vi
+
+gi
+
+do
+
+nl
+
+oi
+
+he
+
+ch
+
+Note.Flowchartdepictingarticlesearch,review,selection,andoutputatdifferentselectionstages.y
+
+t
+
+s
+
+fP
+
+o
+
+ne
+
+as
+
+cu
+
+iβ
+
+rlijYdirectionwerecodedasnegative(Johnson&Eagly,2000).istheeffectsizeforthethoutcomeinthetharticle,iswhere
+
+ea
+
+ijj0mn
+
+εoAjiTherefore,inthisanalysis,studiesdemonstratingareductioninathetrueeffectsizeforthetharticle,istheresidualerrorfortheth
+
+sij
+
+r
+
+eeγ
+
+jubiasedoutcomefortheinterventiongrouprelativetothecontroloutcomeinthetharticle,istheoverallintercept,andistheph
+
+j000t
+
+e
+
+yhgrouphavepositiveeffectsizes,whilethoseshowinganincreaseinrandomeffectatthearticlelevel.
+
+bt
+
+rd
+
+obiasedoutcomeshaveanegativesize.StudiesreportingnulleffectsToexaminethepotentialforpublicationbias,Iperformed
+
+ef
+
+t
+
+hy’
+
+withoutadditionalstatisticswerecodedasaneffectsizeofzeroEggersregressiontestbyincludingthesamplingvariancesofthegl
+
+ei
+
+rl
+
+yo(Palucketal.,2021).effectsizesasacovariateinthemodeltoaccommodateforthe
+
+ps
+
+o
+
+dác
+
+Severalarticlesexamineddifferentinterventionapproachesnestingstructureofthedata(Fernndez-Castillaetal.,2021).e
+
+ds
+
+in
+
+acrossstudies.Forthisreason,IincludedeveryeffectsizefromBecauseitisuncertainhowcommonprocedurestoexaminethee
+
+t
+
+nt
+
+ne
+
+anarticlethatmettheeligibilitycriteria.Giventhenestedstructurerobustnessofmeta-analyticalresultsperformonmultilevelmodelsim
+
+su
+
+iﬁ
+
+cofthedata,Iutilizedmultilevelmodelsineverymeta-analytical(e.g.,funnelplots,trim-and-ll),Iconductsensitivityanalyseson
+
+eo
+
+ld
+
+c
+
+proceduretoaddresspotentialdependenciesineffectsizesderivedtheexistingdatapointsinlieuofthesemethods.Followingthisi
+
+ts
+
+ri
+
+ahﬂ
+
+fromthesamearticle.Multilevelmeta-analyticalmodelsaccountforapproach,Ireranthemainanalyseswithoutinuentialoutliers,T
+
+s
+
+i
+
+hﬁ
+
+thepossibilitythateffectswithinanarticlecouldbemoresimilartoidentiedviatwomethods:First,byexcludingobservationswithT
+
+’nneachotherthanacrossarticles,andthisapproachresultsinunbiasedCooksdistancevaluesover4/(whereisthenumberof
+
+=kestimateswhencomparedtoothermeta-analyticalproceduressuchobservations;2excluded),andsecond,byremovingstudieswith
+
+’=kasaveragingeffectsizesfromthesamearticle(Gootyetal.,2021;hatvaluesovertwicethedatasetsaverage(16excluded;Cook,
+
+ﬁMoeyaertetal.,2017).Specically,Iemploytwo-levelrandom1977;Fox,2005).
+
+effectsmeta-regressionmodelsineachanalysistoaccountforthe
+
+varianceatthefollowinglevels:Level1,representingwithin-article
+
+TransparencyandOpenness
+
+variance;Level2,representingbetween-articlevariance(Vanden
+
+ﬂNoortgateetal.,2013).Reectingthisnestedstructureatitsmost
+
+JournalofInconductingthisexamination,Iadheredtothe
+
+basicform,thetwo-levelequationsareasfollows:AppliedPsychologymethodologicalchecklistformeta-analyses.
+
+Intheprevioussections,Idetailedtheinclusioncriteria,coding
+
+∶=β+εε∼ðσÞ2YNLevel1,where0,,(1)
+
+procedures,andanalyticalplan.Preregistration,data,andcodeεijijij
+
+j0
+
+forthisprojectareavailableathttps://researchbox.org/1563.All
+
+=γ+∼ðσÞ∶β2uuN,where0,,(2)Level2
+
+analyseswereconductedwiththeRsoftware,Version3.6.1
+
+ujjj00000
+
+## Page 12
+
+11REDUCINGDISCRIMINATIONATWORK
+
+Figure3
+
+TaxonomyofBiasReductionInterventionsChart
+
+.y
+
+l
+
+d
+
+.as
+
+ro
+
+er
+
+hb
+
+s
+
+id
+
+le
+
+b
+
+tu
+
+a
+
+pn
+
+id
+
+m
+
+e
+
+ei
+
+ls
+
+ls
+
+a
+
+i
+
+ds
+
+te
+
+i
+
+bf
+
+o
+
+o
+
+te
+
+nt
+
+oo
+
+n
+
+r
+
+os
+
+i
+
+nd
+
+on
+
+ia
+
+t
+
+a
+
+ir
+
+ce
+
+os
+
+us
+
+s
+
+Al
+
+a
+
+u
+
+ld
+
+a
+
+ic
+
+vi
+
+gi
+
+do
+
+nl
+
+oi
+
+he
+
+ch
+
+yt
+
+s
+
+fP
+
+o
+
+ne
+
+as
+
+cu
+
+i
+
+rl
+
+ea
+
+mn
+
+oA
+
+s
+
+r
+
+ee
+
+ph
+
+t
+
+e
+
+yh
+
+ﬁNote.Classicationofbiasreductioninterventionsbycategorybasedontheprimaryattitudedimensiontargetedbyeachinterventiontype.b
+
+t
+
+rd
+
+o
+
+ef
+
+t
+
+hy
+
+gl
+
+ei
+
+rl
+
+yo
+
+==pskkmetafor(119)andinformal(16)discriminationmeasures,with(RCoreTeam,2019),usingthepackage,Version2.4-0
+
+o
+
+dc
+
+e
+
+(Viechtbauer,2010).mostassessingchangesinhiring/selectiondecisions(63.7%)ords
+
+in
+
+et
+
+contactmeasures(e.g.,willingnesstomentororworkwiththent
+
+ne
+
+im
+
+target,19.3%).s
+
+ui
+
+c
+
+eResultso
+
+ld
+
+c
+
+i
+
+ts
+
+ri
+
+aSampleCharacteristicsh
+
+TNonhypothesizedResultss
+
+i
+
+h
+
+Tﬁ
+
+Thenalsamplecomprised70articlesevaluating22intervention
+
+Iconstructedmeta-regressionmodelsinastepwisemannerto
+
+approachesbasedon208effectsizes.Thenumberofeffectsizesper
+
+examinetheassociationsbetweeninterventioncategories,outcome
+
+articlerangedfromoneto12,withamedianoftwoeffectsizesper
+
+ﬁ2variables,andinterventioneffectiveness.Therstanalysisexamined
+
+article.Thestudiesexaminedtheeffectsofworkplace-relatedbias
+
+thepresenceofwithin-andbetween-articlevariance,consistingofa
+
+reductioninterventionstargetingvariousgroups:racialminorities,
+
+nullmodel(i.e.,intercept-only,Model1)encompassingall208effect
+
++LGBT,gender,religion,pregnancystatus,age,bodyweight,
+
+ﬁsizes.Theresultsshowedsignicantheterogeneityacrosseffectsizes
+
+disability,physicalattractiveness,andindividualsfromdifferent
+
+=<Qp(207)1025.26,.001,suggestingthepresenceofmoderatorsin
+
+=knationalities.Cognitiveoutcomemeasuresincludedimplicit(3)
+
+thedataset.Whenexaminingtheresultoftheomnibustest,
+
+=kandexplicitmeasures(48),withmostassessingchangesin
+
+interventionsappeartobemodestlyeffectiveatreducingwork-
+
+stereotypinglevels(45.1%),followedbyperceptionsofcompetence
+
+ﬁﬁ(25.5%),t/qualicationforthejob(17.6%),andexpected
+
+2Theauthorthanktheinputofananonymousreviewerwhoassistedherin
+
+performance(11.8%).Affectiveoutcomemeasuresmostlyassessed
+
+arrivingattheseanalyticalapproachesandtheactioneditorfortheir
+
+perceptionsofwarmthorlikingthetarget(59.1%)andprejudicial
+
+assistanceinenhancingthemethodologicalalignmentwiththetheoretical
+
+ﬁsentiment(18.2%).Behavioraloutcomemeasuresincludedformalfoundationsofthiswork.SeeAppendixBforspecicationsofthesemodels.
+
+## Page 13
+
+relatedbiasedoutcomes.Onaverage,interventionstendedtoreduce p = .002. Examination of the estimates provided support for
+allmeasuresofworkplacebias,comparedtothecontrolconditions, Hypotheses 1 and 3 but not for Hypothesis 2. Compared to
+byapproximatelyafourthofastandarddeviation,g=0.27,SE= interventions that did not match the attitudinal focus of the
+0.042,p<.001,95%CI[0.190,0.356]. intervention with the outcome measure, matching these variables
+InModel2,Iexaminedthecontributionoftheoutcomevariable increased the effect size on the cognitive dimension by g = 0.26,
+typeinexplainingthevariabilityineffectsizes.Todoso,Icodedfor SE=0.096,p=.007,95%CI[0.071,0.449]andonthebehavioral
+thenatureoftheoutcomemeasure(i.e.,whethercognitive,affective, dimension by g = 0.39, SE = 0.110, p < .001, 95% CI [0.170,
+orbehavioraloutcomes).Thismodelwasnotstatisticallysignificant, 0.601]. However, matching interventions and outcomes did not
+Q (2)=2.30,p=.317,indicatingthatthetypeofoutcomemeasure yieldareliableincreaseintheaffectivedimension,withapositive
+M
+doesnotsubstantiallycontributetoexplainingthevarianceineffect butnotstatisticallysignificantincreaseininterventioneffectiveness,
+sizes across the studies. This result helps rule out the alternative g=0.07,SE=0.101,p=.480,95%CI[−0.127,0.269].Overall,the
+explanation that certain types of outcomes merely produce larger resultssuggestanadvantageinaligningtheinterventioncategorywith
+effectsthanothers. theoutcomemeasured.Whenlookingatdifferencesbetweenamatch
+InModel3,Iexaminethecontributionofinterventioncategoryin betweentheinterventionandoutcomeacrossattitudedimensions,a
+explainingvarianceineffectsizes.Here,Iincludedtheintervention statistically significant result emerges Q (1) = 10.39, p < .001.
+M
+categoryvariable toModel 2(0 =educating, 1= disrupting,2 = Specifically, interventions not aligned with outcomes show a bias
+inhibiting, 3 = updating). This model was also not statistically reduction of aboutg = 0.24, SE = 0.041. Meanwhile, aligning the
+significant,Q (5)=8.18,p=.146.Thisresulthelpsruleoutthe focusoftheinterventionwiththeoutcomevariableincreasestheeffect
+M
+alternative explanation that certain intervention categories simply onaveragebyg=0.19,SE=0.059,somovingfromasmalltoa
+producegreater effectsthanothers. moderate effect size. Table 3 reports the relative effectiveness of
+interventioncategoriesbyoutcomemeasure.
+Inextexaminedthefourthhypothesis,whichstatesthateducating
+Hypothesized Results
+about bias processes would be less effective in reducing bias
+Totesttherelationshipsintheconceptualframework,Iestimated measuresrelativetotheotherinterventioncategories.Toinvestigate
+amodeltoinvestigateHypotheses1,2,and3.Thismodelexamines this, I estimated a model that differentiated between interventions
+whether interventions targeting the behavioral, affective, and focusedoneducationaboutbiasprocesses(codedas1)andallother
+cognitive dimensions of attitudes produce better outcomes on types of interventions (coded as 0). The findings indicate that
+measuresofworkplacediscrimination,prejudice,andstereotyping educatingaboutbiasprocessesisnotablylesseffective thanother
+when there is alignment between the targeted and the measured interventions,Q (1)=5.03,p=.025.Specifically,thecoefficient
+M
+dimensions. I examined these effects by incorporating dummy for the “educating” intervention category suggests a discernible
+variablesforspecificinterventioncategory-outcomecombinations. reductionineffectiveness,equivalenttoapproximatelyonefifthofa
+Specifically, I included dummy variables for the following standard deviationrelativetoallotherinterventioncategoriesg=
+arrangements: (a) “disruptive” category and cognitive outcome, −0.19,SE=0.086,95%CI[−0.361,−0.024].When segmenting
+(b)“updating”categoryandaffectiveoutcome,and(c)“inhibiting” resultsbyoutcomevariable,theeducationalclassofinterventions
+categoryandbehavioraloutcome(1=matching,0=notmatching). failed to produce statistically significant reductions in any of the
+Themodelyieldedastatisticallysignificantresult,Q (3)=15.01, workplacebiasmeasures,unliketheotherinterventioncategories.
+M
+.srehsilbupdeillastifoenoronoitaicossAlacigolohcysPnaciremAehtybdethgirypocsitnemucodsihT
+.yldaorbdetanimessidebottonsidnaresulaudividniehtfoesulanosrepehtrofylelosdednetnisielcitrasihT
+12 COSTA
+Table3
+InterventionCategoryResultsbyOutcomeType
+Interventioncategory k Hedges’g ρ SE p
+Cognitiveoutcomes
+Disruptingstereotypeprocessing 16 0.51*** 0.57** 0.18 .002
+Educatingaboutbiasprocesses 6 −0.20 0.35 0.19 .068
+Inhibitingthemanifestationofbias 5 −0.70** −0.47 0.29 .104
+Updatingaffectivestates 24 0.18 0.32* 0.14 .021
+Affectiveoutcomes
+Disruptingstereotypeprocessing 4 0.62** 0.65*** 0.18 <.001
+Educatingaboutbiasprocesses 6 0.06 0.16 0.11 .159
+Inhibitingthemanifestationofbias 3 0.37 0.66*** 0.17 <.001
+Updatingaffectivestates 9 0.18 0.28** 0.10 .007
+Behavioraloutcomes
+Disruptingstereotypeprocessing 72 0.22*** 0.26*** 0.04 <.001
+Educatingaboutbiasprocesses 22 0.08 0.09 0.08 .219
+Inhibitingthemanifestationofbias 10 0.59*** 0.64*** 0.11 <.001
+Updatingaffectivestates 31 0.23*** 0.30*** 0.06 <.001
+Note. Meta-analytical results for interventions to reduce biased workplace outcomes by intervention
+categoryand outcomevariable. ρ = Hedges’ g values correctedfor unreliability; k = numberof effect
+sizes;SE=standarderror.
+*p<.05. **p<.01. ***p<.001.
+
+## Page 14
+
+Thisresultheldwhethertheoutcomewasacognitive,affective,or interventionsfocusedonthebehavioraldimensionofattitudes(i.e.,
+behavioralmeasure(pvaluesbetween.068and.219,seeTable3). inhibiting the manifestation of bias category) showed substantial
+reductionsinbothinformalandformaldiscriminatoryoutcomes.At
+thesametime,anuancedexaminationrevealsdistinctivepatternsin
+Publication Status
+their effectiveness. Results indicate that interventions aimed at
+TheEgger’sregressiontestindicatedthepresenceofsubstantial changingbehaviorproducedlargereffectsoninformaldiscrimination,
+asymmetryinthedatapoints(p=.013),whichwasalsoobserved g=0.49,SE=0.093,comparedtoformaldiscriminationmeasures,
+bysignificantmoderationbasedonpublicationstatusQ(1)=8.43, g=0.25,SE=0.039,Q (1)=6.81,p=.009.
+M
+p = .004. In published articles, interventions achieved larger
+discrimination reduction effects on averageg =0.32,SE =0.044
+Discussion
+(k=182)comparedtounpublishedarticlesg=−0.004,SE=0.103
+(k = 26). Based on sensitivity analyses, however, neither the Despiteextensiveresearchaimedatreducingbias,knowingwhich
+hypothesized results nor the nonhypothesized models notably interventionsmosteffectivelyimprovebehavioralmeasureshasbeen
+differedwhenanalyzingthedatawithoutextremeoutliersnorpoints limited by the lack of a comprehensive taxonomy describing the
+ofinfluential leverage(seeAppendix Cforresults). attitude dimensions primarily targeted by different interventions.
+Drawingfromtheprincipleofcompatibilityandthetripartiteattitude
+Discriminatory Outcomes model, I proposed that interventions should be most effective in
+shiftingbiasmeasureswhenthereisacorrespondencebetweenthe
+Inextexamineddifferencesintheeffectivenessofinterventions attitudedimensionbeinginterveneduponandthedesiredoutcome.A
+when restricting the analyses to workplace behavioral outcomes meta-analyticalexaminationofstudiesassessingintervention-driven
+only.Overall,interventionapproachesappearmodestlyeffectiveat changesindiscrimination,prejudice,andstereotypingsuggeststhis
+reducing workplace discriminatory behavior. On average, inter- model might help explain a possible reason for the differential
+ventionstendedtoreducebehavioralmeasuresbyapproximatelya effectivenessofworkplaceinterventions.
+fourthofastandarddeviation,comparedtoacontrolcondition,g=
+Whileresultsdemonstratedimprovedoutcomeswhencognitive
+0.27,SE=0.038,p<.001,95%CI[0.196,0.344].Theseresults
+and behavioral interventions matched their respective outcome
+suggest that while the interventions were generally helpful in dimensions,thispatterndidnotemergeforaffective-basedmatches.
+reducing workplace discriminatory outcomes, their impacts have Thedifferentialimpactofinterventiontypesandoutcomematching
+been,onaverage, modestinmagnitude. on affective measures, as opposed to cognitive or behavioral
+measures,maystemfromdifferentfactors.Forinstance,emotional
+Research Question 1: What Intervention Types Are responses are typically deeply ingrained, potentially making them
+Most Effective in Reducing Workplace Discrimination? more resistant to change than cognitive or behavioral measures
+(Edwards,1990;Tropp&Pettigrew,2005).Giventhis,itispossible
+Toexaminewhichtreatmentapproachesspecificallycontributed
+thatforaffectivevariables,interventionstargetinganyoftheattitude
+to the three significant intervention categories for discriminatory dimensions (cognitive, affective, or behavioral) would produce
+outcomes, I estimated a model at the intervention type level. similarresults,implyingthatdimensionmatchingdoesnotconferan
+Decomposing the intervention types into their different methods enhanced effect for affective measures. Also, accurately gauging
+revealed10proceduresthatreachedstatisticalsignificance.Figure4
+affectivevariablesisnotablychallenging,potentiallymakingthem
+depicts summary effect sizes for all 22 intervention types for less reliable than cognitive or behavioral measures (Mauss &
+behavioral outcomes. In the disrupting stereotype processing Robinson,2009;Parrott&Hertel,1999).Finally,affectivemeasures
+category, leveraging structured evaluation g = 0.51, SE = 0.115, may be more susceptible to social desirability bias and to
+p < .001 and majority signaling by the targets (e.g., “whitening” individuals’ lower introspective access to their emotional states,
+resumes) g = 0.44, SE = 0.184, p = .017 produced the largest further complicating their measurement (Greenwald et al., 2009;
+significant shifts in behavior. In the updating affective states Pearsonetal.,2009).
+category, imagining contact g = 0.47, SE = 0.219, p = .031 and
+multiculturalexperienceg=0.46,SE=0.212,p=.029causedthe
+Theoretical and Practical Implications
+mostsubstantialchangesinbehavioralmeasures.Intheinhibiting
+bias manifestation category, making individuals accountable Thepresentconceptualframeworkofbiasinterventionsenables
+yielded the highest effect in reducing discrimination, g = 0.80, furthertheoreticaladvancementinthisareabynotonlyexplaining
+SE = 0.185, p < .001, followed by intervening on social norms, whichinterventioncategoryworksbestforbehavioraloutcomesbut
+g=0.58,SE=0.150,p<.001.
+alsowhy.Inthisregard,theresultshelpreconcilesomeoftheprior
+mixedfindingsinthisliterature.Forexample,Mousa(2020)found
+Research Question 2: Are Interventions Targeting the thatanintergroupcontactintervention(atypicallyaffective-based
+Behavioral Dimension of Attitudes More Effective in treatment) between Christian and Muslim youth in postwar Iraq
+Reducing Informal as Opposed to Formal shifted behavioral measures while producing inconsistent or no
+attitudinal changes in the evaluative measures. In examining
+Discriminatory Outcomes?
+potentialmechanisms,Mousafoundevidenceforacausalpathway
+Toexaminethisquestion,Ifittedamodeltoestimatetheseparate viathenewlyintroducedsocialnorm,whichnormalizedintergroup
+effects for the two levels of the behavioral outcome, representing contact(i.e.,abehaviorallyfocusedtreatment)butnotviaincreased
+whether it captured informal or formal discrimination. Notably, outgroup information (i.e., a cognitively based treatment), nor
+.srehsilbupdeillastifoenoronoitaicossAlacigolohcysPnaciremAehtybdethgirypocsitnemucodsihT
+.yldaorbdetanimessidebottonsidnaresulaudividniehtfoesulanosrepehtrofylelosdednetnisielcitrasihT
+REDUCINGDISCRIMINATIONATWORK 13
+
+## Page 15
+
+14COSTA
+
+Figure4
+
+ForestPlotbyInterventionTypeforDiscriminatoryOutcomes
+
+.y
+
+l
+
+d
+
+.as
+
+ro
+
+er
+
+hb
+
+s
+
+id
+
+le
+
+b
+
+tu
+
+a
+
+pn
+
+id
+
+m
+
+e
+
+ei
+
+ls
+
+ls
+
+a
+
+i
+
+ds
+
+te
+
+i
+
+bf
+
+o
+
+o
+
+te
+
+nt
+
+oo
+
+n
+
+r
+
+os
+
+i
+
+nd
+
+on
+
+ia
+
+t
+
+a
+
+ir
+
+ce
+
+os
+
+us
+
+s
+
+Al
+
+a
+
+u
+
+ld
+
+a
+
+ic
+
+vi
+
+gi
+
+do
+
+nl
+
+oi
+
+he
+
+ch
+
+yt
+
+s
+
+fP
+
+o
+
+ne
+
+as
+
+cu
+
+i
+
+rl
+
+ea
+
+mn
+
+oA
+
+s
+
+r
+
+ee
+
+ph
+
+t
+
+e
+
+yh
+
+bt
+
+rd
+
+o
+
+ef
+
+t
+
+hy
+
+gl
+
+ei
+
+rl
+
+yo
+
+Note.Forestplotsynthesizingtheeffectsoftreatmentversuscontrolgroupsforinterventionapproachesps
+
+o
+
+dﬁc
+
+measuringworkplace-relatedbehavioraloutcomeswithcorresponding95%condenceintervals.e
+
+ds
+
+in
+
+et
+
+nt
+
+ne
+
+———ﬁimmentioningdiversitytrainingandequalopportunitymessagesdueincreasedempathy(i.e.,anaffectivelybasedtreatment)anding
+
+su
+
+i
+
+c—
+
+etotheirubiquityinorganizationsandanonymizingresumesfortheconsistentwiththemodelproposedhere.o
+
+ld
+
+c
+
+iﬁAnothercontributionstemsfromthendingthatinterventions
+
+growinginterestinitsapplication(Agovino,2020;Carlos,2021).ts
+
+ri
+
+ah
+
+TsfocusingonthebehavioralaspectofattitudesexhibitahigherimpactShort-termeducationaboutstereotypesandbiasprocesses,as
+
+i
+
+h
+
+Toninformaldiscriminationmeasurescomparedtoformaldiscrimi-
+
+commonlydoneincorporatediversitytrainingcourses,andwarning
+
+ﬁnation.Thisobservation,initiallygleanedfromeldexperiments
+
+aboutequalopportunitypoliciespriortodecisionsdidnotyield
+
+ﬁindicatingimprovementsininformaldiscriminationbutnotinformalpromisingresults.Thesendingsparallelotherresearchdemonstrating
+
+thatantibiastrainingdoesnotgenerallyreducebias,alterbehavior,ordiscriminationoutcomesfromthesameintervention,alsoalignswith
+
+createworkplacechange(Dobbin&Kalev,2018).Theresultsontheattitudedimensionconsistencyperspective(seeMorganetal.,
+
+resumeanonymizationfromthisanalysisalsoconformwithwider2013;Singletary&Hebl,2009).Inparticular,thelegalenvironment
+
+ﬁresearchonthetopic,whichtendstondmixedresultsatbest(Foley&restrictingdiscriminationcreatesmorerigidnormsintheworkplace
+
+ﬁWilliamson,2018).Forinstance,anonymizedresumesgenerallyshowthataresufcientlystrongtoimpactbehaviorrelatingtoformal
+
+ﬁﬁpositiveeffectswherediscriminationisanissueintherstplacebut
+
+discriminationmeasuresintheeld(e.g.,lettingcandidatescomplete
+
+precludemoreegalitarianapproachesfromcompaniesalreadyanapplication).Informaldiscriminationvariableslacksuchlegal
+
+—adoptingamorepro-diversityattitudeintheirselectionprocesses
+
+constraints,makingthemmoremalleabletointerventionsand
+
+astheyimpederecruitersfromcontextualizingambiguoussignalslikeallowingformoremovementonthesemeasures.
+
+employmenthiatusandcreateanegativeeffectinsuchinstancesFocusingonreducingdiscriminatorybehaviorintheworkplace,
+
+ﬂ(Bertrand&Duo,2017).someoftheleasteffectiveapproachesbasedonthisanalysisbear
+
+## Page 16
+
+Turningtotheeffectivestrategiesthatorganizationscanleverage measuresofprejudice(e.g.,hostility,makingeyecontact),sofuture
+intacklingdiscrimination,structuredevaluationswereeffectivein researchcouldexaminewhetherthesewouldbemoreresponsiveto
+reducing biased behavior in the disrupting stereotype processing interventions attempting to update affective states relative to
+category. This aligns with research supportingthe efficacy of this inhibitingbiasmanifestation.
+interventionapproachacrossstigmatizedidentities(Braggeretal., Second, while this study categorized interventions into broader
+2002;Brecheretal.,2006;Levashinaetal.,2014).Notably,theeffect groups,reflectinggeneralsharedcharacteristicstoprovidemeaningful
+size for this intervention is similar in magnitude to the much less groupingsforanalyses,asnotedbyareviewer,subclassesalongthese
+studied majority signaling intervention approach (g = 0.51 vs. g = groups mightwarrant further exploration. For instance, cognitive
+0.44).Whilestudiesshowthatminorityjobapplicantswho“whiten” measurescouldbefurthersegmentedintoimplicitversusexplicitbias,
+theirresumesbyremovingracialidentifiersreceivesignificantlymore providing a more nuanced understanding of these relationships.
+callbacks than identical racial-revealing resumes, this intervention Previous research found no correlations between the effects of
+approach is relatively underexamined, potentially due to its interventions on implicit and explicit bias, implying limits on when
+controversialnature.Thereisanopportunitytoexpandonunanswered interventions attempting to modify one type of cognitive-based
+questionsaboutthisinterventionstrategy,suchasitsgeneralizability, measurewillproducechangesintheother(Forscheretal.,2019;Paluck
+longertermeffectspastinitialapplicationscreening,andpsychologi- etal.,2021).Additionally,thepositiveornegativevalenceofemotions
+caleffectsontargets(Arai&SkogmanThoursie,2009;Kangetal., experiencedcoulddifferentiallyinfluencetheeffectivenessofaffective-
+2016).Also,whilebothmajoritysignalingandanonymizingresumes basedinterventions(Dovidioetal.,2002).However,Ididnotexamine
+obscure candidates’ true demographic identity, majority signaling thesequestionsduetotheinsufficientnumberofstudiesinaparticular
+showedasignificantlylargerimpactonreducingbiasedoutcomesthan conditionorbecausetheyarebeyondthescopeofthisstudy.
+resumeblinding,witheffectsizesof0.44and0.10,respectively.A Arecommendationforfutureworkplaceinterventionresearchis
+potential reason is that “whitening” resumes allows candidates to todiversifydiscriminationoutcomesbeyondjustcandidatehiringor
+neutralize signals of nonprototypicality, whereas anonymization selection.Forinstance,formaldiscriminationmeasurescaninclude
+leavesthisquestionopentotheevaluator’sinterpretation. promotions,stretchassignments,salary,andbonusallocations,and
+In the updating affective states category, the most effective inverse measures such as who is laid-off or gets assigned “office
+intervention was imagining contact. However, implementing this housework”—low value-added tasks that do not advance one’s
+interventioninaconsistentandnondisruptivewayintheworkplace careerandarefrequentlyaskedofwomenofcolor(Tulshyan,2018).
+context poses substantial challenges to its adoption. Finally, in
+theinhibitingbiasmanifestationcategory,accountabilityinterventions
+proved most effective, followed by social norm treatments. Conclusion
+Interestingly,researchinsocialnorminterventionstoreduceworkplace
+By synthesizing and systematically classifying bias reduction
+biasiscurrentlysparse,leavingthespecificfeaturesthatmightenhance
+interventions,thisanalysisclarifieshoworganizationscanimprove
+ordecreaseitseffectivenessunknown.Furtherresearchinthisareais
+theirequityandfairnessefforts.First,thepresentfindingssupporta
+needed to understand questions such as the relative effectiveness of
+theorized model calling for the correspondence between outcome
+injunctiveversusdescriptivesocialnormsandwhetherthesearemore
+and the intervening attitude dimension to enhance intervention
+effective if employed together rather than separately. Based on this
+results. Practically, the results from this article suggest actionable
+review, accountability emerges as the most sensible approach for
+steps organizations can take to reduce workplace discrimination.
+organizationstoadoptinreducingdiscriminatoryoutcomes.Besides
+While the fruitfulness of some interventions may depend on an
+yieldingthelargesteffectinchangingbehavior(g=0.80),inpractical
+organization’s status quo, accountability practices and structured
+terms,accountabilitycanbemoreconsistentlydeployedorganization-
+evaluations appear as reasonable and practical strategies for
+widerelativetosomeoftheothereffectiveinterventions.Thisinvolves
+researchers, businesses, and institutions to test and refine across
+makingdiscretionarydecisionscontingentonaccountabilityorasan
+organizationallevels.Overall,furtherprogressmayberealizedby
+integralfactorinthedecision-makingprocess.Forexample,Castilla’s
+understanding the relationships of these variables to improve
+(2015)fieldstudydemonstratedwaysthatorganizationscanemploy
+interventional procedures and enable more diverse, equitable, and
+accountability to facilitate fairer outcomes: by creating a committee
+inclusive organizations.
+overseeingpaydecisionswiththeauthoritytomodifychoicesdeemed
+inadequateandbyestablishingaprocesswheremanagersjustifypay
+raisesforeachemployeeintheirdepartment.
+References
+Referencesmarkedwithanasteriskindicatestudiesincludedinthemeta-
+Limitations and Future Research
+analyses.
+Somelimitationsofthisexaminationshouldbenoted.First,due
+tothescarcityofstudiesmeasuringinformaldiscrimination,Iwas Aboud,F.E.,Tredoux,C.,Tropp,L.R.,Brown,C.S.,Niens,U.,&Noor,
+N.M.(2012).Interventionstoreduceprejudiceandenhanceinclusionand
+unable to assess potential differences in effectiveness between
+respect for ethnic differences in early childhood: A systematic review.
+intervention types along informal versus formal discrimination
+DevelopmentalReview,32(4),307–336.https://doi.org/10.1016/j.dr.2012
+measures.Asresearchthatmeasuresthesevariablessimultaneously
+.05.001
+is currently limited, this presents a fertile area for further inquiry. *Agerström,J.,Björklund,F.,Carlsson,R.,&Rooth,D.O.(2012).Warm
+Futurestudiescouldexplorebothmeasuresconcurrentlytoexamine andcompetentHassan=coldandincompetentEric:Aharshequationof
+ifdifferentialoutcomesemergebasedontheinterventionapproach. real-life hiring discrimination. Basic and Applied Social Psychology,
+Arguably,informaldiscriminationvariablesalignmorecloselywith 34(4),359–366.https://doi.org/10.1080/01973533.2012.693438
+.srehsilbupdeillastifoenoronoitaicossAlacigolohcysPnaciremAehtybdethgirypocsitnemucodsihT
+.yldaorbdetanimessidebottonsidnaresulaudividniehtfoesulanosrepehtrofylelosdednetnisielcitrasihT
+REDUCINGDISCRIMINATIONATWORK 15
+
+## Page 17
+
+Agovino,T.(2020).Companiestryanewapproachtodiversity,equityand contacthypothesisamongmajorityandminoritygroupsinthreeEuropean
+inclusion:Honestconversations.HRNews:SocietyforHumanResource countries.JournalofPersonalityandSocialPsychology,96(4),843–856.
+Management. https://www.shrm.org/hr-today/news/hr-magazine/fall2020/ https://doi.org/10.1037/a0013470
+pages/a-new-approach-to-diversity-and-inclusion.aspx Blair,I.V.(2002).Themalleabilityofautomaticstereotypesandprejudice.
+Ajzen,I. (2005).Lawsof humanbehavior: Symmetry, compatibility, and PersonalityandSocialPsychologyReview,6(3),242–261.https://doi.org/
+attitude–behaviorcorrespondence.MultivariateResearchStrategies. 10.1207/S15327957PSPR0603_8
+Ajzen,I.,&Fishbein,M.(1977).Attitude–behaviorrelations:Atheoretical *Bohnet,I.,Geen,A.,&Bazerman,M.(2016).Whenperformancetrumps
+analysisandreviewofempiricalresearch.PsychologicalBulletin,84(5), gender bias: Jointvs. separateevaluation. Management Science, 62(5),
+888–918.https://doi.org/10.1037/0033-2909.84.5.888 1225–1234.https://doi.org/10.1287/mnsc.2015.2186
+Albarracín,D.,Gillette,J.C.,Earl,A.N.,Glasman,L.R.,Durantini,M.R., Borenstein,M.,Cooper,H.,Hedges,L.,&Valentine,J.(2009).Effectsizes
+&Ho,M.H.(2005).Atestofmajorassumptionsaboutbehaviorchange: forcontinuousdata.InH.Cooper,L.V.Hedges,&J.C.Valentine(Eds.),
+AcomprehensivelookattheeffectsofpassiveandactiveHIV-prevention Thehandbookofresearchsynthesisandmeta-analysis(2nded.,pp.221–
+interventionssincethebeginningoftheepidemic.PsychologicalBulletin, 235).RussellSageFoundation.
+131(6),856–897.https://doi.org/10.1037/0033-2909.131.6.856 *Bragger,J.D.,Kutcher,E.,Morgan,J.,&Firth,P.(2002).Theeffectsofthe
+Álvarez-Delgado,J.,Leo´n-Del-Barco,B.,Polo-Del-Río,M.I.,Mendo-Lázaro, structuredinterviewonreducingbiasesagainstpregnantjobapplicants.
+S., & Lopez-Ramos, V. M. (2022). Three intervention programs in SexRoles,46(7),215–226.https://doi.org/10.1023/A:1019967231059
+secondaryeducationonattitudestowardpersonswithadisability.Frontiers *Brauer,M.,&Er-Rafiy,A.(2011).Increasingperceivedvariabilityreduces
+in Psychology, 13, Article 787936. https://doi.org/10.3389/fpsyg.2022 prejudiceanddiscrimination.JournalofExperimentalSocialPsychology,
+.787936 47(5),871–881.https://doi.org/10.1016/j.jesp.2011.03.003
+Amis, J. M., Mair, J., & Munir, K. A. (2020). The organizational *Brecher,E.,Bragger,J.,&Kutcher,E.(2006).Thestructuredinterview:
+reproductionofinequality.TheAcademyofManagementAnnals,14(1), Reducing biases toward job applicants with physical disabilities.
+195–230.https://doi.org/10.5465/annals.2017.0033 Employee Responsibilities and Rights Journal, 18(3), 155–170. https://
+*Arai,M.,&SkogmanThoursie,P.(2009).Renouncingpersonalnames:An doi.org/10.1007/s10672-006-9014-y
+empiricalexaminationofsurnamechangeandearnings.JournalofLabor Burns,M.D.,&Monteith,M.J.(2019).Confrontingstereotypicbiases:Does
+Economics,27(1),127–147.https://doi.org/10.1086/593964 internalversusexternalmotivationalframingmatter?GroupProcesses&
+*Åslund, O., & Skans, O. N. (2012). Do anonymous job application IntergroupRelations,22(7),930–946.https://doi.org/10.1177/136843021
+procedures level the playing field? ILR Review, 65(1), 82–107. https:// 8798041
+doi.org/10.1177/001979391206500105 Campion, M. A., Palmer, D. K., & Campion, J. E. (1997). A review of
+Atewologun,D.,Cornish,T.,&Tresh,F.(2018).Unconsciousbiastraining: structureintheselectioninterview.PersonnelPsychology,50(3),655–
+An assessment of the evidence for effectiveness [Research report series 702.https://doi.org/10.1111/j.1744-6570.1997.tb00709.x
+113].EqualityandHumanRightsCommission.https://www.equalityhu Capozza, D., Vezzali, L., Trifiletti, E., Falvo, R., & Favara, I. (2010).
+manrights.com/sites/default/files/research-report-113-unconcious-bais-trai Improvingintergrouprelationshipswithinandoutsidethecontactsituation:
+ning-an-assessment-of-the-evidence-for-effectiveness-pdf.pdf Theroleofcommoningroupidentityandemotionsofempathyandanxiety.
+*Baert,S.,&Vujic´,S.(2016).Immigrantvolunteering:Awayoutoflabour TPM-Testing,Psychometrics,MethodologyinAppliedPsychology,17(1),
+marketdiscrimination?EconomicsLetters,146,95–98.https://doi.org/10 17–36.https://api.semanticscholar.org/CorpusID:208342737
+.1016/j.econlet.2016.07.035 Carlos,I.(2021).Manycompaniesareembracingblindhiring.Researchis
+*Baltes,B.B.,Bauer,C.B.,&Frensch,P.A.(2007).Doesastructuredfree dividedonitseffectiveness.TheBusinessJournals.https://www.bizjourna
+recallinterventionreducetheeffectofstereotypesonperformanceratings ls.com/bizjournals/news/2021/07/12/whats-blind-hiring-does-it-work.html
+andbywhatcognitivemechanism?JournalofAppliedPsychology,92(1), *Carvalho-Freitas,M.N.D.,&Stathi,S.(2017).Reducingworkplacebias
+151–164.https://doi.org/10.1037/0021-9010.92.1.151 towardpeoplewithdisabilitieswiththeuseofimaginedcontact.Journal
+*Barron,L.G.(2010).Promotingtheunderlyingprincipleofacceptance: ofAppliedSocialPsychology,47(5),256–266.https://doi.org/10.1111/ja
+The effectiveness of sexual orientation employment antidiscrimination sp.12435
+legislation.JournalofWorkplaceRights,14(2),251–268.https://doi.org/ Castilla, E. J. (2015). Accounting for the gap: A firm study manipulating
+10.2190/WR.14.2.g organizationalaccountabilityandtransparencyinpaydecisions.Organization
+*Barron,L.G.,Hebl,M.,&King,E.B.(2011).Effectsofmanifestethnic Science,26(2),311–333.https://doi.org/10.1287/orsc.2014.0950
+identificationonemploymentdiscrimination.CulturalDiversityandEthnic Chambon,M.,Dalege,J.,Waldorp,L.J.,VanderMaas,H.L.J.,Borsboom,
+MinorityPsychology,17(1),23–30.https://doi.org/10.1037/a0021439 D.,&vanHarreveld,F.(2022).Tailoredinterventionsintobroadattitude
+*Beaurain,G.,&Masclet,D.(2016).Doesaffirmativeactionreducegender networkstowardstheCOVID-19pandemic.PLOSONE,17(10),Article
+discrimination and enhance efficiency? New experimental evidence. e0276439.https://doi.org/10.1371/journal.pone.0276439
+EuropeanEconomicReview,90,350–362.https://doi.org/10.1016/j.euroe *Chang,E.H.,Kirgios,E.L.,Rai,A.,&Milkman,K.L.(2020).Theisolated
+corev.2016.04.009 choiceeffect and its implications for genderdiversityinorganizations.
+*Behaghel,L.,Crépon,B.,&LeBarbanchon,T.(2015).Unintendedeffects Management Science, 66(6), 2752–2761. https://doi.org/10.1287/mnsc
+ofanonymousresumes.AmericanEconomicJournal:AppliedEconomics, .2019.3533
+7(3),1–27.https://doi.org/10.1257/app.20140185 *Chang,E.H.,Milkman,K.L.,Gromet,D.M.,Rebele,R.W.,Massey,C.,
+Bertrand,M.,&Duflo,E.(2017).Fieldexperimentsondiscrimination.In Duckworth,A.L.,&Grant,A.M.(2019).Themixedeffectsofonline
+A. V. Banerjee & E. Duflo (Eds.), Handbook of economic field diversitytraining.ProceedingsoftheNationalAcademyofSciencesofthe
+experiments(Vol.1,pp.309–393).ScienceDirect. UnitedStatesofAmerica,116(16),7778–7783.https://doi.org/10.1073/
+Bezrukova, K., Spell,C. S.,Perry,J. L., &Jehn,K. A. (2016).A meta- pnas.1816076116
+analyticalintegrationofover40yearsofresearchondiversitytraining Chow, R. M., Phillips, L. T., Lowery, B. S., & Unzueta, M. M. (2021).
+evaluation.PsychologicalBulletin,142(11),1227–1274.https://doi.org/ Fightingbacklashtoracialequityefforts.MITSloanManagementReview,
+10.1037/bul0000067 62(4), 25–31. https://sloanreview.mit.edu/article/fighting-backlash-to-ra
+Binder,J.,Zagefka,H.,Brown,R.,Funke,F.,Kessler,T.,Mummendey,A., cial-equity-efforts
+Maquil,A.,Demoulin,S.,&Leyens,J.P.(2009).Doescontactreduce Chung,Y.B.(2001).Workdiscriminationandcopingstrategies:Conceptual
+prejudice or does prejudice reduce contact? A longitudinal test of the frameworksforcounselinglesbian,gay,andbisexualclients.TheCareer
+.srehsilbupdeillastifoenoronoitaicossAlacigolohcysPnaciremAehtybdethgirypocsitnemucodsihT
+.yldaorbdetanimessidebottonsidnaresulaudividniehtfoesulanosrepehtrofylelosdednetnisielcitrasihT
+16 COSTA
+
+## Page 18
+
+Development Quarterly, 50(1), 33–44. https://doi.org/10.1002/j.2161- stereotypes. Journal of Applied Psychology, 100(2), 343–359. https://
+0045.2001.tb00887.x doi.org/10.1037/a0037908
+Clarkson, J. J., Tormala, Z. L., & Rucker, D. D. (2011). Cognitive and Eagly,A.H.,&Chaiken,S.(1993).Thepsychologyofattitudes.Harcourt
+affective matching effects in persuasion: An amplification perspective. BraceJovanovichCollegePublishers.
+PersonalityandSocialPsychologyBulletin,37(11),1415–1427.https:// *Edo, A., Jacquemet, N., & Yannelis, C. (2019). Language skills and
+doi.org/10.1177/0146167211413394 homophilous hiring discrimination: Evidence from gender and racially
+Colletta,J.(2022).Numberoftheday:DEIafterGeorgeFloyd.HRExecutive. differentiatedapplications.ReviewofEconomicsoftheHousehold,17(1),
+https://hrexecutive.com/number-of-the-day-dei-after-george-floyd/ 349–376.https://doi.org/10.1007/s11150-017-9391-z
+Cook,R.D.(1977).Detectionofinfluentialobservationinlinearregression. Edwards, K. (1990). The interplay of affect and cognition in attitude
+Technometrics,19(1),15–18.https://doi.org/10.2307/1268249 formation and change. Journal of Personality and Social Psychology,
+Crisp, R. J., & Turner, R. N. (2009). Can imagined interactions produce 59(2),202–216.https://doi.org/10.1037/0022-3514.59.2.202
+positiveperceptions?Reducingprejudicethroughsimulatedsocialcontact. Esses,V.M.,&Dovidio,J.F.(2002).Theroleofemotionsindetermining
+AmericanPsychologist,64(4),231–240.https://doi.org/10.1037/a0014718 willingness to engage in intergroup contact. Personality and Social
+Crosby,F.J.,Iyer,A.,&Sincharoen,S.(2006).Understandingaffirmative Psychology Bulletin, 28(9), 1202–1214. https://doi.org/10.1177/014616
+action.AnnualReviewofPsychology,57(1),585–611.https://doi.org/10 72022812006
+.1146/annurev.psych.57.102904.190029 Fabrigar,L.R.,MacDonald,T.K.,&Wegener,D.T.(2005).Thestructure
+Dalky,H.F.(2012).Mentalillnessstigmareductioninterventions:Review ofattitudes.InD.Albarracín,B.T.Johnson,&M.P.Zanna(Eds.),The
+ofinterventiontrials.WesternJournalofNursingResearch,34(4),520– handbookofattitudes(pp.79–125).LawrenceErlbaum.
+547.https://doi.org/10.1177/0193945911400638 Fabrigar,L.R.,&Petty,R.E.(1999).Theroleoftheaffectiveandcognitive
+Davis, F. (1961). Deviance disavowal: The management of strained bases of attitudes in susceptibility to affectively and cognitively based
+interactionbythevisiblyhandicapped.SocialProblems,9(2),120–132. persuasion.PersonalityandSocialPsychologyBulletin,25(3),363–381.
+https://doi.org/10.2307/799007 https://doi.org/10.1177/0146167299025003008
+*Derous,E.,Nguyen,H.H.D.,&Ryan,A.M.(2021).Reducingethnic *Feng,Z.,Liu,Y.,Wang,Z.,&Savani,K.(2020).Let’schooseoneofeach:
+discriminationinresume-screening:Atestoftwotraininginterventions. Usingthepartitiondependenceeffecttoincreasediversityinorganiza-
+EuropeanJournalofWorkandOrganizationalPsychology,30(2),225– tions.OrganizationalBehaviorandHumanDecisionProcesses,158,11–
+239.https://doi.org/10.1080/1359432X.2020.1756907 26.https://doi.org/10.1016/j.obhdp.2020.01.011
+Devine,P.G.,Forscher,P.S.,Austin,A.J.,&Cox,W.T.(2012).Long-term Fernández-Castilla,B.,Declercq,L.,Jamshidi,L.,Beretvas,S.N.,Onghena,P.,
+reductioninimplicitracebias:Aprejudicehabit-breakingintervention. &VandenNoortgate,W.(2021).Detectingselectionbiasinmeta-analyses
+Journal of Experimental Social Psychology, 48(6), 1267–1278. https:// with multiple outcomes: A simulation study. Journal of Experimental
+doi.org/10.1016/j.jesp.2012.06.003 Education,89(1),125–144.https://doi.org/10.1080/00220973.2019.1582470
+*Devine,P.G.,Forscher,P.S.,Cox,W.T.L.,Kaatz,A.,Sheridan,J.,&Carnes, Fiske, S. T. (1998).Stereotyping, prejudice, and discrimination. In D. T.
+M.(2017).Agenderbiashabit-breakinginterventionledtoincreasedhiringof Gilbert, S. T. Fiske, & G. Lindzey (Eds.), The handbook of social
+female faculty in STEMM departments. Journal of Experimental Social psychology(4thed.,pp.357–411).McGraw-Hill.
+Psychology,73,211–215.https://doi.org/10.1016/j.jesp.2017.07.002 Fiske,S.T.,Cuddy,A.J.,&Glick,P.(2007).Universaldimensionsofsocial
+Dixon, J., Durrheim, K., Tredoux, C., Tropp, L., Clack, B., & Eaton, L. cognition:Warmthandcompetence.TrendsinCognitiveSciences,11(2),
+(2010).Aparadoxofintegration?Interracialcontact,prejudicereduction, 77–83.https://doi.org/10.1016/j.tics.2006.11.005
+andperceptionsofracialdiscrimination.JournalofSocialIssues,66(2), Foley,M.,&Williamson,S.(2018).Doesanonymisingjobapplications
+401–416.https://doi.org/10.1111/j.1540-4560.2010.01652.x reduce gender bias? Understanding managers’ perspectives. Gender
+Dobbin,F.,&Kalev,A.(2017).Arediversityprogramsmerelyceremonial? inManagement,33(8),623–635.https://doi.org/10.1108/GM-03-2018-
+Evidence-free institutionalization. In R. Greenwood, C. Oliver, T. B. 0037
+Lawrence,&R.E.Meyer(Eds.),TheSAGEhandbookoforganizational Forscher,P.S.,Lai,C.K.,Axt,J.R.,Ebersole,C.R.,Herman,M.,Devine,
+institutionalism (pp. 808–828). SAGE Publications. https://doi.org/10 P.G.,&Nosek,B.A.(2019).Ameta-analysisofprocedurestochange
+.4135/9781446280669.n32 implicitmeasures.JournalofPersonalityandSocialPsychology,117(3),
+Dobbin,F.,&Kalev,A.(2018).Whydoesn’tdiversitytrainingwork?The 522–559.https://doi.org/10.1037/pspa0000160
+challengeforindustryandacademia.AnthropologyNow,10(2),48–55. Fortune-Deloitte.(2020).Fortune/DeloitteCEOSurveyoctober2020high
+https://doi.org/10.1080/19428200.2018.1493182 lights. https://www2.deloitte.com/content/dam/Deloitte/us/Documents/
+Dobbs,M.,&Crano,W.D.(2001).Outgroupaccountabilityintheminimal CMO/fortune-deloitte-CEO-survey-october-2020-highlights.pdf
+group paradigm: Implications for aversive discrimination and social Fox, J. (2005). Linear models, problems. In K. Kempf-Leonard (Ed.),
+identitytheory.PersonalityandSocialPsychologyBulletin,27(3),355– Encyclopediaofsocialmeasurement(Vol.2,pp.515–522).Elsevier.
+364.https://doi.org/10.1177/0146167201273009 Frink,D.D.,&Ferris,G.R.(1998).Accountability,impressionmanagement,
+Dovidio,J.F.,Esses,V.M.,Beach,K.R.,&Gaertner,S.(2002).Theroleof andgoalsettingintheperformanceevaluationprocess.HumanRelations,
+affect in determining intergroup behavior: The case of willingness to 51(10),1259–1283.https://doi.org/10.1177/001872679805101003
+engageinintergroupcontact.InD.M.Mackie&E.R.Smith(Eds.),From Frink,D.D.,&Klimoski,R.J.(2004).Advancingaccountabilitytheoryand
+prejudice to intergroup emotions: Differentiated reactions to social practice:Introductiontothehumanresourcemanagementreviewspecial
+groups(pp.153–171).Taylor&Francis. edition. Human Resource Management Review, 14(1), 1–17. https://
+Dovidio,J.F.,&Gaertner,S.L.(2010).Intergroupbias.InS.T.Fiske,D.T. doi.org/10.1016/j.hrmr.2004.02.001
+Gilbert,&G.Lindzey(Eds.),Handbookofsocialpsychology(pp.1084– Gaertner,S.L.,Dovidio,J.F.,Anastasio,P.A.,Bachman,B.A.,&Rust,
+1121).Wiley.https://doi.org/10.1002/9780470561119.socpsy002029 M.C.(1993).Thecommoningroupidentitymodel:Recategorizationand
+*Driscoll,M.(2022).Astudyintheeffectivenessoffactualversusemotional thereductionofintergroupbias.EuropeanReviewofSocialPsychology,
+interventions in reducing ambivalent sexism in hiring decisions [Master’s 4(1),1–26.https://doi.org/10.1080/14792779343000004
+thesis,LoyolaUniversityChicago].ProQuestDissertationsandThesesGlobal. *Gapinski, K. D. (2003). Changing antifat attitudes and behavior by
+*Duguid,M.M.,&Thomas-Hunt,M.C.(2015).Condoningstereotyping? inducingempathyforobesepersonsandcreatingpositiveassociations.
+How awareness of stereotyping prevalence impacts expression of YaleUniversityPress.
+.srehsilbupdeillastifoenoronoitaicossAlacigolohcysPnaciremAehtybdethgirypocsitnemucodsihT
+.yldaorbdetanimessidebottonsidnaresulaudividniehtfoesulanosrepehtrofylelosdednetnisielcitrasihT
+REDUCINGDISCRIMINATIONATWORK 17
+
+## Page 19
+
+Glazer,E.,&Francis,T.(2021,June3).CEOpayincreasinglytiedtodiversity Hsieh,W.,Faulkner,N.,&Wickes,R.(2022).Whatreducesprejudiceinthe
+goals.TheWallStreetJournal.https://www.wsj.com/articles/ceos-pledged- real world? A meta-analysis of prejudice reduction field experiments.
+to-increase-diversity-now-boards-are-holding-them-to-it-11622626380 BritishJournalofSocialPsychology,61(3),689–710.https://doi.org/10
+Gloor, J. L., & Puhl, R. M. (2016). Empathy and perspective-taking: .1111/bjso.12509
+Examinationandcomparisonofstrategiestoreduceweightstigma.Stigma Hunter,J.E.,&Schmidt,F.L.(2004).Methodsofmeta-analysis:Correcting
+andHealth,1(4),269–279.https://doi.org/10.1037/sah0000030 errorandbiasinresearchfindings.SAGEPublications.https://doi.org/10
+*Goldin,C.,&Rouse,C.(2000).Orchestratingimpartiality:Theimpactof .4135/9781412985031
+“blind”auditionsonfemalemusicians.TheAmericanEconomicReview, Hutter, R. R., & Crisp, R. J. (2005). The composition of category
+90(4),715–741.https://doi.org/10.1257/aer.90.4.715 conjunctions. Personality and Social Psychology Bulletin, 31(5), 647–
+Gooty,J.,Banks,G.C.,Loignon,A.C.,Tonidandel,S.,&Williams,C.E. 657.https://doi.org/10.1177/0146167204271575
+(2021).Meta-analysesasamulti-levelmodel.OrganizationalResearch Hutter,R.R.,Crisp,R.J.,Humphreys,G.W.,Waters,G.M.,&Moffitt,G.
+Methods,24(2),389–411.https://doi.org/10.1177/1094428119857471 (2009). The dynamics of category conjunctions. Group Processes &
+Greenwald,A.G.,Poehlman,T.A.,Uhlmann,E.L.,&Banaji,M.R.(2009). IntergroupRelations,12(5),673–686.https://doi.org/10.1177/13684302
+UnderstandingandusingtheImplicitAssociationTest:III.Meta-analysis 09337471
+of predictive validity. Journal of Personality and Social Psychology, *Inwald, J. (2018). The effects of meta-cognitive priming on hiring
+97(1),17–41.https://doi.org/10.1037/a0015575 discrimination[Doctoraldissertation,NorthwesternUniversity].
+*Haanappel,J.E.(2021).Reducingaccentdiscriminationintheworkplace: Jackson,S.M.,Hillard,A.L.,&Schneider,T.R.(2014).Usingimplicitbias
+Theeffectsofaprejudicecontroltextinapplicationprocedures[Bachelor’s trainingtoimproveattitudestowardwomeninSTEM.SocialPsychology
+thesis,RadboudUniversity].RadboudEducationalRepository. ofEducation,17(3),419–438.https://doi.org/10.1007/s11218-014-9259-5
+Hall, A. T., Zinko, R., Perryman, A. A., & Ferris, G. R. (2009). Johnson, B. T., & Eagly, A. H. (2000). Quantitative synthesis of social
+Organizational citizenship behavior and reputation: Mediators in the psychologicalresearch.InH.T.Reis&C.M.Judd(Eds.),Handbookof
+relationshipsbetweenaccountabilityandjobperformanceandsatisfaction. research methods in social and personality psychology (pp. 496–528).
+JournalofLeadership&OrganizationalStudies,15(4),381–392.https:// CambridgeUniversityPress.
+doi.org/10.1177/1548051809331504 *Johnson, S. K., Sitzmann, T., & Nguyen, A. T. (2014). Don’t hate me
+Hanisch,S.E.,Twomey,C.D.,Szeto,A.C.,Birner,U.W.,Nowak,D.,& becauseI’mbeautiful:Acknowledgingappearancemitigatesthe“beauty
+Sabariego, C. (2016). The effectiveness of interventions targeting the is beastly” effect. Organizational Behavior and Human Decision
+stigma of mental illness at the workplace: A systematic review. BMC Processes,125(2),184–192.https://doi.org/10.1016/j.obhdp.2014.09.006
+Psychiatry,16,Article1.https://doi.org/10.1186/s12888-015-0706-4 *Kaas,L.,&Manger,C.(2012).EthnicdiscriminationinGermany’slabour
+*Hansen,K.,Rakic´,T.,&Steffens,M.C.(2014).Whenactionsspeaklouder market: A field experiment. German Economic Review, 13(1), 1–20.
+thanwords:Preventingdiscriminationofnonstandardspeakers.Journalof https://doi.org/10.1111/j.1468-0475.2011.00538.x
+LanguageandSocialPsychology,33(1),68–77.https://doi.org/10.1177/ Kaiser,F.G.,&Wilson,M.(2019).TheCampbellparadigmasabehavior-
+0261927X13499761 predictive reinterpretation of the classical tripartite model of attitudes.
+*Hebl,M.R.,&Kleck,R.E.(2002).Acknowledgingone’sstigmainthe European Psychologist, 24(4), 359–374. https://doi.org/10.1027/1016-
+interviewsetting:Effectivestrategyorliability?JournalofAppliedSocial 9040/a000364
+Psychology, 32(2), 223–249. https://doi.org/10.1111/j.1559-1816.2002 *Kang, S. K., DeCelles, K. A., Tilcsik, A., & Jun, S. (2016). Whitened
+.tb00214.x résumés:Raceandself-presentationinthelabormarket.Administrative
+*Hebl, M. R., & Skorinko, J. L. (2005). Acknowledging one’s physical Science Quarterly, 61(3), 469–502. https://doi.org/10.1177/000183921
+disabilityintheinterview:Does“when”makeadifference?Journalof 6639577
+AppliedSocialPsychology,35(12),2477–2492.https://doi.org/10.1111/j *Kawakami, K., Dovidio, J. F., & Kamp, S. (2005). Kicking the habit:
+.1559-1816.2005.tb02111.x Effectsofnonstereotypicassociationtrainingandcorrectionprocesseson
+Hebl,M.R.,Tickle,J.,&Heatherton,T.F.(2000).Awkwardmomentsin hiringdecisions.JournalofExperimentalSocialPsychology,41(1),68–
+interactionsbetweennonstigmatizedandstigmatizedindividuals.InT.F. 75.https://doi.org/10.1016/j.jesp.2004.05.004
+Heatherton, R. E. Kleck, M. R. Hebl, & J. G. Hull (Eds.), The social *Kazama, S. (2002). The manifestation and remediation of pregnancy
+psychologyofstigma(pp.275–306).GuilfordPress. discriminationinhiringsituations[Master’sthesis,UniversityofNorth
+Hedges,L. V., & Olkin, I. (1995). Statisticalmethods for meta-analysis. Carolina,Charlotte].ProQuestDissertationsandThesesGlobal.
+AcademicPress. *Khatypova, A. (2022). Can ethic minorities “nudge” their way into
+*Heilman,M.E.,&Okimoto,T.G.(2007).Whyarewomenpenalizedfor corporateAmerica?Howcognitivebiasesandheuristicsimpacthiring
+successatmaletasks?:Theimpliedcommunalitydeficit.JournalofApplied decisions [Doctoral dissertation, Harvard University]. ProQuest
+Psychology,92(1),81–92.https://doi.org/10.1037/0021-9010.92.1.81 DissertationsandThesesGlobal.
+*Heilman, M. E., & Welle, B. (2006). Disadvantaged by diversity? The *King,E.B.,&Ahmad,A.S.(2010).Anexperimentalfieldstudyofinterpersonal
+effectsofdiversitygoalsoncompetenceperceptions.JournalofApplied discriminationtowardMuslimjobapplicants.PersonnelPsychology,63(4),
+Social Psychology, 36(5), 1291–1319. https://doi.org/10.1111/j.0021- 881–906.https://doi.org/10.1111/j.1744-6570.2010.01199.x
+9029.2006.00043.x *Kirgios,E.L.,Rai, A.,Chang,E. H.,&Milkman,K.L.(2022).When
+Hideg, I., & Wilson, A. E. (2020). History backfires: Reminders of past seekinghelp,womenandracial/ethnicminoritiesbenefitfromexplicitly
+injustices against women undermine support for workplace policies statingtheiridentity.NatureHumanBehaviour,6(3),383–391.https://
+promoting women. Organizational Behavior and Human Decision doi.org/10.1038/s41562-021-01253-y
+Processes,156,176–189.https://doi.org/10.1016/j.obhdp.2019.10.001 *Klein,E.(2004).Stereotypingandresumescreening:Theimpactofimplicit
+Higgins,J.P.,Li,T.,&Deeks,J.J.(2019).Choosingeffectmeasuresand theory and atraining intervention [Doctoral dissertation, Universityof
+computingestimatesofeffect.InJ.P.T.Higgins,J.Thomas,J.Chandler, Houston].ProQuestDissertationsandThesesGlobal.
+M. Cumpston, T. Li, M. J. Page, & V. A. Welch (Eds.), Cochrane *Kleissner,V.,&Jahn,G.(2021).Implicitandexplicitagecuesinfluencethe
+handbookforsystematicreviewsofinterventions(pp.143–176).Wiley. evaluationofjobapplications.JournalofAppliedSocialPsychology,51(2),
+Hirsh,E.,&Cha,Y.(2017).Mandatingchange:Theimpactofcourt-ordered 107–120.https://doi.org/10.1111/jasp.12720
+policy changes on managerial diversity. Industrial & Labor Relations Kok,G.,Gottlieb,N.H.,Peters,G.J.Y.,Mullen,P.D.,Parcel,G.S.,Ruiter,
+Review,70(1),42–72.https://doi.org/10.1177/0019793916668880 R.A.,Fernández,M.E.,Markham,C.,&Bartholomew,L.K.(2016).A
+.srehsilbupdeillastifoenoronoitaicossAlacigolohcysPnaciremAehtybdethgirypocsitnemucodsihT
+.yldaorbdetanimessidebottonsidnaresulaudividniehtfoesulanosrepehtrofylelosdednetnisielcitrasihT
+18 COSTA
+
+## Page 20
+
+taxonomy of behaviour change methods: An intervention mapping Mauss,I.B.,&Robinson,M.D.(2009).Measuresofemotion:Areviews.
+approach.HealthPsychologyReview,10(3),297–312.https://doi.org/10 Cognition and Emotion, 23(2), 209–137. https://doi.org/10.1080/02699
+.1080/17437199.2015.1077155 930802204677
+Kraus,S.J.(1995).Attitudesandthepredictionofbehavior:Ameta-analysis McAdams,R.H.(2015).Theexpressivepowersoflaw:Theoriesandlimits.
+of the empirical literature. Personality and Social Psychology Bulletin, HarvardUniversityPress.http://www.jstor.org/stable/j.ctt21pxk8q
+21(1),58–75.https://doi.org/10.1177/0146167295211007 *Mendoza,S.A.,Skorinko,J.L.,Martin,S.A.,&Martone,L.E.(2019).
+*Krause, A., Rinne, U., & Zimmermann, K. F. (2012). Anonymous job Theeffectsofperspectivetakingimplementingintentionsonemployee
+applicationsinEurope.IZAJournalofEuropeanLaborStudies,1(1),Article evaluationsandhostilesexism.PersonnelAssessmentandDecisions,5(2),
+5.https://doi.org/10.1186/2193-9012-1-5 55–63.https://doi.org/10.25035/pad.2019.02.007
+Ku,G.,Wang,C.S.,&Galinsky,A.D.(2015).Thepromiseandperversityof Mernyk,J.S.,Pink,S.L.,Druckman,J.N.,&Willer,R.(2022).Correcting
+perspective-takinginorganizations.ResearchinOrganizationalBehavior, inaccurate metaperceptions reduces Americans’ support for partisan
+35,79–102.https://doi.org/10.1016/j.riob.2015.07.003 violence.ProceedingsoftheNationalAcademyofSciencesoftheUnited
+Kunda,Z.,Miller,D.T.,&Claire,T.(1990).Combiningsocialconcepts: StatesofAmerica,119(16),Articlee2116851119.https://doi.org/10.1073/
+Theroleofcausalreasoning.CognitiveScience,14(4),551–577.https:// pnas.2116851119
+doi.org/10.1207/s15516709cog1404_3 *Merritt,S.,Gardner,C.,Huber,K.,Wexler,B.,Banister,C.,&Staley,A.
+Kuningas,K.,Driscoll,J.,Mair,R.,Smith,H.,Dutton,M.,Day,E.,&Sharif, (2018).Imaginemeandyou,Ido:Effectsofimaginedintergroupcontact
+A. A. (2020). Comparing glycaemic benefits of active versus passive onanti-fatbiasinthecontextofjobinterviews.JournalofAppliedSocial
+lifestyleinterventioninkidneyallograftrecipients:Arandomizedcontrolled Psychology,48(2),80–89.https://doi.org/10.1111/jasp.12492
+trial.Transplantation,104(7),1491–1499.https://doi.org/10.1097/TP.0000 Milot, J. P., Birnbaum, L., Larochelle, P., Wistaff, R., Laskine, M., Van
+000000002969 Nguyen,P.,&Lamarre-Cliche,M.(2015).Unreliabilityofhomeblood
+*Kutcher,E.J.,&Bragger,J.D.(2004).Selectioninterviewsofoverweightjob pressuremeasurementandtheeffectofapatient-orientedintervention.The
+applicants:Canstructurereducethebias?JournalofAppliedSocialPsychology, Canadian Journal of Cardiology, 31(5), 658–663. https://doi.org/10
+34(10),1993–2022.https://doi.org/10.1111/j.1559-1816.2004.tb02688.x .1016/j.cjca.2015.03.006
+Lacroux,A.,&Martin-Lacroux,C.(2020).Anonymousrésumés:Aneffective *Mirch-Kretschmann,S.E.(2004).Framingmessagesaimedatreducing
+preselectionmethod?InternationalJournalofSelectionandAssessment, discriminationandincreasingdiversity:Theroleofcertainty,affect,and
+28(1),98–111.https://doi.org/10.1111/ijsa.12275 stigma.YaleUniversityPress.
+Legault,L.,Gutsell,J.N.,&Inzlicht,M.(2011).Ironiceffectsofantiprejudice Moeyaert,M.,Ugille,M.,NatashaBeretvas,S.,Ferron,J.,Bunuan,R.,&
+messages:Howmotivationalinterventionscanreduce(butalsoincrease) Van den Noortgate, W. (2017). Methods for dealing with multiple
+prejudice. Psychological Science, 22(12), 1472–1477. https://doi.org/10 outcomesinmeta-analysis:Acomparisonbetweenaveragingeffectsizes,
+.1177/0956797611427918 robust variance estimation and multilevel meta-analysis. International
+Lenton, A. P.,Bruder, M.,& Sedikides,C.(2009).A meta-analysison the JournalofSocialResearchMethodology,20(6),559–572.https://doi.org/
+malleability of automatic gender stereotypes. Psychology of Women 10.1080/13645579.2016.1252189
+Quarterly,33(2),183–196.https://doi.org/10.1111/j.1471-6402.2009.01488.x Monteith, M. J., Mark, A. Y., & Ashburn-Nardo, L. (2010). The self-
+Lerner, J. S., & Tetlock, P. E. (1999). Accounting for the effects of regulationofprejudice:Towardunderstandingitslivedcharacter.Group
+accountability.PsychologicalBulletin,125(2),255–275.https://doi.org/ Processes & Intergroup Relations, 13(2), 183–200. https://doi.org/10
+10.1037/0033-2909.125.2.255 .1177/1368430209353633
+Levashina,J.,Hartwell,C.J.,Morgeson,F.P.,&Campion,M.A.(2014). *Morgan,W.B.,Walker,S.S.,Hebl,M.M.R.,&King,E.B.(2013).Afield
+Thestructuredemploymentinterview:Narrativeandquantitativereview experiment:Reducinginterpersonaldiscriminationtowardpregnantjob
+oftheresearchliterature.PersonnelPsychology,67(1),241–293.https:// applicants. Journal of Applied Psychology, 98(5), 799–809. https://
+doi.org/10.1111/peps.12052 doi.org/10.1037/a0034040
+*Levine,E.E.,&Schweitzer,M.E.(2015).Theaffectiveandinterpersonal *Moss-Racusin,C.A.,&Rabasco,H.(2018).Reducinggenderidentitybias
+consequencesofobesity.OrganizationalBehaviorandHumanDecision throughimaginedintergroupcontact.JournalofAppliedSocialPsychology,
+Processes,127,66–84.https://doi.org/10.1016/j.obhdp.2015.01.002 48(8),457–474.https://doi.org/10.1111/jasp.12525
+Levine,M.P.,&Leonard,R.(1984).Discriminationagainstlesbiansinthe *Moss-Racusin, C. A., van der Toorn, J., Dovidio, J. F., Brescoll, V. L.,
+workforce.Signs:JournalofWomeninCultureandSociety,9(4),700– Graham,M.J.,&Handelsman,J.(2016).A“scientificdiversity”intervention
+710.https://doi.org/10.1086/494094 to reduce gender bias in a sample of life scientists. CBE: Life Sciences
+*Lindner, N. M., Graser, A., & Nosek, B. A. (2014). Age-based hiring Education,15(3),Article29.https://doi.org/10.1187/cbe.15-09-0187
+discriminationasafunctionofequitynormsandself-perceivedobjectivity. Mousa,S.(2020).BuildingsocialcohesionbetweenChristiansandMuslims
+PLOS ONE, 9(1), Article e84752. https://doi.org/10.1371/journal.pone throughsoccerin post-ISISIraq. Science,369(6505),866–870.https://
+.0084752 doi.org/10.1126/science.abb3153
+*Lopez,M.(2009).Effectsoftraininginterventiononhiringdiscrimination Myers,M.W.,&Hodges,S.D.(2013).Empathy:Perspectivetakingand
+and rater prejudice [Master’s thesis, California State University]. prosocialbehavior:Caringforotherslikewecarefortheself.InJ.J.Froh
+ProQuestDissertationsandThesesGlobal. &A.C.Parks(Eds.),Activitiesforteachingpositivepsychology:Aguide
+*Lu, J. (n.d.). Breaking the bamboo ceiling and empowering Asians’ forinstructors(pp.77–83).AmericanPsychologicalAssociation.https://
+leadershipadvancementwithdebatetraining:Apreregistered,18-month doi.org/10.1037/14042-013
+longitudinal field experiment [Unpublished manuscript]. Work and Na,J.J.,Park,J.L.,LKhagva,T.,&Mikami,A.Y.(2022).Theefficacyof
+OrganizationStudies,MITSloanSchoolofManagement. interventionsoncognitive,behavioral,andaffectivepublicstigmaaround
+Maguire,R.,Maguire,P.,&Keane,M.T.(2011).Makingsenseofsurprise: mental illness: A systematic meta-analytic review. Stigma and Health,
+Aninvestigationofthefactorsinfluencingsurprisejudgments.Journalof 7(2),127–141.https://doi.org/10.1037/sah0000372
+ExperimentalPsychology:Learning,Memory,andCognition,37(1),176– *Nadler, J. T., Lowery, M. R., Grebinoski, J., & Jones, R. G. (2014).
+186.https://doi.org/10.1037/a0021609 Aversivediscriminationinemploymentinterviews:Reducingeffectsof
+*Malinen,S.,&Johnston,L.(2013).Workplaceageism:Discoveringhidden sexual orientation bias with accountability. Psychology of Sexual
+bias. Experimental Aging Research, 39(4), 445–465. https://doi.org/10 Orientation and Gender Diversity, 1(4), 480–488. https://doi.org/10
+.1080/0361073X.2013.808111 .1037/sgd0000079
+.srehsilbupdeillastifoenoronoitaicossAlacigolohcysPnaciremAehtybdethgirypocsitnemucodsihT
+.yldaorbdetanimessidebottonsidnaresulaudividniehtfoesulanosrepehtrofylelosdednetnisielcitrasihT
+REDUCINGDISCRIMINATIONATWORK 19
+
+## Page 21
+
+Nandigama,D.,&Shyamsunder,A.(2021).Eeny,Meeny,Miny,Moe:Hire andtheeffectonunethicalbehavior.JournalofBusinessEthics,176,429–
+himandlethergo?Usingsciencetoreducehiringbias.NHRDNetwork 449.https://doi.org/10.1007/s10551-020-04729-5
+Journal,14(2),259–273.https://doi.org/10.1177/2631454120987343 *Reuben,E.,Sapienza,P.,&Zingales,L.(2014).Howstereotypesimpair
+Nier,J.A.,Gaertner,S.L.,Dovidio,J.F.,Banker,B.S.,Ward,C.M.,& women’s careers in science. Proceedings of the National Academy of
+Rust,M.C.(2001).Changinginterracialevaluationsandbehavior:The Sciencesof the UnitedStatesof America,111(12), 4403–4408.https://
+effects of a common group identity. Group Processes & Intergroup doi.org/10.1073/pnas.1314788111
+Relations,4(4),299–316.https://doi.org/10.1177/1368430201004004001 *Reynolds,T.,Zhu,L.,Aquino,K.,&Strejcek,B.(2021).Dualpathwaysto
+Onyeador, I. N., Hudson, S. K. T., & Lewis, N. A., Jr. (2021). Moving bias:Evaluators’ideologyandressentimentindependentlypredictracial
+beyondimplicitbiastraining:Policyinsightsforincreasingorganizational discriminationinhiringcontexts.JournalofAppliedPsychology,106(4),
+diversity.PolicyInsightsfromtheBehavioralandBrainSciences,8(1), 624–641.https://doi.org/10.1037/apl0000804
+19–26.https://doi.org/10.1177/2372732220983840 Riek,B.M.,Mania,E.W.,Gaertner,S.L.,McDonald,S.A.,&Lamoreaux,
+Osman, M. (2021). UK public understanding of unconscious bias and M.J.(2010).Doesacommoningroupidentityreduceintergroupthreat?
+unconsciousbiastraining.Psychology,12(7),1058–1069.https://doi.org/ GroupProcesses&IntergroupRelations,13(4),403–423.https://doi.org/
+10.4236/psych.2021.127063 10.1177/1368430209346701
+Paluck, E. L. (2011). Peer pressure against prejudice: A high school field Robinson,A.N.,Arena,D.F.,Jr.,Lindsey,A.P.,&Ruggs,E.N.(2020).
+experimentexaminingsocialnetworkchange.JournalofExperimentalSocial Expanding how we think about diversity training. Industrial and
+Psychology,47(2),350–358.https://doi.org/10.1016/j.jesp.2010.11.017 OrganizationalPsychology,13(2),236–241.https://doi.org/10.1017/iop
+Paluck,E.L.,&Green,D.P.(2009).Prejudicereduction:Whatworks?Areview .2020.43
+andassessmentofresearchandpractice.AnnualReviewofPsychology,60(1), Rodon,T.,&Franco-Guillén,N.(2014).Contactwithimmigrantsintimesof
+339–367.https://doi.org/10.1146/annurev.psych.60.110707.163607 crisis: An exploration of the Catalan case. Ethnicities, 14(5), 650–675.
+Paluck, E. L., Porat, R., Clark, C. S., & Green, D. P. (2021). Prejudice https://doi.org/10.1177/1468796813520307
+reduction:Progressandchallenges.AnnualReviewofPsychology,72(1), Rosenberg, M. J., & Hovland, C. I. (1960). Cognitive, affective, and
+533–560.https://doi.org/10.1146/annurev-psych-071620-030619 behavioralcomponentsofattitudes.InM.J.Rosenberg&C.I.Hovland
+Parrott, W. G., & Hertel, P. (1999). Research methods in cognition and (Eds.), Attitude organization and change: An analysis of consistency
+emotion.InT.Dalgleish&M.J.Power(Eds.),Handbookofcognitionand amongattitudecomponents.YaleUniversityPress.
+emotion(pp.61–81).Wiley. *Rudolph,C.W.,Baltes,B.B.,Zhdanova,L.S.,Clark,M.A.,&Bal,A.C.
+Pearson, A. R., Dovidio, J. F., & Gaertner, S. L. (2009). The nature of (2012). Testing the structured free recall intervention for reducing the
+contemporary prejudice: Insights from aversive racism. Social and impact of bodyweight-based stereotypes on performance ratings in
+PersonalityPsychologyCompass,3(3),314–338.https://doi.org/10.1111/ immediate and delayed contexts. Journal of Business and Psychology,
+j.1751-9004.2009.00183.x 27(2),205–222.https://doi.org/10.1007/s10869-011-9240-7
+Pendry, L. F., Driscoll, D. M., & Field, S. C. (2007). Diversity training: Ruedin, D., & Van Belle, E. (2023). The extent of résumé Whitening.
+Puttingtheoryintopractice.JournalofOccupationalandOrganizational Sociological Research Online, 28(3), 858–869. https://doi.org/10.1177/
+Psychology,80(1),27–50.https://doi.org/10.1348/096317906X118397 13607804221094625
+*Petersen, L. E., & Krings, F. (2009). Are ethical codes of conduct Ruggs,E.N.,Martinez,L.R.,&Hebl,M.R.(2011).Howindividualsand
+toothlesstigersfordealingwithemploymentdiscrimination?Journal organizationscanreduceinterpersonaldiscrimination.SocialandPersonality
+of Business Ethics, 85(4), 501–514. https://doi.org/10.1007/s10551- Psychology Compass, 5(1), 29–42. https://doi.org/10.1111/j.1751-9004
+008-9785-1 .2010.00332.x
+Pettigrew,T.F.,&Tropp,L.R.(2008).Howdoesintergroupcontactreduce Ryan,T.,&Fiatte,T.(2022).Thesecompaniesarefollowingthroughon
+prejudice? Meta-analytic tests of three mediators.European Journalof theirpromisesondiversity,equity,andinclusion.Fortune.https://fortune
+SocialPsychology,38(6),922–934.https://doi.org/10.1002/ejsp.504 .com/2022/01/17/diversity-pledges-ceo-action-social-justice/
+Phillips, J. E., & Olson, M. A. (2014). When implicitly and explicitly *Salge, M. (2018). Reducing disability discrimination in the workplace
+measured racial attitudes align: The roles of social desirability and [Master’s thesis, University of North Carolina, Charlotte]. ProQuest
+thoughtfulresponding.BasicandAppliedSocialPsychology,36(2),125– DissertationsandThesesGlobal.
+132.https://doi.org/10.1080/01973533.2014.881287 Scacco, A., & Warren, S. S. (2018). Can social contact reduce prejudice
+Polanin, J. R., & Snilstveit, B. (2016). Converting between effect sizes. and discrimination? Evidence from a field experiment in Nigeria. The
+CampbellSystematicReviews,12(1),1–13.https://doi.org/10.4073/cmpn AmericanPoliticalScienceReview,112(3),654–677.https://doi.org/10
+.2016.3 .1017/S0003055418000151
+Prati, F., Crisp, R. J., & Rubini, M. (2015). Counter-stereotypes reduce *Schloegel,U.,Stegmann,S.,Maedche,A.,&VanDick,R.(2016).Reducing
+emotionalintergroupbiasbyelicitingsurpriseinthefaceofunexpected age stereotypes in software development: The effects of awareness-and
+categorycombinations.JournalofExperimentalSocialPsychology,61, cooperation-baseddiversityinterventions.JournalofSystemsandSoftware,
+31–43.https://doi.org/10.1016/j.jesp.2015.06.004 121,1–15.https://doi.org/10.1016/j.jss.2016.07.041
+Prentice,D.,&Paluck,E.L.(2020).Engineeringsocialchangeusingsocial *Schmader,T.,Croft,A.,Whitehead,J.,&Stone,J.(2013).Apeekinside
+norms:Lessonsfromthestudyofcollectiveaction.CurrentOpinionin the targets’ toolbox: How stigmatized targets deflect discrimination by
+Psychology,35,138–142.https://doi.org/10.1016/j.copsyc.2020.06.012 invokingacommonidentity.BasicandAppliedSocialPsychology,35(1),
+Rawski,S.L.,&Conroy,S.A.(2020).Beyonddemographicidentitiesand 141–149.https://doi.org/10.1080/01973533.2012.746615
+motivationtolearn:Theeffectoforganizationalidentificationondiversity *Schuster,C.,Sparkman,G.,Walton,G.M.,Alles,A.,&Loschelder,D.D.
+trainingoutcomes.JournalofOrganizationalBehavior,41(5),461–478. (2023). Egalitarian norm messaging increases human resources profes-
+https://doi.org/10.1002/job.2439 sionals’salaryofferstowomen.JournalofAppliedPsychology,108(4),
+R Core Team. (2019). R: A language and environment for statistical 541–552.https://doi.org/10.1037/apl0001033
+computing[Computersoftware].RFoundationforStatisticalComputing. Schütz, H., & Six, B. (1996). How strong is the relationship between
+https://www.R-project.org prejudice and discrimination? A meta-analytic answer. International
+Rees, M. R., Tenbrunsel, A. E., & Diekmann, K. A. (2022). “It’s just JournalofInterculturalRelations,20(3–4),441–462.https://doi.org/10
+business”:Understandinghowbusinessframesdifferfromethicalframes .1016/0147-1767(96)00028-4
+.srehsilbupdeillastifoenoronoitaicossAlacigolohcysPnaciremAehtybdethgirypocsitnemucodsihT
+.yldaorbdetanimessidebottonsidnaresulaudividniehtfoesulanosrepehtrofylelosdednetnisielcitrasihT
+20 COSTA
+
+## Page 22
+
+.srehsilbupdeillastifoenoronoitaicossAlacigolohcysPnaciremAehtybdethgirypocsitnemucodsihT
+.yldaorbdetanimessidebottonsidnaresulaudividniehtfoesulanosrepehtrofylelosdednetnisielcitrasihT
+REDUCINGDISCRIMINATIONATWORK 21
+Sharma,S.,&Mann,N.(2018).Workplacediscrimination:Themostcritical Turner,R.N.,&West,K.(2012).Behaviouralconsequencesofimagining
+issueinmanagingdiversity.InN.Sharma,V.Singh,&S.Pathak(Eds.), intergroup contact with stigmatized outgroups. Group Processes &
+Managementtechniquesforadiverseandcross-culturalworkforce(pp. Intergroup Relations, 15(2), 193–202. https://doi.org/10.1177/1368430
+206–223).IGIGlobal.https://doi.org/10.4018/978-1-5225-4933-8.ch012 211418699
+*Shea,C.M.,Malone,M.F.F.T.,Young,J.R.,&Graham,K.J.(2019). Turner,R.N.,West,K.,&Christie,Z.(2013).Out-grouptrust,intergroup
+Interactive theater: An effective tool to reduce gender bias in faculty anxiety,andout-groupattitudeasmediatorsof theeffectofimagined
+searches.Equality,DiversityandInclusion,38(2),178–187.https://doi.org/ intergroup contact on intergroup behavioral tendencies. Journal of
+10.1108/EDI-09-2017-0187 AppliedSocialPsychology,43(S2),196–205.https://doi.org/10.1111/ja
+Shih,M.,Wang,E.,TrahanBucher,A.,&Stotzer,R.(2009).Perspective sp.12019
+taking: Reducing prejudice towards general outgroups and specific Tyran,J.R.,&Feld,L.P.(2002).Whypeopleobeythelaw:Experimental
+individuals. Group Processes & IntergroupRelations, 12(5), 565–577. evidence from the provision of public goods. Social Science Research
+https://doi.org/10.1177/1368430209337463 Network.https://doi.org/10.2139/ssrn.290231
+*Singletary, S. L., & Hebl, M. R. (2009). Compensatory strategies for *Uhlmann,E.,&Cohen,G.L.(2005).Constructedcriteria:Redefiningmerit
+reducing interpersonal discrimination: The effectiveness of acknowl- tojustifydiscrimination.PsychologicalScience,16(6),474–480.https://
+edgments,increasedpositivity,andindividuatinginformation.Journalof doi.org/10.1111/j.0956-7976.2005.01559.x
+AppliedPsychology,94(3),797–805.https://doi.org/10.1037/a0014185 VandenNoortgate,W.,Lo´pez-Lo´pez,J.A.,Marín-Martínez,F.,&Sánchez-
+Skinner, A. L., & Meltzoff, A. N. (2019). Childhood experiences and Meca, J. (2013). Three-level meta-analysis of dependent effect sizes.
+intergroupbiasesamongchildren.SocialIssuesandPolicyReview,13(1), Behavior Research Methods, 45(2), 576–594. https://doi.org/10.3758/
+211–240.https://doi.org/10.1111/sipr.12054 s13428-012-0261-6
+Smith,J.R.,&Haslam,A.(Eds.).(2017).Socialpsychology:Revisitingthe Vescio,T.K.,Sechrist,G.B.,&Paolucci,M.P.(2003).Perspectivetaking
+classicstudies.SAGEPublications. and prejudice reduction: The mediational role of empathy arousal and
+Sparkman, D. J., & Eidelman, S. (2018). We are the “human family”: situational attributions. European Journal of Social Psychology, 33(4),
+Multiculturalexperiencespredictlessprejudiceandgreaterconcernfor 455–472.https://doi.org/10.1002/ejsp.163
+human rights through identification with humanity. Social Psychology, Vezzali,L.,Crisp,R.J.,Stathi,S.,&Giovannini,D.(2013).Theaffective
+49(3),135–153.https://doi.org/10.1027/1864-9335/a000337 consequencesofimaginedcontact:Areviewandsomesuggestionsfor
+Sparkman, D. J., & Hamer, K. (2020). Seeing the human in everyone: future research. TPM-Testing, Psychometrics, Methodology in Applied
+Multicultural experiences predict more positive intergroup attitudes and Psychology,20(4),343–363.https://doi.org/10.4473/TPM20.4.4
+humanitarianhelpingthroughidentificationwithallhumanity.International Viechtbauer,W.(2010).Conductingmeta-analysesinRwiththemetafor
+JournalofInterculturalRelations,79,121–134.https://doi.org/10.1016/j.iji package.JournalofStatisticalSoftware,36(3),1–48.https://doi.org/10
+ntrel.2020.08.007 .18637/jss.v036.i03
+Stephens,N.M.,Rivera,L.A.,&Townsend,S.S.(2020).Thecycleof Voelkel,J.G.,Chu,J.,Stagnaro,M.N.,Mernyk,J.S.,Redekopp,C.,Pink,
+workplace bias and how to interrupt it. Research in Organizational S.L.,Druckman,J.N.,Rand,D.G.,&Willer,R.(2023).Interventions
+Behavior,40,Article100137.https://doi.org/10.1016/j.riob.2021.100137 reducingaffectivepolarizationdonotnecessarilyimproveanti-democratic
+*Tadmor,C.T.,Hong,Y.Y.,Chao,M.M.,Wiruchnipawan,F.,&Wang,W. attitudes.NatureHumanBehaviour,7(1),55–64.https://doi.org/10.1038/
+(2012). Multicultural experiences reduce intergroup bias through s41562-022-01466-9
+epistemic unfreezing. Journal of Personality and Social Psychology, Waugh, C. E., & Fredrickson, B. L. (2006). Nice to know you: Positive
+103(5),750–772.https://doi.org/10.1037/a0029719 emotions,self-otheroverlap,andcomplexunderstandingintheformation
+Tankard,M.E.,&Paluck,E.L.(2016).Normperceptionasavehiclefor ofanewrelationship.TheJournalofPositivePsychology,1(2),93–106.
+socialchange.SocialIssuesandPolicyReview,10(1),181–211.https:// https://doi.org/10.1080/17439760500510569
+doi.org/10.1111/sipr.12022 Welle,B.,&Heilman,M.E.(2007).Formalandinformaldiscrimination
+*Thijssen,L.,Coenders,M.,&Lancee,B.(2021).Ethnicdiscriminationin againstwomenatwork.InS.W.Gilliland,D.D.Steiner,&D.P.Skarlicki
+theDutchlabormarket:Differencesbetweenethnicminoritygroupsand (Eds.),Researchinsocialissuesinmanagement:Managingsocialand
+theroleofpersonalinformationaboutjobapplicants—Evidencefroma ethicalissuesinorganizations(pp.229–252).InformationAge.
+field experiment. Journal of International Migration and Integration, Wicker,A.W.(1969).Attitudesversusactions:Therelationshipofverbal
+22(3),1125–1150.https://doi.org/10.1007/s12134-020-00795-w and overt behavioural responses to attitude objects. Journal of Social
+*Thijssen,L.,Lancee,B.,Veit,S.,&Yemane,R.(2021).Discrimination Issues, 25(4), 41–78. https://doi.org/10.1111/j.1540-4560.1969.tb00
+against Turkish minorities in Germany and the Netherlands: Field 619.x
+experimentalevidenceontheeffectofdiagnosticinformationonlabour Wiernik,B.M.,&Dahlke,J.A.(2020).Obtainingunbiasedresultsinmeta-
+marketoutcomes.JournalofEthnicandMigrationStudies,47(6),1222– analysis:Theimportanceofcorrectingforstatisticalartifacts.Advancesin
+1239.https://doi.org/10.1080/1369183X.2019.1622793 MethodsandPracticesinPsychologicalScience,3(1),94–123.https://
+Todd,A.R.,&Galinsky,A.D.(2014).Perspective-takingasastrategyfor doi.org/10.1177/2515245919885611
+improvingintergrouprelations:Evidence,mechanisms,andqualifications. Williams,M.(2001).Inwhomwetrust:Groupmembershipasanaffective
+Social and Personality Psychology Compass, 8(7), 374–387. https:// contextfortrustdevelopment.AcademyofManagementReview,26(3),
+doi.org/10.1111/spc3.12116 377–396.https://doi.org/10.2307/259183
+Tropp,L.R.,&Pettigrew,T.F.(2005).Differentialrelationshipsbetween Yang,J.R.,&Liu,J.(2021).Strengtheningaccountabilityfordiscrimination.
+intergroupcontactandaffectiveandcognitivedimensionsofprejudice. EconomicPolicyInstitute.https://www.epi.org/unequalpower/publications/
+Personality and Social Psychology Bulletin, 31(8), 1145–1158. https:// strengthening-accountability-for-discrimination-confronting-fundamental-po
+doi.org/10.1177/0146167205274854 wer-imbalances-in-the-employment-relationship/
+Tulshyan, R. (2018). Women of color get asked to do more “office Zanna, M. P., Olson, J. M., & Fazio, R. H. (1980). Attitude–behavior
+housework.” Here’s how they can say no. Harvard Business Review. consistency:Anindividualdifferenceperspective.JournalofPersonality
+https://hbr.org/2018/04/women-of-color-get-asked-to-do-more-office-house and Social Psychology, 38(3), 432–440. https://doi.org/10.1037/0022-
+work-heres-how-they-can-say-no 3514.38.3.432
+(Appendicesfollow)
+
+## Page 23
+
+.srehsilbupdeillastifoenoronoitaicossAlacigolohcysPnaciremAehtybdethgirypocsitnemucodsihT
+.yldaorbdetanimessidebottonsidnaresulaudividniehtfoesulanosrepehtrofylelosdednetnisielcitrasihT
+22 COSTA
+Appendix A
+Search Parameters
+Database sources
+APAPsycInfo,GoogleScholar, WebofScience, Scopus,andProQuest
+Terms
+work*ORjobORemploy*ORhir*ORrecruit*ORapplicantORpromot*ORsalary
+AND
+bias ORprejudic*ORdiscriminat*ORstereotyp*
+AND
+interventionORtreatmentOR reduc*ORexperiment*
+Appendix B
+Model Parameters
+(cid:129) Model1(null—intercept-only)
+Y +γ +γ ðCognitiveDummyÞ+γ ðAffective DummyÞ
+ij 00 01 02
+Y +γ +u +ε (B1) +γ 03 ðBehavior DummyÞ+u 0j +ε ij (B4)
+ij 00 0j ij
+(cid:129) Model5(Hypothesis4:“Educating”interventioncategory=
+(cid:129) Model2(outcome variable) 0;otherinterventioncategories=0)
+Y +γ +γ ðOutcomesÞ+u +ε (B2) Y +γ +γ ðEducating DummyÞ+u +ε (B5)
+ij 00 01 0j ij ij 00 01 0j ij
+Intheseequations:
+(cid:129) Model3(intervention categoryvariable)
+(cid:129) Y is theith effectsize inthe jth article.
+ij
+Y ij +γ 00 +γ 01 ðOutcomesÞ+γ 02 ðInterventionCategoryÞ (cid:129) γ istheoverallintercept.
+00
++u +ε (B3)
+0j ij (cid:129) γ are coefficientsfortherespectivevariables.
+01:03
+(cid:129) u representstherandomeffectatthearticle level.
+(cid:129) Model4(Hypotheses1–3:matchinginterventioncategory 0j
+andoutcome variables =1;not matching= 0) (cid:129) ε is theresidualerrorattheeffectsizelevel.
+ij
+(Appendicescontinue)
+
+## Page 24
+
+.srehsilbupdeillastifoenoronoitaicossAlacigolohcysPnaciremAehtybdethgirypocsitnemucodsihT
+.yldaorbdetanimessidebottonsidnaresulaudividniehtfoesulanosrepehtrofylelosdednetnisielcitrasihT
+REDUCINGDISCRIMINATIONATWORK 23
+Appendix C
+Sensitivity Analyses: Results Excluding Outliers
+Variable Q Hedges’g ρ SE p
+Fullsample(k=208)
+Matchinginterventionandoutcome 15.01 .002
+Cognitive 0.24* 0.26** 0.10 .007
+Affective 0.02 0.07 0.10 .480
+Behavior 0.53*** 0.39*** 0.11 <.001
+InfluentialpointsexcludedbasedonCook’sdistance(k=206)
+Matchinginterventionandoutcome 15.68 <.001
+Cognitive 0.25* 0.26** 0.10 .006
+Affective 0.02 0.07 0.10 .466
+Behavior 0.53*** 0.39** 0.11 <.001
+Influentialpointsexcludedbasedonhatvalues(k=192)
+Matchinginterventionandoutcome 12.07 .007
+Cognitive 0.21* 0.24* 0.10 .020
+Affective 0.01 0.06 0.10 .537
+Behavior 0.53*** 0.37** 0.11 <.001
+Note. Meta-analyticalresultsforthehypothesizedanalyseswithandwithoutoutliersandinfluentialpointsofleverage.ρ=Hedges’gvaluescorrected
+forunreliability.Cognitive:1=matches“disruptingstereotypeprocessing”interventioncategorywithoutcomevariablesmeasuringcognitivedimensions
+of attitudes, 0 = no match between these variables. Affective: 1 = matches “updating affective states” intervention category with outcome variables
+measuring affective dimensions of attitudes, 0 = no match between these variables. Behavior: 1 = matches “inhibiting bias manifestation” intervention
+categorywithoutcomevariablesmeasuringbehavioraldimensionsofattitudes,0=nomatchbetweenthesevariables.SE=standarderror.
+*p<.05. **p<.01. ***p<.001.
+Appendix D
+Exploratory Analyses on Discriminatory Outcomes
+In exploratory analyses restricted to behavioral outcome Examining Subcategories for the “Disrupting
+variables, I examined whether differential effects emerged when Stereotype Processing” Category
+accounting for some study characteristics or when adopting more
+granularclassificationsoninterventioncategories. I investigated whether the effectiveness of interventions
+targetingthecognitivedimensionofattitudesvariedwhenfurther
+classified based on whether they entirely prevented access to
+Moderator Variables stereotypical information (“blocking” types) or simply disrupted
+Toexaminepotentialmoderationoftheoveralleffectonworkplace
+itsprocessing(nonblocking”types).Icodedanonymizing/resume
+discriminatory outcomes, I recorded the following variables: (a)
+blindingandmajoritysignalingas“blocking”interventiontypes,
+objectofintervention(whetherthetreatmentintervenedonthetarget as they prevent exposure to demographic signals. The remaining
+of evaluation, the evaluator, or the decision environment/architec- intervention types within this category, such as structured
+ture);(b)targetgroup(codedforgroupsavailableinthissample:age, evaluation, were coded as “nonblocking.” No statistically
+attractiveness,bodyweight,disability,gender,LGBT+,nationality, significant differences emerged in reducing discriminatory out-
+pregnancy,raceorreligion);(c)role(whetherthejobtestedforan comeswhensegmentingthedisruptinginterventioncategorythis
+entry-level, professional, managerial, or faculty position)D1; (d) way (g = 0.22, SE = 0.12; g = 0.27, SE = 0.06,
+blocking nonblocking
+publication status (published or unpublished); and (e) sample type p = .691).
+(convenience or field). Convenience samples included participants
+from online sources (e.g., Mechanical Turk, paid panels, project
+implicit pool) and undergraduate students. Field samples entailed
+surveying or observing individuals in natural settings, such as D1Nonfacultyjoblevelswereclassifiedasfollows:entry-level(individual
+workersinretailstores,employeesfrommultinationalorganizations, contributor role that does not typically require a 4-year degree or more
+and university faculty members. Table D1 summarizes the meta- specializedtraining,suchasfastfoodoperators,retailsalesperson);professional
+regressionresultsfittedwiththesefocalmoderators.Resultsrevealno (individualcontributorrolethatgenerallyrequireseithera4-yeardegreeor
+morespecializedtraining,suchassoftwareengineer,marketinganalyst);and
+significant differences in intervention effectiveness for any of the managerial (title was indicative of supervisory responsibilities, such as
+variablesexamined. departmenthead,bankbranchmanager,etc.).
+(Appendicescontinue)
+
+## Page 25
+
+Examining Subcategories for the “Inhibiting Bias “discretionary”: social norms and accountability. I coded the
+Manifestation” Category intervention type “affirmative action” as “less discretionary.” No
+statisticallysignificantdifferencesemergedinreducingdiscrimina-
+Within interventions targeting the behavioral dimension, I
+toryoutcomeswhensegmentingtheinhibitinginterventioncategory
+examinedwhetherthelevelofdiscretionexercisedbyanevaluator based on the level of discretion (g = 0.71, SE = 0.10;
+impacted effectiveness in reducing discrimination. I classified g =0.49,SE=0.17;p dis = cre . t 2 io 5 na 7 r ) y .
+less-discretionary
+interventionsthatallowedformorediscretion,wherethedecision-
+maker could rely more on normative information or their own
+commitments, as “discretionary” intervention types. In contrast,
+“lessdiscretionary”interventionstendtocreatemoreprogrammed ReceivedMay31,2023
+decisions due to their more structured nature. Within this RevisionreceivedApril30,2024
+intervention category, I coded the following intervention types as Accepted May1, 2024 ▪
+.srehsilbupdeillastifoenoronoitaicossAlacigolohcysPnaciremAehtybdethgirypocsitnemucodsihT
+.yldaorbdetanimessidebottonsidnaresulaudividniehtfoesulanosrepehtrofylelosdednetnisielcitrasihT
+24 COSTA
+TableD1
+ModeratorAnalysisResults
+Variable Q k Hedges’g ρ SE p
+Interventionobject 0.78 .678
+Architecture 14 0.03 0.17 0.13 .175
+Evaluator 127 0.26*** 0.29*** 0.05 <.001
+Target 67 0.22** 0.26*** 0.07 <.001
+Targetgroup 8.13 .522
+Age 11 0.15 0.16 0.18 .375
+Bodyweight 20 0.11 0.20 0.12 .090
+Disability 17 0.01 0.10 0.16 .550
+Gender 58 0.23*** 0.28*** 0.06 <.001
+LGBT+ 17 0.38** 0.41** 0.14 .003
+Nationality 33 0.26*** 0.29*** 0.07 <.001
+Physicalattractiveness 6 0.79** 0.87** 0.28 .002
+Pregnancy 16 0.14 0.15 0.17 .371
+Race 24 0.23** 0.27*** 0.07 <.001
+Religion 6 0.10 0.11 0.28 .686
+Role 1.25 .870
+Entry-level 45 0.25** 0.31*** 0.09 <.001
+Faculty 3 0.10 0.36* 0.17 .033
+Managerial 28 0.25* 0.12 0.11 .265
+Professional 54 0.24*** 0.27*** 0.08 <.001
+Sampletype 3.75 .053
+Convenience 132 0.27*** 0.30*** 0.05 <.001
+Field 76 0.17** 0.22*** 0.06 <.001
+Note. Results for multilevel meta-regressions based on moderator analyses. ρ = Hedges’ g values
+correctedforunreliability;k=numberofeffectsizescontributingtoestimatecalculationsforeachlevel.
+Positiveρvaluesindicateareductionofdiscriminationintheinterventiongrouprelativetothecontrol
+group.SE=standarderror.
+*p<.05. **p<.01. ***p<.001.

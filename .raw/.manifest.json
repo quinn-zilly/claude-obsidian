@@ -1801,6 +1801,111 @@
         "wiki/hot.md",
         "wiki/mocs/Teams & Org Behavior MOC.md"
       ]
+    },
+    ".raw/Leslie et al. - 2020 - On melting pots and salad bowls A meta-analysis of the effects of identity-blind and identity-consc.md": {
+      "hash": "0f8b192b94bb6e38535cffccb511f52e",
+      "ingested_at": "2026-07-06",
+      "pages_created": [
+        "wiki/sources/leslie-et-al-2020-diversity-ideologies-meta-analysis.md",
+        "wiki/concepts/Diversity Ideologies.md",
+        "wiki/entities/Lisa M. Leslie.md"
+      ],
+      "pages_updated": [
+        "wiki/concepts/Multicultural vs. Colorblind Approaches.md",
+        "wiki/mocs/Learning & Development MOC.md",
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md"
+      ]
+    },
+    ".raw/Costa - 2024 - Examining the effectiveness of interventions to re.md": {
+      "hash": "c088e1c868ed5e4ea23baf5874cda479",
+      "ingested_at": "2026-07-06",
+      "pages_created": [
+        "wiki/sources/costa-2024-discrimination-interventions.md",
+        "wiki/concepts/Tripartite Model of Attitudes.md",
+        "wiki/concepts/Attitude Dimension Consistency.md",
+        "wiki/concepts/Bias Intervention Taxonomy.md",
+        "wiki/entities/Elaine Costa.md"
+      ],
+      "pages_updated": [
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md"
+      ]
+    },
+    ".raw/Bandura - 2001 - Social Cognitive Theory An Agentic Perspective.md": {
+      "hash": "e45a72710e84930088b57c26f18ae6b7",
+      "ingested_at": "2026-07-06",
+      "pages_created": [
+        "wiki/sources/bandura-2001-social-cognitive-theory-agentic.md",
+        "wiki/entities/Albert Bandura.md",
+        "wiki/concepts/Human Agency.md",
+        "wiki/concepts/Triadic Reciprocal Causation.md",
+        "wiki/concepts/Modes of Human Agency.md",
+        "wiki/concepts/Collective Efficacy.md",
+        "wiki/concepts/Forethought and Anticipatory Self-Guidance.md",
+        "wiki/concepts/Moral Disengagement.md",
+        "wiki/concepts/Agentic Management of Fortuity.md"
+      ],
+      "pages_updated": [
+        "wiki/concepts/Social Cognitive Theory.md",
+        "wiki/concepts/Self-Efficacy (Goal Setting).md",
+        "wiki/index.md",
+        "wiki/log.md",
+        "wiki/hot.md",
+        "wiki/mocs/Learning & Development MOC.md"
+      ]
+    },
+    ".raw/Schunk and Usher - 2012 - Social Cognitive Theory and Motivation.md": {
+      "hash": "af6ab36a618d42ac838f5966b8264bcd",
+      "ingested_at": "2026-07-06",
+      "pages_created": [
+        "wiki/sources/schunk-usher-2012-social-cognitive-theory-motivation.md",
+        "wiki/entities/Dale H. Schunk.md",
+        "wiki/entities/Ellen L. Usher.md",
+        "wiki/concepts/Sources of Self-Efficacy.md",
+        "wiki/concepts/Enactive and Vicarious Learning.md",
+        "wiki/concepts/Social Comparison.md"
+      ],
+      "pages_updated": [
+        "wiki/concepts/Self-Efficacy (Goal Setting).md",
+        "wiki/index.md"
+      ]
+    },
+    ".raw/Kruger and Dunning - 1999 - Unskilled and unaware of it How difficulties in recognizing one's own incompetence lead to inflated.md": {
+      "hash": "6c849d0634446fedc60605e727a861a0",
+      "ingested_at": "2026-07-06",
+      "pages_created": [
+        "wiki/sources/kruger-dunning-1999-unskilled-and-unaware.md",
+        "wiki/entities/Justin Kruger.md",
+        "wiki/entities/David Dunning.md",
+        "wiki/concepts/Dunning-Kruger Effect.md",
+        "wiki/concepts/Above-Average Effect.md"
+      ],
+      "pages_updated": [
+        "wiki/concepts/Calibration (Judgment).md",
+        "wiki/concepts/Metacognition and Self-Directed Learning.md",
+        "wiki/index.md"
+      ]
+    },
+    ".raw/Lee et al. - 2015 - Identifying organizational identification as a basis for attitudes and behaviors A meta-analytic re.md": {
+      "hash": "c02095481d51a6e52fa29d711a368c21",
+      "ingested_at": "2026-07-06",
+      "pages_created": [
+        "wiki/sources/lee-park-koo-2015-organizational-identification-meta-analysis.md",
+        "wiki/entities/Eun-Suk Lee.md",
+        "wiki/entities/Tae-Youn Park.md",
+        "wiki/entities/Bonjin Koo.md",
+        "wiki/concepts/Organizational Identification (Outcomes).md",
+        "wiki/concepts/Attitude-Behavior Relations.md"
+      ],
+      "pages_updated": [
+        "wiki/concepts/Social Identification.md",
+        "wiki/concepts/Organizational Commitment.md",
+        "wiki/mocs/Teams & Org Behavior MOC.md",
+        "wiki/index.md"
+      ]
     }
   },
   "address_map": {
@@ -2512,7 +2617,41 @@
     "wiki/entities/Erin Lehman.md": "c-000811",
     "wiki/entities/Kevin C. Stagl.md": "c-000812",
     "wiki/entities/Linda Pierce.md": "c-000813",
-    "wiki/entities/Dana Kendall.md": "c-000814"
+    "wiki/entities/Dana Kendall.md": "c-000814",
+    "wiki/sources/leslie-et-al-2020-diversity-ideologies-meta-analysis.md": "c-000824",
+    "wiki/concepts/Diversity Ideologies.md": "c-000825",
+    "wiki/entities/Lisa M. Leslie.md": "c-000826",
+    "wiki/sources/costa-2024-discrimination-interventions.md": "c-000827",
+    "wiki/concepts/Tripartite Model of Attitudes.md": "c-000828",
+    "wiki/concepts/Attitude Dimension Consistency.md": "c-000829",
+    "wiki/entities/Elaine Costa.md": "c-000830",
+    "wiki/concepts/Bias Intervention Taxonomy.md": "c-000831",
+    "wiki/sources/bandura-2001-social-cognitive-theory-agentic.md": "c-000832",
+    "wiki/entities/Albert Bandura.md": "c-000833",
+    "wiki/concepts/Human Agency.md": "c-000834",
+    "wiki/concepts/Triadic Reciprocal Causation.md": "c-000835",
+    "wiki/concepts/Modes of Human Agency.md": "c-000836",
+    "wiki/concepts/Collective Efficacy.md": "c-000837",
+    "wiki/concepts/Forethought and Anticipatory Self-Guidance.md": "c-000838",
+    "wiki/concepts/Moral Disengagement.md": "c-000839",
+    "wiki/concepts/Agentic Management of Fortuity.md": "c-000840",
+    "wiki/sources/schunk-usher-2012-social-cognitive-theory-motivation.md": "c-000841",
+    "wiki/entities/Dale H. Schunk.md": "c-000842",
+    "wiki/entities/Ellen L. Usher.md": "c-000843",
+    "wiki/concepts/Sources of Self-Efficacy.md": "c-000844",
+    "wiki/concepts/Enactive and Vicarious Learning.md": "c-000845",
+    "wiki/concepts/Social Comparison.md": "c-000846",
+    "wiki/sources/kruger-dunning-1999-unskilled-and-unaware.md": "c-000847",
+    "wiki/entities/Justin Kruger.md": "c-000848",
+    "wiki/entities/David Dunning.md": "c-000849",
+    "wiki/concepts/Dunning-Kruger Effect.md": "c-000850",
+    "wiki/concepts/Above-Average Effect.md": "c-000851",
+    "wiki/sources/lee-park-koo-2015-organizational-identification-meta-analysis.md": "c-000852",
+    "wiki/entities/Eun-Suk Lee.md": "c-000853",
+    "wiki/entities/Tae-Youn Park.md": "c-000854",
+    "wiki/entities/Bonjin Koo.md": "c-000855",
+    "wiki/concepts/Organizational Identification (Outcomes).md": "c-000856",
+    "wiki/concepts/Attitude-Behavior Relations.md": "c-000857"
   },
   ".raw/Pearsall et al. - 2025 - A stimulus-based model of the team adaptation process An integrated conceptual review..pdf": {
     "hash": "62f683006d3323a67c67fc23621f632a",

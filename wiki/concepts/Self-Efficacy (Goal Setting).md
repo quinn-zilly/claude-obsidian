@@ -6,8 +6,8 @@ aliases: ["self-efficacy", "task-specific confidence"]
 tags: [motivation, self-efficacy, goal-setting, performance, Bandura]
 status: evergreen
 created: 2026-05-30
-updated: 2026-05-30
-related: ["[[Goal-Setting Theory]]", "[[Goal Commitment]]", "[[High-Performance Cycle]]", "[[Social Cognitive Theory]]", "[[Competence (SDT)]]", "[[Edwin Locke]]", "[[Gary Latham]]", "[[Self-Management Training]]", "[[Outcome Expectancies]]", "[[frayne-latham-1987-self-management-attendance|Frayne & Latham 1987]]"]
+updated: 2026-07-06
+related: ["[[Goal-Setting Theory]]", "[[Goal Commitment]]", "[[High-Performance Cycle]]", "[[Social Cognitive Theory]]", "[[Competence (SDT)]]", "[[Edwin Locke]]", "[[Gary Latham]]", "[[Self-Management Training]]", "[[Sources of Self-Efficacy]]", "[[Human Agency]]", "[[Outcome Expectancies]]", "[[frayne-latham-1987-self-management-attendance|Frayne & Latham 1987]]"]
 ---
 
 # Self-Efficacy (Goal Setting)
@@ -72,3 +72,7 @@ Vancouver et al. (2008): high SE → less time per trial → **adaptive** — co
 
 > [!contradiction] Positive vs. negative SE effects
 > Between-person research (Stajkovic & Luthans 1998): r=0.38 positive. Within-person research (Vancouver et al.): null or negative. Moderators (ambiguity, challenge, goal difficulty) reconcile much of the discrepancy. Design choice (between vs. within) matters critically.
+
+## See also
+
+The four **[[Sources of Self-Efficacy]]** (mastery, vicarious, verbal persuasion, physiological) are detailed following [[schunk-usher-2012-social-cognitive-theory-motivation|Schunk & Usher (2012)]]. Self-efficacy is the foundation of [[Human Agency]] in [[bandura-2001-social-cognitive-theory-agentic|Bandura's (2001)]] agentic SCT.

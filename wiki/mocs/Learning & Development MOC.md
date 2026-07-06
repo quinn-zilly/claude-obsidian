@@ -67,12 +67,24 @@ This cluster maps how people learn, how training works (and transfers), and how 
 - [[ellis-davidi-2005-after-event-reviews|After-Event Reviews: Drawing Lessons From Successful and Failed Experience]]
 - [[Learning Agility]]
 
-## Adjacent MOCs
+## Diversity, equity & inclusion
 
-- [[Teams & Org Behavior MOC]] — team training, leader development
-- [[Open Science MOC]] — methodology behind training meta-analyses
+- [[Diversity Training]] — organizational DEI intervention; Bezrukova 2016 meta-analysis *g* = .38
+- [[Diversity Training Myths]] — 19 misconceptions; Cheng et al. 2019
+- [[Multicultural vs. Colorblind Approaches]] — framing debate; multicultural outperforms colorblind
+- [[Diversity Ideologies]] — co
 
-## Open questions / frontier
+## Social cognitive theory, self-efficacy & metacognition
 
-- How well does the 90% "outside-the-classroom" claim hold under measurement?
-- Which learning-science effects survive translation into workplace training?
+- [[Social Cognitive Theory]] — Bandura's framework; triadic reciprocal causation + human agency
+- [[Human Agency]] — intentionality, forethought, self-reactiveness, self-reflectiveness
+- [[Triadic Reciprocal Causation]] — person ↔ behavior ↔ environment
+- [[Modes of Human Agency]] — personal / proxy / collective
+- [[Collective Efficacy]] — group-level efficacy (emergent)
+- [[Forethought and Anticipatory Self-Guidance]] · [[Moral Disengagement]] · [[Agentic Management of Fortuity]]
+- [[Self-Efficacy (Goal Setting)]] · [[Sources of Self-Efficacy]] — mastery, vicarious, verbal persuasion, physiological
+- [[Enactive and Vicarious Learning]] · [[Social Comparison]]
+- [[Dunning-Kruger Effect]] — metacognitive deficit of the unskilled; competence begets calibration
+- [[Above-Average Effect]] · [[Metacognition and Self-Directed Learning]] · [[Calibration (Judgment)]]
+- [[bandura-2001-social-cognitive-theory-agentic|Bandura (2001)]] · [[schunk-usher-2012-social-cognitive-theory-motivation|Schunk & Usher (2012)]] · [[kruger-dunning-1999-unskilled-and-unaware|Kruger & Dunning (1999)]]
+

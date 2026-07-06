@@ -1,7 +1,7 @@
 ---
 type: meta
 title: Operation Log
-updated: 2026-06-07
+updated: 2026-07-06
 tags:
   - meta
   - log
@@ -18,6 +18,23 @@ created: 2026-04-07
 Navigation: [[index]] | [[hot]] | [[overview]]
 
 Append-only. New entries go at the TOP. Never edit past entries.
+
+## [2026-07-06] batch ingest | 4 foundational papers — SCT/self-efficacy + metacognition + org identification
+- Sources: `.raw/Bandura - 2001 ...`, `.raw/Schunk and Usher - 2012 ...`, `.raw/Kruger and Dunning - 1999 ...`, `.raw/Lee et al. - 2015 ...`
+- Summaries: [[bandura-2001-social-cognitive-theory-agentic|Bandura 2001]], [[schunk-usher-2012-social-cognitive-theory-motivation|Schunk & Usher 2012]], [[kruger-dunning-1999-unskilled-and-unaware|Kruger & Dunning 1999]], [[lee-park-koo-2015-organizational-identification-meta-analysis|Lee, Park & Koo 2015]]
+- Concepts created: [[Human Agency]], [[Triadic Reciprocal Causation]], [[Modes of Human Agency]], [[Collective Efficacy]], [[Forethought and Anticipatory Self-Guidance]], [[Moral Disengagement]], [[Agentic Management of Fortuity]], [[Sources of Self-Efficacy]], [[Enactive and Vicarious Learning]], [[Social Comparison]], [[Dunning-Kruger Effect]], [[Above-Average Effect]], [[Organizational Identification (Outcomes)]], [[Attitude-Behavior Relations]]
+- Entities created: [[Albert Bandura]], [[Dale H. Schunk]], [[Ellen L. Usher]], [[Justin Kruger]], [[David Dunning]], [[Eun-Suk Lee]], [[Tae-Youn Park]], [[Bonjin Koo]]
+- Pages updated: [[Social Cognitive Theory]] (seed→developing; filled the Bandura gap), [[Self-Efficacy (Goal Setting)]], [[Calibration (Judgment)]], [[Metacognition and Self-Directed Learning]], [[Social Identification]], [[Organizational Commitment]], [[Learning & Development MOC]], [[Teams & Org Behavior MOC]], [[index]]
+- Addresses: c-000832–c-000857
+- Key insight: self-efficacy / metacognition is the through-line — efficacy is the foundation of agency (Bandura); its four sources drive motivation (Schunk & Usher); the metacognitive deficit of the unskilled (Dunning-Kruger) is the failure mode, and building competence is what recalibrates. Separately, OI sits upstream of attitudes as a self-defining basis (Lee et al.).
+
+
+## [2026-07-06] batch ingest | Two DEI meta-analyses (Leslie et al. 2020, Costa 2024)
+- Sources: `.raw/Leslie et al. - 2020 - On melting pots and salad bowls...md`, `.raw/Costa - 2024 - Examining the effectiveness of interventions to re.md`
+- Summaries: [[leslie-et-al-2020-diversity-ideologies-meta-analysis]], [[costa-2024-discrimination-interventions]]
+- Pages created (8; c-000824–831): sources ×2; concepts [[Diversity Ideologies]], [[Tripartite Model of Attitudes]], [[Attitude Dimension Consistency]], [[Bias Intervention Taxonomy]]; entities [[Lisa M. Leslie]], [[Elaine Costa]]
+- Pages updated: [[Multicultural vs. Colorblind Approaches]] (nuance callout + links), [[Learning & Development MOC]] (new DEI cluster), [[index]], [[hot]]
+- Key insight: Both JAP meta-analyses converge on content–outcome alignment — Leslie: each diversity ideology most affects the intergroup outcome matching its content (multiculturalism best overall; assimilation worst; identity-blind ideologies all reduce policy support). Costa: bias interventions work when the targeted attitude dimension matches the measured outcome; accountability (g=.80) & social-norm change (g=.58) beat passive education (~null).
 
 ## [2026-07-03] batch ingest | Three foundational team papers (Mathieu 2017, Wageman 2005, Burke 2006)
 - Sources: `.raw/Mathieu et al. - 2017 - A century of work teams...md`, `.raw/Wageman et al. - 2005 - Team Diagnostic Survey...md`, `.raw/Burke et al. - 2006 - Understanding team adaptation...md`
@@ -493,36 +510,4 @@ Parse recent entries: `grep "^## \[" wiki/log.md | head -10`
 - Summary: [[yost-plunkett-2010-ten-catalysts]]
 - Pages created: [[yost-plunkett-2010-ten-catalysts]], [[Paul Yost]], [[Mary Plunkett]], [[Morgan McCall]], [[On-the-Job Development]], [[Leadership Map]], [[Learning Agility]], [[Developmental Experiences]], [[70-20-10 Rule]], [[Personal Advisory Board]], [[Transition Checklist]]
 - Pages updated: [[Organizational Learning]], [[Knowledge Transfer]], [[index]], [[log]], [[hot]]
-- Key insight: The knowing-doing gap is the central problem in leadership development — orgs know OJD dominates but systematically under-leverage it. HR systems can be active drivers of OJD (not just support scaffolding) via 10 concrete catalysts. New domain opens in wiki: **Leadership Development / Talent Management**.
-
-## [2026-05-20] ingest | Scientific Utopia II (Nosek, Spies, & Motyl 2012)
-- Source: `Nosek et al. - 2012 - Scientific Utopia II. Restructuring Incentives and Practices to Promote Truth Over Publishability.pdf`
-- Summary: [[nosek-2012-scientific-utopia-ii]]
-- Pages created: [[nosek-2012-scientific-utopia-ii]], [[Conflict of Interest in Science]], [[Motivated Reasoning]], [[Open Workflow]], [[Paradigm-Driven Research]]
-- Pages updated: [[Brian Nosek]], [[index]], [[log]], [[hot]]
-- Key insight: Publishing incentives (novel, positive results) conflict with accuracy incentives; misalignment is not a character flaw but ordinary human psychology facing misaligned rewards. Solutions must restructure incentives (preregistration, open workflow, open data) and journal practices (focus on soundness not importance) rather than relying on education or willpower.
-
-## [2026-05-20] ingest | Scientific Utopia I (Nosek & Bar-Anan 2012)
-- Source: `.raw/Nosek and Bar-Anan - 2012 - Scientific Utopia I. Opening Scientific Communication.pdf`
-- Summary: [[nosek-bar-anan-2012-scientific-utopia-i]]
-- Pages created: [[nosek-bar-anan-2012-scientific-utopia-i]], [[Open Access]], [[Scientific Communication Reform]], [[Yoav Bar-Anan]]
-- Pages updated: [[Brian Nosek]], [[index]], [[log]], [[hot]]
-- Key insight: Current scientific publishing bundles four separable functions (registration, dissemination, peer review, archiving); unbundling them via digital infrastructure removes all five communication inefficiencies — and the barriers are social/institutional, not technical.
-
-## [2026-05-20] ingest | The Iron Cage Revisited (DiMaggio & Powell 1983)
-- Source: `.raw/DiMaggio and Powell - 1983 - The Iron Cage Revisited Institutional Isomorphism and Collective Rationality in Organizational Fiel.pdf`
-- Summary: [[dimaggio-powell-1983-institutional-isomorphism]]
-- Pages created: [[dimaggio-powell-1983-institutional-isomorphism]], [[Institutional Isomorphism]], [[Organizational Field]], [[Paul DiMaggio]], [[Walter Powell]]
-- Pages updated: [[index]], [[log]], [[hot]]
-- Key insight: Organizations become structurally similar through three mechanisms (coercive, mimetic, normative isomorphism) driven by legitimacy-seeking rather than efficiency — directly bridges open science domain (normative isomorphism → shared methodological biases) and KM domain (mimetic isomorphism → inter-org knowledge transfer).
-
-## [2026-05-19] batch-ingest | 10 KMBI/Research Paper PDFs from Zotero
-
-- Sources (10 PDFs from Zotero KMBI/Research Paper collection):
-  - `.raw/Grant - 1996 - Toward a Knowledge-Based Theory of the Firm.pdf`
-  - `.ra
-## 2026-06-15 — query filed
-- [[seven-job-design-dimensions]] — wiki-query answer on 7 job-design dimensions (JCM 5 + 2 social) predicting performance/engagement, with hospital dietary-aide worked example. Sourced from Humphrey et al. 2007, Morgeson & Humphrey 2006, Oldham & Fried 2016.
-
-## 2026-06-15 — lint/merge
-- Merged duplicate `[[Job Demands–Control–Support Model]]` (c-000305, en-dash) into canonical `[[Job Demands-Control Model]]` (c-000699). JDCS evidence + moderators + WDQ-mapping + sources folded in; "Job Demands–Control–Support Model" kept as an alias on the canonical page for link resolution. JD-R-specific inbound links (Jennifer Nahrgang entity, Job Crafting JD-R typology) repointed to [[Job Demands-Resources Model]]; all other inbound links repointed to the canonical JD-C page. Old page deleted. Closes the duplicate flagged in hot.md.
+- Key insight: The knowing-doing gap is the central problem in leadership development — orgs know OJD dominates but systematically u

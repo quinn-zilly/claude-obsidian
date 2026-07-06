@@ -4,9 +4,9 @@ type: concept
 title: "Organizational Commitment"
 tags: [concept, organizational-commitment, job-attitudes, organizational-psychology]
 created: 2026-06-01
-updated: 2026-06-29
+updated: 2026-07-06
 status: evergreen
-related: ["[[Job Attitudes]]", "[[Job Satisfaction]]", "[[Affective Events Theory]]", "[[Job Performance (Outcomes of Job Attitudes)]]", "[[Timothy A. Judge]]", "[[John D. Kammeyer-Mueller]]", "[[Social Exchange Theory]]", "[[Perceived Organizational Support]]", "[[Organizational Justice]]", "[[Social Identification]]", "[[Social Identity Theory]]"]
+related: ["[[Job Attitudes]]", "[[Job Satisfaction]]", "[[Affective Events Theory]]", "[[Job Performance (Outcomes of Job Attitudes)]]", "[[Timothy A. Judge]]", "[[John D. Kammeyer-Mueller]]", "[[Social Exchange Theory]]", "[[Perceived Organizational Support]]", "[[Organizational Justice]]", "[[Social Identification]]", "[[Social Identity Theory]]", "[[Organizational Identification (Outcomes)]]"]
 ---
 
 # Organizational Commitment
@@ -63,3 +63,6 @@ Note the convergence: Solinger et al.'s (2008) reformulation already splits comm
 - [[colquitt-et-al-2013-justice-millennium-decade-later]] — commitment as justice→behavior mediator
 - Meyer et al. (2002) — three-component model meta-analysis
 - Solinger et al. (2008) — critique and reformulation
+
+> [!contradiction] Identification is not commitment
+> [[lee-park-koo-2015-organizational-identification-meta-analysis|Lee, Park & Koo (2015)]] confirm meta-analytically that affective commitment and **organizational identification** are distinct: commitment is a social-exchange-based attitude lacking the self-defining nature of identification. See [[Organizational Identification (Outcomes)]].

@@ -6,7 +6,7 @@ aliases: [Organizational Identification, Group Identification]
 tags: [concept, social-identity-theory, organizational-identification, self-concept]
 status: developing
 created: 2026-06-29
-updated: 2026-06-29
+updated: 2026-07-06
 related:
   - "[[Social Identity Theory]]"
   - "[[Self-Categorization and Self-Stereotyping]]"
@@ -15,6 +15,8 @@ related:
   - "[[Internalization (SDT)]]"
   - "[[ashforth-mael-1989-social-identity-theory-organization]]"
   - "[[Fred Mael]]"
+  - "[[Organizational Identification (Outcomes)]]"
+  - "[[lee-park-koo-2015-organizational-identification-meta-analysis]]"
 ---
 
 # Social Identification
@@ -43,3 +45,7 @@ Identity-congruent activity, institutional support, **self-stereotyping** ([[Sel
 ## Distinct From Commitment
 
 A central claim: identification ≠ [[Organizational Commitment|organizational commitment]]. Mael's (1988) CFA against the OCQ supports a two-factor solution. See the contradiction callout on the [[Organizational Commitment]] page.
+
+## Meta-analytic outcomes
+
+For the meta-analytic consequences of organizational identification (in-role ρ=.27, extra-role ρ=.42; culture moderation; OI as a basis for attitudes/behaviors), see **[[Organizational Identification (Outcomes)]]** ([[lee-park-koo-2015-organizational-identification-meta-analysis|Lee, Park & Koo 2015]]).

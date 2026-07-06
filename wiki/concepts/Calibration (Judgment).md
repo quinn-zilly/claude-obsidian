@@ -5,8 +5,8 @@ title: "Calibration (Judgment)"
 tags: [concept, JDM, judgment, uncertainty, forecasting, calibration]
 status: evergreen
 created: 2026-05-26
-updated: 2026-05-26
-related: ["[[Judgment and Decision Making (Field)]]", "[[Good Judgment Project]]", "[[Superforecasters]]", "[[Signal Detection Theory (Decision)]]"]
+updated: 2026-07-06
+related: ["[[Judgment and Decision Making (Field)]]", "[[Good Judgment Project]]", "[[Superforecasters]]", "[[Signal Detection Theory (Decision)]]", "[[Dunning-Kruger Effect]]"]
 ---
 
 # Calibration (Judgment)
@@ -56,3 +56,7 @@ Weather forecasters and financial auditors who have these conditions show reason
 - [[Heuristics and Biases Program]] → biases as failures of calibration (overconfidence bias)
 - [[Illusion of Validity]] → confidence exceeds predictive accuracy
 - [[Prediction Markets (Science)]] → crowd calibration mechanism
+
+## See also
+
+The **[[Dunning-Kruger Effect]]** ([[kruger-dunning-1999-unskilled-and-unaware|Kruger & Dunning 1999]]) is a specific mechanism of miscalibration: the unskilled lack the metacognitive skill to recognize their own errors, so their confidence and accuracy diverge most.

@@ -95,26 +95,14 @@ This cluster maps how groups in organizations adapt, coordinate, remember, and l
 - [[Leadership Transitions]]
 - [[Gender and Leadership]]
 
-## Identity & identification sub-cluster
+## Identity & identi
 
-- [[Social Identity Theory]]
-- [[Social Identification]] — organizational identification as "perception of oneness"
-- [[Self-Categorization and Self-Stereotyping]]
-- [[Psychological Group]]
-- [[In-Group Bias and Intergroup Comparison]]
-- [[Minimal Group Paradigm]]
-- [[Routinization of Charisma]]
-- [[Organizational Commitment]] — distinct from identification ([[ashforth-mael-1989-social-identity-theory-organization|contradiction]])
-- [[ashforth-mael-1989-social-identity-theory-organization|Ashforth & Mael (1989): Social Identity Theory and the Organization]]
+## Organizational identification & collective efficacy
 
-## Adjacent MOCs
+- [[Social Identification]] — perception of oneness with the organization (Ashforth & Mael)
+- [[Organizational Identification (Outcomes)]] — meta-analytic consequences; OI as a basis for attitudes/behaviors
+- [[Attitude-Behavior Relations]] — Fishbein-Ajzen general attitude → general behavior
+- [[Organizational Commitment]] — distinct from identification (lacks self-defining nature)
+- [[Collective Efficacy]] — group's shared belief in its collective power
+- [[lee-park-koo-2015-organizational-identification-meta-analysis|Lee, Park & Koo (2015)]]
 
-- [[Social Exchange & Organizational Justice MOC]] — justice, social exchange, and the exchange-quality mediators behind job attitudes
-- [[Learning & Development MOC]] — team training and leader development
-- [[Institutional & Strategy MOC]] — framing and the knowledge-based view
-- [[Knowledge Management MOC]] — transactive/organizational memory
-
-## Open questions / frontier
-
-- How do emergent states feed back into the adaptation cycle over repeated disruptions?
-- Where do transactive memory and [[Organizational Memory]] mechanisms diverge?

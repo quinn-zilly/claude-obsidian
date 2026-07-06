@@ -108,6 +108,10 @@ Navigation: [[Home MOC]] | [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[
 - [[Diversity Training]] — organizational DEI intervention; evidence-based design principles; not a binary "works/doesn't work" question; Bezrukova 2016 meta-analysis g=.38 (status: evergreen)
 - [[Diversity Training Myths]] — 19 common misconceptions in 3 categories (effectiveness/content/design); Cheng et al. 2019 myth-centered review (status: evergreen)
 - [[Multicultural vs. Colorblind Approaches]] — multicultural (acknowledge+appreciate differences) outperforms colorblind (ignore differences); better engagement, lower perceived bias (status: evergreen)
+- [[Diversity Ideologies]] — colorblindness/meritocracy/assimilation (identity-blind) vs multiculturalism (identity-conscious); divergent effects on prejudice/discrimination/stereotyping/policy support; Leslie et al. 2020 (status: evergreen)
+- [[Bias Intervention Taxonomy]] — bias interventions by attitude dimension; accountability (g=.80) & social-norm (g=.58) strongest; passive education ineffective; Costa 2024 (status: evergreen)
+- [[Attitude Dimension Consistency]] — match the attitude dimension an intervention targets to the outcome measured; principle of compatibility; Costa 2024 (status: evergreen)
+- [[Tripartite Model of Attitudes]] — ABC model; affect=prejudice, behavior=discrimination, cognition=stereotyping (status: evergreen)
 - [[Kirkpatrick Four-Level Model]] — dominant training evaluation taxonomy (Reactions/Learning/Behavior/Results); empirically weak inter-level correlations (status: evergreen)
 - [[Augmented Training Criteria Framework]] — Alliger et al. 1997 refinement splitting reactions and learning into sub-types (status: evergreen)
 - [[Training Reactions (Affective vs Utility)]] — affective ≈ 0 correlation with learning; utility reactions predict transfer better than learning measures (status: evergreen)
@@ -439,6 +443,20 @@ Navigation: [[Home MOC]] | [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[
 - [[Self-Directed Learning]] — learner-controlled pace, sequence, content; andragogy; key in workplace and digital learning contexts (seed)
 - [[Synthetic Learning Environments]] — simulations and high-fidelity environments for training without real-world risk; fidelity paradox (seed)
 - [[Spacing Effect]] — spaced practice produces better long-term retention than massed practice; desirable difficulty (seed)
+- [[Human Agency]] — Bandura's agentic core: intentionality, forethought, self-reactiveness, self-reflectiveness; efficacy as foundation
+- [[Triadic Reciprocal Causation]] — SCT's causal architecture: person ↔ behavior ↔ environment, bidirectional
+- [[Modes of Human Agency]] — personal, proxy, collective agency
+- [[Collective Efficacy]] — group's shared belief in collective power; emergent, not additive
+- [[Forethought and Anticipatory Self-Guidance]] — future events represented cognitively become current motivators
+- [[Moral Disengagement]] — mechanisms decoupling moral self-sanctions from inhumane conduct
+- [[Agentic Management of Fortuity]] — making chance work; "chance favors the prepared mind"
+- [[Sources of Self-Efficacy]] — mastery, vicarious, verbal persuasion, physiological; interpreted not automatic
+- [[Enactive and Vicarious Learning]] — learning by doing vs. observing; learning ≠ performance
+- [[Social Comparison]] — similarity-moderated efficacy source; failure of it underlies Dunning-Kruger
+- [[Dunning-Kruger Effect]] — unskilled lack the metacognitive skill to recognize their incompetence; 12th→62nd percentile
+- [[Above-Average Effect]] — most people rate themselves above average; illusory superiority
+- [[Organizational Identification (Outcomes)]] — OI as a basis for attitudes/behaviors; in-role ρ=.27, extra-role ρ=.42; culture-moderated
+- [[Attitude-Behavior Relations]] — Fishbein-Ajzen general attitude → general behavior; compatibility principle
 
 ---
 
@@ -578,11 +596,23 @@ Navigation: [[Home MOC]] | [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[
 - [[Bradford S. Bell]] — Cornell ILR; active learning, technology-based training, team training; Bell & Kozlowski 2002/2008/2009 (developing)
 - [[Raymond A. Noe]] — Ohio State; trainee motivation, development participation, Noe 1986 model (stub)
 - [[Kimberly A. Smith-Jentsch]] — UCF; applied training/team scientist; CRM/assertiveness training; FAA/Navy/NASA consulting; smart investments in training framework (developing)
+- [[Lisa M. Leslie]] — NYU Stern; diversity ideologies, climate, gender, workplace inequality; Leslie et al. 2020 (developing)
+- [[Elaine Costa]] — UVA McIntire; discrimination, DEI, bias-intervention design/evaluation; Costa 2024 (developing)
+- [[Albert Bandura]] — Stanford; originator of Social Cognitive Theory and self-efficacy; triadic reciprocal causation, human agency (2001)
+- [[Dale H. Schunk]] — UNC Greensboro; self-efficacy in academic settings, modeling, self-regulated learning; Schunk & Usher 2012
+- [[Ellen L. Usher]] — University of Kentucky; sources of academic self-efficacy and their measurement; Schunk & Usher 2012
+- [[Justin Kruger]] — social psychologist; co-author of "Unskilled and Unaware of It" (1999)
+- [[David Dunning]] — Cornell/Michigan; flawed self-assessment; senior author of Kruger & Dunning 1999
+- [[Eun-Suk Lee]] — KAIST; organizational identification meta-analysis; Lee, Park & Koo 2015
+- [[Tae-Youn Park]] — Vanderbilt Owen; organizational identification, attitude-behavior; Lee, Park & Koo 2015
+- [[Bonjin Koo]] — KAIST; organizational identification; Lee, Park & Koo 2015
 
 ---
 
 ## Sources
 
+- [[leslie-et-al-2020-diversity-ideologies-meta-analysis|Leslie, Bono, Kim & Beaver (2020)]] — Journal of Applied Psychology | meta-analysis (k=296) of four **diversity ideologies** × four intergroup outcomes; multiculturalism most consistently improves relations, assimilation most consistently harms; colorblindness & meritocracy help on some outcomes, hurt on others; all identity-blind ideologies reduce policy support | 2026-07-06
+- [[costa-2024-discrimination-interventions|Costa (2024)]] — Journal of Applied Psychology | meta-analysis (70 articles / 208 ES) of bias interventions via **attitude dimension consistency**; passive education ineffective; accountability (g=.80) & social-norm change (g=.58) most effective at reducing workplace discrimination; overall g≈.27 | 2026-07-06
 - [[mathieu-et-al-2017-century-work-teams|Mathieu, Hollenbeck, van Knippenberg & Ilgen (2017)]] — Journal of Applied Psychology (Centennial) | a century of work teams in JAP: shift from individuals-within-teams to the team itself and multiteam systems; three substantive themes (tasks/structure, composition, processes/emergent states); task scope × complexity; skill & authority differentiation; **IPO → IMOI** evolution; multiple-constituencies effectiveness | 2026-07-03
 - [[wageman-hackman-lehman-2005-team-diagnostic-survey|Wageman, Hackman & Lehman (2005)]] — The Journal of Applied Behavioral Science | development of the **Team Diagnostic Survey**, bridging research rigor and practical diagnosis; Hackman's five **enabling conditions** + three-dimensional effectiveness + three process criteria; 2,474 members / 321 teams; Spearman-Brown group-level reliability | 2026-07-03
 - [[burke-et-al-2006-team-adaptation|Burke, Stagl, Salas, Pierce & Kendall (2006)]] — Journal of Applied Psychology | multilevel, multiphasic model of **team adaptation**: four-phase adaptive cycle (situation assessment → plan formulation → plan execution → team learning) producing adaptive team performance; emergent states (shared mental models, team situation awareness, psychological safety); classic predecessor to the stimulus-based model | 2026-07-03
@@ -603,47 +633,8 @@ Navigation: [[Home MOC]] | [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[
 - [[fanelli-2012-negative-results-disappearing|Fanelli (2012)]] — Scientometrics | 4,656 hypothesis-testing papers (1990–2007); positive-result share rose 70%→86% (~6%/yr); steepest in social/applied sciences; US > UK in positive bias; first direct evidence negatives are disappearing | 2026-06-09
 - [[soderberg-et-al-2021-registered-reports-quality|Soderberg et al. (2021)]] — Nature Human Behaviour | 353 reviewers rated 29 RRs vs 57 matched standard papers; RRs higher on all 19 criteria (mean +0.46), biggest on methods/analysis rigour; no cost to novelty/creativity; open data 86% vs ~15% | 2026-06-09
 - [[hardwicke-et-al-2022-transparency-prevalence-psychology|Hardwicke et al. (2022)]] — Perspectives on Psychological Science | prevalence baseline of transparency/reproducibility practices in 250 psych articles (2014–17); open access 65% but protocols 0% / data 2% / scripts 1% / materials 14% / prereg 3%; disclosure (funding 62%, COI 39%) higher because journal-mandated; link-rot 7/26; reform had not reached routine practice | 2026-06-09
-- [[basson-et-al-2022-oa-dimensions-wos|Basson et al. (2022)]] — PLOS ONE | OA measurement is database-dependent; Dimensions vs WoS, 2015–2019; overall OA 46.6% vs 43.4%; gap largest for global South (S.Asia +57.9%); WoS Western indexing bias; green-only higher in WoS, bronze higher in Dimensions | 2026-06-08
-- [[dwivedi-2019-utaut-revision|Dwivedi et al. (2019)]] — Information Systems Frontiers | critical review + MASEM of UTAUT (1600 obs, 21 relationships, 162 studies); reinstates attitude as mediator; adds FC→BI; emergent AT→UB, FC→AT, SI→AT; R² BI 38→45%, UB 21→27% | 2026-06-07
-- [[roberts-2012-absorptive-capacity-is-review|Roberts et al. (2012)]] — MIS Quarterly | review of absorptive capacity in IS (98 articles, 1990-2008); asset-vs-capability confusion; 4 themes; IT-capability × org-capability synergy framework + 4 propositions | 2026-06-07
-- [[thibault-2023-open-science-2-0|Thibault et al. (2023)]] — PLOS Biology | Open Science 2.0 essay; openness necessary-but-not-sufficient; Web1.0→2.0 analogy; 4 requirements + 7-point roadmap; data-sharing gap (1-3% actual); fund infrastructure not volunteers | 2026-06-07
-- [[Ponterotto-2005-Qualitative-Research-Paradigms|Ponterotto (2005)]] — Journal of Counseling Psychology | primer on philosophy of science; 4 research paradigms (positivism, postpositivism, constructivism–interpretivism, critical–ideological) × 5 parameters (ontology, epistemology, axiology, rhetoric, methodology); "postpositivizing" critique; locates CQR & grounded theory | 2026-06-08
-- [[arthur-et-al-2003-training-meta-analysis|Arthur, Bennett, Edens & Bell (2003)]] — Journal of Applied Psychology | meta-analysis of training design/evaluation features; d=0.60–0.63 across Kirkpatrick criteria; method×skill match, needs assessment, criterion type as moderators; 397 ds, 162 sources, 1960–2000 | 2026-06-04
-- [[shukla-et-al-2024-transfer-online-training|Shukla, Dash & Kumar (2024)]] — Human Resource Development Quarterly | systematic review + taxonomy of online training transfer factors; 33 articles, PRISMA; 4 categories (computer literacy/attitudes, learner characteristics, instructional design, org support); digital literacy = novel online-only category | 2026-06-04
-- [[cheng-et-al-2019-diversity-training-myths|Cheng et al. (2019)]] — Organizational Dynamics | 19 diversity training myths debunked; myth-centered review; effectiveness/content/design&delivery categories; Bezrukova 2016 meta-analysis g=.38 | 2026-06-04
-- [[bezrukova-et-al-2016-diversity-training-meta-analysis|Bezrukova et al. (2016)]] — Psychological Bulletin | 40+ year diversity training meta-analysis; g=.38 overall; g=.61 reactions; longer+spaced programs best; seed | 2026-06-04
-- [[cmu-eberly-learning-principles|CMU Eberly Center (2024)]] — Eberly Center, Carnegie Mellon University | 7 research-distilled learning principles; prior knowledge, knowledge organization, motivation, mastery, practice+feedback, classroom climate, metacognition | 2026-06-04
-- [[kerr-1995-folly-rewarding-A|Kerr (1995)]] — Academy of Management Executive | Academy Classic; reward system misalignment across politics/war/medicine/universities/business/sports/government; four causes; prescriptions for managers | 2026-06-04
-- [[shrout-rodgers-2018-replication-crisis|Shrout & Rodgers (2018)]] — Annual Review of Psychology | Broadening perspectives from the replication crisis; QRPs, power analysis, meta-analysis, Bayesian approaches, effect size heterogeneity; argues 36% OSC replication rate is statistically expected; preregistration as most important reform | 2026-06-03
-- [[lord-et-al-2017-leadership-in-applied-psychology|Lord, Day, Zaccaro, Avolio & Eagly (2017)]] — Journal of Applied Psychology | 100-year centennial review of leadership research; three waves (behavioral, social-cognitive/contingency, transformational/LMX/teams); 17 seminal JAP articles; future directions: virtual leadership, shared leadership, neuroscience, development | 2026-06-01
-- [[bell-et-al-2017-100-years-training-development|Bell, Tannenbaum, Ford, Noe & Kraiger (2017)]] — Journal of Applied Psychology | 100-year centennial review; 458 JAP articles; four themes: criteria, trainee char., design, context; trainability, active learning, transfer climate, tech-based training; multilevel criteria; within-person self-efficacy reversal | 2026-06-01
-### Social exchange & organizational justice cluster (new — 2026-06-15)
-
-**MOC:** [[Social Exchange & Organizational Justice MOC]]
-
-**Concepts:**
-
-- [[Social Exchange Theory]] — SET; interdependent contingent exchanges generating obligations; three pillars (rules, resources, relationships); economic vs. social exchange (Blau) (mature)
-- [[Organizational Justice]] — perceived workplace fairness; justice (rule adherence) vs. fairness (global appropriateness); two lenses (exchange + affect) (mature)
-- [[Four Justice Dimensions]] — procedural/distributive/interpersonal/informational + their justice rules; Colquitt 2001 four-factor structure; avg r=.49 (mature)
-- [[Justice Measurement Taxonomy]] — 2×2: faceted/latent justice × overall/faceted fairness; three conversions (focus/context/bracketing) (developing)
-- [[Norm of Reciprocity]] — the operative exchange rule; Gouldner's three senses; exchange ideology as moderator (developing)
-- [[Perceived Organizational Support]] — POS; organization-focused exchange indicator; POS→commitment r=.60 (developing)
-- [[Organizational Citizenship Behavior]] — OCB; exemplar reciprocative behavior; OCB-O/S/I; OCB≠−CWB (developing)
-- [[Foa & Foa Resource Theory]] — six resources × particularism × concreteness; economic vs. socioemotional; justice as symbolic/particularistic resource (developing)
-
-**Entities:**
-
-- [[Russell Cropanzano]] — SET review, contemporary social exchange theory, AET co-author (developing)
-- [[Jason Colquitt]] — four-factor justice scale, justice meta-analyses, measurement (developing)
-- [[Jessica Rodell]] — justice measurement, anticipatory justice; Colquitt collaborator (stub)
-- [[Peter Blau]] — *Exchange and Power in Social Life* (1964); economic vs. social exchange (stub)
-- [[Alvin Gouldner]] — "The Norm of Reciprocity" (1960); three senses of reciprocity (stub)
-
-**Sources:**
-
-- [[cropanzano-mitchell-2005-social-exchange-theory|Cropanzano & Mitchell (2005)]] — *Journal of Management* | canonical SET review; rules/resources/relationships; reciprocity typology; Foa & Foa; multifoci POS/LMX; causal-order ladder metaphor | 2026-06-15
-- [[colquitt-et-al-2013-justice-millennium-decade-later|Colquitt et al. (2013)]] — *Journal of Applied Psychology* | meta-analytic test of social exchange + affect lenses; 493 samples; exchange quality mediates justice→OCB/performance but not CWB; focus-matching & event-vs-entity overturned | 2026-06-15
-- [[colquitt-rodell-2015-measuring-justice-fairness|Colquitt & Rodell (2015)]] — *Oxford Handbook of Justice in the Workplace* Ch. 8 | justice vs. fairness; 2×2 measurement taxonomy; three conversions; four emerging issues (anticipations, within-person, multiple sources, injustice) | 2026-06-15
-
-- [[alliger-et-al-1997-training-criteria-meta-analysis|Alliger, Tannenbaum, Bennett, T
+- [[basson-et-al-2022-oa-dimensions-wos|Basson et al. (2022)]] — PLOS ONE | OA measurement is database-dependent; Dimensions vs WoS, 2015–2019; overall OA 46.6% vs 43.4%; gap largest for global South (S.Asia +57.9%); WoS Western indexing bias; green-only higher in WoS, bronze higher in Dimensions |
+- [[bandura-2001-social-cognitive-theory-agentic|Bandura (2001)]] — Annual Review of Psychology | **Social Cognitive Theory: An Agentic Perspective**; four core features of agency + three modes (personal/proxy/collective); efficacy beliefs as foundation of agency; triadic reciprocal causation; agentic management of fortuity | 2026-07-06
+- [[schunk-usher-2012-social-cognitive-theory-motivation|Schunk & Usher (2012)]] — Oxford Handbook of Human Motivation | SCT operationalized for motivation; enactive vs vicarious learning; four sources of self-efficacy; goals/outcome expectations/values/social comparisons; self-efficacy → choice/effort/persistence (Multon 1991; Stajkovic & Luthans 1998) | 2026-07-06
+- [[kruger-dunning-1999-unskilled-and-unaware|Kruger & Dunning (1999)]] — Journal of Personality and Social Psychology | **Unskilled and Unaware of It**; dual-burden metacognitive-deficit account; 4 studies (humor/logic/grammar); bottom quartile 12th→62nd percentile; top quartile underestimates (false consensus); competence begets calibration | 2026-07-06
+- [[lee-park-koo-2015-organizational-identification-meta-analysis|Lee, Park & Koo (2015)]] — Psychological Bulletin | meta-analysis positioning **organizational identification** as a basis in the attitude-behavior model; OI → in-role ρ=.27 (k=41), extra-role ρ=.42 (k=53); direct effect on behavior beyond attitude; stronger in collectivistic cultures | 2026-07-06
