@@ -163,7 +163,7 @@
         "wiki/log.md"
       ]
     },
-    ".raw/Grant - 1996 - Toward a knowledge\u2010based theory of the firm.pdf": {
+    ".raw/Grant - 1996 - Toward a knowledge‐based theory of the firm.pdf": {
       "hash": "7d902355cea11975fe184ee416d50a3c",
       "ingested_at": "2026-05-19",
       "pages_created": [
@@ -193,7 +193,7 @@
         "wiki/log.md"
       ]
     },
-    ".raw/Lehmann et al. - 2015 - DBpedia \u2013 A large-scale, multilingual knowledge base extracted from Wikipedia.pdf": {
+    ".raw/Lehmann et al. - 2015 - DBpedia – A large-scale, multilingual knowledge base extracted from Wikipedia.pdf": {
       "hash": "113915904e64333ad5d819640b1b2935",
       "ingested_at": "2026-05-19",
       "pages_created": [
@@ -208,12 +208,12 @@
         "wiki/log.md"
       ]
     },
-    ".raw/Munaf\u00f2 et al. - 2017 - A manifesto for reproducible science.pdf": {
+    ".raw/Munafò et al. - 2017 - A manifesto for reproducible science.pdf": {
       "hash": "4ab499001cf6a2c6396e6f586a735009",
       "ingested_at": "2026-05-19",
       "pages_created": [
         "wiki/sources/munafo-2017-manifesto.md",
-        "wiki/entities/Marcus Munaf\u00f2.md",
+        "wiki/entities/Marcus Munafò.md",
         "wiki/entities/John Ioannidis.md"
       ],
       "pages_updated": [
@@ -410,7 +410,7 @@
         "wiki/hot.md"
       ]
     },
-    ".raw/Ren and Argote - 2011 - Transactive Memory Systems 1985\u20132010 An Integrative Framework of Key Dimensions, Antecedents, and C.pdf": {
+    ".raw/Ren and Argote - 2011 - Transactive Memory Systems 1985–2010 An Integrative Framework of Key Dimensions, Antecedents, and C.pdf": {
       "hash": "d77ca3e481efe6c6ab0d9060caa1708a",
       "ingested_at": "2026-05-21",
       "pages_created": [
@@ -470,7 +470,7 @@
         "wiki/hot.md"
       ]
     },
-    ".raw/Albarrac\u00edn et al. - 2024 - Determinants of behaviour and their efficacy as targets of behavioural change interventions.pdf": {
+    ".raw/Albarracín et al. - 2024 - Determinants of behaviour and their efficacy as targets of behavioural change interventions.pdf": {
       "hash": "d8e5484ebc074e4e8e21b6bbf35143d0",
       "ingested_at": "2026-05-23",
       "pages_created": [
@@ -484,7 +484,7 @@
         "wiki/concepts/Reasoned Action Approach.md",
         "wiki/concepts/Information-Motivation-Behavioural Skills Model.md",
         "wiki/concepts/Correlation-Intervention Gap (Behaviour).md",
-        "wiki/entities/Dolores Albarrac\u00edn.md"
+        "wiki/entities/Dolores Albarracín.md"
       ],
       "pages_updated": [
         "wiki/index.md",
@@ -556,7 +556,7 @@
         "wiki/concepts/Dynamic Decision Making.md",
         "wiki/concepts/Electronic Brainstorming.md",
         "wiki/entities/Terry Connolly.md",
-        "wiki/entities/Lisa Ord\u00f3\u00f1ez.md"
+        "wiki/entities/Lisa Ordóñez.md"
       ],
       "pages_updated": [
         "wiki/index.md",
@@ -694,7 +694,7 @@
         "wiki/concepts/Work Design (Concept).md",
         "wiki/concepts/Work Design Questionnaire.md",
         "wiki/concepts/Sociotechnical Systems Theory.md",
-        "wiki/concepts/Job Demands\u2013Control\u2013Support Model.md",
+        "wiki/concepts/Job Demands–Control–Support Model.md",
         "wiki/concepts/Interdisciplinary Model of Job Design.md",
         "wiki/entities/Frederick Morgeson.md",
         "wiki/entities/Michael Campion.md"
@@ -737,7 +737,7 @@
         "wiki/concepts/Personality Dynamics (TAT).md",
         "wiki/concepts/Situation Strength.md",
         "wiki/concepts/Five-Factor Model.md",
-        "wiki/concepts/Person\u2013Environment Fit.md",
+        "wiki/concepts/Person–Environment Fit.md",
         "wiki/entities/Robert Tett.md"
       ],
       "pages_updated": [
@@ -746,7 +746,7 @@
         "wiki/log.md"
       ]
     },
-    ".raw/Shuffler et al. - 2011 - There\u2019s a Science for That Team Development Inter.pdf": {
+    ".raw/Shuffler et al. - 2011 - There’s a Science for That Team Development Inter.pdf": {
       "hash": "12381654c87b9454d73f8968e893425b",
       "ingested_at": "2026-06-01",
       "pages_created": [
@@ -840,7 +840,7 @@
         "wiki/log.md"
       ]
     },
-    ".raw/Jebb et al. - 2021 - A Review of Key Likert Scale Development Advances 1995\u20132019.pdf": {
+    ".raw/Jebb et al. - 2021 - A Review of Key Likert Scale Development Advances 1995–2019.pdf": {
       "hash": "593b848993d6dc055ff3b9ee4d610f64",
       "ingested_at": "2026-06-01",
       "pages_created": [
@@ -1272,10 +1272,10 @@
       "pages_created": [
         "wiki/sources/basson-et-al-2022-oa-dimensions-wos.md",
         "wiki/entities/Isabel Basson.md",
-        "wiki/entities/Marc-Andr\u00e9 Simard.md",
-        "wiki/entities/Zo\u00e9 Aubierge Ouangr\u00e9.md",
+        "wiki/entities/Marc-André Simard.md",
+        "wiki/entities/Zoé Aubierge Ouangré.md",
         "wiki/entities/Cassidy R. Sugimoto.md",
-        "wiki/entities/Vincent Larivi\u00e8re.md",
+        "wiki/entities/Vincent Larivière.md",
         "wiki/entities/Dimensions.md",
         "wiki/entities/Web of Science.md",
         "wiki/entities/Unpaywall.md",
@@ -1320,8 +1320,8 @@
         "wiki/concepts/Philosophy of Science Parameters.md",
         "wiki/concepts/Positivism.md",
         "wiki/concepts/Postpositivism.md",
-        "wiki/concepts/Constructivism\u2013Interpretivism.md",
-        "wiki/concepts/Critical\u2013Ideological Paradigm.md",
+        "wiki/concepts/Constructivism–Interpretivism.md",
+        "wiki/concepts/Critical–Ideological Paradigm.md",
         "wiki/concepts/Idiographic vs Nomothetic.md",
         "wiki/concepts/Etic vs Emic.md",
         "wiki/concepts/Bricoleur.md",
@@ -1438,7 +1438,7 @@
         "wiki/mocs/Teams & Org Behavior MOC.md",
         "wiki/concepts/Job Characteristics Model.md",
         "wiki/concepts/Work Design (Concept).md",
-        "wiki/concepts/Job Demands\u2013Control\u2013Support Model.md",
+        "wiki/concepts/Job Demands–Control–Support Model.md",
         "wiki/entities/Frederick Morgeson.md"
       ]
     },
@@ -1460,7 +1460,7 @@
         "wiki/mocs/Teams & Org Behavior MOC.md",
         "wiki/concepts/Job Characteristics Model.md",
         "wiki/concepts/Work Design (Concept).md",
-        "wiki/concepts/Job Demands\u2013Control\u2013Support Model.md",
+        "wiki/concepts/Job Demands–Control–Support Model.md",
         "wiki/entities/Frederick Morgeson.md"
       ]
     },
@@ -1608,7 +1608,7 @@
         "wiki/log.md"
       ]
     },
-    ".raw/Lefkowitz - 2008 - To prosper, organizational psychology should\u2026 expand the values of organizational psychology to matc.md": {
+    ".raw/Lefkowitz - 2008 - To prosper, organizational psychology should… expand the values of organizational psychology to matc.md": {
       "hash": "923391b98ae15f7daa4b5d43b908c0f6",
       "ingested_at": "2026-06-29",
       "pages_created": [
@@ -1751,7 +1751,7 @@
       "ingested_at": "2026-07-03",
       "pages_created": [
         "wiki/sources/mathieu-et-al-2017-century-work-teams.md",
-        "wiki/concepts/IPO\u2013IMOI Framework.md",
+        "wiki/concepts/IPO–IMOI Framework.md",
         "wiki/concepts/Team Effectiveness Criteria.md",
         "wiki/entities/John E. Mathieu.md",
         "wiki/entities/John R. Hollenbeck.md",
@@ -1998,6 +1998,46 @@
         "wiki/hot.md",
         "wiki/mocs/Open Science MOC.md"
       ]
+    },
+    ".raw/Shadish et al. - 2002 - Quasi-Experimental Designs That Either Lack a Control Group or Lack Pretest Observations on the Outc.md": {
+      "hash": "198f06ced236457f8acacad47e76f232",
+      "ingested_at": "2026-07-06",
+      "pages_created": [
+        "wiki/sources/shadish-cook-campbell-2002-quasi-designs-no-control-or-no-pretest.md",
+        "wiki/concepts/Quasi-Experimental Design.md",
+        "wiki/concepts/Nonequivalent Dependent Variable.md",
+        "wiki/concepts/Coherent Pattern Matching.md",
+        "wiki/concepts/Case-Control Design.md",
+        "wiki/concepts/Selection Bias.md",
+        "wiki/concepts/Matching (Quasi-Experiments).md",
+        "wiki/entities/Donald T. Campbell.md"
+      ],
+      "pages_updated": [
+        "wiki/index.md",
+        "wiki/log.md",
+        "wiki/hot.md",
+        "wiki/concepts/_index.md",
+        "wiki/sources/_index.md",
+        "wiki/concepts/Internal Validity.md",
+        "wiki/mocs/Open Science MOC.md",
+        "wiki/entities/William R. Shadish.md",
+        "wiki/entities/Thomas D. Cook.md"
+      ]
+    },
+    ".raw/Shadish et al. - 2002 - Quasi-Experimental Designs That Use Both Control Groups and Pretests.md": {
+      "hash": "f67cd82dac121eeabd72143ff2319364",
+      "ingested_at": "2026-07-06",
+      "pages_created": [
+        "wiki/sources/shadish-cook-campbell-2002-quasi-designs-control-and-pretests.md",
+        "wiki/concepts/Nonequivalent Control Group Design.md",
+        "wiki/concepts/Propensity Scores and Hidden Bias.md"
+      ],
+      "pages_updated": [
+        "wiki/index.md",
+        "wiki/log.md",
+        "wiki/hot.md",
+        "wiki/mocs/Open Science MOC.md"
+      ]
     }
   },
   "address_map": {
@@ -2036,7 +2076,7 @@
     "wiki/entities/Etienne LeBel.md": "c-000034",
     "wiki/entities/Jens Lehmann.md": "c-000035",
     "wiki/entities/Christian Bizer.md": "c-000036",
-    "wiki/entities/Marcus Munaf\u00f2.md": "c-000037",
+    "wiki/entities/Marcus Munafò.md": "c-000037",
     "wiki/entities/John Ioannidis.md": "c-000038",
     "wiki/entities/Center for Open Science.md": "c-000039",
     "wiki/entities/Open Science Collaboration.md": "c-000040",
@@ -2111,7 +2151,7 @@
     "wiki/concepts/Training vs Test Error.md": "c-000156",
     "wiki/concepts/Procedural Overfitting.md": "c-000157",
     "wiki/sources/albarracin-2024-determinants-behaviour-change.md": "c-000158",
-    "wiki/entities/Dolores Albarrac\u00edn.md": "c-000159",
+    "wiki/entities/Dolores Albarracín.md": "c-000159",
     "wiki/concepts/Behaviour Change Determinants.md": "c-000160",
     "wiki/concepts/Descriptive Norms.md": "c-000161",
     "wiki/concepts/Injunctive Norms.md": "c-000162",
@@ -2155,7 +2195,7 @@
     "wiki/concepts/Dynamic Decision Making.md": "c-000200",
     "wiki/concepts/Electronic Brainstorming.md": "c-000201",
     "wiki/entities/Terry Connolly.md": "c-000202",
-    "wiki/entities/Lisa Ord\u00f3\u00f1ez.md": "c-000203",
+    "wiki/entities/Lisa Ordóñez.md": "c-000203",
     "wiki/concepts/Framing Effects.md": "c-000204",
     "wiki/concepts/Appraisal-Tendency Framework.md": "c-000205",
     "wiki/concepts/Signal Detection Theory (Decision).md": "c-000206",
@@ -2229,7 +2269,7 @@
     "wiki/entities/Frederick Morgeson.md": "c-000301",
     "wiki/entities/Michael Campion.md": "c-000303",
     "wiki/concepts/Sociotechnical Systems Theory.md": "c-000304",
-    "wiki/concepts/Job Demands\u2013Control\u2013Support Model.md": "c-000305",
+    "wiki/concepts/Job Demands–Control–Support Model.md": "c-000305",
     "wiki/concepts/Interdisciplinary Model of Job Design.md": "c-000306",
     "wiki/sources/schmidt-beck-gillespie-2012-motivation.md": "c-000307",
     "wiki/concepts/Control Theory (Self-Regulation).md": "c-000308",
@@ -2377,7 +2417,7 @@
     "wiki/concepts/Leadership Training (Teams).md": "c-000464",
     "wiki/concepts/Miles and Snow Strategic Typology.md": "c-000465",
     "wiki/concepts/Personality Dynamics (TAT).md": "c-000466",
-    "wiki/concepts/Person\u2013Environment Fit.md": "c-000467",
+    "wiki/concepts/Person–Environment Fit.md": "c-000467",
     "wiki/concepts/Psychological Safety.md": "c-000468",
     "wiki/concepts/Situation Strength.md": "c-000469",
     "wiki/concepts/Situational Cue Types (TAT).md": "c-000470",
@@ -2459,7 +2499,7 @@
     "wiki/entities/Shmuel Ellis.md": "c-000546",
     "wiki/entities/Inbar Davidi.md": "c-000547",
     "wiki/entities/Winston Bennett Jr..md": "c-000548",
-    "wiki/entities/Mich\u00e8le Nuijten.md": "c-000549",
+    "wiki/entities/Michèle Nuijten.md": "c-000549",
     "wiki/entities/Bita Fayaz-Farkhad.md": "c-000550",
     "wiki/entities/Javier A. Granados Samayoa.md": "c-000551",
     "wiki/entities/Andrea Hollingshead.md": "c-000552",
@@ -2531,10 +2571,10 @@
     "wiki/entities/Viswanath Venkatesh.md": "c-000613",
     "wiki/sources/basson-et-al-2022-oa-dimensions-wos.md": "c-000631",
     "wiki/entities/Isabel Basson.md": "c-000632",
-    "wiki/entities/Marc-Andr\u00e9 Simard.md": "c-000633",
-    "wiki/entities/Zo\u00e9 Aubierge Ouangr\u00e9.md": "c-000634",
+    "wiki/entities/Marc-André Simard.md": "c-000633",
+    "wiki/entities/Zoé Aubierge Ouangré.md": "c-000634",
     "wiki/entities/Cassidy R. Sugimoto.md": "c-000635",
-    "wiki/entities/Vincent Larivi\u00e8re.md": "c-000636",
+    "wiki/entities/Vincent Larivière.md": "c-000636",
     "wiki/entities/Dimensions.md": "c-000637",
     "wiki/entities/Web of Science.md": "c-000638",
     "wiki/entities/Unpaywall.md": "c-000639",
@@ -2551,8 +2591,8 @@
     "wiki/concepts/Philosophy of Science Parameters.md": "c-000650",
     "wiki/concepts/Positivism.md": "c-000651",
     "wiki/concepts/Postpositivism.md": "c-000652",
-    "wiki/concepts/Constructivism\u2013Interpretivism.md": "c-000653",
-    "wiki/concepts/Critical\u2013Ideological Paradigm.md": "c-000654",
+    "wiki/concepts/Constructivism–Interpretivism.md": "c-000653",
+    "wiki/concepts/Critical–Ideological Paradigm.md": "c-000654",
     "wiki/concepts/Idiographic vs Nomothetic.md": "c-000655",
     "wiki/concepts/Etic vs Emic.md": "c-000656",
     "wiki/concepts/Bricoleur.md": "c-000657",
@@ -2700,7 +2740,7 @@
     "wiki/concepts/Team Diagnostic Survey.md": "c-000802",
     "wiki/concepts/Enabling Conditions for Team Effectiveness.md": "c-000803",
     "wiki/concepts/Team Effectiveness Criteria.md": "c-000804",
-    "wiki/concepts/IPO\u2013IMOI Framework.md": "c-000805",
+    "wiki/concepts/IPO–IMOI Framework.md": "c-000805",
     "wiki/entities/John E. Mathieu.md": "c-000806",
     "wiki/entities/John R. Hollenbeck.md": "c-000807",
     "wiki/entities/Daan van Knippenberg.md": "c-000808",
@@ -2768,7 +2808,18 @@
     "wiki/concepts/Threats to Validity.md": "c-000881",
     "wiki/concepts/Causal Generalization.md": "c-000882",
     "wiki/entities/William R. Shadish.md": "c-000883",
-    "wiki/entities/Thomas D. Cook.md": "c-000884"
+    "wiki/entities/Thomas D. Cook.md": "c-000884",
+    "wiki/sources/shadish-cook-campbell-2002-quasi-designs-no-control-or-no-pretest.md": "c-000885",
+    "wiki/sources/shadish-cook-campbell-2002-quasi-designs-control-and-pretests.md": "c-000886",
+    "wiki/concepts/Quasi-Experimental Design.md": "c-000887",
+    "wiki/concepts/Nonequivalent Control Group Design.md": "c-000888",
+    "wiki/concepts/Nonequivalent Dependent Variable.md": "c-000889",
+    "wiki/concepts/Coherent Pattern Matching.md": "c-000890",
+    "wiki/concepts/Propensity Scores and Hidden Bias.md": "c-000891",
+    "wiki/concepts/Case-Control Design.md": "c-000892",
+    "wiki/concepts/Selection Bias.md": "c-000893",
+    "wiki/concepts/Matching (Quasi-Experiments).md": "c-000894",
+    "wiki/entities/Donald T. Campbell.md": "c-000895"
   },
   ".raw/Pearsall et al. - 2025 - A stimulus-based model of the team adaptation process An integrated conceptual review..pdf": {
     "hash": "62f683006d3323a67c67fc23621f632a",

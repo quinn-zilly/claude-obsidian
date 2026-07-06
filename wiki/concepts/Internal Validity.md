@@ -11,6 +11,8 @@ related:
   - "[[Statistical Conclusion Validity]]"
   - "[[External Validity]]"
   - "[[Threats to Validity]]"
+  - "[[Quasi-Experimental Design]]"
+  - "[[Nonequivalent Control Group Design]]"
 sources:
   - "[[shadish-cook-campbell-2002-statistical-conclusion-internal-validity]]"
 ---

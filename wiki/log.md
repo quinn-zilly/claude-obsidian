@@ -19,6 +19,13 @@ Navigation: [[index]] | [[hot]] | [[overview]]
 
 Append-only. New entries go at the TOP. Never edit past entries.
 
+## [2026-07-06] ingest | Shadish, Cook & Campbell (2002), Ch. 4 & Ch. 5 (quasi-experimental design)
+- Sources: `.raw/Shadish et al. - 2002 - Quasi-Experimental Designs That Either Lack a Control Group or Lack Pretest Observations on the Outc.md`, `.raw/Shadish et al. - 2002 - Quasi-Experimental Designs That Use Both Control Groups and Pretests.md`
+- Summaries: [[shadish-cook-campbell-2002-quasi-designs-no-control-or-no-pretest]], [[shadish-cook-campbell-2002-quasi-designs-control-and-pretests]]
+- Pages created: [[Quasi-Experimental Design]], [[Nonequivalent Control Group Design]], [[Nonequivalent Dependent Variable]], [[Coherent Pattern Matching]], [[Selection Bias]], [[Matching (Quasi-Experiments)]], [[Propensity Scores and Hidden Bias]], [[Case-Control Design]], [[Donald T. Campbell]] (c-000885-895)
+- Pages updated: [[William R. Shadish]], [[Thomas D. Cook]], [[Internal Validity]], [[Open Science MOC]], [[index]], [[concepts/_index]], [[sources/_index]]
+- Key insight: the two design chapters are the practical companion to the Ch. 2-3 validity typology already in the vault - quasi-experiments are combinations of design elements chosen to make specific threats implausible; "statistical adjustment only after the best possible design controls."
+
 ## [2026-07-06] batch ingest | Shadish, Cook & Campbell (2002) — validity typology (Ch. 2 & 3)
 - Sources: `.raw/Shadish et al. - 2002 - Statistical Conclusion Validity and Internal Validity.md`, `.raw/Shadish et al. - 2002 - Construct Validity and External Validity.md`
 - Summaries: [[shadish-cook-campbell-2002-statistical-conclusion-internal-validity]], [[shadish-cook-campbell-2002-construct-external-validity]]
@@ -499,39 +506,4 @@ Parse recent entries: `grep "^## \[" wiki/log.md | head -10`
 - Pages updated: [[HARKing]] (developing → mature; expanded with three forms, mechanisms, cross-domain connections), [[index]]
 - Key insight: HARKing is primarily a cognitive failure (hindsight bias) plus a social norm failure (hypothetico-deductive presentational pressure) — not strategic fraud. This explains why ethics appeals alone fail as remedies and why preregistration (making HARKing *detectable*) is the right structural fix.
 
-## [2026-05-21] ingest | Ren & Argote 2011 — Transactive Memory Systems 1985–2010
-- Source: `.raw/Ren and Argote - 2011 - Transactive Memory Systems 1985–2010 An Integrative Framework of Key Dimensions, Antecedents, and C.pdf`
-- Summary: [[ren-argote-2011-tms]]
-- Pages created: [[ren-argote-2011-tms]]
-- Pages updated: [[Transactive Memory Systems]], [[index]], [[log]], [[hot]]
-- Key insight: TMS is group-level cognition where knowledge is distributed (specialization) + coordinated (trust + smooth operation). Three dimensions—memory differentiation, task credibility, task coordination—predict team learning, creativity, and performance. Antecedents: group training, communication, shared experience, task interdependence. Moderators: group size, task complexity, membership stability, communication media. Virtual teams, membership change, and organizational-level TMS are underexplored.
-
-## [2026-05-21] ingest | Giner-Sorolla 2012 — Science or Art?
-- Source: `.raw/Giner-Sorolla - 2012 - Science or Art How Aesthetic Standards Grease the Way Through the Publication Bottleneck but Underm.pdf`
-- Summary: [[giner-sorolla-2012-science-or-art]]
-- Pages created: [[giner-sorolla-2012-science-or-art]], [[Roger Giner-Sorolla]], [[Publication Bottleneck]], [[Aesthetic Standards in Science]]
-- Pages updated: [[Replication Crisis]], [[Publication Bias]], [[HARKing]], [[index]], [[log]], [[hot]]
-- Addresses: c-000104 through c-000107
-- Key insight: The publication bottleneck (too many researchers / too few slots) is the root cause of the replication crisis — aesthetic criteria (statistical perfection, narrative conformity, novelty) become gatekeepers under Anna Karenina conjunction rules. This is why 1970s solutions failed and why individual-level ethics won't fix it without structural change.
-
-## [2026-05-21] ingest | Uhlmann et al. 2019 — Scientific Utopia III: Crowdsourcing Science
-- Source: `.raw/Uhlmann et al. - 2019 - Scientific Utopia III Crowdsourcing Science.pdf`
-- Summary: [[uhlmann-2019-crowdsourcing-science]]
-- Pages created: [[uhlmann-2019-crowdsourcing-science]], [[Eric Uhlmann]], [[Crowdsourcing Science]], [[Vertical Integration (Science)]], [[Horizontal Distribution (Science)]], [[Many Labs]], [[Matthew Effect (Science)]]
-- Pages updated: [[Replication Crisis]], [[index]], [[log]], [[hot]]
-- Addresses: c-000097 through c-000103
-
-## [2026-05-21] ingest | Beigi et al. 2025 — Career Success and Minority Status
-- Source: `.raw/Beigi et al. - 2025 - Career Success and Minority Status A Review and Conceptual Framework.pdf`
-- Summary: [[beigi-2025-career-success-minority]]
-- Pages created: [[beigi-2025-career-success-minority]], [[Mina Beigi]], [[Melika Shirmohammadi]], [[Complex Visibility]], [[Hypervisibility]], [[Invisibility (Career)]], [[Managed Visibility]], [[Outsider-Within Status]], [[Subjective Career Success]], [[Glass Cliff]]
-- Pages updated: [[On-the-Job Development]], [[index]], [[log]], [[hot]]
-- Addresses: c-000087 through c-000096
-- New domain opened: Career Success / DEI (7th domain)
-
-## [2026-05-21] ingest | Ten Catalysts (Yost & Plunkett 2010)
-- Source: `.raw/Ten Catalysts, Yost & Plunkett 2010.pdf`
-- Summary: [[yost-plunkett-2010-ten-catalysts]]
-- Pages created: [[yost-plunkett-2010-ten-catalysts]], [[Paul Yost]], [[Mary Plunkett]], [[Morgan McCall]], [[On-the-Job Development]], [[Leadership Map]], [[Learning Agility]], [[Developmental Experiences]], [[70-20-10 Rule]], [[Personal Advisory Board]], [[Transition Checklist]]
-- Pages updated: [[Organizational Learning]], [[Knowledge Transfer]], [[index]], [[log]], [[hot]]
-- Key insight: The knowing-doing gap is the central problem in leadership development — orgs know OJD dominates but systematically u
+## [2026-05-21] ingest | Ren & Argote 2011 — Transactive Memory Systems 1985–2

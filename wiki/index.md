@@ -25,7 +25,7 @@ created: 2026-04-07
 
 # Wiki Index
 
-Last updated: 2026-06-29 | Total pages: 453 | Sources ingested: 66
+Last updated: 2026-07-06 | Total pages: 464 | Sources ingested: 68
 
 Navigation: [[Home MOC]] | [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[getting-started]]
 
@@ -44,6 +44,14 @@ Navigation: [[Home MOC]] | [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[
 - [[Internal Validity]] — validity of causal inferences (A→B); 9 threats; randomization
 - [[Construct Validity (Causal Generalization)]] — operations → higher-order constructs; 14 threats (distinct from psychometric [[Construct Validity]])
 - [[External Validity]] — does the effect hold over variation; 5 interaction threats
+- [[Quasi-Experimental Design]] — manipulation without randomization; 3 principles + 4 families of design elements (SCC Ch. 4–5)
+- [[Nonequivalent Control Group Design]] — pretest + comparison group; selection-interaction threats; 5 outcome patterns
+- [[Nonequivalent Dependent Variable]] — a DV expected to respond to threats but not treatment; pattern-matching logic
+- [[Coherent Pattern Matching]] — predict a complex, unique pattern few alternatives can generate
+- [[Selection Bias]] — pre-existing group differences from nonrandom assignment; the defining quasi-experiment threat
+- [[Matching (Quasi-Experiments)]] — matching/stratifying + when it backfires (Campbell & Erlebacher regression artifact)
+- [[Propensity Scores and Hidden Bias]] — logistic-regression balancing on observed covariates + sensitivity analysis
+- [[Case-Control Design]] — epidemiological retrospective design; sample on outcome; ~35 Sackett biases
 - [[Threats to Validity]] — the four threat lists + the plausibility/direction test; design over statistical control
 - [[Causal Generalization]] — representation + extrapolation across all study elements (Cronbach)
 - [[Informal Field-Based Learning (IFBL)]] — intentional, self-directed on-the-job learning; three behaviors (feedback/reflection, vicarious, experimentation) + CAM-OS readiness framework (developing)
@@ -631,6 +639,8 @@ Navigation: [[Home MOC]] | [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[
 
 ## Sources
 
+- [[shadish-cook-campbell-2002-quasi-designs-no-control-or-no-pretest|Shadish, Cook & Campbell (2002), Ch. 4]] — *Experimental and Quasi-Experimental Designs* | the **weak** quasi-designs (missing pretest or control group); one-group posttest-only → pretest-posttest → NEDV → removed/repeated treatment; posttest-only with nonequivalent groups, proxy/independent-sample pretests, matching, constructed contrasts, **case-control design**; three principles of nonrandomized causal inference | 2026-07-06
+- [[shadish-cook-campbell-2002-quasi-designs-control-and-pretests|Shadish, Cook & Campbell (2002), Ch. 5]] — *Experimental and Quasi-Experimental Designs* | designs with **both** control group + pretest; the **nonequivalent control group design** (selection-interaction threats, 5 outcome patterns); double pretest, switching replications, reversed treatment, cohort controls, NEDV; the four families of **design elements**; appendix on **propensity scores**, selection-bias models, sensitivity analysis | 2026-07-06
 - [[noe-2023-needs-assessment|Noe (2023)]] — *Employee Training and Development* (9e), Ch. 3 | canonical practitioner model of **needs assessment**: organizational / person / task analysis; methods table; root cause analysis (7 questions, 5 Whys, Fishbone, 4 Square); literacy audit; competency models. Prescriptive counterpart to the empirical gap in [[Training Needs Analysis]] | 2026-07-06
 - [[tannenbaum-wolfson-2022-informal-field-based-learning|Tannenbaum & Wolfson (2022)]] — Annu. Rev. Organ. Psychol. Organ. Behav. | review of **informal field-based learning (IFBL)**; CAM-OS framework (Capability, Awareness, Motivation, Opportunity, Support); four dimensions of opportunity; dark side of detrimental IFBL; FLNA + Red-Yellow-Green tools | 2026-07-06
 - [[alliger-janak-1989-kirkpatrick-levels-thirty-years-later|Alliger & Janak (1989)]] — Personnel Psychology | first systematic critique of Kirkpatrick's four levels; three implicit assumptions (ascending value, causal chain, positive manifold) tested against 12 studies / 26 correlations; reactions–learning r ≈ .07; predecessor to Alliger et al. 1997 | 2026-07-06
@@ -651,13 +661,4 @@ Navigation: [[Home MOC]] | [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[
 - [[parker-morgeson-johns-2017-100-years-work-design|Parker, Morgeson & Johns (2017)]] — Journal of Applied Psychology (Centennial) | big-picture map of 100 years of work design; scientific mapping of 5,708 articles → 5 historically-anchored clusters (sociotechnical/AWG, JCM, job demands-control, job demands-resources, role theory); clusters reflect history not topic, so integration is the field's opportunity; JAP = 6.4% of articles but ~19% of citations; impact on academia/economics/epidemiology/HBR/policy; proactive + dynamic + multilevel future agenda | 2026-06-12
 - [[morgeson-humphrey-2006-work-design-questionnaire|Morgeson & Humphrey (2006)]] — Journal of Applied Psychology | development & validation of the WDQ; 107 terms → 18 categories / 21 CFA factors across task/knowledge/social/contextual domains; N=540 incumbents, 243 jobs; avg α ≈ .87; only knowledge characteristics predict training/compensation cost (route around the satisfaction-vs-cost trade-off); social support incrementally predicts satisfaction | 2026-06-12
 - [[humphrey-nahrgang-morgeson-2007-work-design-meta-analysis|Humphrey, Nahrgang & Morgeson (2007)]] — Journal of Applied Psychology | definitive work-design meta-analysis (259 studies, N=219,625); 14 characteristics explain ~43% of variance across 19 outcomes; social characteristics add up to +40% and work context up to +16% incremental variance beyond motivational; experienced meaningfulness is the dominant JCM mediator | 2026-06-12
-- [[oldham-fried-2016-job-design-past-present-future|Oldham & Fried (2016)]] — Organizational Behavior and Human Decision Processes | past/present/future review of job design by JCT's co-author; JCT verdict (strong on attitudes + meaningfulness, modest on behavior, mixed moderators); shift to employee-driven job crafting; eight future directions | 2026-06-12
-- [[meyer-rowan-1977-institutionalized-organizations|Meyer & Rowan (1977)]] — American Journal of Sociology | founding paper of new institutionalism; formal structure reflects rationalized institutional myths, adopted ceremonially for legitimacy not efficiency; the efficiency–legitimacy conflict is resolved by decoupling + a logic of confidence; direct precursor to DiMaggio & Powell (1983) | 2026-06-09
-- [[fanelli-2012-negative-results-disappearing|Fanelli (2012)]] — Scientometrics | 4,656 hypothesis-testing papers (1990–2007); positive-result share rose 70%→86% (~6%/yr); steepest in social/applied sciences; US > UK in positive bias; first direct evidence negatives are disappearing | 2026-06-09
-- [[soderberg-et-al-2021-registered-reports-quality|Soderberg et al. (2021)]] — Nature Human Behaviour | 353 reviewers rated 29 RRs vs 57 matched standard papers; RRs higher on all 19 criteria (mean +0.46), biggest on methods/analysis rigour; no cost to novelty/creativity; open data 86% vs ~15% | 2026-06-09
-- [[hardwicke-et-al-2022-transparency-prevalence-psychology|Hardwicke et al. (2022)]] — Perspectives on Psychological Science | prevalence baseline of transparency/reproducibility practices in 250 psych articles (2014–17); open access 65% but protocols 0% / data 2% / scripts 1% / materials 14% / prereg 3%; disclosure (funding 62%, COI 39%) higher because journal-mandated; link-rot 7/26; reform had not reached routine practice | 2026-06-09
-- [[basson-et-al-2022-oa-dimensions-wos|Basson et al. (2022)]] — PLOS ONE | OA measurement is database-dependent; Dimensions vs WoS, 2015–2019; overall OA 46.6% vs 43.4%; gap largest for global South (S.Asia +57.9%); WoS Western indexing bias; green-only higher in WoS, bronze higher in Dimensions |
-- [[bandura-2001-social-cognitive-theory-agentic|Bandura (2001)]] — Annual Review of Psychology | **Social Cognitive Theory: An Agentic Perspective**; four core features of agency + three modes (personal/proxy/collective); efficacy beliefs as foundation of agency; triadic reciprocal causation; agentic management of fortuity | 2026-07-06
-- [[schunk-usher-2012-social-cognitive-theory-motivation|Schunk & Usher (2012)]] — Oxford Handbook of Human Motivation | SCT operationalized for motivation; enactive vs vicarious learning; four sources of self-efficacy; goals/outcome expectations/values/social comparisons; self-efficacy → choice/effort/persistence (Multon 1991; Stajkovic & Luthans 1998) | 2026-07-06
-- [[kruger-dunning-1999-unskilled-and-unaware|Kruger & Dunning (1999)]] — Journal of Personality and Social Psychology | **Unskilled and Unaware of It**; dual-burden metacognitive-deficit account; 4 studies (humor/logic/grammar); bottom quartile 12th→62nd percentile; top quartile underestimates (false consensus); competence begets calibration | 2026-07-06
-- [[lee-park-koo-2015-organizational-identification-meta-analysis|Lee, Park & Koo (2015)]] — Psychological Bulletin | meta-analysis positioning **organizational identification** as a basis in the attitude-behavior model; OI → in-role ρ=.27 (k=41), extra-role ρ=.42 (k=53); direct effect on behavior beyond attitude; stronger in collectivistic cultures | 2026-07-06
+- [[oldham-fried

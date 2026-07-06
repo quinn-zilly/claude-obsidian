@@ -72,6 +72,23 @@ This cluster maps the meta-science of how psychology and the social sciences pro
 
 ## Causal inference & validity
 
+The Campbellian framework for what can go wrong in inferring cause — and how far a causal claim travels. Anchored by [[William R. Shadish]], [[Thomas D. Cook]] & [[Donald T. Campbell]] (2002).
+
+**Validity typology (SCC Ch. 2–3):** [[Validity Typology]] · [[Statistical Conclusion Validity]] · [[Internal Validity]] · [[Construct Validity (Causal Generalization)]] · [[External Validity]] · [[Threats to Validity]] · [[Causal Generalization]]
+
+**Quasi-experimental design (SCC Ch. 4–5):**
+
+- [[Quasi-Experimental Design]] — manipulation without randomization; the three principles (threats, control-by-design, pattern matching)
+- [[Nonequivalent Control Group Design]] — the most common quasi-experiment; pretest + comparison group
+- [[Nonequivalent Dependent Variable]] — a measure that should respond to threats but not to treatment
+- [[Coherent Pattern Matching]] — predict a complex pattern few alternatives can produce
+- [[Selection Bias]] — the defining threat when assignment isn't random
+- [[Matching (Quasi-Experiments)]] — and when it backfires (Campbell & Erlebacher)
+- [[Propensity Scores and Hidden Bias]] — statistical adjustment + sensitivity analysis, after design
+- [[Case-Control Design]] — the epidemiological retrospective design
+
+Sources: [[shadish-cook-campbell-2002-statistical-conclusion-internal-validity|Ch. 2]] · [[shadish-cook-campbell-2002-construct-external-validity|Ch. 3]] · [[shadish-cook-campbell-2002-quasi-designs-no-control-or-no-pretest|Ch. 4]] · [[shadish-cook-campbell-2002-quasi-designs-control-and-pretests|Ch. 5]]
+
 The Campbellian framework for what can go wrong in inferring cause — and how far a causal claim travels. Anchored by Shadish, Cook & Campbell (2002).
 
 - [[Validity Typology]]

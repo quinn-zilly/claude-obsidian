@@ -97,3 +97,14 @@ All concept pages — ideas, patterns, and frameworks extracted from sources.
 - [[MASEM]] — meta-analytic structural equation modelling; pool corrected correlation matrices, then fit SEM (developing)
 - [[Technology Acceptance Model]] — Davis (1989); perceived usefulness + ease of use; ancestor of UTAUT (seed)
 - [[Facilitating Conditions]] — UTAUT construct; org/technical infrastructure supporting use; contested FC→BI path (seed)
+
+## Causal Inference & Quasi-Experimental Design
+
+- [[Quasi-Experimental Design]] — manipulation without random assignment; three principles + four families of design elements
+- [[Nonequivalent Control Group Design]] — the most common quasi-experiment; pretest + comparison group
+- [[Nonequivalent Dependent Variable]] — a DV expected to respond to threats but not to treatment
+- [[Coherent Pattern Matching]] — predict a complex, unique outcome pattern
+- [[Selection Bias]] — pre-existing group differences from nonrandom assignment
+- [[Matching (Quasi-Experiments)]] — matching/stratifying and its regression-artifact failure mode
+- [[Propensity Scores and Hidden Bias]] — logistic-regression balancing + sensitivity analysis
+- [[Case-Control Design]] — epidemiological retrospective design

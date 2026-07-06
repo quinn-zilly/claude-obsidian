@@ -9,10 +9,14 @@ created: 2026-07-06
 updated: 2026-07-06
 related:
   - "[[William R. Shadish]]"
+  - "[[Donald T. Campbell]]"
   - "[[Validity Typology]]"
+  - "[[Quasi-Experimental Design]]"
 sources:
   - "[[shadish-cook-campbell-2002-statistical-conclusion-internal-validity]]"
   - "[[shadish-cook-campbell-2002-construct-external-validity]]"
+  - "[[shadish-cook-campbell-2002-quasi-designs-no-control-or-no-pretest]]"
+  - "[[shadish-cook-campbell-2002-quasi-designs-control-and-pretests]]"
 ---
 
 # Thomas D. Cook
@@ -24,3 +28,5 @@ Social scientist and evaluation methodologist. Co-author of Cook & Campbell (197
 ## Sources
 - [[shadish-cook-campbell-2002-statistical-conclusion-internal-validity]]
 - [[shadish-cook-campbell-2002-construct-external-validity]]
+- [[shadish-cook-campbell-2002-quasi-designs-no-control-or-no-pretest]]
+- [[shadish-cook-campbell-2002-quasi-designs-control-and-pretests]]

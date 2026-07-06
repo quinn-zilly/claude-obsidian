@@ -9,11 +9,15 @@ created: 2026-07-06
 updated: 2026-07-06
 related:
   - "[[Thomas D. Cook]]"
+  - "[[Donald T. Campbell]]"
   - "[[Validity Typology]]"
   - "[[Causal Generalization]]"
+  - "[[Quasi-Experimental Design]]"
 sources:
   - "[[shadish-cook-campbell-2002-statistical-conclusion-internal-validity]]"
   - "[[shadish-cook-campbell-2002-construct-external-validity]]"
+  - "[[shadish-cook-campbell-2002-quasi-designs-no-control-or-no-pretest]]"
+  - "[[shadish-cook-campbell-2002-quasi-designs-control-and-pretests]]"
 ---
 
 # William R. Shadish
@@ -26,6 +30,10 @@ Methodologist (1949–2016), leading figure in experimental and quasi-experiment
 
 Carried the Campbell tradition forward, broadening [[Construct Validity (Causal Generalization)]] and [[External Validity]] to all study elements per Cronbach, and adding effect-size concerns to [[Statistical Conclusion Validity]].
 
+Also anchors the vault's [[Quasi-Experimental Design]] cluster (SCC Ch. 4–5): the three principles of nonrandomized causal inference, the [[Nonequivalent Control Group Design]], [[Nonequivalent Dependent Variable|nonequivalent dependent variables]], and the statistical adjustments ([[Propensity Scores and Hidden Bias]]).
+
 ## Sources
 - [[shadish-cook-campbell-2002-statistical-conclusion-internal-validity]]
 - [[shadish-cook-campbell-2002-construct-external-validity]]
+- [[shadish-cook-campbell-2002-quasi-designs-no-control-or-no-pretest]]
+- [[shadish-cook-campbell-2002-quasi-designs-control-and-pretests]]

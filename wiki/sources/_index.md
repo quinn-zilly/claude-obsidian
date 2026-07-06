@@ -87,3 +87,8 @@ All source pages — summaries of ingested documents, transcripts, articles, and
 ### Teams & Teamwork Competencies
 
 - [[salas-et-al-2009-wisdom-of-collectives|Salas, Rosen, Burke & Goodwin (2009)]] — *Team Effectiveness in Complex Organizations* (ch. 3) — updates the [[ABCs of Teamwork Competencies]] with empirical-support ratings; synthesizes the [[Big Five of Teamwork]]; "wisdom of collectives" as emergent team property; IPO→IMOI
+
+### Causal Inference & Quasi-Experimental Design
+
+- [[shadish-cook-campbell-2002-quasi-designs-no-control-or-no-pretest|Shadish, Cook & Campbell (2002), Ch. 4]] — *Experimental and Quasi-Experimental Designs for Generalized Causal Inference* — quasi-designs that lack a control group or a pretest; one-group and posttest-only designs; matching, constructed contrasts, [[Case-Control Design]]
+- [[shadish-cook-campbell-2002-quasi-designs-control-and-pretests|Shadish, Cook & Campbell (2002), Ch. 5]] — *idem* — the [[Nonequivalent Control Group Design]]; design elements; [[Propensity Scores and Hidden Bias]] + selection-bias models
