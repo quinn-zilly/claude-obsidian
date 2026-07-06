@@ -19,7 +19,7 @@ Before mutating any vault file, consult `.vault-meta/transport.json` (auto-creat
 - **mcp-obsidian** / **mcpvault** — `mcp__obsidian-vault__write_note` and friends; see [`skills/wiki/references/mcp-setup.md`](../wiki/references/mcp-setup.md)
 - **filesystem** — Claude's `Write`/`Edit` tools with absolute vault-rooted paths (final floor; always works)
 
-Full decision tree: [`wiki/references/transport-fallback.md`](../../wiki/references/transport-fallback.md).
+Full decision tree: [`wiki/references/transport-fallback.md`](transport-fallback.md).
 
 ---
 

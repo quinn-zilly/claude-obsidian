@@ -153,7 +153,7 @@ obsidian-cli bookmarks "$VAULT"
 
 ## Cross-reference
 
-- Decision tree: [`wiki/references/transport-fallback.md`](../../wiki/references/transport-fallback.md)
+- Decision tree: [`wiki/references/transport-fallback.md`](transport-fallback.md)
 - Legacy MCP options (A/B/C/D): [`skills/wiki/references/mcp-setup.md`](../wiki/references/mcp-setup.md)
 - Concurrency policy (v1.7+): [`skills/wiki-ingest/SKILL.md`](../wiki-ingest/SKILL.md) §Concurrency
 - Detection script: [`scripts/detect-transport.sh`](../../scripts/detect-transport.sh)

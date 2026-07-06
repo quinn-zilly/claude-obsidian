@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "path:wiki -tag:#meta -path:wiki/entities  ",
+  "search": "path:wiki -tag:#meta -path:wiki/entities",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": true,
@@ -46,6 +46,6 @@
   "repelStrength": 11.6645640074212,
   "linkStrength": 0.763710575139147,
   "linkDistance": 150,
-  "scale": 0.10260243633003632,
+  "scale": 0.10260243633003635,
   "close": false
 }
