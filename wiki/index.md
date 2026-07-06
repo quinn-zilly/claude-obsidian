@@ -39,6 +39,13 @@ Navigation: [[Home MOC]] | [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[
 
 ## Concepts
 
+- [[Validity Typology]] — SCC four-type framework (statistical conclusion / internal / construct / external); validity is a property of inferences
+- [[Statistical Conclusion Validity]] — validity of covariation inferences; 9 threats; effect sizes + CIs
+- [[Internal Validity]] — validity of causal inferences (A→B); 9 threats; randomization
+- [[Construct Validity (Causal Generalization)]] — operations → higher-order constructs; 14 threats (distinct from psychometric [[Construct Validity]])
+- [[External Validity]] — does the effect hold over variation; 5 interaction threats
+- [[Threats to Validity]] — the four threat lists + the plausibility/direction test; design over statistical control
+- [[Causal Generalization]] — representation + extrapolation across all study elements (Cronbach)
 - [[Informal Field-Based Learning (IFBL)]] — intentional, self-directed on-the-job learning; three behaviors (feedback/reflection, vicarious, experimentation) + CAM-OS readiness framework (developing)
 - [[Kirkpatrick Level Intercorrelation Critique]] — the four levels aren't a tight positive hierarchy; reactions ≈ independent (r ≈ .07 with learning) (developing)
 - [[Deliberate Practice]] — coach-designed, feedback-driven, effortful training (~4h/day cap); predicts attained level, not raw experience (Ericsson) (developing)
@@ -471,6 +478,8 @@ Navigation: [[Home MOC]] | [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[
 
 ## Entities
 
+- [[William R. Shadish]] — methodologist; first author of the 2002 generalized-causal-inference volume
+- [[Thomas D. Cook]] — evaluation methodologist; co-author of Cook & Campbell (1979) and the 2002 successor
 - [[Mikhail A. Wolfson]] — management scholar (U. Kentucky); co-originator of the IFBL construct
 - [[Elizabeth A. Janak]] — I-O researcher (SUNY Albany); co-author of the 1989 Kirkpatrick-levels critique
 - [[K. Anders Ericsson]] — expertise researcher (FSU); originated deliberate-practice framework; skilled memory & LT-WM

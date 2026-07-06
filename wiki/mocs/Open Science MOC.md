@@ -70,6 +70,20 @@ This cluster maps the meta-science of how psychology and the social sciences pro
 - [[Grounded Theory]]
 - [[Bricoleur]]
 
+## Causal inference & validity
+
+The Campbellian framework for what can go wrong in inferring cause — and how far a causal claim travels. Anchored by Shadish, Cook & Campbell (2002).
+
+- [[Validity Typology]]
+- [[Statistical Conclusion Validity]]
+- [[Internal Validity]]
+- [[Construct Validity (Causal Generalization)]]
+- [[External Validity]]
+- [[Threats to Validity]]
+- [[Causal Generalization]]
+- [[shadish-cook-campbell-2002-statistical-conclusion-internal-validity|Shadish, Cook & Campbell (2002) — Statistical Conclusion & Internal Validity]]
+- [[shadish-cook-campbell-2002-construct-external-validity|Shadish, Cook & Campbell (2002) — Construct & External Validity]]
+
 ## Open access & its measurement
 
 - [[Open Access]]

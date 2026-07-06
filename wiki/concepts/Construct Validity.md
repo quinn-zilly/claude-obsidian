@@ -13,6 +13,9 @@ related: ["[[Likert Scale Development]]", "[[Construct Definition]]", "[[jebb-ng
 
 Nav: [[index]] | [[log]]
 
+> [!info] Scope: psychometric sense
+> This page covers construct validity as a property of **test-score interpretations** (Cronbach & Meehl → Messick, Borsboom). For the **experimental / causal-generalization** sense — correctly labeling the operations of an experiment — see [[Construct Validity (Causal Generalization)]] (Shadish, Cook & Campbell 2002). Both trace to Cronbach & Meehl (1955).
+
 ## Two Competing Definitions
 
 ### Interpretation Camp (Messick 1989; Kane 1992)

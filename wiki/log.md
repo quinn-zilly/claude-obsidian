@@ -19,6 +19,13 @@ Navigation: [[index]] | [[hot]] | [[overview]]
 
 Append-only. New entries go at the TOP. Never edit past entries.
 
+## [2026-07-06] batch ingest | Shadish, Cook & Campbell (2002) — validity typology (Ch. 2 & 3)
+- Sources: `.raw/Shadish et al. - 2002 - Statistical Conclusion Validity and Internal Validity.md`, `.raw/Shadish et al. - 2002 - Construct Validity and External Validity.md`
+- Summaries: [[shadish-cook-campbell-2002-statistical-conclusion-internal-validity]], [[shadish-cook-campbell-2002-construct-external-validity]]
+- Pages created: [[Validity Typology]], [[Statistical Conclusion Validity]], [[Internal Validity]], [[External Validity]], [[Construct Validity (Causal Generalization)]], [[Threats to Validity]], [[Causal Generalization]] (concepts, c-000876–882); [[William R. Shadish]], [[Thomas D. Cook]] (entities, c-000883–884); 2 sources (c-000874–875)
+- Pages updated: [[Construct Validity]] (+scope callout distinguishing psychometric vs causal-generalization sense), [[Open Science MOC]], [[index]], [[hot]]
+- Key insight: The two chapters give the canonical four-type validity framework. Sharpest wiki connection — SCC's *construct validity* (labeling experimental operations) is a different problem from the psychometric *construct validity* already in the vault (defending a test-score interpretation); both descend from Cronbach & Meehl 1955. Filed as parallel pages with a cross-scope callout rather than merging.
+
 ## [2026-07-06] ingest | Noe (2023) — Needs Assessment (Employee Training & Development 9e, Ch. 3)
 - Source: `.raw/Noe - 2023 - Needs Assessment.md`
 - Summary: [[noe-2023-needs-assessment]]
