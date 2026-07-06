@@ -1906,6 +1906,62 @@
         "wiki/mocs/Teams & Org Behavior MOC.md",
         "wiki/index.md"
       ]
+    },
+    ".raw/Tannenbaum and Wolfson - 2022 - Informal (field-based) learning..md": {
+      "hash": "5f97327792743e97f0fe32de02953e90",
+      "ingested_at": "2026-07-06",
+      "pages_created": [
+        "wiki/sources/tannenbaum-wolfson-2022-informal-field-based-learning.md",
+        "wiki/concepts/Informal Field-Based Learning (IFBL).md",
+        "wiki/entities/Mikhail A. Wolfson.md"
+      ],
+      "pages_updated": [
+        "wiki/entities/Scott I. Tannenbaum.md",
+        "wiki/mocs/Learning & Development MOC.md",
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md"
+      ]
+    },
+    ".raw/Alliger and Janak - 1989 - KIRKPATRICK'S LEVELS OF TRAINING CRITERIA THIRTY YEARS LATER.md": {
+      "hash": "7ad1d835b191427363d0d311dbd41d69",
+      "ingested_at": "2026-07-06",
+      "pages_created": [
+        "wiki/sources/alliger-janak-1989-kirkpatrick-levels-thirty-years-later.md",
+        "wiki/concepts/Kirkpatrick Level Intercorrelation Critique.md",
+        "wiki/entities/Elizabeth A. Janak.md"
+      ],
+      "pages_updated": [
+        "wiki/concepts/Kirkpatrick Four-Level Model.md",
+        "wiki/entities/George M. Alliger.md",
+        "wiki/mocs/Learning & Development MOC.md",
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md"
+      ]
+    },
+    ".raw/Noe - 2023 - Needs Assessment.md": {
+      "hash": "8d230d8c5cb079ca850e7b1a8fa19cf7",
+      "ingested_at": "2026-07-06",
+      "pages_created": [
+        "wiki/sources/noe-2023-needs-assessment.md",
+        "wiki/notes/Organizational Analysis (Training).md",
+        "wiki/notes/Person Analysis (Noe Model).md",
+        "wiki/notes/Task Analysis (Training).md",
+        "wiki/notes/Root Cause Analysis (Training).md",
+        "wiki/notes/Literacy Audit.md",
+        "wiki/notes/Motivation to Learn.md",
+        "wiki/notes/Readiness for Training.md"
+      ],
+      "pages_updated": [
+        "wiki/concepts/Training Needs Analysis.md",
+        "wiki/concepts/Competency Modelling.md",
+        "wiki/entities/Raymond A. Noe.md",
+        "wiki/mocs/Learning & Development MOC.md",
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md"
+      ]
     }
   },
   "address_map": {
@@ -2651,7 +2707,21 @@
     "wiki/entities/Tae-Youn Park.md": "c-000854",
     "wiki/entities/Bonjin Koo.md": "c-000855",
     "wiki/concepts/Organizational Identification (Outcomes).md": "c-000856",
-    "wiki/concepts/Attitude-Behavior Relations.md": "c-000857"
+    "wiki/concepts/Attitude-Behavior Relations.md": "c-000857",
+    "wiki/sources/tannenbaum-wolfson-2022-informal-field-based-learning.md": "c-000860",
+    "wiki/sources/alliger-janak-1989-kirkpatrick-levels-thirty-years-later.md": "c-000861",
+    "wiki/concepts/Informal Field-Based Learning (IFBL).md": "c-000862",
+    "wiki/concepts/Kirkpatrick Level Intercorrelation Critique.md": "c-000863",
+    "wiki/entities/Mikhail A. Wolfson.md": "c-000864",
+    "wiki/entities/Elizabeth A. Janak.md": "c-000865",
+    "wiki/sources/noe-2023-needs-assessment.md": "c-000866",
+    "wiki/notes/Organizational Analysis (Training).md": "c-000867",
+    "wiki/notes/Person Analysis (Noe Model).md": "c-000868",
+    "wiki/notes/Task Analysis (Training).md": "c-000869",
+    "wiki/notes/Root Cause Analysis (Training).md": "c-000870",
+    "wiki/notes/Literacy Audit.md": "c-000871",
+    "wiki/notes/Motivation to Learn.md": "c-000872",
+    "wiki/notes/Readiness for Training.md": "c-000873"
   },
   ".raw/Pearsall et al. - 2025 - A stimulus-based model of the team adaptation process An integrated conceptual review..pdf": {
     "hash": "62f683006d3323a67c67fc23621f632a",

@@ -19,6 +19,23 @@ Navigation: [[index]] | [[hot]] | [[overview]]
 
 Append-only. New entries go at the TOP. Never edit past entries.
 
+## [2026-07-06] ingest | Noe (2023) — Needs Assessment (Employee Training & Development 9e, Ch. 3)
+- Source: `.raw/Noe - 2023 - Needs Assessment.md`
+- Summary: [[noe-2023-needs-assessment]]
+- Pages created: [[Organizational Analysis (Training)]], [[Person Analysis (Noe Model)]], [[Task Analysis (Training)]], [[Root Cause Analysis (Training)]], [[Literacy Audit]], [[Motivation to Learn]], [[Readiness for Training]] (all in `wiki/notes/`; addresses c-000866–873)
+- Pages updated: [[Training Needs Analysis]] (+contradiction callout), [[Competency Modelling]], [[Raymond A. Noe]], [[Learning & Development MOC]], [[index]], [[hot]]
+- Key insight: Noe is the detailed *prescriptive* canon for needs assessment; flagged the tension with Bell et al. (2017)'s finding that the process is almost entirely unstudied empirically — same construct from opposite ends.
+
+## [2026-07-06] batch ingest | Informal learning + Kirkpatrick critique (Tannenbaum & Wolfson 2022, Alliger & Janak 1989)
+- Sources: `.raw/Tannenbaum and Wolfson - 2022 - Informal (field-based) learning..md`, `.raw/Alliger and Janak - 1989 - KIRKPATRICK'S LEVELS OF TRAINING CRITERIA THIRTY YEARS LATER.md`
+- Summaries: [[tannenbaum-wolfson-2022-informal-field-based-learning|Tannenbaum & Wolfson 2022]], [[alliger-janak-1989-kirkpatrick-levels-thirty-years-later|Alliger & Janak 1989]]
+- Concepts created: [[Informal Field-Based Learning (IFBL)]], [[Kirkpatrick Level Intercorrelation Critique]]
+- Entities created: [[Mikhail A. Wolfson]], [[Elizabeth A. Janak]]
+- Pages updated: [[Kirkpatrick Four-Level Model]], [[George M. Alliger]], [[Scott I. Tannenbaum]], [[Learning & Development MOC]], [[index]], [[hot]]
+- Addresses: sources c-000860/861, concepts c-000862/863, entities c-000864/865 (c-000858/859 consumed in setup, unused)
+- Key insight: Two ends of the L&D-evaluation story. Tannenbaum & Wolfson: most workplace learning is informal/self-directed (IFBL); the CAM-OS framework (Capability, Awareness, Motivation, Opportunity, Support) marks the actionable leverage points — with a real "dark side" of detrimental IFBL. Alliger & Janak: the Kirkpatrick hierarchy is largely assumed, not demonstrated — reactions correlate ≈ .07 with learning; this is the 1989 predecessor to the Alliger et al. 1997 augmented framework already in the wiki.
+
+
 ## [2026-07-06] batch ingest | 4 foundational papers — SCT/self-efficacy + metacognition + org identification
 - Sources: `.raw/Bandura - 2001 ...`, `.raw/Schunk and Usher - 2012 ...`, `.raw/Kruger and Dunning - 1999 ...`, `.raw/Lee et al. - 2015 ...`
 - Summaries: [[bandura-2001-social-cognitive-theory-agentic|Bandura 2001]], [[schunk-usher-2012-social-cognitive-theory-motivation|Schunk & Usher 2012]], [[kruger-dunning-1999-unskilled-and-unaware|Kruger & Dunning 1999]], [[lee-park-koo-2015-organizational-identification-meta-analysis|Lee, Park & Koo 2015]]

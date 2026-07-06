@@ -8,7 +8,7 @@ tags: [entity, person, I-O-psychology, training-evaluation, team-training]
 status: stub
 created: 2026-06-01
 updated: 2026-06-01
-related: ["[[George M. Alliger]]", "[[alliger-et-al-1997-training-criteria-meta-analysis]]", "[[Training Transfer]]"]
+related: ["[[George M. Alliger]]", "[[Mikhail A. Wolfson]]", "[[alliger-et-al-1997-training-criteria-meta-analysis]]", "[[tannenbaum-wolfson-2022-informal-field-based-learning]]", "[[Informal Field-Based Learning (IFBL)]]", "[[Training Transfer]]"]
 ---
 
 # Scott I. Tannenbaum
@@ -22,6 +22,7 @@ I-O psychologist and consultant; affiliated with Executive Consulting Group, Inc
 - Mathieu, Tannenbaum & Salas (1993): Individual/situational influences on training effectiveness
 - [[alliger-et-al-1997-training-criteria-meta-analysis]]: Co-author
 - [[bell-et-al-2017-100-years-training-development]]: Co-author (centennial JAP review)
+- [[tannenbaum-wolfson-2022-informal-field-based-learning|Tannenbaum & Wolfson (2022)]]: IFBL review + CAM-OS framework — *Annu. Rev. Organ. Psychol. Organ. Behav.* 9
 
 ## Contributions
 

@@ -29,14 +29,14 @@ The model's simplicity made it ubiquitous in business and academia. It addresses
 ## Critiques
 
 - **Too coarse**: Collapses meaningfully different constructs (e.g., affective vs. utility reactions; immediate learning vs. behavioral skill demo)
-- **Implicit causal chain assumption**: Suggests Reactions → Learning → Behavior → Results, but empirical evidence is weak ([[alliger-et-al-1997-training-criteria-meta-analysis]])
+- **Implicit causal chain assumption**: Suggests Reactions → Learning → Behavior → Results, but empirical evidence is weak ([[alliger-janak-1989-kirkpatrick-levels-thirty-years-later]], [[alliger-et-al-1997-training-criteria-meta-analysis]]). See [[Kirkpatrick Level Intercorrelation Critique]].
 - **Vague Level 4**: Boundary between Level 3 (Behavior) and Level 4 (Results) is ambiguous
 - Holton (1996) and Kraiger, Ford & Salas (1993) argue for fundamentally different models
 
 ## Empirical Status
 
 Meta-analyses consistently find only modest inter-level correlations:
-- Alliger & Janak (1989): original review; weak reactions→learning relationship
+- [[alliger-janak-1989-kirkpatrick-levels-thirty-years-later|Alliger & Janak (1989)]]: original review; weak reactions→learning relationship (r ≈ .07)
 - [[alliger-et-al-1997-training-criteria-meta-analysis]]: affective reactions ≈ 0 correlation with learning; utility reactions moderate correlates of transfer
 
 ## Integrations and Extensions

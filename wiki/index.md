@@ -39,6 +39,8 @@ Navigation: [[Home MOC]] | [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[
 
 ## Concepts
 
+- [[Informal Field-Based Learning (IFBL)]] — intentional, self-directed on-the-job learning; three behaviors (feedback/reflection, vicarious, experimentation) + CAM-OS readiness framework (developing)
+- [[Kirkpatrick Level Intercorrelation Critique]] — the four levels aren't a tight positive hierarchy; reactions ≈ independent (r ≈ .07 with learning) (developing)
 - [[Deliberate Practice]] — coach-designed, feedback-driven, effortful training (~4h/day cap); predicts attained level, not raw experience (Ericsson) (developing)
 - [[10-Year Rule]] — ~decade of intense preparation needed for international-level performance in any domain (developing)
 - [[Expert Performance (Ericsson Definition)]] — consistently superior performance on representative tasks, reproducible in the lab; dissociates expertise from experience (developing)
@@ -100,6 +102,13 @@ Navigation: [[Home MOC]] | [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[
 - [[Experience-Driven Development]] — outside-in model; training as catalyst for OJD; 90% outside-classroom; development continuum; Yost (2013) (status: evergreen)
 - [[Training as Catalyst (OJD)]] — design principle: build training to trigger/accelerate OJD rather than maximize in-class learning; pre/post catalyst patterns (status: developing)
 - [[Training Needs Analysis]] — identifying training needs; major empirical gap despite prescriptive importance; rapid needs assessment urgent (status: developing)
+- [[Organizational Analysis (Training)]] — context leg of needs assessment: strategy fit, support, buy-vs-build (status: developing)
+- [[Person Analysis (Noe Model)]] — who needs training; person char + input/output/consequences/feedback gap analysis (status: developing)
+- [[Task Analysis (Training)]] — task→KSAO mapping rated on importance/frequency/difficulty (status: developing)
+- [[Root Cause Analysis (Training)]] — is training even the right fix? 7 questions, 5 Whys, Fishbone, 4 Square (status: developing)
+- [[Literacy Audit]] — six-step basic-skills assessment procedure (status: seed)
+- [[Motivation to Learn]] — trainees' desire to learn; central mediator in Noe's model (status: developing)
+- [[Readiness for Training]] — personal characteristics + work environment prerequisites (status: seed)
 - [[Strategic Job Analysis (SJA)]] — future-oriented, strategy-linked JA; 4-step framework (env scan → current JA → gap analysis → validity eval); best fit for prospector orgs (status: developing)
 - [[KSA Framework]] — Knowledge/Skills/Abilities; traditional JA output; SJA shifts emphasis to broad enduring abilities (adaptability, learning agility, ambiguity tolerance) (status: developing)
 - [[Competency Modelling]] — behavioral competencies as bridge between JA and strategy; Siddique 2004 → org performance link (status: developing)
@@ -462,6 +471,8 @@ Navigation: [[Home MOC]] | [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[
 
 ## Entities
 
+- [[Mikhail A. Wolfson]] — management scholar (U. Kentucky); co-originator of the IFBL construct
+- [[Elizabeth A. Janak]] — I-O researcher (SUNY Albany); co-author of the 1989 Kirkpatrick-levels critique
 - [[K. Anders Ericsson]] — expertise researcher (FSU); originated deliberate-practice framework; skilled memory & LT-WM
 - [[Andreas C. Lehmann]] — music psychologist; expert sight-reading/accompaniment; co-author Ericsson & Lehmann (1996)
 - [[Herbert A. Simon]] — polymath (CMU); Nobel/Turing; bounded rationality; Chase & Simon chess chunking theory
@@ -611,6 +622,9 @@ Navigation: [[Home MOC]] | [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[
 
 ## Sources
 
+- [[noe-2023-needs-assessment|Noe (2023)]] — *Employee Training and Development* (9e), Ch. 3 | canonical practitioner model of **needs assessment**: organizational / person / task analysis; methods table; root cause analysis (7 questions, 5 Whys, Fishbone, 4 Square); literacy audit; competency models. Prescriptive counterpart to the empirical gap in [[Training Needs Analysis]] | 2026-07-06
+- [[tannenbaum-wolfson-2022-informal-field-based-learning|Tannenbaum & Wolfson (2022)]] — Annu. Rev. Organ. Psychol. Organ. Behav. | review of **informal field-based learning (IFBL)**; CAM-OS framework (Capability, Awareness, Motivation, Opportunity, Support); four dimensions of opportunity; dark side of detrimental IFBL; FLNA + Red-Yellow-Green tools | 2026-07-06
+- [[alliger-janak-1989-kirkpatrick-levels-thirty-years-later|Alliger & Janak (1989)]] — Personnel Psychology | first systematic critique of Kirkpatrick's four levels; three implicit assumptions (ascending value, causal chain, positive manifold) tested against 12 studies / 26 correlations; reactions–learning r ≈ .07; predecessor to Alliger et al. 1997 | 2026-07-06
 - [[leslie-et-al-2020-diversity-ideologies-meta-analysis|Leslie, Bono, Kim & Beaver (2020)]] — Journal of Applied Psychology | meta-analysis (k=296) of four **diversity ideologies** × four intergroup outcomes; multiculturalism most consistently improves relations, assimilation most consistently harms; colorblindness & meritocracy help on some outcomes, hurt on others; all identity-blind ideologies reduce policy support | 2026-07-06
 - [[costa-2024-discrimination-interventions|Costa (2024)]] — Journal of Applied Psychology | meta-analysis (70 articles / 208 ES) of bias interventions via **attitude dimension consistency**; passive education ineffective; accountability (g=.80) & social-norm change (g=.58) most effective at reducing workplace discrimination; overall g≈.27 | 2026-07-06
 - [[mathieu-et-al-2017-century-work-teams|Mathieu, Hollenbeck, van Knippenberg & Ilgen (2017)]] — Journal of Applied Psychology (Centennial) | a century of work teams in JAP: shift from individuals-within-teams to the team itself and multiteam systems; three substantive themes (tasks/structure, composition, processes/emergent states); task scope × complexity; skill & authority differentiation; **IPO → IMOI** evolution; multiple-constituencies effectiveness | 2026-07-03

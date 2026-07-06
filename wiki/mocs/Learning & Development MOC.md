@@ -10,7 +10,7 @@ related:
   - "[[Teams & Org Behavior MOC]]"
   - "[[Open Science MOC]]"
 status: developing
-updated: 2026-06-07
+updated: 2026-07-06
 ---
 
 # Learning & Development — Map of Content
@@ -50,8 +50,14 @@ This cluster maps how people learn, how training works (and transfers), and how 
 - [[Transfer of Training]]
 - [[Training Context and Transfer Climate]]
 - [[Training Needs Analysis]]
+- [[noe-2023-needs-assessment|Noe (2023): Needs Assessment, Ch. 3]] — the prescriptive canon
+- [[Organizational Analysis (Training)]] · [[Person Analysis (Noe Model)]] · [[Task Analysis (Training)]] — the three analyses
+- [[Root Cause Analysis (Training)]] — is training even the right fix?
+- [[Competency Modelling]] · [[Literacy Audit]] · [[Motivation to Learn]] · [[Readiness for Training]]
 - [[Instructional Design]]
 - [[Kirkpatrick Four-Level Model]]
+- [[Kirkpatrick Level Intercorrelation Critique]] — levels aren't a tight hierarchy; reactions ≈ independent
+- [[alliger-janak-1989-kirkpatrick-levels-thirty-years-later|Alliger & Janak (1989): Kirkpatrick's Levels, Thirty Years Later]]
 - [[alvarez-et-al-2004-training-evaluation-effectiveness|An Integrated Model of Training Evaluation and Effectiveness]]
 - [[arthur-et-al-2003-training-meta-analysis|Effectiveness of Training in Organizations: A Meta-Analysis of Design and Evaluation Features]]
 - [[bell-et-al-2017-100-years-training-development|100 Years of Training and Development Research: What We Know and Where We Should Go]]
@@ -60,6 +66,8 @@ This cluster maps how people learn, how training works (and transfers), and how 
 ## On-the-job development
 
 - [[Experience-Driven Development]]
+- [[Informal Field-Based Learning (IFBL)]] — intentional, self-directed on-the-job learning; CAM-OS framework
+- [[tannenbaum-wolfson-2022-informal-field-based-learning|Tannenbaum & Wolfson (2022): Informal (Field-Based) Learning]]
 - [[On-the-Job Development]]
 - [[Training as Catalyst (OJD)]]
 - [[70-20-10 Rule]]

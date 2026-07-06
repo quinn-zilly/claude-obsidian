@@ -1,0 +1,1466 @@
+## Page 1
+
+61:33:02
+5202
+tcO
+61
+,uhT
+:nO
+451.57.12.471
+:PI
+)tseug(
+tseuG
+.gro.sweiverlaunna.www
+morf
+dedaolnwoD
+Annual Review of Organizational Psychology and
+Organizational Behavior
+Informal (Field-Based)
+Learning
+Scott I.Tannenbaum1 and Mikhail A.Wolfson2
+1TheGroupforOrganizationalEffectiveness,Albany,NewYork,USA;
+email:scott.tannenbaum@groupoe.com
+2DepartmentofManagement,GattonCollegeofBusinessandEconomics,Universityof
+Kentucky,Lexington,Kentucky,USA;email:mikhail.wolfson@uky.edu
+Annu.Rev.Organ.Psychol.Organ.Behav.2022. Keywords
+9:391–414
+informallearning,on-the-joblearning,employeedevelopment,learning,
+FirstpublishedasaReviewinAdvanceon
+field-basedlearning
+October12,2021
+TheAnnualReviewofOrganizationalPsychologyand Abstract
+OrganizationalBehaviorisonlineat
+orgpsych.annualreviews.org Most learning in the workplace occurs outside of formal learning
+environments—ithappensinformally,“inthefield.”Inthisreview,weshare
+https://doi.org/10.1146/annurev-orgpsych-012420-
+083050 whatisknownabouthowsuchinformalfield-basedlearning(IFBL)works,
+offerguidanceonhowtopromotehealthyIFBL,andidentifyfutureresearch
+Copyright©2022byAnnualReviews.
+Allrightsreserved needs.WefirstsituateIFBLwithinthebroaderstreamofthelearninglit-
+erature.Onthebasisoftheliteratureandorganizationalneeds,wepropose
+aCAM-OSframeworkthatemphasizesfivepersonalandsituationalreadi-
+ness factors for enabling constructive IFBL: Capability,Awareness,Moti-
+vation,Opportunity,andSupport.Weusetheframeworktoofferpractical,
+evidence-basedadviceforeachofthreestakeholdergroups—seniorleaders,
+managers,andemployees—andconcludewithsuggestedavenuesforfuture
+research.Thereviewisgroundedintheresearchliteraturewithanemphasis
+onimplicationsforpractice.
+391
+
+## Page 2
+
+61:33:02
+5202
+tcO
+61
+,uhT
+:nO
+451.57.12.471
+:PI
+)tseug(
+tseuG
+.gro.sweiverlaunna.www
+morf
+dedaolnwoD
+INTRODUCTION
+To remain competitive in today’s dynamic work environment, organizations need to continu-
+allyenhancetheiremployees’competenciesandcapabilities.Traditionally,organizationshaveat-
+temptedtodothisbyinvestingprimarilyinformaltraininganddevelopment(T&D)activities.
+Forexample,in2018,USorganizationsspentanestimated$204billiononformalT&D(ATD
+2019).AlthoughT&Dcanplayacriticalroleinimprovingindividual,team,andorganizational
+performance(Belletal.2017),asubstantialproportionofworkplacelearninghappensinformally.
+Estimateshaverangedfrom70%(Bearetal.2008)tomorethan90%ofcompetencyacquisition
+occurringthroughinformalmeans(Flynnetal.2006,Tannenbaum1997).Althoughthespecific
+percentagesmaybedebatable,clearlyemployeesperceivethatthemajorityoftheirlearninghap-
+pensoutsideofformalT&D,withmanyreportingthatinformallearningisadailyexperience(De
+Grip2015).
+Asorganizationsbegantoacknowledgethatinformallearningplaysakeyroleinremaining
+competitive(Roy2010),researchonthetopicincreasedaswell.Figure1showsafrequencygraph
+ofinformallearningarticlespublishedfrom1970to2020.Notably,therehasbeengrowinginter-
+estininformallearning,particularlybeginningintheearly2000sandacceleratingexponentially
+since.OnepotentialreasonforthisgrowthistheideathatIFBLcanbealow-costalternativeto
+orusedinconjunctionwithformalT&D(Wolfsonetal.2018).Althoughresearchhasshownthat
+informallearningisclearlyvaluable(Cerasolietal.2018),andwecanofferusefuladvicebasedon
+thatresearch,asafieldwearejustbeginningtolearnhowitworksandwhatfactorscontribute
+toitssuccess.Additionalresearchneedstobeconductedtofurtherunderstandtheantecedents,
+consequences,and enabling factors facilitating individuals’ engagement in and ultimate benefit
+fromIFBL(Wolfsonetal.2018).
+INTENTANDSCOPEOFTHISREVIEW
+Inthisreview,wefocusoninformalfield-basedlearning(IFBL),whichisdefinedas“engaging
+inintentional,self-directedbehavioraimedatlearningnew,workoriented,andorganizationally
+valuedcontentoutsideofaformallearningprogram”(Wolfsonetal.2018,p.16).Wesharewhat
+is known about how IFBL works,offer guidance on how to promote healthy IFBL,and iden-
+tifywherefutureresearchwouldbemostbeneficial.Toaccomplishthis,wefirstdefineIFBLand
+900
+800
+700
+600
+500
+400
+300
+200
+100
+0
+1970 1975 1980 1985 1990 1995 2000 2005 2010 2015 2020
+Year
+selcitra
+dehsilbup
+fo
+rebmuN
+Figure1
+Frequencygraphofinformallearningarticlesfrom1970through2020showinggrowinginterestininformal
+learning,particularlybeginningintheearly2000sandacceleratingexponentiallysince.
+392 Tannenbaum (cid:129)Wolfson
+
+## Page 3
+
+61:33:02
+5202
+tcO
+61
+,uhT
+:nO
+451.57.12.471
+:PI
+)tseug(
+tseuG
+.gro.sweiverlaunna.www
+morf
+dedaolnwoD
+explainhowitfitsinthebroaderstreamofthelearningliterature,usingathree-dimensionaltax-
+onomythatsituatesIFBLamongrelatedconstructs.Second,weproposeaCAM-OSframework
+that is based on the literature and incorporates common organizational dynamics.The frame-
+workemphasizesfivefactors(Capability,Awareness,Motivation,Opportunity,andSupport)that
+arepotentialleveragepointsforenablingeffectiveIFBL.Indescribingtheframework,wehigh-
+lightrepresentativeresearch,expandingonrecentreviewsoflearning(e.g.,Noeetal.2014),but
+ourreviewisintentionallyselectiveratherthancomprehensive.Third,weconsiderIFBLthrough
+thelensofthreekeystakeholdergroups—seniorleaders,managers,andemployees—andusethe
+CAM-OSframeworktoofferpractical,evidence-basedadviceforeachgroup.Finally,wesuggest
+avenuesforfutureresearch.Thereviewisgroundedintheresearchliteraturewithanemphasis
+onimplicationsforpractice.
+WHATISINFORMALFIELD-BASEDLEARNINGANDWHY
+ISITIMPORTANT?
+Toappreciate the nature and value of IFBL,we should understand where it fits in the broader
+schemeoflearningandT&D.Ashighlightedinmanyrecentarticles,aplethoraofrelatedcon-
+structshavebeenintroducedinthisspace(e.g.,Aguinis&Kraiger2009,Noeetal.2014,Wolfson
+etal.2018).Wolfsonetal.(2018)proposedasubsetofinformallearningthattheytermedIFBLand
+definedas“engaginginintentional,self-directedbehavioraimedatlearningnew,workoriented,
+andorganizationallyvaluedcontentoutsideofaformallearningprogram”(p.16).Theyproposed
+thatIFBLconsistsofthreesubdimensionsortypesoflearningbehaviors:(a)seekingfeedbackand
+reflection-basedlearning,(b)vicariouslearning,and(c)learningthroughexperimentationandnew
+experiences.
+Aspartoffeedbackandreflection-basedlearning,individualsmayactivelyseekfeedbackfrom
+others;seekandreceivecoachingoradvicefromexperts;andthinkabout,debrief,ordiscusson-
+the-jobexperiences.Vicariouslearningcanoccurbyintentionallyobservingothersdoingtheir
+job,askingquestionsofexperts,orhavingsomeonedemonstratehowtoperformatask.Finally,
+learningthroughexperimentationandnewexperiencescanoccurbyperformingataskinnovel
+ways;activelyseekingandexperiencingnovelassignments,tasks,orsituations;orthroughtrial-
+and-errorapproachesinanattempttofindneworimprovedsolutions.Inthisreview,weadopt
+Wolfsonetal.’s(2018)definitionofIFBLandtheircategorizationofIFBLbehaviors.
+HowdoesthisviewofIFBLfitintothelargerconstructspace?Wolfsonetal.(2018)described
+various types of learning constructs as occurring across three continua: (a) informal–formal,
+(b) intentional–incidental, and (c) self-directed–other-directed. To reconcile IFBL with related
+constructs,weadvanceanorganizingframeworkthatbuildsonCerasolietal.(2014)andWolfson
+etal.(2018)andconsidersthevariouswaysresearchershavediscussedlearningacrossthosedi-
+mensions.InFigure2,weofferavisualdepictionsituatingvariouslearningconstructsinathree-
+dimensionalspace,withdefinitionspresentedintheAppendix.
+FormalVersusInformal
+Thefirstcontinuumconsiderslearningthatrangesfromformaltoinformal,withformallearn-
+ing having greater structure and defined consistency,for example,by pre-establishing learning
+goals, learning experiences, and timing. Training resides on the formal end of the continuum
+andisintendedtoservetheorganizationstrategicallythroughanemphasisontheacquisitionof
+knowledge,skills,abilities,and other characteristics (KSAOs) that can boost organizational ef-
+fectiveness (Kraiger & Ford 2006).Other constructs,such as on-the-job training (Rothwell &
+www.annualreviews.org (cid:129) Informal(Field-Based)Learning 393
+
+## Page 4
+
+61:33:02
+5202
+tcO
+61
+,uhT
+:nO
+451.57.12.471
+:PI
+)tseug(
+tseuG
+.gro.sweiverlaunna.www
+morf
+dedaolnwoD
+Other-directed Self-directed
+Formal training
+and development
+CCoonnttiinnuuoouuss lleeaarrnniinngg
+OOnn--tthhee--jjoobb AAccttiioonn lleeaarrnniinngg SSeellff--ddiirreecctteedd
+ttrraaiinniinngg SSoocciiaall lleeaarrnniinngg lleeaarrnniinngg
+Intentional SSeellff--rreegguullaatteedd
+lleeaarrnniinngg
+Coactive
+vicarious learning
+Informal
+field-based learning
+EExxppeerriieennttiiaall
+lleeaarrnniinngg
+IIInnnfffooorrrmmmaaalll
+llleeeaaarrrnnniiinnnggg
+Formal
+Incidental
+learning
+Incidental
+Informal
+Figure2
+Visualdepictionsituatingvariouslearningconstructsinathree-dimensionallearningspace.Learningtypes
+varyalongthedimensionsofformaltoinformal,other-directedtoself-directed,andincidentalto
+intentional,withinformalfield-basedlearningbeinginformal,self-directed,andintentional.Figureadapted
+fromCerasolietal.(2014)andWolfsonetal.(2018).
+Kazanas1994),actionlearning(Yorksetal.1999),continuouslearning(London&Sessa2006),
+self-directedlearning(Clardy2000),self-regulatedlearning(Sitzmann&Ely2011),andexperi-
+entiallearning(Bandura1962),mayincorporateaspectsofformalandinformallearning,andthus
+residetowardthemiddleofthiscontinuum.Forexample,continuouslearningcanbestimulated
+byT&Dactivities(moreformal)orbysimplyobservingothers(moreinformal).
+Other-DirectedVersusSelf-Directed
+Alongtheother-versusself-directedlearningcontinuum,learningdiffersintermsofwhostruc-
+tures and directs the learning. Formal T&D as well as on-the-job training tend to be other-
+directed,assupervisorsoranorganization’slearninganddevelopmentfunctionestablishthecon-
+tent and delivery of the learning material. Continuous learning, action learning, and informal
+learning(Marsicketal.1999)tendtotraversetheother-versusself-directedcontinuum.Forex-
+ample,withinformallearning,anindividualcouldengageinobservationattheirowndiscretion
+ormightbeofferedanopportunitytoobservesomeone.Towardtheself-directedendofthecon-
+tinuumthereisalsoself-regulatedlearning,experientiallearning,andcoactivevicariouslearning.
+Coactivevicariouslearningisa“discursivelearningprocesswhereindividuals(i.e.,amodeland
+learner)intentionallyshareandjointlyprocessamodel’sworkexperience(s)ininterpersonalin-
+teractions to construct an emergent,situated understanding of the experience(s)”(Myers 2018,
+pp.613–614).
+394 Tannenbaum (cid:129)Wolfson
+
+## Page 5
+
+61:33:02
+5202
+tcO
+61
+,uhT
+:nO
+451.57.12.471
+:PI
+)tseug(
+tseuG
+.gro.sweiverlaunna.www
+morf
+dedaolnwoD
+IntentionalVersusIncidental
+Thefinalcontinuumrangesfromintentionaltoincidental,wherelearningdiffersintheintention-
+alityorserendipitywithwhichitoccurs.Incidentallearningcanbeviewedasasubsetofinformal
+learningbutisoutsideourdefinitionofIFBL.Incidentallearninggenerallyhappenswithoutfore-
+thoughtandattimeswithoutawareness,asaby-productofotheractivities(Watkins&Marsick
+1992).Experientiallearning,workplacelearning,andinformallearningcanoftenhavebothinten-
+tionalandincidentalelementstothem,asaneventthattriggerslearningmayoccurintentionally
+ornot.Severaloftheotherlearningconstructsthatwealludedtopreviouslyfallontheintentional
+endofthecontinuum,includingsociallearning(Bandura1962),continuouslearning,actionlearn-
+ing,formalT&D,on-the-jobtraining,self-directedlearning,self-regulatedlearning,andcoactive
+vicariouslearning.
+IFBL,as Wolfson et al.(2018) defined it,resides toward the informal,self-directed,and in-
+tentionalendsoftheirrespectivecontinua.Theinclusionofintentionalitydifferentiatesitfrom
+someothertypesofinformallearningthatcanhaveamoreincidentalorevenunconsciousaspect
+tothem(Tannenbaumetal.2010).Wehaveadoptedthisfocusbecauseintentionalityallowsin-
+dividualsandorganizationsaliketobemorepurposefulintheirapproachtoinformallearning,
+ratherthanhopingitoccursserendipitously.Stateddifferently,viewingIFBLasanintentional,
+self-directed,informalwayoflearningacknowledgestheactive,consciousroleanemployeetakes
+inmuchoftheirlearning,whileholdingopenthepotentialfortheorganizationtosupport,en-
+courage,andenableemployeestodosomoreeffectively.Itsuggeststhatitispossibletopromote
+constructiveIFBLwithoutexhibitingthesamedegreeoforganizationalcontrolassociatedwith
+formal T&D experiences.We next turn to our organizing framework of IFBL that highlights
+howsituationalandpersonalfactorsinfluencewhoengagesinIFBLbehaviorsandwhetherthose
+behaviorsarefruitful.
+CAM-OS:ANORGANIZINGFRAMEWORKOFINFORMAL
+FIELD-BASEDLEARNING
+We developed the CAM-OS framework,depicted in Figure 3,to organize and describe what
+is currently known about IFBL,including various antecedents or prerequisites that can enable
+IFBLbehaviorsanddesiredoutcomes.Theframeworkalsoclarifieswhereactionscanbetaken
+toenhanceconstructiveIFBL.ThemodelincorporatesthethreemaintypesofIFBLbehaviors
+alongwithseveralcommon,desirableoutcomes(showningreen).Someoftheoutcomesclearly
+benefit the learner,such as learning,career progression,and affect (e.g.,improved job satisfac-
+tion);somecanprovideabenefittotheorganization,suchasenhancedperformanceandabetter
+talent pipeline.But not all IFBL behaviors lead to these constructive outcomes.Although the
+consequencesofIFBLareusuallypositive,attimesunforeseenmisstepsmayoccur.Consider,for
+example,anemployeewhodecidestoinformallytryanewtechniquethatcreatesasafetyhazard
+forhiscoworkers.
+TheextenttowhichemployeesengageinIFBLbehaviorsandwhetherthosebehaviorsyield
+desired outcomes is a function of both personal readiness (Capability,Awareness,and Motiva-
+tion)andsituationalreadiness(OpportunityandSupport).Understandingthesefiveactionable
+readiness factors (shown in orange) can help clarify where and how to promote constructive
+IFBL. In addition, the research suggests that a few relatively stable individual characteristics
+(showningray)caninfluencewhetheremployeesaremorelikelytoengageinIFBLbehaviors,
+butcharacteristicssuchaspersonalityandpropensityarelessactionablethanthefivereadiness
+factors.
+www.annualreviews.org (cid:129) Informal(Field-Based)Learning 395
+
+## Page 6
+
+61:33:02
+5202
+tcO
+61
+,uhT
+:nO
+451.57.12.471
+:PI
+)tseug(
+tseuG
+.gro.sweiverlaunna.www
+morf
+dedaolnwoD
+Situational readiness
+(O)pportunity (S)upport
+Barren Rich Work environment
+No slack Lots of slack Leader support
+Fixed Malleable Peer support
+Detrimental Constructive Organization practices
+Individual characteristics Personal readiness IFBL behaviors Outcomes
+Personality (C)apability Feedback/reflection Learning
+Propensity (A)wareness Vicarious learning Career progression
+(M)otivation Experimentation/ Affect
+new experiences Performance
+Talent pipeline
+Figure3
+Organizingframework:informalfield-basedlearning(IFBL)andCapability,Awareness,Motivation,Opportunity,andSupport
+(CAM-OS).
+The constructs described in the CAM-OS framework are not unique to IFBL. They also
+appearinthestrategichumanresourcemanagement(HRM)literature[comparewiththeability,
+motivation,opportunityframework(Jiangetal.2012)],theformaltrainingliterature[compare
+with science of training (Salas et al. 2012)], and even the education literature (compare with
+Ambrose et al.2010).However,the nature and relative emphasis of the constructs differ in an
+IFBLcontext,aswehighlightlater.
+OutcomesofInformalField-BasedLearning
+Meta-analytic analyses have shown that,on average,informal learning is positively related to a
+wide range of desirable affective,cognitive,and performance-related outcomes (Cerasoli et al.
+2018). From an affective standpoint, engaging in informal learning behaviors has been linked
+to increased task satisfaction (Jeon & Kim 2012),affective enjoyment and overall job satisfac-
+tion(Rowden2002),andimprovedattitudesandlowerjobinsecurity(Sandersetal.2011).Yoon
+et al. (2018) found that informal learning influences organizational commitment through im-
+proved self-efficacy. Others have shown that informal learning can increase work engagement
+(Susomrith&Coetzer2019,Uhunomaetal.2021).Furthermore,informallearningcanincrease
+teammembers’subsequentteamcommitment,abovethatattributabletoindividualpredisposi-
+tions(Kukenbergeretal.2015).
+Intermsofcognitiveoutcomes,informallearninghasbeenshowntoincreaseknowledgeand
+skill acquisition. For instance, Froehlich et al. (2014) demonstrated that engaging in informal
+learningcanincreasecoreskillsaswellasmoredistalperceivedcareerdevelopment.Additionally,
+Matsuo&Nakahara(2013)foundthatinformallearningisassociatedwithincreasedknowledge
+396 Tannenbaum (cid:129)Wolfson
+
+## Page 7
+
+61:33:02
+5202
+tcO
+61
+,uhT
+:nO
+451.57.12.471
+:PI
+)tseug(
+tseuG
+.gro.sweiverlaunna.www
+morf
+dedaolnwoD
+acquisitionandknowledgesharing.Fromaperformancestandpoint,informallearningandIFBL
+have generally been positively linked to performance improvements (e.g.,Wolfson et al.2018,
+2019).Strategically,ifIFBLboostsattitudes,knowledge,andperformance,itshouldpromotethe
+establishment of a healthy talent pipeline and a pool of ready successors (Brymer et al. 2019,
+Ployhartetal.2011).
+IFBLoutcomesconclusion.EngaginginIFBLtypicallyresultsinpositiveoutcomes,butnotalways,
+asdoingsomayprohibitanemployeefromcompletingtheirassignedworkontime,createsafetyrisks,
+beperceivedasoverreach,orincreasestress.ItisimportanttodifferentiateIFBLopportunitiesthat
+areconstructivefromthosethataredetrimental.
+IndividualCharacteristics
+Cerasoli et al.’s (2018) meta-analysis examined a variety of individual characteristics that could
+influenceinformallearning.Theyandothershavefoundfewconsistenteffectsforemployeede-
+mographics.For instance,Berg & Chyung (2008) showed a positive effect for age on informal
+learning,whereas Livingstone & Stowe (2007) found a negative one.Bednall et al.(2014) and
+Berg&Chyung(2008)foundthatfemalesmorereadilyengagedininformallearning,butWolfson
+etal.(2018)foundtheoppositeorinsignificanteffects.Thusfar,itdoesnotappearthatsurface
+demographicsplayaconsistent,meaningfulroleinIFBL.
+There are,however,at least two relatively stable personal predispositions that appear to be
+relatedtoIFBL:learninggoalorientation(LGO)andpromotionfocus.Employeeswithalearning
+goal orientation are more interested in improving than in appearing competent and are more
+likelytoengageinIFBLbehaviors(Choi&Jacobs2011).LGOappearstoaffectIFBLinseveral
+ways.Matzler&Mueller(2011)foundthatalearningorientationpositivelyinfluencedknowledge
+sharing,whereasaperformanceorientationnegativelyinfluencedit.Wongetal.(2012)suggested
+thatindividualswithahighLGOshouldbemorelikelytoreflectonexperiences(akeyactivityin
+informallearning)inausefulmannerandlearnmorefromthem.
+Regulatory focus captures how individuals self-regulate in goal pursuits and is composed of
+preventionfocusandpromotionfocus(Higgins1997).Preventionfocusactsasamotivatorbyen-
+couraginglossprevention,whereaspromotionfocusactivatesgain-seeking.Wolfsonetal.(2018,
+2019)demonstratedthatpromotionfocuswaspositivelyrelatedtoengaginginIFBL,butpreven-
+tionfocuswasnotsignificantlyrelated.
+Althoughresearchershavesuggestedexploringtheroleofpersonalityininformallearning,in
+particularthepersonalitytraitofopennesstoexperience,theevidencehasbeenthusfarincon-
+clusive(Noeetal.2013).However,opennesstoexperiencemayindirectlyleadtoIFBLthrough
+othermoreproximalpredictorssuchasmotivationtolearn,trainingproficiency,andparticipa-
+tioninactivelearningandself-developmentactivities(Barrick&Mount1991,Colquittetal.2000,
+Majoretal.2006,Orvis&Leffler2011).Aspropensitiesandpersonalityarerelativelystablein
+nature,they are more difficult to change than the personal readiness factors we discuss below,
+suchasmotivation.Nonetheless,itishelpfultoknowthatalthoughanyemployeemayengage
+inIFBLundertherightcircumstances,someindividualsmaygravitatetowardlearningactivities
+morereadilythanothersduetotheirnaturalpropensities.
+Individualcharacteristicsconclusion.Currentlythereisrelativelylittleevidencethatdemographics
+orpersonalitytraitsdirectlyimpactIFBL,butpropensitiessuchasLGOmay.Ifanorganizationis
+keenlyinterestedinstimulatingIFBL,theymightconsiderhiringmoreemployeeswhopossessthese
+propensities,butingeneral,propensitiesarelessactionablethanthefivereadinessfactorswediscuss
+next.
+www.annualreviews.org (cid:129) Informal(Field-Based)Learning 397
+
+## Page 8
+
+61:33:02
+5202
+tcO
+61
+,uhT
+:nO
+451.57.12.471
+:PI
+)tseug(
+tseuG
+.gro.sweiverlaunna.www
+morf
+dedaolnwoD
+PersonalandSituationalReadinessFactors
+Although additional research is needed to understand the antecedents, dynamics, and conse-
+quences ofIFBLmorefully,existingresearchreveals someusefulinsightswithwhichtoguide
+practiceinorganizationalsettings.Althoughinformallearningisbydefinitionlessstructuredand
+organizationallydriventhanformaltraining,thatdoesnotmeananorganizationorleadermust
+“letthechipsfallwheretheymay.”Armedwithwhatisknown,IFBLcanandshouldbeencour-
+aged,guided,andfacilitatedsuchthatemployeesaremorelikelytoengageinIFBLbehaviorscon-
+structively,successfully,andatappropriatetimes.Althoughresearchersmayunderstandablyseek
+todifferentiateformalandinformallearning,inworksettingstherecanbeablurryorsemiperme-
+ableborderbetweenthem,forexample,byusingtraining,coaching,ortoolstoprepareemployees
+forinformallearning.
+AswereviewedthetheoriesandresearchrelatedtoIFBL(e.g.,Cerasolietal.2018;Noeetal.
+2014;Tannenbaumetal.2010;Wolfsonetal.2018,2019)andconsideredthenatureofthework-
+place,weidentifiedfiveessentialfactorsforoptimizingandpromotingIFBL.Asreflectedinthe
+CAM-OSframework,threeofthesefactorsareattheindividuallevel,orlearnerrelated(Personal
+Readiness:Capability,Awareness,Motivation),andtwoofthefactorsareorganizationalinnature
+(SituationalReadiness:Opportunity,Support).Wedescribeeachofthesebelow,andthenusethe
+frameworktoofferactionableadviceforthethreestakeholdergroupsdiscussedpreviously:senior
+leadership,teamleaders/managers,andindividuallearners.
+PersonalReadiness
+Unlikemandatorytraining,engagingininformallearningisadiscretionaryact.Bydefinition,a
+learnerhasmorecontrolregardingIFBLthantheydoinformaltraining,sotheemployeeplays
+anoversizedroleinwhetherandhowIFBLhappens.Wesuggestthatthreemainfactorscombine
+toestablishpersonalreadiness:capability,awareness,andmotivation.Areemployeescapableof
+gettingthemostoutofpotentiallearningopportunities,dotheyknowwhereandwhattolearn
+(andwhattoavoid),andaretheymotivatedtoengageinIFBL?
+Capability.ThefirstpersonalcomponentthatcandriveIFBLiscapability,whichreferstocom-
+petencies that enable employees to gain the most from informal learning opportunities.When
+placed in a new job or situation,some employees seem to readily engage in constructive IFBL
+behaviorsandrapidlyget“uptospeed.”Givenequalopportunitiesandmotivation,someindi-
+viduals will learn more than others.General mental ability (GMA) could play a salient role,as
+ithasbeenpositivelylinkedwithtrainingoutcomes(Colquittetal.2000);however,othershave
+foundnegativerelationshipsbetweenGMAandinformallearningandhavespeculatedthatthose
+withhigherGMAmaybelesslikelytorecognizethepotentialvalueofinformallearning(Noe
+etal.2013).RatherthanfocusingonGMAspecifically,asitisunlikelytobeactionable,wewould
+suggestthatoneshouldfocusondevelopingorteachinginformallearningskills.
+What types of competencies should enable an employee to be a more capable field-based
+learner? As IFBL often involves observing and talking with others, it should be advantageous
+tolearntobeamoreskilledobserverandabetterquestionasker.AsIFBLoftenreliesondoing
+somethingnewordifferent,anditisdifficulttolearninthoseinstanceswithoutfeedback,employ-
+eescouldbenefitfromlearninghowtoseek,accept,andevenencouragefeedbackfromothers.
+Finally,fasterlearnersseemtohavegreaterself-awarenessanddealwiththeirmistakesmorecon-
+structively,someta-cognitiveandself-reflectionskills(Svenssonetal.2004),alongwithinsights
+about learning from errors (Katz-Navon et al.2009),should boost an employee’s capability to
+learnfromon-the-jobexperiences.
+398 Tannenbaum (cid:129)Wolfson
+
+## Page 9
+
+61:33:02
+5202
+tcO
+61
+,uhT
+:nO
+451.57.12.471
+:PI
+)tseug(
+tseuG
+.gro.sweiverlaunna.www
+morf
+dedaolnwoD
+Awareness.Inaformaltrainingprogram,learningobjectivesandinstructionalelementsaretyp-
+ically specified inadvance and trainees are guided througha series of instructionalexperiences
+(Kraiger&Ford2021).Traineesareallawarethattheyareintraining,andmostofthemknow
+whatthatexperiencewillentail.Incontrast,employeeswhopartakeinIFBLdonothaveaspecified
+curriculumoracommonsequenceofactivitiestheyexperience.Employeescanhaveverydifferent
+perceptionsabouttheavailabilityandutilityoffield-basedlearningopportunitiesandpossessadif-
+ferentunderstandingabouthowtheyshouldapproachinformallearning.Althoughsomelearning
+canoccurincidentally,intentionalIFBLrequiresawarenessonthepartofthelearner.Employees
+shouldbemorelikelytoengageinconstructiveIFBLbehaviorswhentheyareawareofpotential
+learningopportunities—knowingwhat,when,andhowtolearnintheirworkenvironment,in-
+cludingthetypesofopportunitiesthatmaybeavailableorcreatable.Collectivelythisawareness
+canbethoughtofaslearningattunement.Above,wenotedthatalthoughIFBLusuallyleadsto
+positiveoutcomes,therearetimeswhenengaginginIFBLcanbeineffectualorevendetrimental.
+Forthatreason,employeescannotonlybenefitfromanawarenessofwhereandhowtheymaybe
+abletoengageinhealthyIFBL,buttheyshouldalsobeawareofthelandminestoavoid.
+Motivation.Twoemployeeswhoworkinthesameenvironmentarelikelytoengageindifferent
+amounts of informal learning because of motivational differences (Colquitt et al.2000).In the
+IFBLcontext,motivationmanifestsasawillingnesstofindandengageinlearningopportunities,
+toexertdiscretionaryefforttoseekopportunities,experiment,andaskforfeedback.Motivationto
+engageinIFBLcanberelatedtothepersonalpredispositionswementionedabove,suchasLGO
+(Choi & Jacobs 2011).Additionally,more curious individuals more readily engage in informal
+learning(Lohman2009).ButmotivationtoengageinIFBLisnotsimplyafunctionofpersonal-
+ityorpropensities.Motivationtolearncanebbandflowmorereadilyandismoresituationally
+influencedthanpersonality(Kleinetal.2006).MotivationtoengageinIFBLmaybeboostedby
+encouragementfrompeersandleaders,targetedorganizationalpractices,perceivedpsychological
+safety,and seeing others who actively engage in IFBL be rewarded.When employees perceive
+strongsupportforlearning,theyarelikelytoexhibitgreatermotivationtolearn(Al-Eisaetal.
+2009).
+Althoughwehavedescribedthesethreepersonalcomponentsseparately,theylikelyworkin
+tandem.AdeficiencyinanyofthethreecouldhinderIFBL,butitisalsolikelythatpossessing
+twoofthesecomponentscouldincreasethelikelihoodofdevelopingthethird.Weproposethe
+following:
+(cid:2) A capable and motivated learner is more likely to actively seek out and become aware of
+learningopportunities.
+(cid:2) AcapableandawarelearnerismorelikelytobemotivatedtoengageinIFBL.
+(cid:2) AmotivatedandawarelearnerismorelikelytoengageinIFBLbehaviors,providingthem
+withopportunitiesforbecomingamorecapablelearner.
+Personalreadinessconclusion. LearnershavemorecontrolregardingIFBLthantheydoin
+formaltraining,sotheemployeeplaysabiggerroleinwhetherandhowIFBLoccurs.Actions
+thatboostanemployee’scapabilities,awareness,andmotivationarelikelytoenhanceIFBL.
+SituationalReadiness
+TheworkcontextorsituationalsoinfluencestheextenttowhichemployeeswillengageinIFBL
+andwhetherdoingsowillyielddesiredoutcomes.Wehaveidentifiedtwomainsituationalreadi-
+nessfactors:opportunityandsupport.
+www.annualreviews.org (cid:129) Informal(Field-Based)Learning 399
+
+## Page 10
+
+61:33:02
+5202
+tcO
+61
+,uhT
+:nO
+451.57.12.471
+:PI
+)tseug(
+tseuG
+.gro.sweiverlaunna.www
+morf
+dedaolnwoD
+RICHNESS
+Barren Moderate Rich
+SLACK
+No slack Some slack A great deal
+of slack
+MALLEABILITY
+Fixed Somewhat malleable Highly malleable
+APPROPRIATENESS
+Detrimental Neutral Constructive
+Figure4
+Fourdimensionsofopportunitiesforinformalfield-basedlearning,increasingfromlefttoright.
+Opportunity.The first organizational factor is opportunity,or the extent to which employees
+havethechancetoengageinIFBL.Field-basedlearningdoesnothappeninavacuum.Employees
+engageinIFBLbehaviorsinaspecificworkenvironment(i.e.,thefield),andsomesettingsare
+imbuedwithmorenaturallearningopportunitiesthanothers.AsFigure4shows,itcanbehelpful
+tothinkaboutanemployee’sworkenvironmentasfallingalongmultiplecontinuafromlearning
+barrentolearningrich,fixedtohighlymalleable,noslacktoagreatdealofslack,anddetrimental
+toconstructive.Atanypointintime,aworksettingcanbedescribedbywhereitfallsalongthese
+fourcontinua,butitisimportanttorecognizethatlocationonacontinuumisnotpermanent;
+learningopportunitiescangrow,emerge,change,recede,ordeclineovertime.
+Richness.Anemployeemayworkinanenvironmentthatisrifewithabundant,naturallyoccur-
+ringlearningopportunities.Forinstance,someenvironmentscanofferjobrotations,taskvariety,
+greaterlevelsofinterdependenceamongemployees,andevengreaterlevelsoftaskcomplexity.
+Thesecanbethoughtofaslearning-richenvironments.Otherworkenvironmentscontainsome
+naturallyoccurringlearningopportunities,buttheyarenotasabundant,asobvious,orascon-
+tinualasinalearning-richenvironment.Someworkenvironmentsprovidelittleornonaturally
+occurring learning opportunities.All else being equal,we should expect to see higher levels of
+IFBLinenvironmentsthataffordmorelearningopportunities(Cerasolietal.2018).
+Slack.Organizationalscholarshaveusedthetermslacktorefertoastateinwhichthereismore
+than enough resources to meet minimum needs (March & Simon 1958).Time is one such re-
+source.Evenwhenlearningopportunitiesexistintheory,sometimestheworkenvironmentdoes
+not afford an employee the time to take advantage of those opportunities. For example, if an
+400 Tannenbaum (cid:129)Wolfson
+
+## Page 11
+
+61:33:02
+5202
+tcO
+61
+,uhT
+:nO
+451.57.12.471
+:PI
+)tseug(
+tseuG
+.gro.sweiverlaunna.www
+morf
+dedaolnwoD
+employee’sdayisconsistentlyfilledwithrequiredtasksthataffordlittlechanceforlearning,then
+that employee has little or no slack time to observe others,seek feedback,or try new tasks or
+approaches(Kleinetal.2006).Inthatinstance,eveniflearningopportunitiesaboundintheen-
+vironment,theemployeedoesnotreallyhavemanyviableopportunitiesforinformallearning.
+Timeavailabilityhasbeenshowntohaveasmallbutpositiverelationshipwithinformallearning
+(Cerasolietal.2018).Theeffectmaybesmallbecauseanemployeewithagreatdealoftimemight
+beworkinginasettingwithlimitedopportunitiesforinformallearning.Inotherwords,aboring
+jobwithalotofdowntimemayhavehighslackbutlowopportunityforlearning.Assuch,slack
+mayhaveacurvilinearrelationshipwithIFBL(VanRuysseveldt&VanDijke2011).
+AlthoughsomeindividualsmayperceivealackoftimeasasignaltoavoidIFBL,othersmay
+viewitasastimulustocreatelearningopportunitiesanddecidetoworksmarterratherthanharder.
+Butgivenequallyrichlearningenvironments,wewouldexpectthatemployeeswithlittletono
+discretionarytimeintheirworkschedulewouldbeunlikelytoengageinIFBL,whereasthosewith
+ampleslackmaytakeadvantageofthoselearningopportunities,butnotnecessarily.Slackcanalso
+pertain to physical resources,such as equipment or supplies that may be needed to engage in
+IFBL.Forexample,ifanemployeeneedsaccesstoapieceofequipmenttoengageinon-the-job
+experimentation,and that equipment is always being used by other employees,an opportunity
+for learning is lost.Insufficientaccess to resources can inhibit IFBL in a similar way as lack of
+time.
+Malleability.Someworkenvironmentscontainfewernaturallyoccurringlearningopportunities
+thanothers,andsomeaffordlittleslack,butthatdoesnotmeanthatanenvironmentisunchange-
+able.Forexample,amanagermaybeabletoreassignworkinawaythatcreatesalearningop-
+portunityforanemployee,oranemployeemightaskfortimetoworkonaproject,observean
+expertinaction,ortrysomethingnew.Furthermore,havinggreatercontrolorautonomyoverthe
+wayoneapproachestheirworkcanfurtherinfluenceengagementininformallearning(Cerasoli
+etal.2018,Gijbelsetal.2012).Bruning&Campion(2018)demonstratedthevalueofjobcraft-
+ingthroughtheirrole–resourceapproach–avoidancemodelofjobcrafting,highlightinghowit
+canimproveorganizationallyrelevantoutcomessuchasimprovedenrichment,engagement,and
+decreasedstrain.Throughvariedapproachestojobcrafting,employeescouldmanipulatetheir
+environmenttoincreaselearningopportunitiesthroughboththeirroleandaccesstoothers.We
+canthinkabouttheextenttowhichmodifyingtheworkenvironmentisfeasiblealongacontin-
+uumaswell,rangingfromhighlymalleable(easytocreatelearningopportunities),tosomewhat
+malleable,tofixed(canonlyrelyonnaturallyoccurringlearningopportunities).
+Appropriateness.Aswenotedabove,IFBLispositivelyrelatedtoarangeofdesirableoutcomes
+(Cerasoli et al.2018),but we should not assume that all IFBL opportunities are created equal.
+Opportunitiescanvaryintermsoftheirappropriateness,fallingalongacontinuumrangingfrom
+constructive(likelytoleadtopositiveoutcomesforthelearnerand/ororganization),toneutral
+(less likely to lead to positive outcomes,but not harmful),to detrimental (can lead to negative
+outcomes,suchascareerderailment,degradedcustomerrelationships,orasafetyrisk).
+For example,an interesting IFBL opportunity may be detrimental if taking advantage of it
+woulddistractthelearnerfromcompletingotherorganizationallyvaluedbehaviors,suchasper-
+formingone’scorejobresponsibilities.AnotherexampleofapotentiallydetrimentalIFBLoppor-
+tunityisengaginginself-guidedexperimentationwhentheconsequencesoffailurearesignificant
+(Katz-Navonetal.2009).Ifmakinganerrorwhilelearningcouldcreateaphysicalhazardorruns
+theriskofjeopardizingtherelationshipwithanimportantcustomer,itisprobablybestnottoen-
+gageinthatopportunity.Thisdoesnotimplythatlearnersmustavoidmakingerrors,asmistakes
+www.annualreviews.org (cid:129) Informal(Field-Based)Learning 401
+
+## Page 12
+
+61:33:02
+5202
+tcO
+61
+,uhT
+:nO
+451.57.12.471
+:PI
+)tseug(
+tseuG
+.gro.sweiverlaunna.www
+morf
+dedaolnwoD
+canserveasagreatsourceoflearning(Metcalfe2017).Rather,thissuggeststhatmoreconstructive
+opportunitiesarethoseinwhichtherisksareacceptable,thereisadequatesupportfromexperts,
+orlearningcantakeplacevicariously(e.g.,bywatchinganexperthandleariskysituation)rather
+throughriskyself-guidedexperimentation.Notably,inhealthcaresettingswhereconsequencesof
+errorscanbeparticularlyhigh,engaginginIFBLcanbeadvantageouswhenundertakeninaunit
+withanonpunitiveclimate(Wolfsonetal.2018),orinjobsspecificallyrequiringintegrationof
+newknowledge(Wolfsonetal.2019).
+An otherwise constructive opportunity may also be detrimental if it requires the active
+involvementofarecalcitrantother.Forexample,seekingfeedbackfrom,askingquestionsof,or
+attempting to observe someone who does not have the time or willingness to do so can evoke
+reactancethatovershadowsanypotentialpositiveoutcomes.Thissuggeststhatinworkenviron-
+mentswherelearningistypicallynotvalued,someapparentlyconstructiveIFBLopportunities
+thatrequirethesupportofotherswillneedtobeapproachedwithcareandinsomeinstances,
+avoided.Thereareinstanceswhereanindividualmaybeabletoconvertapotentiallydetrimental
+opportunityintoasaferone,byemployingmoresuitableIFBLbehaviors.Forexample,Wolfson
+etal.(2019)foundthatfeedbackandself-reflectionwereeffectiveinhightimepressurejobsbut
+hadanegativeeffectinlowtimepressurejobs,whereasthereversewastrueforvicariouslearning.
+Support
+ThesecondsituationalreadinessfactorissupportforIFBL.Supportcanbesymbolicortangible
+andcanmanifestintheformoftheworkenvironment/climate,managerandpeerbehaviors,and
+organizationalpractices.Ideally,thesemeansofsupportcollectivelyprovidesignalsandresources
+thatencourageandenableemployeestotakeadvantageoforcreateconstructiveIFBLopportu-
+nities.TheCerasolietal.(2018)meta-analysisfoundthatpersonalsupport(e.g.,frommanagers
+and peers),formal support (e.g.,organizational practices),and informal means of support (e.g.,
+climate)wereeachpositivelyrelatedtoinformallearning.
+Workenvironment.Weusethetermworkenvironmenttoencompassculture,climate,andjob
+characteristics.Aworkenvironmentinwhichlearningandexperimentationarevaluedislikely
+to send signals that it is acceptable to try new approaches or to ask an experienced coworker
+why they tackled a problem in a particular way.In environments where continuous learning is
+appreciated, peers are more likely to support and mentor their teammates (Eddy et al. 2005).
+Similarly,Noe et al.(2017) found higher levels of informal learning when employees perceive
+supportforlearningfrommanagement,theirwork,andtheorganization,whattheyreferredto
+asafavorablelearningclimate.Incontrast,iftheemphasisiscontinuallyonerror-free,flawless
+execution,thatcouldsignalthattheworkenvironmentisnotaplacewhereemployeesshouldbe
+learning.Apunitive,no-errorclimateislikelytoforcepeopletohidetheirengagementinIFBL
+orsuppressitaltogether(Wolfsonetal.2018).
+Psychologicalsafetyisanaspectofworkclimatethatishighlyrelevantforinformallearning.
+Psychologicalsafetyreferstoasharedbeliefthatpeoplecanbegenuineandfeelthatitissafeto
+takeinterpersonalrisks.Itreflectsa“senseofconfidencethattheteamwillnotembarrass,reject,
+or punish someone for speaking up”(Edmondson 1999,p.354).When psychological safety is
+strong,employeesshouldfinditeasiertodemonstrateinformallearningbehaviors,forinstance,
+toseekfeedback,asktoobserveothers,posequestions,voicealternativeperspectives,andtryout
+newideas.Whenpsychologicalsafetyislow,itinhibitslearningbehaviorsandinformationsharing
+(Frazieretal.2017)soitcandiscourageemployeesfromadmittinganeedtolearn,seekinginput,
+ortryingsomethingnewunlesstheyaresuretheycanperformitperfectly.
+402 Tannenbaum (cid:129)Wolfson
+
+## Page 13
+
+61:33:02
+5202
+tcO
+61
+,uhT
+:nO
+451.57.12.471
+:PI
+)tseug(
+tseuG
+.gro.sweiverlaunna.www
+morf
+dedaolnwoD
+TwootheraspectsoftheworkenvironmentthatcaninfluenceIFBLareroleclarityandjob
+autonomy.Interestingly,alackofroleclaritycandegradepsychologicalsafety(Frazieretal.2017).
+Thishasimplicationsforinformallearning,asambiguousresponsibilitiescanleadtoateammem-
+bertryingsomethingthatfallsoutsidetheirrole.Considerwhatcanhappenwhenanemployee
+triestoperformataskthatis“owned”byanotheremployee.Thiscanevokeanegativeordefensive
+reactionfromthetaskowner,whichcansubsequentlyinhibitthelearnerfromtryingsomething
+newagaininthefuture.Roleclaritydoesnotmeanrolerigidity.Whentheworkenvironment
+offersemployeesgreaterautonomy(e.g.,entrustedwithchallengingtasks,abletodecidehowto
+completetasks),employeesaremorelikelytofeelempoweredandtodemonstrategreaterwork-
+placelearning(Matsuo&Nakahara2013).Greaterautonomymayalsoheightensituationalmal-
+leabilityandpositivelyinfluencemotivationtolearn(Liu&Fu2011).Furthermore,autonomy
+mayalsoreflectthefreedomtoexpandone’srole(Morgesonetal.2005)andsubsequentlycould
+facilitateorevennecessitateIFBL.
+Manager/leadersupport.Managerscangreatlyinfluencewhetheremployeesaremotivatedto
+engageinIFBLandwhetherdemonstratingIFBLbehaviorsleadstopositiveoutcomes.Managers
+canenhancepsychologicalsafetyforinformallearningbyvocalizingtheirownlearningneeds,ask-
+ingquestionswhentheydonotunderstandsomething,seekinginputfromteammembersfrom
+whomtheycanlearn,andrespondingconstructivelywhenateammembermakesamistake.They
+canmodelthatitissafetoadmitone’sownlearningneedsanddemonstratehowtohelpothersfeel
+comfortabledoingsoaswell.Leadersalsosetatonebyestablishingteamnormsandinfluencing
+theworkclimate.Forinstance,whenteamspossessasenseofempowermentandworkcollabora-
+tively,theydemonstrategreaterinformallearning(Kukenbergeretal.2015).Furthermore,Myers
+(2021)foundthathavingteamnormsthatpromotelearningcanincreaseindividuals’engagement
+incoactivevicariouslearning.
+In additionto fosteringpsychological safety and helping establishconstructive team norms,
+supervisorscandirectlystimulateinformallearningbycreatingorhighlightingIFBLopportu-
+nities.They could,for example,assign an employee to a more learning-rich environment and
+ensure the employee has ample free time and autonomy to take advantage of it.They can also
+pointouttheexistenceofpotentialinformalopportunities,encourageanemployeetoreflecton
+arecentworkexperience,createchancesforteammemberstocomparenotesabouttheirexperi-
+ences,andreinforcetheemployee’sattemptsatIFBL—includingattemptsthatdidnotworkout
+asplanned.TheycanalsohelpanemployeeavertdetrimentalIFBLopportunities,byhighlight-
+ingwhatisoff-limitsandidentifyingsituationswhereanemployeeshouldavoidaskingquestions
+orexperimentingontheirown.Ifamanagerconsistentlyassignsdesirabletasksto,recognizes,
+andpromotesindividualswhoactivelyengageinIFBL,itmaysendasignaltoallteammembers
+abouttheinstrumentalityofengaginginIFBL.ItalsodirectlycreatesaconnectionbetweenIFBL
+behaviorsandpersonallydesirableoutcomes.
+Peersupport.Peerscanalsoinfluenceinformallearningbothindirectlyanddirectly.Forexample,
+bymockingateammatewhomakesamistakeorasksaquestionthattheydeemsilly,peerscan
+adversely affect psychological safety (Frazier et al.2017).Peers can make it very difficult for a
+coworkertospeakuporadmitalackofknowledge,greatlyinhibitingIFBL.Moredirectly,apeer
+canoffertocover foracoworker,allowingtheircolleaguetime(slack)tostepaway fromtheir
+primaryworkresponsibilitiesandgoobserveortalkwithanexpert.Similarly,apeercanserveas
+asafetynetwhenacoworkerwantstotryanewtaskthatmaybeastretchforthem,convertinga
+potentiallydetrimentallearningopportunityintoaconstructiveone.Anexperiencedpeercanalso
+offerinformaladviceandfeedback,allowingthelearnertoengagemoresafelywhenalearning
+www.annualreviews.org (cid:129) Informal(Field-Based)Learning 403
+
+## Page 14
+
+61:33:02
+5202
+tcO
+61
+,uhT
+:nO
+451.57.12.471
+:PI
+)tseug(
+tseuG
+.gro.sweiverlaunna.www
+morf
+dedaolnwoD
+opportunityemerges.Manyfield-basedlearningopportunitiesinvolvecoworkersasasourceof
+learning;forexample,anexperiencedemployeemightinvitealessexperiencedcolleaguetowatch
+herandaskquestions.
+Organizationpractices.Formalorganizationalpracticesrelatedtostaffing,recognition,andeven
+formallearningcaninfluencewhetheremployeesengageininformallearningbehaviors(Cerasoli
+etal.2018).Recognitionhasbeenshowntoberelatedtoinformallearning(Rowden2002).From
+anorganizationalstandpoint,providingemployeeswithgreaterexposuretoformallearningop-
+portunitiesappearstohaveapositiveeffectoninformallearning(Choi&Jacobs2011).Making
+ampleformaltrainingavailablemayindicatethattheorganizationvaluesemployeedevelopment,
+particularlyinstrongerHRMsystems(Bednall&Sanders2017).Formaltrainingcanalsobetar-
+geted to boost both employee and manager readiness for IFBL.Managers could be trained to
+encourageandsupportIFBL.Similarly,trainingandtoolscanbeprovidedtoemployeestoequip
+andpreparethemtobebetteron-the-joblearners(e.g.,toobserve,askquestions,andreflecton
+theirexperiencesmoreeffectively).
+Asnotedabove,amanager’sjobpromotiondecisionsandrecognitionpracticescaninfluence
+theirteam’sworkclimate.Onanorganizationallevel,thepatternofthosedecisionsandpractices
+acrossmanagersalsooffersemployeescluesaboutwhetherinformallearningisvalued.Doactive
+learnersgetrecognizedandrewarded,orareemployeeswhoworkmistake-freetheoneswhotypi-
+callyreceivepromotions?WorkschedulingandstaffingpracticescanalsoinfluenceIFBL.Awork
+schedulingsystemthatallowsnotimeforemployeestodoanythingbutcompletetheirrequired
+jobresponsibilitiesasassignedsendsasignalthatinformallearningisnotexpectedanddirectly
+restrictsIFBLbyeliminatingslack.Similarly,staffingpracticescandeterminetheamountoftime
+employeeshavetoengageinIFBL.Understaffingreducesthetimeemployeeshavetoengagein
+discretionarytaskssuchaslearningandcanrenderexpertsinaccessibleorunapproachable.
+Informalfield-basedlearningsituationalreadinessconclusion.IFBLdoesnotoccurinavacuum.
+ThecontextinwhichemployeesworkmaybemoreorlessconducivetoIFBL.Whenanemployee
+hasorcancreateampleIFBLopportunities;hasatleastsometimetopursuethoseopportunities;
+isawareofwhereandhowtoengageinconstructiveIFBL(andavoiddeterminantalIFBL);andis
+supportedbytheirpeers,theirmanager,and/ororganizationalpractices,wecanexpectmorepositive
+IFBLoutcomes.
+ApplyingtheCAM-OSFramework:TipsandAdviceforStakeholders
+InTable1,wedescribethreestakeholderperspectives,highlightingeachgroup’suniqueinterest
+inIFBLandsuggestingthetypesofpracticalquestionsthatlogicallyemergefromtheirperspec-
+tive.Forexample,fromanorganizational/strategicperspective,viewedthroughthelensofsenior
+leadership,IFBLisrelevantbecauseitcanacceleratethedevelopmentofhumancapitalresources,
+providingasustainablecompetitiveadvantage.IFBLcanalsobeappealingbecauseitpromisesa
+morecost-effectivealternativetoformaltraining.Withthisinmind,seniorleadersmaywelcome
+answerstoquestionssuchaswhereandhowshouldweinvestinIFBL,howcanwebalanceIFBL
+withformalT&D,andhowcanwetellifwearemakingprogress?
+Ifwetakeaworkgroup/teamperspective,viewingIFBLthroughthelensofamanagerorteam
+leader,different interests and practical considerations emerge.Team leaders may be interested
+in IFBL as a way to augment formal T&D, because T&D is expensive and typically requires
+timeawayfromthejob.Inaddition,asspansofcontrolwiden,manymanagershavelesstimeto
+personally develop individuals; they need employees to be more actively involved in their own
+404 Tannenbaum (cid:129)Wolfson
+
+## Page 15
+
+61:33:02
+5202
+tcO
+61
+,uhT
+:nO
+451.57.12.471
+:PI
+)tseug(
+tseuG
+.gro.sweiverlaunna.www
+morf
+dedaolnwoD
+Table1 Stakeholderinterestsandquestions
+Perspective Stakeholderinterest Practicalquestions
+Organizational/strategic: Tobecompetitive,weneeddepthoftalent, Shouldwebeinvestinginandpromoting
+throughthelensofsenior whichrequirescontinuouslearning. informallearningandifso,whereandhow?
+leadership Wespendagreatdealonformaltraining. Howcanwebalanceformalandinformal
+learning?
+Wecannotgetandstay“ready”through Howcanweassessifwearemakingprogress?
+formaltrainingalone.
+Weneedtoknowwhenandwheretofocus Shouldwebetryingtohirepeoplewhoare
+andencourageinformallearning. motivatedlearners?
+Workgroups/teams:through Myteamneedstocontinuallyadaptand HowcanIencourageandfacilitateinformal
+thelensofateam learnforustosucceed. field-basedlearning(IFBL)withinmyteam?
+leader/manager Formaltrainingtakestimeandmoney;I HowcanIhelpmyteammembersbebetter
+cannotrelyonthatalone. and/orfasterinformallearners?
+Ineedmyteamtotakesomeresponsibility HowcanIgiveenoughautonomybutavoid
+fortheirlearning. detrimentalinformallearning?
+Ineedtoensureworkgetsdonewhilestill HowcanIassignworktopromotelearning
+developingmyteam. whilebalancingotherneeds?
+Personal/career:throughthe Iwanttoadvanceandbesuccessfulinmy HowdoesengaginginIFBLinfluencehowI
+lensofanemployee jobandcareer. amperceived?
+Icannotrelyonformaltrainingtoaddress HowcanIbeabetteron-the-joblearner?
+allmyneeds.
+Iambeingaskedtotakesomeownershipof Whatarethebestopportunitiesformeto
+mydevelopment. learn?
+IamnotsurewhatorhowIamsupposedto WhoshouldIwatchandtalkwithandhowcan
+learnwhileonthejob. Ibestlearnfromthem?
+Idonotwanttogetintroublefortrying WhatshouldItryonmyownandwhatshouldI
+thingsthatIshouldnot. avoidtrying?
+development.Assuch,practicalconsiderationsformanagersincludehowbesttoencourageand
+facilitate healthy IFBL, ensure team members avoid potentially detrimental IFBL, and enable
+employeestobecomebetterself-guided,field-basedlearners.
+Finally,employees have their own personal/career perspective on IFBL.Employees may be
+interestedinIFBLasameanstoadvancetheircareers.IFBLalsoprovidesavehiclethroughwhich
+employeescantakeownershipoftheirowndevelopmentandfocusonspecificcapabilitiesinwhich
+theyareinterested,andpotentiallyuniquelycrafttheirjobtoallowforpersonalgrowth.Asaresult,
+employeesshouldwantanswerstothefollowingquestions:Wherearethebestopportunitiesfor
+IFBL,whocanIlearnfrom,andhowwillIbeviewedifIengageinIFBL?
+Eachstakeholdergrouphassomewhatdifferentneedsandexpectationsand,assuch,couldap-
+plythelessonsfromtheresearchindifferentways.Belowareasetofpracticaltipsforeachgroup,
+basedontheirneedsandtheresearchliterature,alignedwiththeCAM-OSframework(Table2;
+alsoseethesidebartitledTwoTechniquesforEnhancingInformalField-BasedLearning).
+KEYCHALLENGESANDDIRECTIONSFORFUTURERESEARCH
+AlthoughresearchhasuncoveredagreatdealofusefulinformationaboutIFBL,thereismuch
+moretobelearned.Below,wehighlightafewofthechallengesforfutureIFBLresearch,describe
+severalmethodologicalneeds,andofferasetofresearchquestionsforfutureconsideration.
+www.annualreviews.org (cid:129) Informal(Field-Based)Learning 405
+
+## Page 16
+
+61:33:02
+5202
+tcO
+61
+,uhT
+:nO
+451.57.12.471
+:PI
+)tseug(
+tseuG
+.gro.sweiverlaunna.www
+morf
+dedaolnwoD
+Table2 ApplyingtheCAM-OSframework:tipsandadviceforstakeholders
+Recommendationsforseniorleaders
+Capability TaskyourL&DfunctiontodeveloptrainingandtoolsthatbuildIFBLcapabilities
+SuggestthatIFBLskills(e.g.,what/howtoobserve,reflect,andaskquestions)bebuiltintoexistingcurriculaatkey
+careerpoints
+Awareness Highlightcommonfield-basedlearningopportunitiesthatarelikelytobeavailableatvariouscareerpoints
+Guideyourorganization’sL&DfunctiontoidentifycommonIFBLopportunitiesbyconductingfield-learning
+needsanalyses
+Motivation CommunicateabouttheimportanceofIFBLtoemployees
+Reinforcethemessagethatyourorganizationvaluestrying,asking,andobservingaswaysoflearning
+ProvidepositivefeedbacktomanagerswhosupportIFBL
+Opportunity Ensurethatthetalentreviewprocessincorporates(andvalues)stretchassignmentsandotherexperientiallearning
+opportunities
+Encouragemanagerstocreatemoreinformallearningopportunities(e.g.,chancestoinformallyobserveand
+experiment)
+InquirewhetheremployeeshaveampletimetoengageinIFBL
+Support Insistthatyourorganization’spracticesandprocessessupportIFBL(e.g.,rewards,promotions,training,staffing)
+AllocateresourcestowardthedevelopmentoftoolsandtrainingthatenableIFBL
+Takeactionsthatpromoteandmodelpsychologicalsafety(e.g.,treatingmistakesaslearningopportunities)
+Encourageexpertstoallowotherstoobservethem,askquestionsofthem,anddebriefwiththem
+Recommendationsformanagers/teamleaders
+Capability Coachyourteammemberstobemoreeffectivefield-basedlearners
+Modelhowtoreflectupon,seekfeedbackabout,andlearnfromworkexperiences
+Awareness Boostyourteam’slearningattunementbyhighlightingconstructiveIFBLopportunities
+Engageinone-on-oneconversationswithteammemberstosurfacepotentialIFBLopportunitiesforthem
+Completeared-yellow-greenchartforyourteam
+Motivation CommunicateyourbeliefintheusefulnessofIFBL
+AskteammemberstosharewithotherswhattheylearnedfromanIFBLopportunity
+Treatwell-intendedmistakesaslearningopportunities
+Askteammemberswhattheyhopetolearninthenextsixmonths
+Opportunity Assignworkinawaythatbalancesaccomplishingtaskswithprovidinglearning-richopportunities
+Connectteammemberswithexpertstostimulatefuturepossibleinteractions
+EnsureteammembershaveampletimeinwhichtoengageinIFBL
+Conductalocalfield-learningneedsanalysis
+Support Encourageteammemberstosupporteachother’sIFBLeffortsandacknowledgethosewhohelpothers
+Boostpsychologicalsafetyforlearningbyvocalizingyourlearningneedsandrespondingconstructivelywhen
+othersmakemistakes
+Lookforchancestoprovideteammemberswithgreaterautonomyinhowtheydotheirwork
+Recommendationsforindividuals
+Capability Buildyourinformallearningskillsandtechniques
+Trytobecomebetterataskingquestions,observingothers,seekingfeedback,reflectingonexperience,and
+conductingdebriefs
+Awareness BealertforIFBLopportunities,includingsmallonesthatmayexistinyourcurrentworkassignments,aswellas
+situationswhereyoucancreatealearningopportunity
+Beforetakingonapotentiallyriskylearningopportunity,askifthisislikelytobedetrimentalratherthan
+constructive
+Motivation RecognizethepersonalandcareervalueofengaginginIFBL
+Acknowledgethatformaltrainingisunlikelytobeenoughforyoutobecomeascapableandsuccessfulasyouwould
+like
+Trytobeopentonewexperiencesandwillingtolearn
+(Continued)
+406 Tannenbaum (cid:129)Wolfson
+
+## Page 17
+
+61:33:02
+5202
+tcO
+61
+,uhT
+:nO
+451.57.12.471
+:PI
+)tseug(
+tseuG
+.gro.sweiverlaunna.www
+morf
+dedaolnwoD
+Table2 (Continued)
+Recommendationsforindividuals
+Opportunity Createlearningopportunitiesbyaskingforstretchassignments
+Seekoutexpertstoobserveandtalkwith
+Consistentlyaskquestionsofexpertstounpackwhytheydowhattheydo
+Becarefulnottotakeonsomanylearningopportunitiesthatyouareunabletocompleteyourrequiredwork
+Support Makeiteasierforotherstosupportyourinformallearningeffortsbythankingthemwhentheyprovideyouwith
+feedback,answeryourquestions,orletyouobservetheminaction
+ActivelysolicitthesupportofyourmanagerandpeersforyourIFBLefforts
+Offertosupportyourcolleagues’IFBLefforts,forexample,coveringforthemsotheyhavetimetotakeonan
+emerginglearningopportunity
+Abbreviations: CAM-OS, Capability, Awareness, Motivation, Opportunity, and Support; IFBL, informal field-based learning; L&D, learning and
+development.
+ChallengesandResearchImplications
+The fluid nature of IFBL presents several research challenges that do not typically arise when
+studying formal training experiences. Most training experiences have a defined beginning and
+endandarebasedonaprespecifiedsetofdesiredlearningobjectives.IFBLdoesnot.Similarto
+formal learning,IFBL researchers need to consider whether the focus of their investigation is
+motivation,participation,and/oroutcomes.ButbecauseIFBLisoftenunplanned,itisdifficult
+for a researcher to observe IFBL “in action”or to administer a test in the classic sense.These
+challengeshaveimplicationsforfutureresearchinIFBL.
+AsIFBLcanoccurthroughanongoingseriesofunscheduledevents,eventsamplingmethodol-
+ogy(Reis&Gable2000)couldbeausefulresearchtoolforunderstandinghowIFBLunfoldsover
+time.Similarly,futureresearchcouldapplyqualitativemethods(e.g.,diarykeeping)thatcanyield
+richdescriptiveinformationaboutpersonalandsituationalreadiness,emergentlearningoppor-
+tunitiesandobstacles,learnerbehaviors,andconsequencesofIFBL.BecauseIFBLunfoldsover
+time,with both situational and personal readiness likely to ebb and flow,future research could
+greatly benefit from the use of longitudinal designs (Wolfson et al.2018,2019).Regardless of
+whetherthegoalistomeasuremotivation,learning,orperformance,thereistheneedfordesigns
+thatestablishbaselinesandcapturerepeatedmeasuresofKSAOsthatchangeasaresultofIFBL,
+TWOTECHNIQUESFORENHANCINGINFORMALFIELD-BASEDLEARNING
+Field learning needs analysis: A field learning needs analysis (FLNA) is analogous to a training needs analysis,
+butratherthanfocusingontraininggaps,itidentifieson-the-joblearningneedsandopportunitiesandtheways
+employees can intentionally acquire competence while on the job. A FLNA typically involves interviews or
+focusgroupswithindividualsfamiliarwiththeworkareaofinterest.Itexplores(a)whatemployeescouldtryto
+learn on the job; (b) the learning environment,including common learning opportunitiesand how best to learn
+fromthem;and(c)waystoencouragehealthyIFBLpractices.
+Informalfield-basedlearningred-yellow-greenchart:Ared-yellow-green(RYG)chartisproducedforaspecific
+job/workenvironmenttoclarifytheIFBLspaceforpotentiallearners.Itliststasksalearnermighttrytobecome
+betteratthroughtrialanderrorandcategorizeseachasred(thisisnotsomethingtolearnthroughtrialanderror;
+fullstop);yellow(onlytrythiswhenaccompaniedbyanexperiencedperson;safetynetneeded);andgreen(safeto
+try;goforit).AnIFBLRYGcharthelpsemployeesavoiddetrimentallearningopportunitiesandheightentheir
+awarenessofconstructiveopportunities.
+www.annualreviews.org (cid:129) Informal(Field-Based)Learning 407
+
+## Page 18
+
+61:33:02
+5202
+tcO
+61
+,uhT
+:nO
+451.57.12.471
+:PI
+)tseug(
+tseuG
+.gro.sweiverlaunna.www
+morf
+dedaolnwoD
+orchangesinperformancethatoccuraftercontrollingforpriorperformanceandengagementin
+IFBL.
+With the constructs in the CAM-OS model in mind,it is important to thoughtfully assess
+whereself-reportorother-reportmeasuresarepreferable.Forinstance,theself-reflectioncom-
+ponent of IFBL and several of the personal readiness factors are almost impossible for others
+to observe, and thus self-report measures may be more accurate. In contrast, supervisors and
+peerscouldprovideinsightsabouttheircolleagues’informalfeedbackseekingandquestionask-
+ing behaviors, as well as provide perceptions about the richness and malleability of the work
+environment.
+FutureResearchDirections
+We have attempted to glean insights from the existing research in the context of the needs of
+variousstakeholders.Theexistingresearchallowedustoanswerseveralkeyquestions,butother
+onesremain.InTable3weofferrecommendationsforfutureresearchthatcouldhelpenhance
+ourunderstandingofIFBLandprovideadditionalguidancetothethreekeystakeholdergroups.
+Inthisreviewwediscussedavarietyofantecedents,situationalfactors,andoutcomesofIFBL,
+butmanyothersmaywarrantconsideration.Forinstance,Komarrajuetal.(2011)exploredhow
+theBigFivepersonalitytraitsareconnectedtolearning;futureresearchcouldexploretheroleof
+thesetraitsastheypertaintoIFBL.LGOhasbeenlinkedtoengagementininformallearning,
+andfutureresearchcouldconsidertheroleofotherformsofgoalorientationsuchasavoidper-
+formanceandproveperformancegoalorientationandhowtheyindependentlyandjointlyinflu-
+enceIFBL.Otherlearnercharacteristicssuchasself-efficacyorperhapslearningattunement—a
+learner’s readiness to learn—can influence who ultimately engages in IFBL and whether those
+attemptsareeffective.
+Arecurringthemehereisthatsituationalcharacteristicscanimpactwhoengagesinandulti-
+matelybenefitsfromIFBL.Futureresearchersshouldconsiderorganizationalfactorssuchassize,
+type,structure,andindustry,aswellascross-culturaldifferencesaspotentialfactorsfacilitating
+or hindering IFBL.For example,is a culture with a strong history of apprenticeship programs
+(e.g.,Germany)moreamendabletoIFBL?Areculturesthathighlyvalueknowledgeacquisition
+andexpertisemorehospitabletoemployeeswhoactivelyengageininformallearningbehaviors?
+Mighthierarchicalculturesoronesthatvaluedeferencetoauthorityinhibitexperimentationor
+questioningexperts?
+IFBLinherentlyinvolveslearningfromothers,sothebreadthordepthofcoworkers’KSAOs
+shouldinfluencehoweffectivelyIFBLcanoccur.Thesocialcapitalofthelearnermayinfluence
+whetherothersarewillingtoprovidefeedbackorallowthemselvestobeobserved.Furthermore,
+engaging in feedback seeking and vicarious learning may play a role in strengtheningrelation-
+ships and over time could improve social capital resources and shared experience (Wolfson &
+Mathieu2021).Futureresearchshouldexaminehowsocialcapitalenablesandperhapsisdevel-
+opedthroughIFBL.
+Learning often occurs in response to various events, so debriefs and after-action reviews
+(Lacerenzaetal.2018)canacttoacceleratelearningfromfieldexperiences.Futureresearchcould
+alsoconsidertheroleoftraininginIFBLandwhetheritispossibletotrainindividualstobebetter
+informallearners.TheuseofformaltraininganddebriefingtostimulatemoreeffectiveIFBLare
+potentialwaystobridgethesemipermeablemembranebetweenformalandinformallearning.
+As technology has continued to change the way people interact at work,it would be useful
+to study how collaboration tools and ubiquitous video conferencing influence informal learn-
+ing.Forexample,dothesetechnologiescreateneworeasieropportunitiesforvicariouslearning,
+408 Tannenbaum (cid:129)Wolfson
+
+## Page 19
+
+61:33:02
+5202
+tcO
+61
+,uhT
+:nO
+451.57.12.471
+:PI
+)tseug(
+tseuG
+.gro.sweiverlaunna.www
+morf
+dedaolnwoD
+Table3 Recommendationsforfutureresearchoninformalfield-basedlearning(IFBL)
+Topics Potentialresearchquestions
+Individual Whenmightpersonalitybelinkedtoconstructiveand/ordetrimentalIFBL?
+antecedents DoanyotherformsofgoalorientationpredictengagementinIFBL?
+Islearningattunement(knowingwhat/howtolearn)relatedtoconstructiveIFBL?
+Whatistheroleofself-efficacyinmotivationtoengageinIFBL?
+Arethethreepersonalreadinessfactors(i.e.,capability,awareness,andmotivation)compensatoryorare
+allrequiredforeffectiveIFBL?
+Organizational DoesIFBLmanifestdifferentlyinorganizationsofdifferentsizes,types,structures,orindustries?
+antecedents
+Unit/job DoesengaginginIFBL,particularlyfeedbackseekingandvicariouslearning,improvesocialcapital
+characteristics resourcesandsharedexperience?
+HowdoescoworkerexpertiseinfluenceIFBL(e.g.,doesbreadthanddepthofexpertiseinaunitmatter)?
+Howdojobcharacteristicssuchasautonomy,clarity,andsignificanceinfluenceIFBL?
+Workenvironment HowdoIFBLopportunitiesebbandflowovertime?Why?
+Howdothefouraspectsofopportunity(i.e.,richness,malleability,slack,appropriateness)influence
+IFBLbehaviorsandoutcomes?
+Subdimensionsof WhenisitbesttoengageindifferentformsofIFBLbehaviors(e.g.,observationversusexperimentation
+IFBL versusreflection)?
+Individualoutcomes DoindividualswhoengageinIFBLdemonstratedifferentperformancetrajectoriesovertime?
+HowdovariousIFBLpitfallscontributetodetrimentalIFBL?
+WhatarethemostcommonnegativeconsequencesofdetrimentalIFBL(e.g.,burnout)?
+HowdoesIFBLrelatetoaperson’sperceivedcareerreadinessandrateofadvancement?
+Organizational Doorganizations/unitswithbetterIFBLoutperformothers?
+outcomes Whatistheshort-termandlong-termrelationshipbetweenIFBLandemployeeengagementand
+retention?
+DoesbetterIFBLleadtomoreinternaljobpromotions(fewerexternalhires)?
+DoesengaginginIFBLincreasebreadthordepthofhumancapitalresources?
+DoesenhancingIFBLresultinastrongertalentpipeline(e.g.,successors)?
+IFBLinterventions Canlearningattunementbeimprovedthroughtrainingorcoaching?
+HowcanwehelpemployeesavoidpotentiallydetrimentalIFBLexperiences?
+HowcanweencourageemployeestoengageinconstructiveIFBL?
+CansupervisorsbetrainedtosupportIFBLwhileensuringitremainsemployee-driven?
+HowcanlearnersusedebriefstoboostIFBL?
+observationofexperts,andreal-timefeedback?Ordotheydecreasephysicalinteractionsreducing
+theopportunitytodeeplyengagewith,observe,andlearnfromexperts?
+AsWolfsonetal.(2018,2019)andCerasolietal.(2018)showed,IFBLcanvaryintermsof
+positive and negative outcomes.Part of that may be contingent on whether appropriate IFBL
+behaviorsareevoked,andassuch,futureresearchshouldcontinuetoexplorethethreesubdimen-
+sionsofIFBL.Byadoptingalongitudinalperspective,researcherscanexaminewhetherIFBLcan
+haveaproximalnegativeanddistalpositiveoutcome.Additionally,heavilyengaginginIFBLmay
+haveotherunintendednegativeconsequencessuchasburnout,andfutureresearchmayconsider
+thedarksideofIFBLandexplorewhatcausesdetrimentalIFBL.Someofthesepotentialpitfalls
+maybeassociatedwithsituationalcharacteristics,stylisticmistakes,personalpropensities,timing
+issues,orevenanimbalancebetweentheneedtolearnandtocompletebasicjobresponsibilities.
+Fromanindividualstandpoint,whencanIFBLenablecareerreadinessandadvancementop-
+portunities? From a strategic human capital resource management perspective,future research
+www.annualreviews.org (cid:129) Informal(Field-Based)Learning 409
+
+## Page 20
+
+61:33:02
+5202
+tcO
+61
+,uhT
+:nO
+451.57.12.471
+:PI
+)tseug(
+tseuG
+.gro.sweiverlaunna.www
+morf
+dedaolnwoD
+canexplorewhethercreatingenablingconditionsforIFBLcanimproveorganizationaloutcomes
+suchasemployeeretention,internalpromotionrates,andimprovementsinthebreadthand/or
+depthofhumancapitalresources.
+Above,wenotedthattheCAM-OSframeworkshareselementswithmodelsofformaltraining.
+There are,however,meaningful differences inthe importanceof thoseelements andhow they
+playoutinanIFBLversusaformaltrainingcontext.Informaltrainingandeducation,learning
+objectivesarespecifiedinadvance,withopportunitiestolearnbuiltintothecurriculum.Although
+onoccasionasavvycorporatetrainermayworkwithlinemanagerstohelpcreateopportunities
+for trainees to subsequently use a trained skill,formal training typically ends when the “class”
+ends.Trainees can acquire competence in formal training even without subsequent on-the-job
+learningopportunitiesbecauselearningexperiencesareembeddedintothetrainingcurriculum.
+Incontrast,IFBLreliescompletelyonon-the-jobopportunities—withoutthose,nolearningcan
+occur. Opportunities are at the heart of IFBL, and it is often up to the learner to identify or
+evencreatethem.Andbecausethelearnerisresponsibleforidentifyingneedsandopportunities,
+awarenessofwhatandhowtolearnwhileonthejobandrelevantcapabilitiessuchasobservation
+andquestioningskillsarefarmoreimportantinIFBLthaninformallearningoreducation.
+Agreatdealofresearchhasbeenconductedonformaltraining,muchofitfocusedonhow
+tooptimizeinstructionaldesignandcreateeffectiveformallearningexperiences.Althoughtrans-
+fer of training is discussed in the formal training research literature,the primary focus of that
+researchisonapplyingwhatwastaught,notonfosteringnew,emergentlearning.Inorganiza-
+tional settings, what happens after training is typically an afterthought and is often limited to
+aprecursoryconsiderationofwhetheraspecificlearnedskillwasusedonthejob(i.e.,proximal
+transfer).Asaresult,thatliteratureoffersfewinsightsabouthowon-the-jobopportunities,learner
+awarenessandrelatedlearningcapabilities,andsituationalsupportcanfosternew,constructive,
+self-directedlearning.AdditionalresearchonIFBLisneededthatexaminestheelementsofthe
+CAM-OSframeworkinsitu,asthatnotonlywouldinformhowbesttoenhanceinformallearning
+butcouldalsoyieldvaluableinsightstohelpthedevelopersofformaltrainingwhoareinterested
+inpromotingmoredistaltransferoftrainedskills.
+ResearcherscouldexplorewhatwouldhappenifoneofthecomponentsofCAMismissing
+andwhethertheyoperateinacompensatorymanner.Theycouldalsoexaminethefourcompo-
+nentsofopportunity(richness,malleability,slack,andappropriateness)tobetterunderstandthe
+prevalenceandnatureofinformallearningopportunitiesanduselongitudinaldesignstoexamine
+howandwhyopportunitiestolearnebbandflow.Theremaybeaninflectionpointwherecon-
+structiveIFBLbehaviorsturndestructiveorviceversa.Furthermore,researchersshouldexplore
+howsupportcanactasanenablingcondition,whetheritsabsenceisahindrancetoIFBL,and
+howsomelearnersmanagetoengageinIFBLdespitelimitedsupport.
+CONCLUSION
+The majority of learning in the workplace occurs outside of classrooms and formal learning
+environments—ithappensinformally,“inthefield.”Leaders,managers,andindividualemployees
+allhaveavestedinterestinpromotinghealthy,constructiveIFBL.Whendoneproperly,IFBLcan
+helporganizationsremaincompetitive,workgroupsadapt,andemployeesgrowandadvance.To
+guidethis,weneedtounderstandthedynamicsofIFBL,forexample,howpersonalandsituational
+readinesscaninfluencewhetherandhowIFBLunfolds.Thereisagrowingbodyofresearchon
+IFBLthatenabledustodescribewhatisknownaboutthosedynamicsandtoofferevidence-based
+tipsformanagersandemployees.Butwerecognizethatthereisstillagreatdealtolearnabout
+IFBL.ItisourhopethatfutureresearcherscontinuetoexplicatetheIFBLspace,tacklingthere-
+410 Tannenbaum (cid:129)Wolfson
+
+## Page 21
+
+61:33:02
+5202
+tcO
+61
+,uhT
+:nO
+451.57.12.471
+:PI
+)tseug(
+tseuG
+.gro.sweiverlaunna.www
+morf
+dedaolnwoD
+searchquestionsweidentifiedalongwithnewchallengesthatarecertaintoemerge.IFBLoccurs
+inallorganizations—theroleforresearchistoclarifyhowbesttopromotehealthy,productive
+IFBL.
+APPENDIX
+Learningtype Definition
+Actionlearning Developmenttoimproveobservablebehaviorinproblemfields(Yorks
+etal.1999)
+Coactivevicarious “discursivelearningprocesswhereindividuals(i.e.,amodelandlearner)
+learning intentionallyshareandjointlyprocessamodel’sworkexperience(s)in
+interpersonalinteractionstoconstructanemergent,situated
+understandingoftheexperience(s)”(Myers2018,pp.613–614)
+Continuouslearning Changingbehaviorbasedondeepeningandbroadeningofskills,
+knowledge,andworldviews(London&Sessa2006)
+Experientiallearning Engaginginchallengingexperiences,reflection,andsubjectivereasoning
+todeducenewknowledge(Kolb1984)
+Formaltrainingand Programs,courses,andeventsdevelopedbyorganizationstohelp
+development employeesacquireKSAOs(knowledge,skills,abilities,andother
+characteristics)(Noeetal.2014)
+Incidentallearning Asubsetofinformallearningthatisdefinedasaby-productofsomeother
+activity(Watkins&Marsick1992)
+Informalfield-based “engaginginintentional,self-directedbehavioraimedatlearningnew,
+learning workoriented,andorganizationallyvaluedcontentoutsideofaformal
+learningprogram”(Wolfsonetal.2018,p.16)
+Informallearning Intentionalorincidentallearning,thatisnothighlystructured,and
+volitional(Marsicketal.1999)
+On-the-jobtraining Instructioninworksettingandduringwork(Rothwell&Kazanas1994)
+Self-directedlearning Intentionallearningthatoccursformallyorinformally,online,orinthe
+contextofsociallearning(Clardy2000)
+Self-regulatedlearning Affective,cognitive,andbehavioralprocessesduringlearningtoreacha
+desiredgoal(Sitzmann&Ely2011)
+Sociallearning Occursthroughobservation,imitation,andreinforcement(Bandura1962)
+DISCLOSURESTATEMENT
+The authors are not aware of any affiliations,memberships,funding,or financial holdings that
+mightbeperceivedasaffectingtheobjectivityofthisreview.
+ACKNOWLEDGMENTS
+We acknowledge the Army Research Institute (ARI) for funding research under contract
+W5J9CQ-12-C-0048 that influenced the first author’s thinking about informal learning. The
+viewsexpressedinthearticlearethoseoftheauthorsanddonotnecessarilyrepresenttheviews
+oftheDepartmentofDefenseortheARI.
+LITERATURECITED
+AguinisH,KraigerK.2009.Benefitsoftraininganddevelopmentforindividualsandteams,organizations,
+andsociety.Annu.Rev.Psychol.60:451–74
+www.annualreviews.org (cid:129) Informal(Field-Based)Learning 411
+
+## Page 22
+
+61:33:02
+5202
+tcO
+61
+,uhT
+:nO
+451.57.12.471
+:PI
+)tseug(
+tseuG
+.gro.sweiverlaunna.www
+morf
+dedaolnwoD
+Al-EisaAS,FurayyanMA,AlhemoudAM.2009.Anempiricalexaminationoftheeffectsofself-efficacy,su-
+pervisorsupportandmotivationtolearnontransferintention.Manag.Dec.47:1221–44
+AmbroseSA,BridgesMW,DiPietroM,LovettMC,NormanMK.2010.HowLearningWorks:SevenResearch-
+BasedPrinciplesforSmartTeaching.Hoboken,NJ:Wiley
+ATD(Assoc.TalentDev.).2019.2019StateoftheIndustry.Alexandria,VA:Am.Soc.Train.Dev.
+BanduraA.1962.Sociallearningthroughimitation.InNebraskaSymposiumonMotivation:1962,ed.MRJones,
+pp.211–69.Lincoln:Univ.NebraskaPress
+BarrickMR,MountMK.1991.TheBigFivepersonalitydimensionsandjobperformance:ameta-analysis.
+Pers.Psychol.44:1–26
+BearDJ,TompsonHB,MorrisonCL,VickersM,ParadiseA,etal.2008.TappingthePotentialofInformal
+Learning:AnASTDResearchStudy.Alexandria,VA:Am.Soc.Train.Dev.
+BednallTC,SandersK.2017.Doopportunitiesforformallearningstimulatefollow-upparticipationinin-
+formallearning?Athree-wavestudy.Hum.Resour.Manag.56:803–20
+BednallTC,SandersK,RunhaarP.2014.Simulatinginformallearningactivitiesthroughperceptionsofper-
+formanceappraisalqualityandhumanresourcemanagementsystemstrength:atwo-wavestudy.Acad.
+Manag.Learn.Educ.13:45–61
+BellBS,TannenbaumSI,FordJK,NoeRA,KraigerK.2017.100yearsoftraininganddevelopmentresearch:
+whatweknowandwhereweshouldgo.J.Appl.Psychol.102:305–23
+BergSA,ChyungSYY.2008.Factorsthatinfluenceinformallearningintheworkplace.J.WorkplaceLearn.
+20:229–44
+BruningPF,CampionMA.2018.Arole-resourceapproach-avoidancemodelofjobcrafting:amultimethod
+integrationandextensionofjobcraftingtheory.Acad.Manag.J.61:499–522
+BrymerRA,ChadwickC,HillAD,MolloyJC.2019.Pipelinesandtheirportfolios:amoreholisticviewof
+humancapitalheterogeneityviafirm-wideemployeesourcing.Acad.Manag.Perspect.33:207–33
+CerasoliCP,AlligerGM,DonsbachJS,MathieuJE,TannenbaumSI,OrvisKA.2014.Whatisinformallearning
+andwhatareitsantecedents?Anintegrativeandmeta-analyticreview.Rep.,Gr.Organ.Eff.,Albany,NY
+CerasoliCP,AlligerGM,DonsbachJS,MathieuJE,TannenbaumSI,OrvisKA.2018.Antecedentsandout-
+comesofinformallearningbehaviors:ameta-analysis.J.Bus.Psychol.33:203–30
+ChoiW,JacobsRL.2011.Influencesofformallearning,personallearningorientation,andsupportivelearning
+environmentoninformallearning.Hum.Resour.Dev.Q.22:239–57
+ClardyA.2000.Learningontheirown:vocationallyorientedself-directedlearningprojects.Hum.Resour.Dev.
+Q.11:105–25
+ColquittJA,LePineJA,NoeRA.2000.Towardanintegrativetheoryoftrainingmotivation:ameta-analytic
+pathanalysisof20yearsofresearch.J.Appl.Psychol.85:678–707
+DeGripA.2015.Theimportanceofinformallearningatwork.IZAWorldofLabor.162.https://doi.org/10.
+15185/izawol.162
+EddyER,TannenbaumSI,LorenzetSJ,Smith-JentschKA.2005.Theinfluenceofacontinuouslearning
+environmentonpeermentoringbehaviors.J.Manag.Issues25:383–95
+EdmondsonA.1999.Psychologicalsafetyandlearningbehaviorinworkteams.Adm.Sci.Q.44:350–83
+FlynnD,EddyER,TannenbaumSI.2006.Theimpactofnationalcultureonthecontinuouslearningenvi-
+ronment:exploratoryfindingsfrommultiplecountries.J.East-WestBus.12:85–107
+FrazierML,FainshmidtS,KlingerRL,PezeshkanA,VrachevaV.2017.Psychologicalsafety:ameta-analytic
+reviewandextension.Pers.Psychol.70:113–65
+FroehlichD,SegersM,VandenBosscheP.2014.Learningapproach,leadershipstyle,andorganizational
+learningcultureonmanagers’learningoutcomes.Hum.Resour.Dev.Q.25:29–57
+GijbelsD,RaemdonckI,VerveckenD,VanHerckJ.2012.Understandingwork-relatedlearning:thecaseof
+ICTworkers.J.WorkplaceLearn.24:416–29
+HigginsET.1997.Beyondpleasureandpain.Am.Psychol.52:1280–300
+JeonKS,KimKN.2012.Howdoorganizationalandtaskfactorsinfluenceinformallearningintheworkplace?
+Hum.Resour.Dev.Int.15:209–26
+JiangK,LepakDP,HuJ,BaerJC.2012.Howdoeshumanresourcemanagementinfluenceorganizational
+outcomes?Ameta-analyticinvestigationofmediatingmechanisms.Acad.Manag.J.55:1264–94
+412 Tannenbaum (cid:129)Wolfson
+
+## Page 23
+
+61:33:02
+5202
+tcO
+61
+,uhT
+:nO
+451.57.12.471
+:PI
+)tseug(
+tseuG
+.gro.sweiverlaunna.www
+morf
+dedaolnwoD
+Katz-NavonT,NavehE,SternZ.2009.Activelearning:Whenismorebetter?Thecaseofresidentphysicians’
+medicalerrors.J.Appl.Psychol.94:1200–209
+KleinHJ,NoeRA,WangC.2006.Motivationtolearnandcourseoutcomes:theimpactofdeliverymode,
+learninggoalorientation,andperceivedbarriersandenablers.Pers.Psychol.59:665–702
+KolbD.1984.ExperientialLearning.EnglewoodCliffs,NJ:PrenticeHall
+KomarrajuM,KarauSJ,SchmeckRR,AvdicA.2011.TheBigFivepersonalitytraits,learningstyles,and
+academicachievement.Pers.Ind.Differ.51:472–77
+KraigerK,FordJK.2006.Theexpandingroleofworkplacetraining:themesandtrendsinfluencingtraining
+researchandpractice.InHistoricalPerspectivesinIndustrialandOrganizationalPsychology,ed.LLKoppes,
+pp.281–309.Mahwah,NJ:Erlbaum
+KraigerK,FordJK.2021.Thescienceofworkplaceinstruction:learninganddevelopmentappliedtowork.
+Annu.Rev.Org.Psychol.Org.Behav.8:45–72
+KukenbergerMR,MathieuJE,RuddyT.2015.Across-leveltestofempowermentandprocessinfluenceson
+members’informallearningandteamcommitment.J.Manag.41:987–1016
+LacerenzaCN,MarlowSL,TannenbaumSI,SalasE.2018.Teamdevelopmentinterventions:evidence-based
+approachesforimprovingteamwork.Am.Psychol.73:517–31
+LiuD,FuP.2011.Motivatingprotégés’personallearninginteams:amultilevelinvestigationofautonomy
+supportandautonomyorientation.J.Appl.Psychol.96:1195–208
+LivingstoneD,StoweS.2007.Worktimeandlearningactivitiesofthecontinuouslyemployed.J.Workplace
+Learn.19:17–31
+LohmanMC.2009.Asurveyoffactorsinfluencingtheengagementofinformationtechnologyprofessionals
+ininformallearningactivities.Inform.Technol.Learn.Perform.J.25:43–53
+LondonM,SessaVI.2006.Continuouslearninginorganizations:alivingsystemsanalysisofindividual,group,
+andorganizationlearning.InMulti-LevelIssuesinSocialSystems.Bingley,UK:EmeraldGr.Publ.
+MajorDA,TurnerJE,FletcherTD.2006.LinkingproactivepersonalityandtheBigFivetomotivationto
+learnanddevelopmentactivity.J.Appl.Psychol.91:927–35
+MarchJG,SimonHA.1958.Organizations.NewYork:Wiley
+MarsickVJ,VolpeM,WatkinsKE.1999.Theoryandpracticeofinformallearningintheknowledgeera.Adv.
+Dev.Hum.Resourc.1:80–95
+MatsuoM,NakaharaJ.2013.TheeffectsofthePDCAcycleandOJTonworkplacelearning.Int.J.Hum.
+Resour.Manag.24:195–207
+Matzler K,Mueller J.2011.Antecedents of knowledge sharing—examining the influence of learning and
+performanceorientation.J.Econ.Psychol.32:317–29
+MetcalfeJ.2017.Learningfromerrors.Annu.Rev.Psychol.68:465–89
+MorgesonFP,Delaney-KlingerK,HemingwayMA.2005.Theimportanceofjobautonomy,cognitiveability,
+andjob-relatedskillforpredictingrolebreadthandjobperformance.J.Appl.Psychol.90:399–406
+MyersCG.2018.Coactivevicariouslearning:towardarelationaltheoryofvicariouslearninginorganizations.
+Acad.Manag.Rev.43:610–34
+MyersCG.2021.Performancebenefitsofreciprocalvicariouslearninginteams.Acad.Manag.J.64:926–47
+NoeRA,ClarkeAD,KleinHJ.2014.Learninginthetwenty-first-centuryworkplace.Annu.Rev.Org.Psychol.
+Org.Behav.1:245–75
+NoeRA,TewsMJ,MarandAD.2013.Individualdifferencesandinformallearningintheworkplace.J.Vocat.
+Behav.83:327–35
+NoeRA,TewsMJ,MichelJW.2017.Managers’informallearning:atraitactivationtheoryperspective.Int.J.
+Train.Dev.21:1–17
+OrvisKA,LefflerGP.2011.Individualandcontextualfactors:aninteractionistapproachtounderstanding
+employeeself-development.Pers.Individ.Differ.51:172–77
+PloyhartRE,VanIddekingeCH,MackenzieWIJr.2011.Acquiringanddevelopinghumancapitalinservice
+contexts:theinterconnectednessofhumancapitalresources.Acad.Manag.J.54:353–68
+ReisHT,GableSL.2000.Event-samplingandothermethodsforstudyingeverydayexperience.InHandbook
+ofResearchMethodsinSocialandPersonalityPsychology,ed.HTReis,CMJudd,pp.190–222.Cambridge,
+UK:CambridgeUniv.Press
+www.annualreviews.org (cid:129) Informal(Field-Based)Learning 413
+
+## Page 24
+
+61:33:02
+5202
+tcO
+61
+,uhT
+:nO
+451.57.12.471
+:PI
+)tseug(
+tseuG
+.gro.sweiverlaunna.www
+morf
+dedaolnwoD
+RothwellWJ,KazanasHC.1994.Managementdevelopment:thestateoftheartasperceivedbyHRDpro-
+fessionals.Perform.Improv.Q.7:40–59
+RowdenRW.2002.TherelationshipbetweenworkplacelearningandjobsatisfactioninUSsmalltomidsize
+businesses.Hum.Resour.Dev.Q.13:407–25
+RoyJN2010.Transforminginformallearningintocompetitiveadvantage.TDMagazine,Oct.20.https://
+www.td.org/magazines/td-magazine/transforming-informal-learning-into-a-competitive-
+advantage,
+Salas E,Tannenbaum SI,Kraiger K,Smith-Jentsch K.2012.The science of training and developmentin
+organizations:whatmattersinpractice.Psychol.Sci.PublicInterest13:76–103
+SandersJ,OomensS,BlonkRWB,HazelzetA.2011.Explaininglowereducatedworkers’trainingintentions.
+J.WorkplaceLearn.23:402–16
+SitzmannT,ElyK.2011.Ameta-analysisofself-regulatedlearninginwork-relatedtrainingandeducational
+attainment:whatweknowandwhereweneedtogo.Psychol.Bull.137:421–42
+SusomrithP,CoetzerA.2019.Effectsofinformallearningonworkengagement.Pers.Rev.48:1886–902
+SvenssonL,EllstromP,AbergC.2004.Integratingformalandinformallearningatwork.J.WorkplaceLearn.
+16:479–91
+TannenbaumSI.1997.Enhancingcontinuouslearning:diagnosticfindingsfrommultiplecompanies.Hum.
+Resour.Manag.36:437–52
+TannenbaumSI,BeardRL,McNallLA,SalasE.2010.Informallearninganddevelopmentinorganizations.
+InLearning,Training,andDevelopmentinOrganizations,ed.SWJKozlowski,ESalas,pp.303–32.New
+York:Routledge/Taylor&FrancisGr.
+UhunomaO,LimDH,KimW.2021.Themediatingroleofinformallearningonworkengagement:older
+workersintheUSpublicsector.Eur.J.Train.Dev.45:200–17
+VanRuysseveldtJ,VanDijkeM.2011.Whenareworkloadandworkplacelearningopportunitiesrelatedina
+curvilinearmanner?Themoderatingroleofautonomy.J.Vocat.Behav.79:470–83
+WatkinsKE,MarsickVJ.1992.Towardsatheoryofinformalandincidentallearninginorganizations.Int.J.
+LifelongEduc.11:287–300
+WolfsonMA,MathieuJE.2021.Deployinghumancapitalresources:accentuatingeffectsofsituationalalign-
+mentandsocialcapitalresources.Acad.Manag.J.62:435–57
+WolfsonMA,MathieuJE,TannenbaumSI,MaynardMT.2019.Informalfield-basedlearningandworkde-
+sign.J.Appl.Psychol.104:1283–95
+WolfsonMA,TannenbaumSI,MathieuJE,MaynardMT.2018.Across-levelinvestigationofinformalfield-
+basedlearningandperformanceimprovements.J.Appl.Psychol.103:14–36
+WongEM,HaselhuhnMP,KrayLJ.2012.Improvingthefuturebyconsideringthepast:theimpactofupward
+counterfactualreflectionandimplicitbeliefsonnegotiationperformance.J.Exp.Soc.Psychol.48:403–6
+YoonDY,HanSH,SungM,ChoJ.2018.Informallearning,organizationalcommitmentandself-efficacy.
+J.WorkplaceLearn.30:640–57
+YorksL,O’NeilJ,MarsickVJ.1999.Actionlearningtheoreticalbasesandvarietiesofpractice.Adv.Dev.Hum.
+Resourc.1:1–18
+414 Tannenbaum (cid:129)Wolfson

@@ -5,12 +5,17 @@ title: "Training Needs Analysis"
 tags: [training, needs-analysis, design, gap]
 status: developing
 created: 2026-06-01
-updated: 2026-06-01
+updated: 2026-07-06
 related:
   - "[[Training Context and Transfer Climate]]"
   - "[[bell-et-al-2017-100-years-training-development]]"
   - "[[arthur-et-al-2003-training-meta-analysis]]"
   - "[[Training Effectiveness (Meta-Analytic Evidence)]]"
+  - "[[noe-2023-needs-assessment]]"
+  - "[[Organizational Analysis (Training)]]"
+  - "[[Person Analysis (Noe Model)]]"
+  - "[[Task Analysis (Training)]]"
+  - "[[Root Cause Analysis (Training)]]"
   - "[[Learning & Development MOC]]"
 ---
 
@@ -21,9 +26,22 @@ related:
 Process for determining individual, team, and organizational training needs. Provides basis for decisions about program objectives, content, and design (Goldstein & Ford 2002).
 
 Three traditional levels:
-- **Organizational analysis**: where training is needed, what resources support it
-- **Task analysis**: what KSAs are required for effective performance
-- **Person analysis**: who needs training, in what areas
+- **[[Organizational Analysis (Training)|Organizational analysis]]**: where training is needed, what resources support it
+- **[[Task Analysis (Training)|Task analysis]]**: what KSAs are required for effective performance
+- **[[Person Analysis (Noe Model)|Person analysis]]**: who needs training, in what areas
+
+## The Canonical Prescriptive Model (Noe 2023)
+
+[[noe-2023-needs-assessment|Noe (2023, Ch. 3)]] gives the detailed practitioner version of the three-analysis framework, plus the machinery around it:
+
+- **[[Organizational Analysis (Training)]]** — strategy fit, manager/peer support, resources (buy-vs-build). Usually first.
+- **[[Person Analysis (Noe Model)]]** — gap analysis via person characteristics + input/output/consequences/feedback; drives [[Motivation to Learn]] and [[Readiness for Training]].
+- **[[Task Analysis (Training)]]** — four-step task→KSAO mapping, tasks rated on importance/frequency/difficulty.
+- **[[Root Cause Analysis (Training)]]** — deciding whether training is even the right solution (7 questions, 5 Whys, Fishbone, 4 Square).
+- Methods (Table 3.2): observation, surveys, interviews, focus groups/crowdsourcing, documentation, technology, data reviews. Use multiple.
+
+> [!contradiction] Prescriptive richness vs. empirical vacuum
+> [[noe-2023-needs-assessment|Noe]] codifies an elaborate, confident, multi-part needs-assessment model — yet [[bell-et-al-2017-100-years-training-development|Bell et al. (2017)]] find only **2** empirical JAP articles ever studied the process. The textbook's detail is not matched by research validation. Treat Noe as the *prescriptive canon* and the gap callout below as its *evidentiary caveat*; the two describe the same construct from opposite ends.
 
 ## Research Status: Major Gap
 
@@ -57,6 +75,7 @@ McNall & Foster-Fishman (2007) — rapid evaluation and assessment method (REAM)
 
 ## Sources
 
+- [[noe-2023-needs-assessment]] — Noe (2023) Ch. 3, the detailed practitioner model
 - [[bell-et-al-2017-100-years-training-development]] (Future Research section)
 - [[arthur-et-al-2003-training-meta-analysis]] — meta-analytic d comparisons by NA level
 - Goldstein & Ford (2002) — canonical prescriptive model
