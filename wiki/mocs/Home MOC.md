@@ -15,6 +15,7 @@ related:
   - "[[Institutional & Strategy MOC]]"
   - "[[Knowledge Management MOC]]"
   - "[[Culture & IT MOC]]"
+  - "[[Work as a Calling MOC]]"
 status: developing
 updated: 2026-06-07
 ---
@@ -36,6 +37,7 @@ This is the front door. Start here, pick a domain, follow links into the cluster
 - [[Institutional & Strategy MOC]] — institutional change, the knowledge-based view of the firm, framing, and careers.
 - [[Knowledge Management MOC]] — organizational memory, knowledge graphs, and the LLM-wiki pattern this vault implements.
 - [[Culture & IT MOC]] — national/organizational culture and information technology; cultural fit, IT values, and the theory of IT-culture conflict.
+- [[Work as a Calling MOC]] — the meaning-of-work cluster: calling and vocation, the neoclassical/modern definitional split, and the inner × outer requiredness integration.
 
 ## Vault infrastructure
 

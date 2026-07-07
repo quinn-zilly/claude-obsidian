@@ -14,6 +14,8 @@ related:
   - "[[Job Crafting]]"
   - "[[Work Design (Concept)]]"
   - "[[oldham-fried-2016-job-design-past-present-future|Oldham & Fried (2016)]]"
+  - "[[Work as a Calling]]"
+  - "[[Modern Calling]]"
 ---
 
 # Amy Wrzesniewski
@@ -26,7 +28,7 @@ Organizational behavior scholar (Yale School of Management; later Wharton). With
 
 - **Wrzesniewski & Dutton (2001):** founding job-crafting paper (cognitive, task, relational crafting).
 - **Berg, Wrzesniewski & Dutton (2010):** crafting as a continuous, dynamic process.
-- Work on calling and meaning of work.
+- Work on calling and meaning of work. Wrzesniewski et al. (1997)'s job/career/calling work-orientation distinction is a canonical exemplar of the [[Modern Calling|modern (inside-out)]] view of [[Work as a Calling|calling]] — "works not for financial gain... but for the fulfillment that doing the work brings."
 
 ## Sources
 

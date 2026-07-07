@@ -2391,6 +2391,45 @@
         "wiki/log.md",
         "wiki/hot.md"
       ]
+    },
+    ".raw/Thompson and Bunderson - 2019 - Research on Work as a Calling…and How to Make It Matter.md": {
+      "hash": "cc8f46555a47e03882a6c8640f87b850",
+      "ingested_at": "2026-07-07",
+      "pages_created": [
+        "wiki/sources/Thompson-Bunderson-2019-Work-as-a-Calling.md",
+        "wiki/notes/Work as a Calling.md",
+        "wiki/notes/Transcendent Calling.md",
+        "wiki/notes/Neoclassical Calling.md",
+        "wiki/notes/Modern Calling.md",
+        "wiki/notes/Inner and Outer Requiredness.md",
+        "wiki/notes/Calling as Person-Job Fit.md",
+        "wiki/entities/Jeffery A. Thompson.md",
+        "wiki/entities/J. Stuart Bunderson.md",
+        "wiki/mocs/Work as a Calling MOC.md"
+      ],
+      "pages_updated": [
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md",
+        "wiki/mocs/Home MOC.md",
+        "wiki/entities/Amy Wrzesniewski.md"
+      ]
+    },
+    ".raw/Dik and Duffy - 2009 - Calling and Vocation at Work Definitions and Prospects for Research and Practice.md": {
+      "hash": "496193ff57e13207ecbd8b8eabe8612a",
+      "ingested_at": "2026-07-07",
+      "pages_created": [
+        "wiki/sources/Dik-Duffy-2009-Calling-and-Vocation.md",
+        "wiki/notes/Vocation (Dik & Duffy).md",
+        "wiki/notes/Presence vs Search for Calling.md",
+        "wiki/entities/Bryan J. Dik.md",
+        "wiki/entities/Ryan D. Duffy.md"
+      ],
+      "pages_updated": [
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md"
+      ]
     }
   },
   "address_map": {
@@ -3286,7 +3325,22 @@
     "wiki/concepts/Predictor vs Performance Domain.md": "c-001008",
     "wiki/entities/John F. Binning.md": "c-001009",
     "wiki/entities/Gerald V. Barrett.md": "c-001010",
-    "wiki/concepts/Attenuation.md": "c-001011"
+    "wiki/concepts/Attenuation.md": "c-001011",
+    "wiki/sources/Thompson-Bunderson-2019-Work-as-a-Calling.md": "c-001012",
+    "wiki/sources/Dik-Duffy-2009-Calling-and-Vocation.md": "c-001013",
+    "wiki/notes/Vocation (Dik & Duffy).md": "c-001019",
+    "wiki/entities/Bryan J. Dik.md": "c-001022",
+    "wiki/entities/Ryan D. Duffy.md": "c-001023",
+    "wiki/entities/Jeffery A. Thompson.md": "c-001024",
+    "wiki/entities/J. Stuart Bunderson.md": "c-001025",
+    "wiki/mocs/Work as a Calling MOC.md": "c-001026",
+    "wiki/notes/Work as a Calling.md": "c-001014",
+    "wiki/notes/Transcendent Calling.md": "c-001015",
+    "wiki/notes/Neoclassical Calling.md": "c-001016",
+    "wiki/notes/Modern Calling.md": "c-001017",
+    "wiki/notes/Inner and Outer Requiredness.md": "c-001018",
+    "wiki/notes/Presence vs Search for Calling.md": "c-001020",
+    "wiki/notes/Calling as Person-Job Fit.md": "c-001021"
   },
   ".raw/Pearsall et al. - 2025 - A stimulus-based model of the team adaptation process An integrated conceptual review..pdf": {
     "hash": "62f683006d3323a67c67fc23621f632a",

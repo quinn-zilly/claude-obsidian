@@ -25,7 +25,7 @@ created: 2026-04-07
 
 # Wiki Index
 
-Last updated: 2026-07-07 | Total pages: 521 | Sources ingested: 79
+Last updated: 2026-07-07 | Total pages: 536 | Sources ingested: 81
 
 Navigation: [[Home MOC]] | [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[getting-started]]
 
@@ -39,6 +39,14 @@ Navigation: [[Home MOC]] | [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[
 
 ## Concepts
 
+- [[Work as a Calling]] — experiencing work as more than a job/career; oldest work construct (Reformation→secularized); no consensual definition (14 across 84 studies); two camps + satisfaction correlates + dark side (Thompson & Bunderson 2019; Dik & Duffy 2009)
+- [[Transcendent Calling]] — high-inner/high-outer integration (Maslow's inner+outer requiredness match → destiny/fit); Thompson & Bunderson's resolution of the definitional stalemate
+- [[Neoclassical Calling]] — outside-in camp: destiny, duty, discovery; external summons/societal obligation (secularized Reformation view)
+- [[Modern Calling]] — inside-out camp: internal passion, self-expression, self-fulfillment; meaningful to the individual (Wrzesniewski 1997; Dobrow & Tosti-Kharas 2011)
+- [[Inner and Outer Requiredness]] — Maslow-derived 2×2 organizing the calling literature: "I want to" (inner) × "I must" (outer); high-high = transcendent calling
+- [[Vocation (Dik & Duffy)]] — sibling of calling minus the external summons; purpose + prosocial orientation, internally sourced; everyone potentially has one
+- [[Presence vs Search for Calling]] — currently-have vs actively-looking-for; separate subscales (Brief Calling Scale, CVQ); presence↔career decidedness
+- [[Calling as Person-Job Fit]] — Thompson & Bunderson's differentiation answer: calling = strong fit matching core passions to needs in the world; discriminant/incremental-validity agenda
 - [[Reliability]] — variance ratio (signal/total); joint property of test AND sample; Trait/State/specific mixture; necessary-not-sufficient for validity (Revelle & Condon 2019)
 - [[Coefficient Alpha]] — Cronbach's α / Guttman λ₃ / KR-20; = reliability only under tau-equivalence; not a unidimensionality index; superseded by omega
 - [[Attenuation]] — underestimation of construct correlations from measurement error; correction-for-attenuation formula (Spearman 1904b)
@@ -542,6 +550,10 @@ Navigation: [[Home MOC]] | [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[
 
 ## Entities
 
+- [[Bryan J. Dik]] — counseling/vocational psychologist (Colorado State); co-author of the transcendent-summons calling definition; CVQ co-developer
+- [[Ryan D. Duffy]] — counseling/vocational psychologist (Maryland→Florida); co-author Dik & Duffy 2009; large empirical calling program
+- [[Jeffery A. Thompson]] — organizational scholar (BYU); neoclassical + transcendent calling frameworks; Bunderson & Thompson 2009 zookeeper study
+- [[J. Stuart Bunderson]] — organizational scholar (WashU Olin); neoclassical/transcendent calling; teams, expertise, status
 - [[William Revelle]] — Northwestern; author of the R `psych` package; model-based reliability advocate; Revelle & Condon 2019
 - [[David M. Condon]] — University of Oregon; personality structure & psychometric methods; Revelle & Condon 2019
 - [[Ernest C. Davenport Jr.]] — University of Minnesota; co-originator of criterion profile analysis; Davison & Davenport 2002
@@ -720,6 +732,8 @@ Navigation: [[Home MOC]] | [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[
 
 ## Sources
 
+- [[Thompson-Bunderson-2019-Work-as-a-Calling|Thompson & Bunderson (2019)]] — *Annu. Rev. Organ. Psychol. Organ. Behav.* | narrative review of 84 calling articles; four blocking questions (definition/differentiation/generalizability/relevance); inner × outer requiredness 2×2 → [[Transcendent Calling]]; calling as strong person–job fit | 2026-07-07
+- [[Dik-Duffy-2009-Calling-and-Vocation|Dik & Duffy (2009)]] — *The Counseling Psychologist* | founding definitional paper; calling = "transcendent summons... other-oriented values"; [[Vocation (Dik & Duffy)|vocation]] = calling minus external summons; [[Presence vs Search for Calling|presence vs search]]; most-adopted definition (25/84) | 2026-07-07
 - [[revelle-condon-2019-reliability-alpha-to-omega|Revelle & Condon (2019)]] — *Psychological Assessment* | α-to-ω reliability tutorial; reliability = variance ratio, joint property of test AND sample; no single reliability; two problems with α; report model-based [[Coefficient Omega|omega]] ($\omega_h$ + $\omega_t$); ICC for ratings, κ for categorical; R `psych` | 2026-07-07
 - [[davison-davenport-2002-criterion-related-patterns|Davison & Davenport (2002)]] — *Psychological Methods* | **primary source** for [[Criterion Profile Analysis|CPA]]; level/pattern decomposition; criterion-pattern vector $b^*=b-\bar b$; nested $F$-tests; double cross-validation; worked examples (Social Closeness 12.9%; math achievement +36.8% over level) | 2026-07-07
 - [[binning-barrett-1989-validity-personnel-decisions|Binning & Barrett (1989)]] — *Journal of Applied Psychology* | validation = theory building; construct/content/criterion-related validity are three **evidential bases** (not types) serving the overriding **Inference 9** (predictor → performance domain); [[Criterion Problem|criterion problem]] = truncated nomological net; [[Predictor vs Performance Domain]] | 2026-07-07

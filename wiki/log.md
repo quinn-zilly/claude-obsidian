@@ -14,6 +14,15 @@ related:
 created: 2026-04-07
 ---
 
+## [2026-07-07] ingest | work-as-a-calling pair (Dik & Duffy definition + Thompson & Bunderson taxonomy)
+
+- **Batch of 2** seeding the vault's meaning-of-work / calling cluster (new [[Work as a Calling MOC]], LYT mode).
+- **(1) [[Dik-Duffy-2009-Calling-and-Vocation|Dik & Duffy (2009)]]** (*The Counseling Psychologist*) — founding definitional paper. **Calling** = "a transcendent summons, experienced as originating beyond the self, to approach a particular life role... [with] other-oriented values and goals as primary sources of motivation." **[[Vocation (Dik & Duffy)|Vocation]]** = the same minus the external summons (internally sourced; everyone potentially has one). Three dimensions (summons / purpose-meaning / prosocial); the [[Presence vs Search for Calling|presence-vs-search]] distinction; calling as an ongoing *approach* to work (compatible with [[Job Crafting]]), not a one-time discovery. Most-adopted single definition (25/84 articles).
+- **(2) [[Thompson-Bunderson-2019-Work-as-a-Calling|Thompson & Bunderson (2019)]]** (*Annu. Rev.*) — narrative review of 84 high-impact articles; diagnoses four blocking questions (definition/differentiation/generalizability/relevance). No consensual definition (14 across the sample). Two camps — [[Neoclassical Calling|neoclassical/outside-in]] (destiny, duty, discovery) vs [[Modern Calling|modern/inside-out]] (passion, self-fulfillment) — reconciled via Maslow's [[Inner and Outer Requiredness]] as **orthogonal dimensions**; the high-high cell = **[[Transcendent Calling]]**. Differentiation answer: [[Calling as Person-Job Fit|calling as a strong form of person–job fit]] (inner passion ↔ world need). Dark side: sacrifice, rigidity, discounting feedback, regret when unlivable.
+- **Cross-refs:** Dik & Duffy is one of the few definitions straddling **both** requiredness dimensions (per T&B's Table 2); [[Amy Wrzesniewski]] (already in vault) tagged as canonical modern-calling exemplar; MOC links [[Job Crafting]] and adjacent [[Learning & Development MOC]]. Differentiation/discriminant-validity gap ties to the vault's [[Criterion Problem]]/construct-validity spine.
+- **New:** 8 concepts (Work as a Calling, Transcendent/Neoclassical/Modern Calling, Inner and Outer Requiredness, Vocation, Presence vs Search, Calling as Person-Job Fit) + 4 entities ([[Bryan J. Dik]], [[Ryan D. Duffy]], [[Jeffery A. Thompson]], [[J. Stuart Bunderson]]) + 2 sources + 1 MOC (c-001012–c-001026). Updated [[Home MOC]], [[Amy Wrzesniewski]], [[index]].
+- **Candidate next:** Wrzesniewski et al. (1997) job/career/calling primary; Bunderson & Thompson (2009) zookeeper study; Dobrow & Tosti-Kharas (2011); Duffy & Dik (2013) review.
+
 ## [2026-07-07] ingest | measurement-foundations trio (reliability + CPA primary + validity inference)
 
 - **Batch of 3** anchoring the vault's psychometrics/measurement spine: how we estimate reliability, how we decompose predictor patterns, and how validity inferences are logically structured.
