@@ -25,7 +25,7 @@ created: 2026-04-07
 
 # Wiki Index
 
-Last updated: 2026-07-06 | Total pages: 496 | Sources ingested: 73
+Last updated: 2026-07-06 | Total pages: 513 | Sources ingested: 76
 
 Navigation: [[Home MOC]] | [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[getting-started]]
 
@@ -39,6 +39,13 @@ Navigation: [[Home MOC]] | [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[
 
 ## Concepts
 
+- [[Protean Career Orientation]] — career attitude of self-direction + intrinsic values in pursuit of psychological success; two dimensions + three processes (Hall et al. 2018)
+- [[Proactive Career Orientation]] — single general factor uniting protean self-directed/values-driven + boundaryless psychological mobility; physical mobility distinct (Wiernik & Kostal 2019)
+- [[Objective Career Success]] — quantitative, verifiable outcomes (pay, rank, promotions); Seibert et al. 2024 revalue it against the OP critique
+- [[Career Self-Management Behavior]] — proactive career actions (planning, networking, self-development); most proximal criterion of proactive career orientation
+- [[Protean Paradox]] — individual self-direction/values can also benefit the group/organization (Hall et al. 2018)
+- [[Sustainable Career]] — dynamic balance of happiness × health × productivity over the life course (De Vos et al. 2020; Seibert et al. 2024)
+- [[Career Shocks]] — disruptive positive/negative events triggering career-change deliberation (Seibert et al. 2013; Akkermans et al. 2018)
 - [[Performance Basis of Pay]] — the *strength* of the realized pay–performance link (pay-performance sensitivity); distinct from equity and equality; transparency weakens it ~42% (Obloj & Zenger 2022)
 - [[Benefit Experience Framework]] — availability vs use vs subjective evaluation of a benefit; evaluation dominates (→POS ρ≈.40); social-exchange grounding (Hong et al. 2024)
 - [[Theory-Driven Evaluation]] — evaluation guided by an explicit program theory; targets causal explanation (how/why), not just description; method-neutral (Coryn 2011)

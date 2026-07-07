@@ -1,0 +1,1890 @@
+## Page 1
+
+AnnualReviewofOrganizationalPsychologyand
+
+OrganizationalBehavior
+
+UnderstandingContemporary
+
+5
+
+3
+
+:CareerSuccess:ACritical
+
+3
+
+4
+
+:
+
+8
+
+1
+
+6
+
+Review2
+
+0
+
+2
+
+y
+
+a
+
+M
+
+3
+
+12ScottSeibert,JosAkkermans,1
+
+,
+
+d
+
+1eandCheng-Huan(Jerry)Liu
+
+W
+
+:
+
+n
+
+1OHumanResourceManagementDepartment,SchoolofManagementandLaborRelations,
+
+7RutgersUniversity,Piscataway,NewJersey,USA;email:scott.seibert@rutgers.edu
+
+2
+
+2
+
+2DepartmentofManagementandOrganization,SchoolofBusinessandEconomics,.
+
+2
+
+0VrijeUniversiteitAmsterdam,Amsterdam,TheNetherlands
+
+2
+
+.
+
+3
+
+1
+
+1
+
+.
+
+7
+
+9
+
+:
+
+P
+
+I
+
+)
+
+t
+
+s
+
+e
+
+u
+
+g
+
+(
+
+Annu.Rev.Organ.Psychol.Organ.Behav.2024.
+
+tKeywords
+
+s
+
+e
+
+11:509–34
+
+u
+
+Gcareersuccess,careerself-management,careercompetencies,internallabor
+
+FirstpublishedasaReviewinAdvanceon
+
+.
+
+gmarkets,careerequality
+
+rDecember8,2023
+
+o
+
+.
+
+s
+
+wTheAnnualReviewofOrganizationalPsychologyand
+
+Abstract
+
+e
+
+iisonlineatOrganizationalBehaviorv
+
+e
+
+Thisarticleprovidesacriticalreviewofdevelopmentsintheliteratureonorgpsych.annualreviews.orgr
+
+la
+
+ucareersuccess.Wereviewworkfromboththeorganizationalpsychology
+
+nhttps://doi.org/10.1146/annurev-orgpsych-120920-
+
+n
+
+a(OP)andorganizationalbehavior(OB)disciplines,highlightingthedifferent051543
+
+.
+
+w
+
+perspectives,strengths,andweaknessesofeacharea,andattempttorecon-w
+
+Copyright©2024bytheauthor(s).Thisworkis
+
+w
+
+ciletheseperspectivesoncareersuccesstosuggestproductivenewresearch licensedunderaCreativeCommonsAttribution4.0
+
+m
+
+oInternationalLicense,whichpermitsunrestricted
+
+directions.First,thearticlereflectsonconceptualizationsofobjectiveandr
+
+f
+
+use,distribution,andreproductioninanymedium,
+
+d
+
+subjectivecareersuccessandtheirrelativevaluetothefield.Wethendiscusse
+
+providedtheoriginalauthorandsourcearecredited.d
+
+aseveralcategoriesofcareersuccesspredictorsdrawnfromeconomic,soci-
+
+Seecreditlinesofimagesorotherthird-partyo
+
+ln
+
+materialinthisarticleforlicenseinformation.
+
+ological,andsocial-psychologicalperspectivesusedinOPandOB.Thesew
+
+o
+
+Dincludehumancapital,internalandexternallabormarkets,sponsorshipand
+
+socialcapital,stableandmalleableindividualdifferences,andcareerself-
+
+managementbehaviors.Weprovideresearchsuggestionswithineachof
+
+thosesectionsaswellasanintegrativeresearchagendabuiltaroundseveral
+
+emergingissuesandtheoreticalperspectives,encouragingfutureresearch
+
+ontheimplicationsofsustainablecareers,careershocks,marginalizedgroup
+
+experiences,andalternativeemploymentarrangementsforcareersuccess.
+
+509
+
+## Page 2
+
+53:34:81
+6202
+yaM
+31
+,deW
+:nO
+722.202.311.79
+:PI
+)tseug(
+tseuG
+.gro.sweiverlaunna.www
+morf
+dedaolnwoD
+1.INTRODUCTION
+Itisatimelymomentforscholarstothinkandwriteaboutcareersuccess.Wecontinuetoexperi-
+encetheaftermathoftheCOVID-19pandemic,manifestintheworkforcethroughphenomena
+thathavebeenvariouslytermedtheGreatResignation,theGreatReshuffling,QuietQuitting,and
+theReturntotheOfficecontroversy.Theselabelsreferenceunprecedentedlevelsofwithdrawal
+fromthelabormarketandmovementbetweenorganizations,occupations,andself-employment
+asworkersseekgreatercompensation,benefits,flexibility,andmeaningfromtheirworklives.The
+effectsarebeingfeltacrosstheoccupationalandgeographicspectra,fromlower-payingjobsin
+retailandhospitality,tonursingandotherskilledjobsintheOECD(OrganisationforEconomic
+Co-operationandDevelopment)membercountries,toentry-levelmanufacturingjobsinChina
+andSoutheastAsia,tosought-aftertechnicaljobsacrosstheglobe(Fuller&Kerr2022,Tharoor
+2021).Afterdecadesofstagnation,wagesamonglow-wageoccupationshavebeguntogroweven
+aslaborproductivityhasbeguntodecline(BureauLaborStat.&USDep.Labor2022,Gould
+&Kandra2022).Theshockoftheglobalpandemicmayhavebroughtustoaninflectionpoint
+as individuals again reconsider their orientation toward work,reflect on their careers,and em-
+brace the boundaryless nature of work and careers as fully as have their employers in previous
+decades.Suchphenomenacanonlybefullyunderstoodfromacareerperspective,makingthisan
+opportunetimeforustoreflectontheprogressandchallengesintheresearchoncareersuccess.
+In Section 2 below,we provide a brief overview of the source disciplines that have histori-
+callyinformedthestudyofcareersuccesstohelpdefinethescopeofthepresentreview.Section3
+reviewstraditionalandemergingconceptualizationsofcareersuccessitself.Section4reviewspre-
+dictorsofcareersuccessorganizedaroundsevenbroadtheoreticalanddisciplinaryperspectives.
+Finally,Section 5 offers an agenda for future career success research,focusing on five promis-
+ingperspectives.Throughoutthisreview,weprovideacriticalperspectiveonthestudyofcareer
+successinhopesofpromptingconstructiveprogress.
+2.SCOPEOFREVIEW
+Organizationalpsychology1 (OP)andorganizationalbehavior(OB),thetworelatedbutdistinct
+academic traditions that lend their name to this journal, are the primary homes for research
+on career success in the past 30 years. Although a strict delineation between these academic
+traditions cannot be drawn, these disciplines have their own distinct perspectives, constructs,
+theories,andmethodologicalstandards.Forexample,scholarswhoidentifythemselvesaswork
+and organizational psychologists typically draw from theories of work,occupational,and voca-
+tionalpsychology,whereasscholarswhoidentifywithOBtendtodrawfrommanagementand
+sourcedisciplinessuchassociologyandeconomics.Inaddition,OPfocusesprimarilyoninternal
+psychological processes,constructs specific to careers,and subjective career outcomes,whereas
+OBfocusesmoreonworkplacebehaviors,generalOBconstructs,andobjectiveworkandcareer
+outcomes. Other distinctions include such seemingly arbitrary but important differences as
+geographiclocation(e.g.,EuropeortheUnitedStates)andpreferredjournaloutlets(e.g.,Journal
+ofVocationalBehaviorandCareerDevelopmentInternationalorJournalofAppliedPsychologyandPer-
+sonnelPsychology).Itisathemeofthisreviewthatthesetwo“invisiblecolleges”(Crane1972)have
+beenworkingtounderstandthesamephenomenonbutprogressingalongparalleltracks,some-
+timessharingtheories,models,andconstructsbutothertimesduplicatingeachother’sworkor
+1Thefieldoforganizationalpsychologyisalsooftenreferredtoasworkandorganizationalpsychology,and
+itisinthisliteraturewheremuchoftheinterestincareersuccessisshown.Forthesakeofconsistency,we
+continuetorefertoorganizationalpsychologythroughoutthisarticle.
+510 Seibert (cid:129)Akkermans (cid:129)Liu
+
+## Page 3
+
+53:34:81
+6202
+yaM
+31
+,deW
+:nO
+722.202.311.79
+:PI
+)tseug(
+tseuG
+.gro.sweiverlaunna.www
+morf
+dedaolnwoD
+pursuingseparatelinesofinquiryaltogether.Eachresearchtraditioncanbenefitfromknowing
+and understanding the other in greater depth, borrowing, refining, or refuting ideas where
+necessary,therebymovingtowardamorecoherentandcomprehensiveunderstandingofcareer
+success.
+3.CONCEPTUALIZINGANDRE-CONCEPTUALIZING
+CAREERSUCCESS
+Althoughtheconstructofcareersuccessmayseemintuitive—i.e.,youwillknowitwhenyousee
+it—many consider career success a social construction rather than an objective reality,embed-
+dedinunderstandingaparticularhistoricaltimeandplace,andthereforetherearemultipleand
+dynamicallychangingperspectivesontheconstruct(Driesetal.2008).
+Acareerhasbeendefinedasthe“evolvingsequenceofaperson’sworkexperiencesovertime”
+(Arthuretal.1989,p.8).Careersuccesshasbeendefinedasthepositivematerialandpsycholog-
+icaloutcomesorachievementsresultingfromthoseworkactivitiesandexperiences(Judgeetal.
+1995).Thesedefinitionsreflectbothobjectiveandsubjectiveoutcomesassociatedwithcareers.
+Objectivecareersuccess(OCS)referstooutcomesthatarequantitativeandindependentlyverifi-
+ablesuchasoccupationalstatus,income,numberorspeedofpromotions,andtheachievementof
+professionaltitleorrankinanorganizationalhierarchy.Theyreflectanintersubjectivestandard
+thatpeersortheincumbentthemselvescanusetoevaluateone’slevelofsuccessrelativetoothers
+(Gattiker&Larwood1986).Inthatsense,OCSindicatorsimplicitlyreflectsocialcomparisons
+withothers.Subjectivecareersuccess(SCS),however,referstotheindividual’scognitiveevalu-
+ationandaffectivereactiontoallaspectsofone’scareer,includingobjectiveoutcomesaswellas
+factorsholdingmoreidiosyncraticpersonalvaluesandmeanings.SCSreflectsaself-referential
+frameofreference(Gattiker&Larwood1986)andisthereforemuchlesslikelytobeinfluenced
+bycomparisonsrelativetopeers.
+Despiteitsrelativelystraightforwarddefinition,thecareersuccessconstructhasbeenthesub-
+ject of considerable debate over the past two decades.Changing ideas regarding the nature of
+career success emerged with changes in the nature of careers themselves,most famously iden-
+tified by Arthur & Rousseau (1996) as the rise of the boundaryless or, perhaps more broadly,
+contemporarycareer(Arthur2008).Ifthetraditionalcareerofverticalmovementwithinasingle
+organizationwasathingofthepast,thesescholarsargued,OCSmightbelessrelevantandSCS
+mightbecomeamorecentralconstruct.Severalscholars(e.g.,Arthuretal.2005,Heslin2005)
+called for a more differentiated view on,and measurement of,SCS.Much of the emphasis on
+expandingthedomainofcareersuccessthatfollowedtookplaceintheOPliteraturewithoutex-
+plicitconnectionstoissuesinthewiderOBliterature.Thecritiqueoftherelevanceoftraditional
+careertheorycontinuestodrivechangesintheconceptualizationandmeasurementofcareersuc-
+cesstoday.However,webelievethatacontinuedexplorationofthesubjectivemeaningofcareer
+successwillhavediminishingreturnsrelativetomorepressingquestions;fairwarningasweoffer
+acriticalviewinthehopesofforminganewconsensus.
+3.1.ObjectiveCareerSuccess:CritiquesandReplies
+In this section,we briefly review the well-established critiques of OCS and offer a number of
+reasonstovalueOCSasanimportantcareeroutcome.
+3.1.1. Critiquesofobjectivecareersuccess. Considerableconceptualworkhasfocusedonthe
+deficienciesofOCSindicators(e.g.,Heslin2005).Accordingtothislineofreasoning,objective
+indicators,suchassalaryattainmentorhierarchicallevel,arecontaminatedascareersuccesscon-
+structsbecausetheyareaffectedbyfactorsoutsidetheindividual’scontrol,suchasoccupational
+www.annualreviews.org (cid:129) ContemporaryCareerSuccess 511
+
+## Page 4
+
+53:34:81
+6202
+yaM
+31
+,deW
+:nO
+722.202.311.79
+:PI
+)tseug(
+tseuG
+.gro.sweiverlaunna.www
+morf
+dedaolnwoD
+wage structures, and deficient because they neglect individual subjective dimensions of career
+success,suchassatisfactionandmeaningfulwork.Furthermore,thenewcareerstructurewould
+leademployeestoplacelessvalueonobjectiveoutcomesandgreatervalueonthesubjectiveand
+sometimesidiosyncraticaspectsoftheirworkandcareers.
+3.1.2. Revaluingobjectivecareersuccess. Althoughweacknowledgethevalidityoftheseis-
+sues,several of these critiques,especially coming from OP,exaggerate the deficiencies of OCS
+constructs and inhibitimportantresearch directions.First,thatthese indicators are indeed ob-
+jective is an important attribute in itself that should not be discarded. After all, being able to
+objectivelyassesscareersuccessallowsforcomparisonsbetweenpeopleandcircumventsmethod-
+ological issues of inflated effect sizes due to common method variance (Podsakoff et al.2003).
+Second,thecriteriondeficiencyandcontaminationcritiquesassumethatOCSconstructs,suchas
+salary,areameasureofcareerperformance(actionsthatarethoughttoleadtogoalachievement)
+whentheyare,infact,adirectmeasureofonespecificcareergoaltobeachieved(Campbell&
+Wiernik2015).Finally,intermsofresearch,itiscommonpracticeforoccupationtobeincludedas
+acontrolvariable,allowingresearcherstodrawconclusionsaboutfactorsaffectingcareersuccess
+thatarevalidacrossmultipleoccupations.Intermsofpractice,occupationaldifferencesinwage
+levelsthatderivefromeconomicorsocialprocessesshouldbeincludedaspartofcareerdecision
+makingratherthanviewedasextraneousfactors.
+InadditiontothesemethodologicalcritiquesofOCS,sincethe1990sscholarshavetakenon
+aprescriptivetoneintheircritique.Careerscholarshavearguedthat,becauseopportunitiesfor
+vertical movement within organizations are less frequent in the contemporary career era,em-
+ployeeseitherwillorshouldfocuslessonOCSoutcomesandmoreonSCSoutcomes.Thereare
+severalproblemswiththisview.First,althoughitdoesappearthataveragejobtenurehasgone
+down over the past 30 years,the evidence does not provide strong support for the proposition
+that there actually was a sudden and dramatic change in organizational tenure since the 1990s
+(Chudzikowski2012,Rodrigues&Guest2010).Second,totheextentthatcareerprogresswithin
+thefirmhasbecomerarer,competitionforthemorelimitednumberofinternalpromotionsmay
+bemoreintense,andOCSmaybeamorevaluedoutcomethanever.Third,thede-emphasison
+OCSinthecareerliteraturemaybelessanempiricalobservationaboutemployeesthanarhetor-
+icalstrategynormalizingthelossofstableorganizationalcareersandorganizationalsupportfor
+careerdevelopment(Inksonetal.2012).Finally,studiesofOCSwillalwaysbeappropriatesince
+atleastsomeindividualswillwanttoknowhowtoattainhigherlevelsofthesematerialoutcomes.
+The emphasis on personal meaning in one’s career may be a luxury of the WEIRD (Western,
+Educated,Industrialized,Rich,andDemocratic)(Henrichetal.2010)samplesoftenthefocusof
+careerresearch(Inksonetal.2012).RecentqualitativeworkintheUnitedStatesandacrossthe
+globeshowsthatfinancialachievementandsecurityremainimportantconsiderationsforworking
+adults(Mayrhoferetal.2016,Seibertetal.2013).Furthermore,OCSislikelytoremainakeen
+interestfromanequityperspectiveforemployeesinnontraditionalworkarrangementsandfor
+traditionallymarginalizedgroups,suchaswomen,racialandethnicminorities,thosewithnontra-
+ditionalsexualorgenderorientations,peoplewithdisabilities,anddisplacedimmigrants(Ashford
+etal.2018,Blusteinetal.2019).
+Insum,OCSremainsrelevantandimportant.ThesolutiontothelimitationsofOCSisnotto
+abandonthisoutcomebut,rather,tobroadenourassessmentofthecareersuccessdomainsuch
+thatitincludesbothOCSandSCS.ResearchoncareersuccessthatincludesbothOCSandSCS
+hasbeencommonforsometimebut,asaresultofthesecritiques,maybeonthedecline.Arthur
+et al. (2005) showed that 65% of studies of career success appearing in management journals
+included both OCS and SCS measures,whereas Spurk et al.(2019) showed that less than half
+512 Seibert (cid:129)Akkermans (cid:129)Liu
+
+## Page 5
+
+53:34:81
+6202
+yaM
+31
+,deW
+:nO
+722.202.311.79
+:PI
+)tseug(
+tseuG
+.gro.sweiverlaunna.www
+morf
+dedaolnwoD
+of the career success studies they reviewed included both.We recommend,when possible,the
+inclusionofbothtypesofoutcomesfordevelopingandtestingcareersuccessmodels,unlessthere
+isawell-articulatedtheoreticalreasontofocusexclusivelyonone.
+3.2.SubjectiveCareerSuccess:ProgressandUnresolvedIssues
+Considerablescholarlyeffort,especiallyintheOParea,hasfocusedonbroadeningthedomain
+oftheSCSconstructtobettercapturethechangingnatureofcareers.Inreviewingtheliterature
+between2003and2014,Shockleyetal.(2016)foundthat74%oftheincludedarticlesoperational-
+izedtheconstructaseithercareersatisfactionoraglobalsuccessevaluation.Here,wereviewthe
+effortstodefineamorecomprehensive,multidimensionalconceptualizationofSCS.Following
+that,weexaminenumerouskeyissuesthathaveemergedregardingtheconceptualizationofSCS
+thatwebelieveneedtoberesolvedtomoveresearchonSCSforward.
+3.2.1. Advancesinthesubjectivecareersuccessconstruct. Considerableprogresshasbeen
+madetowardidentifyingthefullrangeofSCSfacetsordimensions.Themostpopularmeasureof
+SCShasbeenGreenhausetal.’s(1990)careersatisfactionscale,whichisconceptualizedasasingle
+dimensionreflectingsatisfactionwithseveralobjectiveandsubjectivedimensionsaswellasover-
+allsatisfactionassociatedwiththeachievementofone’scareergoals.Recently,however,research
+intheUnitedStates,inEurope,andinacross-culturalcontext(Briscoeetal.2021,Driesetal.
+2008,Seibertetal.2013,Shockleyetal.2016)hasenhancedourunderstandingofthe“meaning”
+ofcareersuccess,i.e.,therangeofissuespeoplethinkaboutwhentheyassesstheircareersuccess.
+Table1providesanintegrationofthecontentdomainsofcareersuccessidentifiedinaselection
+ofthesestudies(seeDriesetal.2008andShockleyetal.2016formorecomprehensivereviews).
+Based on this integration of SCS conceptualizations,we see eight main dimensions emerging,
+whichfocusonpeople’ssatisfactionorexperienceof(a)financialconcerns,(b)advancementinre-
+sponsibility,status,andinfluence,(c)interpersonalrelations,(d)challengeandmastery,(e)meaning
+andimpact,(f)self-development,(g)careeropportunitiesandcontrol,and(h)thework-lifein-
+terface.Inaddition,anoverallassessmentofone’sSCSorsatisfactionwithone’scareerisalsopart
+ofseveralframeworks.
+Despitethesesignificantadvancements,todate,therehasbeenlittleuseofthenewscalesin
+empiricalwork.Forexample,thepromisingmultidimensionalviewsofSCSofferedbyShockley
+etal.(2016)andtheCross-CulturalCollaborationonContemporaryCareers(5C)group(Briscoe
+etal.2021)have,thusfar,mostlybeenusedasorganizingschemesforliteraturereviewsandcon-
+ceptualpapers(e.g.,Spurketal.2019).Infact,mostempiricalstudiescitingShockleyetal.’swork
+stillusedGreenhausetal.’scareersatisfactionscaletomeasureSCS.Similarly,empiricalstudies
+usingthe5Cscalearestartingtoappear,althoughmosthavethusfarfocusedprimarilyonthe
+financial success facet (e.g.,Bagdadli et al.2021,Smale et al.2019).Although this may be due
+tothenewnessofthescales,resolutionofremainingissuesmaybenecessarybeforescholarscan
+makefulluseofthesenewconceptualizations,notleastofwhichistheincrementalvalueofthese
+longerscalesoverthemuchshorterglobalcareersuccessscales.
+3.2.2. Moving subjective career success research forward. First,the conceptual and em-
+piricaloverlapbetweenexistingconstructsintheOBliteratureandtheemergingcareersuccess
+constructs will need to be resolved.Ng & Feldman (2014) reported a corrected meta-analytic
+correlationof0.61betweenjobsatisfactionandcareersuccessbasedonpreviousSCSmeasures.
+SeveralofthedimensionsemergingfrommorerecentSCSscalessuggestevengreateroverlap.
+Forexample,recognition,quality ofwork,meaningful work,and positiverelationships atwork
+areidentifiedascareersuccessdimensions(Briscoeetal.2021,Shockleyetal.2016)butappear
+www.annualreviews.org (cid:129) ContemporaryCareerSuccess 513
+
+## Page 6
+
+53:34:81
+6202
+yaM
+31
+,deW
+:nO
+722.202.311.79
+:PI
+)tseug(
+tseuG
+.gro.sweiverlaunna.www
+morf
+dedaolnwoD
+snoitazilautpecnocsseccusreeracevitcejbusdetceleS
+1elbaT
+.lateyelkcohS
+8002.lateseirD
+.latesuahneerG
+&rekittaG
+1202.lateeocsirB
+6102
+3102.latetrebieS
+)ylnolautpecnoc(
+0991
+6891doowraL
+snrecnoclairetaM
+dedulcnitoN
+sseccuslaicnaniF
+tnemeveihcalanosrepartnI
+emocnI
+laicnaniF
+laicnaniF
+ytiruceslaicnaniF
+(cid:2)
+ytiruceS
+(cid:2)
+sseccuslaicnaniF
+(cid:2)
+dedulcnitoN
+ecneuflnI
+sutatsdnarewoP
+tnemeveihcalanosrepretnI
+tnemecnavdA
+lacihcrareiH
+reeraC
+tnemecnavdA
+(cid:2)
+tnemecnavda
+snoitalerlaicoS
+noitingoceR
+dedulcnitoN
+tceffalanosrepretnI
+dedulcnitoN
+lanosrepretnI
+lanosrepretnI
+evitisoP
+(cid:2)
+noitingoceR
+(cid:2)
+snoitaler
+spihsnoitaler
+noitarepooC
+(cid:2)
+dedulcnitoN
+krowytilauQ
+dedulcnitoN
+tnemeveihcalanosrepretnI
+dedulcnitoN
+boJ
+dnaegnellahC
+ecnamrofreP
+(cid:2)
+yretsam
+snoitalerlaicoS
+lufgninaeM
+dedulcnitoN
+tceffalanosrepretnI
+dedulcnitoN
+dedulcnitoN
+dnagninaeM
+tcapmievitisoP
+(cid:2)
+krow
+deviecreP
+(cid:2)
+tcapmi
+noitubirtnoc
+dnagninraeL
+dnahtworG
+dnaegdelwonK
+tceffalanosrepartnI
+tnempolevedllikS
+dedulcnitoN
+-fleS
+tnempoleved
+tnempoleved
+tnempolevedlliks
+tnempoleved-fleS
+(cid:2)
+tnempoleved
+ytivitaerC
+(cid:2)
+pihsruenerpertnE
+yticitnehtuA
+dnaytilibayolpmE
+dedulcnitoN
+dedulcnitoN
+dedulcnitoN
+lortnocreeraC
+bojelbarised seitinutroppo
+snoitalerlaicoS
+efillanosreP
+dedulcnitoN
+dedulcnitoN
+dedulcnitoN
+dedulcnitoN
+efil-kroW
+ecnalabefil-kroW
+(cid:2)
+ecafretni
+dedulcnitoN
+noitcafsitaS
+dedulcnitoN
+tnemeveihcalanosrepartnI
+drawotssergorP
+dedulcnitoN
+llarevO
+noitcafsitaS
+(cid:2)
+slaogreerac
+fotnemeveihcA
+slaogreerac
+514 Seibert (cid:129)Akkermans (cid:129)Liu
+
+## Page 7
+
+53:34:81
+6202
+yaM
+31
+,deW
+:nO
+722.202.311.79
+:PI
+)tseug(
+tseuG
+.gro.sweiverlaunna.www
+morf
+dedaolnwoD
+tooverlapwithpreviouslyidentifiedfacetsofjobsatisfaction(Weissetal.1967)2orintrinsicjob
+characteristics (Hackman & Oldham 1975).Likewise,the work-life balance dimension of SCS
+is likely to overlap with existing work-family balance measures (Carlson et al.2009).Although
+theseSCSscalesmayprovideamorefine-grainedunderstandingofcareersuccess,theyraiseis-
+suesofcontaminationwithotherconstructs.Weargueitiscriticalthatscholarsarecarefuland
+consistentinhowtheyconceptualizeandoperationalizetheseconstructsandwillneedtofocus
+onincrementalvalidityaboveandbeyondexistingOBmeasures.
+Second,thequestionsofmultidimensionalityandweightingofdimensionsalsobecomemore
+significantasthenumberofSCSdimensionsincreases.Althoughdistinctdimensionsmaybedi-
+agnosticforappliedpurposes(Briscoeetal.2021),manyresearchersinthebroadermanagement
+fieldmightpreferashorter,unidimensionalscalefortheorydevelopmentandtesting.Sincethe
+dimensionsarecorrelated,researcherswilllikelyneedtousestructuralequationmodelingtech-
+niquestosimultaneouslymodeltheindependentSCSfacetsaswellasoneortwoOCSindicators,
+adauntingprospect.Ifthedimensionsareunique,cantheybeusedaloneordoesoneneedtouse
+themallandformulateseparatehypothesesforeach?SomeoftheSCSscalesareconceptualizedas
+unidimensional,evenifitemstapseveraldistinctfacetsofone’scareer(e.g.,Greenhausetal.1990,
+Turban&Dougherty1994).Othermeasuresaredesignedtoassessmultipledistinctdimensions,
+buttheauthorssuggestthesubfactorscanbeunit-weightedtoprovideasinglecareersatisfaction
+measure(Seibertetal.2013).Yetothers,likeBriscoeetal.’s(2021)scale,explicitlyrecommend
+usingthedimensionsasseparatemeasuresbutincludeimportanceweightstoconstructanoverall
+SCSscale.Hence,webelievesomelevelofconsensuswillbenecessaryregardingthewaydifferent
+SCSmeasurementsaretobeused.
+Previousworkonjobsatisfactionmaybeinstructive.Forexample,Ironsonetal.(1989)found
+that specific job satisfaction facets predicted specific criteria better than a composite scale,but
+theirglobalmeasureofjobsatisfactionexplainedvarianceinthespecificcriteriabeyondthefive
+specificfacetsandwasparticularlyusefulforpredictingbroadoutcomes,suchasintenttoleave.
+ThelessonhereforcareersuccessresearchmaybethatspecificdimensionsofSCSarebestfor
+specific career predictors or interventions (see Spurk et al. 2019) but global measures of SCS
+maybestbeusedtoassessoverallSCSorasapredictorofabroadsubsequentcareerbehavior,
+such as job or career turnover.In all,the OP (i.e.,multidimensional preference) and OB (i.e.,
+unidimensionalpreference)fieldsmaylearnfromeachotherbyadoptingacustomizedapproach
+tomeasuringSCS.Morespecifically,usingfine-grainedSCSmeasurementinstrumentsisadvised
+whenscholarsareinterestedinpredictors,mechanisms,orinterventionstheoreticallyassociated
+withonlyspecificaspectsofone’scareer.ButwhenscholarsuseSCSaspartofabroaderresearch
+modelaimingtobuildandtesttheoryaboutthegeneralnotionofSCS,shortunidimensionalor
+globalSCSmeasureslikeGreenhausetal.’s(1990)arelikelythemostappropriate.
+Onafinalnote,therehasbeenagreatdealofresearchonthesubjectivemeaningofcareer
+success.Thesimilarityofthecontentdimensionsthatemergesuggeststhatwehavereachedwhat
+qualitative researchers call saturation.Given the abovementioned developments in uncovering
+thefacetsofSCS,itisunlikelythat,atleastfortheforeseeablefuture,exploratoryresearchonthe
+subjectivemeaningofcareersuccesswillyieldpreviouslyunidentifieddimensionsofSCSgeneral
+enoughtoapplytoarangeofoccupations.Assuch,nowisthetimetoconsolidatewhatweknow
+about SCS facets,pruning and refining through further empirical testing.On the other hand,
+therearemanymethodologicalquestionsregardingtheconceptualizationofthecareersuccess
+2TheMinnesotaSatisfactionQuestionnairegrowsoutofthetheoryofworkadjustment(Dawisetal.1964),
+whichisitselfatheoryofcareersuccess,suggestingthatatheoreticalassociationbetweenthesedimensions
+andcareersuccessisalreadywellestablished.
+www.annualreviews.org (cid:129) ContemporaryCareerSuccess 515
+
+## Page 8
+
+53:34:81
+6202
+yaM
+31
+,deW
+:nO
+722.202.311.79
+:PI
+)tseug(
+tseuG
+.gro.sweiverlaunna.www
+morf
+dedaolnwoD
+Table2 Choicesintheconceptualizationandmeasurementofcareersuccess
+Typeofcareeroutcome Measurementstrategy Frameofreference Dimensionalityofmeasure
+Natureofthecareer Sourceofmeasurement Comparativeframe Singledimension
+outcome
+(cid:2) Companyarchivaldata (cid:2) Progressrelativetoyour (cid:2) Globalitemsdesigned
+(cid:2) Inprinciple,objective orobjectiverating owncareergoals toformasinglelatent
+andverifiable (cid:2) Occupationalstatus (cid:2) Presumablysetatsome construct
+(cid:2) Salary,numberof previoustimeandnot (cid:2) e.g.,Iamsatisfied
+(cid:2) Paneldataset
+promotions,rank, updatedbasedon withmycareer
+(cid:2) Jobtitle
+occupationalstatus subsequentcareerevents
+(cid:2) Composite,madeupof
+(cid:2) Self-report
+(cid:2) Subjective,but (cid:2) Evaluationrelativetowhat subdimensions
+relativelycognition- (cid:2) Salary,career yourpeershaveachieved (cid:2) Unitweightingof
+based satisfaction (cid:2) Evaluationrelativetothe itemsor
+(cid:2) Progressrelativeto age/timestandardsofthe subdimension
+peersorpersonal profession scores
+goals (cid:2) Dimensions
+(cid:2) Subjective,affective, combinedbasedon
+idiosyncratic individual
+(cid:2) Senseofpurposein importanceweights
+meaningfulwork
+Motivationalbasisof Measurementstrategyfor Timeframe Multidimensional
+outcome self-reports
+(cid:2) Currentstate (cid:2) Includealldimensions
+(cid:2) Extrinsic (cid:2) Descriptive (cid:2) Howsatisfiedareyouwith oronlyspecific
+(cid:2) Money,rank (cid:2) Ihaveopportunities yourcareer? dimensions
+forpromotions. (cid:2) Willspecific (cid:2) Instrumental (cid:2) Pasttrajectoryofyourcareer
+hypothesesbeformed
+(cid:2) Statusandinfluence (cid:2) Evaluative (cid:2) Lookingbackoverthepath
+foreachdimension?
+(cid:2) Learningand (cid:2) Howsatisfiedare ofyourcareer...
+growth youwithyour
+(cid:2) Thefuturetrajectoryof
+opportunitiesfor
+(cid:2) Intrinsic yourcareer
+promotions?
+(cid:2) Meaningfulwork (cid:2) Thisorganizationhas
+careeropportunitiesthatare
+appealingtome.
+(cid:2) Longitudinaldatacollected
+atmultiplepointsintime
+(cid:2) Y1,Y2,Y3
+constructthathavenotyetbeenaddressed.Table2presentsapreliminaryguideforfutureworkin
+thisarea.Asthistablesuggests,thesequestionstranscendissuesofcontentandrequireresearchers
+tothinkcarefullyaboutthenatureofcareersuccessasaconstructdistinctfromotheroutcomesin
+theOBliterature.Wenextmovetoadiscussiononseveralclassesofpredictorsofcareersuccess
+thathavebeenexploredintheOPandOBliterature.
+4.PREDICTORSOFCAREERSUCCESS
+In this section, we discuss several key categories of career success predictors. This review is
+organizedaccordingtothedifferentsourcedisciplinesandthegeneraltheoreticalperspectivesto
+whichtheysubscribebutisexplicitlynotorganizedaccordingtoonesingleoverarchingtheoret-
+icalperspective,whichweviewasprematureandunhelpfultothefieldatthistime.Moreover,we
+includedseveralcategoriesthatareleveragedlessofteninOPandOBcareersuccessresearch.
+516 Seibert (cid:129)Akkermans (cid:129)Liu
+
+## Page 9
+
+53:34:81
+6202
+yaM
+31
+,deW
+:nO
+722.202.311.79
+:PI
+)tseug(
+tseuG
+.gro.sweiverlaunna.www
+morf
+dedaolnwoD
+4.1.HumanCapital
+Scholarsinterestedincareersuccesshaveborrowedsomekeytheoreticalideasfromeconomics,
+chiefofwhichishumancapitaltheory(HCT)(Becker1964).HCTwasdesignedtoexplainthe
+levelofinvestmentineducationasafunctionoftherationalexpectationofthenetfinancialand
+psychicbenefitssuchinvestmentswouldyieldoverthecourseofone’slifetime.Itassumesthat
+education,training,and work experience increase employee productivity,which the labor mar-
+ketrewardswithhigherearningsandhigherstatusoccupations,resultinginhigherOCS.Spurk
+et al.(2019) found HCT the most frequently used theory in the career success literature prior
+totheyear2000,mostoftenusedtoexplainOCS.Careerscholars,mostlyintheOBtraditions,
+haveinvokedHCTtojustifytheinclusionofvariablessuchaseducationallevel,workexperience,
+employmentgaps,andparticipationintraining,althoughmostoftenascontrolvariables(Judge
+etal.1995,Seibertetal.1999,Wayneetal.1999).Ngetal.’s(2005)meta-analysisfoundsignificant
+correlationsofhumancapitalvariableswithsalary,thoughonlysmalleffectsonpromotionsand
+mostlynonsignificanteffectsoncareersatisfaction.
+Despitethesefindings,therearedeficienciesinHCTasamodelofcareersuccess.First,HCT
+has become something of a loose theoretical catch-all for constructs that don’t fit the theory
+andfitotherperspectivesmuchbetter.Forexample,Ngetal.(2005)includedcareerplanning,
+politicalknowledge,andsocialcapitalundertheHCTrubric.Second,OBtheoriesofjobperfor-
+mancespecifymediatingconstructslinkingindividualattributestoproductivityorperformance
+(Campbell & Wiernik 2015),a critical link questioned by later human capital economists (Tan
+2014)andmissinginthecareersliterature.Recentmeta-analyticevidenceshowingonlyaweak
+and inconsistent relationship of prehire work experience with job performance (Van Iddekinge
+et al.2019) highlights the importance of testing these theoretical assumptions.Third,even as-
+sumingalinkbetweenHCTconstructsandjobperformance,thereisonlyweakevidencelinking
+performancetotheOCSconstructsofpromotionsandpayincreases(seeBreaugh2011).Amore
+contextualunderstandingofmanagers’promotabilityjudgementsandthepromotionprocessis
+necessary to fully understand the entire causal chain from HCT constructs to performance to
+promotion and pay increases.Overall,we believe HCT remains valuable,yet more research is
+requiredtounderstandtheprocesseslinkingtheseconstructstocareersuccess.
+4.2.InternalandExternalLaborMarkets
+Theinternallabormarket(ILM)perspectivesuggeststhattounderstandcareers,onemustun-
+derstand the process of allocating promotions within organizations. Economists Doeringer &
+Piore(1971)definedanILMasaboundedorganizationinwhichemployeewagesandpromo-
+tionsaregovernedbyasetoforganizationalrulesandprocedures.Althoughcareersunfoldingin
+asingleorganizationarenowlesscommon,internalpromotionsandlateraljobmovescontinue
+to be an important aspect of most careers (Bidwell 2013). Thus, the economic and sociolog-
+ical approaches that emphasize the internal processes of making promotion decisions remain
+relevant.
+Severalperspectivesconsiderthewaycompetition,relativestanding,andpromotionhistory
+playaroleininternalcareermobility.Forexample,Rosenbaum’s(1979)formulationoftourna-
+menttheoryshowedthatemployeeswhoexperiencedpromotionsearlyintheircareershadhigher
+probabilitiesoffuturepromotionandreachedhigherlevelsoverall,supportingahistoricalorpath-
+dependentmodelofmobility.Infact,lingeringtoolongatanylevelreducedtheprobabilityof
+futurepromotions.Morerecently,managementscholarshavefoundevidencethatperformance
+trajectories(Sturman2003)andpromotiontrajectories(Alessandrietal.2021)playaroleinsub-
+sequentpromotions.Again,seniormanagers’perceptionsofemployeepromotabilitymayplaya
+www.annualreviews.org (cid:129) ContemporaryCareerSuccess 517
+
+## Page 10
+
+53:34:81
+6202
+yaM
+31
+,deW
+:nO
+722.202.311.79
+:PI
+)tseug(
+tseuG
+.gro.sweiverlaunna.www
+morf
+dedaolnwoD
+critical but to date little-explored role in linking job performance to promotion (Seibert et al.
+2017,Wayneetal.1999).
+AnotherstreamofresearchhasmoredirectlyexaminedthewayILMsshapeemployeecareer
+pathsandsuccess.Forexample,Bidwell&Keller(2014)andKeller(2018)demonstratedtheben-
+efitsofinternalpromotionsforthefirmintermsofemployeeperformanceandretention.Dlugos
+&Keller(2021)foundthatbeingpassedoverforpromotioncouldleadanemployeetoleavethe
+organizationunlesstheyreceivedsignalsoffuturepromotionopportunities.Otherresearchhas
+focusedontheinterplaybetweeninternalandexternallabormarketmoves.Forinstance,Bidwell
+&Briscoe(2010)showedthattechnologyworkersconstructtheirowninterorganizationalcareer
+ladderbyinitiallyfavoringemploymentinlargeorganizations,presumablytobenefitfromtrain-
+ingopportunities,butmovingtoorganizationsthatconcentratedontheiroccupationalspecialty
+later in their careers,to capitalize on their accumulated skills.Bidwell & Mollick (2015) found
+thatupwardmobilitywithinasingleorganizationwasmostlikelytoresultingreatermanagerial
+responsibility,higherpay,andhighercareersatisfaction,whereasexternalmovestendedtolead
+tohigherpayrelativetostaying,butrelativelysmallerincreasesinresponsibilitiesandcareersat-
+isfactionthaninternalupwardmoves.Overall,studiesinthisareashowthatILMsmatter,with
+employeesenactingtheircareerstrategiesacrossinternalandexternallabormarketswithamix
+ofcostsandbenefits.Thetopicoforganizationalcareersystemsoncegeneratedconsiderablein-
+terest(Sonnenfeld&Peiperl1988).WeurgeOPandOBscholarstoplacegreater(re)emphasis
+onILMsandcareersystemsasthecontextinwhichcareersuccessunfolds.
+4.3.Sponsorship,DevelopmentalSupport,andDevelopmentalNetworks
+Duringtheearly1990s,organizationalscholarsbegantorecognizeandincorporatesocialsup-
+portandrelationshipsatworkasadeterminantofcareersuccess.Aprimaryperspectivewasthe
+contestversussponsoredmobilityframeworkusedbyTurner(1960)todescribedifferenteduca-
+tionalsystems.Appliedtocareers,contestmobilitydescribesasystemwhereupwardmovement
+in the organization is based on merit or performance. Sponsored mobility, however, describes
+an organizational career system in which individuals are selected for success early and special-
+ized efforts are made to induct them into elite status.In practice,the sponsorship perspective
+has been used to explain why a range of types of interpersonal support,including high-quality
+leader-memberexchangerelationships,supervisorsupport,andmentoringfromseniormanagers,
+should be positively related to career success (e.g., Dreher & Bretz 1991, Wayne et al. 1999).
+Meta-analyticresults(Ngetal.2005)showthatorganizationalsupportintheformoftraining
+andcareerdevelopmentopportunitiesisassociatedwithhigherOCSandSCS.Likewise,having
+ahigh-qualityexchangerelationshipwithone’sleader(leader-memberexchange)islikelytohave
+positiveconsequencesforone’scareer(Wayneetal.1999).Overall,thecontestversussponsored
+mobilityperspectivehasbeenusedasaframeworkfororganizingconstructsratherthanatheory
+oftheinternalpromotionsystemitself.Bothcontestandsponsorshipconstructscontributetoca-
+reersuccessbecausebothperformanceandsupportfrominfluentialmembersoftheorganization
+playaroleincareersuccess.AswithHCT,thecontest/sponsorshipmodelisusedmoretolegit-
+imizecertainvariablesandobservedeffectsthanitistogeneratespecificanduniquehypotheses
+(Hambrick2007).Ifwedidwanttoexplorethisframeworkasatheory,wewouldneedtoworkat
+theorganizationalorbusinessunitlevelsincethatiswherethetheoryisspecified.Wemightask
+questionssuchas,doorganizationsvaryintheextenttowhichsponsorshipmatters?Hasspon-
+sorshipbecomelessimportantascompetitionfromexternalhireshasbecomemoreprevalent?
+Aredifferentialsponsorship,investment,andcumulativeadvantageprocessesimportantforcore
+versus peripheral members of the organization? These are just some examples of the research
+questionswebelievecouldhelpOPandOBscholarsbetterunderstandcareersuccess.
+518 Seibert (cid:129)Akkermans (cid:129)Liu
+
+## Page 11
+
+53:34:81
+6202
+yaM
+31
+,deW
+:nO
+722.202.311.79
+:PI
+)tseug(
+tseuG
+.gro.sweiverlaunna.www
+morf
+dedaolnwoD
+A large body of research examines the impact of workplace mentoring, defined as a devel-
+opmental relationship between a more senior or experienced individual and a less experienced
+individual,oncareersuccess.Weonlybrieflycoverthisareagiventherecentreviewonthetopic
+inthisjournalbyEby&Robertson(2020).Asthoseauthorsreport,considerableearlyinterestwas
+focusedontheideathatwomenandminoritieswereimpairedintheircareersbecausetheylacked
+thementorsupportreceivedbytheirmalecounterparts,butsubsequentresearchprovidedlittle
+evidencethatgenderorraceareassociatedwithbeingaprotégé(O’Brienetal.2010,Kammeyer-
+Mueller&Judge2008).Overall,havingamentorhassmalleffectsonOCSandsmalltomoderate
+positiveeffectsonSCS(Allenetal.2004,Kammeyer-Mueller&Judge2008).Considerablehet-
+erogeneity exists regarding these findings,suggesting a role for moderators in future research.
+Forexample,characteristicsoftheprotégé,suchaspersonality,interpersonalskills,andpositive
+self-concept,as well as deep-level similarity with the mentor are associated with more positive
+outcomes(Ebyetal.2013).
+Subsequent work incorporates behaviors on the part of the employee to gain interpersonal
+support,suchasnetworkingandsocialnetworks.Networkingfocusesonactivitiestomeetothers
+thatmightbehelpfulinsomeone’scareer(seealsoSections4.5and4.6).Socialnetworkresearch
+focusesonthecareerconsequencesofdevelopinganeffectiveconstellationofsupportiverelation-
+shipsatwork.Forexample,Higgins&Thomas(2001)examinedthenetworkofdevelopmental
+relationships among lawyers and found that the average status of the constellation of develop-
+erspredictedtheprobabilityofthejuniorlawyers’promotiontopartnersixyearslater.Seibert
+etal.(2001)examinedstructuralpropertiesofemployees’developmentalnetwork,focusingonthe
+strengthofthedevelopmentalties,theextenttowhichtiesreachedacrossotherwisedisconnected
+socialgroups,andthesocialresourcesreachedbythoseties.Theyfoundthattheprevalenceof
+weaktiesandtiesthatspannedstructuralholeswasassociatedwithanetworkthatreachedpeople
+inadiverserangeoforganizationalfunctionsandlevels,whichinturnledtogreaterOCSand
+SCS.Together,thesestudiessuggestthatitisnotsimplytheamountofdevelopmentalsupportone
+receives,butalsotheextenttowhichtheconstellationofone’sdevelopmentaltiesspansdiverse
+socialworldsandreachesinfluentialothersthatcontributestocareersuccess.
+4.4.GenderandWomen’sCareerEquality
+Wediscussgenderherenotasapurelydemographictraitbutasthejointinfluenceofbiological
+and sociocultural factors on the experience of women and men (Wood & Eagly 2010).Global
+industry surveys as well as numerous OB studies have shown that a gap in earnings and the
+attainment of leadership positions between men and women has persisted for decades (Joshi
+et al.2015,Judge & Livingston 2008).Thus,the research on women’s career equality focuses
+on the degree to which women, compared to men, have equal access to career opportunities
+and experience equal work, career, and nonwork outcomes (Kossek et al. 2017). Three broad
+theoretical perspectives are used to examine women’s career (in)equality: career preferences,
+work-family conflict, and gender bias. A comprehensive review of this research is beyond the
+scopeofourarticle,soweonlybrieflysummarizethebasicfindingshere.
+Thecareerpreferenceperspectiveattributessomeofthegapinwomen’scareersuccesstodif-
+ferencesincareerinterests,goals,andneedsbetweenmenandwomen(Kosseketal.2017).For
+example,womenhaveagreaterpreferenceforwork-familybalanceandopportunitiestoworkwith
+people,whichleadsthemtochooseoccupationswithlowersalaries(Barbulescu&Bidwell2013).
+Thework-familyperspectiveattributescareerinequalitytotheexperienceofgreaterwork-family
+conflictamongwomen.Althoughmeta-analyticresultsshowgenderdifferencesinwork-family
+conflicttobenegligible(Shockleyetal.2017),gendereddifferencesinthedivisionofdomestic
+www.annualreviews.org (cid:129) ContemporaryCareerSuccess 519
+
+## Page 12
+
+53:34:81
+6202
+yaM
+31
+,deW
+:nO
+722.202.311.79
+:PI
+)tseug(
+tseuG
+.gro.sweiverlaunna.www
+morf
+dedaolnwoD
+labor,perceivedwork-familypressures,andthedifferentialeffectsoffamilystructuremayhave
+complexinfluencesonwomen’scareeropportunitiesandoutcomes(Kosseketal.2017).Forex-
+ample,Mainiero&Sullivan’s(2005)kaleidoscopemodelsuggeststhatwomen’s careersareless
+linearthanmen’s,withissuesofwork-lifebalancetakingprecedencemid-careerforwomenbut
+not men.Consistent with the opting-out perspective,recent research shows that women work
+fewerhours,havelowercareercentrality,andaccumulatelesshumancapital(Frearetal.2019).
+Atthesametime,reflectingthepushed-outperspective,thereisconsiderableevidenceshowing
+that the work environment is disadvantageous to women’s career success due to gendered role
+expectations,stereotypes,andorganizationalclimateshostiletofemaleleaders(Hebletal.2020).
+Women face more obstacles and barriers but receive less support and opportunities than men
+throughouttheircareers(Lyness&Thompson2000).Joshietal.(2015)providedmeta-analytic
+evidencethatgenderdifferencesinsalaryandpromotionswereconsiderablylargerthangender
+differencesinperformanceevaluationacrossnumerousjobsectors,althoughFrearetal.(2019)
+providedonlymixedresultsregardingtheunequaleffectsofwomen’scareer-relatedattributeson
+OCS.Sitzmann&Campbell(2021)foundcountry-levelreligiosityassociatedwiththeextentof
+thegenderpaygapacrossmorethan100countriesworldwide,suggestingnationalcultureisan
+importantmoderator.RegardingSCS,Ng&Feldman(2014)foundthatwomendidnotreport
+lowerlevelsofcareersatisfactionthandidmen.
+Althoughitiseasytocontrasttheopting-outandpushed-outperspectives,thesearenotmutu-
+allyexclusiveexplanationsofthewomen’sOCSgap.Unequaldivisionofdomesticlabor,alackof
+workplacesupport,genderbias,andnationalculturemayleadwomentoappeartochoosetoopt
+outwheninfactthatchoiceisdrivenbycontextualfactorsoutsideoftheindividual’scontrol.Still,
+givenconsistentfindingsregardingtheopting-outperspective,careerequityratherthanequal-
+ity might be a more appropriate framework for this research.Future research in this area may
+profitably focus on these complex interactions across levels of analysis and the effectiveness of
+theory-basedpracticalinterventionsdesignedtobreakthislinkage(Kosseketal.2017).Career
+scholarsmightbenefitfromtheresearchonwomen’scareersbyincorporatingsomeoftheim-
+portantattributesandprocessesidentifiedinthisworkintobroadercareersuccessmodels.Atthe
+least,careerscholarsshouldcheckforgenderdifferencesinthemodelstheytest.
+4.5.StableIndividualDifferences
+OPscholarshavelongseenpersonalityandotherindividualdifferenceconstructs,suchasinterests
+andvalues,ascentraltocareerprocesses,suchasoccupationalchoice(Tokaretal.1998).However,
+itistheOBscholarswhotypicallyviewindividualdifferencesasdeterminantsofcareersuccess,
+thesubjectofthisreview.
+4.5.1. Personality. OBscholarslinkedasetofstabledispositionaltraitstobothOCSandSCS
+(e.g.,Judgeetal.1999,Seibert&Kraimer2001).Meta-analyticevidence(Ngetal.2005)supports
+thepredictiveroleofpersonalitytraitsincareersuccess.Forexample,individualswhoaremore
+extrovertedandconscientiousandlessneurotictendtohaveahighersalary,receivemorepromo-
+tions,andexperiencehigherlevelsofcareersatisfaction.Interestingly,agreeablenesscorrelated
+positivelywithcareersatisfactionbutnegativelywithsalaryandpromotions,whereasopennessto
+experienceisonlypositivelycorrelatedwithsalaryandcareersatisfaction.Overall,theBigFive
+personalitytraitshavelargereffectsonSCSthanonOCS(Ngetal.2005).
+In addition to the Big Five, several studies have identified proactive personality as a key
+determinant of career success,providing incremental explanatory power beyond a broad range
+of individual and occupational variables (Seibert et al.1999).Seibert et al.(2001) showed that
+520 Seibert (cid:129)Akkermans (cid:129)Liu
+
+## Page 13
+
+53:34:81
+6202
+yaM
+31
+,deW
+:nO
+722.202.311.79
+:PI
+)tseug(
+tseuG
+.gro.sweiverlaunna.www
+morf
+dedaolnwoD
+proactive personality influenced career success through a set of proactive behaviors, including
+career self-management (CSM) behaviors,and Erdogan & Bauer (2005) showed that proactive
+personalitypredictedSCSonlywhenperson-organizationorperson-jobfitwashigh.Ngetal.
+(2005)providedmeta-analysisevidenceshowingproactivepersonalitypositivelyassociatedwith
+salary, promotions, and career satisfaction. The core self-evaluation trait—a broad personality
+factorbasedonthesharedvarianceamongneuroticism,locusofcontrol,generalizedself-efficacy,
+andself-esteemandsaidtorepresentfundamentalevaluationsoftheself—hasalsobeenreliably
+linkedtocareersuccess(Ng&Feldman2014).Judge&Hurst(2008)usedarchivaldatatoshow
+thatcoreself-evaluationspredictentry-levelpayandoccupationalattainmentaswellastherate
+ofincreaseinpayandoccupationalstatusovera25-yearperiod,partiallymediatedbyeducational
+attainment.
+Wesuggestsomewaysthatscholars’understandingofpersonalitytraitsaspredictorsofcareer
+success can be refined further. First, although research shows that personality traits correlate
+with OCS and SCS,more work is needed to establish when and how these traits lead to these
+outcomes (compare with Seibert et al. 2001). OB scholars have begun to develop theoretical
+modelsthatincludetaskandinterpersonalbehaviorsandcontextualfeaturesoftheorganization
+that link personality to career success (Heslin & Latzke 2019, Judge & Kammeyer-Mueller
+2007) that have to date not been tested. Second, the relationship of personality constructs to
+the recently expanded domain of SCS should be explored. Third, adopting a within-person
+perspectivetostudytheeffectsofpersonalitytraitsoncareersuccesswouldbevaluable.Heslin
+et al.(2019) developed a framework illustrating the way situational cues and personality traits
+might interact to explain when and why traits predict career success. Continued theoretical
+developmenttobetterunderstandtheroleofpersonalityincareersuccessisapromisingfuture
+direction.
+4.5.2. Cognitiveandemotionalintelligence. Generalmentalability(GMA)isanotherwidely
+studiedindividualdifferenceconstructthathasbeenlinkedtocareersuccess,especiallyOCSout-
+comessuchasincome,hierarchicallevel,andoccupationalprestige.Aparticularlystrongaspect
+ofthisresearchistheroleoflongitudinaldataandtemporaldynamics.Forexample,Dreher&
+Bretz (1991) found that the effect of GMA on job level attainment is stronger for individuals
+who did not have early career success,suggesting that high merit,in the form of the ability to
+acquirejob-relevantknowledgeandskills,canmakeupforalackofearlysponsorship.Judgeetal.
+(2010)showedthathigh-GMAindividualsexperiencedmorerapidgrowthinincomeandoccu-
+pationalprestigeovera28-yearperiod,partiallythroughtheacquisitionofmoreeducationand
+training.RecentworkfurtherdemonstratesthatGMAaswellasspecificcognitiveabilitiescan
+predictoccupationprestigeeven50yearsafterschool(Lang&Kell2020).ResearchonGMAhas
+gonefurthestinlinkingindividualdifferencestodevelopmentalbehaviorandsubsequentcareer
+outcomes usingtemporalresearchdesigns,benefiting as itdoes fromthe inclusionofGMA in
+manylargearchivaldatasets.Atthesametime,therangeofcareerbehaviorsandcareersuccess
+outcomesissomewhatlimitedbythedatasets.
+Whereascognitiveintelligenceenableslearningandproblemsolving,emotionalintelligence
+(EQ)enablesinterpersonaleffectiveness.Garcia&Costa(2014)showedthatEQaddedsignificant
+variancetothepredictionofsalaryandcareersatisfactionaboveandbeyondGMAandtheBig
+Fivepersonalitytraits.Rodeetal.(2017)foundthatemotionallyintelligentindividualsaremore
+likelytohavehighersalarylevelsbecausetheycandevelopstronginterpersonalrelationships.EQ
+researchisinarelativelyearlystage.Aswithpersonality,researchonGMAandEQwouldbenefit
+fromgreaterintegrationwithcareerchoiceandotherprocessmodelstobetterunderstandhow
+thefullrangeofcareersuccessoutcomesareproduced.
+www.annualreviews.org (cid:129) ContemporaryCareerSuccess 521
+
+## Page 14
+
+53:34:81
+6202
+yaM
+31
+,deW
+:nO
+722.202.311.79
+:PI
+)tseug(
+tseuG
+.gro.sweiverlaunna.www
+morf
+dedaolnwoD
+4.6.CareerSelf-ManagementBehaviors
+TheCSMliteraturefocusesonthebehaviorsindividualsusetoshapetheircareers.Althoughvoca-
+tionalpsychologistshavelongbeeninterestedintheoriesofoccupationalchoiceanddevelopment,
+OBscholarshavefocusedonstrategiesindividualsusetoachievetheircareergoalsoncetheyarein
+paidemployment.ModelsofCSMareoftenconceptualizedwithinamoregeneraldynamicself-
+regulatoryframeworkthatincludessettinggoals,developingandimplementingplansandstrate-
+gies,monitoringprogresstowardgoalaccomplishment,andmodifyinggoals(Lordetal.2010).
+Several CSM frameworks have been proposed.Although specific labels differ across frame-
+works, they typically include behaviors such as planning and goal setting, skill development,
+feedbackseeking,networking,self-nominationforopportunities,andjobmobility–relatedactiv-
+ities(e.g.,Gould&Penley1984,Kosseketal.1998,Noe1996,Straussetal.2012,Sturgesetal.
+2002).AlthoughtheseCSMmodelsareintuitivelyappealing,theempiricalevidencefortheirrole
+aspredictorsofcareersuccessisinconsistent.SeveralstudiesfoundpositiveeffectsofCSMbe-
+haviorsonOCSandSCS(e.g.,Abele&Wiese2008).However,otherstudiesfoundCSMrelated
+onlytoSCSorevenonlysomefacetsofit(DeVosetal.2009,Smaleetal.2019).Overall,thereis
+noconclusiveevidencerelatingCSMtocareersuccess.Thereasonsforthisareunclear.Onepos-
+sibilityisthatthelackofconstructclarityandvalidityregardingthespecificdimensionsofCSMis
+hinderingreliablecumulationofresults.Furthermore,althoughsomequasi-experimental(Kossek
+etal.1998)andlongitudinal(Sturgesetal.2002)methodswereemployed,sampleswereoftenad
+hoc,datacross-sectionalself-reports,samplesizessmall,andanalytictechniquesunsophisticated.
+Finally,CSMmodelsoftenfailtoincorporateaspectsoftheorganizationaloroccupationalcon-
+text,focusinginsteadonsimpledirecteffectsforspecificbehaviors.Recently,OPscholarshave
+proposedtheoreticalmodelsthatintegrateCSMbehaviorswithcontemporarycareerorientations
+(Hirschi&Koen2021)orwithcareerdecision-makingcompetencies(Kleheetal.2021).Overall,
+moreclarityisneededaboutwhyandhowCSMmayenhancecareersuccess.
+4.7.MalleableIndividualDifferences
+OPscholarshaveshownthegreatestinterestinmalleableindividualdifferencespreciselybecause
+theseconstructsareamenabletochangethroughtrainingandintervention,acoremissionderived
+fromthefield’svocationalpsychologyroots.Theseconstructsrepresentperhapsthegreatestpo-
+tentialfortheintegrationofOPandOBperspectivesoncareersuccess,butmanycriticalquestions
+remainbeforesuchafruitfulsynthesiscanbeachieved.
+4.7.1. Contemporarycareerattitudes. Theprotean(Hall1996)andboundaryless(Arthur&
+Rousseau1996)careerperspectivessuggestthatemployeeswouldorshouldadoptanewsetofex-
+pectationsandattitudestoattaincareersuccessinthecontemporarycareerera.Asoperationalized
+byBriscoeetal.(2006),theproteancareerattitudeconsistsoftwodimensions,beingvalues-driven
+andself-directed,whereastheboundarylesscareerattitudeencompassespositiveattitudestoward
+psychologicalmobilityandphysicalmobility.Overall,empiricalresearchhasestablishedthevalue
+ofthesecontemporarycareerorientations.However,thedifferentdimensionsdonotappearto
+consistentlypredictcareersuccess.Toillustrate,meta-analyticresultsshowthattheself-directed
+dimensionoftheproteancareerattitudeisreliablyrelatedtoseveraldimensionsofSCS,including
+careersatisfaction,work-lifebalance,andoverallwell-being.However,thereismuchlessconsis-
+tencyintherelationshipofotherdimensionswithSCSoutcomes.Moreover,theyseemweakly
+ornotrelatedtoOCS.Forexample,althoughphysicalmobilitypreferenceisrelatedtoturnover
+intentions,itisnotreliablyrelatedtosalaryorpromotions,andisevennegativelyrelatedtocareer
+satisfaction(Lietal.2022,Wiernik&Kostal2019).
+522 Seibert (cid:129)Akkermans (cid:129)Liu
+
+## Page 15
+
+53:34:81
+6202
+yaM
+31
+,deW
+:nO
+722.202.311.79
+:PI
+)tseug(
+tseuG
+.gro.sweiverlaunna.www
+morf
+dedaolnwoD
+Despite the positive results,we see a need for both conceptual and empirical developments
+iftheseconstructsaretobetrulyvaluable.Gubleretal.’s(2014)callforgreaterconsistencyand
+conceptualclarityregardingthenatureoftheseconstructsisconsistentwithWiernik&Kostal’s
+(2019)meta-analyticfindingofatwo-factorstructureratherthanthefour-factorstructurespec-
+ified by Briscoe et al.(2006).Construct validity is also a concern given the strong correlations
+between career attitudes and personality traits such as self-efficacy and proactive personality
+(Wiernik&Kostal2019).Therearealsocallsforbetterspecifiedtheoreticalmodelsthatmight
+include,forexample,certaincareermeta-competenciesnecessarytoenactcontemporarycareer
+attitudeseffectively(Gubleretal.2014,Halletal.2018).Strongertheoreticallinkagefromca-
+reer attitudes to CSM behaviors as well as greater specification regarding the match with the
+employmentcontextmightalsoenhancetheirstrengthaspredictorsofcareersuccess(Lietal.
+2022).
+4.7.2. Career competencies and resources. Research on career competency frameworks
+originatedmainlyfromOBbuthasrecentlybeenconductedbyOPscholars.Onelineofresearch
+growingdirectlyoutofcounselingpsychology(Superetal.1996)focusesoncareeradaptability,a
+psychosocialresourcethathelpsindividualsdealwithcareer-relatedchallenges.Savickas&Porfeli
+(2012)highlightedfourcareeradaptabilityresources:concern,control,curiosity,andconfidence.
+Empiricalstudieshaveconnectedcareeradaptabilitytoawiderangeofcareerbehaviorsandout-
+comes(Johnston2018).Rudolphetal.’s(2017)meta-analysisshowedcareeradaptabilityrelates
+toobjective(e.g.,income)andsubjective(e.g.,careersatisfaction,employability,promotability)
+careersuccess.
+A second line of research concerns employability,a construct that emerged almost simulta-
+neously in the OB and OP disciplines (Fugate et al.2004,Van der Heijde & Van der Heijden
+2006)andis defined as one’s abilitytorealize job opportunitieswithinandbetween employers
+over time (Forrier & Sels 2003,Fugate et al.2021).Although definitions vary,the dimensions
+of the construct most often include a proactive component that involves preparing oneself for
+changeandareactivecomponentthatinvolvesflexiblyadaptingtochangesthatoccur,including
+opennesstochange,proactivity,workidentity,andcareermotivation(Fugate&Kinicki2008,Van
+derHeijde&VanderHeijden2006).Empiricalresearchindicatesthatemployabilitycompeten-
+ciescanenhanceOCSandSCS(e.g.,Bozionelosetal.2016,VanderHeijde&VanderHeijden
+2006).
+Thepoliticalskillsconstructisathirdstand-alonecompetencygrowingoutoftheOBliter-
+aturethat,althoughnotspecificallydesignedasacareercompetency,isanimportantpredictor
+of career success.Ferris et al.(2005,p.127) defined political skill as “the ability to effectively
+understand others at work, and to use such knowledge to influence others to act in ways that
+enhanceone’spersonaland/ororganizationalobjectives,”reflectedinthefourdimensionsofap-
+parent sincerity, social astuteness, interpersonal influence, and networking ability (Ferris et al.
+2007).Meta-analyticresultsshowthatpoliticalknowledgeandskillsarerelatedtosalaryattain-
+ment,hierarchicalposition,andcareersatisfaction(Munyonetal.2015,Ngetal.2005),andChen
+etal.’s(2022)cross-culturalmeta-analysisshowsthattheeffectsarestrongerineasternthanwest-
+ernculturesandstrongeratmanagementthanemployeelevels.Thepoliticalskillsperspectives
+fitwellwithanorganizationalcontextunderstandingofcareers,andmorerefinedunderstanding
+ofthemediators,suchasreputationandself-efficacy,continuestodevelop.
+Scholarshavealsofocusedaconsiderableamountofresearchonintegrativemodelsbuilton
+career-relatedcompetenciesorresources.Severalcareercompetencyframeworkshavebeenbuilt
+aroundtheknowledge,skills,andabilitiesthoughttoallowindividualstodeveloptheircareers
+successfully(Ebyetal.2003,Hall2002,Parkeretal.2009).Akkermansetal.(2013)presentedan
+www.annualreviews.org (cid:129) ContemporaryCareerSuccess 523
+
+## Page 16
+
+53:34:81
+6202
+yaM
+31
+,deW
+:nO
+722.202.311.79
+:PI
+)tseug(
+tseuG
+.gro.sweiverlaunna.www
+morf
+dedaolnwoD
+integrativemodelandmeasurementscaleassessingtheextenttowhichindividualsreflectupon
+their career motivation and strengths,know how to network and promote themselves,and are
+abletoexploreworkopportunitiesanddevelopcareerplans.Researchhasprovidedempiricalev-
+idencelinkingthesecareercompetenciestoSCSand,toalesserextent,OCS(e.g.,Akkermans
+& Tims 2017, Blokker et al. 2019). An even broader integrative model developed by Hirschi
+etal.(2018)focusesoncareerresources.Theydefinecareerresourcesasanythingthathelpsan
+individualattaintheircareergoals.Thecareerresourcesframeworkidentifiesfourbroadtypes
+ofresources—humancapital,environmental,motivational,andCSMresources—representedby
+13 distinct factors,also assessed by a questionnaire they developed.Hirschi et al.(2018) found
+evidenceforthepredictiveroleofcareerresourcesinSCSandOCS.
+Career scholars’ attempt to organize career constructs around key sets of competencies is a
+compelling and useful exercise.However,considerable theoretical and empirical confusion re-
+mains.For example,all the competency models identify multiple dimensions but don’t offer a
+strongtheoreticalexplanationastowhytheseandonlythesedimensionsimpactcareersuccess.
+Neither do they specify if the factors operate only as main effects or must be present simulta-
+neously(i.e.,interact)toproducepositiveoutcomes.Furthermore,noneofthemodelsexplicitly
+incorporatecontextualcontingenciesintheirpredictions.Thereisalsoalackofclarityconcern-
+ingtheverynatureoftheconstructs.Forexample,employabilityhas,unhelpfully,beenconceived
+as a psychosocial construct,a disposition,a personal resource,a competency,and a perception.
+Thesedistinctionsareimportantbecausethenatureoftheconstructhasimplicationsfortheory
+specification,researchdesign,measurement,andinterventionstrategy.Furthermore,thereisover-
+lapbetweenthesecompetencyframeworksandothermodels,suchasCSM.Forexample,career
+explorationandplanning,networking,andself-nomination,alreadyreviewedasCSMconstructs,
+appearinmostofthesecompetencymodels.Thisisproblematicbecauseitcausesconfusionabout
+exactlywhatthedifferencesarebetween,forexample,networkingasacompetency,resource,and
+CSMstrategy.Toillustratefurther,proactivepersonalityhasbeenpositionedasa“knowingwhy”
+competency(Ebyetal.2003),adimensionofemployability(Fugate&Kinicki2008),apsycholog-
+icalresource(Hirschietal.2018),andanadaptivityfactor(Rudolphetal.2017).Scholarsshould
+comparethesecompetencymodelstoestablishamoreparsimonioussetofconstructs,atleastat
+thelevelofmeta-competencies,definedasoverarchingcompetenciesthatfacilitatetheacquisition
+ofmoredomain-specificworkcompetencies(Akkermansetal.2013).Considerableresearchneeds
+tobedoneinthisareatodevelopspecific,accurate,andparsimoniousmodelsofcompetencyand
+careersuccess.
+5.CONTEMPORARYCAREERSUCCESS:AFUTURE
+RESEARCHAGENDA
+In this article,we reviewed the progress on career success,formulated critiques,and provided
+guidanceonhowwebelievescholarscanmovethefieldforward.Throughout,wenoteddiffer-
+encesintheOPandOBperspectivesandhighlightedwheretheycouldstrengtheneachother.
+Wewrapupourarticlewithfiveareasforfutureresearchthatcouldstrengthentheconnections
+betweenOPandOBresearchandadvanceourunderstandingofcareersuccessevenfurther,as
+summarizedinTable3.
+5.1.ExpandingCareerSuccessResearchThroughtheLens
+ofCareerSustainability
+Oneemergingresearchparadigmthatmaybehelpfulinachievinggreaterintegrationbetween
+the OP and OB fields is that of career sustainability. The emerging consensus in this rapidly
+524 Seibert (cid:129)Akkermans (cid:129)Liu
+
+## Page 17
+
+53:34:81
+6202
+yaM
+31
+,deW
+:nO
+722.202.311.79
+:PI
+)tseug(
+tseuG
+.gro.sweiverlaunna.www
+morf
+dedaolnwoD
+Table3 Suggestionsforfutureresearch
+Topicarea Keypoints
+Careersustainability (cid:2) Careersustainabilityreferstoadynamicbalanceofhappiness,health,andproductivityover
+thelifecourse.
+(cid:2) Thesustainablecareerperspectiveallowsfortheinclusionofbothobjectiveandsubjective
+elementsofcareersuccess,aswellastheimportanceofhealthincareerdevelopmentand
+success.
+(cid:2) Thisperspectiveemphasizestheinterplaybetweenindividualandcontextualfactorsand
+theimportanceofadoptingatemporalperspectiveoncareersuccess.
+Careershocks (cid:2) Careersuccessresearchhastypicallyfocusedonplannedandagenticperspectives,but
+suddendisruptionsincareerpaths,knownascareershocks,canalsohaveanimpacton
+careersuccess.
+(cid:2) Thecareershocksperspectiveintegratestheoreticalframeworksfromdifferentdisciplines
+andcanbeconnectedwiththenotionofcareersustainability.
+(cid:2) Moreresearchisneededtoclarifytheroleofeventcharacteristics,howshocksimpact
+careersuccess,andwhichtypesofshocksrelatetodifferentfacetsofobjectiveand
+subjectivecareersuccess.
+Sociallymarginalizedand (cid:2) Consideringthecareersuccessofsociallymarginalizedgroupsthroughasustainablecareer
+underrepresentedgroups lensisimportantbuthasbeenoverlookedintheliterature.
+(cid:2) Futureresearchshouldexaminehowintersectionality—theinteractionbetweenraceand
+gender—impactscareersuccessamongmarginalizedgroups.
+(cid:2) Stigmatheorycouldhelpidentifydifferentcharacteristicsofstigma,stigmamanagement
+strategies,andsocialcontextsthatinfluencecareersuccessformarginalizedgroups.
+Alternativeemployment/work (cid:2) Alternativeworkarrangements,suchasself-employmentandgigwork,havereceived
+arrangements limitedattentionincareerresearchdespitetheirincreasingprevalence.
+(cid:2) Thechoiceornecessityofenteringintothesearrangementscanimpactthecareersuccess
+ofemployees.
+(cid:2) ImportantquestionstoinvestigateincludethefactorsthatimpactOCSandSCSfor
+entrepreneurs(andothernonstandardworkerssuchasagencyandgigworkers),thecareer
+trajectoriesofindividualswhotransitionbetweenpaidemploymentandself-employment,
+andhowcareersuccessisaffectedbytimespentinentrepreneurship.
+Theoreticalclean-uptime (cid:2) Careerscholarshavegeneratedabroadrangeofconstructsbuthaveoftenbeenvague
+regardingtheirnature,leadingtoconstructproliferationandredundancy.
+(cid:2) Futureresearchshouldfocusonempiricalstudiesdesignedtotesttheuntestedtheoretical
+mechanisms,pruneunnecessarycomplexityandredundancy,andconductcomparative
+theorytestingtoeliminateweakorredundanttheoriesofcareersuccess.
+expandingliteratureisthatacareerissustainabletotheextentthatitallowstheindividualtobe
+happy,healthy,andproductiveoverthelifecourse(DeVosetal.2020).Thatis,foracareertobe
+sustainableovertime,peopleneedtofindafitofthecareerwiththeircurrentmentalandphysical
+capacitiestoallowadynamicbalanceamonghappiness(e.g.,variousfacetsofSCS),health(e.g.,
+physicalandmentalhealth),andproductivity(e.g.,performance,citizenshipbehavior,andOCS)
+(Greenhaus&Callanan2022,VanderHeijdenetal.2020).Toillustrate,ifsomeonehasmade
+severalpromotionsinrecentyears(i.e.,highproductivity)buttheirworkbecomesoverwhelming
+andtoodemanding,itmayharmtheiroverallsatisfactionandengagement(i.e.,lowhappiness)
+andeventheirmentalandphysicalhealth(i.e.,lowhealth),suggestingalackoflong-termsustain-
+ability.Conversely,ifsomeonehighlyenjoystheirworkandtheyfeelhealthy,yettheyconsistently
+underperform,theywilllikelylosetheirjob,hencediminishingthesustainabilityoftheircareer.
+This perspective is promising for many reasons.First,the sustainable career perspective al-
+lowsscholarstoincludebothobjectiveandsubjectiveelementsofcareersuccess,reconcilingOP
+www.annualreviews.org (cid:129) ContemporaryCareerSuccess 525
+
+## Page 18
+
+53:34:81
+6202
+yaM
+31
+,deW
+:nO
+722.202.311.79
+:PI
+)tseug(
+tseuG
+.gro.sweiverlaunna.www
+morf
+dedaolnwoD
+researchthatpredominantlyfocusedonhappiness-relatedfactorsandOBresearchthatmainly
+focusedonproductivity-relatedfactors.Furthermore,itbringsintheperspectiveofhealth.Al-
+thoughthereisagreatdealofresearchonmentalandphysicalhealthinthefieldsofOPandOB,
+ithasrarelybeenlinkedtocareerdevelopmentandsuccessapartfromthework-lifeperspective.
+Second,thesustainablecareerperspectiveexplicitlyacknowledgesanactiveinterplaybetweenin-
+dividualandcontextualantecedentsandpossiblemoderatorsofcareersuccess,arecommendation
+forfutureresearchwe’vemadeinseveralareas.Forexample,itencouragesscholarstoexamine
+howindividualcareermeta-competenciesandself-managementbehaviorsmayinteractwithex-
+ternallyvaluedaspectsofhumanandsocialcapitaltoimpactpeople’scareersuccess.Third,the
+sustainablecareerparadigmstressestheimportanceofadoptingatemporalperspectiveoncareer
+success.Aswehavenotedseveraltimesbefore,manycareersuccessstudiesarestillcross-sectional.
+Althoughthesestudiescanstilladdvaluetoourunderstandingofcareersuccess,theyfailtocap-
+turedynamicfluctuationsintheimportanceofspecificcareerconcernsandhowtheyimpactcareer
+success.Examiningbothshort-termdynamicsandlong-termchangeisapromisingwayforward.
+5.2.IncorporatingtheRoleofCareerShocksinCareerSuccessResearch
+Careersuccessresearchhastakenapredominantlyagenticandplannedperspectiveinrecentyears
+(Inkson et al.2012).However,career success is likely also influenced by sudden disruptions in
+people’scareerpaths.Buildingontheunfoldingmodelofturnover(Lee&Mitchell1994),Seibert
+etal.(2013)introducedthenotionofcareershocks,definedasdisruptiveevents,whetherpositive
+or negative,that trigger deliberation about change in one’s career behavior or career path (see
+also Akkermans et al.2018).Emerging empirical findings show that shocks may play a critical
+roleincareertransitions,suchasschooltoworkorworkbacktoschool,andinentrepreneurship
+(Blokkeretal.2019;Rummeletal.2021;Seibertetal.2013,2021).Kraimeretal.(2019)linked
+careershockstocareersuccess.Overall,thecareershockperspectiveemphasizesthewayexternal
+eventscanprecipitaterelativelysuddencareerdecisionmakingthataltersthetrajectoryofone’s
+careerandultimatelycareersuccess.
+The career shocks perspective can be a valuable addition to career success research in OP
+andOBasitusesarangeoftheoreticalframeworksfromdifferentdisciplines(Akkermansetal.
+2021a). Scholars have begun to connect career shocks with the notion of career sustainability
+theoretically and empirically (e.g.,Blokker et al.2019,Greenhaus & Callanan 2022,Pak et al.
+2021).Yet,moreresearchisneededtoenhanceconceptualclarity(e.g.,theroleofeventcharacter-
+istics),theoreticalmechanisms(e.g.,howdoshocksimpactcareersuccess),andcareeroutcomes
+(e.g.,whichtypesofshocksrelatetodifferentfacetsofOCSandSCS)(Akkermansetal.2021b).
+Overall,theintegrationofthecareershocksperspectivewiththelong-termbalanceofsatisfaction,
+health,andproductivityidentifiedbythesustainablecareerperspectiveholdsconsiderablefuture
+promise.
+5.3.CareerSuccessAmongSociallyMarginalized
+andUnderrepresentedGroups
+Studyingcareersuccessthroughasustainablecareerlensalsoimpliesconsideringvariousgroups
+andtheiruniquecareertrajectoriesandcontexts.Here,weturntosuggestionsregardingfuture
+researchonracialandethnicminoritiesandothersociallymarginalizedgroupsthathavereceived
+limitedattentioninthecareersuccessliterature.Likewomen(asdiscussedinSection4.4.3),mi-
+noritiesexperiencedisadvantagesthroughouttheircareersduetostereotypesandbiases,leading
+tolowerOCSandSCS(Greenhausetal.1990,Landau1995).Todate,littleresearchinthecareers
+fieldhasspecificallyfocusedontheuniquetheoreticalmechanismsthatmayaffectthecareersof
+526 Seibert (cid:129)Akkermans (cid:129)Liu
+
+## Page 19
+
+53:34:81
+6202
+yaM
+31
+,deW
+:nO
+722.202.311.79
+:PI
+)tseug(
+tseuG
+.gro.sweiverlaunna.www
+morf
+dedaolnwoD
+thesemarginalizedgroupmembers.Wefocusontwopromisingtheoreticalperspectivesforfuture
+researchhere:identitytheoryandstigmatheory.
+First, although identity theory has been used extensively in the career success literature
+(Ashforth&Schinoff2016),theroleofidentityinachievingcareersuccessamongmarginalized
+groupshasreceivedlessattention.Asmultipleidentitiescanleadtointensificationorreductionof
+stereotypes(Kang&Bodenhausen2015),futureresearchshouldconsiderhowintersectionality—
+thewayraceandgenderinteract—mayimpactcareersuccess(Galinskyetal.2013,Johnsonetal.
+2012). Scholars should examine the unique challenges facing distinct identity-related clusters
+and the contextual factors that influence their career success. Second, stigma theory (Crocker
+etal.1998)maybeausefulperspective.Stigmatizedindividualsarepeoplewho“possess(orare
+believedtopossess)someattributeorcharacteristicthatconveys asocialidentitythatisdeval-
+uedinsomeparticularcontext”(Crockeretal.1998,p.505).OBscholarshaveexaminedstigma
+acrosslevels(i.e.,individual,occupational)(Ashforth&Kreiner1999,Zhangetal.2021).Are-
+centreviewshowedstigmahasvariouscharacteristics(e.g.,controllability,malleability)andcan
+bemanageddifferently(Zhangetal.2021).Moreover,sincestigmasaresociallyconstructed,con-
+textplaysamajorrole.Forinstance,organizationalsupportforinclusioncanremovethestigma
+associatedwithwomenandmarginalizedgroups,helpingreduceanybiasesandbarriersforthese
+groups(Kosseketal.2017).Overall,futureresearchcouldexaminehowdifferentcharacteristics
+ofstigma,stigmamanagementstrategies,andsocialcontextinfluencethecareersuccessofsocially
+marginalizedgroupmembers.
+5.4.CareerSuccessandAlternativeEmploymentArrangements
+Despitethefocusonthenatureofcontemporaryemploymentrelationships,contemporarycareer
+perspectiveshaveremainedsomewhatdisconnectedfromtherangeofspecificformsalternative
+workarrangementstakeinthemodernworldofwork.Inarecentreview,Spreitzeretal.(2017)
+describedthesearrangements,includingstandardworkerswithflexibleschedulesorlocations,to
+part-timeandon-callworkers,tocontract,temporary,andplatform-mediated(gig)workers,in
+termsof three underlyingdimensions of flexibility: employment relationship,work scheduling,
+andlocation.Theextent towhich employees enter into thesearrangements throughchoice or
+necessityislikelytodeterminetheextenttowhichtheyresultinincreasedordecreasedcareer
+success.Ashfordetal.(2018)suggestasetofnecessaryCSMbehaviorsthat,althoughnotentirely
+unfamiliar,take on new meaning and criticality when enacted outside an existing organization.
+Theyfurthersuggestuniqueindicatorsofcareersuccessforsuchworkers,includingtheenhanced
+importance of psychological well-being, vitality, and learning. Given the proactive career and
+relational behaviors Ashford et al. (2018) identify in their model, OP and OB career scholars
+are uniquely positioned to explore how alternative work arrangements impact the happiness,
+health, and productivity (i.e., career sustainability) of these employees. Testing the structural
+andpsychologicalrelationshipsspecifiedinthesemodelsconstitutesamajorresearchagendaon
+careersuccess.
+Relatedtoalternativeformsofemployment,careerscholarshavepaidrelativelylittleattention
+to self-employment as a phase in individuals’ career trajectories (Burton et al.2016).Contrary
+tocommonmisperceptions,mostentrepreneurshavesubstantialworkexperienceinaparticular
+industrybeforetheystarttheirownnewventure(Sørensen&Fassiotto2011)andmanyindivid-
+ualsmaycyclethroughperiodsinpaidemploymentandself-employment,entering,leaving,and
+re-enteringentrepreneurshipoverthecourseoftheircareers(Fengetal.2022).Therearemany
+questionsthatthoseinterestedincareertransitionsandcareersuccesscanexplore.Forexample,
+howdothecareersofentrepreneursandthoseemployedinfamilybusinessesdifferfromthose
+www.annualreviews.org (cid:129) ContemporaryCareerSuccess 527
+
+## Page 20
+
+53:34:81
+6202
+yaM
+31
+,deW
+:nO
+722.202.311.79
+:PI
+)tseug(
+tseuG
+.gro.sweiverlaunna.www
+morf
+dedaolnwoD
+intraditionalemployment?Giventhatpreviousexperienceasanentrepreneurislikelytoreduce
+careeropportunitiesinpaidemployment(Waddinghametal.2023),howiscareersuccesslikely
+tobeinfluencedbytimeinentrepreneurship?Howdoentrepreneurialcareersevolveovertime
+andwhichfactorscriticallyimpactentrepreneurs’OCSandSCS?Inall,weencouragescholarsto
+moreoftenfocustheirresearchonworkersinvariousemploymentarrangements.
+5.5.TheoreticalClean-UpTime
+Recently,Spurk et al.(2019) examined the prevalence of different theories used to predict ca-
+reersuccess.Theyidentifiedatleast44theoriescategorizedwithin14moregeneraltheoretical
+approaches.Ofthe266studiestheyreviewed,only23(or8.6%)directlycompareddifferentthe-
+oreticalapproaches.Spurketal.notethatsuchheterogeneityofapproachesislikelytohamper
+theaccumulationofknowledgeinafield,apointmadebyothers(Croninetal.2021,Leetal.
+2010).Aswehavehighlightedinprevioussections,careerscholarshavegeneratedabroadrange
+ofconstructsbuthaveoftenbeenquitevagueregardingthenatureofthoseconstructs,whether
+they are stable traits, attitudes, orientations, career (meta-)competencies, career capital, career
+resources,orCSMbehaviors.Toooften,thesesamevariablesshowupasoperationalizationsof
+differentconstructsplayingaroleindifferenttheoreticalmodels,ajingle-jangleofconstructpro-
+liferationthathasbeenaddressedbutnotsolvedintheOBliterature(Leetal.2010).Inaddition,
+broadframeworkssuchascontestversussponsoredmobilityorconservationofresourcestheory,
+perhapsusefulasorganizingschemes,maybeusedtoprovideaveneeroftheoreticallegitimacy
+ratherthanusefultheoreticalinsight(Hambrick2007).Ourfinalsuggestionforfutureresearch
+isthereforetoencourageempiricalstudiesdesignedtotesttheuntestedtheoreticalmechanisms
+inbroadframeworks,topruneunnecessarycomplexityandredundancyfromspecificunit-level
+theories,andtoconductcomparativetheorytestingtoeliminateweakorredundanttheoriesof
+careersuccesswheredirectcomparabilityispossible(Leavittetal.2010).Ourhopeisthat,once
+theconfusionofoverlappingconstructsandredundanttheoreticalframeworksisaddressed,we
+canbegintodevelopmorenuancedmodelsthatdetailthemediatingprocessesandmoderating
+conditionsproducingcareersuccess.
+6.CONCLUDINGTHOUGHTS
+Inthiscriticalreview,wesetouttoformulateopportunitiesforOPandOBscholars,andbeyond,
+to learn from each other and enhance our understanding of career success in future research.
+We have offered many directions for future career success research related to,for example,its
+conceptualization,nomologicalnet,androleacrossdifferenttargetgroups.Intheend,perhaps
+ourmostimportantcallforresearchisthis:Let’smovebeyonddisciplinarysilosandlearnfrom
+eachother’sexpertiseandknowledgetoadvancecareersuccessresearchevenfurther.
+DISCLOSURESTATEMENT
+The authors are not aware of any affiliations,memberships,funding,or financial holdings that
+mightbeperceivedasaffectingtheobjectivityofthisreview.
+LITERATURECITED
+AbeleA,WieseB.2008.Thenomologicalnetworkofself-managementstrategiesandcareersuccess.J.Occup.
+Organ.Psychol.81:733–49
+Akkermans J,Brenninkmeijer V,Huibers M,Blonk RWB.2013.Competencies for the contemporary ca-
+reer:developmentandpreliminaryvalidationoftheCareerCompetenciesQuestionnaire.J.CareerDev.
+40(3):245–67
+528 Seibert (cid:129)Akkermans (cid:129)Liu
+
+## Page 21
+
+53:34:81
+6202
+yaM
+31
+,deW
+:nO
+722.202.311.79
+:PI
+)tseug(
+tseuG
+.gro.sweiverlaunna.www
+morf
+dedaolnwoD
+AkkermansJ,CollingsDG,daMottaVeigaSP,PostC,SeibertS.2021a.Towardabroaderunderstanding
+ofcareershocks:exploringinterdisciplinaryconnectionswithresearchonjobsearch,humanresource
+management,entrepreneurship,anddiversity.J.Vocat.Behav.126:103563
+Akkermans J, Rodrigues R, Mol ST, Seibert SE, Khapova SN. 2021b. The role of career shocks in
+contemporarycareerdevelopment:keychallengesandwaysforward.CareerDev.Int.26(4):453–66
+AkkermansJ,SeibertSE,MolST.2018.Talesoftheunexpected:integratingcareershocksinthecontemporary
+careersliterature.SAJ.Ind.Psychol.44(1):1–10
+AkkermansJ,TimsM.2017.Craftingyourcareer:howcareercompetenciesrelatetocareersuccessviajob
+crafting.Appl.Psychol.66(1):168–95
+AlessandriG,CortinaJM,ShengZ,BorgogniL.2021.Whereyoucamefromandwhereyouaregoing:the
+roleofperformancetrajectoryinpromotiondecisions.J.Appl.Psychol.106(4):599–623
+AllenTD,EbyLT,PoteetML,LentzE,LimaL.2004.Careerbenefitsassociatedwithmentoringforprotégés:
+ameta-analysis.J.Appl.Psychol.89(1):127–36
+ArthurMB.2008.Examiningcontemporarycareers:acallforinterdisciplinaryinquiry.Hum.Relat.61(2):163–
+86
+ArthurMB,HallDT,LawrenceBS,eds.1989.HandbookofCareerTheory.Cambridge,UK:CambridgeUniv.
+Press
+ArthurMB,KhapovaSN,WilderomCPM.2005.Careersuccessinaboundarylesscareerworld.J.Organ.
+Behav.26(2):177–202
+ArthurMB,RousseauDM.1996.Acareerlexiconforthe21stcentury.Acad.Manag.Perspect.10(4):28–39
+AshfordSJ,CazaBB,ReidEM.2018.Fromsurvivingtothrivinginthegigeconomy:aresearchagendafor
+individualsinthenewworldofwork.Res.Organ.Behav.38:23–41
+AshforthBE,KreinerGE.1999.“Howcanyoudoit?”Dirtyworkandthechallengeofconstructingapositive
+identity.Acad.Manag.Rev.24(3):413–34
+AshforthBE,SchinoffBS.2016.Identityunderconstruction:howindividualscometodefinethemselvesin
+organizations.Annu.Rev.Organ.Psychol.Organ.Behav.3:111–37
+BagdadliS,GianecchiniM,AndresenM,CottonR,KašeR,etal.2021.Humancapitaldevelopmentpractices
+andcareersuccess:themoderatingroleofcountrydevelopmentandincomeinequality.J.Organ.Behav.
+42(4):429–47
+Barbulescu R,Bidwell M.2013.Do women choose different jobs from men? Mechanisms of application
+segregationinthemarketformanagerialworkers.Organ.Sci.24(3):737–56
+Becker GS. 1964. Human Capital: A Theoretical and Empirical Analysis, with Special Reference to Education.
+Chicago:Univ.ChicagoPress.1sted.
+BidwellM,BriscoeF.2010.Thedynamicsofinterorganizationalcareers.Organ.Sci.21(5):1034–53
+BidwellM,KellerJ.2014.Withinorwithout?Howfirmscombineinternalandexternallabormarketstofill
+jobs.Acad.Manag.J.57(4):1035–55
+Bidwell M, Mollick E. 2015. Shifts and ladders: comparing the role of internal and external mobility in
+managerialcareers.Organ.Sci.26(6):1629–45
+BidwellMJ.2013.Whathappenedtolong-termemployment?Theroleofworkerpowerandenvironmental
+turbulenceinexplainingdeclinesinworkertenure.Organ.Sci.24(4):1061–82
+BlokkerR,AkkermansJ,TimsM,JansenP,KhapovaS.2019.Buildingasustainablestart:theroleofcareer
+competencies,careersuccess,andcareershocksinyoungprofessionals’employability.J.Vocat.Behav.
+112:172–84
+BlusteinDL,KennyME,DiFabioA,GuichardJ.2019.Expandingtheimpactofthepsychologyofworking:
+engagingpsychologyinthestrugglefordecentworkandhumanrights.J.CareerAssess.27(1):3–28
+BozionelosN,KostopoulosK,VanderHeijdenB,RousseauDM,BozionelosG,etal.2016.Employability
+andjobperformanceaslinksintherelationshipbetweenmentoringreceiptandcareersuccess:astudy
+inSMEs.GroupOrgan.Manag.41(2):135–71
+BreaughJA.2011.Modelingthemanagerialpromotionprocess.J.Manag.Psychol.26(4):264–77
+BriscoeJP,HallDT,DeMuthRLF.2006.Proteanandboundarylesscareers:anempiricalexploration.J.Vocat.
+Behav.69(1):30–47
+www.annualreviews.org (cid:129) ContemporaryCareerSuccess 529
+
+## Page 22
+
+53:34:81
+6202
+yaM
+31
+,deW
+:nO
+722.202.311.79
+:PI
+)tseug(
+tseuG
+.gro.sweiverlaunna.www
+morf
+dedaolnwoD
+Briscoe JP, Kaše R, Dries N, Dysvik A, Unite JA, et al. 2021. Here, there, & everywhere: development
+andvalidationofacross-culturallyrepresentativemeasureofsubjectivecareersuccess.J.Vocat.Behav.
+130:103612
+BureauLaborStat.,USDep.Labor.2022.Nonfarmbusinesslaborproductivitydown4.6percentinsecond
+quarter2022.TheEconomicsDaily,Aug.12.https://www.bls.gov/opub/ted/2022/nonfarm-business-
+labor-productivity-down-4-6-percent-in-second-quarter-2022.htm
+BurtonMD,SørensenJB,DobrevSD.2016.Acareersperspectiveonentrepreneurship.Entrep.TheoryPract.
+40(2):237–47
+Campbell JP,Wiernik BM.2015.The modeling and assessment of work performance.Annu.Rev.Organ.
+Psychol.Organ.Behav.2:47–74
+CarlsonDS,GrzywaczJG,ZivnuskaS.2009.Iswork–familybalancemorethanconflictandenrichment?
+Hum.Relat.62(10):1459–86
+ChenH,JiangS,WuM.2022.Howimportantarepoliticalskillsforcareersuccess?Asystematicreviewand
+meta-analysis.Int.J.Hum.Resour.Manag.33(19):3942–68
+ChudzikowskiK.2012.Careertransitionsandcareersuccessinthe‘new’careerera.J.Vocat.Behav.81(2):298–
+306
+CraneD.1972.InvisibleColleges:DiffusionofKnowledgeinScientificCommunities.Chicago:Univ.ChicagoPress
+CrockerJ,MajorB,SteeleC,FiskeST,LindzeyG.1998.Socialstigma.InHandbookofSocialPsychology,Vol.2,
+ed.DTGilbert,STFiske,GLindzey,pp.504–53.Boston:McGraw-Hill.4thed.
+CroninMA,StoutenJ,vanKnippenbergD.2021.Thetheorycrisisinmanagementresearch:solvingtheright
+problem.Acad.Manag.Rev.46(4):667–83
+DawisRV,EnglandGW,LofquistLH.1964.Atheoryofworkadjustment.Minn.Stud.Vocat.Rehabil.Monogr.
+15,Ind.Relat.Cent.,Univ.Minn.,Minneapolis,MN
+DeVosA,DewettinckK,BuyensD.2009.Theprofessionalcareerontherighttrack:astudyontheinter-
+actionbetweencareerself-managementandorganizationalcareermanagementinexplainingemployee
+outcomes.Eur.J.WorkOrgan.Psychol.18(1):55–80
+De Vos A,Van der Heijden BIJM,Akkermans J.2020.Sustainable careers: towards a conceptual model.
+J.Vocat.Behav.117:103196
+DlugosK,KellerJ.2021.Turneddownandtakingoff?Rejectionandturnoverininternaltalentmarkets.
+Acad.Manag.J.64(1):63–85
+DoeringerPB,PioreMJ.1971.InternalLaborMarketsandManpowerAnalysis.Lexington,MA:DCHeath
+DreherGF,BretzRD.1991.Cognitiveabilityandcareerattainment:moderatingeffectsofearlycareersuccess.
+J.Appl.Psychol.76(3):392
+Dries N,Pepermans R,Carlier O.2008.Career success: constructing a multidimensional model.J.Vocat.
+Behav.73(2):254–67
+EbyLT,ButtsM,LockwoodA.2003.Predictorsofsuccessintheeraoftheboundarylesscareer.J.Organ.
+Behav.24(6):689–708
+Eby LT,Robertson MM.2020.The psychology of workplace mentoring relationships.Annu.Rev.Organ.
+Psychol.Organ.Behav.7:75–100
+EbyLTdT,AllenTD,HoffmanBJ,BaranikLE,SauerJB,etal.2013.Aninterdisciplinarymeta-analysisof
+thepotentialantecedents,correlates,andconsequencesofprotégéperceptionsofmentoring.Psychol.Bull.
+139(2):441–76
+ErdoganB,BauerT.2005.Enhancingcareerbenefitsofemployeeproactivepersonality:theroleoffitwith
+jobsandorganizations.Pers.Psychol.58(4):859–91
+FengJ,AllenDG,SeibertSE.2022.Onceanentrepreneur,alwaysanentrepreneur?Entrepreneurialidentity,
+jobcharacteristics,andvoluntaryturnoverofformerentrepreneursinpaidemployment.Pers.Psychol.
+75(1):179–213
+Ferris GR,Treadway DC,Kolodinsky RW,Hochwarter WA,Kacmar CJ,et al.2005.Development and
+validationofthepoliticalskillinventory.J.Manag.31(1):126–52
+FerrisGR,TreadwayDC,PerrewePL,BrouerRL,DouglasC,LuxS.2007.Politicalskillinorganizations.
+JOM33(3):290–320
+Forrier A, Sels L. 2003. The concept employability: a complex mosaic. Int. J. Hum. Resour. Dev. Manag.
+3(2):102–24
+530 Seibert (cid:129)Akkermans (cid:129)Liu
+
+## Page 23
+
+53:34:81
+6202
+yaM
+31
+,deW
+:nO
+722.202.311.79
+:PI
+)tseug(
+tseuG
+.gro.sweiverlaunna.www
+morf
+dedaolnwoD
+FrearKA,Paustian-UnderdahlSC,HeggestadED,WalkerLS.2019.Genderandcareersuccess:atypology
+andanalysisofdualparadigms.J.Organ.Behav.40(4):400–16
+FugateM,KinickiAJ.2008.Adispositionalapproachtoemployability:developmentofameasureandtestof
+implicationsforemployeereactionstoorganizationalchange.J.Occup.Organ.Psychol.81(3):503–27
+Fugate M, Kinicki AJ, Ashforth BE. 2004. Employability: a psycho-social construct, its dimensions, and
+applications.J.Vocat.Behav.65(1):14–38
+FugateM,vanderHeijdenB,DeVosA,ForrierA,DeCuyperN.2021.Iswhat’spastprologue?Areviewand
+agendaforcontemporaryemployabilityresearch.Acad.Manag.Ann.15(1):266–98
+FullerJ,KerrW.2022.TheGreatResignationdidn’tstartwiththepandemic.HarvardBusinessReview,March
+23.https://hbr.org/2022/03/the-great-resignation-didnt-start-with-the-pandemic
+GalinskyAD,HallEV,CuddyAJC.2013.Genderedraces:implicationsforinterracialmarriage,leadership
+selection,andathleticparticipation.Psychol.Sci.24(4):498–506
+GarciaJ,CostaJ.2014.Doestraitemotionalintelligencepredictuniquevarianceinearlycareersuccessbeyond
+IQandpersonality?J.CareerAssess.22(4):715–25
+GattikerUE,LarwoodL.1986.Subjectivecareersuccess:astudyofmanagersandsupportpersonnel.J.Bus.
+Psychol.1(2):78–94
+GouldE,KandraJ.2022.StateofWorkingAmerica2021:measuringwagesinthepandemiclabormarket.
+EconomicPolicyInstitute,April27.https://epi.org/247140
+GouldS,PenleyLE.1984.Careerstrategiesandsalaryprogression:astudyoftheirrelationshipsinamunicipal
+bureaucracy.Organ.Behav.Hum.Perform.34(2):244–65
+GreenhausJH,CallananGA.2022.AdvancedIntroductiontoSustainableCareers.Cheltenham,UK:Edward
+ElgarPubl.
+Greenhaus JH, Parasuraman S, Wormley WM. 1990. Effects of race on organizational experiences, job
+performanceevaluations,andcareeroutcomes.Acad.Manag.J.33(1):64–86
+GublerM,ArnoldJ,CoombsC.2014.Reassessingtheproteancareerconcept:empiricalfindings,conceptual
+components,andmeasurement.J.Organ.Behav.35(S1):S23–40
+HackmanJR,OldhamGR.1975.DevelopmentoftheJobDiagnosticSurvey.J.Appl.Psychol.60(2):159–70
+HallDT.1996.TheCareerIsDead—LongLivetheCareer.ARelationalApproachtoCareers.TheJossey-BassBusiness
+&ManagementSeries.SanFrancisco:Jossey-Bass
+HallDT.2002.CareersinandoutofOrganizations.ThousandOaks,CA:SagePubl.
+HallDT,YipJ,DoironK.2018.Proteancareersatwork:self-directionandvaluesorientationinpsychological
+success.Annu.Rev.Organ.Psychol.Organ.Behav.5:129–56
+HambrickDC.2007.Thefieldofmanagement’sdevotiontotheory:toomuchofagoodthing?Acad.Manag.
+J.50(6):1346–52
+HeblM,ChengSK,NgLC.2020.Moderndiscriminationinorganizations.Annu.Rev.Organ.Psychol.Organ.
+Behav.7:257–82
+HenrichJ,HeineS,NorenzayanA.2010.MostpeoplearenotWEIRD.Nature466(7302):29
+HeslinPA.2005.Conceptualizingandevaluatingcareersuccess.J.Organ.Behav.26(2):113–36
+HeslinPA,KeatingL,MinbashianA.2019.Howsituationalcuesandmindsetdynamicsshapepersonality
+effectsoncareeroutcomes.J.Manag.45(5):2101–31
+HeslinPA,LatzkeM.2019.Individualdifferenceantecedentsofcareeroutcomes.InTheRoutledgeCompanion
+toCareerStudies,ed.HGunz,MLazarova,WMayrhofer,pp.162–79.London:Routledge
+HigginsMC,ThomasDA.2001.Constellationsandcareers:towardunderstandingtheeffectsofmultiple
+developmentalrelationships.J.Organ.Behav.22(3):223–47
+Hirschi A, Koen J. 2021. Contemporary career orientations and career self-management: a review and
+integration.J.Vocat.Behav.126:103505
+HirschiA,NagyN,BaumelerF,JohnstonCS,SpurkD.2018.Assessingkeypredictorsofcareersuccess:
+developmentandvalidationoftheCareerResourcesQuestionnaire.J.CareerAssess.26(2):338–58
+InksonK,GunzH,GaneshS,RoperJ.2012.Boundarylesscareers:bringingbackboundaries.Organ.Stud.
+33(3):323–40
+IronsonGH,SmithPC,BrannickMT,GibsonWM,PaulKB.1989.Constructionofajobingeneralscale:a
+comparisonofglobal,composite,andspecificmeasures.J.Appl.Psychol.74(2):193–200
+www.annualreviews.org (cid:129) ContemporaryCareerSuccess 531
+
+## Page 24
+
+53:34:81
+6202
+yaM
+31
+,deW
+:nO
+722.202.311.79
+:PI
+)tseug(
+tseuG
+.gro.sweiverlaunna.www
+morf
+dedaolnwoD
+JohnsonKL,FreemanJB,PaukerK.2012.Raceisgendered:howcovaryingphenotypesandstereotypesbias
+sexcategorization.J.Pers.Soc.Psychol.102(1):116–31
+JohnstonCS.2018.Asystematicreviewofthecareeradaptabilityliteratureandfutureoutlook.J.CareerAssess.
+26(1):3–30
+Joshi A,Son J,Roh H.2015.When can women close the gap? A meta-analytic test of sex differences in
+performanceandrewards.Acad.Manag.J.58(5):1516–45
+Judge TA,Cable DM,Boudreau JW,Bretz RD Jr.1995.An empirical investigation of the predictors of
+executivecareersuccess.Pers.Psychol.48(3):485–519
+JudgeTA,HigginsCA,ThoresenCJ,BarrickMR.1999.TheBigFivepersonalitytraits,generalmentalability,
+andcareersuccessacrossthelifespan.Pers.Psychol.52(3):621–52
+Judge TA, Hurst C. 2008. How the rich (and happy) get richer (and happier): relationship of core
+self-evaluationstotrajectoriesinattainingworksuccess.J.Appl.Psychol.93(4):849–63
+Judge TA, Kammeyer-Mueller JD. 2007. Personality and career success. In Handbook of Career Studies,
+pp.59–75.ThousandOaks,CA:SagePubl.
+JudgeTA,KlingerR,SimonL.2010.Timeisonmyside:time,generalmentalability,humancapital,and
+extrinsiccareersuccess.J.Appl.Psychol.95(1):92–107
+JudgeTA,LivingstonBA.2008.Isthegapmorethangender?Alongitudinalanalysisofgender,genderrole
+orientation,andearnings.J.Appl.Psychol.93(5):994–1012
+Kammeyer-MuellerJD,JudgeTA.2008.Aquantitativereviewofmentoringresearch:testofamodel.J.Vocat.
+Behav.72(3):269–83
+KangSK,BodenhausenGV.2015.Multipleidentitiesinsocialperceptionandinteraction:challengesand
+opportunities.Annu.Rev.Psychol.66:547–74
+KellerJ.2018.Postingandslotting:howhiringprocessesshapethequalityofhireandcompensationininternal
+labormarkets.Adm.Sci.Q.63(4):848–78
+KleheU-C,FasbenderU,vanderHorstA.2021.Goingfullcircle:integratingresearchoncareeradaptation
+andproactivity.J.Vocat.Behav.126:103526
+KossekEE,RobertsK,FisherS,DemarrB.1998.Careerself-management:aquasi-experimentalassessment
+oftheeffectsofatrainingintervention.Pers.Psychol.51(4):935–60
+KossekEE,SuR,WuL.2017.“Optingout”or“pushedout”?Integratingperspectivesonwomen’scareer
+equalityforgenderinclusionandinterventions.J.Manag.43(1):228–54
+KraimerML,GrecoL,SeibertSE,SargentLD.2019.Aninvestigationofacademiccareersuccess:thenew
+tempoofacademiclife.Acad.Manag.Learn.Educ.18(2):128–52
+LandauJ.1995.Therelationshipofraceandgendertomanagers’ratingsofpromotionpotential.J.Organ.
+Behav.16(4):391–400
+LangJ,KellH.2020.Generalmentalabilityandspecificabilities:theirrelativeimportanceforextrinsiccareer
+success.J.Appl.Psychol.105(9):1047–61
+Le H,Schmidt FL,Harter JK,Lauver KJ.2010.The problem of empirical redundancy of constructs in
+organizationalresearch:anempiricalinvestigation.Organ.Behav.Hum.Decis.Process.112(2):112–25
+LeavittK,MitchellTR,PetersonJ.2010.Theorypruning:strategiestoreduceourdensetheoreticallandscape.
+Organ.Res.Methods13(4):644–67
+LeeTW,MitchellTR.1994.Analternativeapproach:theunfoldingmodelofvoluntaryemployeeturnover.
+Acad.Manag.Rev.19(1):51–89
+LiCS,GoeringDD,MontanyeMR,SuR.2022.Understandingthecareerandjoboutcomesofcontemporary
+careerattitudeswithinthecontextofcareerenvironments:anintegrativemeta-analysis.J.Organ.Behav.
+43(2):286–309
+LordRG,DiefendorffJM,SchmidtAM,HallRJ.2010.Self-regulationatwork.Annu.Rev.Psychol.61:543–68
+LynessKS,ThompsonDE.2000.Climbingthecorporateladder:Dofemaleandmaleexecutivesfollowthe
+sameroute?J.Appl.Psychol.85(1):86–101
+MainieroLA,SullivanSE.2005.Kaleidoscopecareers:analternateexplanationforthe“opt-out”revolution.
+Acad.Manag.Perspect.19(1):106–23
+MayrhoferW,BriscoeJP,HallDT,DickmannM,DriesN,etal.2016.Careersuccessacrosstheglobe.Organ.
+Dyn.45(3):197–205
+532 Seibert (cid:129)Akkermans (cid:129)Liu
+
+## Page 25
+
+53:34:81
+6202
+yaM
+31
+,deW
+:nO
+722.202.311.79
+:PI
+)tseug(
+tseuG
+.gro.sweiverlaunna.www
+morf
+dedaolnwoD
+Munyon T, Summers J, Thompson K, Ferris G. 2015. Political skill and work outcomes: a theoretical
+extension,meta-analyticinvestigation,andagendaforthefuture.Pers.Psychol.68(1):143–84
+NgTWH,EbyLT,SorensenKL,FeldmanDC.2005.Predictorsofobjectiveandsubjectivecareersuccess:
+ameta-analysis.Pers.Psychol.58(2):367–408
+NgTWH,FeldmanDC.2014.Subjectivecareersuccess:ameta-analyticreview.J.Vocat.Behav.85(2):169–79
+NoeRA.1996.Iscareermanagementrelatedtoemployeedevelopmentandperformance?J.Organ.Behav.
+17(2):119–33
+O’Brien KE,Biga A,Kessler SR,Allen TD.2010.A meta-analytic investigation of gender differences in
+mentoring.J.Manag.36(2):537–54
+PakK,KooijD,DeLangeAH,MeyersMC,vanVeldhovenM.2021.Unravellingtheprocessbetweenca-
+reershockandcareer(un)sustainability:exploringtheroleofperceivedhumanresourcemanagement.
+CareerDev.Int.26(4):514–39
+ParkerP,KhapovaSN,ArthurMB.2009.Theintelligentcareerframeworkasabasisforinterdisciplinary
+inquiry.J.Vocat.Behav.75(3):291–302
+PodsakoffPM,MacKenzieSB,LeeJ-Y,PodsakoffNP.2003.Commonmethodbiasesinbehavioralresearch:
+acriticalreviewoftheliteratureandrecommendedremedies.J.Appl.Psychol.88(5):879–903
+RodeJ,Arthaud-DayM,RamaswamiA,HowesS.2017.Atime-laggedstudyofemotionalintelligenceand
+salary.J.Vocat.Behav.101:77–89
+RodriguesRA,GuestD.2010.Havecareersbecomeboundaryless?Hum.Relat.63(8):1157–75
+RosenbaumJE.1979.Tournamentmobility:careerpatternsinacorporation.Adm.Sci.Q.24(2):220–41
+RudolphCW,LavigneKN,KatzIM,ZacherH.2017.Linkingdimensionsofcareeradaptabilitytoadaptation
+results:ameta-analysis.J.Vocat.Behav.102:151–73
+RummelS,AkkermansJ,BlokkerR,VanGelderenM.2021.Shocksandentrepreneurship:astudyofcareer
+shocksamongnewlygraduatedentrepreneurs.CareerDev.Int.26(4):562–81
+Savickas ML, Porfeli EJ. 2012. Career Adapt-Abilities Scale: construction, reliability, and measurement
+equivalenceacross13countries.J.Vocat.Behav.80(3):661–73
+SeibertSE,CrantJM,KraimerML.1999.Proactivepersonalityandcareersuccess.J.Appl.Psychol.84(3):416–
+27
+SeibertSE,KraimerM.2001.Thefive-factormodelofpersonalityandcareersuccess.J.Vocat.Behav.58(1):1–
+21
+Seibert SE, Kraimer ML, Crant JM. 2001. What do proactive people do? A longitudinal model linking
+proactivepersonalityandcareersuccess.Pers.Psychol.54(4):845–74
+SeibertSE,KraimerML,HoltomBC,PierottiAJ.2013.Eventhebestlaidplanssometimesgoaskew:career
+self-managementprocesses,careershocks,andthedecisiontopursuegraduateeducation.J.Appl.Psychol.
+98(1):169–82
+Seibert SE,Nielsen JD,Kraimer ML.2021.Awakening the entrepreneur within: entrepreneurial identity
+aspirationandtheroleofdisplacingworkevents.J.Appl.Psychol.106(8):1224–38
+SeibertSE,SargentLD,KraimerML,KiazadK.2017.Linkingdevelopmentalexperiencestoleadereffective-
+nessandpromotability:themediatingroleofleadershipself-efficacyandmentornetwork.Pers.Psychol.
+70(2):357–97
+ShockleyKM,ShenW,DeNunzioMM,ArvanML,KnudsenEA.2017.Disentanglingtherelationshipbe-
+tweengenderandwork-familyconflict:anintegrationoftheoreticalperspectivesusingmeta-analytic
+methods.J.Appl.Psychol.102(12):1601
+ShockleyKM,UreksoyH,RodopmanOB,PoteatLF,DullaghanTR.2016.Developmentofanewscaleto
+measuresubjectivecareersuccess:amixed-methodsstudy.J.Organ.Behav.37(1):128–53
+SitzmannT,CampbellEM.2021.Thehiddencostofprayer:religiosityandthegenderwagegap.Acad.Manag.
+J.64(4):1016–48
+SmaleA,BagdadliS,CottonR,DelloRussoS,DickmannM,etal.2019.Proactivecareerbehaviorsand
+subjectivecareersuccess:themoderatingroleofnationalculture.J.Organ.Behav.40(1):105–22
+Sonnenfeld JA, Peiperl MA. 1988. Staffing policy as a strategic response: a typology of career systems.
+Acad.Manag.Rev.13(4):588–600
+SørensenJB,FassiottoMA.2011.Organizationsasfontsofentrepreneurship.Organ.Sci.22(5):1322–31
+www.annualreviews.org (cid:129) ContemporaryCareerSuccess 533
+
+## Page 26
+
+53:34:81
+6202
+yaM
+31
+,deW
+:nO
+722.202.311.79
+:PI
+)tseug(
+tseuG
+.gro.sweiverlaunna.www
+morf
+dedaolnwoD
+SpreitzerGM,CameronL,GarrettL.2017.Alternativeworkarrangements:twoimagesofthenewworldof
+work.Annu.Rev.Organ.Psychol.Organ.Behav.4(1):473–99
+SpurkD,HirschiA,DriesN.2019.Antecedentsandoutcomesofobjectiveversussubjectivecareersuccess:
+competingperspectivesandfuturedirections.J.Manag.45:35–69
+Strauss K, Griffin MA, Parker SK. 2012. Future work selves: how salient hoped-for identities motivate
+proactivecareerbehaviors.J.Appl.Psychol.97(3):580–98
+SturgesJ,GuestD,ConwayN,DaveyKM.2002.Alongitudinalstudyoftherelationshipbetweencareer
+managementandorganizationalcommitmentamonggraduatesinthefirsttenyearsatwork.J.Organ.
+Behav.23(6):731–48
+Sturman MC. 2003. Searching for the inverted U-shaped relationship between time and performance:
+meta-analysesoftheexperience/performance,tenure/performance,andage/performancerelationships.
+J.Manag.29(5):609–40
+SuperDE,SavickasML,SuperCM.1996.Thelife-span,life-spaceapproachtocareers.InCareerChoiceand
+Development:ApplyingContemporaryTheoriestoPractice,ed.DBrown,LBrooks,pp.121–78.SanFrancisco:
+Jossey-Bass.3rded.
+TanE.2014.Humancapitaltheory:aholisticcriticism.Rev.Educ.Res.84(3):411–45
+Tharoor I. 2021. The ‘Great Resignation’ goes global. Washington Post, October 18. https://www.
+washingtonpost.com/world/2021/10/18/labor-great-resignation-global/
+TokarDM,FischerAR,MezydloSubichL.1998.Personalityandvocationalbehavior:aselectivereviewof
+theliterature,1993–1997.J.Vocat.Behav.53(2):115–53
+TurbanDB,DoughertyTW.1994.Roleofprotégépersonalityinreceiptofmentoringandcareersuccess.
+Acad.Manag.J.37(3):688–702
+TurnerRH.1960.Sponsoredandcontestmobilityandtheschoolsystem.Am.Soc.Rev.855–67
+Van der Heijde CMVD, Van der Heijden BIJM. 2006. A competence-based and multidimensional
+operationalizationandmeasurementofemployability.Hum.Resour.Manag.45(3):449–76
+VanderHeijdenBIJM,DeVosA,AkkermansJ,SpurkD,SemeijnJ,etal.2020.Sustainablecareersacrossthe
+lifespan:movingthefieldforward.J.Vocat.Behav.117:103344
+VanIddekingeCH,ArnoldJD,FriederRE,RothPL.2019.Ameta-analysisofthecriterion-relatedvalidity
+ofprehireworkexperience.Pers.Psychol.72(4):571–98
+WaddinghamJA,ZacharyMA,WalkerHJ.2023.Burninguponreentry:theeffectofentrepreneurialexitin
+thehiringcontext.J.Manag.Inpress
+WayneSJ,LidenRC,KraimerML,GrafIK.1999.Theroleofhumancapital,motivationandsupervisor
+sponsorshipinpredictingcareersuccess.J.Organ.Behav.20(5):577–95
+WeissDJ,DawisRV,EnglandGW.1967.ManualfortheMinnesotaSatisfactionQuestionnaire:MinnesotaStudies
+inVocationalRehabilitation.WorkAdjust.Proj.,Ind.Relat.Cent.,Univ.Minn.,Minneapolis,MN
+Wiernik BM,Kostal JW.2019.Protean and boundaryless career orientations: a critical review and meta-
+analysis.J.Couns.Psychol.66(3):280–307
+WoodW,EaglyAH.2010.Gender.InHandbookofSocialPsychology,ed.STFiske,DTGilbert,GLindzey,
+Vol.2,pp.629–67.NewYork:Wiley
+Zhang R, Wang MS, Toubiana M, Greenwood R. 2021. Stigma beyond levels: advancing research on
+stigmatization.Acad.Manag.Ann.15(1):188–222
+534 Seibert (cid:129)Akkermans (cid:129)Liu

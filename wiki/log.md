@@ -19,6 +19,13 @@ Navigation: [[index]] | [[hot]] | [[overview]]
 
 Append-only. New entries go at the TOP. Never edit past entries.
 
+## [2026-07-06] ingest | Career-success trio: Seibert et al. (2024) + Wiernik & Kostal (2019) + Hall, Yip & Doiron (2018)
+- Sources: `.raw/Seibert et al. - 2024 - Understanding Contemporary Career Success A Critical Review.md`, `.raw/Wiernik and Kostal - 2019 - Protean and Boundaryless Career Orientations A Critical Review and Meta-Analysis.md`, `.raw/Hall et al. - 2018 - Protean Careers at Work Self-Direction and Values Orientation in Psychological Success.md`
+- Summaries: [[seibert-akkermans-liu-2024-contemporary-career-success]], [[wiernik-kostal-2019-pbco-meta-analysis]], [[hall-yip-doiron-2018-protean-careers-at-work]]
+- Pages created: [[Protean Career Orientation]], [[Proactive Career Orientation]], [[Objective Career Success]], [[Career Self-Management Behavior]], [[Protean Paradox]], [[Sustainable Career]], [[Career Shocks]] + entities [[Scott Seibert]], [[Jos Akkermans]], [[Cheng-Huan (Jerry) Liu]], [[Douglas T. Hall]], [[Jeffrey Yip]], [[Brenton M. Wiernik]], [[Jack W. Kostal]] (c-000943–959)
+- Pages updated: [[Boundaryless Career]] (stub → developing, meta-analytic revision), [[Subjective Career Success]] (8-dimension saturation map + Seibert OCS/SCS framing), [[index]], [[hot]]
+- Key insight: Wiernik & Kostal's meta-analysis collapses protean vs boundaryless into one **proactive career orientation** factor (with physical mobility distinct) — in direct tension with Hall et al.'s two-dimension protean model; filed as a contradiction callout.
+
 ## [2026-07-06] ingest | Obloj & Zenger (2022) *Pay Transparency…* + Hong, Ford & Jong (2024) *Employee Benefits Meta-Analysis*
 - Sources: `.raw/Obloj and Zenger - 2022 - The influence of pay transparency on (gender) inequity, inequality and the performance basis of pay.md`, `.raw/Hong et al. - 2024 - Employee benefit availability, use, and subjective evaluation A meta-analysis of relationships with.md`
 - Summaries: [[obloj-zenger-2022-pay-transparency-equity-equality]], [[hong-ford-jong-2024-employee-benefits-meta-analysis]]

@@ -8,6 +8,8 @@ created: 2026-05-21
 updated: 2026-05-21
 related:
   - "[[beigi-2025-career-success-minority]]"
+  - "[[seibert-akkermans-liu-2024-contemporary-career-success]]"
+  - "[[Objective Career Success]]"
   - "[[Complex Visibility]]"
   - "[[Managed Visibility]]"
   - "[[On-the-Job Development]]"
@@ -30,6 +32,16 @@ Classic subjective career success measures focus on:
 - Career satisfaction
 - Perceived career success relative to personal goals
 - Work-life balance / subjective well-being
+
+## Seibert et al. (2024) — Eight-Dimension Saturation Map
+
+[[seibert-akkermans-liu-2024-contemporary-career-success|Seibert, Akkermans & Liu (2024)]] argue SCS research has reached **saturation**: across the major conceptualizations (Dries et al. 2008; Shockley et al. 2016; Briscoe et al. 2021 / 5C), eight recurring dimensions emerge — (1) financial, (2) advancement in responsibility/status/influence, (3) interpersonal relations, (4) challenge & mastery, (5) meaning & impact, (6) self-development, (7) career opportunities & control, (8) the work-life interface — plus an overall satisfaction assessment.
+
+Two open problems they flag:
+- **Contamination / overlap** — SCS correlates ~.61 with job satisfaction; new dimensions overlap with job characteristics (Hackman & Oldham) and work-family balance. Scholars must show *incremental* validity beyond existing OB measures.
+- **Dimensionality & use** — fine-grained multidimensional SCS for specific predictors/interventions; short global scales (Greenhaus et al. 1990) for broad theory testing.
+
+They pair SCS with [[Objective Career Success]] and recommend including *both* unless there is a well-articulated reason not to.
 
 ## Beigi et al. (2025) — Expanded Dimensions for Minority Employees
 

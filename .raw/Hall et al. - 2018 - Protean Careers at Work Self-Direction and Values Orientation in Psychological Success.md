@@ -1,0 +1,1963 @@
+## Page 1
+
+OP05CH06_HallARI20December20179:58
+
+AnnualReviewofOrganizationalPsychologyand
+
+OrganizationalBehavior
+
+ProteanCareersatWork:
+
+8
+
+1
+
+Self-DirectionandValues
+
+:
+
+8
+
+1
+
+:
+
+0
+
+0
+
+OrientationinPsychological
+
+6
+
+2
+
+0
+
+2
+
+y
+
+aSuccess
+
+M
+
+8
+
+0
+
+,
+
+ir
+
+F
+
+∗∗
+
+1,2,DouglasT.(Tim)Hall,JeffreyYip,
+
+:
+
+n
+
+O
+
+2andKathrynDoiron
+
+7
+
+5
+
+1
+
+.
+
+2
+
+1QuestromSchoolofBusiness,BostonUniversity,Boston,Massachusetts02215,USA;8
+
+1
+
+email:dthall@bu.edu.
+
+3
+
+3
+
+22SchoolofSocialScience,Policy&Evaluation,ClaremontGraduateUniversity,Claremont,
+
+.
+
+2
+
+California91711,USA;email:jeffrey.yip@cgu.edu,kathryn.doiron@cgu.edu7
+
+:
+
+P
+
+I
+
+)
+
+t
+
+sAnnu.Rev.Organ.Psychol.Organ.Behav.2018.
+
+Keywordse
+
+u
+
+5:129–56g
+
+(proteancareer,self-direction,values,adaptability,success
+
+t
+
+sFirstpublishedasaReviewinAdvanceon
+
+e
+
+uDecember6,2017
+
+GAbstract
+
+.TheAnnualReviewofOrganizationalPsychologyand
+
+g
+
+Howdoself-directionandpersonalvaluesinﬂuencecareeroutcomes?Suchr
+
+oOrganizationalBehaviorisonlineat
+
+.
+
+s
+
+questionshavebeencentralinresearchontheproteancareer—acareerorgpsych.annualreviews.orgw
+
+e
+
+iprocesscharacterizedbytheexerciseofself-directionandanintrinsicval-v
+
+https://doi.org/10.1146/annurev-orgpsych-e
+
+ruesorientationinthepursuitofpsychologicalsuccess.Thisarticleprovides
+
+l032117-104631a
+
+u
+
+nanintegrativereview,withafocusonthreeempiricallysupportedprotean
+
+(cid:2)ncCopyright2018byAnnualReviews.
+
+a
+
+processes—identityawareness,adaptability,andagency.Inaddition,wedis-.Allrightsreserved
+
+w
+
+w
+
+cusstheroleofproteancareersinthecontemporaryworkenvironment,clar-∗
+
+wTheseauthorscontributedequallytothisarticle
+
+mifydeﬁnitionalandmeasurementissues,recommendresearchdirections,and
+
+o
+
+r
+
+providepracticalimplicationsfororganizations.Ourunderlyingassumptionf
+
+d
+
+e
+
+throughoutthisdiscussionisthattheelementsofaproteancareerorienta-d
+
+a
+
+FurtherANNUAL o
+
+tion(PCO)arebasicelementsofhumanneedsforgrowthandmeaning.In
+
+REVIEWS l
+
+n
+
+w
+
+addition,wediscusshowproteancareerscanbebeneﬁcialfororganizations.Click here to view this article's
+
+o
+
+online features:D
+
+Inparticular,weidentifythe“ProteanParadox”asaphenomenonthatmer-
+
+• Download ﬁgures as PPT slides
+
+• Navigate linked referencesitsfurtherinvestigation.Morespeciﬁcally,theproteanparadoxisaprocess
+
+• Download citations
+
+• Explore related articlesbywhichgreaterlevelsofindividualself-directionandvaluesorientation,
+
+• Search keywords
+
+thusservingthepurposeandinterestsoftheindividual,canalsohaveapos-
+
+itiveinﬂuenceonthegroupsandorganizationsinwhichtheywork.Our
+
+recommendationsforfutureresearchandpracticepromotethesequalities
+
+inthecontemporaryworldofwork.
+
+129
+
+## Page 2
+
+81:81:00
+6202
+yaM
+80
+,irF
+:nO
+751.281.332.27
+:PI
+)tseug(
+tseuG
+.gro.sweiverlaunna.www
+morf
+dedaolnwoD
+OP05CH06_Hall ARI 20December 2017 9:58
+Thefutureisnotsomeplacewearegoingto,butonewearecreating.Thepathstoitarenotfound
+butcreated,andtheactivityofcreatingthemchangesboththemakerandthedestination.
+—JohnHomerSchaar(1989)
+INTRODUCTION
+Changeisoneofthegreatconstantsincareersandorganizationallife.AsPeterDrucker(1973)
+notes,“theonlythingweknowaboutthefutureisthatitisgoingtobedifferent”(p.44).Across
+theglobe,therapidpaceofchange,acceleratedbytechnologyandglobalization,hasgivenriseto
+aso-calledgigeconomy,characterizedbymorefrequentcareertransitionsaswellasvirtualand
+contingentwork(Barleyetal.2017).Traditionalemploymentrelationshipsareindeclineandare
+giving way to the rise of alternative work arrangements (Katz & Krueger 2017). This requires
+greaterlevelsofself-directionandadaptabilityonthepartofjobseekersandemployers.From
+apsychologicalperspective,whatarethecareerorientationsandprocessesthatenablepeopleto
+thriveandadapttothesechanges?Howmightpeoplecometoexercisemoreself-directionand
+enacttheirvaluesinthecourseofacareer?Questionssuchasthesehavebeencentralinresearch
+onorganizationalcareers,particularlyinresearchontheproteancareer(Hall1976,2004).
+Proteancareersarecharacterizedbytheexerciseofself-directionandafocusonintrinsicvalues
+inthepursuitofpsychologicalsuccess.Thisisanagenticorientationtowardone’scareer,inwhich
+thepersonaspirestobeself-directedinhisorhercareerchoicesandguidedbyintrinsicvalues
+(Hall2002).Thisviewisincontrastwiththetraditionalviewofcareers,guidedbytheorganization
+andotherexternalfactorsinsteadoftheindividualanddrivenbythepursuitofextrinsicsuccess
+(e.g.,salary,advancement;Hall2004).Morespecifically,theproteancareerorientation(PCO)is
+anattitudetowardcareersthatinvolvesself-direction(thedesiretobeagentic,inchargeofone’s
+career)andavaluesorientation(adesiretomakecareerdecisionsthataredrivenbyintrinsicvalues;
+Briscoeetal.2006).Itisanorientationinwhichthepersonisincharge—notanorganizationor
+otherpeople.
+Researchonproteancareersdiffersfromothercareerperspectivesthatfocusontheroleofthe
+environmentandsocializationinshapingaperson’soccupationalchoices,e.g.,Holland’s(1997)
+modelofperson-occupationfitandSuper’s(1957)focusonthesynthesizingofself-imagewiththe
+occupationalrole.Theproteanconceptsuggestsaveryagenticrolefortheindividual.Theother
+uniqueaspectoftheproteanconceptistheinternalmotivationthatisprovidedbytheperson’s
+intrinsicvaluesthatdrivetheperson’sagenticsources.Thisisthe“engine”ormotivationforthe
+person’scareerdecisions.
+Beingself-directedandvaluesdrivenisnotagivenandisparticularlydifficultintoday’swork
+environment,whichischaracterizedbyvolatility,uncertainty,complexity,andambiguity(VUCA)
+(Bennett&Lemoine2014).Thecriticalforcescausingglobaleconomicinequalityarenotoper-
+atingatalevelthatanindividualcancontroldirectly.Thesearemacroeconomicandinstitutional
+forces,whichincludeglobalization,technology,andenvironmentalchanges,whicharehappening
+atanacceleratingrate.ThomasFriedmanlikenedtheseswirlingforcestoahurricane:
+These accelerations in technology, globalization and Mother Nature are like a hurricane in which
+we’reallbeingaskedtodance.TrumpandtheBrexiterssensedtheanxietyofmanyandpromisedto
+buildawallagainstthesehowlingwindsofchange.Idisagree.Ithinkthechallengeistofindtheeye.
+(Friedman2016a)
+Inourreview,wefoundmultiplestudieswithevidenceontherelationshipbetweentheprotean
+careerorientationandadaptabilityinthefaceofuncertaintyandchange(Briscoeetal.2012,Waters
+· ·
+130 Hall Yip Doiron
+
+## Page 3
+
+81:81:00
+6202
+yaM
+80
+,irF
+:nO
+751.281.332.27
+:PI
+)tseug(
+tseuG
+.gro.sweiverlaunna.www
+morf
+dedaolnwoD
+OP05CH06_Hall ARI 20December 2017 9:58
+etal.2014).Acyclonecanindeedprovideincredibleenergyforthepersonorsystemthatcanbe
+strongandadaptableenoughtoharnessit.ThePCOisnotjustsomethingthatmaybe“niceto
+have”inthisenvironment—wewouldarguethatitisnecessary,akeytopsychologicalsuccessin
+achangingworld.
+Inthisintegrativereview,we(a)situatethephenomenonandrelevanceofproteancareersinthe
+contemporaryworkenvironment;(b)reviewexistingstudiestodevelopanintegrativeframework
+forunderstandinghowself-direction,avaluesorientation,andpsychologicalsuccessarecentral
+totheenactmentofaproteancareer;(c)describefutureresearchtopicsandmethodsbasedon
+ourreview;and(d)providepracticalrecommendationsforcareermanagementandorganizational
+behavior.
+PROTEANCAREERSINTIMESOFDISCONTENT
+AsWarrenBennis(personalcommunication)observed,thefutureisnotwhatitusedtobe.Much
+of the social, economic, and political upheaval in the world today is related to the discontent
+withwhichmanypeopleregardtheircareeridentityandsenseofcontrolandmeaningintheir
+lives.Muchofthisturbulencehastodowiththedesireofpeopletohavemoresayintheevents
+thataffecttheirlivesandtoleadlifestylesthatfitwiththeirdeeplyheldvalues(Friedman2016b,
+Hochschild2016).Manypeopleaspiretohavesuccessfuljobsandcareers,andtheyseesomeof
+theelites(thetop1%)intheirsocietiesenjoyingprivileged,self-directedproteancareers,while
+theyarefrustratedandblockedfromrealizingtheirowndreams.Manypeoplefeelleftbehind,
+astheyseeothersintheirsocietiesmovingfaraheadofthem(formoredetails,seeVance2016,
+Cramer2016).Manypeoplethusfeelthattheircareersinrecentyearshavebeenanythingbut
+protean;infact,forthemtheoppositeistrue,andtheircareersfeeloutofcontrolanddevoidof
+meaningandpurpose(Baruch&Vardi2016).
+There is evidence of class conflict, working class discontent, hypernationalismonthe right,
+and anger at gender and income inequality on the left (Frank 2016, Hacker & Pierson 2011,
+Milanovic2016,Piketty2014,Stiglitz2012).Althoughtheseforcesmanifestthemselvesindra-
+maticeventssuchasshockingelectoralupsets(e.g.,intheUnitedStatesandtheUnitedKingdom),
+theunderlyingissuesarefundamentalandtimeless.
+Thereisacommonelement:people’saspirationstoexpressthemselvesandtheirvaluesintheir
+livesandintheirwork.Peopleeverywhereaspiretobeabletohavecontrolovertheirdestinies.
+However,theyareblockedandfrustrated,withasystemseeminglyriggedagainstthem.These
+“strangersintheirownland,”touseHochschild’s(2016)term,areproteanintheirorientation—
+meaningtheywanttocontroltheirowndestiniesandlivelivesbasedontheirvalues—butthey
+areleftwithnowheretogo.
+Theseissues,however,arenotrecentphenomena.Hall(2004)reflectedonthechangesinthe
+worldinthe25yearssincehefirstwroteabouttheproteancareerin1976.Hecharacterizedthe
+proteancareer(versusthetraditionalcareer)as“oneinwhichtheperson,nottheorganization,
+isincharge,thecorevaluesarefreedomandgrowth,andthemainsuccesscriteriaaresubjective
+(psychologicalsuccess)versusobjective(position,salary)”(Hall2004,p.4.)
+THEPROTEANCAREER:AREVIEWINCONTEXT
+The evolution and growth in research on the protean career was covered by Hall (2004) and
+subsequentlybyGubleretal.(2014),whopointsoutthatwhatisoftenreferredtoastheprotean
+careerinfactcanbeoneofthreequitedifferentthings.Thereistheproteancareerconcept(PCC),
+whichisthebasicproteancareertheoryasoriginallydefinedbyHall(1976).Thenthereisthe
+www.annualreviews.org • ProteanCareersatWork 131
+
+## Page 4
+
+81:81:00
+6202
+yaM
+80
+,irF
+:nO
+751.281.332.27
+:PI
+)tseug(
+tseuG
+.gro.sweiverlaunna.www
+morf
+dedaolnwoD
+OP05CH06_Hall ARI 20December 2017 9:58
+PCO,whichistheattitudeormindsetofthepersonwithagentic,proteaninclinations(i.e.,self-
+directedandvaluesdriven).Finally,thereistheproteancareerpath(PCP),whichisanobjective
+sequence of job moves for a person with high PCO. We find that the empirical research has
+focusedprimarilyonPCCandPCO.Tounderstandtheevolutionoftheseconcepts,weprovide
+hereabriefchronologicaloverviewonproteancareertheory.
+Hall(1976)firstdescribedtheproteancareerasanorientationthatenablespeopletoadaptto
+social,political,technological,andeconomicchangesacrossmultiplecareerlifecycles.RobertJ.
+Lifton’s(1993)TheProteanSelf,describingsurvivors’adaptationstotheaftermathoftheatomic
+bombingsinJapanthatendedWorldWarII,inspiredthisviewofcareers.Thiswasacontext,
+liketoday’svolatilepoliticalandeconomicclimate,inwhichthebasicorderoftheworldseemed
+tobetornapartatitscore.AsLifton(1993)sawit,acriticalissuewasthatwhatconstitutesthe
+authenticselfasaperson’sidentitywasundergoingmassivechangesinresponsetoadrastically
+alteredenvironment(e.g.,HiroshimaandNagasakiaftertheWorldWar).
+Withthearrivalofglobalcompetitioninthe1980s,companies,startingintheautoandother
+manufacturingindustries,begandownsizinganddelayering,andthebigcareerissuebecamecareer
+plateaus.Companieswereconcernedwithretainingemployeesintheabsenceofpromotion.By
+the1990sitbecameclearthatthepeoplewhohadplateauedwerethefortunateones,asincreasing
+numbersofemployeeswerenowbeinglaidoff.Thebigcareerissueofthe1990swasthedemise
+ofthepsychologicalcontractatwork(Rousseau1995),andthenewrealitywastheboundaryless
+career(Arthur&Rousseau1996).Inthe2000s,thereismorewritingabouttheinternalcareer,
+withafocusonissuessuchassubjectivesuccess,thequestformeaningorcalling,andpersonal
+strategiesforself-management,surroundingbothcareerissuesandwork-lifematters(Halletal.
+2013).Relatedly,therehasbeenstronginterestinwaysthatindividualscanassertmorecontrol
+overtheirlivesandcareers,andthusmoreinterestintheproteancareer.Theseissuesbecomeeven
+morepressingwhenoneconsidersthatmanypeopleborntodayarefacingtheprospectofwhat
+Gratton&Scott(2016)termthe“100-yearlife.”Ourreviewrevealsasteepincreaseinresearch
+onproteancareersinthepastthreedecades(seeFigure1).Researchontheproteancareerhas
+beenconductedgloballyandacrosssixcontinents,withapredominanceofstudiesconductedin
+EuropeandNorthAmerica,followedbyAsiaandOceania(seeFigure2).FromFigure1,wenote
+theexponentialincreaseinresearchonproteancareersfrom2006.ThismaybeduetoBriscoe
+et al.’s (2006) publication of the first validated measure of protean career attitudes, a measure
+70
+60
+50
+40
+30
+20
+10
+0
+1996–2000 2001–2005 2006–2010 2011–now
+Year
+srepap
+deweiver-reep
+fo
+rebmuN
+sreerac
+naetorp
+no
+Figure1
+Peer-reviewedpapersonproteancareersthroughMay2017(byyear).
+· ·
+132 Hall Yip Doiron
+
+## Page 5
+
+81:81:00
+6202
+yaM
+80
+,irF
+:nO
+751.281.332.27
+:PI
+)tseug(
+tseuG
+.gro.sweiverlaunna.www
+morf
+dedaolnwoD
+OP05CH06_Hall ARI 20December 2017 9:58
+41%
+34%
+11%
+10%
+3%
+1%
+Europe North America Asia Oceania Africa South America
+srepap
+deweiver-reep
+fo
+rebmuN
+sreerac
+naetorp
+no
+40
+30
+20
+10
+0
+Continent
+Figure2
+Peer-reviewedpapersonproteancareers(bycontinent).
+that is still widely used in recent studies. As per Figure 2, much of the published research on
+proteancareersisinEurope,followedbyNorthAmericaandAsia.Thisisapromisingfinding,
+given the general critique of management scholarship as being North American centric. More
+recently,inthepastfiveyears,advanceshavebeenmadeintheunderstandingofproteancareer
+processesinachievingcareersuccess(Herrmannetal.2015),managingwork-lifebalance(Direnzo
+etal.2015),copingwithunemployment(Watersetal.2014),makingthetransitiontoretirement
+(Kim&Hall2013),andhelpingtounderstandorganizationalculturesandclimates(Hall&Yip
+2016).
+Despitetheextensiveinfluenceofconceptualandempiricalresearchonproteancareers,ex-
+isting reviews have focused primarily on construct definition and measurement (Gubler et al.
+2014). Here, we develop a more inclusive and integrative review. Our review process included
+a comprehensive search of articles published in both management and organizational psychol-
+ogy journals, including the Academy of Management Journal, Academy of Management Review,
+Career Development International, Journal of Applied Psychology, Journal of Management, Journal
+of Organizational Behavior, Journal of Vocational Behavior, and Personnel Psychology. In addition,
+our review discusses methodological advances and future directions for research on protean
+careers.
+Toarriveatacomprehensivecollectionofpeer-reviewedarticles,weretrievedarticlesfrom
+keyword searches of social science and business databases (i.e., EBSCO, Web of Science, and
+Google Scholar) using the term “protean career.” As this search generated 373 publications,
+several exclusion criteria were used to find the articles relevant to the purposes of this review.
+First,unpublishedworkandarticlesnotinEnglishwereexcluded.Second,articlesthatwerenot
+situatedinthecareercontextwereremoved.Finally,articlesthatmentionedtheproteancareer
+brieflybutwerefocusedonothercareerconstructs,suchasboundarylesscareersorcareercallings,
+wereremoved.Thisresultedinatotalof122peer-reviewedarticlespublishedbetween1996and
+mid-2017(seeFigure1).
+www.annualreviews.org • ProteanCareersatWork 133
+
+## Page 6
+
+81:81:00
+6202
+yaM
+80
+,irF
+:nO
+751.281.332.27
+:PI
+)tseug(
+tseuG
+.gro.sweiverlaunna.www
+morf
+dedaolnwoD
+OP05CH06_Hall ARI 20December 2017 9:58
+Protean career orientation Protean career processes Career outcomes
+Awareness
+Process of identity work
+and meaning making Subjective career success
+Self-direction
+Adaptability
+Process of responding Objective career success
+to change
+Intrinsic work values
+Organizational commitment
+Agency
+Process of exercising
+choice and intention
+Figure3
+Keymechanismsintheproteancareerprocess.
+PROTEANCAREERTHEORY:THEORETICALMECHANISMS
+Theproteancareer,asconceptualizedbyHall(1976),describes“aprocesswhichtheperson,not
+theorganization,ismanaging”(p.201).Centraltothisprocessistheroleofself-directionandthe
+centralityofintrinsicvalues.ConsistentwithHall’s(1976)earlytheorizing,empiricalresearchon
+theproteancareerhasconvergedonexplainingtherolesofself-directionandavaluesorientation
+inthreedomains:(a)asmeaningfulindividualdifferences(antecedentfactors),(b)asinfluenceson
+careerprocesses,and(c)aspredictorsofcareerandorganizationaloutcomes.
+Whileresearchinthesedomainshasadvancedsubstantially,earlystudieshavefocusedprimarily
+on developing a measure of the PCO and establishing its predictive validity as an individual
+differencevariable(Gubleretal.2014).Morerecentstudieshavestartedtoexaminedistinctsocial
+psychologicalmechanismsandoutcomes.
+Asanorganizingframeforourreview,wehavedevelopedanintegrativemodelthatillustrates
+keymechanismsintheproteancareerprocess.Figure3presentsasummaryofthismodel,andthe
+sectionsthatfollowprovidethedetailsofeachcomponent—thePCO,proteancareermechanisms,
+andcareeroutcomes.
+RESEARCHONTHEPROTEANCAREER
+Inthissection,wediscussourreviewoftheempiricalliterature.Webeginbyexaminingresearch
+onproteancareersandmeasuresofthePCO.
+ProteanCareerOrientation
+ThePCOisanindividualdifferencevariableandpredictorofproteancareerprocessesandout-
+comes.Thisorientationcanbeunderstoodasacareerattitudewithtwoimportantdimensions,
+a focus on self-direction and an orientation toward intrinsic values. These two dimensions are
+centraltoHall’s(2004)definitionofaPCO,as“oneinwhichtheperson,nottheorganization,is
+incharge”(self-direction)andwhere“thecorevaluesarefreedomandgrowth”(p.4;see,more
+generally,thediscussiononintrinsicvaluesorientation).
+Ingeneral,self-directionreferstoaperson’sindependencefromexternalcontrolorinfluence.
+Morespecifically,inthecontextofthePCO,self-directionrepresentsthedegreetowhichpeople
+assumeresponsibilityfortheircareer(Briscoeetal.2006,Mirvis&Hall1994).Itisanattitude
+thatrepresentsaperson’stakingresponsibilityandpersonalagencyfortheircareerdecisionsand
+· ·
+134 Hall Yip Doiron
+
+## Page 7
+
+81:81:00
+6202
+yaM
+80
+,irF
+:nO
+751.281.332.27
+:PI
+)tseug(
+tseuG
+.gro.sweiverlaunna.www
+morf
+dedaolnwoD
+OP05CH06_Hall ARI 20December 2017 9:58
+actions(Briscoeetal.2006,Segersetal.2008).Self-directionisacriticalcomponentoftheprotean
+careerandrepresentstheagenticaspectsofvolitionandcontroloverone’scareer.
+Inadditiontoself-direction,thePCOisdefinedasonewheretheintrinsicvaluesofaperson
+serveasaguideforcareerdecisions(Briscoe&Hall2006).AsHall(1976)notes,“thecriterion
+ofsuccess is internal (psychological success), notexternal” (p. 201). The values associated with
+aPCOareintrinsicandorientedtowardautonomy,meaning,andgrowth.Whereself-direction
+representsagencyandvolitioninthepursuitofone’scareergoals,intrinsicvaluesprovidemeaning
+tothepursuit.
+AninterestingintrapersonaldynamicinthePCOistheinteractionbetweenself-directionand
+intrinsicvalues.Intrinsicvalues,withaproteanorientation,canguidepeopleinactivelymaking
+meaningthroughcareerdecisionsandtransitions,asopposedtoarelianceonexternallydefined
+sources of meaning. However, a focus on intrinsic values alone, without self-direction, may be
+maladaptive.AsBriscoe&Hall(2006)note,beingvaluesorientedbutnotself-directedcanresult
+inarigidcareerorientationandmayeveninhibitcareerproactivity.Moreimportantly,studiesthat
+haveincludedbothself-directionandvaluesorientationinassessingthePCOhavefoundthatthe
+combinationofbothcomponentspredictsgreatervarianceinpositiveresponsestochangethan
+eithercomponentalone(Briscoeetal.2010,Judgeetal.1999).
+Notonlyhaveself-directionandintrinsicvaluesbeencontinuedfociinresearchonprotean
+careers,theyhavealsobeenexaminedinpsychologicalresearchonmotivation,morespecifically
+in self-determination theory (SDT; Deci et al. 2017). SDT focuses on the fulfillment of three
+basic psychological needs (autonomy, competence, and relatedness) as conditions for optimal
+well-being and motivation. Studies on protean careers and self-determination share a similar
+foundationintheirpositiveviewsofhumanmotivationandneedsformeaning,competence,and
+personalcausation(White1959,deCharms1968).However,thetwotheoriesaddressdifferent
+issues.Mostsimply,proteantheoryaddressesthecareerandtheperson’slifelongwork-related
+experiences. SDT is a theory of motivation and applies to more immediate job-related issues,
+suchasengagement,performance,commitment,andjobattitudes.Also,SDTrelatestoashorter
+timeframe,namely,experiencesandmotivationinaparticularsituation,whereasproteancareer
+theoryreferstoalongertimeframe,namely,theperson’swork-relatedexperiencesovertimein
+thecareer.Aswediscussinourconcludingsection,althoughthesetwotheoriesaredistinctand
+areemployedfordifferentpurposes,itappearsthateachcanbeusefullyappliedtothedomainof
+theother,toprovidenewperspectivesandnovelresearchhypotheses.
+MeasuresoftheProteanCareerOrientation
+Briscoeetal.(2006)publishedthevalidationstudyforthefirstPCOscale,theProteanCareer
+AttitudesScale(PCAS),whichsparkedanincreaseinempiricalresearchontheconstruct.Ofthe
+91empiricalarticlesincludedinthisreview,onlysixwerepublishedbeforethisfirstmeasurewas
+developed.Briscoeetal.’sscaleincludestwodimensions:self-directedcareermanagementattitude
+and values-driven career attitude. Continuing the work of developing and validating measures
+ofthePCO,LiberatoBorgesetal.(2015)adaptedthePCASforusebyuniversitystudentswho
+havenotyethadacareer,andPorteretal.(2016)createdashort-formversionofthescale.In
+addition,Baruch(2014)developedandvalidatedaunidimensionalscaleforthePCOthatfocuses
+mainlyonself-directionandcareersuccess(seeTable1foranoverviewofPCOmeasures).
+Briscoeetal.’s(2006)scaleisthemostwidelyusedproteancareermeasure.ThePCAShas
+severalstrengths,includingthatitwastestedforstructuralandconvergentvalidityacrossthree
+studieswithseparatesamplesintheoriginalpublication(Briscoeetal.2006),hasbeenusedacross
+manydifferentorganizationalcontextsandcultures(seeTable1),andincludesboththeoretical
+www.annualreviews.org • ProteanCareersatWork 135
+
+## Page 8
+
+81:81:00
+6202
+yaM
+80
+,irF
+:nO
+751.281.332.27
+:PI
+)tseug(
+tseuG
+.gro.sweiverlaunna.www
+morf
+dedaolnwoD
+OP05CH06_Hall ARI 20December 2017 9:58
+Table1 Proteancareerorientationmeasures
+Numberof
+Measure Citation Dimensions Totalitems Averageα articles
+ProteanCareer Briscoeetal. 2 14 Self-direction:α=0.764 26
+AttitudesScale(PCAS) (2006) Values-driven:α=0.713
+Total:α=.816a
+PCAS;only Briscoeetal. 1 8b α=0.804b 10b
+self-directionb (2006)
+ProteanCareerScale Baruch(2014) 1 5–7 α=0.751 3
+ProteanCareer LiberatoBorges 2 20 Self-direction:α=0.790 1
+ManagementScalefor etal.(2015) Values-driven:α=0.745
+UniversityStudents
+ProteanCareer Porteretal.(2016) 2 7 Self-direction:α=0.740 1
+Attitudes–ShortForm Values-driven:α=0.670
+aCronbach’sAlphawasreportedforthefullscale.
+bStudiesthatusedonlytheself-directiondimensionareincludedseparately;thetotalnumberofstudiesthatusedanypartofthePCASmeasureis35.
+dimensionsofthePCO.However,therearealsosomepotentialpsychometricissueswiththescale.
+Forexample,someresearchersinnon-Westerncultureshavefoundthatthevalues-orientation
+dimensiondidnotemergecleanly(Chanetal.2012),andtwoadditionalscalevalidationarticles
+found that the values-orientation dimension fit best when split into two further factors: moral
+behavior and pursuit of personal values-driven goals (de Bruin & Buchner 2010, Enache et al.
+2012).
+Inaddition,intheprocessofvalidatingnewandadaptedversionsofthePCAS,Baruch(2014)
+and Porter et al. (2016) critiqued the length of the scale and aimed to create a more concise
+measure for the construct; Liberato Borges et al. (2015) pointed to the difficulty of answering
+someofthequestionsforyouthswhohadnotyetbeguntheircareersandthushadlittletono
+workexperience.AlthoughBaruch(2014)alsocriticizedthemultidimensionalnatureofthePCAS,
+Porteretal.(2016)keptthemultidimensionalstructureintact.Thesenewmeasuresarepromising
+andshouldbetestedforpredictivevalidity,aswellasfortheirapplicabilityindifferentcultures.In
+summary,werecommendmeasuresthatconsiderthetwo-dimensionalstructureofthePCObut
+alsorecognizethatmoreresearchisneededonexistingmeasurestovalidatethisfactorstructure.
+AntecedentstotheProteanCareerOrientation
+ResearchontheproteancareerhasfocusedprimarilyonthePCOasapredictorofcareerbehaviors
+andoutcomes.Fewerstudieshaveexaminedtheantecedentsandpsychologicalcorrelatestothe
+PCO.Additionally,wefoundthatinsomestudies,thePCOisconfoundedwithaboundaryless
+orientation.Inthissection,wereviewantecedentstothePCOandclarifyitsrelationshipwitha
+boundarylessorientation.
+DemographicandDevelopmentalAntecedents
+Segersetal.(2008)examinedindividualdifferencesinthePCOfromalargedatasetof13,000
+respondents.Theyfoundthatbotheducationandmanagerialexperiencehadpositiverelation-
+shipswiththedimensionofcareerself-directionintheproteanorientation.Thissuggeststhat
+socializationintheformoffurthereducationandon-the-jobexperiencemightfacilitateashift
+· ·
+136 Hall Yip Doiron
+
+## Page 9
+
+81:81:00
+6202
+yaM
+80
+,irF
+:nO
+751.281.332.27
+:PI
+)tseug(
+tseuG
+.gro.sweiverlaunna.www
+morf
+dedaolnwoD
+OP05CH06_Hall ARI 20December 2017 9:58
+toward greater levels of self-direction. Segers et al. also found a negative relationship between
+two cultural variables (masculinity and power distance) on a person’s reported levels of career
+self-direction.
+Sargent&Domberger’s(2007)studyistheonlyoneconductedintheareaofageanddevelop-
+mentalantecedentstotheproteanorientation.Theauthorsconductedaqualitativestudyofyoung
+adults with a focus on developmental antecedents to the PCO. Their findings suggest that the
+PCOisshapedatayoungageandinfluencedbytwodevelopmentalantecedents,interactionwith
+rolemodelswhoexemplifiedaproteanorientationandexperiencesof“valueviolations”(events
+during which externally espoused values were inconsistent with personal values). Although the
+authorsdidnotestablishspecificagevariationsintheproteancareer,researchbydevelopmental
+psychologistssuggeststhatshiftstowardself-directionoccurduringthephasesbetweenadoles-
+cenceandearlyadulthood(Marcia1966,Kegan1994).Thedevelopmentaltransitionstowarda
+PCOmakeupapromisingavenueforfurtherresearch.
+Researchers have alsouncovered gender differences inboththePCOand PCPs.Ina study
+within the United States, Reitman & Schneer (2003) discovered that protean-oriented women
+are better able to combine both work and family responsibilities as compared to women who
+followtraditionalcareerpaths.Sullivan(1999)proposedthatwomenareincreasinglyembracing
+self-directedcareers,whichinturnreflectsproteancareeradoption.Itisnotsurprisingthenthat
+womenwerefoundtohavehigherPCOinseveralstudies(e.g.,Hofstetter&Rosenblatt2016,
+Segersetal.2008).
+Dispositionalantecedents. Todate,researchondispositionalantecedentshasbeenlimitedto
+researchonthePCO.Theantecedentmostcommonlyassociatedwithproteancareersisproactive
+personality.ProactivepersonalityhasbeenfoundtopredictthePCOamongrespondentsinthe
+UnitedStates(Briscoeetal.2006),Germany(Gasteigeretal.2008),andSingapore(Uyetal.2015).
+Although proactive personality has been found to correlate with protean orientation, evidence
+suggeststhattheyaredistinctconstructsbywayofpredictivevalidity.Morespecifically,Herrmann
+etal.(2015)foundthatthePCOpredictedproactivecareerbehaviorandcareersatisfaction,even
+aftercontrollingfortraitproactivity.
+Only two studies to date have examined the relationship between dimensions of the five-
+factorpersonalitymodelandthePCO.Briscoeetal.(2006)foundapositiveassociationbetweena
+person’sopennesstoexperienceandproteanorientation.Rastgaretal.(2014)foundsimilarresults.
+Inaddition,Rastgaretal.(2014)foundanegativeassociationbetweenagreeablenessandPCOand
+apositiveassociationbetweenextroversionandPCO.Neuroticismandconscientiousnesswere
+notsignificantpredictorsoftheproteanorientation.
+Self-regulation is another potential dispositional antecedent to the protean orientation.
+Hofstetter&Rosenblatt(2016)foundthatthePCOcouldbedifferentiallypredictedbytwodiffer-
+entkindsofself-regulationfocus.Hofstetter&Rosenblatt(2016)foundthataPCOwaspositively
+associatedwithapromotionfocus(e.g.,aperson’sfocusonpotentialgainstobeachievedbythe
+individual)andnegativelyassociatedwithapreventionfocus(aperson’sfocusonpotentialloss).
+Protean and boundaryless career attitudes. ThePCOisoftenassociatedwithboundaryless
+careerattitudes,astheyareboth“newcareer”orientationsrepresentingindividualagencyincareer
+development(Gubleretal.2014).Animportantdistinctionbetweenthetwoisthatboundaryless
+career attitude is focused on mobility and the PCO is focused on values orientation and self-
+direction.AlthoughthePCOhasbeenfoundtocorrelatewithanopennesstochange(Gasteiger
+2007),itisnotassociatedwithpreferencesformobility(Briscoe&Finkelstein2009).Accordingly,
+Briscoeetal.(2006)foundthattheproteanandboundarylesscareerorientationsarerelatedbut
+www.annualreviews.org • ProteanCareersatWork 137
+
+## Page 10
+
+81:81:00
+6202
+yaM
+80
+,irF
+:nO
+751.281.332.27
+:PI
+)tseug(
+tseuG
+.gro.sweiverlaunna.www
+morf
+dedaolnwoD
+OP05CH06_Hall ARI 20December 2017 9:58
+independentconstructs.Apersoncouldbeself-directedandvaluesoriented—aPCO—withalow
+needfororganizationalorgeographicalmobility—aboundarylessorientation.
+Overall,therehasbeenalackofresearchonantecedentstothePCO,whichcouldbeduetoan
+assumptionthatitisastableindividualtrait—anassumptionthathasbeenchallengedwithrecent
+evidenceonthemalleabilityoftheproteanorientation(Supeli&Creed2016,Watersetal.2014).
+Examinationofthepossibleantecedentsandchangesintheproteanorientationisanimportant
+areaforfutureresearch,andwediscussthisnotionfurtherinourconcludingsections.
+ProteanCareerMechanisms
+Inthissection,wefocusonproteancareermechanisms,thatis,processesthatexplaintherela-
+tionshipbetweenaPCOandindividualandorganizationaloutcomes.InHall’swritingsonthe
+proteancareer,heproposedtwocompetenciesthatenablethepersontoexpresshisorherprotean
+orientation—identityawareness(aclearsenseofone’spersonalidentityandvalues)andadaptabil-
+ity(thecapacitytochangeinresponsetoturbulentconditions)(Hall1996a,2002).Aswelooked
+atthestudiesinthisreview,theprocessestheycoveredseemedtofallintothesetwoareas(i.e.,
+identityawareness,adaptability)aswellasathirdprocess—careeragency—theperson’ssenseof
+masteryorcontroloverthecareer.Eachoftheseareasrepresentsapathwaythroughwhichthe
+PCOcanmotivateandenablethepersontotranslatecareerattitudesintocareeractions.
+Identity awareness. Themechanismofidentityawarenessisgroundedintheroleofpersonal
+valuesincareerdecisionmaking(Hall2004).Thisawarenessofone’svocationalidentitycanbe
+seenasameta-competencyfordevelopingaproteancareerbecauseintimesoffrequentchange
+anddecreasingorganizationalguidelinesforcareerdevelopment,peopleneedastronginternal
+compasstoguideanddeveloptheircareers(Hall1996b).
+Becausemanagingacareerisessentiallyaprocessofimplementingaself-concept,orexpressing
+it,throughone’swork(Hall2002,Super1957),itseemsreasonablethatpeoplewithastrongPCO
+and/orwhohaveaclearsetofpersonalvaluestoguidetheircareerchoices(Briscoe&Hall2006)
+wouldhaveahighlevelofself-awareness.Oneofthewaysthiswouldmanifestitselfwouldbe
+throughtheclarityandstrengthoftheperson’sidentity.Herrmannetal.(2015)foundevidence
+ofthisrelationshipintheirstudyofGermanstudents,whosecoreself-evaluationswererelated
+totheirproteanorientation.TheauthorsarguedthatthePCOmightbeactingasamotivating
+factortostrengthentheimpactoftheseself-attitudesuponcareeroutcomes,suchassuccessand
+satisfactions.
+Hall (2004) and Hall & Chandler (2005) suggested that the protean career was a way for
+an individual to pursue a “path with a heart,” or a career that represented a personal calling, a
+consuming,meaningfulpassionpeoplecanexperiencetowardadomain(Dobrow&Tosti-Kharas
+2011).Severalstudieshavefoundsupportforthisidea(Park2009a,b;Park&Rothwell2009).It
+appearsthatasenseofcallingprovidesanadditionalsourceofmotivationthatservestochannel
+theself-directionandvalues-orientedenergiesoftheindividualwithastrongPCO.
+Thesenseofcalling,however,goesdeeperthanmotivation.Itisaself-reflexivequalitythatis
+partofhowthepersondefineshim-orherself(Elangovanetal.2010).Thatis,itispartofone’s
+personalidentity.Andbeingclearonone’sidentity,ortoputitanotherway,tohaveahighlevel
+ofself-awareness,hasbeenidentifiedasakeymeta-competencyrelatedtothePCO(Hall2002,
+Briscoe&Hall2006).
+Existingempiricalresearchhasnotdirectlyinvestigatedvocationalidentityawarenessinrela-
+tiontoPCO,butithasconfirmedthatfactorscloselyrelatedtoidentity,suchascareerinsight
+(De Vos & Soens 2008), self-awareness (Verbruggen & Sels 2008), career decidedness (Creed
+· ·
+138 Hall Yip Doiron
+
+## Page 11
+
+81:81:00
+6202
+yaM
+80
+,irF
+:nO
+751.281.332.27
+:PI
+)tseug(
+tseuG
+.gro.sweiverlaunna.www
+morf
+dedaolnwoD
+OP05CH06_Hall ARI 20December 2017 9:58
+etal.2011),andbehaviorsrelatedtoidentityawarenessintermsofself-exploration(Briscoeetal.
+2012),werepositivelyrelatedtoPCO.
+In addition, several studies have investigated the PCO and related constructs as potential
+antecedentsofidentityclarityandawareness.Inalongitudinalstudyofcollegestudents,Hope
+etal.(2014)foundthatstudentswhofocusedonintrinsicvaluesweremorelikelytoexperience
+identitydevelopmentandgreaterlevelsofwell-beingovertime.Althoughthisstudyfocusedon
+the effects of intrinsic values, it suggested that the value-orientation dimension of PCO could
+be an important condition for identity awareness and development. Furthermore, in a cross-
+laggedempiricalstudy,Hirschietal.(2017)foundthatPCOpredictedidentityclarityandself-
+efficacy.Theyfoundthatidentityandself-efficacymediatetheeffectsofPCOonimportantcareer
+outcomes.TheirfindingssuggestthatthePCOis“morelikelyanenablerthanaconsequenceof
+careermeta-competencies”(Hirschietal.2017,p.216).
+Adaptability. Ameta-competencythatisoftenfoundinproteancareeristsisadaptability,which
+istheabilitytotaketheactionsnecessarytochangeeffectivelyinresponsetoadisruptioninthe
+environmentandtocopewiththerelatedobstacles(Hall2002,Savickas1997).Intheirreviewof
+worktransitions,Fouad&Brynner(2008)explaintherolethatthesemeta-competenciesplayin
+equippingapersontodealwiththeVUCAenvironment:“Clearly,self-awarenessandadaptability
+inthefaceofchangearecriticalmeta-competenciesforindividualstolearnbecausethechanging
+nature of occupations and of the labor market requires that individuals constantly review and
+reevaluate their capabilities” (p. 244). Taking a whole-life perspective, Gratton & Scott (2016)
+haveanalyzedthevalueorpurposeofaPCOinhelpingpeopleadaptandcopewithchangeover
+thespanofalongcareer.Gratton&Scottusethemetaphoroffuturegenerationshaving100-year
+lives,whichwillrequiretheabilitytocopewithmanychangesandcareertransitionsoverlonger
+careers.
+Careeradaptabilityisamultidimensionalconstructthathasbeenconceptualizedindifferent
+ways(Morrison&Hall2002,Rottinghausetal.2012,Savickas&Porfeli2012).Super&Knasel
+(1981)definecareeradaptabilityasaperson’sreadinesstocopewithchangingworkandwork-
+ingconditions.Buildingonthis,Savickas(1997)definescareeradaptabilityas“thereadinessto
+copewiththepredictabletasksofpreparingforandparticipatingintheworkroleandwiththe
+unpredictableadjustmentspromptedbychangesinworkandworkingconditions”(p.254).
+ThePCPisonecharacterizedbyadaptabilityinrespondingtochangingcircumstances(Hall
+2004, Pulakos et al. 2000). Hall & Mirvis (1995) proposed that a PCO is associated with self-
+learning, a facet of adaptability that is critical for making career transitions. The relationship
+betweenPCOandadaptabilityiscomplex.Empirically,studieshavefoundthatthePCOpredicts
+activecopingwithchange(Briscoeetal.2012)andperceptionsofemployability(DeVos&Soens
+2008).Theproteandimensionofself-directednesswaspositivelycorrelatedwithapreferenceto
+changejobsfrequentlyinastudentsample(Briscoeetal.2006),butotherstudieshavefailedto
+findalinkbetweenthePCOandmobility(e.g.,Andresenetal.2015).Inasampleofunemployed
+adults,PCOwaslinkedtomoreactivejobsearching(Watersetal.2014).
+Briscoe&Hall(2006)suggestedtheuseoftypologicalapproachesandcareerprofiles(com-
+bining protean and other career orientations) to better represent the whole person in careers
+research. To date, only a few studies have used this typological approach, but the results have
+beenpromising.Kuronetal.(2016)haveoperationalizedseveraloftheprofilesBriscoe&Hall
+(2006)identifiedtheoretically,andtheyidentifieddifferencesandsimilaritiesfortheProteanCa-
+reerArchitects,theSolidCitizens,andtheTrapped/Lostgroup.TheProteanCareerArchitects
+had high internal locus of control, self-efficacy, and organizational commitment. Interestingly,
+however,theProteanCareerArchitectswerenotgenerallyhigherthantheSolidCitizens(who
+www.annualreviews.org • ProteanCareersatWork 139
+
+## Page 12
+
+81:81:00
+6202
+yaM
+80
+,irF
+:nO
+751.281.332.27
+:PI
+)tseug(
+tseuG
+.gro.sweiverlaunna.www
+morf
+dedaolnwoD
+OP05CH06_Hall ARI 20December 2017 9:58
+hadhighproteanscoresbutlowinteremployermobility)inthesevariables.Inrelationtocareer
+adaptabilityandmobility,Harrington&Hall(2007)suggestthatitispossibleforapersontohave
+ahighproteanorientationandstillbecommittedtostayingwithasingleorganization,solongas
+thatorganizationfitstheperson’svalues.
+Agency. Tobesuccessfulinacareer,itisnotenoughforapersontohavetheprotean-related
+capabilities of identity awareness and adaptability. These qualities have to be employed in the
+service of something, some activity or quality that leads to a career purpose or goal. That is, a
+personneedstohavepersonalagencyandtobeabletoemployhisorherPCOasaresourcefor
+actiontopursuehisorhermostprizedvalues.Agencyisthecapacityofhumanbeingstomake
+choicesandtoimposethosechoicesontheworld.AsBandura(2001)notes,agencyistheability
+“tointentionallymakethingshappenbyone’sactions”(p.2).
+The agentic pathway of the PCO is represented by proactive career behaviors and greater
+levelsofworkengagement.And,infact,therehavebeenmanystudiesthatshowedpositivelinks
+betweenPCOandpositivecareerexperiences,suchascareerself-managementbehaviors(DeVos
+&Soens2008),careergrowth(Watersetal.2014),jobsatisfactionandorganizationcommitment
+(Supeli&Creed2016),aswellassubjectivecareersuccess(DeVos&Soens2008).
+Morespecifically,DeVos&Soens(2008)arguedthatthepersonmustbeabletodevelopa
+capacityforunderstandingandmanagingtheselfinordertotranslateaproteancareerattitude
+intocareersuccess.And,inasampleofemployeesthathadrecentlyreceivedcareercounseling,
+DeVos&SoensfoundthatthePCOwasrelatedtocareersuccessoutcomes(e.g.,employability
+and career satisfaction) but that this relationship was fully mediated by career insight. That is,
+the person had to be able to employ the PCO in the service of achieving greater insights into
+the opportunities that were available and how those related to the person’s own interests and
+motivations.
+Empirically, the PCO has been found to predict proactive behavior (Creed et al. 2011,
+Herrmann et al. 2015), career self-management (De Vos & Soens 2008), and career planning
+(DiRenzoetal.2015).Inaddition,PCOhasbeenshowntopredictengagementinnetworking
+andvisibilitystrategies(DeVos&Soens2008).Moreover,giventhecorrelationbetweenPCO
+andproactivepersonality(Briscoeetal.2006),theproposedlinkbetweenPCOandstrategiesis
+theoretically consistent with research indicating a relation between proactive personality and a
+varietyofcareerstrategiesandcareerplanningaswell(Fuller&Marler2009,Morrison&Phelps
+1999,Seibertetal.2001,VanDyne&LePine1998).
+PeoplewithhighPCO(i.e.,highproteanindividuals)arelikelytobelesssusceptiblethanlow
+proteanindividualstoexternalinfluencessuchasorganizationalandpeerpressurewhenmaking
+careerdecisions.Thiscouldreflecttheoperationofsomeself-monitoringinfluenceatplay.High
+proteanindividualsmaybemorelikelytobelowself-monitors(e.g.,“tothineownselfbetrue”)
+and not social chameleons.1 This raises a point that may sound counterintuitive to the casual
+observer.Somepeople mightthinkthatbeing proteanmeans being ableto read(monitor)the
+environment,butinfactitisaboutbeingclearonone’sowninnersenseofdirection.Accordingly,
+severalstudieshavefoundthatthePCOpredictscareerself-managementbehaviorssuchasself-
+regulation,self-efficacy,goalsetting,perseverance,andoptimism(DeVos&Soens2008,DiRenzo
+etal.2015).
+Oneoftheunderstudiedissuesinresearchontheproteancareerandthecareerexperience(or
+process)ishowitrelatestoorganizationallyvaluedoutcomes,suchasproactiveworkbehavior.
+1WearegratefultoDavidDayforthisobservation.
+· ·
+140 Hall Yip Doiron
+
+## Page 13
+
+81:81:00
+6202
+yaM
+80
+,irF
+:nO
+751.281.332.27
+:PI
+)tseug(
+tseuG
+.gro.sweiverlaunna.www
+morf
+dedaolnwoD
+OP05CH06_Hall ARI 20December 2017 9:58
+Hall(2004)suggeststhatapersonwithastrongPCOmightbeastrongerperformerbecauseof
+hisorherproactivebehavior,intrinsicmotivation,anddesireforpsychologicalsuccess,whichcan
+derivefromhighperformance.Gulyani&Bhatnagar(2017)foundapositivelinkbetweenPCO
+andproactiveworkbehavior.Similarly,inacross-laggedstudy,Hirschietal.(2017)foundthat
+PCOpredictedproactivecareerbehaviors.Thus,itdoesappearthatthePCOprovidesapositive
+pathwayforaction.
+ProteanCareerOutcomes
+Following the protean career process model (see Figure 3), we next turned our attention to
+frequentlystudiedoutcomesofthePCO.Althoughthereisawidearrayofindividualandorga-
+nizationaloutcomesthathavebeenconsideredoverthepast20yearsofresearchontheprotean
+career, most of the outcomes fall under two broad categories: subjective and objective career
+successandorganizationalcommitment.
+Similartoproactiveworkbehavior,otherindividuallyandorganizationallyvaluedoutcomes,
+suchascitizenshipbehaviorandtaskperformance,havebeenrelativelyunderstudied.Rodrigues
+etal.(2015)testedtheseideasandfoundthatPCOwasrelatedtohighperformance,higherlevels
+oforganizationalcitizenshipbehavior,aswellashighorganizationalcommitmentandemployee
+well-being. Thus, the authors concluded that high PCO represented a win-win for outcomes
+valued by both the employee (e.g., career, job, and life satisfaction) and the organization (e.g.,
+performance,commitment).
+Subjectiveandobjectivecareersuccess. Careersuccessingeneralcanbeunderstoodas“the
+positivepsychologicalandwork-relatedoutcomesaccumulatedasaresultofone’sworkexperi-
+ences”(Seibert&Kraimer2001,p.2).Peopleexperiencecareersuccessinbothsubjectiveand
+objectiveways.Subjectivecareersuccessreferstoaperson’spsychologicalexperienceofsuccess,
+relativetohisorherowngoalsandexpectations(Seibert&Kraimer2001).Thisincludespsy-
+chologicalwell-being,careerandjobsatisfaction,workengagement,andperceivedemployability.
+SubjectivecareersuccesshasbeenpredictedbythePCO(e.g.,Herrmannetal.2015),although
+severalarticleshavefoundthattheself-directeddimensionwassignificantlyrelatedtosubjective
+career success,butnotthe values-orienteddimension(Cerdin &Pargneux 2014, Enache et al.
+2011,Kuronetal.2016).
+In contrast, objective career success refers to observable, measurable, and verifiable accom-
+plishments such as salary, promotion, and job level (Dries et al. 2008, Heslin 2005, Judge &
+Kammeyer-Mueller2007).Comparedtosubjectivecareersuccess,thereisarelativelackofatten-
+tiontoobjectivecareersuccessasanoutcomeinstudiesofthePCO.However,Volmer&Spurk
+(2011)foundthattheself-directionPCOwasrelatedtosalaryandBriscoeetal.(2010)foundthat
+PCOwaslinkedtoperceivedleadereffectivenessbyfollowers.
+Anotherimportantaspectofsuccessinthecontemporaryworkworldisthewayanemployee
+viewshisorherworkandfamilyrolesandwork-lifebalance.Valcour&Ladge(2008)reasoned
+thattheproteancareermodel,withitsemphasisonlivingone’svaluesandfollowingone’sown
+path,wouldbeespeciallyrelevantforwomen’scareers.Infact,Valcour&Ladge’s(2008)study
+of916employedmothersat11majoremployersacrossavarietyofsectorswasoneofthefirstto
+combinepsychologicalcareervariablesandfamilyvariables(e.g.,yearssincebirthoffirstchild).
+Theyfoundthattheeffectsoffamilyandcareerpathtimingoncareersuccessoutcomesdepend
+onhowcareersuccessisdefined.Forexample,itappearsthatachievingpsychologicalsuccessis
+less dependent on having a traditional pattern of early career progress than on the strength of
+one’s career identity and career self-efficacy. In addition, objective career success was found to
+beunderminedbymanyofthefamilyvariablesmeasured.ThisresultwassupportedbyDirenzo
+www.annualreviews.org • ProteanCareersatWork 141
+
+## Page 14
+
+81:81:00
+6202
+yaM
+80
+,irF
+:nO
+751.281.332.27
+:PI
+)tseug(
+tseuG
+.gro.sweiverlaunna.www
+morf
+dedaolnwoD
+OP05CH06_Hall ARI 20December 2017 9:58
+etal.(2015),whofoundthatPCOledtoincreasedwork-lifebalancethroughthemechanismsof
+whole-lifeperspectiveandperceivedemployability.
+Organizational commitment. The organizational outcomes associated with a protean career
+areprimarilyintheareasoforganizationalcommitment.StudieshavefoundthePCOtopredict
+affectivecommitment(Fernandez&Enache2008),turnoverintentions(Supeli&Creed2016),
+aswellastaskperformance(Baruch2014).Althoughtheself-directedandvalues-drivennature
+ofaPCOmaybeperceivedasself-focusedandnotorientedtowardtheorganization,aPCOis
+notnecessarilycountertoorganizationalgoals.Thus,weendupwithaphenomenonreferredto
+astheProteanParadox;thatis,employeeswhoareself-directed,withafocusonintrinsicvalues,
+maymakebetterorganizationalcitizens.
+However, the relationship between PCO and organizational outcomes also seems to have
+severalboundaryconditions.First,althoughaffectivecommitmenthasaconsistentpositivere-
+lationshipwiththeproteancareer,theothertypesoforganizationalcommitmenttendtohave
+differingresults(e.g.,Baruch2014,C¸akmak-Otluog˘lu2012).Second,thisrelationshipmaydepend
+onthetypeoforganizationorculturalcontext.Forexample,Baruch(2014)foundnonsignificant
+relationshipsbetweentheproteancareerandturnoverintentionintwosamples(i.e.,university
+alumniandbusdriversfromNewZealand),butasignificantnegativerelationshipinemployees
+fromwhite-collarfirmsinVietnam.
+Finally,therelationshipbetweenPCOandorganizationalcommitmentmaybedependenton
+theorganizationalcultureandwhetherthereissupportfortheself-directed,values-drivenattitude.
+InoneofthefewlongitudinalstudiesofthePCOconstruct,Supeli&Creed(2016)foundthat
+PCOwasrelatedtoadecreaseinjobsatisfactionandorganizationalcommitmentovertime,and
+anincreaseinintentiontoquit.Thiswasexplainedbytheculturalandorganizationalvaluesof
+theMalaysiansample,whichmaynothavesupportedtheneedsoftheemployeestodevelopand
+growusingtheirself-directionandvaluesorientation(Supeli&Creed2016).Similarly,Granrose
+&Baccili(2006)foundthatviolationsoftheproteancareerpsychologicalcontractwerelinkedto
+higherintentionstoquit.Furthermore,Baruch(2014)hypothesizedthataccordingtotheperson-
+valuesfittheory,employeeswithhighPCOshouldbemoresatisfiedinaproteanenvironment.
+AlthougharticlesincludedinthisreviewsupporttheProteanParadox,thesepotentialboundary
+conditionsshouldbestudiedfurther.
+RECOMMENDATIONSFORFUTURERESEARCH
+Todate,researchontheproteancareerhasfocusedonindividualcorrelatesandcareeroutcomes.
+TheempiricalevidenceonthebenefitsofthePCOisstrong;however,weknowlessaboutthe
+psychologicalandorganizationalprocessesthatenableorhindertheproteancareer.Accordingly,
+wesuggestfiverecommendationsforfutureresearch,onesthatwebelievecoulddeepenapsy-
+chologicalunderstandingofproteancareermechanismsaswellasadvanceanunderstandingof
+proteancareerprocessesinorganizations(seeTable2forasummaryofourrecommendations).
+These recommendations cover both methodological and theoretical suggestions. We view
+methods and theory as interdependent in the advancement of knowledge and have combined
+themassuchinourrecommendations.
+Recommendation1:ExamineWhetherandHowtheProteanCareer
+OrientationMightChangeOverTime
+Todate,researchonthePCOhastreatedtheconstructasastable(andstatic)individualdiffer-
+encemeasure.However,conceptually,researchersdescribetheorientationasdynamic—onethat
+· ·
+142 Hall Yip Doiron
+
+## Page 15
+
+81:81:00
+6202
+yaM
+80
+,irF
+:nO
+751.281.332.27
+:PI
+)tseug(
+tseuG
+.gro.sweiverlaunna.www
+morf
+dedaolnwoD
+OP05CH06_Hall ARI 20December 2017 9:58
+Table2 Summaryofrecommendationsforfutureresearch
+Recommendation Specificexamples
+1 Examinewhetherandhowthe Uselongitudinalmethodstoexaminechangesintheproteancareerorientation.
+proteanorientationmightchange Examinehowcareereventsandtransitionscantriggerachangeintheproteancareer
+overtime. orientation.
+Examinedifferencesinthemalleabilityofbothself-directionandthecentralityof
+intrinsicvalues.
+Considerthedynamicinteractionbetweenself-directionandintrinsicvalues
+overtime.
+Employtheuseofexperiencesamplingmethodstoexaminemomentaryfluctuations
+intheproteancareerorientation.
+2 Examinetheproteancareerasa Examinetheeffectsofcriticalcareertransitionsonproteancareers.
+developmentalprocess. Identifycharacteristicsofdevelopmentalexperiencesthatmightactivateorenable
+greaterlevelsofaproteancareerorientation.
+Examinehowtheproteancareermightdevelopandshiftoverthelifespan.
+3 Identifyhigh-impactcausal Userandomizedassignmentsincareerprogramstoexaminetheeffectsofdifferent
+mechanismsthroughcareer careerinterventions.
+interventions. Contrastinterventionsfocusedonproteandimensions(self-directionandintrinsic
+values)withtraditionalcareerinterventions.
+Examinehowprotean-focusedinterventionscouldaddressmaladaptivecareer
+behavior.
+4 Examinerelationalandcultural Examinepossiblecontagioneffectswiththeproteancareerorientation,usingsocial
+influencesontheproteancareer. networkanalysis.
+Examinehowtheproteancareerorientationmightinfluenceinterpersonalbehavior.
+Identifyandexaminerelationalfunctionsthatcouldactivateandenabletheprotean
+careerorientation.
+Examinetheroleofautonomy-supportiverelationshipsandattachmentdynamicsin
+proteancareers.
+5 Considertheinfluenceof Examinehowtheproteanorientationcouldbepresentatacollectivelevelingroups
+organizationalcareercultureon andorganizations.
+careers. Developmeasurestoexaminetheconstructofproteancareercultures.
+6 Examinethenomologicalnetwork Examinetherelationshipbetweentheproteancareerorientationandmeasuresof
+andconstructvalidityofthe self-determination.
+proteancareerorientation. Conductmeasurementstudiestoexaminedistinctionsbetweentheself-directionand
+valuesorientationcomponentoftheproteancareerorientation.
+canbedevelopedandsubjectedtochangeovertime(Hall2004,Sargent&Domberger2007).
+Furthermore,inlongitudinalandrepeatedmeasuresstudiesofthePCO,researchershavefound
+thatitdoeschangeoverdurationsasshortassixmonths(Supeli&Creed2016)andafteracareer
+transition(Watersetal.2014).Watersetal.’s(2014)findingsareparticularlynoteworthyinun-
+derstandingthedynamicnatureofthePCO.Inaone-yearlongitudinalstudyofunemployedjob
+seekers,Watersetal.(2014)foundthattherespondentsreporteddifferentlevelsofaproteanori-
+entationacrossthreedatacollectiontimepoints.Respondentswhoexperienceanincreaseinthe
+proteanorientationweremorelikelytobere-employed.Inaddition,theyfoundthatparticipants
+experiencedadecreaseintheproteanorientationafterre-employment.Thisfindingsuggeststhat
+theproteanorientationcanchangeasaresultofacareertransition(re-employment)butalsointhe
+processofacareerevent.FurtherresearchisneededtoexaminehowthePCOmightchangeover
+timeandalsoinresponsetotriggerevents.Moreempiricalworkinthisdirectionisneededaswell.
+www.annualreviews.org • ProteanCareersatWork 143
+
+## Page 16
+
+81:81:00
+6202
+yaM
+80
+,irF
+:nO
+751.281.332.27
+:PI
+)tseug(
+tseuG
+.gro.sweiverlaunna.www
+morf
+dedaolnwoD
+OP05CH06_Hall ARI 20December 2017 9:58
+A distinct characteristic of the PCO is the dual components of self-direction and a values
+orientation (more specifically, an orientation toward intrinsic work values; Gubler et al. 2014,
+Hall2004).However,currentresearchontheproteanorientationhasfocusedprimarilyonthe
+roleofself-direction,withlimitedattentiontotheroleofintrinsicvalues.Furtherresearchonthe
+roleofintrinsicvaluescouldprovideinsightregardinghowthetwodimensionsofself-direction
+andvaluesrelate.AsSuper(1953)notes,peopledecideoncareersthatareconsistentwiththeir
+workvaluesandwiththeiroverallviewofthemselves,withthebeliefthatvocationsofferawayto
+achievetheirdesiredendstateandtoimplementtheirself-concept.
+Thedynamicinteractionandinfluenceofself-directionandvaluesonproteancareerscould
+be conducted through longitudinal research, with the use of repeated measures assessing the
+PCO,andtheuseofexperiencesamplingmethods.Suchmethodsenableresearchonmomentary
+fluctuationsinthePCOandinvestigationsintopredictorsofthesechangesinstate.Thiswould
+yieldamorepreciseunderstandingofproteancareerprocessesandantecedents,anareaofresearch
+thatwefoundlackinginourreview.
+Recommendation2:ExaminetheProteanCareerAsaDevelopmentalProcess
+To date, research on the protean orientation has taken a variance-based approach, with cross-
+sectionalstudiesthatexaminedifferencesbetweenindividuals.Thisisreflectedintheuseofcross-
+sectionalstudiesthatexaminehowdifferencesintheproteanorientationbetweenindividualsmight
+explainvarianceincareeroutcomes.Althoughimportant,wesuggestthatafurtherunderstanding
+ofproteancareerscouldbeadvancedthroughresearchonintraindividualprocessesandpredictors.
+Thisresearchwouldrequireawithin-subjectsapproachtoresearchandtheuseoflongitudinal
+cross-laggeddesigns.
+Incontrasttoavarianceapproach,researchontheproteancareerasadevelopmentalprocess
+could address how and why people develop a PCO over time and in response to major career
+events.Thisisimportantasresearchhasshownthatlifeandcareertransitionscancauseshiftsand
+fluctuationsinlevelsofself-directionandvalues(e.g.,Bardi&Goodwin2011,Rokeach1973).
+Similarly,researchonadultdevelopmenthasshownthatdevelopmentisadynamicprocessthat
+involvesbothgainsandlossinidentitiesandmeaning-makingstructuresovertime(Baltes1987,
+Day&Sin2011).Criticalcareertransitionssuchasschool-to-worktransitions,retirement,and
+unemploymentwouldmakeupafittingandimportantcontexttoexaminedevelopmentprocesses
+inproteancareers.Inaddition,researcherscouldalsoconsiderresearchonsalientdevelopmental
+events(Morgesonetal.2015)andthecharacteristicsofsucheventsthatmightactivateorenable
+greaterlevelsofaproteanorientation.
+LookingcloselyatconstructsrelatedtothetwocomponentsofPCO,priorresearchhasshown
+thatboththedeterminationtoexercisegreaterself-directionandvaluesclarificationcanshiftas
+a result of developmental changes throughout the lifespan (Bardi & Goodwin 2011, Rokeach
+1973).However,therehasbeenlittletheorydevelopmentorresearchregardinghowPCOmight
+developoverthelifespan.Consideringdevelopmentalprocessesandeventscouldresultinamore
+psychologically precise understanding of the protean career and its mechanisms, which could
+assistinthedevelopmentofPCOinterventionsthroughtheuseofhigh-impactleveragepoints
+atcriticaltimepointsinthelifespan.
+Recommendation3:IdentifyHigh-ImpactCausalMechanisms
+ThroughCareerInterventions
+To date, research on protean careers has been primarily cross-sectional, with limited ability
+to account for causal mechanisms. In contrast, researchers could consider experimental or
+· ·
+144 Hall Yip Doiron
+
+## Page 17
+
+81:81:00
+6202
+yaM
+80
+,irF
+:nO
+751.281.332.27
+:PI
+)tseug(
+tseuG
+.gro.sweiverlaunna.www
+morf
+dedaolnwoD
+OP05CH06_Hall ARI 20December 2017 9:58
+quasi-experimental studies, which are appropriate for testing casual relationships. Additionally,
+researchers could employ the use of randomized assignments in career development programs
+toexamine theeffects on career interventionson thePCO.Forexample, insocialpsychology,
+researchershavefoundthatbriefself-affirmationinterventions,focusedonpersonalvalues,can
+result in sustained increases in self-efficacy and buffer negative reactions to stress (Cohen &
+Sherman 2014, Creswell et al. 2005). This is particularly relevant to the value component of a
+proteanorientation.
+Incontrasttoatraditionalcareermanagementdesign,acontrolledinterventiondesigncould
+involverandomlyassigningpeoplewithhighandlowPCO’stojobsthatseemcompatiblewith
+strongproteanqualities(e.g.,ahighlyunstructuredjobthatforcesapersontoexerciseahighlevel
+ofself-direction).Anotherfruitfulavenueforresearchistoconsiderhowinterventionsfocusedon
+thePCO(affirmingself-directionandintrinsicvalues)couldaddressmaladaptivecareerbehavior.
+For example, researchers could also examine the protean career interventions to address mal-
+adaptivecareerism—abehaviordefinedas“thepropensitytopursuecareeradvancementthrough
+non-performance-basedmeans”(Feldman&Weitz1991,p.237).
+Furthermore,althoughwearestudyinghigh-impactfactors,itwouldalsobeusefultoconsider
+whethertherearesomekeyconstrainingfactorsattheorganization,industry,andsocietallevel
+thatworktosuppressaPCO.Also,whatpreventsindividualswhodohaveahighPCOfromacting
+onthisorientationandachievinghighlevelsofsubjectiveandcareersuccessisalsoanintriguing
+andinterestingquestion.2
+Recommendation4:ExamineRelationalandCulturalInfluences
+ontheProteanCareer
+Althoughtheinfluenceofmentoringandleadershiphasbeenassociatedwiththeproteancareer,
+empiricalresearchontheroleofinterpersonalprocessesinproteancareersisnoticeablyabsent
+intheliterature.Thisissurprisinginlightoffindingsonhowrelationshipsarecentraltocareer
+decisionmakingandoutcomes(Cottonetal.2011,Kram&Isabella1985).Onenoteworthystudy
+inthisrespectisSargent&Domberger’s(2007)in-depthandqualitativestudyonthedevelopment
+ofaproteanorientation.Theauthorsfoundthatrelationshipswerecriticalinshapingthepossible
+selvesofrespondentsandwereassociatedwiththeformationofaproteanorientation.
+Thestudyofrelationalinfluenceandtheinterpersonaldynamicsofproteancareersisaripe
+areaforresearch.Inparticular,throughtheuseofnetworkanalysis,researcherscouldexamine
+bothinterpersonalandstructuraldynamicsassociatedwithhowaproteanorientationinfluences
+andisinfluencedacrossarangeofrelationships.Thefollowingaresomeunansweredquestions
+thatmeritfurtherinvestigation:Istheproteanorientationcontagious?Morespecifically,canthe
+experienceofbeingproteancascadethroughasocialnetworkovertime?Andatthedyadiclevel,
+aretheredifferencesinhowpeoplewithastrongPCOrelatetootherswithlowerPCO’s?
+Inadditiontonetworkapproachestoresearchonproteancareers,researcherscouldbuildon
+existingfindingsonattachmentdynamics(Wu&Parker2017,Yipetal.2017)andtheroleof
+autonomy-supportiverelationships(Peschetal.2016)toexaminerelationalfunctionsthatsupport
+greater levels of self-direction and values orientation in careers. For example, Yip et al. (2017)
+notethatsupportiveworkrelationshipsandrelationalpsychologicalcontractscanhaveapositive
+influenceontheautonomousmotivationofemployees.Moreresearchisneededtoexaminehow
+workrelationshipscaninfluencepeople’sexperienceswithandorientationtowardproteancareers.
+2WearegratefultoYanShenforsuggestionsrelatedtoRecommendations3and5.
+www.annualreviews.org • ProteanCareersatWork 145
+
+## Page 18
+
+81:81:00
+6202
+yaM
+80
+,irF
+:nO
+751.281.332.27
+:PI
+)tseug(
+tseuG
+.gro.sweiverlaunna.www
+morf
+dedaolnwoD
+OP05CH06_Hall ARI 20December 2017 9:58
+ResearchinthisdirectioncouldalsobuildontheworkofDrigotasetal.(1999),whofound
+thatarelationshippartnercaninfluencetheirpartner’smovementtowardtheiridealselfthrough
+affirmativebehavior.Thishasbeenvalidatedacrossseveralstudies(Drigotasetal.1999,Righetti
+et al. 2010, Rusbult et al. 2009). Research on relational influences can extend beyond dyadic
+relationshipstoincluderesearchondevelopmentalnetworks(Higgins&Kram2001,Yip&Kram
+2017),careerreferencegroups(Grote&Hall2013),andcareercommunities(Parkeretal.2004).
+Finally,thereisaneedformoreresearchonnationalcultureandproteancareers.Inourreview,
+wefoundsomecross-culturalstudies,buttheytendedtobescalevalidationarticles,articlesabout
+expatriates or repatriation, or articles using a cross-cultural convenience sample. None looks
+explicitly at how PCO works across countries. There are articles from different countries (see
+Figure 2),butanydifferencesintheresultsandapparentfunctioningmightbebecauseofthe
+cultureoranynumberofotherfactors.Wedoencouragemorecross-culturalresearchtoseeif
+therereallyaredifferencesinhowPCOdevelops,functions,andimpactsoutcomesindifferent
+cultures.Atthispoint,however,basedonthecurrentresearch,itdoesappearthattheprotean
+conceptisarobustonethatcanbemeasuredwithgoodreliabilityandvalidityacrossavarietyof
+nationalcontexts.
+Recommendation5:ConsidertheInfluenceofOrganizational
+CareerCultureonCareers
+Careersandcareerdecisionsareinevitablyshapedbytheorganizationalenvironment.However,
+there has been limited attention to the role of organizational influence on the protean career.
+Thisoffersagenerativeareaformultilevelresearchonproteancareers.First,researcherscould
+examinetheroleoforganizationalpracticesandpoliciesandtheirinfluenceonproteancareers.For
+example,inastudyofemployeesinmultinationalcompaniesinMalaysia,Wongetal.(2017)found
+thattheemployabilitycultureandmentoringpracticesofanorganizationpredictedgreaterlevels
+ofPCOamongemployees.Asacross-sectionalstudy,thedirectionalityoftherelationshipcannot
+beascertainedbutfindingssuchasthissuggestthatanorganization’sculturecanbeinfluentialin
+attractingordevelopingaPCO.
+Second, research could examine how the protean orientation could be present at a collec-
+tivelevelingroupsandorganizations.Forexample,Hall&Yip(2016)identifiedatypologyof
+organizationalcareercultures,withtheproteancareercultureidentifiedasonethatvaluesand
+supportsdifferentiationandintrinsicmotivation.Theauthorsintegrateperspectivesfromoptimal
+distinctivenesstheory(Brewer1991)andexplainedhowproteancareerculturescanfulfillpeople’s
+fundamentalneedsformaintainingadistinctidentitywhilehavingasenseofbelongingtoacol-
+lective.Furtherresearchisnecessaryincreatingameasureoftheproteancareercultureaswellas
+researchonthemoderatingroleofaproteancareercultureoncareerinterventions.Forexample,
+ajobcraftinginterventionmighthaveastrongerandpositiveinfluenceonworkengagementin
+proteancareerculturescomparedwithtop-downcareercultures.
+Third,researchonproteancareerculturescouldinformabroadersetoforganizationalout-
+comesrelatedtotheproteancareer.Byconsideringtheinteractionbetweenproteancareercultures
+andindividualcareerorientation,theconceptofproteanculturesallowsthepossibilityofresearch
+intohoworganizationalinfluencesoncareersmightbereceivedandexperienceddifferentlyacross
+individualsandgroups.
+Recommendation6:ExaminetheNomologicalNetworkandConstructValidity
+oftheProteanCareerOrientation
+BuildingonFigure 3,whichsummarizesthevariables (antecedents,mediators,andoutcomes)
+relatedtothePCOonthebasisofourliteraturereview,enoughresearchhasnowbeendoneso
+· ·
+146 Hall Yip Doiron
+
+## Page 19
+
+81:81:00
+6202
+yaM
+80
+,irF
+:nO
+751.281.332.27
+:PI
+)tseug(
+tseuG
+.gro.sweiverlaunna.www
+morf
+dedaolnwoD
+OP05CH06_Hall ARI 20December 2017 9:58
+that it would be feasible and useful to have a complete measurement and validation study that
+tests Figure 3 as a model of antecedents and outcomes related to the PCO. The result could
+be a nomological network that would show how these variables function together, providing
+greaterprecisioninunderstandingthesimilaritiesanddifferencesbetweentheproteanvariables
+andrelatedconcepts,aswellasshowingthepracticalutilityoftheconceptintermsofpredicting
+important career outcomes. An early study of this sort was conducted by Briscoe et al. (2006),
+and a similar study with an expanded set of variables would be a straightforward and valuable
+contribution.
+OnekeyvariabletoincludeinthismeasurementstudywouldbethecentralconceptsofSDT,
+in view of the similarities and differences discussed earlier (Deci et al. 2017). SDT provides a
+lenstounderstandself-directionthroughthefulfillmentofbasicpsychologicalneeds(autonomy,
+competence,andrelatedness).Thiscouldinformresearchontheantecedentstoproteancareers.
+Additionally,SDTprovidesatypologyandmeasureofautonomousmotivation,whichcouldbe
+usefulinunderstandingtheroleofself-directioninproteancareers.
+Variablessuchasmotivators(autonomy,competence,andrelatedness)andvalues(intrinsicand
+extrinsic)wouldbeincluded,tocoverSDT,aswellassomekeyoutcomes(e.g.,performance,well-
+being,vitality,andill-being).Thus,thiswouldprovidecoverageofbothjobandcareerexperiences.
+Inthisway,SDTwouldpotentiallycontributetoproteancareertheory,by,forexample,providing
+a deeper understanding of the individual differences that contribute to the PCO, and protean
+theorymightcontributetoSDTbyrevealingsomeofthelong-termcareerbenefitsofautonomy
+andintrinsicmotivation—perhapsevenincludinganincreaseinaperson’sPCO.Theoverallsum
+of such a study could be a richer theoretical understanding of what contributes to agentic and
+growth-inducingjobandcareerexperiences.Thisinclusivestudywouldalsohavethebenefitof
+integrating career theory with more mainstream organizational psychology and behavior. This
+linking of careers research to mainstream organizational psychology and behavior could help
+reversearecenttrendinwhichcareersresearchershavebecomemorespecializedandseemtobe
+indialogueprimarilywiththemselves.
+Anotheraspectofthisstudy,amoremodestcontributionperhaps,wouldbetoseparatethe
+twoPCOdimensionsanddomoredevelopmentworkonthevalues-orientationscale.Thisscale
+isoftentheweakerofthetwoandmaybethereasonwhysomefactoranalyticstudieshaveyielded
+onlyonefactor.Werecommendaddingmoreitemsthatexplicitlyaddresstheperson’shistoryof
+makingandtheirdeterminationtomakechoices,positiveandnegative,onthebasisofdeeplyheld
+intrinsic values. Measures of the PCO should make clear distinctions between self-direction (a
+focusonagencyandvolition)andanintrinsicvaluesorientation(thecentralityofintrinsicvalues
+inmakingcareerdecisions).
+RECOMMENDATIONSFORPRACTICE
+Researchontheproteancareerhasinformedandwidenedthescopefororganizationalpractice,
+primarily in the domain of career development but also in organizational change and develop-
+ment(Lips-Wiersma&Hall 2007), leadership (Briscoeet al. 2010), performance management
+(Silvermanetal.2005),humanresourcemanagement(Hofstetter&Rosenblatt2016),andtalent
+management(DeVos&Dries2013).Inthissection,webuildonpriorsectionstorecommend
+practicalimplicationsaswellasanactionresearchagendaforpractitioners(seeTable3forasum-
+maryofourrecommendations).Morespecifically,hereareourrecommendationsforpractice:
+Recommendation1:SupportProteanCareersAsaDevelopmentalProcess
+Theproteancareer,asweidentifyinthisreview,isaprocessthatcanyieldbeneficialoutcomesfor
+bothindividualsandtheorganizationtheyworkin.Accordingly,organizationsshouldconsider
+www.annualreviews.org • ProteanCareersatWork 147
+
+## Page 20
+
+81:81:00
+6202
+yaM
+80
+,irF
+:nO
+751.281.332.27
+:PI
+)tseug(
+tseuG
+.gro.sweiverlaunna.www
+morf
+dedaolnwoD
+OP05CH06_Hall ARI 20December 2017 9:58
+Table3 Summaryofrecommendationsforpractice
+Recommendation Specificexamples
+1 Supportproteancareersasa Trainingonactionregulationandcareerself-management
+developmentalprocess. Interventionsthataffirmintrinsicvalues,suchasnarrativewritingand
+self-assessmentsofpersonalvalues
+Mentoringandpeercoaching
+2 Integratecareerlearningcyclesin Useexperience-basedmodelsofdevelopment—practicesthatcustomize
+organizationalplanninganddesign. developmentalexperiencestoanemployee’sstageintheirlearningcycle.
+Providelateralmovesforemployeesinterestedincareerchange.
+Useinternaljobboardstosupportemployeeswhoareseekingnewlearning
+opportunities.
+UseAfterActionReviewstofacilitatelearningfromcareerexperiences.
+3 Develophigh-impactcareer Self-assessmentofinterestsandstrengths
+interventions. Reflectiononfutureworkselves
+Jobcrafting
+4 Applyproteancareertheoryin Provideemployeesgreatercontrolovertheperformanceappraisalprocess.
+performancemanagement. Recognizeandsupportintrinsicorientationstocareerplanning.
+Examinetheinfluenceofemployeerecognitionandrewardsontheprotean
+orientation.
+5 Designproteanorganizations. Designanddevelopanorganization’sculturewithelementsthatsupportand
+rewardprotean-orientedbehaviors.
+Considerthataproteanapproachtocareersmaynotbefeasibleinall
+organizations(e.g.,high-reliabilityorganizations).
+how they can support this process. Some approaches include career interventions that attempt
+to increase a person’s self-direction by providing training on action regulation and career self-
+management (Raabe et al. 2007). Other interventions could target specific components of the
+PCO,suchastheaffirmationofintrinsicvaluesthroughnarrativewritingandself-assessmentsof
+personalvalues.Thereareseveralcareercoursesorworkshopsthatdotheseactivities,butthey
+arerarelyfollowedupasactionresearch.Oneexampleofapublicworkshopwouldbethe“Next
+Phase”programofferedbytheGestaltInternationalStudyCenteronCapeCod.
+Additionally,wehaveknownfordecadesthatrelationalinfluenceshavemajorimpactsonca-
+reeroutcomes(Hall1996b).Astheresearchwecitedearliershows,strongrelationalbondsand
+developmentalnetworkscontributetocareersuccessinmajorways.Parkerandcolleagueshave
+identified many specific action steps by which peer coaching can promote career development
+(Parkeretal.2018).Organizationsalreadyusemanyactivities,suchasmentoringanddevelop-
+mentalnetworks,tohelpemployeesadvancetheircareers.
+Recommendation2:IntegrateCareerLearningCyclesinOrganizational
+PlanningandDesign
+Protean careers unfold in short learning cycles with phases including exploration, trial, estab-
+lishment,mastery,anddisengagement(Mirvis&Hall1994).Aconsiderationoftheselearning
+cyclesisoftenabsentinorganizationalplanninganddesign.Inmostcases,organizationsassume
+that employees would follow a linear and sequential career track. An example of this is the ca-
+reerprogressionfromindividualcontributor,tosupervisor,thentomiddlemanager,andfinally
+toseniormanager.Incontrast,organizationsneedtoconsidershorter,morerapidcareercycles
+· ·
+148 Hall Yip Doiron
+
+## Page 21
+
+81:81:00
+6202
+yaM
+80
+,irF
+:nO
+751.281.332.27
+:PI
+)tseug(
+tseuG
+.gro.sweiverlaunna.www
+morf
+dedaolnwoD
+OP05CH06_Hall ARI 20December 2017 9:58
+(whichcouldincludelateralmoves)forlearningdifferentcapabilities.3Examplesofthisapproach
+includemodelsofexperience-baseddevelopment(Yip&Wilson2010)—practicesthatprovide
+differentiateddevelopmentalexperiences(e.g.,astretchassignmentoranoverseasposting)toem-
+ployeesbasedontheircareerstageandneeds.Morespecificexamplesofthesepracticesinclude
+lateralmoves,downwardmovesforspecificdevelopmentgoals(Hall&Isabella1985),internal
+job/bulletin boards, and the use of After Action Reviews (AARs) to facilitate learning after an
+experience.
+We see a strong agentic theme in the profile of the person with a high PCO. One of the
+strongest correlates is a proactive personality, which means that the person likes to be active
+ratherthanreactive,scanstheenvironment,andanticipateswhatneedstobedone,ratherthan
+lettingeventsdictatehisorherchoices(Uyetal.2015).Anotherimportantmotivationalcorrelate
+ofthePCOisthelearninggoalorientation,whichisadrivetowardunderstandingnovelsituations
+andtasksandmasteringthemfortheintrinsicjoyofmastery.Again,themotivationalandvalues
+componentsofSDTwouldberelevanthere,aswell.Allofthesevariableswouldbeimportantin
+designingjobsandrolessuitabletoemployeeswithaPCO.
+Recommendation3:DevelopHigh-ImpactCareerInterventions
+Wehavealreadyidentifiedseveralexperimentalinterventionsthatcouldtesttherelativeimpact
+ofdifferentcareerdevelopmentinterventions(e.g.,promotingself-affirmationandself-efficacy).
+Thisapproachcouldentailtakingactivitiesthatarealreadybeingdoneincareerworkshopsand
+coursesandstudyingthemcomparativelytoidentifywhichhavethegreatestimpact.Accordingly,
+practitioners can develop career initiatives around the most potent interventions. Examples of
+evidence-basedinterventionsincludeuseofinterestassessments,jobcrafting(Akkermans&Tims
+2017,Bergetal.2010),andreflection/journalingactivitiesexploringone’sfutureworkself(Taber
+&Blankemeyer2015)—interventionsthathavebeenfoundtopredictproteancareeroutcomes
+ofagency,adaptability,andidentityawareness.Thedevelopmentofproteancareerinterventions
+should not be limited to just organizations. We would argue that these interventions could be
+applied in early educational settings. Why intervene? Career readiness and employability is a
+criticalconcernforeducationpolicy.InthecaseoftheUnitedStatesforexample,anationally
+representativesurveyofthepopulationin2010revealedthatonly27%ofcollegegraduatespursue
+acareerrelatedtotheirmajors(Abel&Deitz2015).Wesuggestthatinterventionstosupportand
+enableaPCOcouldhelpyoungadultsmakemoreself-directededucationaldecisionsandcraft
+careersalignedwiththesedecisions.Theseproteanoutcomescouldgoalongwayinimproving
+labormarketinefficienciesandindividualwell-being.
+Recommendation4:ApplyProteanCareerTheoryinPerformanceManagement
+Organizations have realized the limitations of standardized performance management and are
+increasinglyturningtoindividualizedapproachestobothperformancemanagementandcareer
+development.Thishasbeensingledoutinindustryreportsonglobalhumancapitaltrends(e.g.,
+Schwartzetal.2017).Similarly,severalleadingorganizationshaveembracedtheconceptofmass
+careercustomization(Benko&Weisberg2007),promotingindividualizedpathsforcareerde-
+velopment.Theassumptioninthisshiftisthatemployeeswouldbemorefulfilledandengagedif
+givenmorecontrolandautonomyinchartingtheircareersandhowtheyaremanaged.However,
+3WearegratefultoPollyParkerforsuggestingthisidea.
+www.annualreviews.org • ProteanCareersatWork 149
+
+## Page 22
+
+81:81:00
+6202
+yaM
+80
+,irF
+:nO
+751.281.332.27
+:PI
+)tseug(
+tseuG
+.gro.sweiverlaunna.www
+morf
+dedaolnwoD
+OP05CH06_Hall ARI 20December 2017 9:58
+this approach could backfire for employees or organizational cultures that have a low protean
+orientation.
+As a practical step, organizations could consider the extent to which their culture values a
+proteanapproachtocareersandperformancemanagement.Insteadofacookiecutterapproachto
+performancemanagement,werecommendthatorganizationsadoptindividualizedperformance
+managementsystemsonlytotheextentthattheyandtheiremployeesvalueaproteanapproach
+tocareers.Aproteanapproachtoperformancemanagementcouldinvolveself-directedappraisal
+systemswhereemployeeshavegreatersayinhowtheyareevaluatedandrewarded.
+Organizations should also recognize and support intrinsic orientations in career planning.
+Morespecifically,researchonemployeerecognitionandrewardsrevealsthattransactionalrewards
+couldundermineaperson’sintrinsicmotivationtowardwork(Frey&Oberholzer-Gee1997).In
+contrast,verbalaffirmationandcoworkingarrangementshavebeenfoundtopredictincreasesin
+intrinsicmotivation(Carr&Walton2014,Hewett&Conway2016).Suchfindingssuggestthat
+attentiontoproteancharacteristics,ofself-directionandintrinsicvalues,isimportantinimproving
+initiativesaroundemployeerecognitionandrewards.
+Recommendation5:DesignProteanOrganizations
+From a job-design perspective, there are several ways that organizations could create enabling
+conditionstosupportandfacilitateproteanorientationamongtheirmembers.Forexample,help-
+ingemployeesidentifythetasksignificanceoftheirwork,throughactivitiessuchasjobcrafting,
+couldbeawayofincreasingtheself-directioncomponentofaproteanorientation(Hall&Las
+Heras2010,Kopelmanetal.2012).Amoresystematicapproachwouldbetodesignanddevelop
+anorganization’sculturewithelementsthatsupportandrewardprotean-orientedbehaviors(Hall
+& Yip 2014). Hall & Yip (2016) provide specific steps organizations can take to evaluate their
+currentcareercultureandtowardcreatingaproteanorganization.
+How would this be in an organization’s best interest? Organizations want employees who
+are engaged and self-directed, as well as people who are intrinsically motivated. Hall & Yip
+(2016)providemoredetailontheorganizationalbenefitsofcareer-enhancingcultures.Thatsaid,
+werecognizeherethatnotallorganizationswouldbenefitfromaproteanapproachtocareers.
+Organizationsmustfirstrecognizethetypesofcareerculturestheywanttodevelop,thenidentify
+careerpracticesandpoliciesconsistentwiththesecultures.Forexample,aproteanculturemight
+beoptimalinorganizationswhereself-directionandanintrinsicvaluesorientationarealignedwith
+theoccupationalinterestsofitsmembers(e.g.,inprofessionalservicefirms).Aproteanculture
+maybelessoptimalinhigh-reliabilityorganizationswheretheoccupationalvaluesarefocusedon
+technicalmasteryandworkplacesafety(e.g.,inengineeringorganizations).AsMorgesonetal.
+(2010) note, the link between occupational and organizational contexts in work design is often
+neglectedandneedstobegivenmoreattentioninbothresearchandpractice.
+CONCLUSION
+Severalimportantconclusionshaveemergedfromourreviewoftheproteancareersliterature.
+First,thePCOisanimportantpsychologicalresourceinpredictinghowpeopleadaptsuccessfully
+to career transitions and contribute as organizational citizens. In particular, we identified the
+Protean Paradox as a phenomenon that merits further investigation for organizations; namely,
+early evidence suggests that individuals who are self-directed and values oriented make better
+organizational citizens and can be more likely to commit to the organization. Second, there is
+nosuchthingasanobjectiveproteancareer—theproteancareerisanchoredinapsychological
+· ·
+150 Hall Yip Doiron
+
+## Page 23
+
+81:81:00
+6202
+yaM
+80
+,irF
+:nO
+751.281.332.27
+:PI
+)tseug(
+tseuG
+.gro.sweiverlaunna.www
+morf
+dedaolnwoD
+OP05CH06_Hall ARI 20December 2017 9:58
+orientationandshapedbyprocessesthatareinternaltotheindividual.Apersonmayenactaprotean
+careerwhilebeingalifelongmemberofoneorganization.Third,ifthePCOisthe“engine”that
+energizestheperson’scareer,thisenginewillnotleadtoconcreteresultswithouttheoperation
+of several intervening variables that represent the career process experiences that motivate the
+persontoachieveimportantcareeroutcomes.Weidentifiedthreeimportantproteanprocesses
+thatmeritfurtherinvestigation,withimplicationsforpractice,namely,agency,adaptability,and
+awarenessofone’sidentityandvalues.
+Inwritingabouttheproteancareer,Hall(1996a)predictedthattheresponsibilityforcareers
+andcareermoveswasshiftingfromtheorganizationtotheemployee.Twodecadesofresearch
+and evidence suggestthatthe directionis unlikely to gothe other way.4 A PCOis a necessary
+conditionforsustainableandresilientcareersinandoutoforganizations.
+DISCLOSURESTATEMENT
+Theauthorsare notaware ofany affiliations,memberships,funding,orfinancial holdings that
+mightbeperceivedasaffectingtheobjectivityofthisreview.
+ACKNOWLEDGMENTS
+TheauthorsgratefullyacknowledgethehelpfulcontributionsoftheAnnualReviewofOrganiza-
+tionalPsychologyandOrganizationalBehavior’sEditorialCommitteeaswellasthecontributionsof
+MarcyCrary,PollyParker,andYanSheninreviewingthispaper.Theywouldalsoliketothank
+AgueMaeManongsong,BrianaPisauro,SharonHong,WenhaoWang,andYewonMoonfor
+theirhelpinbuildingacomprehensivedatabaseofpapersforthisreview.
+LITERATURECITED
+AbelJR,DeitzR.2015.Agglomerationandjobmatchingamongcollegegraduates.Reg. Sci. Urban Econ.
+51:14–24
+AkkermansJ,TimsM.2017.Craftingyourcareer:howcareercompetenciesrelatetocareersuccessviajob
+crafting.Appl.Psychol.66:168–95
+Andresen M, Biemann T, Pattie MW. 2015. What makes them move abroad? Reviewing and exploring
+differencesbetweenself-initiatedandassignedexpatriation.Int.J.Hum.Resour.Manag.26:932–47
+ArthurMB,RousseauDM.1996.Acareerlexiconforthe21stcentury.Acad.Manag.Perspect.10:28–39
+BaltesPB.1987.Theoreticalpropositionsoflife-spandevelopmentalpsychology:onthedynamicsbetween
+growthanddecline.Dev.Psychol.23:611–26
+BanduraA.2001.Socialcognitivetheory:anagenticperspective.Annu.Rev.Psychol.52:1–26
+BardiA,GoodwinR.2011.Thedualroutetovaluechange:individualprocessesandculturalmoderators.
+J.Cross-Cult.Res.42:271–87
+BarleyS,BechkyB,MillikenF.2017.Fromtheeditors:thechangingnatureofwork:careers,identities,and
+worklivesinthe21stcentury.Acad.Manag.Discov.3:111–15
+BaruchY.2014.Thedevelopmentandvalidationofameasureforproteancareerorientation.Int.J.Hum.
+Resour.Manag.25:2702–23
+BaruchY,VardiY.2016.Afreshlookatthedarksideofcontemporarycareers:towardarealisticdiscourse.
+Br.J.Manag.27:355–72
+BenkoC,WeisbergA.2007.MassCareerCustomization:AligningtheWorkplacewithToday’sNontraditional
+Workforce.Cambridge,MA:Harv.Bus.Rev.Press
+4Thesamepointmightbemadeabouttheperson’sroleinacloselyrelatedprocess,leadershipdevelopment(Dayetal.2014).
+www.annualreviews.org • ProteanCareersatWork 151
+
+## Page 24
+
+81:81:00
+6202
+yaM
+80
+,irF
+:nO
+751.281.332.27
+:PI
+)tseug(
+tseuG
+.gro.sweiverlaunna.www
+morf
+dedaolnwoD
+OP05CH06_Hall ARI 20December 2017 9:58
+BennettN,LemoineGJ.2014.Whatadifferenceawordmakes:understandingthreatstoperformanceina
+VUCAworld.Bus.Horiz.57:311–17
+BergJM,WrzesniewskiA,DuttonJE.2010.Perceivingandrespondingtochallengesinjobcraftingatdifferent
+ranks:whenproactivityrequiresadaptivity.J.Organ.Behav.31:158–86
+BrewerMB.1991.Thesocialself:onbeingthesameanddifferentatthesametime.Personal.Soc.Psychol.Bull.
+17:475–82
+BriscoeJP,FinkelsteinLM.2009.The“newcareer”andorganizationalcommitment:Doboundarylessand
+proteanattitudesmakeadifference?CareerDev.Int.14:242–60
+BriscoeJP,HallDT.2006.Theinterplayofboundarylessandproteancareers:combinationsandimplications.
+J.Vocat.Behav.69:4–18
+Briscoe JP, Hall DT, DeMuth RLF. 2006. Protean and boundaryless careers: an empirical exploration.
+J.Vocat.Behav.69:30–47
+BriscoeJP,HenaganSC,BurtonJP,MurphyWM.2012.Copingwithaninsecureemploymentenvironment:
+thedifferingrolesofproteanandboundarylesscareerorientations.J.Vocat.Behav.80:308–16
+BriscoeJP,HooblerJM,ByleKA.2010.Do“protean”employeesmakebetterleaders?Theanswerisinthe
+eyeofthebeholder.Leadersh.Q.21:783–95
+C¸akmak-Otluog˘luKO.2012.Proteanandboundarylesscareerattitudesandorganizationalcommitment:the
+effectsofperceivedsupervisorsupport.J.Vocat.Behav.80:638–46
+CarrPB,WaltonGM.2014.Cuesofworkingtogetherfuelintrinsicmotivation.J.Exp.Soc.Psychol.53:169–84
+CerdinJ,PargneuxML.2014.Theimpactofexpatriates’careercharacteristicsoncareerandjobsatisfaction,
+andintentiontoleave:anobjectiveandsubjectivefitapproach.Int.J.Hum.Resour.Manag.25:2033–49
+ChanKY,HoMR,ChernyshenkoOS,BedfordO,UyMA,etal.2012.Entrepreneurship,professionalism,
+leadership:aframeworkandmeasureforunderstandingboundarylesscareers.J.Vocat.Behav.81:73–88
+CohenGL,ShermanDK.2014.Thepsychologyofchange:self-affirmationandsocialpsychologicalinter-
+vention.Annu.Rev.Psychol.65:333–71
+CottonRD,ShenY,Livne-TarandachR.2011.Onbecomingextraordinary:thecontentandstructureofthe
+developmentalnetworksofMajorLeagueBaseballHallofFamers.Acad.Manag.J.54:15–46
+CramerKJ.2016.ThePoliticsofResentment:RuralConsciousnessinWisconsinandtheRiseofScottWalker.Chicago:
+Univ.ChicagoPress
+CreswellJD,WelchWT,TaylorSE,ShermanDK,GruenewaldTL,MannT.2005.Affirmationofpersonal
+valuesbuffersneuroendocrineandpsychologicalstressresponses.Psychol.Sci.16:846–51
+CreedP,MacphersonJ,HoodM.2011.Predictorsof“neweconomy”careerorientationinanAustralian
+sampleoflateadolescents.J.CareerDev.38:369–89
+Day DV, Sin HP. 2011. Longitudinal tests of an integrative model of leader development: charting and
+understandingdevelopmentaltrajectories.Leadersh.Q.22:545–60
+DayDV,FleanorJW,AtwaterLE,SturmRE,McKeeRA.2014.Advancesinleaderandleadershipdevelop-
+ment:areviewof25yearsofresearchandtheory.Leadersh.Q.25:63–82
+deBruinGP,BuchnerM.2010.FactoranditemresponsetheoryanalysisoftheProteanandBoundaryless
+CareerAttitudeScales.J.Ind.Psychol.36:1–11
+deCharmsR.1968.PersonalCausation:TheInternalAffectiveDeterminantsofBehavior.NewYork:Academic
+DeVosA,DriesN.2013.Applyingatalentmanagementlenstocareermanagement:theroleofhumancapital
+compositionandcontinuity.Int.J.Hum.Resour.Manag.24:1816–31
+De Vos A, Soens N. 2008. Protean attitude and career success: the mediating role of self-management.
+J.Vocat.Behav.73:449–65
+DeciEL,OlafsenAH,RyanRM.2017.Self-determinationtheoryinworkorganizations:thestateofascience.
+Annu.Rev.Organ.Psychol.Organ.Behav.4:19–43
+DiRenzoM,GreenhausJH,WeerCH.2015.Relationshipbetweenproteancareerorientationandworklife
+balance:aresourceperspective.J.Organ.Behav.36:538–60
+DobrowSR,Tosti-KharasJ.2011.Calling:thedevelopmentofascalemeasure.Pers.Psychol.64:1001–49
+DriesN,PepermansR,CarlierO.2008.Careersuccess:constructingamultidimensionalmodel.J.Vocat.
+Behav.73:254–67
+Drigotas SM, Rusbult CE, Wieselquist J, Whitton SW. 1999. Close partner as sculptor of the ideal self:
+behavioralaffirmationandtheMichelangelophenomenon.J.Personal.Soc.Psychol.77:293–323
+· ·
+152 Hall Yip Doiron
+
+## Page 25
+
+81:81:00
+6202
+yaM
+80
+,irF
+:nO
+751.281.332.27
+:PI
+)tseug(
+tseuG
+.gro.sweiverlaunna.www
+morf
+dedaolnwoD
+OP05CH06_Hall ARI 20December 2017 9:58
+DruckerPF.1973.Management:Tasks,Responsibilities,Practices.NewYork:Harper&Row
+ElangovanAR,PinderC,McLeanM.2010.Callingsandorganizationalbehavior.J.Vocat.Behav.76:428–40
+EnacheM,GonzalezI,CastilloD,LordanO.2012.Proteanandboundarylesscareerattitudesscale:Spanish
+translationandvalidation.Intang.Cap.8:1–16
+EnacheM,SallanJM,SimoP,FernandezV.2011.Careerattitudesandsubjectivecareersuccess:tackling
+genderdifferences.Gend.Manag.Int.J.26:234–50
+FeldmanDC,WeitzBA.1991.Fromtheinvisiblehandtothegladhand:understandingacareeristorientation
+towork.Hum.Resour.Manag.30:237–57
+FernandezV,EnacheM.2008.Exploringtherelationshipbetweenproteanandboundarylesscareerattitudes
+andaffectivecommitmentthroughthelensofafuzzysetQCAmethodology.Intang.Cap.4:31–66
+FrankT.2016.Listen,Liberal:Or,WhatEverHappenedtothePartyofthePeople?NewYork:Metropolitan
+Books
+FreyBS,Oberholzer-GeeF.1997.Thecostofpriceincentives:anempiricalanalysisofmotivationcrowding-
+out.Am.Econ.Rev.87(4):746–55
+FriedmanTL.2016a.Dancinginahurricane.NewYorkTimes,Nov.19.https://www.nytimes.com/2016/
+11/20/opinion/sunday/dancing-in-a-hurricane.html?rref=collection%2Fcolumn%2Fthomas-l-
+friedman&action=click&contentCollection=opinion&region=stream&module=stream_unit&
+version=latest&contentPlacement=34&pgtype=collection
+FriedmanTL.2016b.ThankYouforBeingLate:AnOptimist’sGuidetoThrivingintheAgeofAccelerations.New
+York:Farrar,StrausandGiroux
+FouadNA,BrynnerJ.2008.Worktransitions.Am.Psychol.63:241–51
+Fuller B, Marler LE. 2009. Change driven by nature: a meta-analytic review of the proactive personality
+literature.J.Vocat.Behav.75:329–45
+GasteigerRM.2007.Self-directedcareermanagement:theproteanapproachtocareersuccess—empirical
+studyofGermanexecutivesandprofessionals.Proc.2009Quant.MethodsSoc.Sci.(QMSS)Conf.,Prague,
+CzechRepublic,June21–23
+GasteigerEM,KaschubeJ,BriscoeJP.2008.Linkingproteancareerorientation,personalityattributes,and
+motivation:implicationsfortheworkplace.InResearchContributionstoPersonalityatWork,ed.JDeller,
+pp.115–36.Mering,Ger.:RainerHamppVerlag
+GranroseCS,BacciliPA.2006.Dopsychologicalcontractsincludeboundarylessorproteancareers?Career
+Dev.Int.11:163–82
+GrattonL,ScottA.2016.The100-YearLife:LivingandWorkinginanAgeofLongevity.NewYork:Bloomsbury
+Inf.
+GroteG,HallDT.2013.Referencegroups:amissinglinkincareerstudies.J.Vocat.Behav.83:265–79
+GublerM,ArnoldJ,CoombsC.2014.Reassessingtheproteancareerconcept:empiricalfindings,conceptual
+components,andmeasurement.J.Organ.Behav.35:23–40
+GulyaniG,BhatnagarJ.2017.MediatoranalysisofpassionforworkinIndianmillennials:relationshipbetween
+proteancareerattitudeandproactiveworkbehavior.CareerDev.Int.22:50–69
+HackerJS,PiersonP.2011.Winner-Take-AllPolitics:HowWashingtonMadetheRichRicher—andTurnedIts
+BackontheMiddleClass.NewYork:Simon&Schuster
+HallDT.1976.CareersinOrganizations.Glenview,IL:ScottForesman&Co.
+HallDT.1996a.Proteancareersofthe21stcentury.Acad.Manag.Exec.10:8–16
+HallDT.1996b.TheCareerisDead—LongLivetheCareer:ARelationalApproachtoCareers.SanFrancisco:
+Jossey-Bass
+HallDT,ed.2002.CareersInandOutofOrganizations.ThousandOaks,CA:SagePubl.
+HallDT.2004.Theproteancareer:aquarter-centuryjourney.J.Vocat.Behav.65:1–13
+HallDT,IsabellaLA.1985.Downwardmovementandcareerdevelopment.Organ.Dyn.14:5–23
+HallDT,ChandlerDE.2005.Psychologicalsuccess:whenthecareerisacalling.J.Organ.Behav.26:155–76
+HallDT,FeldmanE,KimN.2013.Meaningfulworkandtheproteancareer.InPurposeandMeaninginthe
+Workplace,ed.BJDik,ZSByrne,MFSteger,pp.57–78.Washington,DC:Am.Psychol.Assoc.
+HallDT,LasHerasM.2010.Reintegratingjobdesignandcareertheory:creatingnotjustgoodjobsbut
+smartjobs.J.Organ.Behav.31:448–62
+www.annualreviews.org • ProteanCareersatWork 153
+
+## Page 26
+
+81:81:00
+6202
+yaM
+80
+,irF
+:nO
+751.281.332.27
+:PI
+)tseug(
+tseuG
+.gro.sweiverlaunna.www
+morf
+dedaolnwoD
+OP05CH06_Hall ARI 20December 2017 9:58
+HallDT,MirvisPH.1995.Careersaslifelonglearning.InTheChangingNatureofWork,ed.AHoward,
+pp.323–61.SanFrancisco:Jossey-Bass
+HallDT,YipJ.2014.Careerculturesandclimatesinorganizations.InTheOxfordHandbookofOrganizational
+ClimateandCulture,ed.BSchneider,KBarbera,pp.215–34.Oxford:OxfordUniv.Press
+HallDT,YipJ.2016.Discerningcareerculturesatwork.Organ.Dyn.45:174–84
+HarringtonB,HallDT.2007.CareerManagement&Work-LifeIntegration:UsingSelf-AssessmenttoNavigate
+ContemporaryCareers.ThousandOaks,CA:SagePubl.
+HerrmannA,HirschiA,BaruchY.2015.Theproteancareerorientationaspredictorofcareeroutcomes:
+evaluationofincrementalvalidityandmediationeffects.J.Vocat.Behav.88:205–14
+HeslinP.2005.Conceptualizingandevaluatingcareersuccess.J.Organ.Behav.26:113–36
+HewettR,ConwayN.2016.Theunderminingeffectrevisited:thesalienceofeverydayverbalrewardsand
+self-determinedmotivation.J.Organ.Behav.37:436–55
+HigginsMC,KramKE.2001.Reconceptualizingmentoringatwork:adevelopmentalnetworkperspective.
+Acad.Manag.Rev.26:264–88
+HirschiA,JaenschVK,HerrmannA.2017.Proteancareerorientation,vocationalidentity,andself-efficacy:
+anempiricalclarificationoftheirrelationship.Eur.J.WorkOrgan.Psychol.26:208–20
+HochschildAR.2016.StrangersinTheirOwnLand:AngerandMourningontheAmericanRight.NewYork:
+TheNewPress
+Hofstetter H, Rosenblatt Z. 2016.Predicting protean and physical boundarylesscareer attitudesby work
+importanceandworkalternatives:regulatoryfocusmediationeffects.Int.J.Hum.Resour.Manag.28:2138–
+58
+HollandJ.1997.ATheoryofVocationalChoice.EnglewoodCliffs,NJ:Prentice-Hall
+Hope NH, Milyavskaya M, Holding AC, Koestner R. 2014. Self-growth in the college years: Increased
+importanceofintrinsicvaluespredictsresolutionofidentityandintimacystages.Soc.Psychol.Personal.
+Sci.5:705–12
+JudgeTA,Kammeyer-MuellerJD.2007.Personalityandcareersuccess.InHandbookofCareerStudies,ed.
+HPGunz,MPeiperl,pp.59–78.ThousandOaks,CA:SagePubl.
+JudgeTA,ThoresenCJ,PucikV,WelbourneTM.1999.Managerialcopingwithorganizationalchange:a
+dispositionalperspective.J.Appl.Psychol.84:107–22
+Katz LF, Krueger AB. 2017. The role of unemployment in the rise in alternative work arrangements.
+Am.Econ.Rev.107:388–92
+KeganR.1994.InOverOurHeads:TheMentalDemandsofModernLife.Cambridge,MA:Harv.Univ.Press
+KimN,HallDT.2013.Proteancareermodelandretirement.InThe Oxford Handbook of Retirement,ed.
+MWang,pp.102–16.NewYork:OxfordUniv.Press
+KopelmanS,FeldmanER,McDanielDM,HallDT.2012.Mindfullynegotiatingacareerwithaheart.Organ.
+Dyn.41:163–71
+KramKE,IsabellaLA.1985.Mentoringalternatives:theroleofpeerrelationshipsincareerdevelopment.
+Acad.Manag.J.28:110–32
+KuronLKJ,SchweitzerL,LyonsS,NgESW.2016.Careerprofilesinthe“newcareer”:evidenceoftheir
+prevalenceandcorrelates.CareerDev.Int.21:355–77
+LiberatoBorgesLF,DeAndradeAL,deOliveiraMZ,GuerraVM.2015.Expandingandadaptingtheprotean
+careermanagementscaleforuniversitystudents(PCMS-U).Span.J.Psychol.18:1–13
+LiftonRJ.1993.TheProteanSelf:HumanResilienceinanAgeofFragmentation.Chicago:Univ.ChicagoPress
+Lips-WiersmaM,HallDT.2007.Organizationalcareerdevelopmentisnotdead:acasestudyonmanaging
+thenewcareerduringorganizationalchange.J.Organ.Behav.28:771–92
+MarciaJE.1966.Developmentandvalidationofego-identitystatus.J.Personal.Soc.Psychol.3(5):551–58
+MilanovicB.2016.GlobalInequality:ANewApproachfortheAgeofGlobalization.Cambridge,MA:Harv.Univ.
+Press
+MirvisPH,HallDT.1994.Psychologicalsuccessandtheboundarylesscareer.J.Organ.Behav.15:365–80
+MorgesonFP,DierdorffEC,HmurovicJL.2010.Workdesigninsitu:understandingtheroleofoccupational
+andorganizationalcontext.J.Organ.Behav.31:351–60
+MorgesonFP,MitchellTR,LiuD.2015.Eventsystemtheory:anevent-orientedapproachtotheorganiza-
+tionalsciences.Acad.Manag.Rev.40:515–37
+· ·
+154 Hall Yip Doiron
+
+## Page 27
+
+81:81:00
+6202
+yaM
+80
+,irF
+:nO
+751.281.332.27
+:PI
+)tseug(
+tseuG
+.gro.sweiverlaunna.www
+morf
+dedaolnwoD
+OP05CH06_Hall ARI 20December 2017 9:58
+MorrisonEW,PhelpsCC.1999.Takingchargeatwork:extraroleeffortstoinitiateworkplacechange.Acad.
+Manag.J.42:403–19
+MorrisonRF,HallDT.2002.Whyadaptabilityiscriticaltocontemporarycareerdevelopment.SeeHall
+2002,pp.206–34
+ParkY.2009a.Anintegrativeempiricalapproachtothepredictorsofself-directedcareermanagement.Career
+Dev.Int.14:636–54
+ParkY.2009b.Factorsinfluencingself-directedcareermanagement:anintegrativeinvestigation.J.Eur.Ind.
+Train.33:578–93
+ParkY,RothwellWJ.2009.Theeffectsoforganizationallearningclimate,career-enhancingstrategy,and
+workorientationontheproteancareer.Hum.Resour.Dev.Int.12:387–405
+ParkerP,ArthurMB,InksonK.2004.Careercommunities:apreliminaryexplorationofmember-defined
+careersupportstructures.J.Organ.Behav.25:489–514
+ParkerP,HallDT,KramKE,WassermanIC.2018.PeerCoachingatWork:PrinciplesandPractices.Stanford,
+CA:StanfordUniv.Press.Inpress
+PeschKM,LarsonLM,SurapaneniS.2016.Parentalautonomysupportandcareerwell-being:mediating
+effectsofperceivedacademiccompetenceandvolitionalautonomy.J.CareerAssess.24:497–512
+PikettyT.2014.CapitalintheTwenty-FirstCentury.Cambridge,MA:Harv.Univ.Press
+Porter C, Woo SE, Tak J. 2016. Developing and validating short form protean and boundaryless career
+attitudesscales.J.CareerAssess.24:162–81
+PulakosED,AradS,DonovanMA,PlamondonKE.2000.Adaptabilityintheworkplace:developmentofa
+taxonomyofadaptiveperformance.J.Appl.Psychol.85:612–24
+RaabeB,FreseM,BeehrTA.2007.Actionregulationtheoryandcareerself-management.J.Vocat.Behav.
+70:297–311
+RastgarAA,EbrahimiE,HessanM.2014.Theeffectsofpersonalityonproteanandboundarylesscareer
+attitudes.Int.J.Bus.Manag.Econ.1:1–5
+ReitmanF,SchneerJA.2003.Thepromisedpath:alongitudinalstudyofmanagerialcareers.J.Manag.Psychol.
+18:60–75
+RighettiF,RusbultC,FinkenauerC.2010.RegulatoryfocusandtheMichelangeloPhenomenon:howclose
+partnerspromoteoneanother’sidealselves.J.Exp.Soc.Psychol.46:972–85
+Rodrigues R, Guest D, Oliveira T, Alfes K. 2015. Who benefits from independent careers? Employees,
+organizations,orboth?J.Vocat.Behav.91:23–34
+RokeachM.1973.TheNatureofHumanValues.NewYork:FreePress
+RottinghausPJ,BuelowKL,MatyjaA,SchneiderMR.2012.Thecareerfuturesinventory-revised:measuring
+dimensionsofcareeradaptability.J.CareerAssess.20:123–39
+RousseauDM.1995.PsychologicalContractsinOrganizations:UnderstandingWrittenandUnwrittenAgreements.
+ThousandOaks,CA:SagePubl.
+RusbultCE,KumashiroM,KubackaKE,FinkelEJ.2009.“Thepartofmethatyoubringout”:idealsimilarity
+andtheMichelangeloPhenomenon.J.Personal.Soc.Psychol.96:61–82
+SargentL,DombergerSR.2007.Explorationofthedevelopmentofaproteancareerorientation:valuesand
+imagesviolations.CareerDev.Int.12:545–64
+Savickas ML. 1997. Adaptability: an integrative construct for life-span, life-space theory. Career Dev. Q.
+45:247–59
+SavickasML,PorfeliEJ.2012.CareerAdapt-AbilitiesScale:construction,reliability,andmeasurementequiv-
+alenceacross13countries.J.Vocat.Behav.80:661–73
+SchaarJH.1989.LegitimacyintheModernState.NewBrunswick,NJ:Transact.Publ.
+Schwartz J, Collins L, Stockton H, Wagner D, Walsh B. 2017. Rewriting the Rules for the Digital Age:
+2017NewYork:DeloitteGlobalHumanCapitalTrends.NewYork:DeloitteUniv.Press.https://www2.
+deloitte.com/us/en/pages/human-capital/articles/introduction-human-capital-trends.html
+SegersJ,InceogluI,VloeberghsD,BartramD,HenderickxE.2008.Proteanandboundarylesscareers:a
+studyonpotentialmotivators.J.Vocat.Behav.73:212–30
+Seibert SE, Kraimer ML. 2001. The five-factor model of personality and career success. J. Vocat. Behav.
+58:1–21
+www.annualreviews.org • ProteanCareersatWork 155
+
+## Page 28
+
+81:81:00
+6202
+yaM
+80
+,irF
+:nO
+751.281.332.27
+:PI
+)tseug(
+tseuG
+.gro.sweiverlaunna.www
+morf
+dedaolnwoD
+OP05CH06_Hall ARI 20December 2017 9:58
+Seibert SE, Kraimer ML, Crant JM. 2001. What do proactive people do? A longitudinal model linking
+proactivepersonalityandcareersuccess.Pers.Psychol.54:845–74
+SilvermanSB,PogsonCE,CoberAB.2005.Whenemployeesatworkdon’tgetit:amodelforenhancing
+individualemployeechangeinresponsetoperformancefeedback.Acad.Manag.Exec.19:135–47
+StiglitzJE.2012.ThePriceofInequality:HowToday’sDividedSocietyEndangersOurFuture.NewYork:W.W.
+Norton&Co.
+SullivanSE.1999.Thechangingnatureofcareers:areviewandresearchagenda.J.Manag.25:457–84
+SupeliA,CreedPA.2016.Thelongitudinalrelationshipbetweenproteancareerorientationandjobsatisfac-
+tion,organizationalcommitment,andintention-to-quit.J.CareerDev.43:66–80
+SuperDE.1953.Atheoryofvocationaldevelopment.Am.Psychol.8:185–90
+SuperDE.1957.ThePsychologyofCareers:AnIntroductiontoVocationalDevelopment.Oxford,UK:Harper&
+Brother.
+SuperDE,KnaselEG.1981.Careerdevelopmentinadulthood:sometheoreticalproblemsandapossible
+solution.Br.J.Guid.Couns.2:194–201
+TaberBJ,BlankemeyerM.2015.Futureworkselfandcareeradaptabilityinthepredictionofproactivecareer
+behaviors.J.Vocat.Behav.86:20–27
+UyMA,ChanKY,SamYL,HoMHR,ChernyshenkoOS.2015.Proactivity,adaptabilityandboundaryless
+careerattitudes:themediatingroleofentrepreneurialalertness.J.Vocat.Behav.86:115–123
+ValcourM,LadgeJJ.2008.Familyandcareerpathcharacteristicsaspredictorsofwomen’sobjectiveand
+subjectivecareersuccess:integratingtraditionalandproteancareerexplanations.J.Vocat.Behav.73:300–
+9
+VanceJD.2016.HillbillyElegy:AMemoirofaFamilyandCultureinCrisis.NewYork:HarperCollinsPubl.
+VanDyneL,LePineJA.1998.Helpingandvoiceextra-rolebehaviors:evidenceofconstructandpredictive
+validity.Acad.Manag.J.41:108–19
+VerbruggenM,SelsL.2008.Cancareerself-directednessbeimprovedthroughcounseling?J.Vocat.Behav.
+73:318–27
+VolmerJ,SpurkD.2011.Proteanandboundarylesscareerattitudes:relationshipswithsubjectiveandobjective
+careersuccess.Z.ArbeitsmarktForschung43:207–18
+WatersL,BriscoeJP,HallDT,WangL.2014.Proteancareerattitudesduringunemploymentandreem-
+ployment:alongitudinalperspective.J.Vocat.Behav.84:405–19
+WhiteRW.1959.Motivationreconsidered:theconceptofcompetence.Psychol.Rev.66:297–333
+Wong SC, Mohd Rasdi R, Abu Samah B, Abdul Wahat NW. 2017. Promoting protean career through
+employabilitycultureandmentoring:careerstrategiesasmoderator.Eur.J.Train.Dev.41:277–302
+WuC,ParkerS.2017.Theroleofleadersupportinfacilitatingproactiveworkbehavior:aperspectivefrom
+attachmenttheory.J.Manag.43:1025–49
+YipJ,EhrhardtK,BlackH,WalkerDO.2017.Attachmenttheoryatwork:areviewanddirectionsforfuture
+research.J.Organ.Behav.2017:1–14
+YipJ,KramKE.2017.Developmentalnetworks:enhancingthescienceandpracticeofmentoring.InTheSage
+HandbookofMentoring,ed.DAClutterbuck,FKochan,LGLunsford,NDominguez,JHaddock-Miller.
+ThousandOaks,CA:SagePubl.
+YipJ,WilsonMS.2010.Learningfromexperience.InTheCenterforCreativeLeadershipHandbookofLeadership
+Development,ed.EVanVelsor,CDMcCauley,MNRuderman,pp.63–95.SanFrancisco:Jossey-Bass.
+3rded.
+· ·
+156 Hall Yip Doiron
