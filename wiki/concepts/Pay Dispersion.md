@@ -11,7 +11,11 @@ related:
   - "[[Pay-for-Performance]]"
   - "[[Sorting Effect (Compensation)]]"
   - "[[Pay Transparency]]"
+  - "[[Explained vs Unexplained Pay Dispersion]]"
+  - "[[Tournament Theory (Compensation)]]"
+  - "[[Identifiability of Individual Inputs]]"
   - "[[fulmer-2023-compensation-performance]]"
+  - "[[shaw-2014-pay-dispersion]]"
 ---
 
 # Pay Dispersion
@@ -41,7 +45,7 @@ The key finding from the empirical literature: *how dispersion arises matters as
 - Associated with worse performance and higher turnover
 - Undermines trust in the compensation system
 
-> Shaw (2014), Trevor, Reilly & Gerhart (2012), Kepes, Delery & Gupta (2009) all find that dispersion effects are largely driven by whether dispersion is performance-based.
+> [[shaw-2014-pay-dispersion|Shaw (2014)]], Trevor, Reilly & Gerhart (2012), Kepes, Delery & Gupta (2009) all find that dispersion effects are largely driven by whether dispersion is performance-based. See the decomposition on [[Explained vs Unexplained Pay Dispersion]], the motivational engine in [[Tournament Theory (Compensation)]], and Shaw's proposed key contingency [[Identifiability of Individual Inputs]].
 
 ---
 
@@ -81,7 +85,7 @@ Fulmer et al. (2023) recommend future dispersion research clarify what it adds *
 
 ## Key Sources
 - [[fulmer-2023-compensation-performance]]
-- Shaw, J. D. (2014) — comprehensive review of pay dispersion
+- [[shaw-2014-pay-dispersion|Shaw, J. D. (2014)]] — comprehensive *Annual Review* of pay dispersion (primary source, ingested)
 - Trevor, Reilly & Gerhart (2012) — team pay dispersion and performance; IV analysis
 - Kepes, Delery & Gupta (2009) — performance-based vs. politically-based dispersion
 - Conroy, Gupta, Shaw & Park (2014) — multilevel review

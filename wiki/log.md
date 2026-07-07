@@ -19,6 +19,20 @@ Navigation: [[index]] | [[hot]] | [[overview]]
 
 Append-only. New entries go at the TOP. Never edit past entries.
 
+## [2026-07-06] ingest | Obloj & Zenger (2022) *Pay Transparency…* + Hong, Ford & Jong (2024) *Employee Benefits Meta-Analysis*
+- Sources: `.raw/Obloj and Zenger - 2022 - The influence of pay transparency on (gender) inequity, inequality and the performance basis of pay.md`, `.raw/Hong et al. - 2024 - Employee benefit availability, use, and subjective evaluation A meta-analysis of relationships with.md`
+- Summaries: [[obloj-zenger-2022-pay-transparency-equity-equality]], [[hong-ford-jong-2024-employee-benefits-meta-analysis]]
+- Pages created: [[Performance Basis of Pay]], [[Benefit Experience Framework]], [[Tomasz Obloj]], [[Todd Zenger]], [[Yeong-Hyun Hong]], [[Michael T. Ford]], [[Jaehee Jong]] (c-000934–942)
+- Pages updated: [[Pay Transparency]] (Obloj & Zenger now the causal primary source), [[Employee Benefits]] (Hong meta-analytic evidence + benefit experiences), [[Social Exchange & Organizational Justice MOC]], [[index]], [[hot]]
+- Key insight: Pay transparency raises equity + equality but *weakens* the performance basis of pay (star premium −42%). For benefits, subjective *evaluation* ≫ mere availability/use in predicting POS/commitment/retention.
+
+## [2026-07-06] ingest | Shaw (2014) *Pay Dispersion* + Joshi, Son & Roh (2015) *When Can Women Close the Gap?*
+- Sources: `.raw/Shaw - 2014 - Pay Dispersion.md`, `.raw/Joshi et al. - 2015 - When Can Women Close the Gap...md`
+- Summaries: [[shaw-2014-pay-dispersion]], [[joshi-son-roh-2015-women-close-the-gap]]
+- Pages created: [[Jason D. Shaw]], [[Explained vs Unexplained Pay Dispersion]], [[Tournament Theory (Compensation)]], [[Identifiability of Individual Inputs]], [[Aparna Joshi]], [[JooYeon Son]], [[Hyuntak Roh]], [[Gender Gap in Rewards vs Performance]], [[Role Congruity Theory]], [[Social Dominance Theory (Rewards)]], [[Occupational Prestige and Job Complexity]] (c-000921–933)
+- Pages updated: [[Pay Dispersion]] (upgraded to primary-source footing), [[index]], [[hot]]
+- Key insight: Shaw — legitimate (explained) dispersion helps, residual (unexplained) hurts; identifiability > interdependence. Joshi — women close the *performance* gap (d=.04) but not the *reward* gap (d=.56, ~14× larger); performance does NOT explain rewards; only industry-level female executives reverse it. Both papers connect via job-complexity/low-scrutiny → identifiability of individual inputs.
+
 ## [2026-07-06] batch ingest | 3 papers — Theory-Driven Evaluation + Compensation/Total Rewards + Job Evaluation
 - Sources: `.raw/Coryn et al. - 2011 - A Systematic Review of Theory-Driven Evaluation Practice From 1990 to 2009.md`, `.raw/Fulmer and Li - 2022 - Compensation, Benefits, and Total Rewards A Bird's-Eye (Re)View.md`, `.raw/Bussin and Swart-Opperman - 2022 - Job Evaluation in the New World of Work.md`
 - Summaries: [[coryn-et-al-2011-theory-driven-evaluation-review]], [[fulmer-li-2022-compensation-benefits-total-rewards]], [[bussin-swart-opperman-2022-job-evaluation]]

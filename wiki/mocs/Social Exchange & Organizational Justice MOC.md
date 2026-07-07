@@ -44,6 +44,7 @@ This cluster maps the dominant explanation in organizational behavior for **why 
 - [[cropanzano-mitchell-2005-social-exchange-theory|Cropanzano & Mitchell (2005): Social Exchange Theory — An Interdisciplinary Review]]
 - [[colquitt-et-al-2013-justice-millennium-decade-later|Colquitt et al. (2013): Justice at the Millennium, a Decade Later]]
 - [[colquitt-rodell-2015-measuring-justice-fairness|Colquitt & Rodell (2015): Measuring Justice and Fairness]]
+- [[hong-ford-jong-2024-employee-benefits-meta-analysis|Hong, Ford & Jong (2024): Employee Benefits Meta-Analysis]] — benefits as a social-exchange resource; the [[Benefit Experience Framework]]; POS as partial mediator
 
 ## People
 

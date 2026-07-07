@@ -6,13 +6,17 @@ aliases: ["pay secrecy", "compensation transparency", "pay communication"]
 tags: [compensation, transparency, equity, motivation, performance]
 status: evergreen
 created: 2026-05-23
-updated: 2026-05-23
+updated: 2026-07-06
 related:
   - "[[Pay-for-Performance]]"
   - "[[Pay Dispersion]]"
+  - "[[Performance Basis of Pay]]"
   - "[[Sorting Effect (Compensation)]]"
   - "[[fulmer-2023-compensation-performance]]"
+  - "[[obloj-zenger-2022-pay-transparency-equity-equality]]"
   - "[[Ingrid Smithey Fulmer]]"
+  - "[[Tomasz Obloj]]"
+  - "[[Todd Zenger]]"
 ---
 
 # Pay Transparency
@@ -81,6 +85,19 @@ Most studies find a positive transparency → motivation/performance relationshi
 - Obloj & Zenger (2017): easy social comparisons may partially offset positive incentive effects of PFP-based dispersion
 
 ---
+
+## Causal Field Evidence — Obloj & Zenger (2022)
+
+[[obloj-zenger-2022-pay-transparency-equity-equality|Obloj & Zenger (2022, *Nature Human Behaviour*)]] provide the strongest causal test to date, exploiting staggered salary-website shocks across ~100,000 US academics (1997–2017). Transparency simultaneously moves **three** attributes of pay:
+
+- **Equity ↑** — the performance-conditioned gender pay gap closes by **2–5.9 pp**; within-field residual variance falls ~11%.
+- **Equality ↑** — within-department [[Pay Dispersion|pay dispersion]] compresses **~20%**.
+- **[[Performance Basis of Pay]] ↓** — the performance premium for a star academic drops **~42%**; returns to rank advancement fall discretely.
+
+> [!key-insight] The equity/equality vs. incentive trade-off
+> An organization can raise *both* equity and equality by making pay more precisely **and** more weakly linked to individual performance. Transparency's celebrated fairness gains come with a rarely-discussed cost: a flatter pay-performance gradient. Mechanisms: direct pressure to weaken PFP, targeted raises for the most underpaid, and (partly) mobility of the underpaid.
+
+This updates and supersedes the vault's earlier reliance on "Obloj & Zenger (2017)": the 2022 paper is the large-N causal primary source. Note it partly *complicates* the Card et al. relative-standing story — even where individual performance is highly observable (academia), transparency still equalizes pay.
 
 ## Open Research Questions (Fulmer et al., 2023)
 

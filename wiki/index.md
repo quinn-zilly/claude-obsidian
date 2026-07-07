@@ -25,7 +25,7 @@ created: 2026-04-07
 
 # Wiki Index
 
-Last updated: 2026-07-06 | Total pages: 485 | Sources ingested: 71
+Last updated: 2026-07-06 | Total pages: 496 | Sources ingested: 73
 
 Navigation: [[Home MOC]] | [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[getting-started]]
 
@@ -39,11 +39,20 @@ Navigation: [[Home MOC]] | [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[
 
 ## Concepts
 
+- [[Performance Basis of Pay]] — the *strength* of the realized pay–performance link (pay-performance sensitivity); distinct from equity and equality; transparency weakens it ~42% (Obloj & Zenger 2022)
+- [[Benefit Experience Framework]] — availability vs use vs subjective evaluation of a benefit; evaluation dominates (→POS ρ≈.40); social-exchange grounding (Hong et al. 2024)
 - [[Theory-Driven Evaluation]] — evaluation guided by an explicit program theory; targets causal explanation (how/why), not just description; method-neutral (Coryn 2011)
 - [[Program Theory]] — explicit model of how a program causes outcomes (inputs→activities→outputs→outcomes); linear vs ecological; Donaldson's four sources
 - [[Core Principles of Theory-Driven Evaluation]] — five derived principles; Principle 5 (causal explanation) is the demarcating, least-enacted one
 - [[Causal Description vs Causal Explanation]] — *that* A causes B (RCTs) vs *how/why* (mechanisms, mediation/moderation); TDE targets the latter
 - [[Total Rewards]] — holistic pay + benefits package; core total rewards = comp + retirement/health/work-life; total-rewards gaps (Fulmer & Li 2022)
+- [[Explained vs Unexplained Pay Dispersion]] — the organizing distinction: legitimate (incentive/seniority/performance-based) dispersion helps performance; residual variation hurts (Shaw 2014)
+- [[Tournament Theory (Compensation)]] — wide convex pay spreads motivate effort + sort the workforce; heavily tested in sports samples (Shaw 2014)
+- [[Identifiability of Individual Inputs]] — Shaw's proposed key contingency for dispersion reactions, replacing work interdependence
+- [[Gender Gap in Rewards vs Performance]] — women close the performance gap (d=.04) but not the reward gap (d=.56, ~14× larger); performance ≠ explanation for rewards (Joshi et al. 2015)
+- [[Role Congruity Theory]] — prejudice from incongruity between the female gender role and male-typed roles; lack-of-fit + backlash (Eagly & Karau)
+- [[Social Dominance Theory (Rewards)]] — hierarchy-enhancing agents/contexts + SDO of decision makers channel rewards to dominant groups; prestige as hierarchy-enhancer
+- [[Occupational Prestige and Job Complexity]] — two structural moderators of the gender reward gap; equal-performance/unequal-reward in prestige occupations; complexity → low scrutiny (Joshi et al. 2015)
 - [[Employee Benefits]] — discretionary non-cash reward (~31% of comp cost); retirement/health/work-life; strategic-design research gap
 - [[Idiosyncratic Deals (i-deals)]] — individually negotiated work/pay arrangements; individualization of total rewards; peer-reaction and equity-gap risks
 - [[Job Evaluation]] — systematic objective grading of *jobs* not people → defensible pay hierarchy; 2 stages; ~0.94 correlation across systems (Bussin 2022)
@@ -497,6 +506,15 @@ Navigation: [[Home MOC]] | [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[
 
 ## Entities
 
+- [[Tomasz Obloj]] — strategy scholar (HEC Paris); incentives, pay transparency, gaming of performance measures; Obloj & Zenger 2022
+- [[Todd Zenger]] — strategy/org-economics (Utah); theory of the firm, compensation; Obloj & Zenger 2022
+- [[Yeong-Hyun Hong]] — HR researcher (Michigan-Dearborn); lead author, employee-benefits meta-analysis 2024
+- [[Michael T. Ford]] — org psychologist (Alabama); well-being, POS, work–nonwork; co-author Hong et al. 2024
+- [[Jaehee Jong]] — public-admin/HR (Northern Illinois); co-author Hong et al. 2024
+- [[Jason D. Shaw]] — compensation/HR scholar; established the explained-vs-unexplained pay-dispersion decomposition
+- [[Aparna Joshi]] — gender/diversity scholar (Penn State); lead author of the 2015 sex-differences meta-analysis
+- [[JooYeon Son]] — co-author, Joshi et al. (2015)
+- [[Hyuntak Roh]] — co-author, Joshi et al. (2015)
 - [[Chris L. S. Coryn]] — evaluation researcher (WMU); lead author of the 2011 TDE-practice review
 - [[Huey-Tsyh Chen]] — TDE theorist; 1990 *Theory-Driven Evaluations*; stakeholder-oriented program theory
 - [[Stewart I. Donaldson]] — *Program Theory-Driven Evaluation Science* (2007); four sources of program theory
@@ -660,6 +678,10 @@ Navigation: [[Home MOC]] | [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[
 
 ## Sources
 
+- [[obloj-zenger-2022-pay-transparency-equity-equality|Obloj & Zenger (2022)]] — *Nature Human Behaviour* | staggered natural experiment on ~100k US academics; pay transparency causally ↑equity (gender gap −2–5.9pp) and ↑equality (dispersion −20%) but ↓the performance basis of pay (star premium −42%); mechanisms = PFP pressure, targeted raises, mobility | 2026-07-06
+- [[hong-ford-jong-2024-employee-benefits-meta-analysis|Hong, Ford & Jong (2024)]] — *Journal of Applied Psychology* | meta-analysis separating benefit availability/use/subjective evaluation; evaluation ≫ availability ≫ use (eval→POS ρ≈.40, →AOC ρ≈.33); POS partial mediator; training→jobsat, health→turnover (ρ≈−.22) | 2026-07-06
+- [[shaw-2014-pay-dispersion|Shaw (2014)]] — *Annual Review of Organizational Psychology and Organizational Behavior* | review of pay-dispersion outcomes; explained (legitimate) vs unexplained (residual) dispersion resolves the field; three stylized facts (performance/turnover/attitudes); identifiability > interdependence | 2026-07-06
+- [[joshi-son-roh-2015-women-close-the-gap|Joshi, Son & Roh (2015)]] — *Academy of Management Journal* | meta-analysis (k=93–97) of sex differences; rewards gap (d=.56) ~14× the performance gap (d=.04); performance doesn't explain rewards; prestige/complexity/male-dominated occupations widen it, industry female executives reverse it; QCA | 2026-07-06
 - [[coryn-et-al-2011-theory-driven-evaluation-review|Coryn, Noakes, Westine & Schröter (2011)]] — *American Journal of Evaluation* | systematic review of 45 theory-driven-evaluation cases (1990–2009) vs five core principles; ideological motive dominant; advocate–critic debate | 2026-07-06
 - [[fulmer-li-2022-compensation-benefits-total-rewards|Fulmer & Li (2022)]] — *Annual Review of Organizational Psychology and Organizational Behavior* | bird's-eye review of compensation, benefits, and total rewards; 5 future-research themes; benefits predict attraction more than pay | 2026-07-06
 - [[bussin-swart-opperman-2022-job-evaluation|Bussin & Swart-Opperman (2022)]] — *Job Evaluation in the New World of Work* (Knowledge Resources) | job evaluation grades jobs not people; two stages → salary structure; Paterson six-band method; equal pay for work of equal value | 2026-07-06

@@ -9,7 +9,11 @@ updated: 2026-07-06
 related:
   - "[[Total Rewards]]"
   - "[[Work-Family Balance]]"
+  - "[[Benefit Experience Framework]]"
+  - "[[Social Exchange Theory]]"
+  - "[[Perceived Organizational Support]]"
   - "[[fulmer-li-2022-compensation-benefits-total-rewards]]"
+  - "[[hong-ford-jong-2024-employee-benefits-meta-analysis]]"
 ---
 
 # Employee Benefits
@@ -29,3 +33,16 @@ In the US, most benefits are voluntary (not statute-required), with costs mostly
 Despite the assumption that benefits have significant sorting/retention effects on the workforce, very little rigorous research has examined strategic considerations in benefits *design* (Murray & Dulebohn 2021). Emphasis has been on employee reactions, not organization-level antecedents/outcomes.
 
 Benefits + pay together constitute [[Total Rewards|total rewards]].
+
+## Meta-analytic evidence — Hong, Ford & Jong (2024)
+
+[[hong-ford-jong-2024-employee-benefits-meta-analysis|Hong, Ford & Jong (2024, *JAP*)]] give the first meta-analysis to separate the three **benefit experiences** (the [[Benefit Experience Framework]]) and ground benefits in [[Social Exchange Theory]]:
+
+- **Subjective evaluation** (how employees judge a benefit's value/quality) predicts attitudes and well-being **far more** than mere **availability** or **use** — e.g., evaluation→[[Perceived Organizational Support|POS]] ρ≈.40 and →affective [[Organizational Commitment|commitment]] ρ≈.33, vs. availability→POS ρ≈.08. **Use adds little** beyond the other two.
+- Relationships are **partially mediated by POS** and partially direct (benefits fulfill needs, raise interdependence).
+- **By type:** training benefits relate most to job satisfaction/commitment; health-care benefits relate most to turnover intentions (health→turnover intent ρ≈−.22).
+
+> [!key-insight] Measure evaluation, not just offering
+> Employers who track availability or use but never measure how employees *value* a benefit miss the strongest signal. An available, used-but-poorly-valued benefit can backfire via negative reciprocity.
+
+This quantifies the employee reactions that [[fulmer-li-2022-compensation-benefits-total-rewards|Fulmer & Li (2022)]] flagged as the dominant (but under-synthesized) benefits research.
