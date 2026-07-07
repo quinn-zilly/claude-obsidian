@@ -19,6 +19,13 @@ Navigation: [[index]] | [[hot]] | [[overview]]
 
 Append-only. New entries go at the TOP. Never edit past entries.
 
+## [2026-07-06] batch ingest | 3 papers — Theory-Driven Evaluation + Compensation/Total Rewards + Job Evaluation
+- Sources: `.raw/Coryn et al. - 2011 - A Systematic Review of Theory-Driven Evaluation Practice From 1990 to 2009.md`, `.raw/Fulmer and Li - 2022 - Compensation, Benefits, and Total Rewards A Bird's-Eye (Re)View.md`, `.raw/Bussin and Swart-Opperman - 2022 - Job Evaluation in the New World of Work.md`
+- Summaries: [[coryn-et-al-2011-theory-driven-evaluation-review]], [[fulmer-li-2022-compensation-benefits-total-rewards]], [[bussin-swart-opperman-2022-job-evaluation]]
+- Pages created: [[Theory-Driven Evaluation]], [[Program Theory]], [[Core Principles of Theory-Driven Evaluation]], [[Causal Description vs Causal Explanation]], [[Total Rewards]], [[Employee Benefits]], [[Idiosyncratic Deals (i-deals)]], [[Job Evaluation]], [[Paterson Job Evaluation]], [[Salary Structure]], [[Stratified Systems Theory]]; entities [[Chris L. S. Coryn]], [[Huey-Tsyh Chen]], [[Stewart I. Donaldson]], [[Lindsay A. Noakes]], [[Carl D. Westine]], [[Daniela C. Schröter]], [[Junting Li]], [[Mark Bussin]], [[Chris Swart-Opperman]], [[Thomas Thomson Paterson]] (c-000896–920)
+- Pages updated: [[Ingrid Smithey Fulmer]], [[index]], [[log]], [[hot]]
+- Key insight: three distinct threads — (1) Coryn's TDE review connects to the vault's existing Shadish-Cook-Campbell validity spine via [[Causal Description vs Causal Explanation]]; (2) Fulmer & Li's total-rewards review extends the existing compensation concept cluster ([[Pay Dispersion]], [[Sorting Effect (Compensation)]], [[Pay-for-Performance]]) and is a direct companion to the already-ingested [[fulmer-2023-compensation-performance|Fulmer et al. 2023]]; (3) Bussin & Swart-Opperman fills the *job evaluation / formal pay structure* gap that Fulmer & Li explicitly flag as a waning research topic — the two comp papers dovetail.
+
 ## [2026-07-06] ingest | Shadish, Cook & Campbell (2002), Ch. 4 & Ch. 5 (quasi-experimental design)
 - Sources: `.raw/Shadish et al. - 2002 - Quasi-Experimental Designs That Either Lack a Control Group or Lack Pretest Observations on the Outc.md`, `.raw/Shadish et al. - 2002 - Quasi-Experimental Designs That Use Both Control Groups and Pretests.md`
 - Summaries: [[shadish-cook-campbell-2002-quasi-designs-no-control-or-no-pretest]], [[shadish-cook-campbell-2002-quasi-designs-control-and-pretests]]

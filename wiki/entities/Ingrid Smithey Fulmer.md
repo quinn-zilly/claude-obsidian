@@ -11,7 +11,10 @@ related:
   - "[[Pay Transparency]]"
   - "[[Barry Gerhart]]"
   - "[[JiHyun Kim]]"
+  - "[[Junting Li]]"
   - "[[fulmer-2023-compensation-performance]]"
+  - "[[fulmer-li-2022-compensation-benefits-total-rewards]]"
+  - "[[Total Rewards]]"
 ---
 
 # Ingrid Smithey Fulmer
@@ -29,7 +32,7 @@ Researcher in compensation, pay communication, and pay-for-performance.
 - **[[fulmer-2023-compensation-performance]]** (with Gerhart & Kim, 2023) — 30-year review of compensation→performance research in *Personnel Psychology*
 - **Compensation Activation Theory** (with Shaw, 2018) — individual differences in status-seeking and social dominance motivation amplify PFP effects under pay transparency
 - **Pay communication research** — global survey of pay communication practices and preferences (Fulmer & Arnold, 2020); chapter on pay transparency (Fulmer & Chen, 2014)
-- **Employee benefits review** (Fulmer & Li, 2022)
+- **[[fulmer-li-2022-compensation-benefits-total-rewards]]** (with Li, 2022) — *Annual Review* bird's-eye review of compensation, benefits, and [[Total Rewards|total rewards]]
 
 ---
 

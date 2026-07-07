@@ -2038,6 +2038,64 @@
         "wiki/hot.md",
         "wiki/mocs/Open Science MOC.md"
       ]
+    },
+    ".raw/Coryn et al. - 2011 - A Systematic Review of Theory-Driven Evaluation Practice From 1990 to 2009.md": {
+      "hash": "aa765ecb16058fd420b31a1f48f81bc4",
+      "ingested_at": "2026-07-06",
+      "pages_created": [
+        "wiki/sources/coryn-et-al-2011-theory-driven-evaluation-review.md",
+        "wiki/concepts/Theory-Driven Evaluation.md",
+        "wiki/concepts/Program Theory.md",
+        "wiki/concepts/Core Principles of Theory-Driven Evaluation.md",
+        "wiki/concepts/Causal Description vs Causal Explanation.md",
+        "wiki/entities/Chris L. S. Coryn.md",
+        "wiki/entities/Huey-Tsyh Chen.md",
+        "wiki/entities/Stewart I. Donaldson.md",
+        "wiki/entities/Lindsay A. Noakes.md",
+        "wiki/entities/Carl D. Westine.md",
+        "wiki/entities/Daniela C. Schröter.md"
+      ],
+      "pages_updated": [
+        "wiki/index.md",
+        "wiki/log.md",
+        "wiki/hot.md"
+      ]
+    },
+    ".raw/Fulmer and Li - 2022 - Compensation, Benefits, and Total Rewards A Bird's-Eye (Re)View.md": {
+      "hash": "9e8cc84a8d7793a9605b5c7238e079a1",
+      "ingested_at": "2026-07-06",
+      "pages_created": [
+        "wiki/sources/fulmer-li-2022-compensation-benefits-total-rewards.md",
+        "wiki/concepts/Total Rewards.md",
+        "wiki/concepts/Employee Benefits.md",
+        "wiki/concepts/Idiosyncratic Deals (i-deals).md",
+        "wiki/entities/Junting Li.md"
+      ],
+      "pages_updated": [
+        "wiki/index.md",
+        "wiki/log.md",
+        "wiki/hot.md",
+        "wiki/entities/Ingrid Smithey Fulmer.md"
+      ]
+    },
+    ".raw/Bussin and Swart-Opperman - 2022 - Job Evaluation in the New World of Work How to Achieve Equal Pay for Work of Equal Value.md": {
+      "hash": "5d713a7a39a520b589f5ab06651faa46",
+      "ingested_at": "2026-07-06",
+      "pages_created": [
+        "wiki/sources/bussin-swart-opperman-2022-job-evaluation.md",
+        "wiki/concepts/Job Evaluation.md",
+        "wiki/concepts/Paterson Job Evaluation.md",
+        "wiki/concepts/Salary Structure.md",
+        "wiki/concepts/Stratified Systems Theory.md",
+        "wiki/entities/Mark Bussin.md",
+        "wiki/entities/Chris Swart-Opperman.md",
+        "wiki/entities/Thomas Thomson Paterson.md"
+      ],
+      "pages_updated": [
+        "wiki/index.md",
+        "wiki/log.md",
+        "wiki/hot.md"
+      ]
     }
   },
   "address_map": {
@@ -2819,7 +2877,31 @@
     "wiki/concepts/Case-Control Design.md": "c-000892",
     "wiki/concepts/Selection Bias.md": "c-000893",
     "wiki/concepts/Matching (Quasi-Experiments).md": "c-000894",
-    "wiki/entities/Donald T. Campbell.md": "c-000895"
+    "wiki/entities/Donald T. Campbell.md": "c-000895",
+    "wiki/sources/coryn-et-al-2011-theory-driven-evaluation-review.md": "c-000896",
+    "wiki/concepts/Theory-Driven Evaluation.md": "c-000897",
+    "wiki/concepts/Program Theory.md": "c-000898",
+    "wiki/concepts/Core Principles of Theory-Driven Evaluation.md": "c-000899",
+    "wiki/concepts/Causal Description vs Causal Explanation.md": "c-000900",
+    "wiki/entities/Chris L. S. Coryn.md": "c-000901",
+    "wiki/entities/Huey-Tsyh Chen.md": "c-000902",
+    "wiki/entities/Stewart I. Donaldson.md": "c-000903",
+    "wiki/entities/Lindsay A. Noakes.md": "c-000904",
+    "wiki/entities/Carl D. Westine.md": "c-000905",
+    "wiki/entities/Daniela C. Schröter.md": "c-000906",
+    "wiki/sources/fulmer-li-2022-compensation-benefits-total-rewards.md": "c-000907",
+    "wiki/concepts/Total Rewards.md": "c-000908",
+    "wiki/concepts/Employee Benefits.md": "c-000909",
+    "wiki/concepts/Idiosyncratic Deals (i-deals).md": "c-000910",
+    "wiki/entities/Junting Li.md": "c-000911",
+    "wiki/sources/bussin-swart-opperman-2022-job-evaluation.md": "c-000912",
+    "wiki/concepts/Job Evaluation.md": "c-000913",
+    "wiki/concepts/Paterson Job Evaluation.md": "c-000914",
+    "wiki/concepts/Salary Structure.md": "c-000915",
+    "wiki/concepts/Stratified Systems Theory.md": "c-000919",
+    "wiki/entities/Mark Bussin.md": "c-000916",
+    "wiki/entities/Chris Swart-Opperman.md": "c-000917",
+    "wiki/entities/Thomas Thomson Paterson.md": "c-000918"
   },
   ".raw/Pearsall et al. - 2025 - A stimulus-based model of the team adaptation process An integrated conceptual review..pdf": {
     "hash": "62f683006d3323a67c67fc23621f632a",

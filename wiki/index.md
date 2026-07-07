@@ -25,7 +25,7 @@ created: 2026-04-07
 
 # Wiki Index
 
-Last updated: 2026-07-06 | Total pages: 464 | Sources ingested: 68
+Last updated: 2026-07-06 | Total pages: 485 | Sources ingested: 71
 
 Navigation: [[Home MOC]] | [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[getting-started]]
 
@@ -39,6 +39,17 @@ Navigation: [[Home MOC]] | [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[
 
 ## Concepts
 
+- [[Theory-Driven Evaluation]] — evaluation guided by an explicit program theory; targets causal explanation (how/why), not just description; method-neutral (Coryn 2011)
+- [[Program Theory]] — explicit model of how a program causes outcomes (inputs→activities→outputs→outcomes); linear vs ecological; Donaldson's four sources
+- [[Core Principles of Theory-Driven Evaluation]] — five derived principles; Principle 5 (causal explanation) is the demarcating, least-enacted one
+- [[Causal Description vs Causal Explanation]] — *that* A causes B (RCTs) vs *how/why* (mechanisms, mediation/moderation); TDE targets the latter
+- [[Total Rewards]] — holistic pay + benefits package; core total rewards = comp + retirement/health/work-life; total-rewards gaps (Fulmer & Li 2022)
+- [[Employee Benefits]] — discretionary non-cash reward (~31% of comp cost); retirement/health/work-life; strategic-design research gap
+- [[Idiosyncratic Deals (i-deals)]] — individually negotiated work/pay arrangements; individualization of total rewards; peer-reaction and equity-gap risks
+- [[Job Evaluation]] — systematic objective grading of *jobs* not people → defensible pay hierarchy; 2 stages; ~0.94 correlation across systems (Bussin 2022)
+- [[Paterson Job Evaluation]] — grades jobs by kind/complexity of decisions; six bands A–F; Paterson Points (KS/PS/J/A/I)
+- [[Salary Structure]] — grades + pay ranges (min–midpoint–max); internally fair, externally competitive; Stage-2 output of job evaluation
+- [[Stratified Systems Theory]] — Jaques' levels of work by time-span of discretion / decision complexity; cousin of Paterson
 - [[Validity Typology]] — SCC four-type framework (statistical conclusion / internal / construct / external); validity is a property of inferences
 - [[Statistical Conclusion Validity]] — validity of covariation inferences; 9 threats; effect sizes + CIs
 - [[Internal Validity]] — validity of causal inferences (A→B); 9 threats; randomization
@@ -486,6 +497,16 @@ Navigation: [[Home MOC]] | [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[
 
 ## Entities
 
+- [[Chris L. S. Coryn]] — evaluation researcher (WMU); lead author of the 2011 TDE-practice review
+- [[Huey-Tsyh Chen]] — TDE theorist; 1990 *Theory-Driven Evaluations*; stakeholder-oriented program theory
+- [[Stewart I. Donaldson]] — *Program Theory-Driven Evaluation Science* (2007); four sources of program theory
+- [[Lindsay A. Noakes]] — co-author, Coryn et al. (2011)
+- [[Carl D. Westine]] — co-author, Coryn et al. (2011)
+- [[Daniela C. Schröter]] — co-author, Coryn et al. (2011)
+- [[Junting Li]] — Rutgers; co-author of Fulmer & Li (2022) total-rewards review
+- [[Mark Bussin]] — reward-management expert; co-author *Job Evaluation in the New World of Work* (2022)
+- [[Chris Swart-Opperman]] — reward practitioner; co-author, Bussin & Swart-Opperman (2022)
+- [[Thomas Thomson Paterson]] — developed the Paterson decision-band job-evaluation method (1963)
 - [[William R. Shadish]] — methodologist; first author of the 2002 generalized-causal-inference volume
 - [[Thomas D. Cook]] — evaluation methodologist; co-author of Cook & Campbell (1979) and the 2002 successor
 - [[Mikhail A. Wolfson]] — management scholar (U. Kentucky); co-originator of the IFBL construct
@@ -639,6 +660,9 @@ Navigation: [[Home MOC]] | [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[
 
 ## Sources
 
+- [[coryn-et-al-2011-theory-driven-evaluation-review|Coryn, Noakes, Westine & Schröter (2011)]] — *American Journal of Evaluation* | systematic review of 45 theory-driven-evaluation cases (1990–2009) vs five core principles; ideological motive dominant; advocate–critic debate | 2026-07-06
+- [[fulmer-li-2022-compensation-benefits-total-rewards|Fulmer & Li (2022)]] — *Annual Review of Organizational Psychology and Organizational Behavior* | bird's-eye review of compensation, benefits, and total rewards; 5 future-research themes; benefits predict attraction more than pay | 2026-07-06
+- [[bussin-swart-opperman-2022-job-evaluation|Bussin & Swart-Opperman (2022)]] — *Job Evaluation in the New World of Work* (Knowledge Resources) | job evaluation grades jobs not people; two stages → salary structure; Paterson six-band method; equal pay for work of equal value | 2026-07-06
 - [[shadish-cook-campbell-2002-quasi-designs-no-control-or-no-pretest|Shadish, Cook & Campbell (2002), Ch. 4]] — *Experimental and Quasi-Experimental Designs* | the **weak** quasi-designs (missing pretest or control group); one-group posttest-only → pretest-posttest → NEDV → removed/repeated treatment; posttest-only with nonequivalent groups, proxy/independent-sample pretests, matching, constructed contrasts, **case-control design**; three principles of nonrandomized causal inference | 2026-07-06
 - [[shadish-cook-campbell-2002-quasi-designs-control-and-pretests|Shadish, Cook & Campbell (2002), Ch. 5]] — *Experimental and Quasi-Experimental Designs* | designs with **both** control group + pretest; the **nonequivalent control group design** (selection-interaction threats, 5 outcome patterns); double pretest, switching replications, reversed treatment, cohort controls, NEDV; the four families of **design elements**; appendix on **propensity scores**, selection-bias models, sensitivity analysis | 2026-07-06
 - [[noe-2023-needs-assessment|Noe (2023)]] — *Employee Training and Development* (9e), Ch. 3 | canonical practitioner model of **needs assessment**: organizational / person / task analysis; methods table; root cause analysis (7 questions, 5 Whys, Fishbone, 4 Square); literacy audit; competency models. Prescriptive counterpart to the empirical gap in [[Training Needs Analysis]] | 2026-07-06

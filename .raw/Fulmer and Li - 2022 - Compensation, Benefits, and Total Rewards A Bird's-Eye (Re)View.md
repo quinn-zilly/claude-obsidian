@@ -1,0 +1,1469 @@
+## Page 1
+
+72:45:81
+5202
+rpA
+30
+,uhT
+:nO
+712.661.87.05
+:PI
+)tseug(
+tseuG
+.gro.sweiverlaunna.www
+morf
+dedaolnwoD
+Annual Review of Organizational Psychology and
+Organizational Behavior
+Compensation, Benefits, and
+Total Rewards: A Bird’s-Eye
+(Re)View
+Ingrid Smithey Fulmer and Junting Li
+SchoolofManagementandLaborRelations,RutgersUniversity,Piscataway,NewJersey,USA;
+email:ifulmer@smlr.rutgers.edu,jl2051@scarletmail.rutgers.edu
+Annu.Rev.Organ.Psychol.Organ.Behav.2022. Keywords
+9:147–69
+compensation,totalrewards,healthbenefits,work-lifebenefits,retirement
+FirstpublishedasaReviewinAdvanceon
+benefits
+November2,2021
+TheAnnualReviewofOrganizationalPsychologyand Abstract
+OrganizationalBehaviorisonlineat
+orgpsych.annualreviews.org Research on compensation and employee benefits has enjoyed a long and
+rich history. Energized by a new generation of scholars, changes in the
+https://doi.org/10.1146/annurev-orgpsych-012420-
+055903 broaderworkplacecontext,anddevelopmentsinadjacentareasofinquiry,
+many classic theoretical tensions and research questions have begun to
+Copyright©2022byAnnualReviews.
+Allrightsreserved evolveinnoveldirections,andexcitingnewareasofresearcharedeveloping.
+Inaddition,therehavebeennumerouscallsformoreacademicresearchon
+bothcompensationandbenefitsandforgreateralignmentofthatresearch
+with the needs and interests of practice, including the tendency of many
+practitioners(andemployees)toviewpayandbenefitsholisticallyasapack-
+age.Inthisreviewwehighlightselectedrecentresearchonkeycomponents
+ofcoretotalrewards—compensationplusretirement,health,andwork-life
+benefits. Extrapolating from our review, we identify evolving themes and
+trendsandadvance severalrecommendationsforfutureresearchandsug-
+gestionsforpractice.
+147
+
+## Page 2
+
+72:45:81
+5202
+rpA
+30
+,uhT
+:nO
+712.661.87.05
+:PI
+)tseug(
+tseuG
+.gro.sweiverlaunna.www
+morf
+dedaolnwoD
+INTRODUCTION
+Of all the formal human resource (HR) management practices implemented in organizations,
+compensation and employee benefits are among the most vital to organizational success. At a
+fundamentallevel,theexchangeofdesiredemployeeeffortforremunerationfromanemployer
+is one of the defining elements of the employment relationship.Compensation systems,which
+elaborateonthedetails,components,andbasesofthisexchange,shapenotonlyanorganization’s
+relationshipwithindividualemployeesbutalsooverallworkforcecompositionbyprovidingsig-
+nalsthatfacilitateemployees’attractionandchoicestocontinueatparticularorganizationsand
+directingtheireffortswhileonthejob(Gerhart&Rynes2003).Similarly,discretionaryemployee
+benefitsofferedbymanyemployers,whichcanincludenearlyanythinggiventoemployeesthat
+isnotconsideredcashcompensation(Barringer&Milkovich1998),canbetailoredtosuitorga-
+nizations’businessstrategiesandemployeeattraction/retentionstrategies(Rynes&Barber1990,
+Werner&Balkin2021).Andbecauseemployeesandprospectiveemployeesoftentakeaholistic
+viewoftheoverallcombinationofcompensationandbenefitsandvaryintheirpreferencesfor
+differentcombinations(e.g.,Eriksson&Kristensen2014),organizationsmayconsciouslytailor
+theiroverallcompensationplusbenefitspackagestoattract,retain,andmotivateparticulartypes
+ofemployees.
+For example,a typical compensation and benefits package for an entry-level employee in a
+professionaljobatamid-orlarge-sizedorganizationintheUnitedStatescouldincludesalary,paid
+timeoff(vacationandholidays),possiblyincentivesorcommission(dependingonthejobtype),
+andemployer-providedoremployer-subsidizedbenefitssuchashealthanddentalinsuranceand
+somekindofretirementplanoption[e.g.,adefinedcontribution401(k)].Manyorganizationsalso
+provideotherbenefitssuchastheopportunitytorequestflexibleworkschedulesorlocations(e.g.,
+telecommuting)andothertypesofmiscellaneousbenefitsthatcanrangewidelyfromchildorelder
+caresubsidiestowellnessbenefits,transportationorparkingbenefits,tuitionreimbursementand
+studentloanrepaymentassistance,tonameafew(e.g.,SocietyforHumanResourceManagement
+2019).Organizations may tailor their overall pay and benefits mix and/or the specific types of
+benefits they offer to reflect particular recruitment and retention objectives such as satisfying
+generationaldifferencesinpreferencesamongdifferentworkergroups(e.g.,Martin&Ottemann
+2016),accommodatingdifferenttypesofdual-earnerworkersintheirorganizations(e.g.,Martin
+2020),orothergoals.Forexample,manyGenerationZworkers(borninthemid-1990sorlater)
+havemorestudentloandebtthanpreviousgenerations,soorganizationsseekingtoappealtothis
+groupmaychoosetoofferfinancialplanningassistance,studentloanrepaymentassistance,and
+otherbenefitsthathelpyoungerworkersmanagetheirexpensessuchascommutingassistanceand
+remoteworkoptions(Sammer2018).
+Payandbenefitspackagesarealso,ofcourse,tailoredtospecificjobsandindustries.Forex-
+ample,ahospitalseekingtorecruitaphysicianmightofferasalarythatreflectscurrentmarket
+demandforhisorherspecialty,plusaproductionincentivebonuslinkedtothevolumeandqual-
+ity of procedures performed and other metrics,plus benefits.For physicians,benefits packages
+oftenincludehealthinsurance,malpracticeinsurance,andaretirementplan[e.g.,401(k)]andmay
+alsoincludestudentloanforgiveness,paidtimeoff,and,possibly,schedulingflexibility(Merritt-
+Hawkins2020,Mosley&Miller2019).
+Compensation and benefits are expensive, however, comprising a significant proportion of
+overall costs in many organizations.And although sometimes referred to as fringe benefits,in
+termsoftheirfinancialimpact,employer-providedbenefitsareanythingbuttrivial.Benefitscosts
+among civilian workers in the United States account for approximately 31% of total employer
+costsforoverallemployeecompensation,withbenefitsrepresentinganevenlargerpercentagein
+148 Fulmer (cid:129)Li
+
+## Page 3
+
+72:45:81
+5202
+rpA
+30
+,uhT
+:nO
+712.661.87.05
+:PI
+)tseug(
+tseuG
+.gro.sweiverlaunna.www
+morf
+dedaolnwoD
+somesectorssuchasstateandlocalgovernmentwherebenefitsaccountforapproximately38%
+ofcostsonaverage(BureauofLaborStatistics2021).Conversely,thefailuretosetpayandben-
+efitsatappropriatelevelscaninhibitanorganization’sabilitytohiredesiredtalentandincrease
+turnover,whichisalsoquitecostly[e.g.,lostproductivity,searchandrecruitmentcosts,timeto
+getnewemployeesuptospeed(Cascioetal.2019)].Asorganizationsbecomeincreasinglysavvy
+inusingdataanalyticandartificialintelligencecapabilitiestocombineinformationaboutsalary,
+benefits and other HR practices with information about employee workplace attitudes and be-
+haviors(Oswaldetal.2020),managersareunderstandablykeenonleveragingtotalrewardsinthe
+mostefficientandeffectivewaytoensurethattheirorganizationsremaincompetitiveandthriving.
+Accordingly,inHRpractitionerjournalstherehasbeenastrongemphasisoncompensationand
+benefitsrelativetoothertopics.Incontrast,therelativeproportionofscholarlyresearchonthese
+topicshasbeenmuchlower,leadingtorepeatedcallsovertheyearsformoreacademicresearch
+tobetteralignwiththeneedsandinterestsofprofessionals(Deadrick&Gibson2007,Markoulli
+etal.2017).
+Anothernotabledifferencebetweenresearchandpracticeisthatacademicresearchinmanage-
+mentandappliedpsychologyhastendedtofocusoneithercompensationoremployeebenefits,
+butnotthetwotogether.Compensationpractitionersandemployees,however,oftentendtotakea
+moreholisticapproach(e.g.,usingtermsliketotalrewards,compensationandbenefitspackage,or
+rewardmix)(Baeten2014),acknowledgingthatemployeesvaryintheirpreferencesfordifferent
+combinationsofpayandbenefits(e.g.,Eriksson&Kristensen2014),aswellasfordifferentcom-
+binationsofbenefits.Forexample,oneofthetopprofessionalassociationsforHRprofessionals
+specializingincompensationandbenefits,WorldatWork,isorganizedaroundaverybroadmodel
+oftotalrewardsincludingcompensation,benefits,well-being(whichincludesworkplaceflexibil-
+ity),recognition,and development/career opportunities (https://www.worldatwork.org/total-
+rewards/;seealsoDay2019).Thisdisconnectbetweenscholarlyresearchandpracticehasfueled
+appealsforacademicresearchontotalrewardsthatgoesbeyondthestudyofwagesorbenefits
+separately(e.g.,Baeten2014,Gibbs2016).
+Tostimulatemoreresearchoneachofthesetopics,aswellasresearchthatconsiderscompensa-
+tionandbenefitstogether,inthisarticleweofferahigh-leveltargetedreviewofresearchoncom-
+pensation,benefits,andcombinationsofcompensationandbenefitsfromthepastapproximately
+15years,highlightingemergingthemesandcomplementaritiesonwhichfutureresearchersin-
+terested in taking a total rewards perspective might build.Given the enormous breadth of our
+subject,wearepurposelyselectiveandrepresentativeinourapproach,ratherthanexhaustive.We
+focusonthedenotedtimeframegiventhat,toourknowledge,therehasbeenneitherasimilarly
+broad review of the compensation literature in management or applied psychology since 2007
+(Dulebohn&Werling2007)norasimilarlygeneralreviewofemployeebenefitsresearchsince
+2009(Dulebohnetal.2009).Buildingonreviewarticlesandmeta-analysesforhighlyresearched
+topicsandcitingillustrativeprimarystudiesformorenascenttopics,weaimtoprovidearesource
+thatinvigoratesfurtherinquiry.
+We focus on what we term core total rewards and its components,which we define for the
+purposes of this review as including compensation and employer-provided retirement benefits,
+healthbenefits,andwork-lifebenefits.Compensationresearchtypicallyisbroadlyconstruedto
+include organizations’ pay practices and structures,including factors influencing pay-setting as
+wellasproximalanddistalreactionsandconsequencesattheindividualandorganizationallev-
+els.In terms of benefits,we concentrate on retirement,health,and work-life benefits,as these
+areamongthemostcommonlyofferedbyorganizations(Dulebohnetal.2009)and,according
+toresearchbyGlassdoorEconomicResearch,areamongthebestpredictorsofoverallsatisfac-
+tionwithbenefits(Chamberlain&Tian2016).Givenmajorinternationaldifferencesinpolitical
+www.annualreviews.org (cid:129) Compensation,Benefits,andTotalRewards 149
+
+## Page 4
+
+72:45:81
+5202
+rpA
+30
+,uhT
+:nO
+712.661.87.05
+:PI
+)tseug(
+tseuG
+.gro.sweiverlaunna.www
+morf
+dedaolnwoD
+and regulatory structures,we focus on the US context,where the provision of most benefits is
+typicallynotrequiredbystatuteorcoordinatedbygovernment;rather,thedecisiontoofferben-
+efitsisvoluntaryandtheircostsaregenerallybornebyemployers,althoughtoagrowingextent,
+employeesshareinthesecosts.Benefitsresearchsimilarlyencompassesorganizationalpractices,
+theirantecedents,andindividualandorganizationaloutcomes.
+We begin with a selective and bird’s-eye (i.e., high-level) overview of core total rewards
+components—compensationandbenefitsincludingretirementbenefits,healthbenefits,andwork-
+lifebenefits—withaneyetowardarticulatinghowrecentresearchhasevolvedtoresolveoldthe-
+oreticaltensionsandtohighlightnewones.Althoughthereisnotmuchresearchthatcombines
+bothcompensationandbenefits,wehighlightsomeexamplesthatdoexist.Wehighlightcross-
+cuttingthemesandareasofpotentialcomplementaritythatemergefromourreview,leveraging
+themtosuggestseveraldirectionsforfutureresearchandimplicationsforpractice.
+ABIRD’S-EYEREVIEWOFRESEARCHONCOMPENSATION,
+BENEFITS,ANDTOTALREWARDS
+Compensation
+Intheirreviewofcompensationresearch,Dulebohn&Werling(2007)observedthatupuntilthe
+1980sscholarshiphadhadamainlyinternallabormarketfocus,withsignificantattentiontoin-
+ternalequitywithinorganizations,andwascharacterizedbyattentiontoemployeeattitudesand
+perceptionssuchaspaysatisfactionandfairnessperceptions.Theirreviewconcludedthat,despite
+shiftsincompensationpracticebeginninginthe1980stowardtheuseofmoreexternallyfocused
+practices,suchasmarketpricing,withafewexceptions(e.g.,Gerhart&Milkovich1990),academic
+compensationresearchhadgenerallynotfollowedsuit.Theyrecommendedthatfutureresearch
+takeamorebalancedperspectivebydevotingmoreattentiontoexternal,individual,andorgani-
+zationalfactorsthathavealsobeenproposedtoinfluencepay-setting(e.g.,Gerhart&Newman
+2020).
+Internalequity/paystructure.Compensationresearchsincethenhasstillbeenhighlyattuned
+tointernalequityandintra-firmpaystructures,althoughtherehasbeenmuchlessattentionto
+internallabormarkets,jobevaluation,andformalcompensationstructures[e.g.,paygradesand
+ranges (Gerhart & Newman 2020)] and much more focus on what may be thought of as the
+residual distributional pay structure,that is,the snapshot of actual pay rates that represent the
+cumulative effects of and differences among employees resulting from previous pay decisions.
+Research on pay differences, including pay dispersion (i.e., the distribution of pay rates/levels
+among employees within a workgroup or an organization), is not new (e.g., Bloom & Michel
+2002,Cowherd&Levine1992,Pfeffer&Langton1993)buthasincreasedinvolumeinrecent
+years.Multiplereviewarticlessummarizingresearchfromavarietyoftheoreticalperspectivesand
+levelsofanalysis(e.g.,Downes&Choi2014,Guptaetal.2012,Shaw2014)havefoundconflicting
+evidencefortheeffectsofpaydispersion,withpaydifferencesfoundtohave“positiveandnegative,
+linearandcurvilinear,directandmoderated”(Conroyetal.2014,p.2)effects.
+Thetheoreticalconversationandempiricalresearchonpaydispersionhaveshiftedtowardclar-
+ifyingand,insomecases,integratingthecoretheoreticaltensionsofolderresearch,wherescholars
+tendedtoargueeitherthatgreaterpaydispersionleadstomorenegativeworkplaceoutcomesdue
+toenhancedinequityperceptionsorthatgreaterdispersionleadstomorepositiveoutcomesdueto
+heightenedtournamentmotivationamongorganizationalmembers(forareviewofthisdebate,see
+Shaw2014).Newerresearchhassoughttoreconcilethetheoreticaldebatebyidentifyingthecon-
+tingenciesintherelationshipbetweenpaydispersionandperformance(includingorganizational
+150 Fulmer (cid:129)Li
+
+## Page 5
+
+72:45:81
+5202
+rpA
+30
+,uhT
+:nO
+712.661.87.05
+:PI
+)tseug(
+tseuG
+.gro.sweiverlaunna.www
+morf
+dedaolnwoD
+performance,teamperformance,andindividualperformance)thatmightleadtopositiveversus
+lesspositiveornegativeoutcomes.Somenotableboundaryconditionsofthisrelationshipinclude
+the level of work interdependence and identifiability of individual inputs (Beaumont & Harris
+2003,Shawetal.2002,Shaw&Zhou2021),thebasisofpaydispersion[explained/legitimaterea-
+sons,such as individual incentives,the use of pay-for-performance (PFP),and individual talent
+orperformance,versusunexplainedornonlegitimatebases,suchaspoliticalreasons(Kepesetal.
+2009,Shaw et al.2002,Shaw & Gupta 2007)],and the overall pay level/competitiveness of an
+organization(Brownetal.2003,Yang&Klaas2011).Theseresultssuggestthattheeffectsofpay
+dispersionorpayspreadonthelevelofemployeeeffortandturnoverandonteam/organizational
+productivity are moderated by the characteristics of other pay decisions and the characteristics
+ofworkersandworkcontexts.Forexample,higherpaydispersionisassociatedwithgreatermo-
+tivation and performance when due to use of performance-based pay (Conroy & Gupta 2019)
+andislinkedtoreducedturnoveramongbetterperformers(Shaw&Gupta2007).Attheteam
+level,thefindingsaremoremixed.Somestudiestestingoverallpaydispersionandteamperfor-
+mancehavedemonstratedanegativeornonsignificantrelationship(e.g.,Bloom1999,Katayama
+& Nuch 2011,Mondello & Maxcy 2009).More recent team-level studies,however,differenti-
+atebetweenexplainedandunexplainedpaydispersion.Theyfindthatexplainedpaydispersion
+(thatis,dispersionthatisattributabletoindividuals’performancedifferencesinthepastoruse
+ofperformance-basedpay)ispositivelyrelatedorcurvilinearlyrelatedtoteamperformanceout-
+comes,whereasunexplainedpaydispersionisnotsignificantlyrelatedtoteamperformance(e.g.,
+Simmons&Berri2011,Trevoretal.2012),suggestingthatthelegitimacyofreasonsforthepay
+dispersionisacrucialteam-levelfactortoconsider.Attheorganizationallevel,researchthatin-
+vestigatesvertical(between-job)andhorizontal(within-the-same-job)paydispersionhasfound
+thatverticalpaydispersionmaypositivelylinktoorganizationalperformanceoutcomes,whereas
+horizontalpaydispersionhaslesspositiveeffects(e.g.,Dingetal.2009,Yanadori&Cui2013).
+Moreover,thedirectionandstrengthoftheserelationshipsvariesaccordingtothedifferentmea-
+suresoforganizationalperformance(Shaw2014).Insummary,thislineofscholarshiprepresents
+amajorstepforwardinreconcilingmixedfindingsandcompetingtheoreticalpointsofviewre-
+gardingtherelationshipbetweenpaydispersionandperformanceatdifferentlevelsoftheoryand
+analysis.
+That said,and perhaps reflective of the current broader societal attention to inequality,we
+alsonotenewtheorydevelopmentandempiricalresearchonthemanynuancedaspectsofsocial
+comparisons that arise within pay systems (e.g.,Chi et al.2019,Larkin et al.2012,Nickerson
+&Zenger2008).Forexample,scholarsinthisstreamofresearcharguethatalthoughincentives
+thatdifferentiateamongemployees’and/oramongmanagers’performance(creatingdifferences
+in their pay) can increase motivation and performance, these positive effects may be offset by
+negative psychological effects of social comparisons (e.g.,envy),particularly in situations when
+suchcomparisonsareeasiertomake(Obloj&Zenger2017).Asanadministrativepracticethat
+makessocialcomparisonseasier,paytransparencyhasbeenstudiedandfoundtoinfluencesome
+individuals’experienceofenvyandtheirsubsequentwillingnesstohelpthosewhoaremorehighly
+paidunderaPFPsystem,butthiseffectiscontingentonindividualdifferencesinindividualism
+andprosocialmotivation(Bamberger&Belogolovsky2017).Morespecifically,theindirecteffect
+ofgreaterpaytransparencyonreducingthehelpgiventohigher-paidpeers,mediatedviaincreased
+envy,wasonlysignificantamonglessprosociallymotivatedemployeesandwasstrongestamong
+thosewhowerebothlowinprosocialmotivationandlowinindividualism.Otherresearchinthis
+veinhasfoundthatemployeesreactmorenegativelyandaremorelikelytoleaveanorganization
+whenunderpaidcomparedtodemographicallysimilarcoworkers(same-sexandrace)thanwhen
+theyareunderpaidrelativetodissimilarcoworkers(Cobbetal.2021).
+www.annualreviews.org (cid:129) Compensation,Benefits,andTotalRewards 151
+
+## Page 6
+
+72:45:81
+5202
+rpA
+30
+,uhT
+:nO
+712.661.87.05
+:PI
+)tseug(
+tseuG
+.gro.sweiverlaunna.www
+morf
+dedaolnwoD
+Externalmarketconsiderations.Turningnexttoresearchonexternalfactorsinfluencingpay,
+such as the effects of labor market competition or of employee pay comparisons with external
+peers,ourgeneralobservationisthatthisworkhascontinuedtoberelativelyscarcewhenitcomes
+tonon-executiveemployees.Thestudiesthathavelookedatexternalfactorshavegenerallyfo-
+cusedontopexecutives’pay,giventhatexecutives’peers/comparatorsaretypicallyallexternaland
+becausethoseexecutives’andpeers’pay,strategicactions,andfirmperformanceareoftenpublic
+information,availabletootherexecutivesaswellastoresearchers.Fulmer(2009),forexample,
+foundthatevenafteraccountingforsociopoliticalandagency-basedexplanationsforCEOpay,
+externallabormarketfactorssignificantlypredictedhowfirmssetexecutivecompensationlevels
+and their pay at risk,particularly for high-performing executives most prone to being poached
+awaybyotherfirms.Ezzamel&Watson(1998)foundthatCEOunderpaymentrelativetoindus-
+tryaveragepredictedsubsequentraises,suggestingthatfirmsareawareofandtakeactiontoavoid
+executiveexit.Anemerginglineofresearchhasbeguninvestigatingwhathappenswhenfirmsdo
+notpayexecutivesatmarket-comparablelevels,examiningstrategicchoicesofexecutivespaidless
+thanaverageorlessthanwouldbepredictedgiventheirindustry,firmsize,etc.Studiessuggest
+thatunderpaidexecutivesaremorelikelytoengageinactionsthattheywouldexpecttohavea
+positiveeffectontheirpay,includinglayoffs(Bentleyetal.2019),acquisitions(Seoetal.2015),
+andmanipulationofresearchanddevelopmentspending(Fong2010).Theyarealsomorelikely
+toexittheirfirmsforotherorganizations(Fongetal.2010,Ridgeetal.2017).Theseresultsare
+consistentwithgeneralpredictionsoflaboreconomicsandalsoconsistentwithwhatwouldbe
+expectedforothertypesofemployees.
+As noted, however, few recent studies have examined external influences on pay of non-
+executiveemployees.InarareexceptionthatstudiedmanagersbelowtheCEOlevel,Gartenberg
+& Wulf (2020) found that increased product market competition increases pay differences be-
+tweenorganizationsbutnotthepaygapwithinthem;however,thiseffectiscontingentonthe
+easeofsocialcomparisons.Infirmswhereemployeesareexpectedtohavefeweropportunitiesfor
+socialcomparisons,theintra-firmpaygapismuchmoresimilartothebetween-firmgap.Probing
+further,Gartenberg&Wulfdeterminedthatinorganizationswheresocialcomparisonsarelikely
+andthatfaceincreasedexternalpressuretoincreasedispersion,firmsmanagetomaintainthepay
+gap status quo by overpaying lower paid workers via non-performance-based pay and offering
+strongincentivesonlytoselectedmanagers,ratherthanbroadly.
+Individual and collective determinants,novel outcomes,and a fresh look at an old ques-
+tion.Shifting gears,we next consider individual factors affecting or affected by compensation,
+an area that has enjoyed several important new theoretical advances and a healthy level of
+research attention. Research on individual PFP—pay practices designed to tie incentive pay
+to individuals’ performance—is a case in point.Key meta-analyses linking PFP and individual
+performance were published in the mid-/late-1990s (Cameron & Pierce 1994, Jenkins et al.
+1998),andtheconclusionsofmorerecentreviewsandmeta-analyseshavecontinuedtobethe
+same—that PFP can be a highly effective motivator of individual performance, contingent on
+appropriate implementation and fit of PFP to workplace setting, task type, and performance
+outcomemeasured(qualitative,quantitative,behaviorsorresults)(e.g.,Garbers&Konradt2014,
+Gerhartetal.2009,Shaw&Gupta2015).Thatsaid,scholarsalsowarnthatwhenpoorlydesigned
+and/orimplementedinappropriately,PFPcanleadtoundesirableresults.Indeed,theyarguethat
+much of the research that finds negative effects of PFP illustrates this point,as they are often
+studyinginappropriatelydesignedorimplementedsystems(Gerhartetal.2009,Shaw&Gupta
+2015). For example, Shaw & Gupta (2015) highlighted an example of field research where an
+incentiveschemewasimplemented,leadingtoimprovedperformance.Whentheincentiveswere
+152 Fulmer (cid:129)Li
+
+## Page 7
+
+72:45:81
+5202
+rpA
+30
+,uhT
+:nO
+712.661.87.05
+:PI
+)tseug(
+tseuG
+.gro.sweiverlaunna.www
+morf
+dedaolnwoD
+then removed without explanation, productivity dropped; the original authors concluded that
+intrinsicmotivationhadbeenunderminedbytheincentive.ButasShaw&Guptapointedout,
+theissuewasmorelikelywithpoorimplementation(i.e.,theapparentlyarbitraryremovalwithout
+explanationledtofeelingsofinjusticeoranger)thantodemotivatingeffectsoftheincentiveitself.
+A related line of research that has experienced something of a theoretical renaissance is the
+studyofwhetherPFPunderminesintrinsicworkmotivation(e.g.,Deci&Ryan1985;Gerhart&
+Fang2014,2015;Rynesetal.2005)orotherintrinsicallydrivenworkbehaviors,suchascreativity
+(Amabile1983,1996).Althoughearlystudies,manyinvolvingchildren,hintedthatthismightbe
+thecase,therehasneverbeenmuchsolid,consistentevidenceforthisunderminingeffectinre-
+searchinvolvingadults,especiallyinfield/workplacesettings(Jenkinsetal1998,Shaw&Gupta
+2015).Indeed,scholarshavefoundtheoppositetobetrue,withmeta-analyticevidencesupport-
+ingsignificantpositiveimpactsofPFPonintrinsicmotivationandcreativity(Byron&Khazanchi
+2012,Cerasolietal.2014).AnimportantstepforwardinthethinkingregardingwhetherPFPwill
+resultinpositivemotivationaleffectshasbeenfacilitatedbyincreasedattentiontoindividuals’var-
+iedperceptionsofextrinsicrewards(i.e.,PFP),oftendrawingonself-determinationtheory(e.g.,
+Balkinetal.2015,Fang&Gerhart2012,Gerhart&Fang2014,Parkeretal.2019).Individuals
+mayformeitherpositive(i.e.,motivatedtoachievechallenginggoals)ornegative(i.e.,controlled
+tocompletecompulsorygoals)viewsofextrinsicrewards,whichincombinationresultinanet
+positiveornegativeeffectonmotivation.Forexample,Parkeretal.(2019)demonstratedthatin-
+dividualsexperienceautonomousmotivation,feelinglessstressedandmoreprosocial,whenthey
+framePFPasachallenge.Conversely,theyaremorelikelytoexperiencecontrolledmotivation
+andtofeelstressedandlessprosocialwhentheyappraisePFPasahindrance.However,evenif
+PFPisinitiallyviewedascontrolling,organizationscanreverseindividuals’perceptionsofPFPby
+modifyingothercharacteristicsofcompensationpolicies.Balkinetal.(2015)foundthatindivid-
+uals’perceptionsofbeingcontrolledbyPFPcanbemitigatedwhenspecificdesignelementsare
+included(i.e.,theproportionofPFPtototalpayislow,orwhenrewardsarelinkedtogeneralized
+performanceoutcomes)suchthatemployees’senseofautonomycanbepreserved.
+AnotherdirectionforrecentindividualPFPresearchhasbeentogobeyondthestudyoftra-
+ditionalworkplaceoutcomeslikeperformanceandemployeeworkattitudestolookatmoredistal
+and negative effects.For example,in a study of more than 300,000 employees,Dahl & Pierce
+(2020)foundthatPFPadoptionseemstobelinkedtoemployeementalhealthoutcomes,based
+onevidenceofincreasesinanti-depressantandanti-anxietymedicationusage,aswellasincreased
+turnoveramongcertainemployees.InaseparatestudyofUKestablishments,theuseofPFPwas
+associatedwithbetterfinancialperformancethatwaspartiallyoffsetbyindirectnegativeeffects
+duetoelevatedlevelsofinjury;resultsalsosuggestedthattheeffectofPFPonqualitywasnegative
+duetoincreasedriskofinjury(Devaro&Heywood2017).Inauniquestudyofspillovereffects
+ofPFPusefromonegrouptoanother,theuseofPFPformanagersincreasedturnoverofnon-
+managerialemployees,unlessorganizationsalsohadinplaceotherHRpracticesthatencouraged
+managerstotreatemployeeswellandreducestrainontheemploymentrelationship(Pohler&
+Schmidt2016).Organizations’useofPFPhasalsobeentheorizedtopredictincreasedbullying
+duetogreaterworkintensificationandcompetition(e.g.,Samnani&Singh2014).However,re-
+centrelatedempiricalresearchfoundthatemployees experiencingmoreperformance-oriented
+HRsystemsthatincludeperformance-contingentpay(i.e.,high-performanceworksystems)ac-
+tually reported less exposure to bullying (Salin & Notelaers 2020), a finding that seems to be
+explainedbythemediatingeffectofworkers’perceptionsoforganizationaljusticeandreduced
+roleconflictinmoreperformance-orientedhigh-performanceworksystems.
+PFPthatistiedtocollective,ratherthanindividual,outcomeshasalsobeenstudiedforboth
+executiveandnon-executiveemployees.Arecentmeta-analysisofthisresearchfoundasignificant
+www.annualreviews.org (cid:129) Compensation,Benefits,andTotalRewards 153
+
+## Page 8
+
+72:45:81
+5202
+rpA
+30
+,uhT
+:nO
+712.661.87.05
+:PI
+)tseug(
+tseuG
+.gro.sweiverlaunna.www
+morf
+dedaolnwoD
+effectofcollectivePFPoncollectiveoutcomes(overalleffectsizeofρ=0.11).Theauthorsalso
+notedaheavyemphasisonincentiveeffectsinthisresearch,withlessattentiontotheeffectsof
+collectivePFPonemployeeattractionorretention(Nybergetal.2018).
+Individualization in compensation research.Yet another nascent trend in compensation re-
+searchmightbelabeledindividualization,andweincludeinthatcategorytwotypesofresearch.
+Thefirstisresearchthatgoesbeyondstudyingaverageemployeereactionstoagivenpayprac-
+ticeorsystem,insteadfocusingonthedifferingeffectsonindividualemployeeswithinthesame
+paysystemthatariseduetotheinteractionofpaysystemwithpersonalcharacteristicslikeper-
+sonality,gender,standinginagroup,etc.Tobesure,priorcompensationresearchhassometimes
+testedforindividualdifferencecontingenciesinpayeffects,buttypicallyasasecondaryorside
+issue.Newtheoreticaladvancesintheunderstandingofperson-baseddifferencesinpayreactions
+(i.e.,compensation-activationtheory)hasfacilitatedamajorreviewandreinterpretationofprior
+research(Fulmer&Shaw2018).Thislineoftheoreticaldevelopmentfurthercontributestothe
+conversationonhowparticularpaysystems/practicessystematicallyattractordriveoffparticular
+typesofpeople,andtothinkingabouthowcustomizationofpaypracticestofitindividualscould
+foster(orpreclude)aworkforcethatisdiverseonawidearrayofperson-basedcharacteristics.
+This later point is reflected in a few studies on what could be considered a second focus of
+individualizationresearch:individualizedpayarrangements.HRsystemsthatstrategicallydiffer-
+entiate among employee types/groups have been observed and theorized about for some time
+(e.g.,Lepak&Snell1999),ashastheuseofindividualizedworkarrangementsoridiosyncratic
+deals(i-deals)thatdifferentiateamongemployees,usuallyattheirownrequest(Rousseauetal.
+2006).Assuch,itcomesasnosurprisethatwehavebeguntoseegreaterresearchattentionto
+individualized compensation arrangements.Recent research on the prevalence of idiosyncratic
+workarrangementsdocumentstheexistenceoffinanciali-deals(Rosenetal.2013).Inaddition,
+fieldresearchhasbegunconsideringindividualizedarrangements,inthiscase,exceptionsmade
+forcertainemployeestopreventthemfrombeingoverlydemotivatedduetothedownsideofPFP
+(Maltarichetal.2017).Relatedresearchalsoconsidersthereactionsofotheremployeestosuch
+individualexceptions(Abdulsalametal.2021).
+Administrative consideration: pay communication.Finally,we observe a noticeable increase
+in research examining how compensation systems are administered and especially the renewed
+attentiontoorganizations’policiesaboutpaycommunicationandtransparency(Arnold&Fulmer
+2019,Colellaetal.2007,Fulmer&Arnold2020,Fulmer&Chen2014).Paycommunication,of
+course,isimportantforinformingemployeesabouttheirpaysystemsothattheyhaveaccurate
+knowledgeoftheirpayandunderstandwhattodotoincreasetheirpay.However,muchofthe
+current research has been at least as motivated by societal conversations about pay inequality,
+withtransparencyinpaycommunication(orlackthereof)beingseenasafactorthatcanreduceor
+exacerbateinequality.Thislineofresearchdovetailswithresearchonemployees’paycomparisons,
+given that one tool that organizations can wield to control social comparisons about pay is to
+controltheinformationthatitsharesorthatitallowsemployeestosharewithoneanother.
+In general,this research has been organized around two (Marasi & Bennett 2016) or three
+(Arnold & Fulmer 2019) complementary categorizations of pay transparency practices. The
+two-category approach focuses on whose communication is being restricted—organization or
+employee—whereasthethree-categoryapproachalsotakesintoaccountspecificinformationthat
+isbeingrestricted—(a)thesharingofactualpayorsalaryinformationbytheorganization(i.e.,
+payoutcometransparency),(b)thesharingofinformationbytheorganizationabouthowpayis
+determined(i.e.,payprocesstransparency),and(c)thelevelofrestriction(formalorinformal)on
+154 Fulmer (cid:129)Li
+
+## Page 9
+
+72:45:81
+5202
+rpA
+30
+,uhT
+:nO
+712.661.87.05
+:PI
+)tseug(
+tseuG
+.gro.sweiverlaunna.www
+morf
+dedaolnwoD
+whetheremployeesareallowedtocommunicatewithoneanotheraboutpay.Althoughthereis
+researchaimedatassessingtheprevalenceofeachofthesedifferenttypesofpaycommunication
+practicesenactedbyorganizations(e.g.,Arnoldetal.2018),otherresearchattheorganizational
+level,such as the determinants of or organizational outcomes of different policies,is relatively
+sparse. An exception is research by Castilla (2015), which found that an organization’s pay
+transparency policy adoption reduced its prior race- and gender-based pay gaps; one point to
+note about this study, however, was that it focused on a transparency intervention for man-
+agers,not for employees more generally.Much more of the research in recent years has been
+focusedonemployeereactionstodifferenttypesandlevelsoftransparency(e.g.,Bamberger&
+Belogolovsky2010,2017;Cardetal.2012;Day2012;SimanTov-Nachlieli&Bamberger2021)
+andonemployeepreferencesfordifferentlevelsoftransparency(e.g.,Scottetal.2015;Smit&
+Montag-Smit2018,2019).
+Retirement,Health,andWork-LifeBenefits
+Intheirreviewoftheacademicliteratureonemployeebenefits,Dulebohnetal.(2009)observed
+that “when reviewing the human resource management (HRM) literature,there is a surprising
+generalabsenceofattentiongiventoemployeebenefits”(p.86).Sincethen,thevolumeofaca-
+demicresearchonwork-lifebenefitsandonsomehealth-relatedbenefitshasgrown,butresearch
+on retirement benefits has continued to be thin.Also notable is that the emphasis of research
+overthepastapproximately15yearshasbeenonemployeereactionstoandoutcomesofben-
+efitsprograms,withmuchlesstheorydevelopmentandempiricalresearchattheorganizational
+level.Althoughmanypractitionersandacademicscholarstakeforgrantedthatemployeebenefits
+choicescanhavesignificantsortingandretentioneffectsonworkers,inturnaffectingfirmperfor-
+manceandcompetitiveadvantage,verylittlerigorousresearchhasactuallyexaminedtheroleof
+strategicconsiderationsinthedesignofemployeebenefitssystems(Murray&Dulebohn2021).
+Onanencouragingnote,therehavebeenconcertedeffortstoencouragemorestrategicbenefits
+research,includingarecentspecialissueinTheJournalofTotalRewards(Fickess2021),abridge
+journalwithbothanacademicandpractitioneraudienceinterestedincompensationandbenefits.
+Inwhatfollows,wehighlightseveralofthemajorcurrentsinresearchoverthepastapproximately
+15yearsonretirement,health,andwork-lifebenefits.
+Retirementbenefits.Earlierresearchonretirementbenefitsoftenfocusedonemployees’satis-
+factionwithbenefitsandemployeedecision-makingaboutbenefits,suchasworkerpreferences
+fortypesofretirementplans,whethertheyaresavingadequatelyforretirement,andindividuals’
+investmentchoiceswithinplansthatofferemployeediscretion(e.g.,Dulebohn2002;Dulebohn
+et al. 2000, 2009; Mitchell & Moore 1998). Although sparse, some recent retirement benefits
+research has taken more of a strategic lens, examining organizational outcomes. For example,
+Werneretal.(2016)foundthatfirmsinthelong-haultruckingindustrythatofferedsupplemen-
+talretirementplanshadlowerpropertyandliabilityinsurancepremiumcosts,aproxyforsafer
+drivingrecords.Althoughtheywerenotable totestthespecificmechanisms directly,theirex-
+pectationwasthattheseretirementplansservedasortingfunction,withfirmsofferingsuchplans
+more likely to attract higher-quality and/or less risk-prone employees,who would in turn also
+presumablybesaferdrivers.
+Health-andwell-being-relatedbenefits.Whenitcomestohealth-relatedbenefits,oneinter-
+estingdirectiontakeninrecentresearchinvolvesexaminingemployees’reactionstotheadmin-
+istrationofhealthcarebenefits.Inanovelstudyofemployeeinteractionswithhealthinsurance
+administrators,Pfeffer et al.(2020) found that time spent on the phone with health insurance
+www.annualreviews.org (cid:129) Compensation,Benefits,andTotalRewards 155
+
+## Page 10
+
+72:45:81
+5202
+rpA
+30
+,uhT
+:nO
+712.661.87.05
+:PI
+)tseug(
+tseuG
+.gro.sweiverlaunna.www
+morf
+dedaolnwoD
+representatives was associated with lower satisfaction and engagement and with more negative
+outcomeslikestress,absenteeism,andburnout.Onthebasisoftheirresults,theycalculatedthat
+“thetotaldirectcostofworkers’timespentwithinsuranceadministrationwas$21.6billion...the
+costoflostworkdayswasabout$26.4billionandtheeffectsoflowerjobsatisfactionweestimated
+tobemorethan$95.6billion”(Pfefferetal.2020,p.333).
+Anothermajorthemeofresearchhasbeenattentiontoworkplacemindfulnessinterventions
+aimed at reducing stress and improving other mental health outcomes. Notably, much of this
+researchhasnotnecessarilybeenpublishedinjournalsthatusuallypublishresearchoncompen-
+sationorotheremployer-providedbenefits,butratherinjournalsinrelatedareassuchashealth
+or clinical psychology.For example,in the mid-2000s,a pair of meta-analyses in theJournal of
+HealthPsychologyexaminedorganizationalinterventionsdesignedtopreventoralleviatestressand
+tomanageoverallwellness.Richardson&Rothstein(2008)conductedameta-analysisofexperi-
+mentalinterventionstudieswithstressoutcomes,1updatingapriormeta-analysisthathadfound
+generallypositiveeffectsacrossawiderrangeofstudytypes(vanderKlinketal.2001).Theirmeta-
+analysisfoundthatstress-managementinterventionsfocusedoncognitivebehavioralskillstrain-
+ing (e.g.,noticing and changing one’s appraisal of stressful workplace situations and responses)
+weremoreeffectiveoverallthanothersecondarystressinterventionssuchasrelaxation(including
+meditation), multimodal interventions combining several components, or alternative interven-
+tionsincludingexerciseprograms,journaling,andbiofeedbacktraining;theirresultsfurthersug-
+gestedmorepositiveeffectsforsingleinterventionsthanmultimodalinterventions.Richardson
+&Rothsteinfoundnoeffectonstressoutcomesfororganizationalinterventionssuchassupport
+groupsandincreasingworkers’decision-makingauthority,consistentwithvanderKlinketal.’s
+meta-analysis.Parks&Steelman(2008)focusedontwotypesoforganizationallysponsoredwell-
+nessprograms—fitness-onlyprogramsandcomprehensiveprogramsthatcombinedfitnesswith
+anotherelementlikenutritionorstressreduction—andtwowork-relatedemployeeoutcomes—
+absenteeismandjobsatisfaction.Theempiricalresultsindicatedpositiveeffectsonabsenteeism
+reductionandonjobsatisfactionforparticipationinawellnessprogram,butthetypeofprogram
+wasnotamoderator.
+Morerecently,considerableresearchattentionhasbeenpaidtounpackingwhatpriorresearch
+bundledtogetherasrelaxationinterventions,withsystematicreviewsandmeta-analysessumma-
+rizingaccumulatingresearchoninterventionsrelatedtomeditationandmindfulness.Somehave
+zeroedinonspecificoccupations.Forexample,Lomasetal.(2018)systematicallyreviewedmind-
+fulness studies (e.g.,mindfulness-based stress reduction,mindful communication,occupational
+mindfulnesstraining)conductedamonghealthcareprofessionals.Amongthesubsetofinterven-
+tionstudiestheyreviewed,mostfoundgenerallypositiveeffectsonoutcomesofstress,anxiety,
+and depression and other well-being measures,as well as measures more closely related to job
+performancesuchascompassion/empathy,self-efficacy,teamfunctioning,etc.,butmoreequivo-
+calresultswerefoundforburnout.Theauthorsalsonoted,however,thatresearchqualityvaried
+among the studies examined and called for more rigorous research. Bartlett et al.(2019) con-
+ductedameta-analyticreviewof23randomizedcontrolledtrialsofworkplacemindfulness-based
+programs, including moderator analysis by intervention characteristics. Situating this research
+withincommonhealthpsychologyframeworksofneurobiologicalstressreduction,jobdemands-
+resourcestheory,andcoping,theyfoundaconsistentpositiveeffectonoverallstressreduction,de-
+pression,anxiety,andwell-being,withlittlesignificanteffectonburnoutoronnarrowerjobstress
+1MoststudiesintheRichardson&Rothsteinmeta-analysisexaminedpsychologicalstressoutcomes,with
+fewerincludingmeasuresofphysiologicalstressororganizationaloutcomeslikeproductivityorabsenteeism.
+156 Fulmer (cid:129)Li
+
+## Page 11
+
+72:45:81
+5202
+rpA
+30
+,uhT
+:nO
+712.661.87.05
+:PI
+)tseug(
+tseuG
+.gro.sweiverlaunna.www
+morf
+dedaolnwoD
+measures.Moderatoranalysisdidnotrevealsignificanteffectsofinterventionmodeorcontent
+orofworkplacesamplecharacteristics.Theyalsonotedthatstudiesreportingfollow-upresults
+(post-intervention)typicallyshowedlastingresultsforweeksormonthsaftertheintervention.
+Inatwistonthisresearch,scholarshavealsoexaminedmeditationandmindfulnessinterven-
+tionstargetedatmanagersorleaders.Donaldson-Feilderetal.(2019),inasmallsystematicreview
+of19studies,foundpromisingeffectsforleaderoutcomessuchasincreasedmindfulness,stress
+reduction,anxiety reduction,and some leadership measures,although they were unable to as-
+certain the degree to which leaders’ mindfulness was the mechanism that mediated the effects
+of interventions on other outcomes.They also noted that there were no studies that examined
+spillovereffectsonleaders’subordinatesdespitetheoreticalliteraturesuggestingtheremightbe
+sucheffects.
+Althoughseveralofthesemeta-analysescommentedonthevariablequalityofresearchstudies
+of mindfulness and meditation,there have been excellent recent examples of well-designed re-
+searchonothertypesofhealth-relatedprograms.OneexampleisresearchbyGubleretal.(2018)
+that investigated the effects of a corporate wellness program on objective outcomes including
+workerhealthandproductivity.Astheauthorsnoted,manypriorstudieslikethishadfocusedon
+cost savings rather than on top-line improvements leading to increased revenue.Theoretically
+groundingtheirresearchinargumentsthatsuchwellnessprogramsincreasebothsatisfactionand
+reciprocityaswellasfitnessandcapabilityforwork,theydocumentedproductivityimprovements
+linkedtothehealthimprovementsachievedviathisprogram—improvementsthatwerepartic-
+ularlystrongforworkersinpoorerhealthtobeginwith.Theyalsoestimatedalargereturnon
+investmentfortheorganization,eventhoughallemployeesdidnotparticipateintheprogram,
+andsomeleftthecompanybeforeproductivitygainscouldberealized.
+Work-lifebenefits.Turningtowork-lifebenefits,therehasbeenasteadystreamofresearchon
+variouspracticesandpoliciesoverthepastseveralyears.Aswithothertypesofbenefitsresearch,
+most studies have focused on employee reactions and behaviors in response to these benefits,
+ratherthanontheirprevalenceinorganizationsoronstrategic,organization-levelconsiderations
+(notableexamplesofexceptionspre-datingourreviewincludestudiesbyKonrad&Mangel2000,
+Osterman1995,andMillikenetal.1998).Severaldifferentconstructshavebeenstudiedthatfall
+undertheumbrellaofwork-lifebenefits,withthebroadcategorizationofwork-familysupports
+(WFS),definedas“discretionaryandformalorganizationalpolicies,services,andbenefitsaimed
+atreducingemployees’work-familyconflictand/orsupportingtheirfamilyrolesoutsideofthe
+workplace” (Masterson et al. 2021, p. 118), largely overlapping with the conceptual terrain of
+work-lifebenefits.Conveniently,a very recent systematic review of WFS provides an excellent
+overviewofstudiessince2008thatexaminedoutcomesrelatedtotheavailabilityoruseofpolicies
+labeled as work-family,work-life,and family-friendly.Although this review specifically focused
+on better understanding the subset of research (114 studies) that has found positive effects of
+WFSonindividualandorganizationaloutcomes,theauthorsdocommentonotherstudieswith
+mixedornonsignificantfindings.Mastersonetal.(2021)notethatarangeofsimilartheoretical
+perspectivesincludingconservationofresources,jobdemands-resources,socialexchange,bound-
+ary,self-interest,identity,and signaling theories have dominated the employee-level studies in
+thisliterature,whereasfirm-levelstudieshavebeentypicallygroundedincontingencytheoryand
+context-emergentturnovertheory.Althoughtheyidentifiedmorethan60differentoutcomesthat
+havebeenexaminedinthisliterature,theynotedthatthevastmajorityofstudieshavefocusedon
+employeework-familyoutcomes(likework-familyconflict)oronjobattitudes.Theirsummaryof
+studieshighlightedcommonlyexaminedindividualdifferencemoderators(gender,maritalstatus,
+parentalstatus)aswellassomekeymediatorsofpositiveWFS-outcomesrelationships,namely
+www.annualreviews.org (cid:129) Compensation,Benefits,andTotalRewards 157
+
+## Page 12
+
+72:45:81
+5202
+rpA
+30
+,uhT
+:nO
+712.661.87.05
+:PI
+)tseug(
+tseuG
+.gro.sweiverlaunna.www
+morf
+dedaolnwoD
+work-familyconflict,exchange-relatedvariables(e.g.,positiveorganizationalsupport,supervisor
+supportandaffectivecommitment),andjobautonomy.Theyalsonotedthat,beyondthesubset
+ofstudiesreportingpositiverelationships,anontrivialnumberofstudieshavereportedmixedor
+nonsignificanteffectsofWFS.Acrossstudies,therehavealsobeenmixedeffectsforgenderasa
+moderatoroftheWFS-outcomesrelationshipandmixedorequivocalresultsfororganizational
+outcomessuchasproductivityandprofitability(e.g.,Bloometal.2011,Lee&DeVoe2012).
+Otherreviewsandmeta-analyses,manyofwhichoverlapwiththemorerecentMastersonetal.
+(2021)review,havefocusedonspecificaspectsofwork-familybenefits.ExamplesincludeBal&
+Jansen’s (2016) review of the literature on workplace flexibility from the perspective of how it
+hasbeenconceptualizedacrossthelifespan,withparticularattentiontoolderworkers.Gajendran
+&Harrison(2007)meta-analyzedtheresearchuptothattimeontelecommuting,andameta-
+analysis by Allen et al.(2013) examined different forms of flexibility (time versus location) and
+differentiatedbetweenavailabilityofflexibilitypracticesandtheiractualuseinsummarizingprior
+researchonemployeeoutcomesofflexibleworkarrangements.
+ResearchonTotalRewards?
+Asnotedintheintroductionanddemonstratedinthereviewthusfar,compensationandbenefits
+havenotoftenbeenstudiedtogether,eitherhistoricallyormorerecently.Consequently,weknow
+littleaboutantecedentsoforganizations’decisionsregardingtheiroveralltotalrewardssystemor
+practices,oraboutorganizationalconsequencesoftotalrewardssystems.Ourknowledgeislargely
+limitedtoafewstudiesthatincludemultipleotherjobcharacteristicsalongwithpaythatcanbe
+foundintheapplicantattractionliterature,wherescholarsinvestigatewhatfeaturesoforganiza-
+tionsareattractivetowould-beindividualemployees(e.g.,Cable&Judge1994,Hollenbecketal.
+1987),as well as in studies of motivation and job attitudes in incumbent workers (e.g.,Igalens
+&Roussel1999).Meta-analyticevidencesuggeststhatbenefitsareastrongerindividualpredic-
+tor(r =0.31)ofapplicantattractionthancompensation/pay/salary(r =0.23),with
+corrected corrected
+thecombination(i.e.,totalcompensation)correlatedwithattractionatr =0.29(Uggerslev
+corrected
+etal.2012).Becausemostapplicantattractionstudiesestimateseparaterelativeeffectsofpaypoli-
+ciesandbenefitspolicies(orofsatisfactionwiththesepolicies),anddonottypicallyfocusonthe
+question of whether employees view them as a total rewards bundle or whether they trade off
+one(e.g.,highpay)fortheother(e.g.,workflexibility),theyarearguablynotdirectlystudying
+employeereactionstototalrewards.
+Thatsaid,afewrecentstudieshavebeguntodoso.Tetricketal.(2010)examinedbothseparate
+andinteractiveeffectsofsalarylevel,healthinsurancecost-sharing,retirementplan,andannual
+leaveonjobchoice.Theyfoundseparateeffectsforallfouronorganizationalattractiveness,but
+did not find interactive effects among them.The lack of interactions suggests that employees’
+views of salary as an attractor were not contingent on other benefits offered, consistent with
+the view that they were not seen as substitutes. This contrasts with other research that finds
+thatprospectiveemployeesdodifferintheirpreferencesfordifferentcombinationsofpayand
+benefits(e.g.,Eriksson&Kristensen2014).Moreresearchisneededtobetterunderstandboth
+organizations’ decisions to offer total rewards and the perceptions and preferences of people
+receivingthem.
+THEMESANDFUTURERESEARCHDIRECTIONS
+Ourreviewpointstoseveralexcitingopportunitiesforfutureresearch(seeTable 1forasum-
+mary).Oneemergingthemefromourbirds-eyereviewistheheightenedattentiontoimplemen-
+tationandadministrationofbothcompensationandbenefitsandnotsimplytotheorganization’s
+158 Fulmer (cid:129)Li
+
+## Page 13
+
+72:45:81
+5202
+rpA
+30
+,uhT
+:nO
+712.661.87.05
+:PI
+)tseug(
+tseuG
+.gro.sweiverlaunna.www
+morf
+dedaolnwoD
+Table1 Suggestionsforfutureresearch
+Opportunitiesforfuture
+research Suggesteddirections
+Implementationandadministration Greaterdirecttheoreticalandempiricalattentiontocompensation,benefits,andtotal
+ofcompensationandbenefits rewardsimplementationconsiderations
+Controlforimplementationvariablesinstudiesoftheeffectsofcompensation,benefits,and
+totalrewardspracticesandsystems
+Sortingandtotalrewards Considersortingeffects(i.e.,recruitmentandturnoverofemployees)ofthestrategic
+implementationoforganizationaltotalrewardspracticesandsystems
+Considerevolutionoftotalrewardssystemstomatchthecurrentoranticipatedfuture
+workforce
+Variabilityanddispersionofpay Increaseattentiontothedifferentialavailabilityinpaycomponentsotherthanbasepayand
+andbenefitsresultingfrom todifferentialavailabilityofbenefitstodifferentemployees(e.g.,duetohiredate,union
+multiplerewarddecisions membership,jobtype)
+Considerbetween-groupdifferencesinpayandbenefits(e.g.,gender-orrace-based
+pay/benefit/totalrewardsgaps)
+Developmethodsestimatingthefinancialvalueofbenefitstobetterquantifygapsin
+benefits/totalrewards
+Individualizedtotalrewards Examinethedeterminantsoforganizationalofferingsofcustomizedpayandbenefits(i.e.,
+practices financiali-deals,individualizedbenefits)
+Examineemployees’reactionstototalrewardsandtoindividualizedtotalrewardsofferings
+andhowthosereactionsarecontingentonindividualcharacteristicssuchasdemographics
+andpersonality
+Contingentandgigworkandtotal Examinehowcontingentandgigworkersself-assembletheirtotalrewards,including
+rewards benefitsthatarenormallyemployer-provided
+Examinehowpeoplewhotransitionfromemploymenttoself-employmentasgigor
+contingentworkersexperiencechangesintheirhealthandpreparationforretirementasa
+resultofshiftingawayfromemployer-provided-toself-provided-totalrewards
+intendedpracticesorchosenplandesign.Examplesofnewerworkinthisveinincludetheresearch
+onemployeereactionstohealthinsurancebenefitshasslesaswellastopaycommunicationand
+transparency(e.g.,Bamberger&Belogolovsky2010,2017;Cardetal.2012;Day2012;Pfeffer
+etal.2020).Manyscholarshavepreviouslycautionedthatthefailuretofindexpectedeffectsof
+particular types of pay systems or practices may be due to failures in the implementation and
+communicationofthosepractices,ratherthaninthepracticesthemselves(Fulmer&Chen2014,
+Gerhartetal.2009,Shaw&Gupta2015).Ifwereallybelievethiscouldbetrue,thenweneed
+tonotonlypaygreaterattentiontotheoryandempiricalresearchonimplementationofpayand
+benefits,butweshouldprobablyalsobeincludingimplementationvariableslikecommunication
+more explicitly,at least as control variables,in empirical studies of compensation,benefits,and
+totalrewards.
+Asecondthemethatpointstoopportunitiesforfutureinquiry,andonealsonotedbyother
+researchers recently (e.g.,Nyberg etal 2018),is that organizational compensation and benefits
+research has been dominated by studies that focus on how pay and benefits motivate individu-
+als’ efforts in the workplace,that is,to incentive effects such as productivity and performance.
+Withafewnotableexceptions(e.g.,Trevoretal.2012)therehasbeenfarlessattentiontosorting
+effectslikerecruitmentandturnover.Withoutthiskindofresearch,weareunabletofullyun-
+derstandhowtotalrewardsystemssystematicallyattractandtransformthetalentsofparticular
+types of employees into valuable human capital resources necessary for organizational perfor-
+manceandcompetitiveadvantageoverthelongterm(Ployhart&Moliterno2011,Nybergetal.
+www.annualreviews.org (cid:129) Compensation,Benefits,andTotalRewards 159
+
+## Page 14
+
+72:45:81
+5202
+rpA
+30
+,uhT
+:nO
+712.661.87.05
+:PI
+)tseug(
+tseuG
+.gro.sweiverlaunna.www
+morf
+dedaolnwoD
+2014).Westronglyencouragemoreresearchonstrategicconsiderationsinorganizations’total
+rewardchoicescombinedwithgreaterattentiontothesortingeffectsofthesechoices.Suchre-
+searchcouldtaketwopaths.First,asmostofthelimitedresearchinthisveinhasdonetodate,
+scholarscouldconsidertheeffectsofagiventotalrewardssystemonrecruitmentandretention
+intherelativelyshortterm.Second,amorenovelandlong-termapproachmightbetoexamine
+howorganizationswithworkforcestheywishtoretain(e.g.,highlyskilled,long-tenuredworkers)
+evolvetheirtotalrewardssystemstoreflectthechangingpreferencesandneedsofboththema-
+turingolderworkerstheywanttoretainandoftheyoungerworkerstheyneedtoeventuallyhire
+andintegrateinordertomaintainastableandhigh-qualityworkforce.
+Third,wenoteashiftovertimefromsimplystudyingcompensationandbenefitspracticesto
+studyingtheconsequentstructureofindividualpayratesanddifferencescreatedbythoseprac-
+tices,i.e.,paydispersion,whichmayormaynothavebeenexplicitlydesignedorintended.Al-
+thoughorganizationsdoformallysetpaygradesandrangestodifferentiateamongjobsatdiffer-
+entlevels(Gerhart&Newman2020),thisformalstructureusuallypertainstobasesalary,which
+isonlypartofwhatcomprisestotalemployeecompensation,andrarelyfullyreflectsdifferencesin
+totalrewards,payotherthanbasepay,orbenefits.Paydispersionresultsfromtheaccumulationof
+paydecisionsmadebyanorganizationaboutindividualemployeesovertime,includingjob-based
+paystructure,performance-differentiatedpayraises(e.g.,meritpay),seniorityandcost-of-living
+raises,andindividuallynegotiatedpayorraises(e.g.,retentionraises).Morespecifictypesofgroup
+differences,suchasgender-andrace-basedpaygapsaresimilarlytheresultofanaccumulation
+ofmanydecisions,fromtheinitialnegotiatedsalarytoyearsofsubsequentannualraisesandpro-
+motionadjustmentsthatultimatelyresultinwagelevelsfavoringonegroupoveranother.
+If we extend this logic, it is not hard to see how differential availability of benefits among
+membersofaworkgroup(e.g.,duetodifferingstartdate,unionmembership,orjobtypeaffecting
+eligibility)togetherwithdifferentavailabilityandutilizationofinformalindividuallynegotiated
+deals—ori-deals—astheyrelatetobenefitssuchasflexibleworkarrangementsorfinanciali-deals
+effectivelycreatesbenefitsdispersion.Ifbenefitsavailability/utilizationandi-dealsnegotiationare
+systematicallyrelatedtoemployees’genderorrace[e.g.,individualsinsomesubgroupsmaybe
+morelikelytorequestcertainbenefitsori-dealsand/ormaybemoreeffectiveinreceivingthem
+whentheyrequestthem(see,e.g.,Bowlesetal.2019,Ho&Tekleab2016)],thiscouldcontributeto
+undesirablebetween-groupdifferencesaswell(e.g.,gender-orrace-basedbenefitgaps).Together,
+thecombinedeffectofpayandbenefitsdispersionthentheoreticallycreatesdispersionintotal
+rewardsaswellasthepotentialfortotalrewardsgapsfavoringdifferentgroups.Althoughthere
+is a solid foundation of research documenting the gender wage gap,we do not know much at
+allaboutgender-(orotherdemographic-group-based)benefitsgapsoraboutthecorresponding
+totalrewardsgap.Oneobstacleinthisresearchisthatsomebenefits(e.g.,flexibleschedule)are
+difficulttoestimateavalueforinfinancialtermstouseincomputationsofdispersionorgaps.To
+nudgescholarstothinkcreativelyabouthowtheymighttacklethisimportanttopic,wehighlight
+auniquestudybyHallocketal.(2014)wheretheauthorsgeneratedanestimatedvalueforbenefits
+andincludeditwithpaytocreatewhattheycalledtotalcompensation(wewouldlikelycallittotal
+rewards)tocomparethegapfordisabledandnon-disabledworkers.
+Another complicating consideration is that utilization of some types of benefits (e.g.,work-
+family flexibility) is perceived by supervisors/managers as a lack of commitment to the organi-
+zation that reduces the size of merit raises and/or slows the frequency of promotions and pro-
+motional raises (Glass 2004,Hammer et al.2005,Kossek et al.2017,Leslie et al.2012,Pailhé
+& Solaz 2019,Weeden 2005).Systematic differences in choice or utilization of benefits could
+indirectlycontributetogenderpaygapsandtogendertotalrewardsgapsamongindividualsin
+certaingroups(e.g.,women,parents)relativetoothers(e.g.,men,non-parents).Comparingpay
+160 Fulmer (cid:129)Li
+
+## Page 15
+
+72:45:81
+5202
+rpA
+30
+,uhT
+:nO
+712.661.87.05
+:PI
+)tseug(
+tseuG
+.gro.sweiverlaunna.www
+morf
+dedaolnwoD
+gapsandtotalrewardsgapsinthesameresearchcouldshedlightonimportantquestionssuchas,
+forexample,whetherwomensystematicallyreceivelesspayandlessvaluablebenefits(resulting
+insimilargenderpaygapsandgendertotalrewardsgaps),orreceivelesspay(orforegopay),but
+receive(orchoose)higherlevelsofbenefits,suchthatwemightexpecttoseeanarrowergender
+totalrewardsgapthangenderpaygap.
+A fourth theme subtly weaving its way through recent research is the shift away from one-
+size-fits-all systems and from a focus solely on the group mean response to a single system or
+practice, toward greater attention to the individual. Broadly construed, this encompasses both
+(a)whatorganizationsoffersuchascustomizedpayincludingindividuallynegotiatedcontracts
+andfinanciali-dealsrequestedbyemployees(Rosenetal.2013)andformalorinformalcustomiz-
+ableorindividualizedbenefits(Fulmeretal.2021),aswellas(b)howindividualemployeesreact
+nonuniformlytoorperceivedifferencesinthevalueofagivenorganizationalpayorbenefitsof-
+fering,contingentontheirpersonalcharacteristics(e.g.,Fulmer&Shaw2018).Theformermay
+offer a solution to the latter; that is,customized or individualized total rewards offerings may
+helporganizationsaddressheterogeneityinemployeeneedsandpreferences,therebyoptimizing
+incentiveeffectsacrossadiverseworkforceandmodulatingsorting.Totalrewardscustomization
+mayalsopotentiallyreduceintergenerationalconflictintheworkplace.Denckeretal.(2007)have
+arguedthatdemographicshiftsintheUSlaborforcecoupledwithrisingcostsofsomebenefitswill
+haveimportanteffects,dilutingtheattractivenessandmotivationaleffectivenessofstandardone-
+size-fits-all employee benefits programs in increasingly age-heterogeneous organizations.This
+viewimpliesthatovertime,attentiontobothbenefitslevels/contentandhowbenefitsareimple-
+mentedwillbeincreasinglyimportantfororganizations(Dulebohnetal.2009)andwill,ofcourse,
+inturnalsoinfluencetotalrewards.Inadditiontodemographicvariablessuchasage/generation
+andgender(e.g.,Eriksson&Kristensen2014),wealsoencourageattentiontootherperson-based
+differencesinpreferencesforandreactionstobenefitsandtooveralltotalrewards,extendingthe
+logicofcompensation-activationtheory(Fulmer&Shaw2018)tothebenefitsandtotalrewards
+context.Forexample,personalitytraits(e.g.,opennesstoexperience,riskaversion)mayinfluence
+the degree to which people prefer or are attracted to organizations that offer certain types of
+health-wellnessbenefits(e.g.,mindfulness/meditationbenefits)ormayinfluenceapplicants’pref-
+erencesforparticularconfigurationsoftotalrewardspackages.Aswehavenoted,recenttheoret-
+icaldevelopmentsandempiricalresearchincompensationandinbenefitsareseparatelypointing
+in the direction of individualization and customization.We expect that there will be especially
+usefulcomplementarityandutilityinstudyingthemtogetherascustomizable/individualizedtotal
+rewards.
+Additional suggestions for future research relate to contingent and gig workers,a group on
+which we did not see much focus in our review of pay, benefits, or total rewards. Contingent
+workersincludethosewhohavetemporaryjobsorjobstheydonotexpecttolast(Kosanovich
+2018),andalthoughtherearemanydefinitionsofgigwork,one(narrow)definitionofatypical
+gigworkerisanindividualhiredforaparticulartasktoworkondemand,withtheworkoftenme-
+diatedthroughacentraldigitalplatform/marketplace(e.g.,anUberdriverorInstacartshopper).
+In2017,therewere5.9millioncontingentworkersand1.6millionworkersdescribingthemselves
+aselectronicallymediatedworkers(BureauofLaborStatistics2017,Kosanovich2018).Giventhe
+tendencyofcompensationandbenefitsresearcherstofocusontraditionalworkplacecontextsand
+to focus more on the employer as provider of total rewards,the lack of research on this topic
+isperhapsunsurprising.Asindependentcontractors/self-employedworkers,gigworkersarenot
+typicallyeligibleforemployer-providedbenefitsfromtheirgigemployment,noraremostcontin-
+gentworkers,duetothetemporarynatureoftheiremployment.Inessence,unlesstheyarealso
+employedelsewherewithemployer-providedbenefitsoraremarriedandeligibletobecovered
+www.annualreviews.org (cid:129) Compensation,Benefits,andTotalRewards 161
+
+## Page 16
+
+72:45:81
+5202
+rpA
+30
+,uhT
+:nO
+712.661.87.05
+:PI
+)tseug(
+tseuG
+.gro.sweiverlaunna.www
+morf
+dedaolnwoD
+underaspouse’sbenefits,theseworkersusuallyareresponsibleforassemblingtheirown“total
+rewards,”includinghealthandretirementbenefitsandwork-lifebalance.
+One of the purported advantages of such work is the flexibility in work schedule,so in this
+sensetheworkprovidesitsownwork-lifeflexibility.However,assomescholarshavenoted,“[g]ig
+workispromotedasofferingflexibilityandautonomy...butitisperformedwithoutthesafety
+netsthataremorecommoninformalemployment.Itcanbringunpredictabilityinbothwork-
+timeandincome,workintensificationandfinancialhardshipthatallimpactwork–lifebalance”
+(Warren2021,p.522).
+Amongthesafetynetsforegonebymanyoftheseworkersareemployer-providedhealthand
+retirement benefits.An important research question we know relatively little about is how gig
+workersandothercontingentworkersoperatingasindependentcontractorscobbletogethercov-
+erageforhealthandwellnessandplanfortheirretirement.Recentresearchusingpanelsurvey
+dataintheUnitedStatessuggeststhatpeoplewhotransitionfrombeingemployedtobeingself-
+employed(acategorywhichincludesmanygigworkers)aremuchlesslikelytohavehealthinsur-
+anceandmorelikelytodelaymedicalcareinthenextyearthanthosewhoremainedemployed,
+despite similar income levels between people who remained employed and those who became
+self-employed(Berkowitzetal.2021).Itisunclearwhetherthissituationpersistsovertimeasself-
+employedpeoplebecomeestablishedinthoseroles,sofurtherresearchisdefinitelyneededonthis
+question.BureauofLaborStatisticsresearchhasfoundthatalthough75%ofcontingentworkers
+hadhealthinsurancefromsomesource,theywerehalfaslikelyaspermanentworkerstohaveit
+fromanemployer;similarly,contingentworkersweresignificantlylesslikelytohaveaccesstoand
+participateinanemployer-sponsoredretirementplan(Kosanovich2018).Forsuchworkers,there
+arealternativessuchasbeingcoveredbyanemployedspouse’s/partner’shealthinsurance,orpur-
+chasingtheirownhealthinsurancethroughgovernment-sponsoredpublicinsurancemarketplaces
+orprofessionalorganizations,andself-employedindividualscansetupindividualretirementac-
+counts on their own.But many of these alternatives can be more expensive,less generous,and
+morelogisticallychallengingtoimplementforself-employedworkers.Atpresent,thissituation
+disadvantagescontingent/self-employed/gigworkersbyreducingtheoveralltotalrewardsthey
+arelikelytobeabletoderivefromwork(andpotentiallyaffectingtheirhealthandabilitytosave
+forretirement,whichhasimplicationslaterforbroadersociety).Theincreaseinthenumberof
+contingentworkersoverthepastfewyearshasledsomeresearcherstoproposeretirementplan
+reformsthatde-couplebenefitsmorefromtraditionalemploymentandexpandtheiravailability,
+withsomestatesalreadytakingstepsinthisdirection(Galeetal.2020).Weencouragegreater
+attentiontonon-employer-providedtotalrewardsinfutureresearchasthingsdevelopinthisarea.
+IMPLICATIONSFORORGANIZATIONALPRACTICE
+Akeyinsightofourreviewisthatmanagers,likeresearchers,wouldalsobewisetopayasmuchat-
+tentiontohowtotalrewardsareadministeredonaday-to-daybasisastohowtheyaredesignedin
+general.Twooften-overlookedadministrativemechanisms—theroleofmanagersinimplement-
+ing total rewards and the communication policies related to total rewards—are critical for the
+success of an otherwise well-thought-out system.Academic research and practitioner-oriented
+scholarship have begun to focus on ways in which managers’ implementation of HR practices
+(whichwouldincludeaspectsoftotalrewardsoverwhichtheyhavediscretion)deviatesfromor
+addstowhatisintendedbytheorganization(e.g.,Kehoe&Han2020,Fulmeretal.2021).This
+maynotbetotallyundesirableifitcreatespersonalizedbenefitsthatmeetemployees’needsin
+waysthattheformalHRsystemdoesnot,suchaswhenamanagerallowsanemployeetohavea
+flexibilityi-dealrelatedtohis/herdailyworkhours,forexample.But,tothedegreethatmanagers’
+162 Fulmer (cid:129)Li
+
+## Page 17
+
+72:45:81
+5202
+rpA
+30
+,uhT
+:nO
+712.661.87.05
+:PI
+)tseug(
+tseuG
+.gro.sweiverlaunna.www
+morf
+dedaolnwoD
+flexibilityi-dealrelatedtohis/herdailyworkhours,forexample.But,tothedegreethatmanagers’
+informalpracticesintheirworkgroupsdeviatefromtheorganization’sstrategicintentforitsfor-
+maltotalrewardsprogram,orwhenmanagersarebiasedinthedegreetowhichtheyallowsome
+employees to have flexibility but not other similarly situated employees,these implementation
+deviationscancreateproblemsbyconfusingemployeesabouttheorganization’sstrategicgoals
+andcreatingperceptionsofunfairness.Havingastrategicallyorientedimplementationplanthat
+isalignedwiththebroadertotalrewardsobjectives,andspellsout,forexample,thetypesofi-deals
+thatcanbegrantedandanapprovalorreviewprocessforthem,couldprovideusefulguidancefor
+managersastheyrespondtoemployee-requestedexceptionsoradditionstostandardHRpolicies.
+Similarly,organizations’communicationsaboutpayandabouttheprocessesbywhichpayis
+determinedaffectnotonlyemployees’knowledgelevelbutalsotheirperceptionsthatthosepro-
+cessesarefair,aswellastheirtrustintheorganization(Day2012,Montag-Smit&Smit2021),
+findings that we expect would also extend to communication about benefits and total rewards.
+And,inpractice,communicationabouttheprocessesbywhichkeycomponentsoftotalrewards
+(payandbenefits)aredeterminedismorecommonthancommunicationaboutdetailedoutcome
+informationsuchaspaylevels(Arnoldetal.2018),althoughthelatterisbecomingmorecommon.
+Inlightofemergingresearchthatsuggeststhatnotallemployeesdesirespecificinformationabout
+others’paylevels(e.g.,Scottetal2015,Smit&Montag-Smit2019),weurgemanagerstothink
+carefullyaboutwhatthefocusofpaycommunicationshouldbeintheirownorganizations.Also,
+giventhatlinemanagersareamongthetopsourcesfromwhomemployeesreceiveinformation,
+ensuringthatmanagersareknowledgeableandabletoexplaintheprocessesbywhichtotalrewards
+aredeterminedisacriticalaspectofthiscommunicationprocess(Fulmer&Arnold2020).
+CONCLUSION
+Intacklinganarticlereviewingthevastcompensationandbenefitsliterature,wewereunderno
+illusionsthatinthespaceallottedwewouldbeabletobecompletelycomprehensive.Whatwe
+haveaimedforinsteadisamoremodestambition:topointoutafewoftheinterestinglandmarks
+in the recent compensation,benefits,and total rewards landscape as we see them through our
+uniquebird’s-eyeperspective.Wehopethatthisreviewsparksfreshideasandrenewedattention
+fromscholarsandhelpstobegintoaddresscallsformorecompensationandbenefits[anddarewe
+sayit,totalrewards(!)]researchthatalignsbetter,bothinvolumeandrelevance,withtheneeds
+andinterestsofHRprofessionals,managers,andorganizations.
+DISCLOSURESTATEMENT
+The authors are not aware of any affiliations,memberships,funding,or financial holdings that
+mightbeperceivedasaffectingtheobjectivityofthisreview.
+LITERATURECITED
+AbdulsalamD,MaltarichMA,NybergAJ,ReillyG,MartinM.2021.Individualizedpay-for-performance
+arrangements:peerreactionsandconsequences.J.Appl.Psychol.106(8):1202–23
+Allen TD, Johnson RC, Kiburz KM, Shockley KM. 2013. Work-family conflict and flexible work
+arrangements:deconstructingflexibility.Pers.Psychol.66(2):345–76
+AmabileTM.1983.Thesocialpsychologyofcreativity:acomponentialconceptualization.J.Personal.Soc.
+Psychol.45(2):357–77
+AmabileTM.1996.CreativityinContext:UpdatetotheSocialPsychologyofCreativity.Boulder,CO:Westview
+ArnoldA,FulmerIS.2019.Paytransparency.InTheRoutledgeCompaniontoRewardManagement,ed.SJPerkins,
+pp.87–96.London:Routledge
+www.annualreviews.org (cid:129) Compensation,Benefits,andTotalRewards 163
+
+## Page 18
+
+72:45:81
+5202
+rpA
+30
+,uhT
+:nO
+712.661.87.05
+:PI
+)tseug(
+tseuG
+.gro.sweiverlaunna.www
+morf
+dedaolnwoD
+ArnoldA,FulmerIS,SenderA,AllenDG,StaffelbachB,PerkinsSJ.2018.Internationalstudyoncompensation
+andpaytransparencypractices.Rep.,Cent.Hum.Resour.Manag.,Univ.Lucerne,Lucerne,Switz.https://
+www.unilu.ch/fileadmin/fakultaeten/wf/institute/hrm/dok/Forschung/PayTransparency_
+IntReport.pdf
+Baeten X. 2014. Shaping the future research agenda for compensation and benefits management: some
+thoughtsbasedonastakeholderinquiry.Hum.Resour.Manag.Rev.24(1):31–40
+BalPM,JansenPGW.2016.Workplaceflexibilityacrossthelifespan.Res.Pers.Hum.Resour.Manag.34:43–99
+BalkinDB,RousselP,WernerS.2015.Performancecontingentpayandautonomy:implicationsforfacilitating
+extra-rolecreativity.Hum.Resour.Manag.Rev.25(4):384–95
+BambergerP,BelogolovskyE.2010.Theimpactofpaysecrecyonindividualtaskperformance.Pers.Psychol.
+63(4):965–96
+BambergerP,BelogolovskyE.2017.Thedarksideoftransparency:howandwhenpayadministrationpractices
+affectemployeehelping.J.Appl.Psychol.102(4):658–71
+BarringerMW,MilkovichGT.1998.Atheoreticalexplorationoftheadoptionanddesignofflexiblebenefit
+plans:acaseofhumanresourceinnovation.Acad.Manag.J.23(2):305–24
+Bartlett L,Martin A,Neil AL,Memish K,Otahal P,Kilpatrick M,et al.2019.A systematic review and
+meta-analysisofworkplacemindfulnesstrainingrandomizedcontrolledtrials.J.Occup.HealthPsychol.
+24(1):108–26
+BeaumontPB,HarrisRID.2003.Internalwagestructuresandorganizationalperformance.Br.J.Ind.Relat.
+41(1):53–70
+BentleyFS,FulmerIS,KehoeRR.2019.Payoffsforlayoffs?AnexaminationofCEOrelativepayandfirm
+performancesurroundinglayoffannouncements.Pers.Psychol.72(1):81–106
+BerkowitzSA,GoldR,DominoME,BasuS.2021.Healthinsurancecoverageandself-employment.Health
+Serv.Res.56(2):247–55
+BloomM.1999.Theperformanceeffectsofpaydispersiononindividualsandorganizations.Acad.Manag.J.
+42(1):25–40
+BloomM,MichelJG.2002.Therelationshipsamongorganizationalcontext,paydispersion,andmanagerial
+turnover.Acad.Manag.J.45(1):33–42
+BloomN,KretschmerT,VanReenenJ.2011.Arefamily-friendlyworkplacepracticesavaluablefirmre-
+source?Strateg.Manag.J.32(4):343–67
+BowlesHR,ThomasonB,BearJB.2019.Reconceptualizingwhatandhowwomennegotiateforcareerad-
+vancement.Acad.Manag.J.62(6):1645–71
+BrownMP,SturmanMC,SimmeringMJ.2003.Compensationpolicyandorganizationalperformance:theef-
+ficiency,operational,andfinancialimplicationsofpaylevelsandpaystructure.Acad.Manag.J.46(6):752–
+62
+Bureau of LaborStatistics.2017.Labor Force Statistics from the CurrentPopulation Survey,Electronically me-
+diated employment,Table 4 Percent distribution of total employed and electronically mediated workers,by se-
+lectedcharacteristics.Washington,DC:BureauofLaborStatistics,May2017.https://www.bls.gov/cps/
+lfcharacteristics.htm#eme
+BureauofLaborStatistics.2021.Employercostsforemployeecompensation.Rep.USDL-21–0437,Bur.Labor
+Stat.,Washington,DC
+ByronK,KhazanchiS.2012.Rewardsandcreativeperformance:ameta-analytictestoftheoreticallyderived
+hypotheses.Psychol.Bull.138(4):809–30
+CableDM,JudgeTA.1994.Paypreferencesandjobsearchdecisions:aperson-organizationfitperspective.
+Pers.Psychol.47(2):317–48
+CameronJ,PierceW.1994.Reinforcement,reward,andintrinsicmotivation:ameta-analysis.Rev.Educ.Res.
+64(3):363–423
+CardD,MasA,MorettiE,SaezE.2012.Inequalityatwork:theeffectofpeersalariesonjobsatisfaction.Am.
+Econ.Rev.102(6):2981–3003
+CascioW,BoudreauJ,FinkA.2019.InvestinginPeople:FinancialImpactofHumanResourceInitiatives.Alexan-
+dria,VA:Soc.Hum.Resour.Manag.,3rded.
+CastillaEJ.2015.Accountingforthegap:afirmstudymanipulatingorganizationalaccountabilityandtrans-
+parencyinpaydecisions.Organ.Sci.26(2):311–33
+164 Fulmer (cid:129)Li
+
+## Page 19
+
+72:45:81
+5202
+rpA
+30
+,uhT
+:nO
+712.661.87.05
+:PI
+)tseug(
+tseuG
+.gro.sweiverlaunna.www
+morf
+dedaolnwoD
+CerasoliCP,NicklinJM,FordMT.2014.Intrinsicmotivationandextrinsicincentivesjointlypredictperfor-
+mance:a40-yearmeta-analysis.Psychol.Bull.140(4):980–1008
+ChamberlainA,TianG.2016.How50+benefitscorrelatewithemployeesatisfaction.GlassdoorEconomicsRe-
+search,June10.https://www.glassdoor.com/research/how-50-benefits-correlate-with-employee-
+satisfaction/,
+ChiW,LiaoH,WangL,ZhaoR,YeQ.2019.Incentivestomoveup:effectsofpaygapsbetweenlevelson
+employeeperformance.Hum.Resour.Manag.J.29(2):238–53
+CobbJA,KellerJR,NuromahamedS.2021.HowdoIcompare?Theeffectsofwork-unitdemographics
+onreactionstopayinequality.Ind.LaborRelat.Rev.https://doi.org/10.1177/00197939211001874.In
+press
+ColellaA,PaetzoldRL,ZardkoohiA,WessonMJ.2007.Exposingpaysecrecy.Acad.Manag.Rev.32(1):55–71
+ConroySA,GuptaN.2019.Disentanglinghorizontalpaydispersion:experimentalevidence.J.Organ.Behav.
+40(3):248–63
+Conroy SA, Gupta N, Shaw JD, Park T-Y. 2014. A multilevel approach to the effects of pay variation.
+InResearchinPersonnelandHumanResourcesManagement,Vol.32,ed.MRBuckley,JRBHalbesleben,
+ARWheeler,pp.1–64.Bingley,UK:EmeraldGroup
+CowherdDM,LevineDI.1992.Productqualityandpayequitybetweenlower-levelemployeesandtopman-
+agement:aninvestigationofdistributivejusticetheory.Adm.Sci.Q.37:302–20
+DahlMS,PierceL.2020.Pay-for-performanceandemployeementalhealth:largesampleevidenceusing
+employeeprescriptiondrugusage.Acad.Manag.Discov.6(1):12–38
+DayNE.2012.Payequityasamediatoroftherelationshipsamongattitudesandcommunicationaboutpay
+leveldeterminationandpaysecrecy.J.Leadersh.Organ.Stud.19(4):462–76
+DayNE.2019.Howwelldopayandnonfinancialrewardsattractapplicanttojobs?J.TotalRewards28(1):6–17
+DeadrickDL,GibsonPA.2007.Anexaminationoftheresearch-practicegapinHR:comparingtopicsof
+interesttoHRacademicsandHRprofessionals.Hum.Resour.Manag.Rev.17(2):131–9
+DeciEL,RyanRM.1985.IntrinsicMotivationandSelf-DeterminationinHumanBehavior.NewYork:Plenum
+DenckerJC,JoshiA,MartocchioJJ.2007.Employeebenefitsascontextforintergenerationalconflict.Hum.
+Resour.Manag.Rev.17(2):208–20
+DevaroJ,HeywoodJS.2017.Performancepayandwork-relatedhealthproblems:alongitudinalstudyof
+establishments.Ind.LaborRelat.Rev.70(3):670–703
+DingDZ,AkhtarS,GeGL.2009.Effectsofinter-andintra-hierarchywagedispersionsonfirmperformance
+inChineseenterprises.Int.J.Hum.Resour.Manag.20(11):2370–81
+Donaldson-FeilderE,LewisR,YarkerJ.2019.Whatoutcomeshavemindfulnessandmeditationinterventions
+formanagersandleadersachieved?Asystematicreview.Eur.J.WorkOrgan.Psychol.28(1):11–29
+DownesPE,ChoiD.2014.Employeereactionstopaydispersion:atypologyofexistingresearch.Hum.Resour.
+Manag.Rev.24(1):53–66
+DulebohnJH.2002.Aninvestigationofthedeterminantsofinvestmentriskbehaviorinemployer-sponsored
+retirementplans.J.Manag.28(1):3–26
+DulebohnJH,MolloyJC,PichlerSM,MurrayB.2009.Employeebenefits:literaturereviewandemerging
+issues.Hum.Resour.Manag.Rev.19(2):86–103
+DulebohnJH,MurrayB,SunM.2000.Selectionamongemployer-sponsoredpensionplans:theroleofindi-
+vidualdifferences.Pers.Psychol.53(2):405–32
+DulebohnJH,WerlingSE.2007.Compensationresearchpast,present,andfuture.Hum.Resour.Manag.Rev.
+17(2):191–207
+ErikssonT,KristensenN.2014.Wagesorfringes?Someevidenceontrade-offsandsorting.J.LaborEcon.
+32(4):899–923
+EzzamelM,WatsonR.1998.Marketcomparisonearningsandthebidding-upofexecutivecashcompensation:
+evidencefromtheUnitedKingdom.Acad.Manag.J.41(2):221–31
+FangM,GerhartB.2012.Doespayforperformancediminishintrinsicinterest?Int.J.Hum.Resour.Manag.
+23(6):1176–96
+FickessJ.2021.Fromtheeditor:Anothergiantstepforward.J.TotalRewards30(1):7
+FongEA.2010.RelativeCEOunderpaymentandCEObehaviortowardsR&Dspending.J.Manag.Stud.
+47(6):1095–122
+www.annualreviews.org (cid:129) Compensation,Benefits,andTotalRewards 165
+
+## Page 20
+
+72:45:81
+5202
+rpA
+30
+,uhT
+:nO
+712.661.87.05
+:PI
+)tseug(
+tseuG
+.gro.sweiverlaunna.www
+morf
+dedaolnwoD
+FongEA,MisangyiVF,TosiHL.2010.TheeffectofCEOpaydeviationsonCEOwithdrawal,firmsize,and
+firmprofits.Strateg.Manag.J.31(6):629–51
+FulmerIS.2009.Theelephantintheroom:labormarketinfluencesonCEOcompensation.Pers.Psychol.
+62(4):659–95
+FulmerIS,ArnoldA.2020.Paycommunication:agloballookatpracticesandpreferences.J.TotalRewards
+29(4):25–35
+FulmerIS,ChenY.2014.Howcommunicationaffectsemployeeknowledgeofandreactionstocompensa-
+tionsystems.InMeetingtheChallengeofHumanResourceManagement:ACommunicationPerspective,ed.
+VDMiller,MEGordon,pp.167–78.NewYork:Routledge/Taylor&Francis
+FulmerIS,ChenY,LiJ.2021.Strategicidiosyncraticdeals(i-deals)policy:individuallynegotiatedarrange-
+mentsasanalternativeapproachfordeliveringcustomizedbenefits.J.TotalRewards30(1):45–54
+FulmerIS,ShawJD.2018.Person-baseddifferencesinpayreactions:acompensation-activationtheoryand
+integrativeconceptualreview.J.Appl.Psychol.103(9):939–58
+GajendranRS,HarrisonDA.2007.Thegood,thebad,andtheunknownabouttelecommuting:meta-analysis
+ofpsychologicalmediatorsandindividualconsequences.J.Appl.Psychol.92(6):1524–41
+GaleWG,HolmesSE,JohnDC.2020.Retirementplansforcontingentworkers:issuesandoptions.J.Pension
+Econ.Finance19(2):185–97
+GarbersY,KonradtU.2014.Theeffectoffinancialincentivesonperformance:aquantitativereviewofindi-
+vidualandteam-basedfinancialincentives.J.Occup.Organ.Psychol.87(1):102–37
+Gartenberg C, Wulf J. 2020. Competition and pay inequality within and between firms. Manag. Sci.
+66(12):5925–43
+GerhartB,FangM.2014.Payfor(individual)performance:issues,claims,evidence,andtheroleofsorting
+effects.Hum.Resour.Manag.Rev.24(1):41–52
+GerhartB,FangM.2015.Pay,intrinsicmotivation,extrinsicmotivation,performance,andcreativityinthe
+workplace:revisitinglong-heldbeliefs.Annu.Rev.Organ.Psychol.Organ.Behav.2:489–521
+GerhartB,MilkovichGT.1990.Organizationaldifferencesinmanagerialcompensationandfinancialperfor-
+mance.Acad.Manag.J.33(4):663–91
+GerhartB,NewmanJ.2020.Compensation.NewYork:McGrawHill.13thed.
+GerhartB,RynesSL.2003.Compensation:Theory,Evidence,andStrategicImplications.ThousandOaks,CA:Sage
+GerhartB,RynesSL,FulmerIS.2009.Payandperformance:individuals,groups,andexecutives.Acad.Manag.
+Ann.3(1):251–315
+GibbsM.2016.Past,present,andfuturecompensationresearch:economistperspectives.Compens.Benefits
+Rev.48(1–2):3–16
+Glass J.2004.Blessing or curse? Work-family policies and mother’s wage growth over time.Work Occup.
+31(3):367–94
+GublerT,LarkinI,PierceL.2018.Doingwellbymakingwell:theimpactofcorporatewellnessprograms
+onemployeeproductivity.Manag.Sci.64(11):4967–87
+GuptaN,ConroySA,DeleryJE.2012.Themanyfacesofpayvariation.Hum.Resour.Manag.Rev.22(2):100–
+15
+HallockKF,JinX,BarringtonL.2014.Estimatingpaygapsforworkerswithdisabilities:implicationsfrom
+broadeningdefinitionsanddatasets.Rehabil.Res.PolicyEduc.28(4):264–90
+HammerLB,NealMB,NewsomJT,BrockwoodKJ,ColtonCL.2005.Alongitudinalstudyoftheeffects
+ofdual-earnercouples’utilizationoffamily-friendlyworkplacesupportsonworkandfamilyoutcomes.
+J.Appl.Psychol.90(4):799–810
+HoVT,TekleabAG.2016.Amodelofidiosyncraticdeal-makingandattitudinaloutcomes.J.Manag.Psychol.
+31(3):642–56
+HollenbeckJR,IlgenDR,OstroffC,VancouverJB.1987.Sexdifferencesinoccupationalchoice,pay,and
+worth:asupply-sideapproachtounderstandingthemale-femalewagegap.Pers.Psychol.40(4):715–43
+IgalensJ,RousselP.1999.Astudyoftherelationshipsbetweencompensationpackage,workmotivationand
+jobsatisfaction.J.Organ.Behav.20(7):1003–25
+JenkinsGDJr.,MitraA,GuptaN,ShawJD.1998.Arefinancialincentivesrelatedtoperformance?Ameta-
+analyticreviewofempiricalresearch.J.Appl.Psychol.83(5):777–87
+166 Fulmer (cid:129)Li
+
+## Page 21
+
+72:45:81
+5202
+rpA
+30
+,uhT
+:nO
+712.661.87.05
+:PI
+)tseug(
+tseuG
+.gro.sweiverlaunna.www
+morf
+dedaolnwoD
+KehoeRR,HanJH.2020.Anexpandedconceptualizationoflinemanagers’involvementinhumanresource
+management.J.Appl.Psychol.55(6):1264–94
+KepesS,DeleryJ,GuptaN.2009.Contingenciesintheeffectsofpayrangeonorganizationaleffectiveness.
+Pers.Psychol.62(3):497–531
+Konrad AM,Mangel R.2000.The impact of work-life programs on firm productivity.Strateg.Manag.J.
+21(12):1225–37
+KosanovichK.2018.Alookatcontingentworkers.BureauofLaborStatistics.Washington,DC:Bureauof
+LaborStatistics,retrievedAug.10,2021.https://www.bls.gov/spotlight/2018/contingent-workers/
+home.htm
+KossekEE,SuR,WuL.2017.“Optingout”or“pushedout”?Integratingperspectivesonwomen’scareer
+equalityforgenderinclusionandinterventions.J.Manag.43(1):228–54
+Larkin I, Pierce L, Gino F. 2012. The psychological costs of pay-for-performance: implications for the
+strategiccompensationofemployees.Strateg.Manag.J.33(10):1194–214
+LeeBY,DeVoeSE.2012.Flextimeandprofitability.Ind.Relat.J.Econ.Soc.51(2):298–316
+LepakDP,SnellSA.1999.Thehumanresourcearchitecture:towardatheoryofhumancapitalallocationand
+development.Acad.Manag.Rev.24(1):31–48
+LeslieLM,ManchesterCF,ParkTY,MehngSA.2012.Flexibleworkpractices:asourceofcareerpremiums
+orpenalties?Acad.Manag.J.55(6):1407–28
+LomasT,MedinaJC,IvtzanI,RupprechtS,Eiroa-OrosaFJ.2018.Asystematicreviewoftheimpactof
+mindfulnessonthewell-beingofhealthcareprofessionals.J.Clin.Psychol.74(3):319–55
+MaltarichMA,NybergAJ,ReillyG,AbdulsalamD,MartinM.2017.Pay-for-performance,sometimes:an
+interdisciplinary approach to integrating economic rationality with psychological emotion to predict
+individualperformance.Acad.Manag.J.60(6):2155–74
+Marasi S,Bennett RJ.2016.Pay communication: Where do we go from here? Hum.Resour.Manag.Rev.
+26(1):50–58
+MarkoulliMP,LeeCISG,ByingtonE,FelpsWA.2017.Mappinghumanresourcemanagement:reviewing
+thefieldandchartingfuturedirections.Hum.Resour.Manag.Rev.27(3):367–96
+MartinTN,OttemannR.2016.Generationalworkforcedemographictrendsandtotalorganizationalrewards
+whichmightattractandretaindifferentgenerationalemployees.J.Behav.Appl.Manag.16(2):91–115
+MartinWM.2020.Onesizefitsall:dodual-incomecouplesandfamiliesrequiredifferentbenefits?Compens.
+BenefitsRev.52(2):53–63
+MastersonC,SugiyamaK,LadgeJ.2021.Thevalueof21stcenturywork-familysupports:reviewandcross-
+levelpathforward.J.Organ.Behav.42(2):118–38
+Merritt-Hawkins.2020.2020ReviewofPhysicianandAdvancedPractitionerRecruitingIncentivesandtheImpactof
+COVID-19.Dallas,TX:Merritt-Hawkins.27thed.https://www.merritthawkins.com/uploadedfiles/
+merritthawkins_2020_incentive_review.pdf
+MillikenFJ,MartinsLL,MorganH.1998.Explainingorganizationalresponsivenesstowork-familyissues:
+theroleofhumanexecutivesasissueinterpreters.Acad.Manag.J.41(5):580–92
+MitchellOS,MooreJF.1998.CanAmericansaffordtoretire?Newevidenceonretirementsavingadequacy.
+J.RiskInsur.65(3):371–400
+MondelloM,MaxcyJ.2009.TheimpactofsalarydispersionandperformancebonusesinNFLorganizations.
+Manag.Decis.47(1):110–23
+Montag-SmitTA,SmitBW.2021.Whatareyouhiding?Employeeattributionsforpaysecrecypolicies.Hum.
+Resour.Manag.J.31(3):704–28
+Mosley K, Miller P. 2019. Physician recruiting incentives: salaries, signing bonuses, value-based pay and
+benefits.Manag.Healthcare4(1):49–56
+MurrayB,DulebohnJH.2021.Strategicbenefitsmanagement:whatwethink,whatweknowandwhatwe
+needtoknow.J.TotalRewards30(1):23–35
+NickersonJA,ZengerTR.2008.Envy,comparisoncosts,andtheeconomictheoryofthefirm.Strateg.Manag.
+J.29(13):1429–49
+NybergAJ,MaltarichMA,AbdulsalamD,EssmanSM,CragunO.2018.Collectivepayforperformance:a
+cross-disciplinaryreviewandmeta-analysis.J.Manag.44(6):2433–72
+www.annualreviews.org (cid:129) Compensation,Benefits,andTotalRewards 167
+
+## Page 22
+
+72:45:81
+5202
+rpA
+30
+,uhT
+:nO
+712.661.87.05
+:PI
+)tseug(
+tseuG
+.gro.sweiverlaunna.www
+morf
+dedaolnwoD
+NybergAJ,MaltarichMA,AbdulsalamD,EssmanSM,CragunO.2018.Collectivepayforperformance:a
+cross-disciplinaryreviewandmeta-analysis.J.Manag.44(6):2433–72
+NybergAJ,MoliternoTP,HaleDJr.,LepakDP.2014.Resource-basedperspectivesonunit-levelhuman
+capital:areviewandintegration.J.Manag.40(1):316–46
+OblojT,ZengerT.2017.Organizationdesign,proximity,andproductivityresponsestoupwardsocialcom-
+parison.Organ.Sci.28(1):1–18
+OstermanP.1995.Work/familyprogramsandtheemploymentrelationship.Adm.Sci.Q.40(4):681–700
+OswaldFL,BehrendTS,PutkaDJ,SinarE.2020.Bigdatainindustrial-organizationalpsychologyandhu-
+manresourcemanagement:forwardprogressfororganizationalresearchandpractice.Annu.Rev.Organ.
+Psychol.Organ.Behav.7:505–33
+PailhéA,SolazA.2019.Isthereawagecostforemployeesinfamily-friendlyworkplaces?Theeffectofdif-
+ferentemployerpolicies.Gend.WorkOrgan.26(5):688–721
+ParkerSL,BellK,GagnéM,CareyK,HilpertT.2019.Collateraldamageassociatedwithperformance-based
+pay:theroleofstressappraisals.Eur.J.WorkOrgan.Psychol.28(5):691–707
+ParksKM,SteelmanLA.2008.Organizationalwellnessprograms:ameta-analysis.J.Occup.HealthPsychol.
+13(1):58–68
+PfefferJ,LangtonN.1993.Theeffectofwagedispersiononsatisfaction,productivity,andworkingcollabo-
+ratively:evidencefromcollegeanduniversityfaculty.Adm.Sci.Q.38(3):382–407
+PfefferJ,WittersD,AgrawalS,HarterJK.2020.Magnitudeandeffectsof“sludge”inbenefitsadministration:
+howhealthinsurancehasslesburdenworkersandcostemployers.Acad.Manag.Discov.6(3):325–40
+PloyhartRE,MoliternoTP.2011.Emergenceofthehumancapitalresource:amultilevelmodel.Acad.Manag.
+Rev.36(1):127–50
+PohlerD,SchmidtJA.2016.Doespay-for-performancestraintheemploymentrelationship?Theeffectof
+managerbonuseligibilityonnon-managementemployeeturnover.Pers.Psychol.69(2):395–429
+RichardsonKM,RothsteinHR.2008.Effectsofoccupationalstressmanagementinterventionprograms:a
+meta-analysis.J.Occup.HealthPsychol.13(1):69–93
+RidgeJW,HillAD,AimeF.2017.Implicationsofmultipleconcurrentpaycomparisonsfortop-teamturnover.
+J.Manag.43(3):671–90
+RosenCC,SlaterDJ,ChangCH,JohnsonRE.2013.Let’smakeadeal:developmentandvalidationofthe
+ex-posti-dealsscale.J.Manag.39(3):709–42
+RousseauDM,HoVT,GreenbergJ.2006.I-deals:idiosyncratictermsinemploymentrelationships.Acad.
+Manag.Rev.31(4):977–94
+RynesSL,BarberAE.1990.Applicantattractionstrategies:anorganizationalperspective.Acad.Manag.Rev.
+15(2):286–310
+RynesSL,GerhartB,ParksL.2005.Personnelpsychology:performanceevaluationandpayforperformance.
+Annu.Rev.Psychol.56:571–600
+SalinD,NotelaersG.2020.Friendorfoe?Theimpactofhigh-performanceworkpracticesonworkplace
+bullying.Hum.Resour.Manag.J.30(2):312–26
+SammerJ.2018.Welcome,GenerationZ:Here’syourbenefitspackage.SHRM,July6.https://www.shrm.
+org/resourcesandtools/hr-topics/benefits/pages/generation-z-benefits-package.aspx?_ga=2.
+105377091.1960666964.1625412330-1819316159.1625412330
+SamnaniA,SinghP.2014.Performance-enhancingcompensationpracticesandemployeeproductivity:the
+roleofworkplacebullying.Hum.Resour.Manag.Rev.24(1):5–16
+ScottD,BrownM,ShieldsJ,LongRJ,AntoniCH,etal.2015.Aglobalstudyofpaypreferencesandemployee
+characteristics.Compens.BenefitsRev.47(2):60–70
+SeoJ,GamacheDL,DeversCE,CarpenterMA.2015.TheroleofCEOrelativestandinginacquisition
+behaviorandCEOpay.Strateg.Manag.J.36(12):1877–94
+ShawJD.2014.Paydispersion.Annu.Rev.Organ.Psychol.Organ.Behav.1:521–44
+ShawJD,GuptaN.2007.Paysystemcharacteristicsandquitpatternsofgood,average,andpoorperformers.
+Pers.Psychol.60(4):903–28
+Shaw JD,Gupta N.2015.Let the evidence speak again! Financial incentives are more effective than we
+thought.Hum.Resour.Manag.J.25(3):281–93
+168 Fulmer (cid:129)Li
+
+## Page 23
+
+72:45:81
+5202
+rpA
+30
+,uhT
+:nO
+712.661.87.05
+:PI
+)tseug(
+tseuG
+.gro.sweiverlaunna.www
+morf
+dedaolnwoD
+ShawJD,GuptaN,DeleryJE.2002.Paydispersionandworkforceperformance:moderatingeffectsofincen-
+tivesandinterdependence.Strateg.Manag.J.23(6):491–512
+ShawJD,ZhouX.2021.Explainedpaydispersion:a20-yearreviewofhumanresourcemanagementresearch
+andbeyond.Res.Pers.Hum.Resour.Manag.39:47–69
+SimanTov-NachlieliI,BambergerP.2021.Paycommunication,justice,andaffect:theasymmetriceffects
+of process and outcome pay transparency on counterproductive workplace behavior.J.Appl.Psychol.
+106(2):230–49
+SimmonsR,BerriDJ.2011.Mixingtheprincesandthepaupers:payandperformanceintheNationalBas-
+ketballAssociation.LabourEcon.18(3):381–88
+SmitBW,Montag-SmitT.2018.Theroleofpaysecrecypoliciesandemployeesecrecypreferencesinshaping
+jobattitudes.Hum.Resour.Manag.J.28(2):304–24
+SmitBW,Montag-SmitT.2019.Thepaytransparencydilemma:developmentandvalidationofthepayin-
+formationexchangepreferencesscale.J.Appl.Psychol.104(4):537–58
+Society for Human Resource Management. 2019. Employee benefits executive summary. Rep., Soc. Hum.
+Resour. Manag., Alexandria, VA. https://shrm.org/hr-today/trends-and-forecasting/research-
+and-surveys/Pages/Benefits19.aspx?_ga=2.103754432.1960666964.1625412330-1819316159.
+1625412330
+TetrickLE,WeathingtonBL,DaSilvaN,HutchesonJM.2010.Individualdifferencesinattractivenessofjobs
+basedoncompensationpackagecomponents.Empl.Responsib.RightsJ.22(3):195–211
+TrevorCO,ReillyG,GerhartB.2012.Reconsideringpaydispersion’seffectontheperformanceofinterde-
+pendentwork:reconcilingsortingandpayinequality.Acad.Manag.J.55(3):585–610
+UggerslevKL,FassinaNE,KraichyD.2012.Recruitingthroughthestages:ameta-analytictestofpredictors
+ofapplicantattractionatdifferentstagesoftherecruitingprocess.Pers.Psychol.65(3):597–660
+vanderKlinkJJ,BlonkRW,ScheneAH,vanDijkFJ2001.Thebenefitsofinterventionsforwork-related
+stress.Am.J.PublicHealth91(2):270–76
+WarrenT.2021.Work–lifebalanceandgigwork:‘wherearewenow’and‘wheretonext’withthework–life
+balanceagenda?J.Ind.Relat.63(4):522–45
+WeedenKA.2005.Isthereaflexiglassceiling?FlexibleworkarrangementsandwagesintheUnitedStates.
+Soc.Sci.Res.34(2):454–82
+WernerS,BalkinDB.2021.Strategicbenefits:howemployeebenefitscancreateasustainablecompetitive
+advantage.J.TotalRewards30(1):8–22
+WernerS,KuiateCS,NolandTR,FranciaAJ.2016.Benefitsandstrategicoutcomes:Aresupplementalretire-
+mentplansandsaferdrivingrelatedintheU.S.truckingindustry?Hum.Resour.Manag.55(5):885–900
+YanadoriY,CuiV.2013.Creatingincentivesforinnovation?TherelationshipbetweenpaydispersioninR&D
+groupsandfirminnovationperformance.Strateg.Manag.J.34:1502–11
+YangH,KlaasBS.2011.Paydispersionandthefinancialperformanceofthefirm:evidencefromKorea.Int.
+J.Hum.Resour.Manag.22(10):2147–66
+www.annualreviews.org (cid:129) Compensation,Benefits,andTotalRewards 169
