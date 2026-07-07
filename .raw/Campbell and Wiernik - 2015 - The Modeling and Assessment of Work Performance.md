@@ -1,0 +1,2404 @@
+## Page 1
+
+The Modeling and
+Assessment of Work
+Performance
+John P. Campbell and Brenton M. Wiernik
+DepartmentofPsychology,UniversityofMinnesota,Minneapolis,Minnesota55455;
+email:campb006@umn.edu
+Annu.Rev.Organ.Psychol.Organ.Behav.2015. Keywords
+2:47–74
+performancemodels,contextualperformance,
+TheAnnualReviewofOrganizationalPsychology
+organizationalcitizenship,counterproductiveworkbehavior,
+andOrganizationalBehaviorisonlineat
+orgpsych.annualreviews.org performancedynamics,performanceappraisal
+Thisarticle’sdoi:
+Abstract
+10.1146/annurev-orgpsych-032414-111427
+Copyright©2015byAnnualReviews. Individualworkroleperformancedrivestheentireeconomy.Itisor-
+Allrightsreserved ganizational psychology and organizational behavior’s (OP/OB’s)
+mostcrucialdependentvariable.Inthisreview,alternativespecifica-
+tionsforthedefinitionandlatentstructureofindividualperformance
+arereviewedandsummarized.Settingasidedifferencesinterminol-
+ogy, the alternatives are remarkably similar. The Campbell (2012)
+modelisofferedasasynthesizeddescriptionofthecontentofthela-
+tent structure. Issues pertaining to performance dynamics are then
+reviewed, along with the role played by individual adaptability to
+changingperformancerequirements.Usingthesynthesizedmodelof
+thelatentcontentstructureanddynamicsofperformanceasaback-
+drop,issuespertainingtotheassessmentofperformancearesumma-
+rized. The alternative goals of performance assessment, general
+measurement issues, and the construct validity of specific methods
+(e.g.,ratings,simulations)arereviewedanddescribed.Cross-cultural
+issuesandfutureresearchneedsarenoted.
+47
+gro.sweiverlaunna.www
+morf
+dedaolnwoD
+.47-74:2.5102
+.vaheB
+.nagrO
+.lohcysP
+.nagrO
+.veR
+.unnA
+.ylno
+esu
+lanosrep
+roF
+.51/42/11
+no
+seitiC
+niwT
+-
+atosenniM
+fo
+ytisrevinU
+yb
+dedivorp
+sseccA
+
+## Page 2
+
+INTRODUCTION
+Thisarticleaddressesthecurrentstateoftheliteratureregardingthemodelingandassessmentof
+performanceinaworkrole.Thefocusisonindividualperformance.Itisthebasicbuildingblock
+onwhichtheentireeconomyisbased(Kim&Ployhart2014).Withoutindividualperformance
+thereisnoteamperformance,nounitperformance,noorganizationalperformance,noeconomic
+sectorperformance,noGDP.Despiteitsimportance,researchonperformancedoesnotcompare
+insizeorscopetoresearchonitsantecedentsandconsequences.Ofthe1,914dependentvariables
+reportedinprimaryempiricalresearcharticlesinTheJournalofAppliedPsychology,Personnel
+Psychology,andTheAcademyofManagementJournalbetween2008and2014,only350(18%)
+aremeasuresofindividualperformanceatwork.Certainly,otherdependentvariablesareextremely
+important,includingindividualworksatisfaction,commitment,engagement,stress/health,andwork/
+familybalance.However,withoutindividualperformance,therecanbenojobtobesatisfiedwith,no
+organizationtobecommittedto,andnoworktobalancewithfamily.Weshouldstrivetounderstand
+individualperformancetothefullestextentpossible.
+Wefocusonseveralcentralthemes.Intheremainderofthisfirstsection,weconsiderwhat
+performanceisandwhatitisnot.Inthesecondsection,wereviewthesimilarityanddissimilarity
+ofalternativecontentmodelsofperformanceandarguethatthelatentstructureofperformanceis
+invariantacrosslevels,functionalspecialties,organizations,andcultures.Inthethirdsection,we
+also consider the issues of performance dynamics and adaptability to distinguish between the
+contentofperformanceanditsprocessesandcontext.Inthefourthsection,weconsiderissues
+related to the assessment of performance in a work role. We highlight recent advances in the
+measurement of performance, including the use of ratings, work simulations, and technology-
+enhancedperformancemonitoringsystems.Wedescribethepotentialopportunitiesandpitfalls
+variousassessmentmethodsofferforprovidingmeaningfulperformanceinformationfordifferent
+assessmentpurposes.Inthelastsection,weconsiderimplicationsofresearchfindingsforpractice
+andareasforfutureresearch.
+What Performance Is
+Untilthe1980s,therewerevirtuallynoattemptstomodelindividualjobperformanceasacon-
+struct.Therewasonlythe“criterionproblem”(Austin&Villanova1992),andtheobjectivewas
+tofindperformanceindicatorsthatapproximatethe“ultimate”criterionascloselyaspossible.
+Theultimatecriterionwasdefinedasanindicatorofanindividual’stotalcontributiontothegoals
+oftheorganization.Unfortunately,nosuchindicatorexists.
+Thesituationbegantochangeduringthe1980s.Forexample,theArmySelectionandClas-
+sificationProject(ProjectA)wasabletosystematicallyselectasampleofentry-leveltechnicaljobs
+fromapopulationofjobs,developover100separateindicatorsofperformanceforeachjob,
+andcollectperformancedataontwocohortsof10,000enlistedpersonnelatthreepointsintime:
+attheendoftraining,attheendoftheirfirsttourofduty,andneartheendoftheirsecondtourof
+duty after they hadassumedleadershipresponsibilities (see Campbell & Knapp 2001). This
+permittedextensiveapplicationsofconfirmatoryfactoranalysistotestsubstantivemodelsof
+thelatentstructureofperformance.Subsequently,multidimensionalmodelsofperformanceas
+a construct were discussed by Borman & Motowidlo (1993), Campbell et al. (1993), and
+Murphy(1989a).
+Fromthesesources,aconsensusdevelopedthatindividualjobperformanceshouldbedefined
+asthingsthatpeopleactuallydo,actionstheytake,thatcontributetotheorganization’s goals.
+Someonemustidentifythoseactionsthatarerelevanttotheorganization’sgoalsandthosethatare
+48 Campbell (cid:1) Wiernik
+gro.sweiverlaunna.www
+morf
+dedaolnwoD
+.47-74:2.5102
+.vaheB
+.nagrO
+.lohcysP
+.nagrO
+.veR
+.unnA
+.ylno
+esu
+lanosrep
+roF
+.51/42/11
+no
+seitiC
+niwT
+-
+atosenniM
+fo
+ytisrevinU
+yb
+dedivorp
+sseccA
+
+## Page 3
+
+not,regardlessofwhethertheyareinawrittenjobdescription.Forthosethatarerelevant,thelevel
+of proficiency with which the individual performs them must be scaled. Both the judgment of
+relevance and the judgment of level of proficiency depend on a specification of the important
+substantive content-based goals of the organization, not content-free goals such as “making
+aprofit,”andtheremayindeedbemultiplegoals,goalchange,orgoalconflict.
+Nothinginthisdefinitionrequiresthatasetofperformanceactionsbecircumscribedbythe
+termjoborthattheyremainstaticoverasignificantlengthoftime.Neitherdoesitrequirethatthe
+goalsofanorganizationremainedfixedorthataparticularmanagementcadreisresponsiblefor
+determiningtheorganization’sgoals(a.k.a.“vision”).Neitherdoesitsaythatactions,orgoals,
+must be described at a certain level of specificity. Consequently, it is not a violation of this
+definitionofperformanceforindividualorganizationmemberstodecidethemselveswhatactions
+aremostrelevantforwhattheythinktheorganization’sgoalsare,orshouldbe.Individualscanbe
+quiteactive(Frese2008)orproactive(Griffinetal.2007).However,goalchoices,anddecisions
+aboutwhatactionsbestservethem,mustbelegitimizedbythestakeholdersempoweredtodoso
+by the organization’s charter. Otherwise, there is no organization. Perhaps the indictment of
+“conventional”jobanalysis(seePearlman&Sanchez2010)shouldbethatitdoesnotvalidly
+reflectcurrentandfuturegoals,andtheactionsthatbestservethem,because“jobanalysts”may
+notbesufficientlyknowledgeableaboutcurrentandfutureorganizationalgoalstodeterminethe
+appropriateperformanceactionsforaparticularworkrole.
+What Performance Is Not
+Theabovespecificationisintendedtodistinguishclearlybetweenperformanceitselfand(a)the
+determinantsofindividualdifferencesinperformanceand(b)theoutcomesofperformance(a.k.a.
+results,goalachievement,thebottomline).Itcertainlyseemsthecasethatthedeterminantshave
+received the most research attention in our field. They include such things as individual trait
+variables (e.g., cognitive abilities, personality, stable motivational dispositions, physical char-
+acteristicsandabilities),statevariables(e.g.,relevantknowledgeandskill,attitudes,malleable
+motivational states), andsituational characteristics (e.g., thereward structure, managerial and
+peerleadership),aswellastheinteractionsamongthem.Campbelletal.(1993)havearguedthat
+alloftheabovemustaffectperformancebyinfluencingthreedirectdeterminantsoperatinginreal
+time:role-specificknowledge,skill,andchoicebehaviorregardingthedirection,intensity,and
+durationofeffort.Thedirectdeterminantstotallymediatetheeffectsofeverythingelse.However,
+knowledge,skill,andchoicebehaviorarenottobeconfusedwithperformanceitself.Performance
+itselfiswhatdirectlyfacilitatesachievingtheorganization’sgoals.Motowidloetal.(1997)make
+asimilarargument.
+Performancemustalsobedistinguishedfromtheoutcomesofperformanceifthevarianceinan
+outcome (e.g., sales, stock price, salary) is due to other factors, in addition to the individual’s
+performancelevel.Asnotedbelow,itmayindeedbepossibletodevelopoutcomemeasuresthat
+are virtually totally under the control of the individual, in which case the outcome measure is
+aperformancemeasure.Weharpontheseissuesbecausethedistinctionsbetweenperformance,its
+determinants, and its outcomes are often overlooked, particularly with regard to leadership
+(Campbell2013b).Allthreeareimportant.
+Performanceshouldalsonotbeconfusedwithsuchindicatorsasefficiencyorproductivity,
+althoughtheyarecertainlyimportant.Bothimplyaratioofoutputtoinput;andwhileitmaybe
+possibletothinkofthecostofachievingacertainlevelofperformance,asdefinedabove,thatisnot
+ourconcernhere.Finally,performanceisnotsynonymouswithdevelopment,attrition,orpro-
+motion,althoughthesethingsarecertainlyimportantaswell.
+www.annualreviews.org (cid:1) ModelingandAssessingWorkPerformance 49
+gro.sweiverlaunna.www
+morf
+dedaolnwoD
+.47-74:2.5102
+.vaheB
+.nagrO
+.lohcysP
+.nagrO
+.veR
+.unnA
+.ylno
+esu
+lanosrep
+roF
+.51/42/11
+no
+seitiC
+niwT
+- atosenniM
+fo
+ytisrevinU
+yb
+dedivorp
+sseccA
+
+## Page 4
+
+MODELING THE LATENT STRUCTURE OF PERFORMANCE
+Therecentliteraturehasproducedanumberofattemptstomodelthesubstantivecontentdomains
+ofindividualperformance.ThesehavebeencatalogedbyKoopmans et al. (2011) and include
+avarietyofmodelsthatsometimesusedifferentnomenclaturesorrepresentvariablesotherthan
+performance,asitisdefinedhere.Therearemanyreferencestoproductivity,workquality,work
+quantity,in-roleperformance,extra-roleperformance,andanumberofsynonymsforeffort,
+management,leadership,interpersonalbehavior,problemsolving,teamwork,adaptability,
+communication, emotional control, cooperation, development, creativity, etc. The lack of an
+agreeduponnomenclatureisstriking,anditgivestheimpressionthatattemptstoexplicatethe
+latentstructureofperformancearequitehelter-skelter.However,weassertthattheoppositeis
+true.Ifthiscatalogispurgedoftermsthathavenospecificcontentspecifications(e.g.,problem
+solving,creativity);thatrefertometrics,notbehavior(e.g.,quantity,quality,productivity);orthat
+refertoprerequisiteknowledge,skills,orpersonalitytraits,ratherthanperformanceitself,thereis
+considerableagreement,despitedifferenttermsbeingusedforthesamething.Thedevelopmentof
+thisnearconsensuswentsomethingasfollows.
+Sincethe1980s,anumberofinvestigatorshavesuggestedmodelsforthelatentstructureof
+performance.Giventhepopulationofgoalrelevantactionsorbehaviorsthatanindividualcould
+performinaworkrole,cantheyberepresentedbyameaningfuldimensionstructurethatdescribes
+themajordistinguishablecomponentsofperformance?Theassumptionhereisthattheconstruct
+of performance is not unidimensional. Advancing the organization’s goals requires different
+categoriesofindividualactionsthatcanbedistinguishedonthebasisofthecontentofthebehavior
+thatisinvolved,anditispossibletorecoverthesecategories.
+Earlyattemptstoidentifyperformancecategorieswerejobanalysisbased(e.g.,Brumback&
+Vincent1970,Fleishman&Quaintance1984)andusedvariousmethodstoclusterjobtaskson
+thebasisoftheircontentsimilarity.However,thetaskcontentwasfocusedalmostexclusivelyon
+whatisnowtermedthetechnicalperformancedimension.Themajormilestonesalongthewayto
+what we think is a near consensus about the broader structure of individual performance are
+asfollows.
+Project A
+Thefirstmajorattempttoidentifyperformancefactorsbasedonactualperformanceassessments
+wastheProjectAeffortduringthelate1980s(seeCampbelletal.2001).Thateffortproduced
+afive-factorsolutionforentry-levelArmyenlistedpersonnelandasix-factorsolutionfornon-
+commissionedofficers(NCOs).Onthebasisofcross-validationdesignsandconfirmatoryfactor
+analyses, the five-factor and six-factor models were shown to be quite robust across Army
+occupationsandacrosscohortsseparatedbythreeyears.Bothmodelscontainedonefactorspecific
+totheArmy(physicalfitnessandmilitarybearing),buttheremainingfactorsweremoregeneral,
+dealingwithtechnicalperformance,peerleadership,supervisoryleadership,extraeffort/initiative,
+andpersonaldiscipline.Thelevelofgoodness-of-fitwasremarkable,evenwhencross-validating
+fromonecohorttotheother.TheProjectAfactorstructurewasalsosimilartoonespecifiedby
+Lanceandcolleagues(1992)usingAirForcedata.
+Campbelletal.(1993)expandedtheProjectAmodeltomakeitmoreappropriatefornon-
+militaryjobs. Theirmodelportrayed thelatent structureofperformance ascomposedofeight
+factors:job-specifictechnicalproficiency,non-job-specifictechnicalproficiency,communication,
+demonstratedeffortandinitiative, personaldiscipline, facilitatingpeerandteamperformance,
+supervision/leadership,andmanagement/administration.Thesedimensionsweredefinedatalevel
+50 Campbell (cid:1) Wiernik
+gro.sweiverlaunna.www
+morf
+dedaolnwoD
+.47-74:2.5102
+.vaheB
+.nagrO
+.lohcysP
+.nagrO
+.veR
+.unnA
+.ylno
+esu
+lanosrep
+roF
+.51/42/11
+no
+seitiC
+niwT
+-
+atosenniM
+fo
+ytisrevinU
+yb
+dedivorp
+sseccA
+
+## Page 5
+
+of specificity thatwas fairlygeneral, but specific enoughto beusefulfordescriptive purposes.
+Therecouldbemorespecificsubfactorsorhigher-orderfactors.
+Core Technical and Contextual Performance
+InfluencedbyProjectAandsubsequentstudies,Borman&Motowidlo(1993,1997)proposed
+amodelofperformancewithtwogeneralfactors,whichtheylabeledcoretaskperformanceand
+contextual performance. Core task performance “consists of the activities that transform raw
+materialsintogoodsandservicesthataretheorganization’sproducts,”andcontextualperfor-
+mance“consistsofactivitiesthatserviceandmaintainthetechnicalcorebyreplenishingitssupply
+of raw materials, distributing its finished products, or providing important planning, super-
+vising,orstafffunctionsthatenableittofunctioneffectivelyandefficiently”(Motowidloetal.
+1997,p.75).Thesedefinitionswerenotwithoutambiguity,muchofwhichwasresolvedinthe
+Borman&Motowidlo(1997)paperthatproposedfivesubfactorsforcontextualperformance
+describedinbehavioral terms.Subsequentresearchhassupportedboththedistinctivenessof
+coretechnicalversuscontextualperformanceandthenatureofthecontextualsubfactors(see
+Conway1996).
+Organizational Citizenship Behavior
+Basedonmanagementtheory,Organ(1988)proposedorganizationalcitizenshipbehavior(OCB)
+asamajorcomponentofperformanceanddefineditasdiscretionarybehavior,notnecessarilypart
+of a job description, that promotes the effective functioning of the organization via being co-
+operative,helpingotherpeople,toleratingless-than-idealworkingconditions,goingwellbeyond
+minimalrequirements,identifyingwiththeorganization’sgoals,andparticipatingvoluntarilyin
+organizationalgovernanceandadministration.Thereisnowarelativelylargeliteratureonthe
+assessment, prediction, andconsequences ofOCBthat isthoroughlyreviewed byOrganet al.
+(2011).Asmanyas30differentfacetsofOCBhavebeenproposed,butsixfactorsseemtoreflect
+their content (Podsakoff et al. 2000). Further, the relevant parties agree that there is virtually
+complete overlap of the six OCB factors with the subfactors of contextual performance (see
+Motowidlo2000,Organetal.2011),althoughthereissomemildargumentoverwhoselanguage
+isthemostinteresting.
+Counterproductive Work Behavior
+TheProject Aperformance model included afactor labeledmaintainingpersonal discipline. It
+involvedsuchthingsasdisciplinaryactions,violationofregulations,andassessmentofpersonal
+misconduct.Itscounterpartincivilianlifeiscounterproductiveworkbehavior(CWB),thecontent
+ofwhichhasbeenspecifiedbyBennett&Robinson(2000),Berryetal.(2007),Gruys&Sackett
+(2003),andDalal(2005).ThebehavioraldefinitionofCWBis“scalableactionsandbehaviors
+that employees engage in that detract from organizational goals or well-being. They include
+behaviors that bringabout undesirable consequences for the organization or its stakeholders”
+(Ones&Dilchert2013,p.645).Twoprimarysubfactorshaveemerged:deviancedirectedatthe
+organization(CWB-O;e.g.,theft,absence)anddeviancedirectedatotherindividuals(CWB-I;e.g.,
+bullying,gossiping).Althoughsubstanceabuseisseeminglydirectedattheself,factoranalytically
+itclusterswithbehaviorsdirectedattheorganization(Marcusetal.2002),asthebehavioralresult
+ofdruguseistypicallytoavoidworkorperformpoorlyorunsafely.Spectorandcolleagues(2006)
+wentfurtheranddecomposedCWBintofivespecificfacets,arguingthatthefacetshavedifferent
+www.annualreviews.org (cid:1) ModelingandAssessingWorkPerformance 51
+gro.sweiverlaunna.www
+morf
+dedaolnwoD
+.47-74:2.5102
+.vaheB
+.nagrO
+.lohcysP
+.nagrO
+.veR
+.unnA
+.ylno
+esu
+lanosrep
+roF
+.51/42/11
+no
+seitiC
+niwT
+- atosenniM
+fo
+ytisrevinU
+yb
+dedivorp
+sseccA
+
+## Page 6
+
+antecedents.Foreachofthetwoprimarysubfactors,itmightalsobepossibletospecifytwosub-
+facets corresponding to approach versus avoidance behaviors. The approach–avoidance dis-
+tinctionisarecurringoneinmotivation(e.g.,Gableetal.2003)andpsychopathology(Markon
+etal.2005).ForCWB,itisadistinctionbetweenactivelyactingagainsttheorganization(property
+deviance:sabotage,theft,etc.)versusstayingaway(productiondeviance:unexcusedabsence,drug
+abuse,etc.)andbetweenactivelyactingagainstotherindividuals(personalaggression:bullying,
+physicalabuse,etc.)versussubtlyunderminingorexcludingthem(politicaldeviance:gossiping,
+showing favoritism, etc.). The CWB-I/CWB-O factors have received support in many factor
+analyticstudies,thoughastronggeneralCWBfactorispresent(Ones&Dilchert2013).Evidence
+alsosuggeststhatCWBarenotsimplythenegativeendofpositively-stateddimensionssuchasthe
+OCB/contextualperformancefactors(Berryetal.2007,Milesetal.2002,Ones&Dilchert2013,
+Spector et al. 2010), but constitute distinguishable separate dimensions that have different
+determinants. Measures should avoid including both OCB and CWB items on the same scale
+(Spector&Cha2014).
+Proficiency, Adaptability, and Proactivity
+Griffinandcolleagues(2007)presentedamodelofworkroleperformancethatdoesnotfocus
+directlyonthelatentstructureofperformancebehavior.Instead,itpositsa333classificationof
+workrole behaviors in which onedimension represents organizational level (individual, team,
+organization) and the second dimension progresses from proficiency on prescribed tasks; to
+proficiencyinadaptingtochangesinindividual,team,ororganizationalrequirements;tobeing
+proactiveininstitutingnewmethodsorsolutionsattheindividual,team,ororganizationallevel.
+Three items (i.e., rating scales) assess proficiency within each of the nine cells. Given the item
+contentanddefinitionsforeachcell,theleveldimensionseemstorepresent(a)individualtask
+performance,(b)peerleadershipandsupportinteams,and(c)certainaspectsofthemanagement
+role. The proactivity column represents the extra effort/initiative component of several other
+models.Theadaptivitycolumnrepresentsamuchmorecomplexconstructandwillbediscussed
+subsequently.Inessence,theGriffinetal.(2007)modelrepresentsmuchofthesamecontentasthe
+modelsdescribedabove,butina333formatratherthanahierarchicalone.Theirargumentis
+thatitmakestheeffectsofcontext(i.e.,level)clearer.
+Competency Models
+Competency modeling is an important area of practice in human resource (HR) management
+(Shippmann 2010), and it has relevance for the specification and assessment of performance,
+particularly with regard to management performance. Unfortunately, there remains some am-
+biguityinspecifyingwhatacompetencyis.Inourview,therearethreechoices:Acompetency
+couldrefertoperformanceitself,toadirectdeterminantofperformance(e.g.,negotiatingskill),or
+toamoredistalindirectdeterminantofperformance(e.g.,opennesstoexperience).Shippmann
+etal.(2000)seemtoallowallthree.Inanattempttoclarify,Campionetal.(2011)characterize
+competenciesbothasKSAOs(determinantsofperformance)andas“performancecapabilities,”
+whichalsoseemstoallowallthree.Tettetal.(2000)didacontentanalysisofpublishedcom-
+petencymodels,identified53competencies,andattemptedtodefineeachofthe53,whichwere
+groupedinto10categories.The53competenciesdidnotuniformlyrepresentperformanceitself.
+Someseemedtorepresentanecessaryskill,andothersseemedtorepresentpersonalitycharac-
+teristics.Also,theprocessesbywhichcompetencieswerenamedandincludedinamodelwerenot
+alwaysveryclear.
+52 Campbell (cid:1) Wiernik
+gro.sweiverlaunna.www
+morf
+dedaolnwoD
+.47-74:2.5102
+.vaheB
+.nagrO
+.lohcysP
+.nagrO
+.veR
+.unnA
+.ylno
+esu
+lanosrep
+roF
+.51/42/11
+no
+seitiC
+niwT
+- atosenniM
+fo
+ytisrevinU
+yb
+dedivorp
+sseccA
+
+## Page 7
+
+Stevens(2013)discussesthecurrentstateofcompetencymodelingandseemstoconcludethat
+a competency model must include both the important determinants of performance and the
+importantfactorsofperformanceitselfbecausebotharenecessarytoinformselection,training
+anddevelopment,promotions,jobassignment,andcompensation.Thatis,inthebestofworlds,
+allcriticalHRsystemsshouldbealignedwiththesamecompetencymodel.Therealissueishow
+expertlythecompetenciesarespecifiedandassessed.
+Bartram(2005)triedtorestrictasubsetofcompetenciestoperformanceitselfandprovided
+aspecificationofthe“greateight”competenciesusedbytheconsultingfirmSHL.Thegreateight
+competenciesarehigher-orderfactorsrepresenting112individualscales,someofwhichcouldbe
+construed to represent knowledge or skill, rather than performance. However, the great eight
+probablycametheclosesttomakingcompetencysynonymouswithperformance.
+The Campbell Revision
+Givenwhathastranspiredfromthelate1980stothepresent,Campbell(2012)revisedCampbell
+etal.(1993)torepresentaconsensuslatentstructurethatisdescribedasconcretelyaspossible.
+Thatis,theintentwastouseasfewdifficult-to-defineabstractionsaspossible,eventhoughit
+makesthingssoundlessexciting.
+Theeightbasicsubstantivefactorsofindividualperformanceinaworkroleareassertedtobe
+thefollowing:
+1. Technicalperformance:Allmodelsacknowledgethatvirtuallyalljobsorworkroles
+havetechnicalperformancerequirements.Suchrequirementscanvarybysubstantive
+area(drivingavehicleversusanalyzingdata)andbylevelofcomplexityordifficulty
+withinarea(drivingataxiversusdrivingajetliner,tabulatingsalesfrequenciesversus
+modelinginstitutionalinvestmentstrategies).AsnotedbyWisecarveretal.(2007),this
+factor should also include, what they term, core interpersonal tasks such as those
+involvedwhendealingwithpatients,vendors,customers,orcommunitymembers.A
+common term for these tasks is customer service. They are no less technical than
+maintainingequipment.Thesubfactorsforthisdimensionareobviouslynumerous,
+andthedomaincouldbeparsedintowideornarrowslices.
+2. Communication: The Campbell et al. (1993) model is the only one that isolated
+communicationasaseparatedimension,butitappearsasasubfactorinvirtuallyall
+others. It refers to the proficiency with which one conveys information that is clear,
+understandable,compelling,andwellorganized.Itisdefinedasbeingindependentof
+subject matter expertise, and thus a separate factor, and is not limited to formal
+communication.Thetwomajorsubfactorsareoralandwrittencommunication,and
+theirimportancecanvarywidelyacrossworkroles.
+3. Initiative,persistence,andeffort:Thisfactoremergedfromthecontextualperformance
+andmanagementperformanceliteratures,aswellastheOCBliterature,whereitwas
+referredtoasconscientiousinitiative.ItwasalsopartoftheProjectAfactormodel.To
+makethisfactorconformtothedefinitionofperformanceusedinthisarticle,itmust
+becomposedofobservableactions.Consequently,itistypicallyspecifiedintermsof
+workingextrahours,voluntarilytakingonadditionaltasks,goingbeyondprescribed
+responsibilities,orworkingunderextremeoradverseconditions.Frese(2008)usesthe
+termactiveperformancetodescribethesekindsofactions.
+4. Counterproductive work behavior: Consistent with other models, CWB refers to
+a category of individual actions or behaviors that are under individual control and
+www.annualreviews.org (cid:1) ModelingandAssessingWorkPerformance 53
+gro.sweiverlaunna.www
+morf
+dedaolnwoD
+.47-74:2.5102
+.vaheB
+.nagrO
+.lohcysP
+.nagrO
+.veR
+.unnA
+.ylno
+esu
+lanosrep
+roF
+.51/42/11
+no
+seitiC
+niwT
+-
+atosenniM
+fo
+ytisrevinU
+yb
+dedivorp
+sseccA
+
+## Page 8
+
+haveanegativeeffectonthegoalsoftheunitororganization.Asnotedabove,there
+seemstobegeneralagreementthatCWBhastwomajorsubfactors:deviancedirectedat
+theorganizationanddeviancedirectedatotherindividuals.Also,asexplainedabove,it
+seemsreasonabletoexpectanapproach–avoidance,ormovingtowardversusmoving
+away,distinctionforbothorganizationaldevianceandindividualdeviance.
+5. Supervisory,managerial,executive(i.e.,hierarchical)leadership:Thisfactorrefersto
+leadership performance in a hierarchical relationship. It also distinguishes between
+leadershipandmanagement.Leadershipreferstotheinterpersonalinfluenceprocess.
+The substantive content, as specified by the leadership research literature, is most
+parsimoniouslydescribedbysixsubfactors(seesidebartitledSixSubfactorsComprising
+LeadershipPerformance;alsoCampbell2012),basedontheremarkableconvergenceof
+theliteraturefromtheOhioStateandMichiganstudiesthroughthecontingencytheories
+ofFielder,House,Vroom,andYettontothecurrentemphasisonbeingcharismaticand
+transformational, leading the team, and operating in highly complex and dynamic
+environments. The subfactors describe what leaders do, not the outcomes of perfor-
+mance(e.g.,effectiveleader–memberexchange,followersatisfaction,unitprofitability)
+orthedeterminants(e.g., cognitiveability,personality)ofleadershipperformance or
+the situational influences on leader performance. The subfactors are not “styles” or
+ephemeral“perceptions.”Inagivensetting,therelativeemphasisacrosssubfactorsmay
+bedifferent,anddifferentleadershipmodelsmayhypothesizedifferentpathsfromleader
+performancetoleadereffectiveness(i.e.,outcomes),whichforsomepeoplemaybethe
+interesting part, but the literature’s characterization of leader performance itself (in-
+cluding transformational and charismatic leadership) seems always within the
+boundariesofthesesixfactors(seeCampbell2013b).Similarly,thesixsubfactors
+circumscribe hierarchical leadership performance at all levels. However, the relative
+emphasisoneachsubfactormaybedifferentatdifferentorganizationallevels,andthe
+specificactionswithineachsubfactormayalsoreceivedifferentialemphases.Itisalso
+thecasethatindividualsmayreactdifferentiallytointerpersonalinfluenceattemptsby
+the“leader.”Leadershipisaseriesofreciprocalprocesses.
+6. Hierarchicalmanagementperformance:Withinahierarchicalorganization,thisfactor,
+distinctfromleadershipasinterpersonalinfluence,includesthoseactionsthatdealwith
+generating, preserving, and allocating the organization’s resources to bestachieve its
+goals. Given the existing literature, Campbell (2012) argues that there are eight
+meaningful subfactors (see sidebar titled Eight Subfactors Comprising Management
+Performance).Asistrueforthecomponentsofleadership,theremaybeconsiderably
+differentemphasesonthemanagementperformancesubfactorsacrossworkrolesand
+also as a function of the type of organization, organizational level, changes in the
+situational context, or changes in organizational goals. Also, there can be very high
+scorersandverylowscorersonboththeleadershipandmanagementsubfactors.Very
+high scorers on certain critical dimensions are transformational (e.g., Walumbwa &
+Wernsing2013).Verylowscorersaredysfunctional(Hoganetal.2011).
+7. Peer/teammemberleadershipperformance:Thecontentofthisfactorisparalleltothe
+actionsthatcomprisehierarchicalleadership(Factor5above).Thedefiningcharacter-
+isticisthattheseactionsareinthecontextofpeerorteammemberinterrelationships,and
+the peer/team relationships in question can be at any organizational level (e.g., pro-
+duction teams versus management teams). Many behaviors that comprise the OCB
+dimensionofpersonalsupport(e.g.,helping,cooperating,courtesy,motivating)thatare
+notpartofhierarchicalleadershipalsobelonghere.
+54 Campbell (cid:1) Wiernik
+gro.sweiverlaunna.www
+morf
+dedaolnwoD
+.47-74:2.5102
+.vaheB
+.nagrO
+.lohcysP
+.nagrO
+.veR
+.unnA
+.ylno
+esu
+lanosrep
+roF
+.51/42/11
+no
+seitiC
+niwT
+- atosenniM
+fo
+ytisrevinU
+yb
+dedivorp
+sseccA
+
+## Page 9
+
+8. Peer/team member management performance: A defining characteristic of the high-
+performanceworkteam(e.g.,Campbell&Kuncel2001,Goodmanetal.1988)isthat
+team members perform many management functions, such as planning and problem
+solving, determining within-team coordination requirements and workload balance,
+andmonitoringteamperformance.Inaddition,thecontextualperformanceandOCB
+literaturesbothstronglyindicatethatrepresentingtheunitororganizationtoexternal
+stakeholdersandexhibitingcommitmentandcompliancetothepoliciesandprocedures
+oftheorganizationarecriticalperformance factorsatanyorganizationallevel.Con-
+sequently,toagreaterextentthanmostresearchersrealizeoracknowledge,thereare
+importantelementsofmanagementperformanceinthepeerorteamcontextaswellasin
+thehierarchicalsetting.
+Again,theseeightfactorsareintendedtobeanintegrativesynthesisofwhattheliteraturehas
+suggestedaretheprincipalcontentdimensionsofperformanceinaworkrole.Theyaremeantto
+encompassallpreviousworkonindividualperformancemodeling,teammemberperformance,
+andleadershipandmanagementperformance.
+Becausethedifferentmodelingeffortshavehaddifferentstartingpointsandreliedondifferent
+researchstreams,thedegreeofsimilarlyacrossthemisremarkable.Consequently,weassertthat
+atagivenlevelofspecificity,theeightfactorsrepresentalatentstructureforperformancethatis
+essentially invariant across organizational levels (including the team context), functional spe-
+cialties,industrysectors,andtypesoforganizations.Thisinvariancedoesnotprecludevarying
+degreesofimportanceforthefactors,orsubfactors,asafunctionofthespecificworkrole,changes
+ingoals,orotherpropertiesofthecontext.However,aclearimplicationisthatselection,training,
+appraisal, and reward systems should be consistent with this latent structure. It is intended as
+auniversalcompetencymodelofperformance.
+This latent structure does not preclude higher-order factors (e.g., contextual performance/
+OCB)ormorespecificsubfactors(e.g.,thetaxonomyofdetailedworkactivitiesintheO(cid:3)NET
+SIXSUBFACTORSCOMPRISINGLEADERSHIPPERFORMANCE
+1. Consideration,support,person-centeredness:Providingrecognitionandencouragement,beingsupportivewhen
+peopleareunderstress,givingconstructivefeedback,helpingotherswithdifficulttasks,andbuildingnetworks
+withandamongothers.
+2. Initiatingstructure,guiding,directing:Providingtaskassignments,explainingworkmethods,clarifyingwork
+roles,andprovidingtools,criticalknowledge,andtechnicalsupport.
+3. Goalemphasis:Encouragingenthusiasmandcommitmentforthegroup/organizationgoalsandemphasizingthe
+importantmissionstobeaccomplished.
+4. Empowerment,facilitation:Delegatingauthorityandresponsibilitiestoothers,encouragingparticipation,and
+allowingdiscretionindecisionmaking.
+5. Training,coaching:Providingone-on-onecoachingandinstructionregardinghowtoaccomplishjobtasks,how
+tointeractwithotherpeople,andhowtodealwithobstaclesandconstraints.
+6. Serving as a model: Modeling appropriate behavior regarding interacting with others, acting unselfishly,
+workingunderadverseconditions,reactingtocrisisorstress,workingtoachievegoals,showingconfidence
+andenthusiasm,andexhibitingprincipledandethicalbehavior.
+(Source:Campbell2012)
+www.annualreviews.org (cid:1) ModelingandAssessingWorkPerformance 55
+gro.sweiverlaunna.www
+morf
+dedaolnwoD
+.47-74:2.5102
+.vaheB
+.nagrO
+.lohcysP
+.nagrO
+.veR
+.unnA
+.ylno
+esu
+lanosrep
+roF
+.51/42/11
+no
+seitiC
+niwT
+-
+atosenniM
+fo
+ytisrevinU
+yb
+dedivorp
+sseccA
+
+## Page 10
+
+EIGHTSUBFACTORSCOMPRISINGMANAGEMENTPERFORMANCE
+1. Decisionmaking,problemsolving,andstrategicinnovation:Makingsoundandtimelydecisionsaboutmajor
+goalsandstrategiesandforecastingfuturetrendsandformulatingstrategicandinnovativegoals(a.k.a.vision)to
+takeadvantageofthem.
+2. Goal setting, planning, organizing, and budgeting: Formulating operative goals, determining how to use
+personnelandresourcestoaccomplishgoals,anticipatingpotentialproblems,andestimatingcosts.
+3. Coordination:Activelycoordinatingtheworkoftwoormoreunitsortheworkofseveralworkgroupswithin
+aunit;thisincludesnegotiatingandcooperatingwithotherunits.
+4. Monitoringuniteffectiveness:Evaluatingprogressandeffectivenessofunitsagainstgoals,andmonitoringcosts
+andresourceconsumption.
+5. Externalrepresentation:Representingtheorganizationtothosenotintheorganization(e.g.,customers,clients,
+governmentagencies,nongovernmentorganizations,thepublic).
+6. Staffing:Procuringandprovidingforthedevelopmentofhumanresources;thisdoesnotincludeone-on-one
+coaching,training,orguidance.
+7. Administration: Performing day-to-day administrative tasks, documenting actions, and making information
+availableinatimelymanner.
+8. Commitment and compliance: Complying with and showing commitment to the policies, procedures, and
+directivesoftheorganization,togetherwithprovidingloyalconstructivecriticism.
+(Source:Campbell2012)
+datamodel).However,theargumentinCampbell(2012)isthataggregatingabovetheeightfactor
+levellosesinformation.Forexample,peerleadershipandpeermanagementaresufficientlydistinct
+thataggregatingtheminto“citizenshipperformance”mayintroduceadditionalambiguityintothe
+meaning of a particular score. Whether these distinctions can be captured with existing mea-
+surementtechnologiesisanothermatter.Twootherissueswithwhichsuchmodelsmustdealare
+theexistenceofageneralfactorandcompoundfactors.
+The General Factor
+A general factor does, in fact, exist in virtually all performance indicator covariance matrices,
+especiallythosegeneratedbyperformanceratings(Viswesvaranetal.2005).Thegeneralfactor
+can be produced both by a subset of determinants that are common across subfactors (e.g.,
+cognitive ability and conscientiousness, or real-time knowledge and skill) and by systematic
+measurementerrors(e.g.,commonmethodvariance,commonraterbias,implicitperformance
+models).However,thegeneralfactorisnotasinglelatentvariableandhasneverbeendefined
+as such (Campbell 2013a). It is a formative construct, rather than a reflective construct
+(Diamantopoulosetal.2008).Thatis,thegeneralfactordoesnotreflectasingleunderlyinglatent
+variablethatcanbespecified.Itmustalwaysbe“formed”asasum-scoreofdifferentcomponents.
+Fordecisionpurposes(e.g.,promote/notpromote),anoverallscoremustbeobtainedbyweighting
+andcombiningthecomponents(seeBorsboometal.2003forfurtherdiscussionofthisissue).
+Given an empirical general factor, there is still considerable differential performance and dif-
+ferential predictability across subfactors, and the training and development considerations are
+vastlydifferent.
+56 Campbell (cid:1) Wiernik
+gro.sweiverlaunna.www
+morf
+dedaolnwoD
+.47-74:2.5102
+.vaheB
+.nagrO
+.lohcysP
+.nagrO
+.veR
+.unnA
+.ylno
+esu
+lanosrep
+roF
+.51/42/11
+no
+seitiC
+niwT
+- atosenniM
+fo
+ytisrevinU
+yb
+dedivorp
+sseccA
+
+## Page 11
+
+Compound Performance Domains
+The eight factors are somewhat analogous to the Big Five dimensions of personality. In both
+domains,higher-orderfactorswithlessinformationalcontentandspecificfacetswithmorein-
+formationarepresentaboveandbelowthedesignatedlevelofspecificity.Inthesamemanner,just
+astherearecompoundtraitsinpersonalitythatrepresentcombinationsofbasictraits,researchers
+have also proposed compound performance dimensions that contain meaningful sets of work
+behaviorsfromseveraloftheeightfactorsthatshareacommongoal(e.g.,promotingenviron-
+mentalsustainability,Ones & Dilchert 2012; orenhancing information technology, Taylor &
+Todd1995).Thesecompoundperformance dimensionscutacrossseveraldimensions.Forex-
+ample,environmentalperformanceincludestechnicalbehaviors(e.g.,installingsolarpanels),peer
+support behaviors(e.g.,encouragingotherstorecycle),andcounterproductive behaviors(e.g.,
+failing to follow waste disposal procedures). It is meaningful to study these behaviors as a set
+because they are relevant for a common goal and share common antecedents and outcomes.
+However,thesecompounddimensionsshouldnotbeseenassomehowseparatefromtheproposed
+latentstructureofperformance.
+CONTENT VERSUS PROCESS IN CONCEPTUALIZING PERFORMANCE
+Whenattemptingtosummarizeeffortstomodelworkperformance,itisimportanttodistinguish
+betweenspecificationsforperformancecontentandspecificationsfortheperformanceprocess
+(i.e., the context in which performance takes places and the manner in which performance
+develops and changes over time). So far, this article has centered on a model of performance
+content,aboutwhichthereisvirtuallyaconsensus.Thereisaparalleluniversethataddressesthe
+parametersofperformancedynamics,includingsuchconceptsasactive,proactive,andadaptive
+performance. These two areas of inquiry, the latent structure of performance content and the
+natureofperformancedynamics,arenotincompetition.Theyaddressdifferentissues,buteach
+hasimportantimplicationsfortheother.
+Performance Dynamics
+No one seriously argues that individual work performance does not change over time, either
+because the performance requirements change and individuals respond or because individuals
+change even when performance requirements do not. Much of this literature is reviewed by
+Sonnentag&Frese(2012).Thereareatleastthreeaspectsofperformancerequirementsthatcould
+change:(a)thebehavioraland/orcognitivecontentoftherequirements,(b)thelevelofperfor-
+manceexpected,and(c)theconditionsunderwhichaparticularlevelofperformanceisexpected
+(orsomecombinationofthese).Ifthereareinteractiveeffectsbetweenindividualsandthenatureof
+theworkrolecontentchanges,thenchangesintherankorderingofpeopleovertimeresultfrom
+multiplesources.Giventhecurrentandfuturenatureofemployment,itisreasonabletoexpectthat
+suchthingswillhappenandarehappening.Changeiscomplicated.
+Much of organizational psychology and organizational behavior (OP/OB) research and
+practicedealswithplannedinterventionsdesignedtochangeperformancebyenhancingthein-
+dividualknowledge,skill,andmotivationaldeterminantsofperformance,suchastrainingand
+development, goal setting, feedback, incentives of various kinds, supervision, and so on. Such
+interventions,withperformancerequirementsheldconstant,couldincreasethegroupmean,have
+differentialeffectsacrosspeople,orboth.Theaptitude–treatmentinteractionisalwayswithus.
+Theperformancechangesproducedcanbesizable(e.g.,Katzell&Guzzo1983,Locke&Latham
+www.annualreviews.org (cid:1) ModelingandAssessingWorkPerformance 57
+gro.sweiverlaunna.www
+morf
+dedaolnwoD
+.47-74:2.5102
+.vaheB
+.nagrO
+.lohcysP
+.nagrO
+.veR
+.unnA
+.ylno
+esu
+lanosrep
+roF
+.51/42/11
+no
+seitiC
+niwT
+-
+atosenniM
+fo
+ytisrevinU
+yb
+dedivorp
+sseccA
+
+## Page 12
+
+2002). Interventions designed to enhance individual performance determinants can also be
+implementedbytheindividual’sownprocessesofself-managementandregulation(Lordetal.
+2010).Thatis,asaresultofanindividual’sself-monitoringandself-evaluationofhisorherown
+performanceagainstgoals,additionaltrainingcanbesought(perhapsfromcoworkers),different
+performance goals can be self-set, feedback can be sought, and self-efficacy can change. The
+effectivenessoftheseself-regulationprocessescanvarywidelyacrossindividuals.Inaddition,if
+theyhavethelatitudetodoso,peoplecanconducttheirownjobredesign(i.e.,changethebe-
+havioralcontentoftheirworkroles)tobetterutilizetheirknowledgeandskillsandincreasethe
+efforttheyarewillingtospend.Academicsarefondofdoingthat.
+AsnotedbySonnentag & Frese (2012), individual performance can also change simply as
+afunctionofthepassageoftime.Ofcourse,timeisasurrogateforsuchthingsaspracticeand
+experience,theagingprocess,andchangesinaffectiveoremotionalstates(Bealetal.2005).
+Itismostlikelythecasethatforanygivenindividualoveranygivenperiodoftime,manyof
+these sources of performance change are operating simultaneously. Performance dynamics are
+complex,andattemptstomodelthecomplexityhavetakenmanyforms.Forexample,therecould
+be characteristic growth curves for occupations (Murphy 1989b), differential growth curves
+acrossindividuals(Hofmannetal.1992,Stewart&Nandkeolyar2007,Zyphuretal.2008),both
+linearandnonlinearcomponentsforgrowthcurves(Deadricketal.1997,Sturman2003),and
+cyclical changes resulting from a number of self-regulatory mechanisms (Lord et al. 2010).
+Empiricaldemonstrationsofeachofthesehavebeenestablished.
+A very recent, and very thorough, review of theory and research pertaining to within-person
+dynamics,andtheirantecedents,isprovidedbyDalaletal.(2014).Theauthorsoutlinetheimpli-
+cationsofwithin-personvariabilityforbothselectionandperformanceassessment.Theirmessage,
+andthemessagehere,isthatperformancedynamicsaremostlikelydimensionspecific.Thatis,the
+likelihoodandnatureofchangesinthebehavioralcontent,difficultylevel,andsituationalparameters
+of performance most likely differ across performance dimensions. Similarly, the determinants of
+individualsbeingabletocopewith(i.e.,adaptto)suchdynamicscanalsodifferacrossperformance
+dimensions(Pulakosetal.2006).Thinkingofperformanceasonethingiscounterproductive.
+Performance Adaptability
+Theconceptofadaptability,asaparticularkindofperformancedynamic,hastakenonmany
+meaningsintheliterature.Foraverybroadandthoroughreviewofadaptabilityasaconstruct,the
+reader is directed to Baard et al. (2014) and Chan (2014). For the purposes of this article,
+adaptability refers to being able to deal effectively with some combination of the following:
+changesinorganizationgoals,changesinindividualperformancerequirements,andchangesinthe
+performanceenvironment,whichhavealreadybeenidentifiedorareanticipated.Adaptabilitycan
+beviewedeitherasacomponentofperformanceitselforasapropertyoftheindividual(i.e.,a
+determinantofperformance).Ployhart&Bliese(2006)presentadiscussionofthisissueandargue
+thatitisprobablymoreusefultoidentifythecharacteristicsoftheadaptiveindividualthanitisto
+proposeadaptabilityasadistinctcontentdimensionofperformance.Onereasonisthatthegeneral
+definition of adaptability is not content domain specific, and it has been difficult to provide
+specificationsforadaptabilityasaperformancedimension.ThebestattempttodosoisbyPulakos
+etal.(2000),whoproposedeightadaptabilityperformancefactors,whichtheyregardaspartofthe
+latentstructureofperformance.Thefactorswereobtainedbyminingalargedatabaseofcritical
+incidents of effective and ineffective performance and using systematic SME (subject matter
+expert) judgments to identify and categorize the incidents that were reflective of adaptation.
+Consequently,theseauthorsdisagreewiththePloyhart&Bliese(2006)position.
+58 Campbell (cid:1) Wiernik
+gro.sweiverlaunna.www
+morf
+dedaolnwoD
+.47-74:2.5102
+.vaheB
+.nagrO
+.lohcysP
+.nagrO
+.veR
+.unnA
+.ylno
+esu
+lanosrep
+roF
+.51/42/11
+no
+seitiC
+niwT
+- atosenniM
+fo
+ytisrevinU
+yb
+dedivorp
+sseccA
+
+## Page 13
+
+However,theinterpretationoftheadaptabilityfactorsisnotentirelystraightforward.Someof
+themseemtorepresentgeneralskills(handlingstress,solvingproblemscreatively),whereasothers
+couldbeconstruedasspecificsubfactorsofperformance(handlingparticularkindsofemergen-
+cies).Partofthedifficultyisbeingclearaboutthedistinctionbetweenthedirectknowledge,skill,
+andmotivationaldeterminantsofperformance(e.g.,knowinghowtohandlestress),thecontextin
+whichperformancetakesplace(e.g.,stressfulsituations),andperformanceitself(e.g.,managing
+negativeemotionaldisplays).Researchoneachisofgreatvalue.Forexample,Ployhart&Bliese
+(2006) developed a measure, basedon the Pulakos et al. (2000) factors, of self-assessed skills,
+interests,andresponsetendencies.Pulakosetal.(2002)alsodevelopedaself-reportmeasureof
+priorexperiences,skilllevels,andinterestsrelativetotheeightadaptabilityperformancefactors
+they proposed. The two instruments both assess performance determinants and should show
+considerableconvergentvalidity.
+ItwouldalsobeusefultofirstsorttheoriginalsampleofcriticalincidentsusedbyPulakosetal.
+(2000)intoperformancedimensionsandthenidentifythosethatreflectadaptability.Usingthis
+framework, the adaptive incidents should reflect exceptionally high performance on each di-
+mension.Again,suchaframeworkregardsadaptabilityasdimensionspecificandnotasseparate
+componentsofthelatentstructureofperformance.
+Insum,workroleperformancerequirementscanchangeovertime,sometimesoververyshort
+periodsoftime,asaresultofmanyfactors.Themessageinthisarticleisthatthelatentstructureof
+individualworkperformanceismultidimensional,andtheeightfactorsdiscussedaboverepresent
+aconsensusdevelopedoverseveraldecades.Intermsofinvestigatingsuchthingsas(a)thenature
+ofadaptiveperformance,(b)thedeterminantsofadaptiveperformance,(c)thecorrelationofpast
+performancewithfutureperformanceovertime(andthereasonsthatitincreasesordecreases),(d)
+characteristic performance growthcurvesforoccupationsorindividuals, and(e)thenature of
+performance changes across situations and contexts and over time, the research should be di-
+mension specific.Performance is notonething, andneitherisadaptability. Consequently, any
+procedureforassessingperformancemustbeclearaboutthebehavioralcontentofwhatistobe
+assessedandalsoaboutwhatperformancedynamicsaretobeaccountedfor.
+PERFORMANCE ASSESSMENT
+Thestructureanddynamicsofperformancearecomplex,whichmakesassessmentofperformance
+a very difficult enterprise. Much of the difficulty results from the necessity of defining per-
+formanceasthingsthatpeopleactuallydo.Thisspecificationrulesoutusingexistingoutcomes
+(e.g.,sales,defects,ROI)asperformancecriteriaifasignificantportionoftheirvarianceisnot
+controlledbytheindividual.Now,itisalsotruethatworkrolesaredesignedorinventedto
+accomplishorganizationalgoalsandinfluencethebottomline(seePloyhart&Hale2014),and
+thecausalpathisacomplicatedandinterestingone.However,thebasictenethereisthatthe
+individualshouldnotbeheldaccountableforoutcomedeterminantsoverwhichheorshehas
+nocontrol.
+Purposes for Performance Assessment
+Itiswellrecognizedthatperformancecanbeassessedforoneormoreofseveraldistinctreasons
+andthatthemeasurementpurposehasasubstantialinfluenceonthemeasurementformat,the
+resultsoftheassessment,andtheeffectsoftheassessmentonsubsequentperformance(Murphy&
+Cleveland1995).Considerjustthefollowingpotentialreasonsforperformanceassessment.
+www.annualreviews.org (cid:1) ModelingandAssessingWorkPerformance 59
+gro.sweiverlaunna.www
+morf
+dedaolnwoD
+.47-74:2.5102
+.vaheB
+.nagrO
+.lohcysP
+.nagrO
+.veR
+.unnA
+.ylno
+esu
+lanosrep
+roF
+.51/42/11
+no
+seitiC
+niwT
+- atosenniM
+fo
+ytisrevinU
+yb
+dedivorp
+sseccA
+
+## Page 14
+
+Forresearchpurposes. Theobjectivehereistoestimatetheindividual’s“truescore”ononeor
+moredimensionsofperformancetoevaluatethevalidityofselectionprocedures,assesstheefficacy
+ofinterventionsintendedtoimproveperformance,ortestavarietyoftheoreticallyderivedhy-
+pothesesthatfeatureperformanceasakeyvariable.Forthesepurposes,theconstructvalidityof
+themeasure—thatis,whetheritassessescomponentsofthemodeldescribedabove—istheprime
+concern.Reliabilityisalsoimportant,butconstructvalidityandreliabilityareoftenputatrisk
+becauseresearchiscostlyandnotwellsupportedinourfieldandbecausethoroughperformance
+assessmentdoesnothaveahighpriorityinmanyresearchstudies.
+Forlegaldefenseofpersonneldecisions. Theobjectivehereistosupportthevalidityofspecific
+personnel decisions for meeting certain legal requirements. Similar to research purposes, the
+primary concern for these performance assessments is construct validity and measurement re-
+liability,withreliability beingparticularly important.Given thepotentialforseriouslegaland
+financialconsequencesofpoorvalidityandreliabilitydocumentation,appropriatemeasurement
+designismorecommoninthesesituationsthanwhenassessmentispurelyforresearchpurposes.
+Forhigh-stakesappraisal. Thehighstakesreferredtoherearepromotion,dismissal,reassign-
+ment,andcompensationdecisions.Boththeindividualandtheorganizationhavevitalinterestsin
+theresultsoftheassessmentandcouldbeexpectedtopayconsiderableattentiontotheirrespective
+interests.Considerationsoffairness,transparency,accuracy,appraisalgoals,andmotivation(of
+both the appraiser and appraisee) become paramount (DeNisi & Pritchard 2006, DeNisi &
+Sonesh2011,Murphy&Dechert2013).
+Forperformancefeedbackanddevelopment. Assumingthathigh-stakesdecisionsarenotdirectly
+involved,theemphasishereisonidentifyingspecific,substantiveperformancebehaviorsthatneed
+enhancement or improvement. Building on Kluger & DeNisi (1996), the feedback literature
+stipulatesthat,fordevelopmentalpurposes,feedbackshouldbeveryconcreteandveryspecificto
+theindividual’sperformance. Assessmentofanindividualonthegeneralfactorsorsubfactors
+discussedintheprevioussectionwouldnotbeuseful,unlessaccompaniedbymorewithin-factor
+specifics.Also,tothegreatestextentpossible,thefeedbackprocessshouldavoidoverallevalu-
+ationsoftheappraiseeorevenoverallevaluationsonparticulardimensions,suchastechnical,
+communication,orpeerleadershipperformance.Suchevaluationsriskdivertingattentionaway
+fromspecificperformanceimprovementstoaffectiveself-evaluations.
+Forself-managedperformanceimprovement. Here,theperformancegoalsareself-set,butthe
+requirementsforfeedbackonspecificactionsandavoidanceofgeneralevaluationsarethesame.
+Individualsmustconducttheirself-appraisalaccordingly.
+Eachoftheabovepurposesarequitedifferent,butallofthemshouldbeguidedbythebasic
+requirementthattheassessmentmustconsideralloftheeightperformancefactors,atsomelevelof
+specificity,tobeacomprehensivemeasureofperformance.
+General Measurement Issues
+Anyattempttoassessworkperformancemustalsoconsiderthefollowinggeneralmeasurement
+issues.
+Typicalversusmaximumperformance. Thisdistinctionreferstothedirection,amplitude,and
+durationofeffortfocusedontaskaccomplishment.Aretheyatthelevelstypicallyexhibitedby
+60 Campbell (cid:1) Wiernik
+gro.sweiverlaunna.www
+morf
+dedaolnwoD
+.47-74:2.5102
+.vaheB
+.nagrO
+.lohcysP
+.nagrO
+.veR
+.unnA
+.ylno
+esu
+lanosrep
+roF
+.51/42/11
+no
+seitiC
+niwT
+- atosenniM
+fo
+ytisrevinU
+yb
+dedivorp
+sseccA
+
+## Page 15
+
+individualsintheirworksettings,ordotheyreflectspecificconditionsthatkeepattentionhighly
+focused,increaseeffortlevels,andmaintainhighereffortlevelsforsomeperiodoftime(DuBois
+etal.1993)?Performanceundersuchconditionsisdesignatedasmaximumperformance.Ifthe
+goalistoassess maximumperformance, whichmaybeappropriate forassessingperformance
+capabilitiesundercertaincriticalconditions(Mangosetal.2007),thentheassessmentmethod
+mustaccountfortheappropriatemotivationalconditions.However,Dalaletal.(2014)arguethat
+besidesgreatereffort,requirementsformaximumperformancecanalsobringadditionalabilities
+intoplay.Assessmentmustalsoaccountforthefactthatinanygivenworkrole,differentper-
+formancerequirementsmayhavedifferentpriorities(Mangos&Arnold2008)andthatrequiring
+greatereffortmaycreateunusualpressuresthatdegradeperformanceoncomplextasks(Klehe&
+Anderson2007).Also,someperformancerequirementssimplymightnotbeamenabletoincreases
+ineffort(Sackett2007),suchasthosethatincorporatetheleadershipandmanagementfactors
+discussedabove.Beus&Whitman(2012)carriedoutameta-analysisofthetypical/maximum
+performanceliterature.Theestimatedcorrelation(corrected)betweenthemwas.42.Differential
+predictionoftypicalversusmaximumperformanceandvariablesthatmoderatedtherelationship
+betweenthemwerealsoexamined.Undercertainconditions,thecorrelationbetweenthemcanbe
+quitehigh(e.g.,Deadrick&Gardner2008).
+Performance dynamics. Asdiscussedabove,performanceisnotstatic.Itcanchangebecauseof
+changesinperformancerequirements;changesintheindividualbecauseoftraining,goalsetting,
+motivationalinterventions,affectivestates,aging,etc.;orchangesinsituationalconditions,suchas
+constraintsoropportunitiescreatedbycoworkersorproductionpractices(Stewart&Nandkeolyar
+2007).Theassessmentmethodmusttakethesedynamicsintoaccount,ifnecessary,toachievethe
+measurementpurpose.Ingeneral,thismustbedoneeitherbyrepeatedmeasurements(e.g.,Stokes
+etal.2010)orbycapturingsummaryjudgmentsofperformancechangeovertime.Again,assessment
+of performance change should be dimension specific. For example, the dynamics of technical
+performanceandteam/peerleadershipperformancearemostlikelydifferent.
+Cross-culturalperformanceassessment. Asdescribedabove,Campbell’s(2012)eightfactorsare
+presentedasageneralmodelofthelatentstructureofjobperformancethatisuniversalacrossjobs,
+organizations,industries,andlevels.Inaddition,webelievethatitisuniversallyapplicableacross
+cultures. Althoughtherelationships amongfactorsandtherelativeimportance offactorsmay
+differacrossjobs,webelievethattheseclustersofworktasksexisttosomedegreeinalljobsaround
+theworld.Withthispointinmind,itisimportanttounderstandhowspecificmanifestationsof
+andrelationshipsamongperformancefactorsdifferacrosscultures,aswellashowassessment
+practices differ in various contexts. Empirical studies of the structure of performance in non-
+American,non-Europeancontextshaveonlyrecentlybeenundertaken.Forexample,He(2012),
+Rotundo & Xie (2013), and Xu et al. (2013) all examined the structure of CWB in Chinese
+organizations.AlthoughsomedimensionsmanifestdifferentlyinChinathaninWesterncultures
+(e.g.,interpersonalaggressionwasexpressedprimarilythroughindirectandpoliticalbehaviors,
+ratherthanthroughconfrontation),ingeneral,theobservedstructureswereremarkablysimilarto
+findings fromAmerican andEuropean samples. More studiesofthis nature,especially studies
+examiningthelower-orderstructureofotherdimensionsofperformanceandtherelationships
+amongtheeightfactorsinnewculturalcontexts,areneeded.
+Researchexaminingculturaldifferencesinperformanceassessmentprocessesisalsorelatively
+new.Festingetal.(2012)provideanoverviewofcomparativestudiesofperformanceappraisal
+practicesandconsiderationsthatmustbemadewhendesigningperformanceevaluationsystems
+acrossculturalcontexts,suchastheinfluenceofuniqueculturalvaluesonevaluationpractices.For
+www.annualreviews.org (cid:1) ModelingandAssessingWorkPerformance 61
+gro.sweiverlaunna.www
+morf
+dedaolnwoD
+.47-74:2.5102
+.vaheB
+.nagrO
+.lohcysP
+.nagrO
+.veR
+.unnA
+.ylno
+esu
+lanosrep
+roF
+.51/42/11
+no
+seitiC
+niwT
+- atosenniM
+fo
+ytisrevinU
+yb
+dedivorp
+sseccA
+
+## Page 16
+
+example, common Chinese valuesof modesty, leniency, and guanxi (social harmony andcon-
+sideration)mayreducetheobjectivityofperformanceratings,asboththeassessorandassesseeuse
+theevaluationprocesstoserveothergoals(Barron&Sackett2008).Themostcomprehensive
+examination of international differences in performance appraisal practices was conducted by
+Peretz&Fried(2012).Theseauthorsfoundsubstantialvariabilityinthestructureandformal-
+ization of performance appraisal across the large number of organizations from 21 countries
+studied.Thisvariabilitywasstronglyrelatedtoculturalcharacteristics,suchaspowerdistance,
+collectivism, and future orientation. Additionally, within a country, organizations that had
+normativeperformanceassessmentpracticesexperiencedlessabsenteeismandturnoverthandid
+organizationswithculturallydivergentpractices.Theseresultsfurtherreinforcetheconclusion
+thatperformanceassessmentsystemsdesignedforcross-culturaluseneedtoaccommodatelocal
+practicesandpreferencestofulfilltheirpurposes.
+The distributional properties of performance. Recently, O’Boyle & Aguinis (2012) raised the
+issue of the distributional properties of individual performance and their implications for per-
+formanceassessment,prediction,andmanagement.Basedonfiveexamples(facultypublication
+counts,entertainmentindustryawards,frequencyofbeingelectedtostatelegislatures,andboth
+positiveandnegativesportsperformanceindicators),theyarguethataParetodistributionfitsthe
+datafarbetterthananormaldistribution,thuscallinganumberofstatisticalestimationmethods
+(e.g.,multipleregression)intoquestion.Further,assessmentviaratingsisinappropriate,intheir
+opinion, because most applications of rating methodologies attempt to force a normal distri-
+bution.Theirprescriptionsaretoassessoutcomes,notbehavior,andtoachievegreaterdiffer-
+entiationamongthehighest“elite”performers,ifpossible.Itisthehighestperformersthat
+facilitateorganizationalsuccess.ThesethemesareamplifiedinAguinis&O’Boyle(2014).Beck
+et al. (2014) have taken issue with the O’Boyle & Aguinis assertions. They argue that seven
+conditionsmustbesatisfiedbeforeadatadistributioncanbecalledaperformancedistribution.
+Theythenanalyzeseveralrepresentativedatasets,includingindicatorsofsportsperformance,that
+meettherequirements,andshowthatanormalmodeldoesfitthedata.Theirconclusionisthatthe
+O’Boyle&Aguinisresultsarelargelytheresultofstatisticalartifacts.
+Giventhedistinctionwemakebetweenperformanceanditsoutcomes,perhapsthemostsalient
+point hereis that a particular outcome distribution could be quite skewed, butthe underlying
+performancedistributioncanapproachnormality.Forexample,onlyafewgolfprofessionalsever
+winamajortournament.Mostdonot(askeweddistribution).However,thedistributionofactual
+scores(performance)ismuchmoresymmetrical.Parametricmethodsshouldprobablynotbeused
+withhighlyskewedoutcomedistributions.Also,therelationshipofperformancetotheutilityof
+outcomesneednotbelinearandcouldtakemanyforms.Finally,individualperformancemaynot
+betheonlydeterminantoftheoutcomedistribution,andthereliabilityoftheoutcomeindicator
+itselfisanissue.Forexample,theoutcomesofmutualfundmanagersappeartohavezeroyear-to-
+yearreliability(Carhart1997,Sauer1997).
+Performance Assessment Methods
+Thereareanumberofmethodsthatattempttoassessindividualworkperformance,andeach
+hasitsstrengthsandweaknesses.Thereisnoultimatecriterionorevenonebestway.Inthis
+section,weconsidertheapplicabilityofdifferentmethodsfordifferentassessmentpurposesand
+theabilityofeachmethodtoassessperformanceitself,aswellasdealwiththemeasurementissues
+describedabove.
+62 Campbell (cid:1) Wiernik
+gro.sweiverlaunna.www
+morf
+dedaolnwoD
+.47-74:2.5102
+.vaheB
+.nagrO
+.lohcysP
+.nagrO
+.veR
+.unnA
+.ylno
+esu
+lanosrep
+roF
+.51/42/11
+no
+seitiC
+niwT
+- atosenniM
+fo
+ytisrevinU
+yb
+dedivorp
+sseccA
+
+## Page 17
+
+Ratings. Performanceratingsbysupervisors,peers,subordinates,orbyoneselfareubiquitous,
+andthisliteraturehasbeenreviewedextensively(e.g.,DeNisi&Sonesh2011,Levy&Williams
+2004,Murphy&Dechert2013,Woehr&Roch2012).Wehighlightonlythemajorissueshere.
+Theoverridingissueiswhetherratingshaveconstructvalidityforthepurpose(s)forwhichthey
+aretobeused.Thatis,areindividualdifferencesinratingscoresreflectiveofindividualdifferences
+inperformanceitself?Fundamentaltojudgmentsofconstructvalidityarethespecificationsfor
+whatisbeingmeasured.Foranygivensituation,wemustspecifywhatperformanceis,andwhatit
+isnot,asconcretelyandcompletelyaspossible.Thisincludesconsiderationsofthedynamicstobe
+considered(e.g.,beingadaptive),thetimeintervalofinterest,andthetypicalversusmaximum
+performancerequirements,inadditiontothesubstantivecontentofthelatentstructure.Without
+suchspecifications,constructvalidassessmentisproblematic.
+The kinds of evidence supporting construct validity are: the correspondence between the
+performancespecificationsandtheinstructionsgiventoraters(includingtheratingformat);the
+operativegoalsoftherater(i.e.,dotheycorrespondtothemeasurementpurpose?);therater’slevel
+ofknowledgeaboutwhatistoberated;thelevelofinterrateragreementandinterraterreliability;
+thecorrelationsofratingswithperformanceassessmentsusingalternativemethods;thepatternof
+correlationswithothervariables;theexistence,ornonexistence,ofraterbiases(halo,leniency,
+central tendency); and the degree to which ratings are contaminated, or not contaminated, by
+particular variables (e.g., rater/ratee gender or race, opportunity to observe, the rater’s own
+performancelevel,rateraccountability,therater’sinterpersonalrelationshipwiththeratee,rater
+personality, level of rater effort, the rater’s own implicit performance model versus the one
+prescribedbyratinginstructionsandformat,andtheimpressionmanagementstrategiesofthe
+ratee).Allofthesehavereceivedvaryingdegreesofresearchattention.
+Oneofthemostcriticalfactorsisthegoaloftheraterduringhigh-stakesappraisal(DeNisi&
+Sonesh2011,Kozlowskietal.1998,Levy&Williams2004,Spence&Keeping2010).Thegoalof
+assessingtheratee’strueperformancehasfrequentlybeenshowntobelessimportantthanal-
+ternative rater goals, such as rewarding or punishing the ratee, conforming to organizational
+expectations,oradvancingtherater’sself-interests.Consequently,itcouldbearguedthatratings
+shouldnotbeusedashigh-stakesappraisalsunlessthegoalsandmotivationoftheraterscanbe
+aligned with the goals of accuracy, fairness, and transparency (Pulakos & O’Leary 2011). In
+general, high-stakes appraisals do not work very well as research criteria, and their construct
+validityasassessmentsofperformanceitselfissuspect(Murphy&Dechert2013).
+Theuseof360ratingsforfeedbackandmanagementdevelopmentpurposesiswidespread.
+Most 360 systems are based on competency models that specify the capabilities that a high-
+functioning manager/executive should have (DeNisi & Kluger 2000). As already noted, com-
+petenciescanreflectpersonalitycharacteristics,motivationaltendencies,knowledge,skills,
+dimensionsofperformanceitself,orevenoutcomemeasures(e.g.,“achievesresults”).Inpractice,
+theytendtolacksubstantivespecifications,whichmakesusingthemforfeedbackpurposesdifficult
+(Campion et al. 2011, Tett et al. 2000), and competency ratings tend to have low interrater
+agreement.Sanchez&Levine(2009)arguethatcompetencymodelsfunctionbetterasgeneral
+goalsthanasameansforindividualassessment.
+For ratings as research criteria, perhaps the most contentious argument concerns whether
+interrater correlations represent the reliability of performance ratings. Murphy (2008) and
+Murphy&DeShon(2000)arguethattheydonot,andtheseauthorscalltheconstructvalidityof
+ratingsintoquestion.Onesetal.(2008)andSchmidtetal.(2000)contendthatinterratercor-
+relationsaretheappropriateestimatorofperformanceratingsreliabilityinmostsamplesusedin
+organizationalresearch.Forthem,theconstructvalidityoftheratingsisaseparateissue.Putka&
+Hoffman(2014)agreewithSchmidtandcolleagues(2000)foraspecificsetofconditionsbutalso
+www.annualreviews.org (cid:1) ModelingandAssessingWorkPerformance 63
+gro.sweiverlaunna.www
+morf
+dedaolnwoD
+.47-74:2.5102
+.vaheB
+.nagrO
+.lohcysP
+.nagrO
+.veR
+.unnA
+.ylno
+esu
+lanosrep
+roF
+.51/42/11
+no
+seitiC
+niwT
+-
+atosenniM
+fo
+ytisrevinU
+yb
+dedivorp
+sseccA
+
+## Page 18
+
+elaborateonhowcharacteristicsofthemeasurementdesign(e.g.,fullycrossed,nested,partially
+nested,illstructured),theresearchquestionsbeingasked(e.g.,predictingtherankorderingof
+rateesversusassessingtheiractualperformancelevel),andthekindsofgeneralizationsdesired
+(e.g.,generalizingacrossratersorgeneralizingacrossdimensions)influencetheappropriatechoice
+ofthereliabilityestimator.Thechoiceofestimatorcaninfluencethevalueofthereliabilityes-
+timate.Ingeneral,misspecifyingthereliabilityestimatorcanunderestimatereliabilitiestovarying
+degrees,butthediscrepanciesbecomesubstantialonlyinveryill-structureddesigns.Formost(but
+certainlynotall)researchdesignsthathavebeenreported,estimatingreliabilityusingtheinterrater
+correlation, rather than proposedalternativesthat explicitly estimateadditional sourcesof
+variance, is not likely to yield seriously biased estimates. However, given at least modest reli-
+abilities,thebasicquestionisstillwhethersupervisorandpeerratingsreflectindividualdifferences
+inperformanceorindividualdifferencesinratees,raters,ortheirinteractions,whichareunrelated
+toperformanceitself.
+Thereisnotspacetoreviewtheconstructvalidityevidenceindetail,butatleastthefollowing
+pointsarerelevant.Ratingsdotendtoexhibitconsiderablehaloandleniencyeffects.Whetherthisis
+errororvalidvarianceisanothermatter.However,ratingsforresearchpurposestendtoexhibitless
+raterbiasthandoratingsforhigh-stakespurposes.Asacognitivedecision-makingprocess,ratingsare
+susceptibletoprimacyandrecencyeffectsandastrongtendencytomakejudgmentsquicklyusing
+shortcutheuristics(Fisher2008).Ratersmustprocessalotofinformation,muchofitfrommemory.
+Consequently,interraterreliabilityishigherfornonmanagerialandlesscomplexjobs,whereper-
+formanceismorereadilyobservableandconcretelyspecified(Conway&Huffcutt1997).
+Ratersourceeffectshavebeenstudiedrelativelyextensively.Ingeneral,self-assessmentsex-
+hibitgreaterleniency,lessaccuracy,andlowercorrelationswithothervariablesthandoother
+sources(Dunning et al. 2004, Heidemeier & Moser 2009). They seem to have little construct
+validity.Sourceeffectsforsupervisors,peers,andsubordinateshavebeenreviewedbyHoffman
+etal.(2010),Hoffman&Woehr(2009),andLanceetal.(2008).Thesummaryconclusionsare
+thatalthoughratersourcedifferencesarenotlarge,theyalsodonotrepresenterror.Different
+raterscanhavedifferentperspectives.Consequently,raterintercorrelations,tosomesmalldegree,
+can be underestimates of rater reliability. However, different sources do not seem to produce
+differentfactorstructures(Campbell&Knapp2001,Facteau&Craig2001).Severalresearchers
+havealsopointedouttheshortcomingsofthemultitrait-multimethodmatrixasawaytomodel
+rating variance components when dealing with incomplete designs. Putka & Hoffman (2014)
+suggestalternatives.
+Finally, a great deal of evidence shows that ratings have consistent correlations with other
+variables(e.g.,cognitiveabilityandpersonality)andthattherearemeaningfuldifferentialcor-
+relationsofsuchvariableswithratingsofdifferentperformancedimensions(e.g.,Organ et al.
+2011).Theresearchonratertraining,particularlyframe-of-referencetraining,showsthatsuch
+training significantly improves the construct validity of ratings (Noonan & Sulsky 2001,
+Schleicheretal.2002),whichwouldnotbeexpectedifratingsdidnotassessperformanceitself.A
+recentstudybyHoffmanetal.(2012)evaluatedtheuseofframe-of-referencescales(FORS),which
+attempttoprovidemorecompletespecificationsforthedimensionstoberated,andshowedthem
+tohavegreaterconstructvalidityandaccuracythantraditionalscales.Also,ameta-analysisby
+Bommeretal.(1995)suggeststhatalthoughtheoverallcorrelationsbetweenratingsandalternative
+“objective”measuresofperformancearerelativelylow,whentheperformancecomponentsbeing
+assessed are similar, the intercorrelations are higher. This was supported in a comprehensive
+multimethodstudyofjetenginemechanicperformance(Vanceetal.1988).Thereisalsoamodest
+literatureontherelationshipofassessmentcenterratingsandperformanceratingsobtainedlater
+(Hermelin et al. 2007). The correlations are reasonably high, even though assessment center
+64 Campbell (cid:1) Wiernik
+gro.sweiverlaunna.www
+morf
+dedaolnwoD
+.47-74:2.5102
+.vaheB
+.nagrO
+.lohcysP
+.nagrO
+.veR
+.unnA
+.ylno
+esu
+lanosrep
+roF
+.51/42/11
+no
+seitiC
+niwT
+- atosenniM
+fo
+ytisrevinU
+yb
+dedivorp
+sseccA
+
+## Page 19
+
+ratingsandlaterperformanceratingsreflectthemaximumversustypicalperformancedistinction
+(i.e.,assessmentcentersaredesignedtoelicitmaximumperformance).
+Inourjudgment,theconstructvalidityofperformanceratingsisrelativelysubstantial,even
+thoughtheperformanceconstructispoorlyspecifiedinmanystudiesandraterbiasesdoexist.
+Constructvaliditywouldbeenhancedfurthertotheextentthatperformanceisconcretelyspec-
+ified;thespecificationsareincorporatedinratertrainingandtheratinginstruments;andraters(a)
+haveobservedtherateeextensively,(b)accepttheratinggoalandtheperformancespecifications,
+(c)understandtheratinginstrumentation,(d)knowtheyareaccountableforratingaccuracy,(e)
+haveampletime,and(f)aresensitivetosuchcontaminantsaslikingfortheratee.Theseconditions
+areprobablynotmetinmanydatacollections.
+Samples,simulations,andproxies. Theuseofworksamplesandsimulationsascriterionmea-
+sureshasalonghistoryinappliedpsychology.Forexample,performanceonworksamplescon-
+stitutedalargeamountofthedatausedinProjectAtodeveloptheenlistedandNCOperformance
+models.Hunter(1983)discussedtherelativeconstructvalidityofratingsandworksamplesas
+measuresofjobperformance,andHoward(1983)proposedtheuseofworksamplesandsim-
+ulationstoevaluatetrainingoutcomes.Distinctionsarefrequentlydrawnbetweenworksamples,
+in which an individual performs an actual job task using real job materials (e.g., fixing a real
+engine, processing real client emails), and simulations, in which individuals perform tasks in
+fabricatedsituationsorwithfacsimilesoftaskmaterials(e.g.,drivingusingavideosimulator,role
+playingaconflictnegotiation).Althoughthereareconceptualdifferencesbetweentheseformsof
+assessment,theiruseasmeasuresofperformanceisbasedonthesamelogic,and,inmostcases,the
+choice of one over the other is one of practicality, rather than conceptual choice. Also in this
+categoryofmeasuresarebehavioralproxiesthatattempttoelicitthesameperformanceresponses
+asactualorsimulatedworktasks,butthatdonotcloselymimicactualjobtasksorsituations.The
+primaryexamplesofthiskindareassessmentcenterexercises,whichareincreasinglybeingused
+fordevelopmental(Ruppetal.2006)andevenperformanceevaluationpurposes(Riggioetal.
+2003).Thesethreemethodssharemostofthesamestrengthsandweaknesses.Consequently,for
+thepurposesofthisarticle,werefertoallofthemassimulations.
+Oneofthekeyadvantagesofsimulationsoverothermeasuresofjobperformanceistheirability
+toassessemployees’capabilitiesforperformingcriticaltasksthatareotherwisedifficult,unethical,or
+impossibletoassesswithanyfrequency.Forthispurpose,themostsophisticatedsimulationshave
+beendevelopedfortrainingandevaluatingindividualsinmedicalandrelatedprofessions(Kunkler
+2006)andmilitarycontexts(e.g.,Colegrove&Bennett2006).Thesesimulationshaveseenthemost
+useintrainingsituations,wherethelevelofdetailfacilitatesprovidingfeedbackonspecificbehaviors.
+Simulations are also useful for measuring potential performance in emergency situations
+(i.e.,performingadaptively),suchasemergencylandingsforpilotsorcrashavoidancefordrivers.
+Althoughsimulationsforotherformsofperformancehavebeendeveloped(e.g.,formanagement,
+Halpin & Biggs 2009; teamwork, Heinrichs et al. 2008; communication, O’Neil et al. 1997;
+leadershipperformance,Thomasetal.2001),theyarenotcurrentlyassophisticated.
+Compared with ratings, simulations have the advantage of being potentially more valid
+assessments ofemployees’ ability to perform at a particular level of proficiency, and they are
+assumed to be free from the contamination issues of performance ratings. However, these
+measurescansufferfromconstructvalidityissuesthatareasseriousasthosefacedbyratings.The
+primarythreatisoneofconstructdeficiency.Simulationscanbeexpensiveandtimeconsumingto
+developandadminister.Asaresult,theytypicallyassessonlyafew(orone)criticaljobtasks,
+typically representing someform oftechnical performance. To the extent thatother factors of
+performanceareimportant(astheyaretosomedegreeforalljobs),simulationslackconstruct
+www.annualreviews.org (cid:1) ModelingandAssessingWorkPerformance 65
+gro.sweiverlaunna.www
+morf
+dedaolnwoD
+.47-74:2.5102
+.vaheB
+.nagrO
+.lohcysP
+.nagrO
+.veR
+.unnA
+.ylno
+esu
+lanosrep
+roF
+.51/42/11
+no
+seitiC
+niwT
+- atosenniM
+fo
+ytisrevinU
+yb
+dedivorp
+sseccA
+
+## Page 20
+
+validity.Simulationscanalsosufferfromcriterioncontaminationiftheelicitedbehaviorsdonot
+accurately reflect real performance on the job with fidelity (Lievens & Patterson 2011). For
+example,ifthecontrolsofadrivingsimulationdeviceresponddifferentlythananactualvehicle,
+simulator performance is not anaccurate measure of actual jobperformance. Finally, if simu-
+lationsarescoredusingobserverratings,theycansufferfromthesameperceptualandevaluative
+biases(thoughnotthesamplingbiases)asotherratings-basedmeasuresofjobperformance.
+Theissueoftypicalversusmaximumperformanceisespeciallysalientfortheuseofsimulations
+as performance measures. Individuals completing a simulation are likely to perform at their
+maximum capacity because simulations measure performance within a short period of time,
+leaving little opportunity for the motivational and self-control processes that decrease perfor-
+mance from maximum to typical levels to take place. Even when individuals perform at satis-
+factory levels in a simulation evaluation, they may not demonstrate this level of performance
+consistentlyonthejob.Asaresult,simulationsmaybemoreusefulfordevelopmentalpurposes
+thanforhigh-stakesdecisionmaking,unlessthebehaviorsbeingassessedarealwayslikelytoelicit
+maximum effort (e.g., emergency responses). On the plus side, requirements for adaptive
+responsescanbebuiltintoasimulation.
+Technology-enhanced assessment. At an increasing rate, popular press and management and
+businesspracticepublicationsaredrawingattentiontothepotentialusesofadvancedtechnologies
+andlargeamountsofdiverse,rapidlygenerateddata(so-called“bigdata”)toimprovebusiness
+practices(Lohr2013,McAfee&Brynjolfsson2012).Ofparticularrelevancetothisarticleare
+suggestionsthatsuchtechnologiescanenhanceorreplaceotherformsofperformanceassessment
+(Hunt2011).Despitetheenthusiasmforthesenewtechnologies,cautioniswarranted,asalltoo
+often these systems measure outcomes, such as sales volume, rather than performance itself
+(Cravensetal.1993).Technology-basedperformanceassessmentscanbeuseful,butonlyifthey
+measureperformancethatisunderindividualcontrol.Forexample,onboardcomputersystems
+havebeenusedtotrackdeliverytrucksandtoassesssafedrivingbehaviorsandcompliancewith
+deliveryprotocols(Karguptaetal.2010,S¸ims¸eketal.2013).Similarly,electronicrecordingsof
+emails and phone conversations can be used to assess call center, customer service, and com-
+municationperformance,especiallywhenthesetechniquesarecombinedwithaudiotranscription
+and text mining software to reduce the need for supervisors to evaluate each communication
+(Miller 2003). Rapidly delivered data also present new opportunities to provide immediate
+feedbacktoemployees, suchasbypresenting employeeswith adaily orhourlyscorecardofa
+relevant performance metric (e.g., error rate, change in customer numbers) or using wearable
+technologiesthatsoundalertswhenunsafemovementsaremade.Again,solongasthedata
+providedbythesetoolsareunderemployeecontrol,theyconstituteapotentiallyusefulmeasureof
+individual performance. However, big data can suffer from the same criterion deficiency and
+constructvalidityproblemsassimulations.Ontheplusside,withbigdataitispotentiallypossible
+tocaptureperformancedynamicsastheyoccurnaturally.
+Additional potential problems with using technology-based monitoring systems to provide
+feedbackareconcernsaboutinvasionsofprivacyandfeelingsofdehumanization(Hunt 2011,
+Miller2003).Caremustbetakentoensureemployeeacceptanceofthetechnologyasalegitimate
+sourceofperformanceinformation.
+Goal Achievement and Performance Outcomes
+Throughoutthisarticle,wehaveemphasizedthatmeasuresofperformancemustassessbehavior
+thatisunderindividualcontrol,notmoredistalperformance outcomes.However,inpractice,
+66 Campbell (cid:1) Wiernik
+gro.sweiverlaunna.www
+morf
+dedaolnwoD
+.47-74:2.5102
+.vaheB
+.nagrO
+.lohcysP
+.nagrO
+.veR
+.unnA
+.ylno
+esu
+lanosrep
+roF
+.51/42/11
+no
+seitiC
+niwT
+- atosenniM
+fo
+ytisrevinU
+yb
+dedivorp
+sseccA
+
+## Page 21
+
+manyorganizationssimplywanttouseoutcomemeasuresasindicatorsofperformance.Also,
+describing performance in terms of attaining mutually set or accepted goals can increase goal
+achievementandtheperceivedvalueoftheevaluationprocess(Locke&Latham2002).Aswe
+have stated before, these indicators constitute performance measures only so long as factors
+outside of the individual’s control are substantially removed from consideration. Pulakos &
+O’Leary (2010) discuss ways in which that can be done. Sales figures may be an appropriate
+performanceindicatorwhentheyreflectonlydifferentiallevelsofeffortorskill,suchasforcall
+center employees requesting donations from telephone numbers assigned at random, or when
+environmentalandtaskdifficultyfactorscanbecontrolledfor,suchasbyreferencingaparticular
+employee’ssalesagainstthenormsforeconomicallysimilarareas.Similarconsiderationsapply
+forotherjobs,includingmanufacturing,management,andexecutivejobs.However,thereisagain
+the problem ofcriterion deficiency, andcritical partsof nontechnicalperformance dimensions
+(e.g.,peerleadershipandmanagement)maygounassessed.
+Anunfortunateexampleofapoorlychosenoutcomemeasure,whichhasreceivedsubstantial
+mediaandpolicyattention,istheattempttousechangesinstandardizedachievementtestscoresof
+public schoolstudents toassess individualteacher performance.Theseare theso-calledvalue-
+addedmodels,whichattempttoassessstudenttestscoregainsasindicatorsoflearninginaspe-
+cificteacher’sclassroomandholdtheindividualteacherresponsible,eventhoughtheyear-to-year
+assignmentofstudentstoteachersisnotrandomandcontrollingforclassroomdifferencesvia
+statisticalcovariatesishighlyproblematic.TheseissueshavebeenthoroughlydiscussedbyHaertel
+(2013),whoconcludesthatthegainscoresaresaturatedwitherrorandirrelevantvarianceandare
+notassessmentsofteacherperformance.Weagree,asdoothermeasurementprofessionalsand
+teachersthemselves(e.g.,Mueller2011).
+In sum, when appropriately chosen, outcome measures are useful primarily for high-stakes
+decisionmaking.Theyoffervalueforfeedbackanddevelopmentalpurposesonlysofarasthey
+provideinformationonthebehavioralchangesnecessarytoimproveperformance.
+CONCLUSIONS AND RECOMMENDATIONS
+Between1980andtoday,anearconsensusaboutwhatperformanceishasemerged.Performance
+isnotunidimensionaland,strictlyspeaking,shouldnotbeusedinthesingular(e.g.,ishe/sheahigh
+performer?).Itiscomposedofalltheindividualactionsthatsupportordetractfromtheorgani-
+zation’sgoalstovaryingdegrees.Ataparticularlevelofgenerality/specificitythereisalsogeneral
+agreementaboutwhatthemajorcomponentsofjobperformancecontentare,althoughmanyof
+us will be reluctant to give up our own labels for them. For example, the romance of OCB is
+apowerfulthingformany.Thereisalsoaconsensusthatindividualperformanceisdynamic,for
+manydifferentreasonsthatcanbespecified,anditsdynamicfeaturesaremostlikelydifferentfor
+differentperformancecomponents.AsOP/OBresearchcontinues,researchersshouldsituatetheir
+workwithinthewell-understoodspaceofthelatentstructureofperformance,ratherthanattempt
+to declare that each new construct is wholly distinct from what has come before. Cumulative
+sciencedemandsthatfutureresearchbuilduponpreviouslygeneratedknowledge,notdisregardit
+infavorofexcitingnewterminology.
+Despitewidespreadacceptanceofthedefinitionofperformanceaswhattheindividualactually
+does,notdeterminantsoroutcomes,alltoooftenresearcherscontinuetoconflatethethree,es-
+peciallyintheareasofteamwork(e.g.,DeChurch&Mesmer-Magnus2010)andleadership(e.g.,
+Lord&Dinh2014).Formeaningfulscientificcommunicationtotakeplace,clarityandprecision
+in language are necessary. Performance should be specified in behavioral terms as things that
+peopledo.Thisisnotabehavioriststatement.
+www.annualreviews.org (cid:1) ModelingandAssessingWorkPerformance 67
+gro.sweiverlaunna.www
+morf
+dedaolnwoD
+.47-74:2.5102
+.vaheB
+.nagrO
+.lohcysP
+.nagrO
+.veR
+.unnA
+.ylno
+esu
+lanosrep
+roF
+.51/42/11
+no
+seitiC
+niwT
+- atosenniM
+fo
+ytisrevinU
+yb
+dedivorp
+sseccA
+
+## Page 22
+
+Performanceinaworkroleisacomplexphenomenon,whichmakesassessmentdifficult.There
+isnowaytomakeitsimple.Regardlessofwhetherthemeasurementmethodconsistsofratings,
+simulations,outcomesunderthecontroloftheindividual,orbig-datacapture,theinformation
+obtainedmustcorrespondtothespecificationsforwhatperformance is.Theconsensusmodel
+describedaboveisintendedtoserveasabasicstartingpointforallperformanceassessment,and
+thisincludesconsiderationsofindividualperformancetrendsandresponsestochangingrequire-
+mentsandgoals.
+In this regard, each of the named methods has strengths and weaknesses. In our view, the
+primaryneedsforfutureresearchanddevelopmentarethefollowing:
+1. How can we build on existing rater training methods to better teach raters what
+performanceis,whatgoalstheymusthave,whattheymustknowaboutthepersonbeing
+rated,whatdynamics(e.g.,specificadaptiveresponses)theyshouldtrytoaccountfor,
+whattimeintervalisofinterest,andwhatpotentialcontaminantsoftheirratingsthey
+must manage (not just halo and leniency effects)? Going further, a widely available
+MOOC (massively open online course) dealing with these issues could potentially
+benefit many sectors, perhaps even society at large. The need for judgments of one
+person’sperformancebyotherswillnotgoaway.Bigdatawillnotreplaceit.Wesimply
+mustdoitbetter.
+2. How,andforwhatreasons,doratersactuallymakeratingjudgments?Whatinforma-
+tiondotheyuse?Howdotheycombineit?Whataretheiroperativegoals?Weneed
+manymoreprotocolanalysisstudiesexaminingsuchquestionsforeachofthemajor
+ratingpurposes.Thismeanssittingbesidesomeone,perhapsvirtually,andhavingthem
+talk through what they are doing. It is different than studying ratings as a cognitive
+process, valuable thoughthat is.Protocol analysis is usedextensively in thestudy of
+expertise(e.g.,Hoffman&Militello2009),whynothere?
+3. Howcanonlineperformanceratingformsforresearchpurposesbestructuredand
+delivered to avoid careless ratings and to instill the same feelings of value, re-
+sponsibility,andattentionthatcanbeobtainedwhenratingsarecompletedinthe
+physicalpresenceofaresearcherorsupervisor?Collectingratingsinpersonistime
+consumingandexpensive.Howcanthesedrawbacksbeavoidedwithoutsubstantial
+lossindataquality?
+4. Whatarethebestwaystopromotetransparencyandproceduraljusticeintheperfor-
+manceevaluationprocess,forbothassessorsandassessees?
+5. How can simulations be used to assess performance on other dimensions of perfor-
+mance,inadditiontotechnicalperformance?Thisishappeningtosomedegree,butnew
+technologiesmakeitpossibletodomuchmore.
+6. Howcansimulationsbeusedtoassessadaptiveresponsestochangingrequirements,and
+notjustonthetechnicaldimension?
+7. Whatarethebestwaystodisplayandpresentbehavioralperformancedatatofacilitate
+effectiveevaluationanddecisionmaking?Howcanresearchondashboardsandother
+methods from computer and data science be effectively combined with meaningful
+performancemetrics(Yigitbasioglu&Velcu2012)?
+Insum,thelast100yearshaveseenagreatdealofresearchanddevelopmentregardingthe
+determinantsofperformance,includingawidevarietyofcontextualvariables,andOP/OBhas
+mademuchprogress.Itisourhopethatoverthenextfewyears(fewerthan100),moreeffort
+willbedevotedtoexplicatingandunderstandingthedependentvariablesideoftheequation—
+performanceitself.
+68 Campbell (cid:1) Wiernik
+gro.sweiverlaunna.www
+morf
+dedaolnwoD
+.47-74:2.5102
+.vaheB
+.nagrO
+.lohcysP
+.nagrO
+.veR
+.unnA
+.ylno
+esu
+lanosrep
+roF
+.51/42/11
+no
+seitiC
+niwT
+-
+atosenniM
+fo
+ytisrevinU
+yb
+dedivorp
+sseccA
+
+## Page 23
+
+DISCLOSURE STATEMENT
+Theauthorsarenotawareofanyaffiliations,memberships,funding,orfinancialholdingsthat
+mightbeperceivedasaffectingtheobjectivityofthisreview.
+ACKNOWLEDGMENTS
+WethankKyleeBolt,JeffreyBraun,MarissaClark,andShannonEvansfortheirinvaluableassis-
+tanceinpreparingthisarticle.
+LITERATURECITED
+AguinisH,O’BoyleE.2014.Starperformersintwenty-firstcenturyorganizations.Pers.Psychol.67:313–50
+AustinJT,VillanovaP.1992.Thecriterionproblem:1917–1992.J.Appl.Psychol.77:836–74
+BaardSK,RenchTA,KozlowskiSWJ.2014.Performanceadaptation:atheoreticalintegrationandreview.
+J.Manag.40:48–99
+Barron LG, Sackett PR. 2008. Asian variability in performance rating modesty and leniency bias. Hum.
+Perform.21:277–90
+BartramD.2005.Thegreateightcompetencies:acriterioncentricapproachtoconstructvalidation.J.Appl.
+Psychol.90:1185–203
+BealDJ,WeissHM,BarrosE,MacDermidSM.2005.Anepisodicprocessmodelofaffectiveinfluenceson
+performance.J.Appl.Psychol.90:1054–68
+BeckJW,BeattyAS,SackettPR.2014.Onthedistributionofjobperformance:theroleofmeasurement
+characteristicsinobserveddeparturesfromnormality.Pers.Psychol.67:531–66
+BennettRJ,RobinsonSL.2000.Developmentofameasureofworkplacedeviance.J.Appl.Psychol.
+85:349–60
+BerryCM,OnesDS,SackettPR.2007.Interpersonaldeviance,organizationaldeviance,andtheircommon
+correlates:areviewandmeta-analysis.J.Appl.Psychol.92:410–24
+BeusJM,WhitmanDS.2012.Therelationshipbetweentypicalandmaximumperformance:ameta-analytic
+examination.Hum.Perform.25:355–76
+Bommer WH, Johnson JL, Rich GA, Podsakoff PM, MacKenzie SB. 1995. On the interchangeability of
+objectiveandsubjectivemeasuresofemployeeperformance:ameta-analysis.Pers.Psychol.48:587–605
+BormanWC,MotowidloSJ.1993.Expandingthecriteriondomaintoincludeelementsofcontextualper-
+formance.SeeSchmitt&Borman1993,pp.71–98
+BormanWC,MotowidloSJ.1997.Taskperformanceandcontextualperformance:themeaningforpersonnel
+selectionresearch.Hum.Perform.10:99–109
+BorsboomD,MellenbergGJ,vanHeerdenJ.2003.Thetheoreticalstatusoflatentvariables.Psychol.Rev.
+110:203–19
+BrumbackGB,VincentJW.1970.Factoranalysisofwork-performeddataforasampleofadministrative,
+professional,andscientificpositions.Pers.Psychol.23:101–7
+CampbellJP.2012.Behavior,performance,andeffectivenessinthetwenty-firstcentury.SeeKozlowski2012,
+pp.159–96
+CampbellJP.2013a.AssessmentinI/Opsychology:anoverview.SeeGeisingeretal.2013,pp.355–95
+Campbell JP. 2013b. Leadership, the old, the new, and the timeless: a commentary. See Rumsey 2013,
+pp.401–22
+CampbellJP,HansonMA,OpplerSH.2001.Modelingperformanceinapopulationofjobs.SeeCampbell&
+Knapp2001,pp.307–34
+CampbellJP,KnappDJ,eds.2001.ExploringtheLimitsinPersonnelSelectionandClassification.Mahwah,
+NJ:Erlbaum
+Campbell JP, Kuncel NR. 2001. Individual and team training. In Handbook of Industrial, Work &
+OrganizationalPsychology,Vol.1:PersonnelPsychology,ed.NAnderson,DSOnes,HKSinangil,
+CViswesvaran,pp.278–313.ThousandOaks,CA:Sage
+www.annualreviews.org (cid:1) ModelingandAssessingWorkPerformance 69
+gro.sweiverlaunna.www
+morf
+dedaolnwoD
+.47-74:2.5102
+.vaheB
+.nagrO
+.lohcysP
+.nagrO
+.veR
+.unnA
+.ylno
+esu
+lanosrep
+roF
+.51/42/11
+no
+seitiC
+niwT
+-
+atosenniM
+fo
+ytisrevinU
+yb
+dedivorp
+sseccA
+
+## Page 24
+
+CampbellJP,McCloyRA,OpplerSH,SagerCE.1993.Atheoryofperformance.SeeSchmitt&Borman1993,
+pp.35–70
+CampionMA,FinkAA,RuggebergBJ,CarrL,PhillipsGM,OdmanRB.2011.Doingcompetencieswell:best
+practicesincompetencymodeling.Pers.Psychol.64:225–62
+CarhartMM.1997.Onpersistenceinmutualfundperformance.J.Financ.52:57–82
+ChanD,ed.2014.IndividualAdaptabilitytoChangesatWork:NewDirectionsinResearch.NewYork:
+Routledge
+ColegroveCM,BennettWJr.2006.Competency-basedtraining:adaptingtowarfighterneeds.Mesa,AZ:Air
+ForceRes.Lab.
+ConwayJM.1996.Additionalconstructvalidityevidenceforthetask/contextualperformancedistinction.
+Hum.Perform.9:309–29
+ConwayJM,HuffcuttAI.1997.Psychometricpropertiesofmultisourceperformanceratings:ameta-analysis
+ofsubordinate,supervisor,peer,andself-ratings.Hum.Perform.10:331–60
+CravensDW,IngramTN,LaForgeRW,YoungCE.1993.Behavior-basedandoutcome-basedsalesforce
+controlsystems.J.Mark.57:47–59
+DalalRS.2005.Ameta-analysisoftherelationshipbetweenorganizationalcitizenshipbehaviorandcoun-
+terproductiveworkbehavior.J.Appl.Psychol.90:1241–55
+DalalRS,BhaveDP,FisetJ.2014.Within-personvariabilityinjobperformance:atheoreticalreviewand
+researchagenda.J.Manag.40(5):1396–436
+DeadrickDL,BennettN,RussellCJ.1997.Usinghierarchicallinearmodelingtoexaminedynamicperfor-
+mancecriteriaovertime.J.Manag.23:745–57
+DeadrickDL,GardnerDG.2008.Maximalandtypicalmeasuresofjobperformance:ananalysisofper-
+formancevariabilityovertime.Hum.Resour.Manag.Rev.18:133–45
+DeChurch LA, Mesmer-Magnus JR. 2010. The cognitive underpinnings of effective teamwork: a meta-
+analysis.J.Appl.Psychol.95:32–53
+DeNisi AS, Kluger AN. 2000. Feedback effectiveness: Can 360-appraisals be improved? Acad. Manag.
+Perspect.14:129–39
+DeNisiAS,PritchardRD.2006.Performanceappraisal,performancemanagementandimprovingindividual
+performance:amotivationalframework.Manag.Organ.Rev.2:253–77
+DeNisiAS,SoneshS.2011.Theappraisalandmanagementofperformanceatwork.SeeZedeck2011,pp.255–79
+DiamantopoulosA,RieflerP,RothKP.2008.Advancingformativemeasurementmodels.J.Bus.Res.
+61(12):1203–18
+DuBoisCL,SackettPR,ZedeckS,FogliL.1993.Furtherexplorationoftypicalandmaximumperformance
+criteria:definitionalissues,prediction,andWhite-Blackdifferences.J.Appl.Psychol.78:205–11
+Dunning D, Heath C, Suls JM. 2004. Flawed self-assessment implications for health, education, and the
+workplace.Psychol.Sci.PublicInterest5:69–106
+Facteau JD, Craig SB. 2001. Are performance ratings from different rater sources comparable? J. Appl.
+Psychol.86:215–27
+FarrJL,TippinsNT,eds.2010.HandbookofEmployeeSelection.NewYork:Routledge
+FestingM,KnappertL,DowlingPJ,EngleAD.2012.GlobalperformancemanagementinMNEs:concep-
+tualizationandprofilesofcountry-specificcharacteristicsinChina,Germany,andtheUnitedStates.
+ThunderbirdInt.Bus.Rev.54:825–43
+FisherCD.2008.Whatifwetookwithin-personperformancevariabilityseriously?Ind.Organ.Psychol.1:185–89
+Fleishman EA, Quaintance MK. 1984.Taxonomiesof Human Performance: The Description of Human
+Tasks.Orlando,FL:Academic
+FreseM.2008.Thewordisout:Weneedanactiveperformanceconceptformodernworkplaces.Ind.Organ.
+Psychol.1:67–69
+GableSL,ReisHT,WardAJ.2003.Evidenceforbivariatesystems:anempiricaltestofappetitionandaversion
+acrossdomains.J.Res.Personal.37:349–72
+GeisingerKF,BrackenBA,CarlsonJF,HansenJIC,KuncelNR,etal.,eds.2013.APAHandbookofTesting
+and Assessment in Psychology, Vol. 1: Test Theory and Testing and Assessment in Industrial and
+OrganizationalPsychology.Washington,DC:Am.Psychol.Assoc.
+70 Campbell (cid:1) Wiernik
+gro.sweiverlaunna.www
+morf
+dedaolnwoD
+.47-74:2.5102
+.vaheB
+.nagrO
+.lohcysP
+.nagrO
+.veR
+.unnA
+.ylno
+esu
+lanosrep
+roF
+.51/42/11
+no
+seitiC
+niwT
+-
+atosenniM
+fo
+ytisrevinU
+yb
+dedivorp
+sseccA
+
+## Page 25
+
+GoodmanPS,DevadasR,Griffith-HughsonTL.1988.Groupsandproductivity:analyzingtheeffectiveness
+of self-management teams. In Productivity in Organizations: New Perspectives from Industrial and
+OrganizationalPsychology,ed.JPCampbell,RJCampbell,pp.295–327.SanFrancisco:Jossey-Bass
+GriffinMA,NealA,ParkerSK.2007.Anewmodelofworkroleperformance:positivebehaviorinuncertain
+andinterdependentcontexts.Acad.Manag.J.50:327–47
+GruysML,SackettPR.2003.Investigatingthedimensionalityofcounterproductiveworkbehavior.Int.J.Sel.
+Assess.11:30–42
+HaertelEH.2013.Reliabilityandvalidityofinferencesaboutteachersbasedonstudenttestscores.WilliamH.
+AngoffMeml.Lect.Ser.14,Cent.Res.Hum.Cap.Educ.,ETSRes.Dev.,Mar.22,Washington,DC
+HalpinAL,BiggsWD.2009.Evaluatingbusinessplansinasimulationenvironment.Dev.Bus.Simul.Exp.
+Learn.36:149–54
+He P. 2012. Counterproductive work behavior among Chinese knowledge workers. Int. J. Sel. Assess.
+20:119–38
+Heidemeier H, Moser K. 2009. Self–other agreement in job performance ratings: a meta-analytic test of
+aprocessmodel.J.Appl.Psychol.94:353–70
+HeinrichsWL,YoungbloodP,HarterPM,DevP.2008.Simulationforteamtrainingandassessment:case
+studiesofonlinetrainingwithvirtualworlds.WorldJ.Surg.32:161–70
+HermelinE,LievensF,RobertsonIT.2007.Thevalidityofassessmentcentresforthepredictionofsupervisory
+performanceratings:ameta-analysis.Int.J.Sel.Assess.15:405–11
+HoffmanBJ,GormanCA,BlairCA,MeriacJP,OverstreetB,AtchleyEK.2012.Evidencefortheeffectiveness
+ofanalternativemultisourceperformanceratingmethodology.Pers.Psychol.65:531–63
+HoffmanBJ,LanceCE,BynumB,GentryWA.2010.Ratersourceeffectsarealiveandwellafterall.Pers.
+Psychol.63:119–51
+HoffmanBJ, WoehrDJ.2009.Disentanglingthemeaningof multisource performance ratingsourceand
+dimensionfactors.Pers.Psychol.62:735–65
+HoffmanRR, Militello LG.2009.PerspectivesonCognitiveTaskAnalysis.NewYork:Psychol.Press,
+Taylor&Francis
+HofmannDA,JacobsR,GerrasSJ.1992.Mappingindividualperformanceovertime.J.Appl.Psychol.77:185–95
+HoganJ,HoganR,KaiserRB.2011.Managementderailment.SeeZedeck2011,pp.555–76
+HowardA.1983.Worksamplesandsimulationsincompetencyevaluation.Prof.Psychol.Res.Pract.14:780–96
+HuntST.2011.Technologyistransformingthenatureofperformancemanagement.Ind.Organ.Psychol.4:188–89
+HunterJE. 1983.A causal analysisof cognitiveability,job knowledge, job performance, andsupervisor
+ratings.InPerformanceMeasurementandTheory,ed.FJLandy,SZedeck,JNCleveland,pp.257–66.
+Mahwah,NJ:Erlbaum
+KarguptaH,SarkarK,GilliganM.2010.MineFleet:anoverviewofawidelyadopteddistributedvehicle
+performancedataminingsystem.Proc.ACMSIGKDDInt.Conf.Knowl.Discov.DataMin.,16th,
+Washington,DC,July25–29,pp.37–46.NewYork:ACM
+KatzellRA,GuzzoRA.1983.Psychologicalapproachestoproductivityimprovement.Am.Psychol.38:468–72
+KimY,PloyhartRE.2014.Theeffectsofstaffingandtrainingonfirmproductivityandprofitgrowthbefore,
+during,andaftertheGreatRecession.J.Appl.Psychol.99:361–89
+KleheU-C,AndersonN.2007.Workinghardandworkingsmart:motivationandabilityduringtypicaland
+maximumperformance.J.Appl.Psychol.92:978–92
+KlugerAN,DeNisiA.1996.Theeffectsoffeedbackinterventionsonperformance:ahistoricalreview,ameta-
+analysis,andapreliminaryfeedbackinterventiontheory.Psychol.Bull.119:254–84
+KoopmansL,BernaardsCM,HildebrandtVH,SchaufeliWB,deVetHenricaCW,vanderBeekAJ.2011.
+Conceptualframeworksofindividualworkperformance:asystematicreview.J.Occup.Environ.Med.
+53:856–66
+KozlowskiSWJ,ed.2012.TheOxfordHandbookofOrganizationalPsychology,Vol.1.NewYork:Oxford
+Univ.Press
+Kozlowski SWJ, Chao GT, Morrison RF. 1998. Games raters play: politics, strategies, and impression
+managementinperformanceappraisal.InPerformanceAppraisal:StateoftheArtinPractice,ed.
+JWSmither,pp.163–205.SanFrancisco:Jossey-Bass
+www.annualreviews.org (cid:1) ModelingandAssessingWorkPerformance 71
+gro.sweiverlaunna.www
+morf
+dedaolnwoD
+.47-74:2.5102
+.vaheB
+.nagrO
+.lohcysP
+.nagrO
+.veR
+.unnA
+.ylno
+esu
+lanosrep
+roF
+.51/42/11
+no
+seitiC
+niwT
+-
+atosenniM
+fo
+ytisrevinU
+yb
+dedivorp
+sseccA
+
+## Page 26
+
+KunklerK.2006.Theroleofmedicalsimulation:anoverview.Int.J.Med.RoboticsComput.Assist.Surg.2:203–10
+Lance CE, Hoffman BJ, Gentry WA, Baranik LE. 2008. Rater source factors represent important sub-
+componentsofthecriterionconstructspace,notraterbias.Hum.Resour.Manag.Rev.18:223–32
+LanceCE,TeachoutMS,DonnellyTM.1992.Specificationofthecriterionconstructspace:anapplicationof
+hierarchicalconfirmatoryfactoranalysis.J.Appl.Psychol.77:437–52
+LevyPE,WilliamsJR.2004.Thesocialcontextofperformanceappraisal:areviewandframeworkforthe
+future.J.Manag.30:881–905
+LievensF,PattersonF.2011.Thevalidityandincrementalvalidityofknowledgetests,low-fidelitysimulations,
+and high-fidelity simulations for predicting job performance in advanced-level high-stakes selection.
+J.Appl.Psychol.96:927–40
+LockeEA,LathamGP.2002.Buildingapracticallyusefultheoryofgoalsettingandtaskmotivation:a35-year
+odyssey.Am.Psychol.57:705–17
+LohrS.2013.Bigdata,tryingtobuildbetterworkers.NewYorkTimes,Apr.21,p.BU4
+LordRG,DiefendorffJM,SchmidtAM,HallRJ.2010.Self-regulationatwork.Annu.Rev.Psychol.61:543–68
+LordRG,DinhJE.2014.Whathavewelearnedthatiscriticalinunderstandingleadershipperceptionsand
+leader-performancerelations?Ind.Organ.Psychol.7:158–77
+MangosPM,ArnoldRD.2008.Enhancingmilitarytrainingthroughtheapplicationofmaximumandtypical
+performancemeasurementprinciples.Perform.Improv.47:29–35
+MangosPM,Steele-JohnsonD,LaHuisD,WhiteED.2007.Amultiple-taskmeasurementframeworkfor
+assessingmaximum-typicalperformance.Hum.Perform.20:241–58
+MarcusB,SchulerH,QuellP,HümpfnerG.2002.Measuringcounterproductivity:developmentandinitial
+validationofaGermanself-reportquestionnaire.Int.J.Sel.Assess.10:18–35
+MarkonKE,KruegerRF,WatsonD.2005.Delineatingthestructureofnormalandabnormalpersonality:an
+integrativehierarchicalapproach.J.Personal.Soc.Psychol.88:139–57
+McAfeeA,BrynjolfssonE.2012.Bigdata:themanagementrevolution.Harv.Bus.Rev.90:60–68
+MilesDE,BormanWE,SpectorPE,FoxS.2002.Buildinganintegrativemodelofextraroleworkbehaviors:
+acomparisonofcounterproductiveworkbehaviorwithorganizationalcitizenshipbehavior.Int.J.Sel.
+Assess.10(1/2):51–57
+MillerJS.2003.Hightechandhighperformance:managingappraisalintheinformationage.J.LaborRes.
+24:409–24
+Motowidlo SJ. 2000.Some basic issuesrelated to contextualperformanceand organizational citizenship
+behaviorinhumanresourcemanagement.Hum.Resour.Manag.Rev.10:115–26
+MotowidloSJ,BormanWC,SchmitMJ.1997.Atheoryofindividualdifferencesintaskandcontextual
+performance.Hum.Perform.10:71–83
+MuellerL.2011.HowI-Ocancontributetotheteacherevaluationdebate:aresponsetoLefkowitz.TIP49:17
+MurphyKR.1989a.Dimensionsofjobperformance.InTesting:TheoreticalandAppliedPerspectives,ed.
+RFDillon,JWPellegrino,pp.218–47.NewYork:Praeger
+MurphyKR.1989b.Istherelationshipbetweencognitiveabilityandjobperformancestableovertime?Hum.
+Perform.2:183–200
+MurphyKR.2008.Explainingtheweakrelationshipbetweenjobperformanceandratingsofjobperformance.
+Ind.Organ.Psychol.1:148–60
+MurphyKR,ClevelandJN.1995.UnderstandingPerformanceAppraisal:Social,Organizational,andGoal-
+BasedPerspectives.ThousandOaks,CA:Sage
+MurphyKR,DechertPJ.2013.2013performanceappraisal.SeeGeisingeretal.2013,pp.611–27
+MurphyKR,DeShonR.2000.Interratercorrelationsdonotestimatethereliabilityofjobperformanceratings.
+Pers.Psychol.53:873–900
+NoonanLE,SulskyLM.2001.Impactofframe-of-referenceandbehavioralobservationtrainingonalternative
+trainingeffectivenesscriteriainaCanadianmilitarysample.Hum.Perform.14:3–26
+O’BoyleE,AguinisH.2012.Thebestandtherest:revisitingthenormofnormalityofindividualperformance.
+Pers.Psychol.65:79–119
+O’NeilHF,AllredK,DennisRA.1997.Validationofcomputersimulationforassessmentofinterpersonalskills.In
+WorkforceReadiness:CompetenciesandAssessments,ed.HFO’Neil,pp.229–54.Mahwah,NJ:Erlbaum
+72 Campbell (cid:1) Wiernik
+gro.sweiverlaunna.www
+morf
+dedaolnwoD
+.47-74:2.5102
+.vaheB
+.nagrO
+.lohcysP
+.nagrO
+.veR
+.unnA
+.ylno
+esu
+lanosrep
+roF
+.51/42/11
+no
+seitiC
+niwT
+-
+atosenniM
+fo
+ytisrevinU
+yb
+dedivorp
+sseccA
+
+## Page 27
+
+OnesDS,DilchertS.2012.Employeegreenbehaviors.InManagingHumanResourcesforEnvironmental
+Sustainability,ed.SEJackson,DSOnes,SDilchert,pp.85–116.SanFrancisco:Jossey-Bass/Wiley
+OnesDS,DilchertS.2013.Counterproductiveworkbehaviors:concepts,measurement,andnomological
+network.SeeGeisingeretal.2013,pp.643–59
+OnesDS,ViswesvaranC,SchmidtFL.2008.Nonewterrain:reliabilityandconstructvalidityofjobper-
+formanceratings.Ind.Organ.Psychol.1:174–79
+Organ DW. 1988. Organizational Citizenship Behavior: The Good Soldier Syndrome. Lexington, MA:
+LexingtonBooks
+OrganDW,PodsakoffPM,PodsakoffNP.2011.Expandingthecriteriondomaintoincludeorganizational
+citizenshipbehavior:implicationsforemployeeselection.SeeZedeck2011,pp.281–323
+PearlmanK,SanchezJI.2010.Workanalysis.SeeFarr&Tippins2010,pp.73–98
+PeretzH,FriedY.2012.Nationalcultures,performanceappraisalpractices,andorganizationalabsenteeism
+andturnover:astudyacross21countries.J.Appl.Psychol.97:448–59
+PloyhartRE,BliesePD.2006.Individualadaptability(I-ADAPT)theory:conceptualizingtheantecedents,
+consequences,andmeasurementofindividualdifferencesinadaptability.SeeSalas2006,pp.3–39
+Ployhart RE, Hale D. 2014. The fascinating psychological microfoundations of strategy and competitive
+advantage.Annu.Rev.Organ.Psychol.Organ.Behav.1:145–72
+PodsakoffPM,MacKenzieSB,PaineJB,BachrachDG.2000.Organizationalcitizenshipbehaviors:acritical
+reviewofthetheoreticalandempiricalliteratureandsuggestionsforfutureresearch.J.Manag.26:513–63
+PulakosED,AradS,DonovanMA,PlamondonKE.2000.Adaptabilityintheworkplace:developmentof
+ataxonomyofadaptiveperformance.J.Appl.Psychol.85:612–24
+PulakosED,DorseyDW,WhiteSS.2006.Adaptabilityintheworkplace:selectinganadaptiveworkforce.See
+Salas2006,pp.41–71
+PulakosED,O’LearyRS.2010.Definingandmeasuringresultsofworkplacebehavior.SeeFarr&Tippins
+2010,pp.513–29
+PulakosED,O’LearyRS.2011.Whyisperformancemanagementbroken?Ind.Organ.Psychol.4:146–64
+PulakosED,SchmittN,DorseyDW,AradS,BormanWC,HedgeJW.2002.Predictingadaptiveperformance:
+furthertestsofamodelofadaptability.Hum.Perform.15:299–323
+PutkaDJ,HoffmanBJ.2014.“The”reliabilityofjobperformanceratingsequals0.52.InMoreStatisticaland
+MethodologicalMyths andUrbanLegends, ed. CE Lance,RJ Vandenberg, pp.247–75. NewYork:
+Taylor&Francis
+RiggioRE,MayesBT,SchleicherDJ.2003.Usingassessmentcentermethodsformeasuringundergraduate
+businessstudentoutcomes.J.Manag.Inq.12:68–78
+RotundoM,XieJL.2013.UnderstandingthedomainofcounterproductiveworkbehaviourinChina.In
+HumanResourceManagement“WithChineseCharacteristics”:FacingtheChallengesofGlobalization,
+ed.MWarner,pp.86–107.NewYork:Routledge
+RumseyMG,ed.2013.TheOxfordHandbookofLeadership.NewYork:OxfordUniv.Press
+RuppDE,GibbonsAM,BaldwinAM,SnyderLA,SpainSM,etal.2006.Aninitialvalidationofdevelopmental
+assessment centers as accurate assessments and effective training interventions. Psychol. Manag. J.
+9:171–200
+SackettPR.2007.Revisitingtheoriginsofthetypical-maximumperformancedistinction.Hum.Perform.
+20:179–85
+SalasE,ed.2006.AdvancesinHumanPerformanceandCognitiveEngineeringResearch,Vol.6.Bingley,UK:
+Emerald
+SanchezJI,LevineEL.2009.Whatis(orshouldbe)thedifferencebetweencompetencymodelingandtra-
+ditionaljobanalysis?Hum.Resour.Manag.Rev.19:53–63
+Sauer DA. 1997. Information content of prior period mutual fund performance rankings. J. Econ. Bus.
+49:549–67
+SchleicherDJ,DayDV,MayesBT,RiggioRE.2002.Anewframeforframe-of-referencetraining:enhancing
+theconstructvalidityofassessmentcenters.J.Appl.Psychol.87:735–46
+SchmidtFL,ViswesvaranC,OnesDS.2000.Reliabilityisnotvalidityandvalidityisnotreliability.Pers.
+Psychol.53:901–12
+www.annualreviews.org (cid:1) ModelingandAssessingWorkPerformance 73
+gro.sweiverlaunna.www
+morf
+dedaolnwoD
+.47-74:2.5102
+.vaheB
+.nagrO
+.lohcysP
+.nagrO
+.veR
+.unnA
+.ylno
+esu
+lanosrep
+roF
+.51/42/11
+no
+seitiC
+niwT
+-
+atosenniM
+fo
+ytisrevinU
+yb
+dedivorp
+sseccA
+
+## Page 28
+
+SchmittN,BormanWC,eds.1993.PersonnelSelectioninOrganizations.SanFrancisco:Jossey-Bass
+Shippmann JS. 2010. Competencies, job analysis, and the next generationof modeling. In Handbook of
+WorkplaceAssessment,ed.JCScott,DHReynolds,pp.197–232.SanFrancisco:Jossey-Bass/Wiley
+ShippmannJS,AshRA,BatjtstaM,CarrL,EydeLD,etal.2000.Thepracticeofcompetencymodeling.Pers.
+Psychol.53:703–40
+S¸ims¸ek B, Pakdil F, Dengiz B, Testik MC. 2013. Driver performance appraisalusing GPS terminalmea-
+surements:aconceptualframework.Transp.Res.PartCEmerg.Technol.26:49–60
+SonnentagS,FreseM.2012.Dynamicperformance.SeeKozlowski2012,pp.548–78
+Spector PE, Bauer JA, Fox S. 2010. Measurement artifacts in the assessment of counterproductive work
+behaviorandorganizationalcitizenshipbehavior:Doweknowwhatwethinkweknow?J.Appl.Psychol.
+95:781–90
+Spector PE, Cha XX. 2014. Re-examining citizenship: how the control of measurement artifacts affects
+observedrelationshipsoforganizationalcitizenshipbehaviorandorganizationalvariables.Hum.Per-
+form.27:165–82
+Spector PE, Fox S, Penney LM, Bruursema K, Goh A, Kessler S. 2006. The dimensionality of counter-
+productivity:Areallcounterproductivebehaviorscreatedequal?J.Vocat.Behav.68:446–60
+SpenceJR,KeepingLM.2010.Theimpactofnon-performanceinformationonratingsofjobperformance:
+apolicy-capturingapproach.J.Organ.Behav.31:587–608
+StevensGW.2013.Acriticalreviewofthescienceandpracticeofcompetencymodeling.Hum.Resour.Dev.
+Rev.12:86–107
+Stewart GL, Nandkeolyar AK. 2007. Exploring how constraints created by other people influenceintra-
+individualvariationinobjectiveperformancemeasures.J.Appl.Psychol.92:1149–58
+StokesCK,SchneiderTR,LyonsJB.2010.Adaptiveperformance:acriterionproblem.TeamPerform.Manag.
+16(3/4):212–30
+Sturman MC. 2003. Searching for the inverted U-shaped relationship between time and performance:
+meta-analysesoftheexperience/performance,tenure/performance,andage/performancerelationships.
+J.Manag.29:609–40
+TaylorS,ToddPA.1995.Understandinginformationtechnologyusage:atestofcompetingmodels.Inf.Syst.
+Res.6:144–76
+Tett RP, Guterman HA, Bleier A, Murphy PJ. 2000. Development and content validation of a “hyper-
+dimensional”taxonomyofmanagerialcompetence.Hum.Perform.13:205–51
+ThomasJL,DicksonMW,BliesePD.2001.ValuespredictingleaderperformanceintheU.S.ArmyReserve
+OfficerTrainingCorpsAssessmentCenter:evidenceforapersonality-mediatedmodel.Leadersh.Q.
+12:181–96
+VanceRJ,MacCallumRC,CoovertMD,HedgeJW.1988.Constructvalidityofmultiplejobperformance
+measuresusingconfirmatoryfactoranalysis.J.Appl.Psychol.73:74–80
+ViswesvaranC,SchmidtFL,OnesDS.2005.Isthereageneralfactorinjobperformanceratings?Ameta-
+analyticframeworkfordisentanglingsubstantiveanderrorinfluences.J.Appl.Psychol.90:108–31
+WalumbwaFO,WernsingT.2013.Fromtransactionalandtransformationalleadershiptoauthenticlead-
+ership.SeeRumsey2013,pp.392–400
+WisecarverMM,CarpenterTD,KilcullenRN.2007.Capturinginterpersonalperformanceinalatentper-
+formancemodel.Mil.Psychol.19:83–101
+WoehrDJ,RochS.2012.Supervisoryperformanceratings.InTheOxfordHandbookofPersonnelSelection
+andAssessment,ed.NSchmitt,pp.517–31.NewYork:OxfordUniv.Press
+XuS,WangQ,LiuC,LiY,OuyangK.2013.Contentandconstructofcounterproductiveworkbehaviorin
+aChinesecontext.Soc.Behav.Personal.Int.J.41:921–32
+YigitbasiogluOM,VelcuO.2012.Areviewofdashboardsinperformancemanagement:implicationsfor
+designandresearch.Int.J.Account.Inf.Syst.13:41–59
+ZedeckS,ed. 2011.APAHandbookof IndustrialandOrganizationalPsychology, Vol.2:Selectingand
+DevelopingMembersfortheOrganization.Washington,DC:Am.Psychol.Assoc.
+ZyphurMJ,ChaturvediS,ArveyRD.2008.Jobperformanceovertimeisafunctionoflatenttrajectoriesand
+previousperformance.J.Appl.Psychol.93:217–24
+74 Campbell (cid:1) Wiernik
+gro.sweiverlaunna.www
+morf
+dedaolnwoD
+.47-74:2.5102
+.vaheB
+.nagrO
+.lohcysP
+.nagrO
+.veR
+.unnA
+.ylno
+esu
+lanosrep
+roF
+.51/42/11
+no
+seitiC
+niwT
+-
+atosenniM
+fo
+ytisrevinU
+yb
+dedivorp
+sseccA
+
+## Page 29
+
+AnnualReviewof
+
+Organizational
+
+Psychologyand
+
+OrganizationalBehavior
+
+Contents
+
+Volume2,2015
+
+g
+
+r
+
+o
+
+..y
+
+s
+
+wl
+
+n
+
+eo
+
+i
+
+ve
+
+es
+
+OrganizationalPsychologyThenandNow:SomeObservationsru
+
+l
+
+al
+
+ua
+
+EdgarH.Scheinnn
+
+.............................................1
+
+on
+
+sa
+
+r.
+
+ew
+
+p
+
+wGroupAffect
+
+r
+
+wo
+
+FSigalG.BarsadeandAndrewP.Knight
+
+m..........................21
+
+.5
+
+o
+
+1r
+
+f/
+
+4d
+
+2TheModelingandAssessmentofWorkPerformancee
+
+/d
+
+1
+
+a1JohnP.CampbellandBrentonM.Wiernik
+
+o........................47
+
+nl
+
+no
+
+w
+
+s
+
+oe
+
+Justice,Fairness,andEmployeeReactionsiD
+
+t
+
+i
+
+C.
+
+4JasonA.ColquittandKateP.Zipay
+
+.............................757n
+
+-i
+
+w7
+
+4T
+
+:
+
+2 MethodologicalandSubstantiveIssuesinConductingMultinationaland
+
+-.
+
+5a
+
+1t
+
+o0
+
+Cross-CulturalResearchs
+
+2e
+
+n.
+
+PaulE.Spector,CongLiu,andJuanI.Sanchezvn
+
+....................101
+
+ai
+
+Mh
+
+e
+
+Bf
+
+o
+
+LeadershipDevelopment:AnOutcome-OrientedReviewBasedonTimeand.
+
+ny
+
+at
+
+ig
+
+sLevelsofAnalyses
+
+rr
+
+Oe
+
+v DavidV.DayandLisaDragoni
+
+.i...............................133
+
+ln
+
+o
+
+Uh
+
+c
+
+yy
+
+bsBeyondLewin:TowardaTemporalApproximationofOrganization
+
+Pd
+
+e.
+
+ndDevelopmentandChange
+
+ai
+
+vg
+
+orJeanM.BartunekandRichardW.Woodman
+
+O.....................157r
+
+p
+
+.
+
+sv
+
+se
+
+eR
+
+cBeyondtheBigFive:NewDirectionsforPersonalityResearchandPracticein
+
+c.
+
+Au
+
+n
+
+Organizationsn
+
+A
+
+LeaettaM.Hough,FrederickL.Oswald,andJisooOck
+
+.............183
+
+CorporateSocialResponsibility:Psychological,Person-Centric,and
+
+Progressing
+
+DeborahE.RuppandDrewB.Mallory
+
+.........................211
+
+TimeinIndividual-LevelOrganizationalStudies:WhatIsIt,HowIsItUsed,
+
+’
+
+andWhyIsntItExploitedMoreOften?
+
+AbbieJ.ShippandMichaelS.Cole
+
+.............................237
+
+vi
+
+## Page 30
+
+DynamicsofWell-Being
+SabineSonnentag ... .. ... .. ... .. ... .. ... .. ... .. ... .. ... .. .. 261
+Low-FidelitySimulations
+JeffA.Weekley,BenHawkes,NigelGuenole,andRobertE.Ployhart . .. 295
+EmotionalLaborataCrossroads:WhereDoWeGofromHere?
+AliciaA.GrandeyandAllisonS.Gabriel. .. ... .. ... .. ... .. ... .. .. 323
+SupportingtheAgingWorkforce:AReviewandRecommendationsfor
+WorkplaceInterventionResearch
+DonaldM.Truxillo,DavidM.Cadiz,andLeslieB.Hammer .. ... .. .. 351
+ESM2.0:StateoftheArtandFuturePotentialofExperienceSampling
+MethodsinOrganizationalResearch
+DanielJ.Beal . .. ... .. ... .. ... .. ... .. ... .. ... .. ... .. ... .. .. 383
+EthicalLeadership
+DeanneN.DenHartog ... .. ... .. ... .. ... .. ... .. ... .. ... .. .. 409
+DifferentialValidityandDifferentialPredictionofCognitiveAbilityTests:
+UnderstandingTestBiasintheEmploymentContext
+ChristopherM.Berry .. ... .. ... .. ... .. ... .. ... .. ... .. ... .. .. 435
+OrganizationalRoutinesasPatternsofAction:ImplicationsforOrganizational
+Behavior
+BrianT.PentlandandThorvaldHærem . .. ... .. ... .. ... .. ... .. .. 465
+Pay,IntrinsicMotivation,ExtrinsicMotivation,Performance,andCreativity
+intheWorkplace:RevisitingLong-HeldBeliefs
+BarryGerhartandMeiyuFang ... .. ... .. ... .. ... .. ... .. ... .. .. 489
+StereotypeThreatinOrganizations:ImplicationsforEquityandPerformance
+GregoryM.Walton,MaryC.Murphy,andAnnMarieRyan. .. ... .. .. 523
+TechnologyandAssessmentinSelection
+NancyT.Tippins ... .. ... .. ... .. ... .. ... .. ... .. ... .. ... .. .. 551
+WorkplaceStressManagementInterventionsandHealthPromotion
+LoisE.TetrickandCarolynJ.Winslow . .. ... .. ... .. ... .. ... .. .. 583
+Errata
+AnonlinelogofcorrectionstoAnnualReviewofOrganizationalPsychologyand
+OrganizationalBehaviorarticlesmaybefoundathttp://www.annualreviews.org/
+errata/orgpsych.
+Contents vii
+gro.sweiverlaunna.www
+morf
+dedaolnwoD
+.47-74:2.5102
+.vaheB
+.nagrO
+.lohcysP
+.nagrO
+.veR
+.unnA
+.ylno
+esu
+lanosrep
+roF
+.51/42/11
+no
+seitiC
+niwT
+- atosenniM
+fo
+ytisrevinU
+yb
+dedivorp
+sseccA
+
+## Page 31
+
+gro.sweiverlaunna.www
+morf
+dedaolnwoD
+.47-74:2.5102
+.vaheB
+.nagrO
+.lohcysP
+.nagrO
+.veR
+.unnA
+.ylno
+esu
+lanosrep
+roF
+.51/42/11
+no
+seitiC
+niwT
+-
+atosenniM
+fo
+ytisrevinU
+yb
+dedivorp
+sseccA

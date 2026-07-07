@@ -16,3 +16,4 @@ I/O psychologist (Florida International University). Works on job-performance me
 
 ## Key work in this vault
 - [[viswesvaran-schmidt-ones-2005-general-factor-job-performance|Viswesvaran, Schmidt & Ones (2005)]]
+- [[viswesvaran-ones-2000-models-of-job-performance|Viswesvaran & Ones (2000) — Perspectives on Models of Job Performance]]

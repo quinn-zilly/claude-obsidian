@@ -9,6 +9,8 @@ updated: 2026-05-21
 related:
   - "[[beigi-2025-career-success-minority]]"
   - "[[seibert-akkermans-liu-2024-contemporary-career-success]]"
+  - "[[ng-eby-sorensen-feldman-2005-career-success-meta-analysis]]"
+  - "[[Organizational Sponsorship]]"
   - "[[Objective Career Success]]"
   - "[[Complex Visibility]]"
   - "[[Managed Visibility]]"
@@ -24,6 +26,10 @@ related:
 Subjective career success refers to one's own evaluation of career outcomes — how satisfied, fulfilled, or successful one perceives oneself to be — as distinguished from **objective career success** (pay, title, promotion speed, hierarchical level).
 
 The distinction matters because objective and subjective career success can diverge significantly, and for minority employees, divergence is systematic: someone may achieve adequate objective markers while experiencing persistent subjective dissatisfaction due to [[Complex Visibility]] costs.
+
+## Empirical Baseline (Ng et al. 2005)
+
+The classic operationalization of subjective success is **career satisfaction**. [[ng-eby-sorensen-feldman-2005-career-success-meta-analysis|Ng et al. (2005)]] found it predicted far more by relational/dispositional factors than by human capital: supervisor support (ρ≈.46), career sponsorship (ρ≈.44), and proactivity (ρ≈.38) dwarf education (ρ≈.03) and tenure. This is the narrow satisfaction-only baseline that Seibert et al. (2024) and Beigi et al. (2025) later expand.
 
 ## Standard Dimensions
 

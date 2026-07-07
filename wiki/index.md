@@ -1,7 +1,7 @@
 ---
 type: meta
 title: "Wiki Index"
-updated: 2026-04-07
+updated: 2026-07-07
 tags:
   - meta
   - index
@@ -25,7 +25,7 @@ created: 2026-04-07
 
 # Wiki Index
 
-Last updated: 2026-07-06 | Total pages: 513 | Sources ingested: 76
+Last updated: 2026-07-07 | Total pages: 521 | Sources ingested: 79
 
 Navigation: [[Home MOC]] | [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[getting-started]]
 
@@ -39,9 +39,33 @@ Navigation: [[Home MOC]] | [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[
 
 ## Concepts
 
+- [[Reliability]] — variance ratio (signal/total); joint property of test AND sample; Trait/State/specific mixture; necessary-not-sufficient for validity (Revelle & Condon 2019)
+- [[Coefficient Alpha]] — Cronbach's α / Guttman λ₃ / KR-20; = reliability only under tau-equivalence; not a unidimensionality index; superseded by omega
+- [[Attenuation]] — underestimation of construct correlations from measurement error; correction-for-attenuation formula (Spearman 1904b)
+- [[Binning-Barrett Validity Framework]] — nine-inference system; construct/content/criterion = three evidential bases for the overriding Inference 9 (predictor → performance domain)
+- [[Predictor vs Performance Domain]] — predictor construct domains are *discovered*, performance domains are *created/imposed* by organizations (Binning & Barrett 1989)
+- [[Criterion Profile Analysis]] — regression-based pattern-matching; decomposes prediction into level (profile elevation) + pattern (criterion-pattern similarity) effects; MACPA extends it to meta-analytic data (Wiernik et al. 2021)
+- [[Configural Relationships]] — pattern relations among variables; **contrastive** (level+pattern decomposition) vs **interactive** (multiplicative); null interaction ≠ no configuration
+- [[Too-Much-of-a-Good-Thing Effect]] — formalized meta-theory; beneficial antecedents turn asymptotic/negative past a context-specific inflection point → curvilinearity (Pierce & Aguinis 2013)
+- [[Doctrine of the Mean]] — Aristotle/Confucius Golden Mean; virtue between deficiency & excess; philosophical root of the TMGT effect
+- [[Criterion Problem]] — difficulty of conceptualizing/measuring multidimensional, dynamic, purpose-dependent performance criteria (Cascio & Aguinis 2011)
+- [[Ultimate Criterion]] — Thorndike's full conceptual domain of job success; unmeasurable but anchors relevance
+- [[Criterion Relevance, Deficiency & Contamination]] — the overlap/gap/noise between an operational measure and the ultimate criterion; error vs bias; 3 bias sources
+- [[Dynamic Criteria]] — temporal dimensionality of criteria; group-mean, validity-coefficient, and rank-order change; simplex pattern
+- [[Typical vs Maximal Performance]] — what employees *will* vs *can* do; correlate only .20–.40; ability→maximal, motivation→typical
+- [[Composite vs Multiple Criteria]] — combine into one economic index (decisions) vs keep behavioral dimensions separate (understanding)
+- [[Task Performance]] — proficiency on formally recognized, role-prescribed activities feeding the technical core (Borman & Motowidlo 1993)
 - [[Protean Career Orientation]] — career attitude of self-direction + intrinsic values in pursuit of psychological success; two dimensions + three processes (Hall et al. 2018)
 - [[Proactive Career Orientation]] — single general factor uniting protean self-directed/values-driven + boundaryless psychological mobility; physical mobility distinct (Wiernik & Kostal 2019)
 - [[Objective Career Success]] — quantitative, verifiable outcomes (pay, rank, promotions); Seibert et al. 2024 revalue it against the OP critique
+- [[CORE Model of Performance]] — meta-theory integrating 239 performance theories: P = Capacity + Opportunity + Relevant Exchanges; isomorphic across firm/individual levels (Marshall, Aguinis & Beltran 2024)
+- [[Meta-Theory (Management)]] — umbrella theory subsuming narrower ones via higher abstraction; antidote to "theorrhea"; meta-theoretical constructs (seed)
+- [[Campbell Model of Job Performance]] — near-consensus eight-factor latent structure of individual performance; invariant across levels/cultures; content model (Campbell 2012; Campbell & Wiernik 2015)
+- [[Contextual Performance]] — Borman & Motowidlo; service/maintain the technical core; ~complete overlap with OCB factors (seed)
+- [[Counterproductive Work Behavior]] — controllable actions harming org goals; CWB-O/CWB-I; NOT the inverse of OCB; distinct determinants (seed)
+- [[Contest-Mobility vs Sponsored-Mobility]] — Turner 1960; merit-competition vs elite-sponsorship systems; scaffolds Ng et al. 2005 predictor families (seed)
+- [[Human Capital (Career Success)]] — Becker; experience/education/skills; contest-mobility predictor; strongest with objective success (education→salary ρ≈.29) (seed)
+- [[Organizational Sponsorship]] — career sponsorship, supervisor support, training access; sponsored-mobility predictor; strongest with subjective success (supervisor support ρ≈.46) (seed)
 - [[Career Self-Management Behavior]] — proactive career actions (planning, networking, self-development); most proximal criterion of proactive career orientation
 - [[Protean Paradox]] — individual self-direction/values can also benefit the group/organization (Hall et al. 2018)
 - [[Sustainable Career]] — dynamic balance of happiness × health × productivity over the life course (De Vos et al. 2020; Seibert et al. 2024)
@@ -420,6 +444,8 @@ Navigation: [[Home MOC]] | [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[
 
 ### Sources (new — 2026-06-04)
 
+- [[wiernik-et-al-2021-meta-analytic-cpa]] — extends criterion profile analysis to meta-analytic data (MACPA); level vs pattern effects from a correlation matrix; artifact + overfitting corrections; *Psychological Methods* 2021
+- [[pierce-aguinis-2013-tmgt-effect]] — the too-much-of-a-good-thing meta-theory; curvilinearity & context-specific inflection points across management subfields; *J. Management* 2013
 - [[approaches-dei-evaluation]] — practice brief; three-goal DEI evaluation framework (stakeholder engagement, data quality, cross-difference communication); resources list incl. Equitable Evaluation Initiative, Child Trends, Project Evident | 2026-06-04
 
 - [[burke-hutchins-2007-training-transfer]] — integrative review ~170 studies; three-factor taxonomy (learner/design/environment); transfer problem scope; HRD Rev 2007
@@ -428,6 +454,9 @@ Navigation: [[Home MOC]] | [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[
 
 ### Entities (new)
 
+- [[Michael P. Wilmot]] — U of Arkansas (Management); Big Five/conscientiousness; co-author Wiernik et al. 2021 (stub)
+- [[Mark L. Davison]] — U of Minnesota (Educational Psych); originator of profile analysis / CPA (Davison & Davenport 2002) (stub)
+- [[Jason R. Pierce]] — Indiana University; management meta-theory; lead author of the TMGT effect (stub)
 - [[Winfred Arthur Jr.]] — Texas A&M; IO psychology; training effectiveness meta-analysis; SAMD outlier statistic (stub)
 - [[Ashutosh Shukla]] — IIM Rohtak; HRD; online training transfer taxonomy (stub)
 - [[Mikki Hebl]] — Rice University; workplace discrimination, diversity training, prejudice reduction; Cheng et al. 2019 (developing)
@@ -513,6 +542,12 @@ Navigation: [[Home MOC]] | [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[
 
 ## Entities
 
+- [[William Revelle]] — Northwestern; author of the R `psych` package; model-based reliability advocate; Revelle & Condon 2019
+- [[David M. Condon]] — University of Oregon; personality structure & psychometric methods; Revelle & Condon 2019
+- [[Ernest C. Davenport Jr.]] — University of Minnesota; co-originator of criterion profile analysis; Davison & Davenport 2002
+- [[John F. Binning]] — Illinois State; co-author of the Binning & Barrett (1989) unified validity framework
+- [[Gerald V. Barrett]] — University of Akron; validity, content validation, employment litigation; Binning & Barrett 1989
+- [[Wayne F. Cascio]] — I/O psychologist; utility/economic value of HR interventions, criterion measurement; co-author of *Applied Psychology in HRM*
 - [[Tomasz Obloj]] — strategy scholar (HEC Paris); incentives, pay transparency, gaming of performance measures; Obloj & Zenger 2022
 - [[Todd Zenger]] — strategy/org-economics (Utah); theory of the firm, compensation; Obloj & Zenger 2022
 - [[Yeong-Hyun Hong]] — HR researcher (Michigan-Dearborn); lead author, employee-benefits meta-analysis 2024
@@ -685,6 +720,11 @@ Navigation: [[Home MOC]] | [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[
 
 ## Sources
 
+- [[revelle-condon-2019-reliability-alpha-to-omega|Revelle & Condon (2019)]] — *Psychological Assessment* | α-to-ω reliability tutorial; reliability = variance ratio, joint property of test AND sample; no single reliability; two problems with α; report model-based [[Coefficient Omega|omega]] ($\omega_h$ + $\omega_t$); ICC for ratings, κ for categorical; R `psych` | 2026-07-07
+- [[davison-davenport-2002-criterion-related-patterns|Davison & Davenport (2002)]] — *Psychological Methods* | **primary source** for [[Criterion Profile Analysis|CPA]]; level/pattern decomposition; criterion-pattern vector $b^*=b-\bar b$; nested $F$-tests; double cross-validation; worked examples (Social Closeness 12.9%; math achievement +36.8% over level) | 2026-07-07
+- [[binning-barrett-1989-validity-personnel-decisions|Binning & Barrett (1989)]] — *Journal of Applied Psychology* | validation = theory building; construct/content/criterion-related validity are three **evidential bases** (not types) serving the overriding **Inference 9** (predictor → performance domain); [[Criterion Problem|criterion problem]] = truncated nomological net; [[Predictor vs Performance Domain]] | 2026-07-07
+- [[viswesvaran-ones-2000-models-of-job-performance|Viswesvaran & Ones (2000)]] — *Int. J. Selection & Assessment* | review of job-performance models via a 2×2 (developmental context × occupational focus); task/[[Organizational Citizenship Behavior|OCB]]/counterproductivity families; Campbell's 8 & Viswesvaran's lexical 10 dims; positive manifold → substantive [[General Factor in Job Performance|general factor]] (>50% shared variance, not halo); common determinants = cognitive ability + conscientiousness | 2026-07-07
+- [[cascio-aguinis-2011-criteria-concepts-measurement-evaluation|Cascio & Aguinis (2011)]] — *Applied Psychology in HRM* (7e), Ch. 4 | the [[Criterion Problem|criterion problem]]; predictor vs criterion = time; [[Ultimate Criterion|ultimate criterion]] → immediate/intermediate/summary substitutes; Ghiselli static/[[Dynamic Criteria|dynamic]]/individual dimensionality; [[Typical vs Maximal Performance|typical vs maximal]]; relevance/sensitivity/practicality; [[Criterion Relevance, Deficiency & Contamination|deficiency & contamination]]; [[Composite vs Multiple Criteria|composite vs multiple criteria]] | 2026-07-07
 - [[obloj-zenger-2022-pay-transparency-equity-equality|Obloj & Zenger (2022)]] — *Nature Human Behaviour* | staggered natural experiment on ~100k US academics; pay transparency causally ↑equity (gender gap −2–5.9pp) and ↑equality (dispersion −20%) but ↓the performance basis of pay (star premium −42%); mechanisms = PFP pressure, targeted raises, mobility | 2026-07-06
 - [[hong-ford-jong-2024-employee-benefits-meta-analysis|Hong, Ford & Jong (2024)]] — *Journal of Applied Psychology* | meta-analysis separating benefit availability/use/subjective evaluation; evaluation ≫ availability ≫ use (eval→POS ρ≈.40, →AOC ρ≈.33); POS partial mediator; training→jobsat, health→turnover (ρ≈−.22) | 2026-07-06
 - [[shaw-2014-pay-dispersion|Shaw (2014)]] — *Annual Review of Organizational Psychology and Organizational Behavior* | review of pay-dispersion outcomes; explained (legitimate) vs unexplained (residual) dispersion resolves the field; three stylized facts (performance/turnover/attitudes); identifiability > interdependence | 2026-07-06

@@ -5,8 +5,11 @@ title: "Construct Validity"
 tags: [concept, psychometrics, measurement, validity]
 status: evergreen
 created: 2026-06-01
-updated: 2026-06-01
-related: ["[[Likert Scale Development]]", "[[Construct Definition]]", "[[jebb-ng-tay-2021-likert-scale-advances]]"]
+updated: 2026-07-07
+related: ["[[Likert Scale Development]]", "[[Construct Definition]]", "[[Binning-Barrett Validity Framework]]", "[[Reliability]]", "[[jebb-ng-tay-2021-likert-scale-advances]]"]
+sources:
+  - "[[jebb-ng-tay-2021-likert-scale-advances]]"
+  - "[[binning-barrett-1989-validity-personnel-decisions]]"
 ---
 
 # Construct Validity
@@ -32,6 +35,8 @@ Revives Kelley (1927): validity is simply whether "test X measures attribute Y."
 Both camps agree: **there are not different "types" of validity.** Language like "content validity," "criterion-related validity," and "discriminant validity" is misleading — it implies these produce categorically different kinds of evidence pointing to independent inferences. In reality, all evidence contributes to the single central inference about score meaning.
 
 As of 2013, **122 distinct subtypes** had been named in the literature (Newton & Shaw 2013), many coined after the 1985 Standards explicitly stated that type-language was inappropriate.
+
+In personnel selection, [[binning-barrett-1989-validity-personnel-decisions|Binning & Barrett (1989)]] made the same argument operationally: construct/content/criterion-related validity are three **evidential bases** for one overriding inference (predictor → job performance), not three validities. See [[Binning-Barrett Validity Framework]].
 
 **Practical implication:** Do not think "I need to show discriminant validity." Think "I need to provide evidence bearing on discriminability — and I can use any analytic method to do that, including those traditionally labeled 'criterion validity' analyses."
 

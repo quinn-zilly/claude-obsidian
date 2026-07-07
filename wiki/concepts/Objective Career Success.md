@@ -8,7 +8,10 @@ created: 2026-07-06
 updated: 2026-07-06
 related:
   - "[[seibert-akkermans-liu-2024-contemporary-career-success]]"
+  - "[[ng-eby-sorensen-feldman-2005-career-success-meta-analysis]]"
   - "[[Subjective Career Success]]"
+  - "[[Human Capital (Career Success)]]"
+  - "[[Contest-Mobility vs Sponsored-Mobility]]"
   - "[[Gender Gap in Rewards vs Performance]]"
   - "[[Sustainable Career]]"
 ---

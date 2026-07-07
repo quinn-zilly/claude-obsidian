@@ -1,7 +1,7 @@
 ---
 type: meta
 title: Operation Log
-updated: 2026-07-06
+updated: 2026-07-07
 tags:
   - meta
   - log
@@ -12,6 +12,50 @@ related:
   - "[[overview]]"
   - "[[sources/_index]]"
 created: 2026-04-07
+---
+
+## [2026-07-07] ingest | measurement-foundations trio (reliability + CPA primary + validity inference)
+
+- **Batch of 3** anchoring the vault's psychometrics/measurement spine: how we estimate reliability, how we decompose predictor patterns, and how validity inferences are logically structured.
+- **(1) [[revelle-condon-2019-reliability-alpha-to-omega|Revelle & Condon (2019)]]** (*Psychological Assessment*) — the α-to-ω tutorial. Reliability = a **variance ratio**, a *joint* property of test AND sample (not the test alone). **No single reliability**: Trait/State/specific variance separated by design (internal consistency vs dependability vs stability vs inter-rater). Two problems with **α** (only = reliability under tau-equivalence; not a unidimensionality index). Report model-based **omega** — $\omega_h$ (general-factor saturation) + $\omega_t$ (total reliable variance ≈ glb) — via bifactor/Schmid–Leiman; ICC for ratings, κ for categorical. R `psych`.
+- **(2) [[davison-davenport-2002-criterion-related-patterns|Davison & Davenport (2002)]]** (*Psychological Methods*) — the **primary source** for [[Criterion Profile Analysis|CPA]] (previously footed only on the [[wiernik-et-al-2021-meta-analytic-cpa|Wiernik 2021 MACPA]] extension). Level/pattern decomposition; criterion-pattern vector $b^*=b-\bar b$; nested $F$-tests; **double cross-validation**; two worked examples (vocational interest→Social Closeness pattern=12.9%; math course-work→achievement pattern +36.8% over level).
+- **(3) [[binning-barrett-1989-validity-personnel-decisions|Binning & Barrett (1989)]]** (*JAP*) — seminal unification: validation = **theory building**; construct/content/criterion-related validity are three **evidential bases**, not three validities, all serving the overriding **Inference 9** (predictor measure → performance domain). The **[[Criterion Problem|criterion problem]]** = a **truncated nomological net** (neglect of Inferences 7/8/10/11). Corollary: where the criterion is deficient, **construct evidence can beat criterion-related evidence** — undercutting the *Uniform Guidelines* (1978) preference. + [[Predictor vs Performance Domain]] (discovered vs imposed).
+- **Cross-refs:** reliability is *necessary-not-sufficient* for validity (R&C → B&B); D&D is the method-origin under the existing Wiernik MACPA page; B&B relocates the criterion problem already seeded by [[cascio-aguinis-2011-criteria-concepts-measurement-evaluation|Cascio & Aguinis]].
+- **New:** 4 concepts ([[Reliability]], [[Coefficient Alpha]], [[Binning-Barrett Validity Framework]], [[Predictor vs Performance Domain]]) + 5 entities ([[William Revelle]], [[David M. Condon]], [[Ernest C. Davenport Jr.]], [[John F. Binning]], [[Gerald V. Barrett]]) + 3 sources (c-000999–c-001010). Updated [[Coefficient Omega]], [[Criterion Profile Analysis]], [[Construct Validity]], [[Criterion Problem]], [[Composite vs Multiple Criteria]], [[Mark L. Davison]].
+- **Candidate next:** Cronbach & Meehl (1955) construct-validity primary; Messick (1995) validity; Schmidt & Hunter (1996) 26 reliability corrections; Murphy & Shiarella (1997) composite weighting.
+
+---
+
+## [2026-07-07] ingest | methods + meta-theory pair (MACPA + TMGT)
+
+- **Batch:** two methodologically-oriented pieces, both touching [[Herman Aguinis]]'s corpus and the "how do predictors relate to criteria?" question — one about *configural pattern* structure, one about *curvilinear* structure.
+- **(1) [[wiernik-et-al-2021-meta-analytic-cpa|Wiernik, Wilmot, Davison & Ones (2021)]]** (*Psychological Methods*) — extends **[[Criterion Profile Analysis|CPA]]** to summary/meta-analytic data (**MACPA**). Decomposes prediction into a **level effect** (profile elevation) and **pattern effect** (similarity to the optimal criterion pattern), computable from a correlation matrix alone. Targets the **contrastive** type of [[Configural Relationships|configural relationship]] (distinct from **interactive**/multiplicative). Adds artifact corrections, shrinkage for overfitting, and fungible profile analysis. `configural` R package.
+- **(2) [[pierce-aguinis-2013-tmgt-effect|Pierce & Aguinis (2013)]]** (*Journal of Management*) — the **[[Too-Much-of-a-Good-Thing Effect|TMGT effect]]**, a formalized [[Meta-Theory (Management)|meta-theory]]: all monotonic positive antecedent→outcome relations reach a context-specific **inflection point** ($-b_1/2b_2$), then turn asymptotic or negative → **curvilinearity**. Rooted in the [[Doctrine of the Mean]] (Aristotle/Confucius). Eight examples across OB/HRM/entrepreneurship/strategy.
+- **Pages created:** 2 sources + 4 concepts ([[Criterion Profile Analysis]], [[Configural Relationships]], [[Too-Much-of-a-Good-Thing Effect]], [[Doctrine of the Mean]]) + 3 entities ([[Michael P. Wilmot]], [[Mark L. Davison]], [[Jason R. Pierce]]). Addresses c-000990–998.
+- **Pages updated:** [[Brenton M. Wiernik]], [[Deniz S. Ones]], [[Herman Aguinis]], [[Meta-Theory (Management)]] (added philosophical-vs-formalized distinction + TMGT example), [[index]], [[hot]].
+- **Key insight:** a **null interaction does not mean "no configuration"** — Van Iddekinge et al. (2018) show no *interactive* ability×motivation effect but a *contrastive* configural one under MACPA. Aguinis now anchors two formalized meta-theories in the vault (CORE + TMGT).
+
+---
+
+## [2026-07-07] ingest | criteria & job-performance models pair
+
+- **Batch:** two foundational I/O-psychology pieces on the **[[Criterion Problem|criterion problem]]** and models of job performance. Explicitly linked — Cascio & Aguinis cite Viswesvaran & Ones (2000) as the call for a "comprehensive theory of the behavior of men and women at work."
+- **(1) [[viswesvaran-ones-2000-models-of-job-performance|Viswesvaran & Ones (2000)]]** (*Int. J. Selection & Assessment*) — review of performance models via a 2×2 (developmental context × occupational focus). Three stand-alone families ([[Task Performance]], [[Organizational Citizenship Behavior|OCB]], [[Counterproductive Work Behavior|counterproductivity]]); across-job sets ([[Campbell Model of Job Performance|Campbell's 8]], Viswesvaran's lexical 10). Positive manifold → substantive **[[General Factor in Job Performance|general factor]]** (>50% shared variance, not mere halo); hierarchical structure; common determinants = **cognitive ability + conscientiousness**.
+- **(2) [[cascio-aguinis-2011-criteria-concepts-measurement-evaluation|Cascio & Aguinis (2011)]]** (*Applied Psychology in HRM*, Ch. 4) — the criterion problem. Criterion = operational statement of desired outcomes; predictor vs criterion differ only by **time**. [[Ultimate Criterion|Ultimate criterion]] (Thorndike) is conceptual/unmeasurable → immediate/intermediate/summary substitutes. Ghiselli's static/[[Dynamic Criteria|dynamic]]/individual dimensionality; [[Typical vs Maximal Performance|typical vs maximal]] (r≈.20–.40). Evaluate on relevance/sensitivity/practicality; watch **[[Criterion Relevance, Deficiency & Contamination|deficiency & contamination]]** (Maier 1988: cleaning data moved validity .09/.17 → .49/.37). The **[[Composite vs Multiple Criteria|composite-vs-multiple]]** debate resolves by purpose.
+- **Pages created:** 2 sources + entity [[Wayne F. Cascio]] + 7 concepts ([[Task Performance]], [[Criterion Problem]], [[Ultimate Criterion]], [[Criterion Relevance, Deficiency & Contamination]], [[Dynamic Criteria]], [[Typical vs Maximal Performance]], [[Composite vs Multiple Criteria]]). Addresses c-000980–989.
+- **Pages updated:** [[General Factor in Job Performance]], [[Contextual Performance]], [[Counterproductive Work Behavior]], [[Chockalingam Viswesvaran]], [[Deniz S. Ones]], [[Herman Aguinis]], [[index]], [[hot]].
+- **Key insight:** two general-factor debates converge — the *composite* general factor (Guion; Schmidt & Kaplan) may be **economic**, while Viswesvaran & Ones argue for a **substantive behavioral** one. Filed as a contradiction note on [[Composite vs Multiple Criteria]].
+
+## [2026-07-07] ingest | batch of 3 performance + career-success papers
+
+- **Batch:** a *performance-modeling + career-success* spine crossing micro/macro.
+- **(1) [[marshall-aguinis-beltran-2024-theories-of-performance|Marshall, Aguinis & Beltran (2024)]]** (*AMA Annals*) — integrative review of **15,535 articles → 239 theories → 6 meta-theoretical constructs**, producing the **[[CORE Model of Performance]]**: `P = C + O + RE` (Capacity/Opportunity/Relevant Exchanges). Constructs are **isomorphic across levels** — firm capabilities↔individual KSAOs, structures↔roles, transactions↔relationships — so the micro–macro divide is treated as largely *linguistic*. Stop silos/theorrhea/process-vs-outcome; start with the big picture + intersections. New concepts: [[CORE Model of Performance]], [[Meta-Theory (Management)]]. Entities: [[Herman Aguinis]], [[Jason D. Marshall]], [[Jose R. Beltran]].
+- **(2) [[campbell-wiernik-2015-modeling-assessment-work-performance|Campbell & Wiernik (2015)]]** (*Annu. Rev.*) — canonical individual-performance synthesis. Performance = **actions people take that advance org goals**, sharply distinguished from *determinants* (KSAOs) and *outcomes* (sales/ROI — "actions not results"). Near-consensus **[[Campbell Model of Job Performance|eight-factor latent structure]]** (invariant across levels/cultures/functions), plus [[General Factor in Job Performance|general factor]] (formative), compound domains, performance dynamics/adaptability (dimension-specific), and assessment purposes. New concepts: [[Campbell Model of Job Performance]], [[Contextual Performance]], [[Counterproductive Work Behavior]]. Entity: [[John P. Campbell]]; updated [[Brenton M. Wiernik]].
+- **(3) [[ng-eby-sorensen-feldman-2005-career-success-meta-analysis|Ng, Eby, Sorensen & Feldman (2005)]]** (*Personnel Psychology*) — foundational career-success meta-analysis. Four predictor families via **[[Contest-Mobility vs Sponsored-Mobility]]** lens. **Objective** success (salary/promotion) driven by [[Human Capital (Career Success)|human capital]] (education→salary ρ≈.29); **subjective** success (career satisfaction) driven by [[Organizational Sponsorship]] + disposition (supervisor support ρ≈.46, sponsorship ρ≈.44, proactivity ρ≈.38). Objective/subjective only modestly correlated — empirically distinct. Empirical ancestor of the vault's [[Objective Career Success]] / [[Subjective Career Success]] pages. New concepts: [[Contest-Mobility vs Sponsored-Mobility]], [[Human Capital (Career Success)]], [[Organizational Sponsorship]]. Entities: [[Thomas W. H. Ng]], [[Lillian T. Eby]], [[Daniel C. Feldman]], [[Kelly L. Sorensen]].
+- **Cross-refs:** Campbell's content model nests inside the individual-level slice of CORE (both argue latent-structure invariance — filed as a note/contradiction). Ng 2005 wired into existing [[Objective Career Success]], [[Subjective Career Success]]; OCB page linked to new [[Contextual Performance]] / [[Counterproductive Work Behavior]].
+- **New:** 8 concepts + 8 entities + 3 sources (c-000960–979; c-000971 skipped — Wiernik already existed).
+- **Candidate next:** Campbell (2012) primary chapter; Carpini, Parker & Griffin (2017) individual-performance bibliometric review; Seibert & Kraimer (2001) career-success primary.
+
 ---
 # Operation Log
 

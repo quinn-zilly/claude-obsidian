@@ -2202,6 +2202,195 @@
         "wiki/hot.md",
         "wiki/log.md"
       ]
+    },
+    ".raw/Marshall et al. - 2024 - Theories of Performance A Review and Integration.md": {
+      "hash": "b1f514373107e7c8cae317a5f7498c54",
+      "ingested_at": "2026-07-07",
+      "pages_created": [
+        "wiki/sources/marshall-aguinis-beltran-2024-theories-of-performance.md",
+        "wiki/concepts/CORE Model of Performance.md",
+        "wiki/concepts/Meta-Theory (Management).md",
+        "wiki/entities/Herman Aguinis.md",
+        "wiki/entities/Jason D. Marshall.md",
+        "wiki/entities/Jose R. Beltran.md"
+      ],
+      "pages_updated": [
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md"
+      ]
+    },
+    ".raw/Campbell and Wiernik - 2015 - The Modeling and Assessment of Work Performance.md": {
+      "hash": "7f658a6584efa5fd5a65f18c8e06c598",
+      "ingested_at": "2026-07-07",
+      "pages_created": [
+        "wiki/sources/campbell-wiernik-2015-modeling-assessment-work-performance.md",
+        "wiki/concepts/Campbell Model of Job Performance.md",
+        "wiki/concepts/Contextual Performance.md",
+        "wiki/concepts/Counterproductive Work Behavior.md",
+        "wiki/entities/John P. Campbell.md"
+      ],
+      "pages_updated": [
+        "wiki/entities/Brenton M. Wiernik.md",
+        "wiki/concepts/Organizational Citizenship Behavior.md",
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md"
+      ]
+    },
+    ".raw/Ng et al. - 2005 - Predictors of Objective and Subjective Career Success A Meta-Analysis.md": {
+      "hash": "d8ddf31fddf4d4fe0d1e2af9419f6ba4",
+      "ingested_at": "2026-07-07",
+      "pages_created": [
+        "wiki/sources/ng-eby-sorensen-feldman-2005-career-success-meta-analysis.md",
+        "wiki/concepts/Contest-Mobility vs Sponsored-Mobility.md",
+        "wiki/concepts/Human Capital (Career Success).md",
+        "wiki/concepts/Organizational Sponsorship.md",
+        "wiki/entities/Thomas W. H. Ng.md",
+        "wiki/entities/Lillian T. Eby.md",
+        "wiki/entities/Daniel C. Feldman.md",
+        "wiki/entities/Kelly L. Sorensen.md"
+      ],
+      "pages_updated": [
+        "wiki/concepts/Objective Career Success.md",
+        "wiki/concepts/Subjective Career Success.md",
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md"
+      ]
+    },
+    ".raw/Viswesvaran and Ones - 2000 - Perspectives on Models of Job Performance.md": {
+      "hash": "d1c3006b4fb9efba005ea6866cdfec69",
+      "ingested_at": "2026-07-07",
+      "pages_created": [
+        "wiki/sources/viswesvaran-ones-2000-models-of-job-performance.md",
+        "wiki/concepts/Task Performance.md"
+      ],
+      "pages_updated": [
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md",
+        "wiki/mocs/Teams & Org Behavior MOC.md",
+        "wiki/concepts/General Factor in Job Performance.md",
+        "wiki/concepts/Contextual Performance.md",
+        "wiki/concepts/Counterproductive Work Behavior.md",
+        "wiki/entities/Chockalingam Viswesvaran.md",
+        "wiki/entities/Deniz S. Ones.md",
+        "wiki/entities/Herman Aguinis.md"
+      ]
+    },
+    ".raw/Cascio and Aguinis - 2011 - Criteria Concepts, measurement, and evaluation.md": {
+      "hash": "8756299ccc753847d7d4cef611abe09f",
+      "ingested_at": "2026-07-07",
+      "pages_created": [
+        "wiki/sources/cascio-aguinis-2011-criteria-concepts-measurement-evaluation.md",
+        "wiki/entities/Wayne F. Cascio.md",
+        "wiki/concepts/Criterion Problem.md",
+        "wiki/concepts/Ultimate Criterion.md",
+        "wiki/concepts/Criterion Relevance, Deficiency & Contamination.md",
+        "wiki/concepts/Dynamic Criteria.md",
+        "wiki/concepts/Typical vs Maximal Performance.md",
+        "wiki/concepts/Composite vs Multiple Criteria.md"
+      ],
+      "pages_updated": [
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md",
+        "wiki/mocs/Teams & Org Behavior MOC.md",
+        "wiki/concepts/General Factor in Job Performance.md",
+        "wiki/concepts/Contextual Performance.md",
+        "wiki/concepts/Counterproductive Work Behavior.md",
+        "wiki/entities/Chockalingam Viswesvaran.md",
+        "wiki/entities/Deniz S. Ones.md",
+        "wiki/entities/Herman Aguinis.md"
+      ]
+    },
+    ".raw/Wiernik et al. - 2021 - Meta-analytic criterion profile analysis..md": {
+      "hash": "29a6fb4902916f39ce517f0a20c334ab",
+      "ingested_at": "2026-07-07",
+      "pages_created": [
+        "wiki/sources/wiernik-et-al-2021-meta-analytic-cpa.md",
+        "wiki/concepts/Criterion Profile Analysis.md",
+        "wiki/concepts/Configural Relationships.md",
+        "wiki/entities/Michael P. Wilmot.md",
+        "wiki/entities/Mark L. Davison.md"
+      ],
+      "pages_updated": [
+        "wiki/entities/Brenton M. Wiernik.md",
+        "wiki/entities/Deniz S. Ones.md",
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md"
+      ]
+    },
+    ".raw/Pierce and Aguinis - 2013 - The Too-Much-of-a-Good-Thing Effect in Management.md": {
+      "hash": "45ace9883eb1f364437e37e561f0966c",
+      "ingested_at": "2026-07-07",
+      "pages_created": [
+        "wiki/sources/pierce-aguinis-2013-tmgt-effect.md",
+        "wiki/concepts/Too-Much-of-a-Good-Thing Effect.md",
+        "wiki/concepts/Doctrine of the Mean.md",
+        "wiki/entities/Jason R. Pierce.md"
+      ],
+      "pages_updated": [
+        "wiki/entities/Herman Aguinis.md",
+        "wiki/concepts/Meta-Theory (Management).md",
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md"
+      ]
+    },
+    ".raw/Revelle and Condon - 2019 - Reliability from α to ω A tutorial..md": {
+      "hash": "bffc0d1ca9e0717aa1da0b8e1a3c4418",
+      "ingested_at": "2026-07-07",
+      "pages_created": [
+        "wiki/sources/revelle-condon-2019-reliability-alpha-to-omega.md",
+        "wiki/concepts/Reliability.md",
+        "wiki/concepts/Coefficient Alpha.md",
+        "wiki/entities/William Revelle.md",
+        "wiki/entities/David M. Condon.md",
+        "wiki/concepts/Attenuation.md"
+      ],
+      "pages_updated": [
+        "wiki/concepts/Coefficient Omega.md",
+        "wiki/index.md",
+        "wiki/log.md",
+        "wiki/hot.md"
+      ]
+    },
+    ".raw/Davison and Davenport - 2002 - Identifying criterion-related patterns of predictor scores using multiple regression..md": {
+      "hash": "4d7e4daaf82d38d98ed318c059a63fac",
+      "ingested_at": "2026-07-07",
+      "pages_created": [
+        "wiki/sources/davison-davenport-2002-criterion-related-patterns.md",
+        "wiki/entities/Ernest C. Davenport Jr..md"
+      ],
+      "pages_updated": [
+        "wiki/concepts/Criterion Profile Analysis.md",
+        "wiki/entities/Mark L. Davison.md",
+        "wiki/index.md",
+        "wiki/log.md",
+        "wiki/hot.md"
+      ]
+    },
+    ".raw/Binning and Barrett - 1989 - Validity of personnel decisions A conceptual analysis of the inferential and evidential bases..md": {
+      "hash": "9e9d7b8903d020ccb7ef1d56e73f859e",
+      "ingested_at": "2026-07-07",
+      "pages_created": [
+        "wiki/sources/binning-barrett-1989-validity-personnel-decisions.md",
+        "wiki/concepts/Binning-Barrett Validity Framework.md",
+        "wiki/concepts/Predictor vs Performance Domain.md",
+        "wiki/entities/John F. Binning.md",
+        "wiki/entities/Gerald V. Barrett.md"
+      ],
+      "pages_updated": [
+        "wiki/concepts/Construct Validity.md",
+        "wiki/concepts/Criterion Problem.md",
+        "wiki/concepts/Composite vs Multiple Criteria.md",
+        "wiki/index.md",
+        "wiki/log.md",
+        "wiki/hot.md"
+      ]
     }
   },
   "address_map": {
@@ -3046,7 +3235,58 @@
     "wiki/entities/Douglas T. Hall.md": "c-000956",
     "wiki/entities/Jeffrey Yip.md": "c-000957",
     "wiki/entities/Brenton M. Wiernik.md": "c-000958",
-    "wiki/entities/Jack W. Kostal.md": "c-000959"
+    "wiki/entities/Jack W. Kostal.md": "c-000959",
+    "wiki/sources/marshall-aguinis-beltran-2024-theories-of-performance.md": "c-000960",
+    "wiki/concepts/CORE Model of Performance.md": "c-000961",
+    "wiki/concepts/Meta-Theory (Management).md": "c-000965",
+    "wiki/entities/Herman Aguinis.md": "c-000962",
+    "wiki/entities/Jason D. Marshall.md": "c-000963",
+    "wiki/entities/Jose R. Beltran.md": "c-000964",
+    "wiki/sources/campbell-wiernik-2015-modeling-assessment-work-performance.md": "c-000966",
+    "wiki/concepts/Campbell Model of Job Performance.md": "c-000967",
+    "wiki/concepts/Contextual Performance.md": "c-000968",
+    "wiki/concepts/Counterproductive Work Behavior.md": "c-000969",
+    "wiki/entities/John P. Campbell.md": "c-000970",
+    "wiki/sources/ng-eby-sorensen-feldman-2005-career-success-meta-analysis.md": "c-000972",
+    "wiki/concepts/Contest-Mobility vs Sponsored-Mobility.md": "c-000973",
+    "wiki/concepts/Human Capital (Career Success).md": "c-000974",
+    "wiki/concepts/Organizational Sponsorship.md": "c-000975",
+    "wiki/entities/Thomas W. H. Ng.md": "c-000976",
+    "wiki/entities/Lillian T. Eby.md": "c-000977",
+    "wiki/entities/Daniel C. Feldman.md": "c-000978",
+    "wiki/entities/Kelly L. Sorensen.md": "c-000979",
+    "wiki/sources/viswesvaran-ones-2000-models-of-job-performance.md": "c-000980",
+    "wiki/sources/cascio-aguinis-2011-criteria-concepts-measurement-evaluation.md": "c-000981",
+    "wiki/entities/Wayne F. Cascio.md": "c-000982",
+    "wiki/concepts/Task Performance.md": "c-000983",
+    "wiki/concepts/Criterion Problem.md": "c-000984",
+    "wiki/concepts/Ultimate Criterion.md": "c-000985",
+    "wiki/concepts/Criterion Relevance, Deficiency & Contamination.md": "c-000986",
+    "wiki/concepts/Dynamic Criteria.md": "c-000987",
+    "wiki/concepts/Typical vs Maximal Performance.md": "c-000988",
+    "wiki/concepts/Composite vs Multiple Criteria.md": "c-000989",
+    "wiki/sources/wiernik-et-al-2021-meta-analytic-cpa.md": "c-000990",
+    "wiki/sources/pierce-aguinis-2013-tmgt-effect.md": "c-000991",
+    "wiki/concepts/Criterion Profile Analysis.md": "c-000992",
+    "wiki/concepts/Configural Relationships.md": "c-000993",
+    "wiki/concepts/Too-Much-of-a-Good-Thing Effect.md": "c-000994",
+    "wiki/concepts/Doctrine of the Mean.md": "c-000995",
+    "wiki/entities/Michael P. Wilmot.md": "c-000996",
+    "wiki/entities/Mark L. Davison.md": "c-000997",
+    "wiki/entities/Jason R. Pierce.md": "c-000998",
+    "wiki/sources/revelle-condon-2019-reliability-alpha-to-omega.md": "c-000999",
+    "wiki/concepts/Reliability.md": "c-001000",
+    "wiki/concepts/Coefficient Alpha.md": "c-001001",
+    "wiki/entities/William Revelle.md": "c-001002",
+    "wiki/entities/David M. Condon.md": "c-001003",
+    "wiki/sources/davison-davenport-2002-criterion-related-patterns.md": "c-001004",
+    "wiki/entities/Ernest C. Davenport Jr..md": "c-001005",
+    "wiki/sources/binning-barrett-1989-validity-personnel-decisions.md": "c-001006",
+    "wiki/concepts/Binning-Barrett Validity Framework.md": "c-001007",
+    "wiki/concepts/Predictor vs Performance Domain.md": "c-001008",
+    "wiki/entities/John F. Binning.md": "c-001009",
+    "wiki/entities/Gerald V. Barrett.md": "c-001010",
+    "wiki/concepts/Attenuation.md": "c-001011"
   },
   ".raw/Pearsall et al. - 2025 - A stimulus-based model of the team adaptation process An integrated conceptual review..pdf": {
     "hash": "62f683006d3323a67c67fc23621f632a",

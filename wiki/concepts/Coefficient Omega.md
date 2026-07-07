@@ -5,8 +5,11 @@ title: "Coefficient Omega"
 tags: [concept, psychometrics, reliability, measurement]
 status: evergreen
 created: 2026-06-01
-updated: 2026-06-01
-related: ["[[Likert Scale Development]]", "[[Item Response Theory]]", "[[jebb-ng-tay-2021-likert-scale-advances]]"]
+updated: 2026-07-07
+related: ["[[Likert Scale Development]]", "[[Item Response Theory]]", "[[Reliability]]", "[[Coefficient Alpha]]", "[[jebb-ng-tay-2021-likert-scale-advances]]"]
+sources:
+  - "[[jebb-ng-tay-2021-likert-scale-advances]]"
+  - "[[revelle-condon-2019-reliability-alpha-to-omega]]"
 ---
 
 # Coefficient Omega
@@ -29,6 +32,15 @@ Coefficient alpha (Cronbach 1951) assumes **tau-equivalence**: all items have id
 - Performs at least as well as alpha when alpha's assumptions hold (Zinbarg et al. 2005)
 - More accurate for typical psychological scales
 - Hierarchical omega available for multidimensional scales
+
+## Two omegas (Revelle & Condon 2019)
+
+[[revelle-condon-2019-reliability-alpha-to-omega|Revelle & Condon (2019)]] disentangle McDonald's (1999) confusingly co-named coefficients:
+
+- **$\omega_h$ (hierarchical omega)** — variance due to the **single general factor**; answers "how much of my total score reflects one common thing?"
+- **$\omega_t$ (total omega)** — total reliable (common) variance; an estimate of the **greatest lower bound (glb)**, ≈ the best split-half.
+
+Computed via **bifactor** ($\omega_g$, slightly higher) or **Schmid–Leiman** ($\omega_h$). For very low general-factor saturation, the EFA-based estimate is positively biased — prefer a **CFA-based** estimate. Report *both* $\omega_h$ and $\omega_t$: they answer different questions, and neither collapses to α except under [[Coefficient Alpha|tau-equivalence]].
 
 ## Caveat
 

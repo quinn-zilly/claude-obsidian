@@ -7,7 +7,7 @@ tags: [concept, io-psychology, job-performance, measurement]
 status: developing
 created: 2026-06-30
 updated: 2026-06-30
-related: ["[[Halo Error]]", "[[Job Performance (Outcomes of Job Attitudes)]]", "[[Construct Validity]]", "[[viswesvaran-schmidt-ones-2005-general-factor-job-performance]]"]
+related: ["[[Halo Error]]", "[[Job Performance (Outcomes of Job Attitudes)]]", "[[Construct Validity]]", "[[viswesvaran-schmidt-ones-2005-general-factor-job-performance]]", "[[viswesvaran-ones-2000-models-of-job-performance]]", "[[Composite vs Multiple Criteria]]"]
 ---
 
 # General Factor in Job Performance

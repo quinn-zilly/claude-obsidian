@@ -10,7 +10,7 @@ related:
   - "[[Learning & Development MOC]]"
   - "[[Institutional & Strategy MOC]]"
 status: developing
-updated: 2026-07-03
+updated: 2026-07-07
 ---
 
 # Teams & Organizational Behavior — Map of Content
@@ -56,6 +56,25 @@ This cluster maps how groups in organizations adapt, coordinate, remember, and l
 - [[Organizational Learning]]
 - [[argote-miron-spektor-2011-org-learning-journal|Organizational Learning: From Experience to Knowledge]]
 - [[Organizational Memory]]
+
+## Job performance & criteria sub-cluster
+
+How individual work performance is modeled and measured — the construct, its dimensions, and the criterion problem.
+
+- [[viswesvaran-ones-2000-models-of-job-performance|Viswesvaran & Ones (2000): Perspectives on Models of Job Performance]]
+- [[cascio-aguinis-2011-criteria-concepts-measurement-evaluation|Cascio & Aguinis (2011): Criteria — Concepts, Measurement, and Evaluation]]
+- [[Campbell Model of Job Performance]] — the eight-factor latent structure
+- [[Task Performance]]
+- [[Contextual Performance]]
+- [[Counterproductive Work Behavior]]
+- [[Organizational Citizenship Behavior]]
+- [[General Factor in Job Performance]] — the positive manifold and halo-vs-substance debate
+- [[Criterion Problem]]
+- [[Ultimate Criterion]]
+- [[Criterion Relevance, Deficiency & Contamination]]
+- [[Dynamic Criteria]]
+- [[Typical vs Maximal Performance]]
+- [[Composite vs Multiple Criteria]]
 
 ## Work & job design sub-cluster
 
