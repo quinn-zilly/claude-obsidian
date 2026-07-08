@@ -2551,6 +2551,28 @@
         "wiki/concepts/Halo Error.md",
         "wiki/concepts/Criterion Problem.md"
       ]
+    },
+    ".raw/Pichler - 2012 - The social context of performance appraisal and appraisal reactions A meta‐analysis..md": {
+      "hash": "17268b87e9ca4a525fd1a5d22884b2f5",
+      "ingested_at": "2026-07-07",
+      "pages_created": [
+        "wiki/sources/pichler-2012-social-context-appraisal.md",
+        "wiki/entities/Shaun Pichler.md",
+        "wiki/concepts/Appraisal Reactions.md",
+        "wiki/concepts/Procedural Justice.md",
+        "wiki/concepts/Voice Effect.md",
+        "wiki/concepts/Relational Model of Appraisal Reactions.md"
+      ],
+      "pages_updated": [
+        "wiki/concepts/Performance Appraisal.md",
+        "wiki/concepts/Social Exchange Theory.md",
+        "wiki/concepts/Leader-Member Exchange (LMX).md",
+        "wiki/mocs/Performance Management MOC.md",
+        "wiki/mocs/Social Exchange & Organizational Justice MOC.md",
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md"
+      ]
     }
   },
   "address_map": {
@@ -3509,7 +3531,13 @@
     "wiki/mocs/Performance Management MOC.md": "c-001072",
     "wiki/entities/Heidi Baumann.md": "c-001073",
     "wiki/entities/David Sullivan.md": "c-001074",
-    "wiki/entities/Junhyok Yim.md": "c-001075"
+    "wiki/entities/Junhyok Yim.md": "c-001075",
+    "wiki/sources/pichler-2012-social-context-appraisal.md": "c-001076",
+    "wiki/entities/Shaun Pichler.md": "c-001077",
+    "wiki/concepts/Procedural Justice.md": "c-001078",
+    "wiki/concepts/Voice Effect.md": "c-001079",
+    "wiki/concepts/Appraisal Reactions.md": "c-001080",
+    "wiki/concepts/Relational Model of Appraisal Reactions.md": "c-001081"
   },
   ".raw/Pearsall et al. - 2025 - A stimulus-based model of the team adaptation process An integrated conceptual review..pdf": {
     "hash": "62f683006d3323a67c67fc23621f632a",

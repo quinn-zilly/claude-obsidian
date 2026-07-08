@@ -15,6 +15,8 @@ related:
   - "[[Leader-Member Exchange (LMX)]]"
   - "[[Organizational Commitment]]"
   - "[[Organizational Justice]]"
+  - "[[Relational Model of Appraisal Reactions]]"
+  - "[[pichler-2012-social-context-appraisal]]"
   - "[[Peter Blau]]"
   - "[[Alvin Gouldner]]"
   - "[[cropanzano-mitchell-2005-social-exchange-theory]]"

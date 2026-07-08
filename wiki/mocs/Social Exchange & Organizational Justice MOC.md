@@ -35,6 +35,13 @@ This cluster maps the dominant explanation in organizational behavior for **why 
 - [[Organizational Commitment]] — commitment as repayment for support
 - [[Organizational Citizenship Behavior]] — the exemplar reciprocative behavior (vs. CWB)
 
+## Procedural justice & voice
+
+- [[Procedural Justice]] — process fairness; instrumental vs relational (group-value) theories
+- [[Voice Effect]] — having a say produces favorable reactions, even without decision control
+- [[Relational Model of Appraisal Reactions]] — social exchange + procedural justice applied to performance appraisal (Pichler 2012)
+- [[Appraisal Reactions]] — the reaction criteria this exchange predicts
+
 ## Competing / complementary lens
 
 - [[Affective Events Theory]] — the affect-based lens on justice
@@ -45,6 +52,7 @@ This cluster maps the dominant explanation in organizational behavior for **why 
 - [[colquitt-et-al-2013-justice-millennium-decade-later|Colquitt et al. (2013): Justice at the Millennium, a Decade Later]]
 - [[colquitt-rodell-2015-measuring-justice-fairness|Colquitt & Rodell (2015): Measuring Justice and Fairness]]
 - [[hong-ford-jong-2024-employee-benefits-meta-analysis|Hong, Ford & Jong (2024): Employee Benefits Meta-Analysis]] — benefits as a social-exchange resource; the [[Benefit Experience Framework]]; POS as partial mediator
+- [[pichler-2012-social-context-appraisal|Pichler (2012): Social Context of Performance Appraisal — meta-analysis]] — relationship quality drives appraisal reactions; relational model
 
 ## People
 

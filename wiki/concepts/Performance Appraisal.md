@@ -15,9 +15,12 @@ related:
   - "[[Frame-of-Reference Training]]"
   - "[[360-Degree Feedback]]"
   - "[[Halo Error]]"
+  - "[[Appraisal Reactions]]"
+  - "[[Relational Model of Appraisal Reactions]]"
 sources:
   - "[[denisi-murphy-2017-100-years-appraisal]]"
   - "[[schleicher-2019-pm-effectiveness-review]]"
+  - "[[pichler-2012-social-context-appraisal]]"
 ---
 
 # Performance Appraisal
@@ -44,6 +47,10 @@ Graphic rating scale (Paterson 1922) → ranking / paired comparisons → weight
 ## The big reframe
 Murphy & Cleveland (1995): appraisal is a **motivated act embedded in a social/organizational context**, not a measurement problem. This shifted the criterion from *accuracy* to *reactions, fairness, and context* — and set up the modern [[PM Effectiveness Value Chains|effectiveness]] question.
 
+## The social context turn
+Building on Murphy & Cleveland's reframe, [[pichler-2012-social-context-appraisal|Pichler (2012)]] meta-analyzed the social context and found **[[Leader-Member Exchange (LMX)|rater–ratee relationship quality]] is the strongest predictor of [[Appraisal Reactions|reactions]]** (Mr ≈ .66) — beating participation and rating favorability, and supporting a [[Relational Model of Appraisal Reactions|relational model]] of the appraisal process.
+
 ## See also
 - [[Performance Management]] · [[Rater Error Measures]] · [[Halo Error]] · [[Frame-of-Reference Training]]
+- [[Appraisal Reactions]] · [[Relational Model of Appraisal Reactions]] · [[Procedural Justice]]
 - [[Performance Management MOC]]

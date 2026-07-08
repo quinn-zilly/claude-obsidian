@@ -18,6 +18,8 @@ related:
   - "[[Perceived Organizational Support]]"
   - "[[Organizational Justice]]"
   - "[[colquitt-et-al-2013-justice-millennium-decade-later]]"
+  - "[[Relational Model of Appraisal Reactions]]"
+  - "[[pichler-2012-social-context-appraisal]]"
 ---
 
 # Leader-Member Exchange (LMX)

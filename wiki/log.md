@@ -14,6 +14,18 @@ related:
 created: 2026-04-07
 ---
 
+## [2026-07-07] ingest | Pichler (2012) — Social Context of Performance Appraisal (meta-analysis)
+
+- **Source:** `.raw/Pichler - 2012 - The social context of performance appraisal and appraisal reactions A meta‐analysis..md` → [[pichler-2012-social-context-appraisal]] (*Human Resource Management* 51(5):709–732, DOI 10.1002/hrm.21499). Per project hybrid-LYT convention: source→`wiki/sources/`, concepts→`wiki/concepts/`, entity→`wiki/entities/`.
+- **Substance:** first meta-analysis of the social context of PA (69 samples / 62 studies). **[[Leader-Member Exchange (LMX)|Rater–ratee relationship quality]] = strongest predictor of [[Appraisal Reactions|reactions]]** (composite Mr ≈ .66 > participation .48 > rating favorability .39; RQ subdimensions trust/support/satisfaction all ≈ .60). **MASEM** picks the **[[Relational Model of Appraisal Reactions|relational model]]** (Model 3: RQ direct path + indirect; CFI=.99, RMSEA=.09) over independent-antecedents (Model 1) and instrumental (Model 2), both poor fit. RQ→reactions **not moderated** by favorability or participation.
+- **Theory:** integrates [[Social Exchange Theory]] with [[Procedural Justice]] ([[Voice Effect|voice]] — instrumental vs group-value/relational); reverses org-SET ordering (exchange quality → treatment, not treatment → quality).
+- **Pages created:** [[pichler-2012-social-context-appraisal]], [[Shaun Pichler]], [[Appraisal Reactions]], [[Procedural Justice]], [[Voice Effect]], [[Relational Model of Appraisal Reactions]] (c-001076–c-001081).
+- **Pages updated:** [[Performance Appraisal]] (social-context section), [[Social Exchange Theory]], [[Leader-Member Exchange (LMX)]], [[Performance Management MOC]], [[Social Exchange & Organizational Justice MOC]], [[index]], [[hot]].
+- **Key insight:** performance appraisal is largely a *relational* process — relationship quality predicts reactions above and beyond instrumental resources (participation, favorable ratings).
+- **Candidate next:** Cawley, Keeping & Levy (1998) participation meta; Murphy & Cleveland (1995) social-context book; Erdogan (2002); Elicker, Levy & Hall (2006) LMX–reactions mediation.
+
+---
+
 ## [2026-07-07] ingest | performance-management trio (DeNisi & Murphy centennial + Pulakos evolution + Schleicher effectiveness review)
 
 - **Batch of 3** seeding the vault's performance-appraisal / performance-management cluster (new [[Performance Management MOC]]; per project hybrid-LYT convention, sources in `wiki/sources/`, concepts in `wiki/concepts/`, entities in `wiki/entities/`).

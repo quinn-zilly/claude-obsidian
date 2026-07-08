@@ -25,7 +25,7 @@ created: 2026-04-07
 
 # Wiki Index
 
-Last updated: 2026-07-07 | Total pages: 560 | Sources ingested: 84
+Last updated: 2026-07-07 | Total pages: 566 | Sources ingested: 85
 
 Navigation: [[Home MOC]] | [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[getting-started]]
 
@@ -39,6 +39,10 @@ Navigation: [[Home MOC]] | [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[
 
 ## Concepts
 
+- [[Appraisal Reactions]] — employee attitudinal evaluations of the appraisal (fairness, accuracy, utility, satisfaction, motivation); a key appraisal criterion (Pichler 2012)
+- [[Relational Model of Appraisal Reactions]] — relationship quality directly drives reactions, beyond instrumental resources; best-fitting appraisal model (Pichler 2012)
+- [[Procedural Justice]] — process fairness; instrumental vs relational/group-value theories of voice
+- [[Voice Effect]] — having a say yields favorable process reactions even without decision control
 - [[Performance Management]] — ongoing process of aligning individual performance with strategy; the "does it work?" problem
 - [[Performance Appraisal]] — the formal evaluation event; eight heyday research areas (DeNisi & Murphy)
 - [[PM Effectiveness Value Chains]] — Schleicher et al.'s multilevel criterion model (reactions→…→outcomes)
@@ -480,6 +484,7 @@ Navigation: [[Home MOC]] | [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[
 
 ### Sources (new — 2026-06-04)
 
+- [[pichler-2012-social-context-appraisal]] — first meta-analysis of the social context of performance appraisal; rater–ratee relationship quality is the dominant predictor of appraisal reactions (Mr≈.66); MASEM supports a relational model; *Human Resource Management* 2012
 - [[wiernik-et-al-2021-meta-analytic-cpa]] — extends criterion profile analysis to meta-analytic data (MACPA); level vs pattern effects from a correlation matrix; artifact + overfitting corrections; *Psychological Methods* 2021
 - [[pierce-aguinis-2013-tmgt-effect]] — the too-much-of-a-good-thing meta-theory; curvilinearity & context-specific inflection points across management subfields; *J. Management* 2013
 - [[approaches-dei-evaluation]] — practice brief; three-goal DEI evaluation framework (stakeholder engagement, data quality, cross-difference communication); resources list incl. Equitable Evaluation Initiative, Child Trends, Project Evident | 2026-06-04
@@ -490,6 +495,7 @@ Navigation: [[Home MOC]] | [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[
 
 ### Entities (new)
 
+- [[Shaun Pichler]] — Cal State Fullerton (Management); fairness & support in organizations; author of the 2012 social-context-of-appraisal meta-analysis
 - [[Michael P. Wilmot]] — U of Arkansas (Management); Big Five/conscientiousness; co-author Wiernik et al. 2021 (stub)
 - [[Mark L. Davison]] — U of Minnesota (Educational Psych); originator of profile analysis / CPA (Davison & Davenport 2002) (stub)
 - [[Jason R. Pierce]] — Indiana University; management meta-theory; lead author of the TMGT effect (stub)
