@@ -2480,6 +2480,77 @@
         "wiki/hot.md",
         "wiki/log.md"
       ]
+    },
+    ".raw/DeNisi and Murphy - 2017 - Performance appraisal and performance management 100 years of progress.md": {
+      "hash": "2687577bd6c8065433ac958c523f6ea2",
+      "ingested_at": "2026-07-07",
+      "pages_created": [
+        "wiki/sources/denisi-murphy-2017-100-years-appraisal.md",
+        "wiki/sources/pulakos-2019-evolution-of-pm.md",
+        "wiki/sources/schleicher-2019-pm-effectiveness-review.md",
+        "wiki/entities/Angelo DeNisi.md",
+        "wiki/entities/Kevin Murphy.md",
+        "wiki/entities/Elaine Pulakos.md",
+        "wiki/entities/Rose Mueller-Hanson.md",
+        "wiki/entities/Sharon Arad.md",
+        "wiki/entities/Deidra Schleicher.md",
+        "wiki/concepts/Performance Management.md",
+        "wiki/concepts/Performance Appraisal.md",
+        "wiki/concepts/Frame-of-Reference Training.md",
+        "wiki/concepts/360-Degree Feedback.md",
+        "wiki/concepts/Forced Distribution.md",
+        "wiki/concepts/Rating-less Reviews.md",
+        "wiki/concepts/PM Effectiveness Value Chains.md",
+        "wiki/concepts/Three Assumptions of Performance Rating.md",
+        "wiki/concepts/Competency Modeling.md",
+        "wiki/concepts/Cascading Goals & SMART.md",
+        "wiki/concepts/Rater Error Measures.md",
+        "wiki/mocs/Performance Management MOC.md"
+      ],
+      "pages_updated": [
+        "wiki/index.md",
+        "wiki/log.md",
+        "wiki/hot.md",
+        "wiki/mocs/Home MOC.md",
+        "wiki/mocs/Learning & Development MOC.md",
+        "wiki/concepts/Halo Error.md",
+        "wiki/concepts/Criterion Problem.md"
+      ]
+    },
+    ".raw/Pulakos et al. - 2019 - The evolution of performance management Searching for value..md": {
+      "hash": "da295d06653f71ebae6aa124519a9c0a",
+      "ingested_at": "2026-07-07",
+      "pages_created": [
+        "wiki/sources/pulakos-2019-evolution-of-pm.md"
+      ],
+      "pages_updated": [
+        "wiki/index.md",
+        "wiki/log.md",
+        "wiki/hot.md",
+        "wiki/mocs/Home MOC.md",
+        "wiki/mocs/Learning & Development MOC.md",
+        "wiki/concepts/Halo Error.md",
+        "wiki/concepts/Criterion Problem.md"
+      ]
+    },
+    ".raw/Schleicher et al. - 2019 - Evaluating the effectiveness of performance management A 30-year integrative conceptual review..md": {
+      "hash": "bd691f67e09e996db9690ca1537800a1",
+      "ingested_at": "2026-07-07",
+      "pages_created": [
+        "wiki/sources/schleicher-2019-pm-effectiveness-review.md",
+        "wiki/entities/Heidi Baumann.md",
+        "wiki/entities/David Sullivan.md",
+        "wiki/entities/Junhyok Yim.md"
+      ],
+      "pages_updated": [
+        "wiki/index.md",
+        "wiki/log.md",
+        "wiki/hot.md",
+        "wiki/mocs/Home MOC.md",
+        "wiki/mocs/Learning & Development MOC.md",
+        "wiki/concepts/Halo Error.md",
+        "wiki/concepts/Criterion Problem.md"
+      ]
     }
   },
   "address_map": {
@@ -3414,7 +3485,31 @@
     "wiki/concepts/Sensitization Perspective (Gender Role View).md": "c-001047",
     "wiki/concepts/Asymmetrical Domain Permeability Model.md": "c-001048",
     "wiki/concepts/Time-, Strain-, and Behavior-Based Conflict.md": "c-001049",
-    "wiki/mocs/Gender & Careers MOC.md": "c-001050"
+    "wiki/mocs/Gender & Careers MOC.md": "c-001050",
+    "wiki/sources/denisi-murphy-2017-100-years-appraisal.md": "c-001051",
+    "wiki/sources/pulakos-2019-evolution-of-pm.md": "c-001052",
+    "wiki/sources/schleicher-2019-pm-effectiveness-review.md": "c-001053",
+    "wiki/entities/Angelo DeNisi.md": "c-001054",
+    "wiki/entities/Kevin Murphy.md": "c-001055",
+    "wiki/entities/Elaine Pulakos.md": "c-001056",
+    "wiki/entities/Rose Mueller-Hanson.md": "c-001057",
+    "wiki/entities/Sharon Arad.md": "c-001058",
+    "wiki/entities/Deidra Schleicher.md": "c-001059",
+    "wiki/concepts/Performance Management.md": "c-001060",
+    "wiki/concepts/Performance Appraisal.md": "c-001061",
+    "wiki/concepts/Frame-of-Reference Training.md": "c-001062",
+    "wiki/concepts/360-Degree Feedback.md": "c-001063",
+    "wiki/concepts/Forced Distribution.md": "c-001064",
+    "wiki/concepts/Rating-less Reviews.md": "c-001065",
+    "wiki/concepts/PM Effectiveness Value Chains.md": "c-001066",
+    "wiki/concepts/Three Assumptions of Performance Rating.md": "c-001067",
+    "wiki/concepts/Competency Modeling.md": "c-001069",
+    "wiki/concepts/Cascading Goals & SMART.md": "c-001070",
+    "wiki/concepts/Rater Error Measures.md": "c-001071",
+    "wiki/mocs/Performance Management MOC.md": "c-001072",
+    "wiki/entities/Heidi Baumann.md": "c-001073",
+    "wiki/entities/David Sullivan.md": "c-001074",
+    "wiki/entities/Junhyok Yim.md": "c-001075"
   },
   ".raw/Pearsall et al. - 2025 - A stimulus-based model of the team adaptation process An integrated conceptual review..pdf": {
     "hash": "62f683006d3323a67c67fc23621f632a",

@@ -22,6 +22,7 @@ related:
 sources:
   - "[[cascio-aguinis-2011-criteria-concepts-measurement-evaluation]]"
   - "[[binning-barrett-1989-validity-personnel-decisions]]"
+  - "[[schleicher-2019-pm-effectiveness-review]]"
 ---
 
 # Criterion Problem
@@ -42,4 +43,12 @@ Primary source: [[cascio-aguinis-2011-criteria-concepts-measurement-evaluation]]
 
 ## The inferential locus (Binning & Barrett 1989)
 
-[[binning-barrett-1989-validity-personnel-decisions|Binning & Barrett (1989)]] locate the criterion problem precisely: a **truncated nomological network** — the neglect of the inferences on the *criterion* side (predictor construct → performance domain; criterion measure → performance domain; job demands → performance domain; behavior-outcome links). Because a performance domain is a **created/imposed** construct ([[Predictor vs Performance Domain]]) rarely developed with predictor-level rigor, the criterion-measure inference is often weak — which in turn weakens *every* validity claim resting on it. Their corollary: where the criterion is deficient/contaminated, construct-related evidence can be **superior** to criterion-related evidence. See [[Binning-Barrett Validity Framework]].
+[[binning-barrett-1989-validity-personnel-decisions|Binning & Barrett (1989)]] locate the criterion problem precisely: a **truncated nomological network** — the neglect of the inferences on the *criterion* side.
+
+## Application to performance-management effectiveness
+
+[[schleicher-2019-pm-effectiveness-review|Schleicher et al. (2019)]] frame the field's confusion over whether PM "works" as a modern instance of the criterion problem: PM was debated without agreement on the criterion of *effective PM*. Their [[PM Effectiveness Value Chains]] model maps the full criterion space (reactions → learning → transfer → emergence enablers → unit HCRs → outcomes) rather than privileging one criterion (psychometric quality vs. behavior change vs. firm performance).
+
+## The inferential locus (Binning & Barrett 1989, continued)
+
+Restating: a **truncated nomological network** — the neglect of the inferences on the *criterion* side (predictor construct → performance domain; criterion measure → performance domain; job demands → performance domain; behavior-outcome links). Because a performance domain is a **created/imposed** construct ([[Predictor vs Performance Domain]]) rarely developed with predictor-level rigor, the criterion-measure inference is often weak — which in turn weakens *every* validity claim resting on it. Their corollary: where the criterion is deficient/contaminated, construct-related evidence can be **superior** to criterion-related evidence. See [[Binning-Barrett Validity Framework]].

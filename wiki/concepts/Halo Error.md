@@ -7,7 +7,7 @@ tags: [concept, io-psychology, measurement, ratings, bias]
 status: developing
 created: 2026-06-30
 updated: 2026-06-30
-related: ["[[General Factor in Job Performance]]", "[[Construct Validity]]", "[[Job Performance (Outcomes of Job Attitudes)]]", "[[viswesvaran-schmidt-ones-2005-general-factor-job-performance]]"]
+related: ["[[General Factor in Job Performance]]", "[[Construct Validity]]", "[[Job Performance (Outcomes of Job Attitudes)]]", "[[viswesvaran-schmidt-ones-2005-general-factor-job-performance]]", "[[Rater Error Measures]]", "[[Performance Appraisal]]"]
 ---
 
 # Halo Error
@@ -35,6 +35,8 @@ This asymmetry is what lets [[viswesvaran-schmidt-ones-2005-general-factor-job-p
 ## Connection
 
 Halo is the artifact the [[General Factor in Job Performance|general-factor]] debate had to overcome; removing it (plus leniency, random, transient error) is what reveals the ~60% substantive general factor.
+
+Historically halo was the first-named member of the [[Rater Error Measures|"holy trinity" of rater errors]] (halo, leniency, central tendency) used to judge [[Performance Appraisal|appraisal]] quality — until Murphy & Balzer (1986) showed error measures don't track accuracy.
 
 ## Source
 

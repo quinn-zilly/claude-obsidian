@@ -1,0 +1,1905 @@
+## Page 1
+
+OP06CH01_Pulakos ARI 28June2018 11:55
+Annual Review of Organizational Psychology and
+Organizational Behavior
+The Evolution of Performance
+Management: Searching for
+Value
+Elaine D. Pulakos,1 Rose Mueller-Hanson,2
+and Sharon Arad3
+1PDRI,Washington,DC22209,USA;email:elaine.pulakos@pdri.com
+2CommunityInterfaceServices,Carlsbad,CA92054,USA;email:rose.hanson@gmail.com
+3PDRI,Minneapolis,MN,55401,USA;email:sharon.arad@pdri.com
+Annu.Rev.Organ.Psychol.Organ.Behav.2019. Keywords
+6:1.1–1.23
+performanceratings,performancemanagementprocesses,PM
+TheAnnualReviewofOrganizationalPsychologyand
+streamlining,behaviorchange,PMinnovation,PMimplementation
+OrganizationalBehaviorisonlineat
+orgpsych.annualreviews.org
+Abstract
+https://doi.org/10.1146/annurev-orgpsych-
+012218-015009 Thisarticlereviewsthehistoryofperformancemanagement(PM),begin-
+Copyright(cid:2)c 2019byAnnualReviews. ningwithperformanceevaluation.Wediscussvariousstrategiesthathave
+Allrightsreserved beenusedtoenableaccurateratingsaswellascognitiveprocessesandcon-
+textual factors that have been shown to significantly impact ratings. We
+raise questions about the concept of true performance and whether raters
+can be enabled and motivated to make accurate ratings. We progress to
+discussingmorestructuredandcomprehensivePMprocessesthattypically
+involve cascading goals, goal setting, competency modeling, evaluation of
+behavior and results, and implementation. These systems have proven to
+be tedious and low-value, resulting in unprecedented, wide-spread exper-
+imentationwithinnovativepracticestomovecompaniesawayfromheavy
+PM processes to simpler, cost-effective strategies that actually drive per-
+formance. These have ranged from abandoning ratings to implementing
+innovationsingoal-setting,real-timefeedback,coaching,andPMbehavior
+change.Directionsforfutureresearchandpracticearediscussed.
+1.1
+Review in Advance first posted on
+July 13, 2018. (Changes may still
+occur before final publication.)
+gro.sweiverlaunna.www
+morf
+dedaolnwoD
+.6.9102
+.vaheB
+.nagrO
+.lohcysP
+.nagrO
+.veR
+.unnA
+.ylno
+esu
+lanosrep
+roF
+.81/41/70
+no
+gnidaeR
+fo
+ytisrevinU
+yb
+dedivorp
+sseccA
+
+## Page 2
+
+OP06CH01_Pulakos ARI 28June2018 11:55
+INTRODUCTION
+Noothertalentmanagementsystemhasbeenthesubjectofsuchgreatdebate,change,andemotion
+asperformancemanagement(PM).Manystrategieshavebeenattemptedtoextractvaluefrom
+PMprocesses,rangingfromsimpleratingscalechangestocomplexbehaviorchangeinitiatives.
+Althoughmanyofthesehaveseemedpromisinginitially,theyhaveyieldeddisappointingoutcomes
+andsignificantdissatisfactionwithPMprocessesinorganizations.ThechallengesinherentinPM
+coupled with many unsuccessful attempts to fix it have given rise to what are viewed as trendy
+PM practices and a well-earned reputation as the Achilles’ heel of talent management practice
+(Pulakosetal.2012).NomatterwhathasbeentriedoverdecadestoimprovePMprocesses,they
+continuetogenerateinaccurateinformationanddovirtuallynothingtodriveperformance.
+PMischallengingbecauseitisacomplex,multifaceted,andmultilevelprocessthatdrawson
+theory and research from many different areas, including measurement theory and motivation
+theory;cognitive,clinical,social,andbehavioralpsychology;neuroscience;organizationaldevel-
+opment;andchangemanagement.Ithasbeenheavilyinfluencedbypracticeaswell,withbusiness
+leadersandPMpractitionersofferingratingschemesandevaluationstrategiestheybelievewill
+drivehigherperformance.ResearchhasgenerallyfocusedonspecificaspectsofthePMprocess,
+suchastheeffectsofdifferenttypesofratingscalesonratingsortheroleofhumaninformation
+processing in evaluating others (DeNisi & Murphy 2017). Only a few studies have focused on
+theimpactofdifferentPMpracticesonperformanceandwhichfeaturesplaythegreatestrolein
+drivingbusinessoutcomes;thus,wehaverelativelyfewevidence-basedinsightsabouttheimpact
+andreturnoninvestment(ROI)ofPMinorganizations.
+Over time, PM has become increasingly complex, requiring many hours of manager and
+employeetimeandcostingorganizationsmillionsannually.CEB(2012)estimatedthattheaverage
+managerandemployeespend210and40hours,respectively,onPMactivities,whichtranslated
+into costs of 30 million USD annually for a company of 10,000 people. As another example,
+Deloitte,foundthattheywerespending2millionhoursannuallyonPMactivities(Buckingham&
+Goodall2015).Notonlyhavetimeinvestmentsandcostsskyrocketed,butcomplaintshavebecome
+increasingly vocal and emotional, especially concerning performance reviews. Culbert & Rout
+(2010)describedtheperformancereviewasa“pretentious,boguspractice”thatshouldbeputoutof
+itsmisery.AWashingtonPostheadlineread,“Studyfindsthatbasicallyeverysinglepersonhatesper-
+formance reviews.” (https://www.washingtonpost.com/news/on-leadership/wp/2014/01/27/
+study-finds-that-basically-every-single-person-hates-performance-reviews/?utm_term=
+.03749c8f8b7d).
+Mostconcerning,however,isthatthefewstudiesthathaveevaluatedtheimpactofPMpro-
+cessesonperformanceandbusinessoutcomeshaveshownvirtuallynopositiveimpacts.Forexam-
+ple,basedon23,339performanceratingsfrom40organizations,CEB(2012)foundthatbusiness
+unitswithhighlyratedemployeeswerenomorelikelytobeprofitablethanthosewithlow-rated
+employees.Somuchcostandtime,yieldingsomuchdissatisfactionwithnodiscernableperfor-
+manceimpact,hasledtoarecentwaveofsweeping,revolutionaryreform,andexperimentation
+withnew-in-kindPMpractices.Theserangefromgreatlysimplifyingoreveneliminatingformal
+PMprocessestodrivingbehaviorchangesthatresearchhasshownpositivelyimpactperformance,
+suchasprovidingregularinformalfeedbackandsettingagile,shorter-termgoals(Mueller-Hanson
+&Pulakos2018).
+Inthisarticle,webrieflyreviewtheevolutionofPM,whichbeganwithamuchnarrowerfocus
+onperformanceratings.Wetraceitsdevelopmentfromresearchevaluatingtheimpactofrating
+formatandtrainingonratingstothataimedatunderstandinghowhumaninformationprocessing,
+rater-rateeinterpersonalrelationships,andpoliticalandcontextualfactorsaffectratings.Wethen
+· ·
+1.2 Pulakos Mueller-Hanson Arad
+Review in Advance first posted on
+July 13, 2018. (Changes may still
+occur before final publication.)
+gro.sweiverlaunna.www
+morf
+dedaolnwoD
+.6.9102
+.vaheB
+.nagrO
+.lohcysP
+.nagrO
+.veR
+.unnA
+.ylno
+esu
+lanosrep
+roF
+.81/41/70
+no
+gnidaeR
+fo
+ytisrevinU
+yb
+dedivorp
+sseccA
+
+## Page 3
+
+OP06CH01_Pulakos ARI 28June2018 11:55
+discusshowperformanceevaluationevolvedintomorecomprehensivePMprocessesthatincluded
+goal-setting,formalfeedback,multiraterreviews,etc.,andwediscusshowthesepracticeshave
+becomemisguidedovertime.Finally,wediscusscurrentdirectionsinPM,takingstockofwhat
+wehavelearnedtodateandsuggestingdirectionsforthefuture.
+PERFORMANCEEVALUATION
+TheearlyhistoryofPMwasfocusedonperformanceevaluation,thegoalofwhichwastoobtain
+accurate ratings of individual performance. The first large-scale use of ratings in work settings
+datesbacktothelate1800s,withuseofefficiencyratingsintheUSFederalCivilService(Lopez
+1968)andtraitassessments(e.g.,punctual,assertive)ofofficerperformanceduringWorldWarI
+(Scottetal.1941).Thefirstratingscale,theGraphicRatingScale(Patterson1922),usedverbal
+andnumericalanchorstoimprovetheaccuracyoftraitratings.Althoughthiswasasignificantstep,
+theanchorsusedwereill-defined(e.g.,“Excellent,”“Good,”or“Poor”),leavingraterstoimpose
+theirowninterpretationsonwhattheseanchorsmeant(Landy&Farr1980,Borman1977).Raters’
+applyingtheirownidiosyncraticstandardstodefiningdifferentratinglevelsremainsapersistent
+challengetoday.
+Theemergenceofscientificmanagementtheoriesintheearlytwentiethcentury(Taylor1911)
+ledtoanincreasedfocusonproductivityandthecorrespondinguseofratingstocontrolanddrive
+higherperformance(Grote1996,Murphy&Cleveland1995).Thecivilrightsmovementofthe
+1950s and 1960s brought attention to inequalities based on race and prompted more rigorous
+evaluation practices in organizations. The Civil Rights Act of 1964 and subsequent legislation
+prohibiteddiscriminationinemploymentpractices,promptingextensiveworkintheareaofrating
+formatdesigntoensureratingswerebasedonjob-relevantfactorsandtomitigatebias(Dunnette
+1963,Guion1961).Oneideathatgainedpopularitywastoanchordifferentratinglevelswithwork
+behaviorstohelpmanagersmatchtheirobservationsofemployeeperformancetoanappropriate
+rating level (Smith & Kendall 1963, Blanz & Ghiselli 1972, Latham & Wexley 1977). Many
+variants of behavioral rating formats were designed and evaluated over the next 20 years, until
+Landy&Farr(1980)calledforamoratoriumonratingformatresearch,concludingthatnorating
+formatyieldedsubstantiallymoreaccurateorlessbiasedratingsthananyothers(Murphyetal.
+1982,Saal&Landy1977).
+Although rating format research largely ceased with Landy & Farr’s (1980) moratorium, a
+newforcedchoiceratingformatwasintroducedintheearly2000sthathasbeenshowntoyield
+improvedratingreliability,validity,andaccuracy(Bormanetal.2001,Bartram2007,Schneider
+etal.2003).Thisformatasksmanagerstochoosewhichbehaviorismosttrue(ormostandleast
+true)ofeachemployee’sjobperformancefromasetofequallydesirablebehaviors.Usingitem
+responsetheory(IRT)informationforeachitem,raters’judgmentsareconvertedtoaninterval
+scale;specifically,choosingonebehavioralstatementovertheothersprovidesinformationabout
+theplacementofeachemployeeontheunderlyingdimensionattheinterval-scalelevel.Although
+researchhasshownthisformattoyieldhigherqualityratings,itsadoptionhasbeenrareinpractice.
+One reason is that advanced IRT concepts are difficult to explain. Forced choice formats also
+requirelargeitembankswithassociateditemparametersthatcanbeprohibitivefororganizations
+todevelopandmaintain.Finally,themainadvantageofforcedchoiceratingsisalsolikelyitsmain
+disadvantage,namelythatmanagerscannoteasilymanipulatetheirratingstoensureemployees
+receivecertainrewardoutcomes;hence,forced-choicescalesarenotwellreceivedbymanagers.
+A parallel path to improve ratings focused on rater training (Borman 1975, Latham et al.
+1975). On the basis of the assumption that ratings are normally distributed, training programs
+weredevelopedtoteachraterstoavoidcommonratingerrorsthatwouldresultinnon-normally
+www.annualreviews.org • EvolutionofPerformanceManagement 1.3
+Review in Advance first posted on
+July 13, 2018. (Changes may still
+occur before final publication.)
+gro.sweiverlaunna.www
+morf
+dedaolnwoD
+.6.9102
+.vaheB
+.nagrO
+.lohcysP
+.nagrO
+.veR
+.unnA
+.ylno
+esu
+lanosrep
+roF
+.81/41/70
+no
+gnidaeR
+fo
+ytisrevinU
+yb
+dedivorp
+sseccA
+
+## Page 4
+
+OP06CH01_Pulakos ARI 28June2018 11:55
+distributedratings,suchasleniency(mostemployeesareratedatthehighendofthescale).To
+reduce leniency, for example, raters were taught that most employees should be rated in the
+middleofthescaleandequalbutsmallerproportionsshouldberatedateachthehighandlow
+ends.Subsequentresearchshowedthaterrortrainingdidnotincreaseaccuracyandmayactually
+reduce it (Murphy et al. 1993). Years later, O’Boyle & Aguinis (2012) provided evidence that
+performanceisnotnormallydistributedinmanycases,whichexplainswhytrainingtoproduce
+normallydistributedratingswoulddecreaseaccuracy.
+A paradigm shift occurred in the early 1980s that influenced performance rating research
+forthenexttwodecades.Landy&Farr(1980)arguedthatmoreholistictheorieswereneeded
+to understand the interactive effects of different factors on ratings, and they proposed the use
+of human information-processing theories and models to guide future research. Ratings were
+conceptualized as a special case of human information processing that includes attention, cat-
+egorization, recall, and information integration (Feldman 1981). Extensive research leveraged
+information-processingtheoriestounderstandratingbehavioranddevelopinterventionstoim-
+proveratingaccuracy.Thesefocusedonhelpingratersdevelopandusejob-relevantmentalcate-
+goriesinobservingandevaluatingemployeeperformance(Ilgen&Feldman1983).Forexample,
+ratertrainingshiftedfromafocusonreducingratingerrors(e.g.,halo,leniency)(Cooper1981,
+Murphy&Balzer1989,Murphyetal.1993)tohelpingraterscreatejob-relevantmentalcategories
+that would direct their attention to relevant performance information and store it with related
+performanceinformationtofacilitateaccuraterecall(McIntyreetal.1984;Pulakos1984,1986).
+Althoughinformationprocessingtheoriesprovidedinsightsintothementalprocessesthatimpact
+howratingsaremade,thisresearchyieldedfewpracticalimplicationsforevaluatingperformance
+moreeffectivelyinorganizations.
+Mountingconcernsoverdiscriminationandlegalchallengesinthe1970sand1980sbrought
+implementationofmorestructuredevaluationprocesses.Forexample,managementbyobjectives
+(MBO;Drucker1954)providedawaytodefine,communicate,andevaluateemployeesagainst
+job-relevant performance objectives. Although MBO systems were widely adopted, they were
+eventuallyabandonedbecausetheyprovedtobetime-consumingandadministrativelyburden-
+somefortheirvalue(Jamieson1973,Strauss1972).However,ideasstemmingfromMBO,such
+assettingobjectivesandmeasuringresultsremainacommonfeatureinPMprocessestoday.
+Apopularratingmethodtoemergeintheearly1980swastheforceddistribution,introduced
+byformerGeneralElectricCEOJackWelch.KnownasGE’s“rankandyank”system,employees
+were slotted into categories based on how their performance stacked up to other employees,
+with small proportions (10–15%) identified as top and bottom performers and the remaining
+∼80%slottedinthemiddle.Thetopandbottomgroupsoftendefinedthosetobepromotedand
+separated,respectively.Thepracticalproblemforceddistributionsposedisthatthetop10%in
+alowperforminggroupmaybeperformingwiththesameeffectivenessasthebottom10%ina
+highperforminggroup,introducingbothfairnessandaccuracyconcernsifthegroupsareblindly
+combined.Thisissueistypicallymitigatedthroughcalibrationsessionsinwhichemployeesare
+discussed and recategorized to ensure that the top and bottom 10% are accurately identified
+acrossallemployees.However,thisisatime-consumingprocessthatbecomeslessinformedas
+calibrationrollsupthroughhigherorganizationallevelsandindividualemployeeperformanceat
+lowerlevelsbecomeslesswellknown.Althoughforcedrankingsremainedpopularformorethan
+30years,theiruseisnowonthedecline,fallingfrom49%in2009to14%in2011—GEbeing
+amongthosetoabandonthisratingmethod(i4cp2011).
+Another rating strategy that emerged about this same time was gathering multisource or
+360-degree ratings from peers, customers, or direct reports in addition to managers. The idea
+was that those with different role relationships to an employee observe different aspects of
+· ·
+1.4 Pulakos Mueller-Hanson Arad
+Review in Advance first posted on
+July 13, 2018. (Changes may still
+occur before final publication.)
+gro.sweiverlaunna.www
+morf
+dedaolnwoD
+.6.9102
+.vaheB
+.nagrO
+.lohcysP
+.nagrO
+.veR
+.unnA
+.ylno
+esu
+lanosrep
+roF
+.81/41/70
+no
+gnidaeR
+fo
+ytisrevinU
+yb
+dedivorp
+sseccA
+
+## Page 5
+
+OP06CH01_Pulakos ARI 28June2018 11:55
+performance (Borman 1974). For example, customers will have unique insights into one’s cus-
+tomerserviceeffectiveness,whereasdirectreportswillbebestequippedtoevaluateamanager’s
+feedbackandmentoringperformance.360-degreeratingsgainedpopularityinthe1980sandare
+stillwidelyusedtoday(Brackenetal.2001,Smitheretal.2005).Theyareprimarilyusedtopro-
+videdevelopmentalfeedback,buttheycanalsosupportdecisionmaking,iftheratinginformation
+from the different sources is appropriately integrated and interpreted by the person’s manager
+oracoach(Brackenetal.2001).Onecaveat,however,isthatdecrementsinthequalityofmul-
+tisourceratingsareoftenobservedwhentheyareusedfordecisionmakingversusdevelopment
+only(Gregurasetal.2003).
+PerformanceEvaluationChallenges
+Underlyingperformanceratingresearcharethreeassumptionsthatareworthyoffurtherexplo-
+ration:
+(cid:2) Everyonehasastableleveloftrueperformancethatreflectstheireffectivenessonthejob.
+(cid:2) Ratersareabletorateothersaccurately.
+(cid:2) Ratersaremotivatedtorateothersaccurately.
+Regarding the first, we assume that each individual has a “true” level of performance that
+they consistentlyexhibit on the job. We then usethe extent to which different raters agree on
+theirratingsofanindividualasanindicatorofhowwelltheratingsarecapturingaperson’strue
+performancelevel,withhigheragreementgivingusmoreconfidenceweareaccuratelymeasuring
+theperson’strueperformancelevel.Rateragreementishardtoachieve,however,inpartbecause
+ratersbringtheirownstandardstoanyratingsituation,basedontheirpastexperience,personal
+ratingtendencies,andidiosyncraticviewsaboutwhatconstitutesgoodorpoorperformance(Landy
+&Farr1980,Feldman1981).However,ratingdisagreementcanalsostemfromratersviewing
+differentaspectsofperformanceor,importantly,realdifferencesinhowemployeesactuallybehave
+in the presence of different raters. An individual may be highly responsive with managers but
+disregardpeers—orthepersonmayhelponlysomepeersbutnotothers.Theserealitiesexplain
+whyinterraterreliabilitiesaretypicallyonlyinthe.50range(Viswesvaranetal.1996),andthey
+alsoraisequestionsabouttheextenttowhichtrueperformancecanbeagreeduponamongraters,
+orevenexists.
+Thesecondassumptionisthatraterscanmakeaccurateratingswithproperratinginstruments
+andtraining.Therealityisthatmostmanagerscanidentifywhoisdoingajobcapably,whois
+failing, and who is performingabove and beyond. However, the ratings managers are asked to
+makearesometimessonuancedanddetailedthattheyarebeyondtheirinformation-processing
+capabilities. Managers see thousands of performance examples in a year-long rating cycle—far
+too many to recall, weight, and summarize with a high degree of accuracy for each employee.
+Furthermore,managersdonotseeperformanceinsomeareas(e.g.,howemployeesengagewith
+theirdirectreports)andmaynothavethesubjectmatterexpertisetojudgesomeofwhattheydo
+see(e.g.,generalmanagersratinghighlytechnicalperformance),causingthemtorelyonbiased
+impressions,whatotherssay,orstand-outexamplesofobviouslyexceptionalorpoorperformance
+(Landy&Farr1980).Ratingscalesthatcontainmanyratinglevelsorfactorsthatrequirehighly
+nuanced judgments are asking for rating precision that managers cannot realistically provide
+(Pulakos&O’Leary2010).Manyoverengineeredratingformatsandprocesseshavebeendevel-
+opedthatdonotalignwellwithraters’information-processingcapabilities.
+Thethirdassumptionisthatratersaremotivatedtoevaluateothersaccurately.However,several
+studies question this assumption by showing that various contextual factors undermine rating
+www.annualreviews.org • EvolutionofPerformanceManagement 1.5
+Review in Advance first posted on
+July 13, 2018. (Changes may still
+occur before final publication.)
+gro.sweiverlaunna.www
+morf
+dedaolnwoD
+.6.9102
+.vaheB
+.nagrO
+.lohcysP
+.nagrO
+.veR
+.unnA
+.ylno
+esu
+lanosrep
+roF
+.81/41/70
+no
+gnidaeR
+fo
+ytisrevinU
+yb
+dedivorp
+sseccA
+
+## Page 6
+
+OP06CH01_Pulakos ARI 28June2018 11:55
+accuracy(Tziner&Murphy1999,Murphyetal.2004).Murphy&Cleveland(1995)suggested
+fourcompetinggoalsthatmanagersmustnegotiateandbalancewhentheyevaluateemployees:
+(cid:2) Taskperformancegoals,whichentailusingratingstoinfluencesubsequentperformance.
+(cid:2) Interpersonal goals, which entail using ratings to maintain or improve relationships with
+employees.
+(cid:2) Strategicgoals,whichentailusingratingstoincreasethemanager’sorworkgroup’sstanding
+intheorganization.
+(cid:2) Internalized goals, which reflect raters’ personal beliefs about how they should evaluate
+performance.
+Ithasbeenproposedthatpolitical,social,andpracticalfactorscarrysomuchweightinman-
+agers’ratingbehaviorthatratingaccuracyandemployeedifferentiationaresimplynotrelevant
+driversofratings(Adleretal.2016).Ithassimilarlybeenarguedthatmanagershavefewifanyin-
+centivestorateemployeesaccurately(Pulakos&O’Leary2011).Unlessanemployeeisaproblem
+performer,manymanagerstakethepragmaticapproachofplayingtoemployees’strengthsand
+assigningthemworktheycandowell(Mueller-Hanson&Pulakos2018).Theyrealizethatall
+employeesareimperfectandeachbringsdifferentcapabilitiestoajob.Ifemployees—especially
+experiencedemployees—aremakingsolidcontributions,managersoftenoverlookweakerareas
+forwhichthereislittlechanceofchangeorgrowth.Experiencedmanagersunderstandtheprac-
+tical realities and costs of replacing staff and onboarding new staff that will also be imperfect.
+Finally,theyunderstandthatemployeeswanttoberecognizedandpraised,whichcreatesastrong
+incentiveforthemtoratetheirkey,albeitimperfect,employeesabovethemidpointofanyscale
+inordertokeepthemmotivatedandengaged.
+Managersalsotakeapragmaticapproachtohowtheyuseratingsinpayandrewarddecisions
+(Pulakosetal.2015).Insteadofusingtheratingprocesstoarriveatanevaluationandthentranslate
+thisintoapaydecision,managersaremorelikelytoretrofittheirratingstoalignwiththereward
+decisionstheywanttomakeatagivenpointintime.Thepracticalconsiderationsthatdrivepay
+decisionsincludemitigatingattritionrisk,managinginternalorexternalequity,andevenwhose
+turnitis toget alarger increase—a phenomenonthatresultsfromtherelatively small (2–3%)
+raisepoolsthatmostorganizationshavetoday.Totheextentthatratingsalignwithpayincreases,
+itisoftenthelatterdrivingtheformer.
+Given that a manager’s job is to get the highest performance out of his or her team, a key
+partofthejobisusingallavailableleverstokeepthecollectivegroupengaged,productive,and
+performing.Managersalsohavetheirownmotivationsandadvancementgoalsthatthepercep-
+tion of a high performing and engaged team helps them achieve. Although rating everyone at
+the high end of a rating scale may not yield accurate evaluations, it can be argued that this is
+rationalbehavior,especiallywhentoday’smanagersarebeingaskedtodomorewithless,they
+wanttheirteamsandthemselvestolookgood,andtheywantaccesstorewardsandfutureop-
+portunities(Mueller-Hanson&Pulakos2018).Contextfactorsthushaveprofoundimpactson
+ratingsandtheirimplicationsneedtobebetterunderstoodandaccountedforinthedesignofPM
+processes.
+SummaryandNextStepsforPerformanceEvaluationResearchandPractice
+Whatwehavelearnedoverdecadesofresearchandpracticeisthatperformanceratingsbringsig-
+nificantchallenges.Employeesbehavedifferentlywithdifferentratersduetoroleandrelationship
+differences.Managersbringtheirownstandards,levelsofsophistication,andexpertisetoevalu-
+atingothers.Theyareswayedbytheirownbiases,differencesinthequalityoftheirrelationships
+· ·
+1.6 Pulakos Mueller-Hanson Arad
+Review in Advance first posted on
+July 13, 2018. (Changes may still
+occur before final publication.)
+gro.sweiverlaunna.www
+morf
+dedaolnwoD
+.6.9102
+.vaheB
+.nagrO
+.lohcysP
+.nagrO
+.veR
+.unnA
+.ylno
+esu
+lanosrep
+roF
+.81/41/70
+no
+gnidaeR
+fo
+ytisrevinU
+yb
+dedivorp
+sseccA
+
+## Page 7
+
+OP06CH01_Pulakos ARI 28June2018 11:55
+SUMMARY:PERFORMANCEEVALUATION
+Belowisasummaryofourcurrentconclusionsregardingperformanceevaluationbasedonresearchandpractice
+todate:
+(cid:2) Ratingsareinherentlylimitedintheirvalueasperformancemeasures.
+(cid:2) Rater-rate relationship differences yield actual performance differences, which raises questions about
+whethera“true”performancelevelexiststhatcanbereliablycapturedacrossraters.
+(cid:2) Raterscanaccuratelyplaceothersintogeneralcategoriesbutcannotmakenuancedperformancejudgments
+accurately.
+(cid:2) Politicalandsocialfactorshaveverystrongimpactsonratings.
+(cid:2) Properlyselected,performancemeasuresbeyondratingsmaymitigatechallengeswithratings.
+withdifferentemployees,andtheirratingpreferences.Theyalsoseeonlyasliceofeachperson’s
+workbehaviorandmayormaynothavetheexpertisetoaccuratelyevaluatewhattheysee.These
+factorsmaketrueperformanceimpossibletodefineandratingaccuracyimpossibletoevaluate.
+The cognitive processes humans naturally use to process performance information leave raters
+withsummarizedimpressionsratherthandetailedperformanceinformation.Althoughheavyre-
+quirements for precise and nuanced ratings may inspire more confidence that we are closer to
+groundtruthaboutanemployee’sperformance,thisisafalsesenseofconfidence,becausethereis
+noevidencethatmorecomplexratingsimproveaccuracyorfairness.Animportantconsideration
+ishowmuchratingdifferentiationandaccuracyisactuallyneeded,especiallywhenratingshave
+beenshowntohavenoimpactonperformance.Unlesshighlynuanceddifferentiationisrequired
+todistributesignificantrewards,complexratingprocessesareunlikelytoyieldROIcommensurate
+withtheircosts.Simplerjudgmentsthatalignwiththeoveralljudgementsratersnaturallymake
+arelikelysufficientandmostpracticalforthemajorityofevaluationneeds(seesidebarSummary:
+PerformanceEvaluation).
+Giventhechallengesinherentinratings,performanceevaluationcanbenefitfromleveraging
+measures other than ratings. In some jobs, a great deal of performance information is readily
+availablebeyondratings,suchascustomersurveys,salesdata,productiondata,efficiencyindices,
+andbillablehours.Althoughthesemeasuresalsohavelimitations(e.g.,theycanbedeficientor
+contaminated),theycanprovideamorewell-roundedpictureofperformancethatgoesbeyond
+ratings. When collected on a regular basis, such measures can be used to signal performance
+issues early and drive real-time feedback to course-correct. An added benefit is that nonrating
+measureslessenthepressureonmanagersastheirrolecanshiftfromjudgingemployeestohelping
+themunderstandandrespondtodifferentperformancemeasures.Theuseofmultisourceratings
+combined with attention to performance measures that exist in the environment may reduce
+the impact of political and social factors on ratings. With the level of digital transformation
+that is occurring in organizations coupled with the increasing focus on analytics, we will see
+increasingavailabilityofandfocusonperformancemeasuresthatareautomaticallyandfrequently
+generated. The questions for future performance evaluation research are (a) how to leverage
+and combine available performance information (e.g., various metrics, ratings, etc.) data into
+meaningful,sensible,valid,andfairperformanceassessmentsand(b)whatrolehumanswillplay
+infutureperformanceevaluationprocesses.Theanswerstothesequestionswillalmostcertainly
+resultinnewperformancemeasurementstrategiesandpracticesthatmaymitigatethelimitations
+ofratingsbutwillalsoneedtobecarefullyevaluatedfortheirpotentialconsequences.
+www.annualreviews.org • EvolutionofPerformanceManagement 1.7
+Review in Advance first posted on
+July 13, 2018. (Changes may still
+occur before final publication.)
+gro.sweiverlaunna.www
+morf
+dedaolnwoD
+.6.9102
+.vaheB
+.nagrO
+.lohcysP
+.nagrO
+.veR
+.unnA
+.ylno
+esu
+lanosrep
+roF
+.81/41/70
+no
+gnidaeR
+fo
+ytisrevinU
+yb
+dedivorp
+sseccA
+
+## Page 8
+
+OP06CH01_PulakosARI28June201811:55
+
+Employee prepares
+
+year-end review
+
+Others provide
+
+360 degree feedback
+
+Manager prepares
+
+year-end review
+
+Company setsEmployee preparesManager calibrates
+
+annual goalsmid-year reviewratings
+
+Goals cascaded toOthers provide Manager conducts
+
+business units360 degree feedbackyear-end review
+
+Employees draftManager preparesPay and bonus
+
+initial goalsmid-year reviewdecisions made
+
+g
+
+r
+
+o
+
+.ManagerManager conductsManager conducts
+
+s
+
+w
+
+approves goalsmid-year reviewyear-end review
+
+e
+
+i.
+
+vy
+
+el
+
+nr
+
+lJanFebMarAprMayJunJulAugSeptOctNovDeco
+
+a
+
+ue
+
+ns
+
+nu
+
+a
+
+lFigure1.
+
+aw
+
+n
+
+wo
+
+Typicalperformancemanagementprocessusedinorganizations.sw
+
+r
+
+e
+
+mp
+
+or
+
+or
+
+fFPERFORMANCEMANAGEMENT
+
+d
+
+.
+
+e8
+
+d1
+
+a/Withﬂatter,leanerorganizationsandpressuretodomorewithless,performanceevaluation
+
+4o
+
+1l
+
+n/
+
+eventuallyevolvedintomorecomprehensivePMprocessesthatincludedafullerarrayofactivities7w
+
+0
+
+o
+
+nDtodriveperformance,suchascascadinggoals,expectationsetting,andinterimfeedbackreviews
+
+o
+
+.
+
+g6
+
+(Smither&London2009,London&Mone2014).Theseprocessesbecamefairlystandardoverthen.
+
+9i
+
+d1
+
+a0past15–20years,especiallyasorganizationsbeganacquiringautomatedPMsystemstoimprove
+
+e2
+
+R
+
+.v
+
+itsefﬁciency(Aguinis2013,London&Mone2014).Inthesesystems,employeesareusuallyf
+
+ao
+
+h
+
+ye
+
+evaluatedonbehaviorandresults(Pulakos2009).Theideaisthatboth“how”employeesperformtB
+
+i
+
+s
+
+.rn
+
+(behaviors)and“what”theydeliver(results)areconsideredimportantaspectsoftheirperformance.e
+
+av
+
+gi
+
+nr
+
+Behavioralratingsaremoreusefulforcourse-correctingthanresults,whichcomeafterthefact.OU
+
+.
+
+yl
+
+Behavioralratingsarenotoriouslyattenuated,however,withmostpeopleratedabovethemidpointob
+
+h
+
+dc
+
+eoftheratingscale,reducingtheirusefulness(Pulakos2009).Resultscapturewhatsomeargueisy
+
+ds
+
+iP
+
+v
+
+mostimportant—theoutcomesoneachieves—althoughresultsmeasurescanbreakdownwhen o
+
+.n
+
+r
+
+pa
+
+goalattainmentisoutsideanemployee’scontrolorresultsfromteamperformanceratherthan g
+
+s
+
+rs
+
+Oe
+
+individualperformance,whichisoftenthecasetoday(Locke&Latham1990,Ployhartetal.c
+
+.cv
+
+Ae
+
+Figure12009).AtypicalautomatedPMprocessisshownin.R
+
+.
+
+u
+
+MostPMprocessesbeginbysettinggoalsandobjectivesforeachemployee—apracticerootedn
+
+n
+
+A
+
+ingoal-settingresearch,whichshowsthatemployeesperformmoreeffectivelywhenspeciﬁcgoals
+
+areset(e.g.,Lockeetal.1981,Locke&Latham1990).Cascadinggoalsareoftenusedtolink
+
+theorganization’sstrategicgoalsdowntoeachemployee(Rodgers&Hunter1991).Theidea
+
+isthattheselinkageswillhelpemployeesunderstandhowtheirworkalignswiththeorganiza-
+
+tion’sstrategyandgoals(Hillgren&Cheatham2000,Schneieretal.1991).Leveragingprinciples
+
+fromMBO,objectivesstatetheoutcomeseachemployeeisexpectedtoachieveinsufﬁcientde-
+
+tailtojudgewhethertheobjectivehasbeenmet.Employeesandmanagersareoftentrained
+
+tosetSMART(Speciﬁc,Measurable,Aligned,Realistic,andTime-Bound)goalsaspartofthis
+
+process.
+
+Althoughtheideaoflinkingindividualandorganizationalgoalsmakessense,Pulakos&
+
+O’Leary(2010)notedthefollowingpracticalchallenges:
+
+··
+
+1.8PulakosMueller-HansonArad
+
+Review in Advance first posted on
+
+July 13, 2018. (Changes may still
+
+occur before final publication.)
+
+## Page 9
+
+OP06CH01_Pulakos ARI 28June2018 11:55
+(cid:2) Cascading goals take time and can be difficult for managers who are not accustomed to
+linkinggoalsbetweenlevels.
+(cid:2) Asgoalsarecascaded,theyoftenbecomedisconnectedfromorganizationalgoalsandob-
+scured, akin to the game of telephone, in which retelling a story can alter it in ways not
+intended.
+(cid:2) Evenwithtraining,thequalityoftheobjectivesvariesgreatlyfrommanagertomanager,
+andobjectivesarerarelycomparableacrosssimilarlysituatedemployees(Pulakos&O’Leary
+2010).
+(cid:2) Evenwhenjobsarepredictable,goalssetatthebeginningoftheyearcannotaccountfor
+unexpectedeventsduringtheyear.Thischallengeisexacerbatedinfluidsituationsinwhich
+prioritieschangefrequently(Cascio1998,Pulakos&O’Leary2010).Althoughguidanceis
+giventoupdateobjectivesasthesituationchanges,thisisrarelydoneinpractice.
+(cid:2) Itcanbedifficulttoassesstherelativecontributionsdifferentemployeesmakewhentheir
+objectivesarenotcomparable(Pulakos2009).Achievinganeasiergoalfullymayyieldmuch
+lesscontributionthanpartialdeliveryofachallenginggoal,yettheformerwilltypicallybe
+ratedhigherthanthelatter.
+(cid:2) Finally,goalattainmentisoftenbasedonavailableratherthanoptimalmeasures,whichcan
+sacrificeimportantcriteria,forexample,measuringquantityratherthanquality.
+Although extensive research has been devoted to goal setting, most has been conducted in
+laboratory rather than field settings, leaving several questions unanswered in work situations.
+Forexample,littleresearchhasevaluatedtheextenttowhichmeasuresofgoalachievementare
+reliable,valid,andfairmeasuresofperformance(O’Leary&Pulakos2017).Questionshavealso
+beenraisedaboutthemotivationalimpactsofgoalsettingoverlongtimehorizons,withresearch
+showing that shorter time spans are better for driving performance (Latham & Locke 2007).
+However,performanceobjectivestypicallycoveryear-longtimeframes,whicharelikelytoolong
+tomaintainstrongmotivationaleffects.Finally,rewardinggoalattainmentcanchangeitsdynamics
+dramatically.Ifemployeesknowtheywillberewardedbyachievingagoal,theywillangleforhighly
+attainablegoalstoguaranteerewards,whichiswhygoalsinperformanceevaluationcontextstend
+tobelessaspirationalandchallengingthangoalsinlearningcontexts(Winters&Latham2006).
+TheabovefactorsraisequestionsabouttheextenttowhichgoalsettinginaPMcontextasitis
+accomplishedtodayisactuallyusefulindrivinghighperformance.
+AcommonfeatureofPMprocessesistheuseofcompetencymodelsasthebasisforbehavioral
+ratings.DavidMcClellandiscreditedwithintroducingtheideaofacompetency(Dubois1993),
+andcompetency-basedtalentmanagementpracticeshavedevelopedrapidlyeversince,although
+therehasbeensignificantdebateaboutwhatexactlycompetenciesareandhowtomosteffectively
+measurethem,withsomecriticalviews.Boyatzis(1996)definedacompetencyasacombination
+ofamotive,trait,skill,attribute,orabodyofrelevantknowledge;inotherwords,acompetencyis
+anyindividualcharacteristicthatisrelatedtosuccessfuljobperformance.Klein(1996)differenti-
+atedcompetenciesfrompsychologicalconstructs,definingthemasrelated,observablebehaviors
+representingcommonthemesthatdifferentiateeffectivefromineffectiveperformance.Compe-
+tencymodelstodaytypicallyconsistofseveralbehaviorallydefinedperformancefactors,following
+Klein’sconcept.Competencymodelsprovideausefulmechanismtoarticulateanorganization’s
+strategy,values,culture,andpriorities.Overtheyears,morerigorousapproachestocompetency
+modelinghaveevolvedthathaveajob-analyticbackbonetobettersupporttheiruseinevaluation
+anddecisionmaking(Schippmann1999).InaPMcontext,ratingsaremadeoncompetenciesthat
+arerelevantforeachemployee’srole.However,similartotheratingformatresearchdiscussed
+above,competency-basedratingformatshaveproventobenomoreaccurateorunbiasedthan
+anyotherratingformats.
+www.annualreviews.org • EvolutionofPerformanceManagement 1.9
+Review in Advance first posted on
+July 13, 2018. (Changes may still
+occur before final publication.)
+gro.sweiverlaunna.www
+morf
+dedaolnwoD
+.6.9102
+.vaheB
+.nagrO
+.lohcysP
+.nagrO
+.veR
+.unnA
+.ylno
+esu
+lanosrep
+roF
+.81/41/70
+no
+gnidaeR
+fo
+ytisrevinU
+yb
+dedivorp
+sseccA
+
+## Page 10
+
+OP06CH01_Pulakos ARI 28June2018 11:55
+In spite of considerable investment in designing and automating PM processes, automation
+did notyieldimprovements inPM quality,effectiveness, or impact, which promptedincreased
+attentiontoimplementationactivitiessuchasbuildingleadershipsupportandemployeebuy-in
+anddevelopingeffectivecommunication,training,andchangemanagementstrategies(Rodgers
+et al. 1993). Large-scale survey research studies began examining the impact of PM processes
+on employee engagement and performance (CEB 2004, Harter et al. 2002). Concerns raised
+by this research, which showed PM processes to have little if any impact on performance, led
+initiallytothedevelopmentofmoreelaborateprocesses.PMstepswerebrokendownintomore
+specific,structured,andscheduledPMactivities,basedontheideathatmoreprescribedstepsand
+timedevotedtoPMwouldtranslateintoimprovedoutcomes.Thisresultedinmoreburdensome
+PMrequirementsformanagersandemployeesthatbecameincreasinglydisconnectedfromwhat
+managersactuallyneedtodotomanageperformanceonadailybasis,suchasensuringemployees
+know what they need to do and coaching them to overcome barriers in real time. Pulakos &
+O’Leary(2011)havearguedthatautomationhasexacerbatedtheschismbetweenformalPMand
+howmanagersmanageperformancedaytoday,byturninganinherentlyhumanandfluidprocess
+intointermittent,automation-enabledadministrativesteps.
+Negative attitudes toward PM, especially formal review sessions, reached fever pitch in the
+late2000s,withemotionalcallstoeliminatethem(Culbert&Rout2010,Culbertsonetal.2013).
+Neuroscience research provided compelling evidence of brain changes that initiate automatic
+defensivereactionstoformalperformancereviews,showingphysiologicalmechanismsthatmake
+theseaversiveforevenhighperformers(Rock2008,Rock&Jones2015).Furtherfuelingnegative
+affect toward formal PM processes were ROI analyses showing millions of dollars in costs and
+excessivetimedevotedtoPMactivitiesthatareuniformlyviewedaslowvalueandhavenoimpact
+onindividualororganizationalperformance(CEB2012).Thecombinationofthesefactorshas
+ledtoamassivemovementtoreinventPM.Therehasneverbeenatimewhensomanycompanies
+haveexperimentedwithdisruptivechangetoamajortalentsystem,whichspeaksvolumesabout
+thedissatisfactionwithPM(Adleretal.2016).
+NewApproachestoPerformanceManagement
+ThepastfiveyearshavebroughtnovelideasforhowtogainmorevaluefromPMthataredifferent
+inkindfromtraditionalpractices.RatherthancontinuetoaddmoreformalPMstepsandprocesses,
+an overwhelming number of companies have begun stripping down their formal processes and
+focusingmoreoninformal,unscheduledbehaviorsthathavebeenshowntomattermostindriving
+performance(CEB2004,Bryant2011).Aplethoraofcasestudieshavebeenpublishedoverthe
+past few years describing how different companies approached their PM reform. For example,
+Deloitte’s PM transformation was highlighted in the Harvard Business Review (Buckingham &
+Goodall 2015) as well as numerous online articles (Baldassarre & Finken 2015, Mosley 2015,
+Rock&Jones2015).Interesthasbeensohighthatmainstreammediaoutletssuchasthe New
+York Times and Washington Post (Cunningham 2015, Kantor & Streitfeld 2015) have featured
+articlesaboutPMreformatAccenture,Amazon,Deloitte,GeneralElectric,andMicrosoft,among
+others.
+ThenumberofcompaniesworkingonPMreformsimultaneouslyhasgeneratedconsiderable
+debateaboutwhichchangeswilladdthemostvalue,resultingintwoprimaryapproaches.The
+firstapproachistochangeaspectsoftheformalsystemtoreduceunnecessary,low-valuestepsand
+processesthatyieldhighcostswithnoclearROI.ThisstrategytofixPMalignswithgeneraltrends
+toreducetalentmanagementprocesscomplexity,whichEffron&Ott(2010)arguehasbecometoo
+heavy,burdensome,andcostlyforitsvalue.ThesecondmajorapproachtoimprovePMfocuses
+· ·
+1.10 Pulakos Mueller-Hanson Arad
+Review in Advance first posted on
+July 13, 2018. (Changes may still
+occur before final publication.)
+gro.sweiverlaunna.www
+morf
+dedaolnwoD
+.6.9102
+.vaheB
+.nagrO
+.lohcysP
+.nagrO
+.veR
+.unnA
+.ylno
+esu
+lanosrep
+roF
+.81/41/70
+no
+gnidaeR
+fo
+ytisrevinU
+yb
+dedivorp
+sseccA
+
+## Page 11
+
+OP06CH01_Pulakos ARI 28June2018 11:55
+ontheday-to-daymanagerandemployeebehaviorsthathavebeenshowntodriveperformance,
+suchasprovidingreal-timefeedbackthathelpsemployeesperformbetterorovercomechallenges
+andimplementingagilegoalsthatarenearertermandeasiertoadjustasthesituationchanges.
+Someorganizationshavefocusedtheireffortsonthefirststrategy(streamlinetheprocess),others
+have focused on the second strategy (drive more effective PM behavior), and some have made
+changesthatleveragebothapproachesintandem.
+StreamliningtheFormalPerformanceManagementSystem
+ThedesignofnewPMprocessesneedstostartwithcarefulconsiderationofthepurpose(s)for
+PM,whichcanincludedevelopment,administrative(e.g.,decisionmakingaroundpay,bonuses,
+promotion,etc.),orother(e.g.,legaldefensibility)goals.Theprimarypurpose(s)ofPMinagiven
+organizationmustbeclearlydefined,becausePMprocessesthattrytoservetoomanypurposes
+oftenendupservingnonewell(Pulakos2009).Clarityofpurposehelpsintwokeyways:
+(cid:2) ItenablesorganizationstoavoidPMgoalsthatfighteachother,forexample,alongstanding
+finding is that evaluation goals can interfere with effective development. When rewards
+areinthemix,employeesarereluctanttofocusondevelopmentandratingsbecomemore
+corrupt,whichwediscussinmoredetailbelow.
+(cid:2) ItprovidesanimportantbenchmarkagainstwhichpotentialPMfeaturescanbeevaluated
+toavoidincludingperipheralfeaturesandcomplexitythatdonotaddincrementalvalue.
+Althoughorganizationshaveexperimentedwithstreamliningtheirgoal-settingprocesses,for-
+mal reviews, and rating process, they have become most fixated on whether to retain ratings,
+whichhasbecomethesubjectofconsiderabledebate(e.g.,Adleretal.2016).Manyhigh-profile
+companies(e.g.,Accenture,Deloitte,Microsoft,GAP)haveabandonedorsubstantiallyreduced
+their use of ratings (Culbert & Rout 2010, Cunningham 2015), whereas others have held firm
+thatratingsareimportanttokeep.Ifthedebateaboutratingsconcernedquestionsaboutrating
+qualityoraccuracy,theanswerwouldbesimple.Nearlyacenturyofresearchshowslongstanding
+problemswithratings,includinginaccuracy,questionablefairness,andlowvalue(Bernardin&
+Beatty1984;DeCotiis&Petit1978;DeNisi2006;Ilgen&Feldman1983;Landy&Farr1983;
+Murphy&Cleveland1991,1995).However,theissueofwhethertokeepratingsismorecomplex
+andgoesbeyondissuesofpsychometricqualityandutility.
+Proponentsofratingshavearticulatedvalidconcernsabouttheneedtodocumentperformance
+to meet the legal and regulatory requirements that exist in some countries. They have argued
+thatevaluationoccursirrespectiveofwhetherratingsarerecordedandthatthereisvalueinthe
+transparency ratings provide. Opponents alternatively argue that it is worse to provide ratings
+that are almost always inflated but at the same time, maintain nontransparent sources of more
+accurate performance information. For example, designations of who is high potential are not
+oftensharedwithemployees.ThemostcompellingrationalesupportingratingsandPMprocesses
+ingeneralisthatwhiletheseareineffectiveindrivingperformance,theyatleasthelpensurethat
+someperformanceinformationiscommunicatedtoemployees(Adleretal.2016).Supportingthis
+notionisrecentCEB(2016)research,whichshowsthatemployeesinrating-lessorganizations
+report less engagement and perceived fairness than employees who received ratings. However,
+acautionarynoteininterpretingtheseresultsisthatCEB’sresearchdidnotseparatelyevaluate
+organizations that replaced ratings with regular check-ins, coaching, and feedback from those
+that simply eliminated ratings. Thus, although CEB’s findings suggest negative attitudes may
+be associated with no ratings, these may be more a function of poor practices that remained
+unaddressedwhenratingswereremoved.Itisnotrecommendedthatorganizationsremoveratings
+www.annualreviews.org • EvolutionofPerformanceManagement 1.11
+Review in Advance first posted on
+July 13, 2018. (Changes may still
+occur before final publication.)
+gro.sweiverlaunna.www
+morf
+dedaolnwoD
+.6.9102
+.vaheB
+.nagrO
+.lohcysP
+.nagrO
+.veR
+.unnA
+.ylno
+esu
+lanosrep
+roF
+.81/41/70
+no
+gnidaeR
+fo
+ytisrevinU
+yb
+dedivorp
+sseccA
+
+## Page 12
+
+OP06CH01_Pulakos ARI 28June2018 11:55
+DESIGNINGPERFORMANCEMANAGEMENTPROCESSESTODRIVE
+PERFORMANCE
+Performancemanagement(PM)practicesshouldbedesignedtodriveperformanceinsupportoftheorganization’s
+overallstrategyandgoals.TakingastrategicapproachtoPMdesignrequiresansweringquestionslikethefollowing:
+(cid:2) Whatbusinessproblem(s)needtobesolved?
+(cid:2) Whatmustbeevaluatedtoachieveourbusinessgoals?
+(cid:2) Howmuchpayisatrisk?
+(cid:2) Willacommonprocesswork,ordoweneeddifferentprocessesfordifferentworkandunits?
+withoutaddingothermechanismsorprocessestoensureemployeesreceiveclearexpectationsand
+regularfeedback.
+Althoughthequestionofwhethertoretainratingshasspawnedgreatinterestandlivelydebate,
+thisisnotthemostimportantorfirstquestiontoaskinconsideringPMtransformation(Adler
+etal.2016).Moreimportantquestionsconcernthecriticalperformanceoutcomesanorganization
+wantstodriveandhowemployeescanbebestenabledtodeliverthese.Fromthisview,thereisno
+rightanswertothequestionofwhetheranorganizationshouldhaveratings.Theanswerdepends
+on the organization’s strategy and goals, reward structures, maturity, openness to change, and
+management philosophy, among other contextual factors (see sidebar Designing Performance
+ManagementProcessestoDrivePerformance).Pulakosetal.(2015)arguedfortakingastrategic
+approachtoPMinwhichPMgoalsemanatefromstrategicgoalsandthenchoicesaboutsystem
+designaremadebasedonthesecriteria.Takingamorestrategicviewversusanarrowviewthat
+overemphasizesthequestionofratingswillhelporganizationsthinkthroughhowtobestdrive
+performance in their given context. To the extent that organizations have different job levels,
+workrequirements,andoutcomesacrossdifferentunits,differentPMfeaturesorprocessesmay
+beneededtooptimizeperformanceversusaone-size-fits-allmodel(Churchetal.2015).
+MuchoftheevidencetodateontheefficacyofPMtransformationeffortsisbasedonindividual
+casestudies.However,theCenterforEffectiveOrganizations(CEO)recentlyconductedresearch
+thatbeginstoprovideinsightsontheeffectivenessofdifferentinnovativepractices.Threenew
+practices,rating-lessreviews,ongoingfeedback,andcrowdsourcedfeedbackthatleveragessocial
+media,havebeenadoptedbyenoughorganizationsinthepastseveralyearsthatCEOwasable
+tobeginevaluatingtheirimpact(Ledfordetal.2016).Onthebasisofsurveyfeedbackfrom244
+companies,CEOfoundthatalmostall(97%)hadadoptedongoingfeedback,fewer(51%)had
+adoptedrating-lessreviews,andtheleastnumberofcompanies(27%)hadadoptedcrowdsourced
+feedback.Interestingly,thesenewpracticesdidnotnecessarilyreplacelegacypractices,asmany
+companiescontinueduseofcascadinggoals,360-degreefeedback,competencyassessment,and
+rating calibration, along with at least one of the cutting-edge practices. However, the use of
+ongoing feedback and rating-less reviews in combination was associated with decreased use of
+moretraditionalPMpractices.
+TheresultsofCEO’sresearchshowedthatthecombinationofallthreeinnovativepractices
+yieldedthemostimpactonseveralcriteriaofinterest,includingstrategicalignment,motivating
+anddevelopingemployees,andrewardingtoptalent.Thecombinationofongoingfeedbackand
+crowdsourcedfeedbackwasmoreimpactfulthaneitherongoingfeedbackaloneorongoingfeed-
+back plus rating-less reviews. Responses to the survey of innovative practices compared to the
+responsesfrompriorsurveyresearchonPMpracticessuggestedthatthenewpracticesaremore
+· ·
+1.12 Pulakos Mueller-Hanson Arad
+Review in Advance first posted on
+July 13, 2018. (Changes may still
+occur before final publication.)
+gro.sweiverlaunna.www
+morf
+dedaolnwoD
+.6.9102
+.vaheB
+.nagrO
+.lohcysP
+.nagrO
+.veR
+.unnA
+.ylno
+esu
+lanosrep
+roF
+.81/41/70
+no
+gnidaeR
+fo
+ytisrevinU
+yb
+dedivorp
+sseccA
+
+## Page 13
+
+OP06CH01_Pulakos ARI 28June2018 11:55
+effective than traditional practices. These results are encouraging and suggest promise for the
+directioncompaniesaretakingtoimprovetheirPMpractices.Theimportantquestioniswhether
+theincreasedeffectivenessassociatedwiththenewpracticeswillsustainovertime.
+DrivingMoreEffectivePerformanceManagementBehavior
+The second strategy organizations are using to improve the value of PM is through changing
+managerandemployeebehavior.Theimportanceofmanagerbehaviorandemployee-manager
+interpersonalrelationshipsonemployeeattitudesandperformancehasbeenwidelyrecognizedand
+issupportedbydecadesofresearch.Forexample,studieshaveshownthateffectiverelationships
+andopencommunicationareassociatedwithperceptionsoffairnessandproceduraljustice(Beer
+1981,DeCotiis&Petit1978,Wexley&Klimoski1984)aswellashigherperformance(Daniels
+2000,Beer1981).Bestpracticesurveyresearchhassimilarlyshowntheimportanceofeffective
+communication and solid manager-employee relationships as levers for engagement and high
+performance(CEB2004,Harteretal.2002).
+Theimportanceoffeedback,inparticular,hasconsistentlybeenhighlightedintheresearch
+literature (Bernardin & Beatty 1984, Ilgen et al. 1979, Maier 1958), because of its potential to
+positivelyimpactperformance(Ilgenetal.1979,Kluger&DeNisi1996)andjobattitudes(Ilgen
+etal.1981,Pearson1991).Althoughresearchershaveinvestedconsiderableenergyindetermining
+how to most effectively conduct formal performance feedback sessions (e.g., Burke et al. 1978,
+Cederblom1982,Pearce&Porter1986,Nathanetal.1991),itisnowwidelyunderstoodthat
+informalfeedbackprovidedinrealtimeismostimpactfulindrivingperformanceandengagement
+(e.g.,Aguinis2013,CEB2004,Kirkland&Manoogian2007,Gregoryetal.2008).
+EffectivePMbehaviorgoesbeyondinformalfeedback,however(seesidebarKeyPerformance
+ManagementBehaviorsforManagers).CEB(2004)showedthatseveralkeymanagerbehaviors
+are associated with higher performance and engagement: setting clear expectations, providing
+regularinformalfeedback,andhelpingemployeesdevelopandsucceedatwork.Google’sProject
+Oxygen(Bryant2011)identifiedeighthabitsofhighlyeffectivemanagersthatconfirmedCEB’s
+findings.Theseincludedmeetingindividuallywithemployees,helpingthemsolveproblems,and
+coachinganddevelopingthem.Googlemanagerswhodemonstratedthesebehaviorshadteams
+thatperformedbetter,stayedlonger,andhadbetterattitudesaboutwork.Googlebeganteaching
+theeighthabitsintrainingprograms,aswellasincoachingandperformancereviewsessionswith
+individualmanagers.Theseeffortsyieldedsignificantimprovementin75%ofGoogle’sleasteffec-
+tivemanagers.Takentogether,thesestudiesdemonstratethestrongeffectsofmanagerbehavior
+onemployeeperformance,engagement,andbottom-lineresults,andtheysupporttheideathat
+KEYPERFORMANCEMANAGEMENTBEHAVIORSFORMANAGERS
+Belowarethekeybehaviorsresearchhasshownthatmanagersneedtoexhibittodrivehighemployeeperformance
+andengagement.
+(cid:2) Setclearexpectations,priorities,successcriteria,andstandards.
+(cid:2) Reviseexpectationsinrealtime,soemployeesknowwhattodo.
+(cid:2) Provideinformalfeedbackdailytopraise,coach,andcourse-correctemployeeperformance.
+(cid:2) Checkinregularlywithemployeestostayintouchandprovideguidance.
+(cid:2) Coachemployeesandhelpthemsolveproblemstoenablesuccess.
+www.annualreviews.org • EvolutionofPerformanceManagement 1.13
+Review in Advance first posted on
+July 13, 2018. (Changes may still
+occur before final publication.)
+gro.sweiverlaunna.www
+morf
+dedaolnwoD
+.6.9102
+.vaheB
+.nagrO
+.lohcysP
+.nagrO
+.veR
+.unnA
+.ylno
+esu
+lanosrep
+roF
+.81/41/70
+no
+gnidaeR
+fo
+ytisrevinU
+yb
+dedivorp
+sseccA
+
+## Page 14
+
+OP06CH01_Pulakos ARI 28June2018 11:55
+KEYPERFORMANCEMANAGEMENTBEHAVIORSFOREMPLOYEES
+Belowarethekeybehaviorsemployeesneedtoexhibittodotheirpartondrivinghighperformance.
+(cid:2) Clarifytheirperformanceexpectationstoensuretheyunderstandprioritiesandstandards;revisitexpecta-
+tionswhennecessary.
+(cid:2) Setexpectationswithpeersaboutwhoisdoingwhat,andbywhen.
+(cid:2) Askforandacceptfeedbackopenlyandnondefensively.
+(cid:2) Usefeedbacktocourse-correctandcontinuouslyimproveownperformance.
+keybehaviorscanbelearnedwithpropertrainingandcoaching.Whenthesignificantimpactof
+managerbehavioriscomparedtothelowimpactformalPMsystemshaveonperformance(CEB
+2004,Bryant2011,Pulakosetal.2015),itisnotsurprisingthatPMreformtodayfocusesheavily
+onbehaviorchange.
+Althoughresearchhasprimarilyfocusedoncriticalmanagerbehaviors,itisimportanttore-
+memberthatPMisaninteractiveprocessbetweenmanagersandemployeesinwhichemployees
+alsohaveresponsibilitiesforenablingperformance.TheaspirationofPMbehaviorchangeisto
+fundamentallyshifthowPMisviewedandcarriedout.Thisrequiresmanagersandemployeesto
+makebothmindsetandbehavioralchangessothatPMistransformedfromaformalHRsystem
+ofprescribedstepsthatarecuedbyanautomatedsystemtomanagersandemployeesengagingto-
+getheronacontinuousbasistodrivehighperformanceandachieveimportantbusinessoutcomes
+(seesidebarKeyPerformanceManagementBehaviorsforEmployees).Figure2illustratesthede-
+siredchange,whichisrootedindevelopingproductiveworkingrelationshipsthatarecharacterized
+byopencommunicationandtrust,whichinturnenableopennesstoreal-timefeedback,coaching,
+continuouslearning,anddevelopmenttooccurnaturallyaspartofdailywork.Inessence,anew
+mindsetandclimateneedtobecreatedabouthowPMisenactedonaregularcadencethrough
+keymanagerandemployeebehaviors(Bryant2011,CEB2004,Pulakosetal.2015).
+CreatingaclimateforPMthatischaracterizedbyeffectivePMbehaviorisnoeasytask.Many
+approachesoversimplifywhatisrequired,whichrisksyetanothersetoffailedPMinterventions
+(Mueller-Hanson&Pulakos2018).Forexample,somecompanieshaveattemptedtodriveinfor-
+malfeedbackbysimplyrequiringmorefrequentscheduledcheck-insbetweenmanagersandem-
+ployees.Othershaveimplementedformaltrainingprogramsbuthavedonetoolittle,orvirtually
+nothing,toenablethedeeplearningandchangethatneedstotransferintotheworkenvironment.
+Where PM is today WWhheerree PPMM nneeeeddss ttoo bbee ttoommoorrrrooww
+Goal Pay
+setting decision
+High Ongoing expectations,
+feedback, and development
+Low
+Begin PM cycle End PM cycle Begin PM cycle End PM cycle
+ytivitcA
+Formal
+feedback
+review
+Figure2
+Performancemanagementtransformationtoimproveitseffectivenessandvalue.
+· ·
+1.14 Pulakos Mueller-Hanson Arad
+Review in Advance first posted on
+July 13, 2018. (Changes may still
+occur before final publication.)
+gro.sweiverlaunna.www
+morf
+dedaolnwoD
+.6.9102
+.vaheB
+.nagrO
+.lohcysP
+.nagrO
+.veR
+.unnA
+.ylno
+esu
+lanosrep
+roF
+.81/41/70
+no
+gnidaeR
+fo
+ytisrevinU
+yb
+dedivorp
+sseccA
+
+## Page 15
+
+OP06CH01_Pulakos ARI 28June2018 11:55
+Behaviorchangeneedstogobeyondpassivemethods,suchase-learning,classroomlearning,and
+evenmoreactivemethodssuchassimulatedpractice(e.g.,roleplays).Meaningfulchangerequires
+viewingtheconceptofPMdifferently,engagingdifferently,andreactingdifferentlyovertimeand
+acrosscontextsuntilnewbehavioralpatternsareformedandembedded.
+Experientiallearningonthejobprovidesaplatformforbehaviorchange(DeRueetal.2012,
+Ericssonetal.1993),becauseworkinherentlycontainsseveralimportantdriversofdeeplearning
+(Davacheetal.2010),asfollows:
+(cid:2) Worktasksinherentlycapturelearners’attentionandhavebuilt-inrelevanceandownership,
+whichareimportanttohardwirelearning.
+(cid:2) Practicingnewconceptsaspartofrealworkhelpslearnersseehowtheseplayoutacross
+peopleandsituations,providingcontextualization,personalization,andvariedlearningex-
+periencesthatareessentialfordeeplearning.
+(cid:2) Workprovidesnaturalopportunitiesforspacedpracticethatsolidifieslearning.
+(cid:2) Learningthroughrealworkincorporatesimportantsocialelements,suchaslearninggen-
+erationbyparticipants,connectedness,andopportunitiesforfeedback.
+Pulakos et al. (2015) offered an experiential on-the-job learning approach to PM behavior
+change that prompts learners to practice target behaviors, assists them in extracting learning
+throughreflection,andreinforcesrepetitiontohardwirelearningovertimeuntilnewbehaviorsare
+performedsuccessfullyandnearlyautomatically,thatis,withoutsignificantcognitiveoremotional
+strain(Fitts&Posner1967).Thisapproachwasshowntoresultinpositivebehaviorchangeas
+judgedbythosewithwhomtraineesinteractedonthejob(Mueller-Hansonetal.2016).However,
+insomesituationsinwhichthisinterventionwasattempted,therewasinsufficientattentionand
+stayingpowertodrivemeaningfulchange.
+Futureresearchisneededtocontinueevaluatingdifferentapproachestolarge-scalePMbe-
+haviorchange.Asoneexample,Boyatzisetal.(2015)offeredacomprehensivemodelofchange
+thatmaybetterenablesustainedbehaviorchangeinorganizations.Tobesuccessful,individuals
+mustgenuinelycareaboutmakingachange,engageinself-directed,intentionalefforttomakea
+change,andbeawareofthechangeandtheprocessofchange.Inthemodel,changebeginsby
+creatingapersonalfuturevisionthatprovidestheimpetusforchange.Thepersonalvisionrepre-
+sentstheidealself,whichisthencomparedtotherealself(whichispartlyafunctionofhowone
+isviewedbyothers)toidentifystrengths,whichiswheretheidealandrealselfisconsistent,and
+gaps.Thegapbetweentherealandtheidealselvescreatestheagendaforlearningandprovides
+motivationtochange.Successfulchangeismorelikelytooccurwhenindividualsadoptalearning
+versusperformanceorientationtoarousepositivebeliefinone’scapabilitytochangeandmaintain
+focusonwhattheindividualwantstobecome.Bycontrast,aperformanceorientationthatfocuses
+onsuccess,provingoneself,andgettingpraisearousesanxietyinthewrongpartsofthebrainto
+promotelearninganddevelopment.Theideaisthatindividualsmustbecomeintrinsicallymoti-
+vatedtochange,drivenbytheemotionalpartoftheirbrains,versusfeelingobligatedtochange
+becauseotherstoldthemtochange.Alsoimportantaretrustingandsupportiverelationshipsto
+enable the change process. Boyatzis (2016) cites several studies in which this approach yielded
+moresuccessfulbehaviorchangeoutcomesthanuseofmoretraditionallearningapproaches.
+Effective PM behavior may also be facilitated by mindfulness practices that are gaining in-
+creasing attention in organizations to enable higher performance, satisfaction, and resilience,
+among other positive work outcomes (Gelles 2012, Dane 2011, Dane & Brummel 2013). The
+keytenantsofmindfulnessincludethepracticeofbeingpresent,awareofwhatishappeningin
+themoment,pausingtocontrolfight-or-flightreactions,andusingthisawarenesstomakebet-
+terdecisions.Mueller-Hanson&Pulakos(2018)havehypothesizedthatthesepracticesshould
+www.annualreviews.org • EvolutionofPerformanceManagement 1.15
+Review in Advance first posted on
+July 13, 2018. (Changes may still
+occur before final publication.)
+gro.sweiverlaunna.www
+morf
+dedaolnwoD
+.6.9102
+.vaheB
+.nagrO
+.lohcysP
+.nagrO
+.veR
+.unnA
+.ylno
+esu
+lanosrep
+roF
+.81/41/70
+no
+gnidaeR
+fo
+ytisrevinU
+yb
+dedivorp
+sseccA
+
+## Page 16
+
+OP06CH01_Pulakos ARI 28June2018 11:55
+helpmanagersbemoreintunewiththeextenttowhichtheyaresettingmeaningfulexpectations
+thatarewell-understoodbyemployeesandhelpthemnaturallypauseandcheckonhowexpec-
+tations and feedback are being received. They may also help increase managers’ awareness of
+theimpacttheyarehavingonemployeesanddevelopmoreeffectivecoachingskills.Mindfulness
+practicesshouldhelpemployeesbecomemoreattunedtofeedbackcuesandtakeinfeedbackmore
+openlybyavoidingautomaticdefensivereactions,separatingthemessagefromtheirreactionto
+it,andprocessinginformationmoreeffectivelytoenhancelearning.Onepotentialchallengeis
+thatdevelopingmindfulnessrequiresengaginginasetofpracticesovertimethatenableit.Future
+researchisneededinorganizationalsettingstodeterminewhetherthesepracticescaninfactdrive
+moreeffectivePMbehaviorandifso,howtheycanbestbeimplementedtoyieldtheintended
+results.
+Therearethreecautionarynotesaboutsuccessfulbehaviorchangetobearinmind.Thefirstis
+thatmanycompanieshaveunrealisticexpectationsabouthowlongandwhatittakesformeaningful
+changetooccur,whichincludesintentionalityfromlearners,alearningorientation,andrepeated
+practice (Pulakos et al. 2015). The second caution is that PM behavior change (e.g., real-time
+feedback,agilegoalsetting,coaching,etc.)isunlikelytobesuccessfullyembeddedwithoutcontext.
+Thisisbecauseconceptssuchasagilegoalsetting,real-timefeedback,andeffectivecoachingare
+elusiveideasthatcannotbewellunderstoodanddonotgainsufficientmeaningtobelearneduntil
+theyarepracticedintheactualworkcontext.Thethirdcaution,whichisrelatedtothefirsttwo,
+isthatnewPMbehaviorswillbemostsuccessfullyembeddedbyintentionallyapplyingthemin
+support of achieving an important performance goal (Davache et al. 2010, Mueller-Hanson &
+Pulakos2018),becausethisenablesthemtobelearnedastheywillbeused—asenablersofhigh
+performance.AcasestudyfromAlcoainwhichnew,keystonehabitsweresuccessfullydeveloped
+to improve safety illustrates the importance of attaching learning to concrete, well-understood
+outcomesthathavehighrelevancetoindividualsandthebusiness(Duhigg2012).
+PMbehaviorchangeshouldthusstartwithidentificationofaconcreteperformancegoal(e.g.,
+improvecollaborationwithintheteam,servecustomersfaster).Employeesandmanagerswould
+needtohavehonestconversationsaboutwhatisgettinginthewayofachievingoptimalperfor-
+mancetoday,andreal-timefeedbackwouldneedtobegivenwheninstancesofpoorandeffective
+performanceoccur.Althoughindividualmanager-employeepairscanselectaperformancegoal
+onwhichtopracticeandlearneffectivePMbehaviors,theimpactofbehaviorchangeinterventions
+willbemostpowerfulwhenwholeteamsororganizationsdevelopameaningfulsharedvisionand
+engageinlearningandbehaviorchangetogether,asthisincreasesthelikelihoodofdeveloping
+themomentumandsustainabilitythatisneededforrealchangetooccur(Boyatzis2016).Com-
+biningbehaviorchangeinterventionswithotherstrategiesdiscussedabovemaybeimportantto
+achieve maximum performance impacts, for example, incorporating natural feedback methods
+(e.g.,crowdsourcing),leveragingrelevantperformancemetricsthatareavailableintheenviron-
+ment,andfocusingonteamratherthanindividualoutcomesandperformancecriteriawherethis
+makessense.
+SuccessfulImplementationofPerformanceManagementProcesses
+Althoughwetouchedonthetopicofimplementationabove,PMtransformationisamajororga-
+nizationalchangeeffort,andestablishedchangemanagementmodelsprovideinsightsabouthow
+toorchestratechangeeffectively(Kotter2007,Bridges&Bridges2016,Heath&Heath2010,
+Cohen 2005). As with any change effort, success requires developing a business case, engaging
+stakeholders, gaining buy-in and support, communicating effectively, enabling and empower-
+ing the workforce to embed the change, and managing expectations. An important aspect of
+· ·
+1.16 Pulakos Mueller-Hanson Arad
+Review in Advance first posted on
+July 13, 2018. (Changes may still
+occur before final publication.)
+gro.sweiverlaunna.www
+morf
+dedaolnwoD
+.6.9102
+.vaheB
+.nagrO
+.lohcysP
+.nagrO
+.veR
+.unnA
+.ylno
+esu
+lanosrep
+roF
+.81/41/70
+no
+gnidaeR
+fo
+ytisrevinU
+yb
+dedivorp
+sseccA
+
+## Page 17
+
+OP06CH01_Pulakos ARI 28June2018 11:55
+implementation,however,isensuringthatthePMapproachfitstheorganization’sstrategyand
+culture,andthatitcanbesuccessfullyimplementedwithinthegivencontext.
+Moresothananyothertalentmanagementsystem,PMischaracterizedbyalmostblindadop-
+tionofnewtrendsthatfrequentlyunderdeliveronexpectations(Pulakos&O’Leary2011).This
+happensbecauseinsufficientconsiderationisgiventohowwellanewpracticeactuallyfitswiththe
+organization’sstrategy,culture,appetite,andresources.AnexampleprovidedbyMueller-Hanson
+&Pulakos(2018)illustratesthispoint.InWorkRules,Bock(2015)describeshowGoogle’spractice
+ofratingandpayinghighandlowperformersverydifferentlyfitswithGoogle’sculture—whichis
+highlydata-driven,offersbigrewards,andhastoleranceforlengthierprocessesthatarerequired
+tomakemorenuanceddistinctionsinpay(Bock2015).However,inotherorganizations,pay-for-
+performancesystemshavebeenabysmalfailures,whenperformancehasnotbeendifferentiated
+historically,thecultureismoreegalitarian,andinsufficientvariablepayexiststomakemeaningful
+differentiated rewards. The point is simply that every aspect of a PM process needs to fit well
+withinthespecificorganizationalcontextinwhichitisimplementedtobesuccessful.
+PM change that requires thinking and behaving differently takes more time than changing
+themechanicsofaprocess.Theformercantakeyears,whereasthelattercanoftenbedonein
+weeks.Behaviorandculturechangethatbuildsincrementallyovertime—startingsmall,proving
+the concept, and using success to build momentum—tends to be more successful in achieving
+long-termchange(Mueller-Hanson&Pulakos2018).Employeesneedtobeactivelyengagedin
+creatingavisionfortheirpersonalchange,whichisessentialforbuildingthemotivationtotryout
+andusenewbehaviors(Boyatzisetal.2015).Repetition,reinforcement,andpatienceareimportant
+inattitude,behavior,andculturechange.Itisimportanttoberealisticaboutwhatoutcomescan
+beachievedinagivencontext,aswellascontextfactorsthatshapewhatshouldbeattemptedand
+canbeaccomplished.Thismeansrealisticallyassessingpolitical,social,andmotivationalfactors
+that will enable or undermine change, as these are often given insufficient attention. Although
+somecontextualfactorscanbeeffectivelymitigated,othersmaybeintractablebarrierstosuccess.
+Verysignificantbarrierstosuccessneedtobeaddressedbeforechangeisattempted.
+SummaryandNextStepsforPerformanceManagementResearchandPractice
+Overalmostacentury,PMhasevolvedfromanarrowfocusonperformanceevaluationtothe
+design of comprehensive annual PM processes. What was initially conceived of as a relatively
+simple problem of how to define rating criteria that would enable managers to make accurate
+ratingshasturnedintoamuchmorecomplexchallengeofunderstandingandstudyingavastarray
+ofmultifacetedpolitical,social,motivational,environmental,andpracticalfactorsthatdrivePM
+behaviorandoutcomes.Thismetamorphosisofresearchandpracticeovertimeraisesquestions
+about whether PM processes can add value in organizations or will continue to be plagued by
+intractablechallenges.MostofthemanyattemptstoimprovePMoutcomesandattitudeshave
+focusedonimplementingformalsteps,tools,andprocessestoaligngoals,improveratingaccuracy,
+addressperformancegaps,andmakebetterdecisionsaboutemployees.Unfortunately,thisfocus
+ontheformalPMsystemhasyieldedlargelydisappointingresultsintermsofdrivingimportant
+performanceoutcomes—whichshouldbetheultimatepurposeofPMprocesses.
+Thoughtleadershavesuccessfullyarguedthatattentionneedstobedirectedtoinformalpro-
+cesses and behaviors that facilitate performance day today rather than overengineering formal
+systemsthatsitoutsidedailywork.Specificbehaviorsthathavebeensuggestedasmostimportant
+include setting agile goals so that expectations can be adjusted as needed to remain clear and
+relevant,providingreal-timefeedbackthatcontributestolearningandachievingmoreeffective
+results,andremovingbarrierstohelpemployeesaccomplishtheirgoals.Weacknowledgethat
+www.annualreviews.org • EvolutionofPerformanceManagement 1.17
+Review in Advance first posted on
+July 13, 2018. (Changes may still
+occur before final publication.)
+gro.sweiverlaunna.www
+morf
+dedaolnwoD
+.6.9102
+.vaheB
+.nagrO
+.lohcysP
+.nagrO
+.veR
+.unnA
+.ylno
+esu
+lanosrep
+roF
+.81/41/70
+no
+gnidaeR
+fo
+ytisrevinU
+yb
+dedivorp
+sseccA
+
+## Page 18
+
+OP06CH01_Pulakos ARI 28June2018 11:55
+behaviorchangeisdifficult—onparwiththedifficultyandcomplexityofanymajororganizational
+changethatrequiressubstantialresourceandtimeinvestmentstoachieve.Thusfar,effective,sus-
+tainablebehaviorchangeinorganizationshaslargelyeludedus,althoughseveralbehaviorchange
+strategiesfromtheclinical,medical,andneurosciencedomainsappeartoholdpromisefordriving
+moreeffectivePM.Althoughwholesalebehaviorandculturechangetodriveperformancemaybe
+theaspiration,recallthatpositiveimpactscanbeachievedwithlesserinterventions.AsLedford
+etal.(2016)haveshown,evenoneortwowell-consideredchangestostreamlinetheformalsystem
+oraddnewfeaturessuchasrating-lessreviewsandcrowdsourcedfeedbackcanaddvalueandresult
+inpositiveoutcomes.
+Animportantareaforfutureresearchtoassessistheextenttowhichinterventionstostreamline
+formal PM systems and drive more effective PM behavior will yield sustained improvements
+in managing performance. This is important because historically, PM has been susceptible to
+implementation of new trends that yield initial benefit but fizzle over time. Questions remain
+aboutwhetherthelatesteffortstoreduceprocessanddriveeffectivebehaviorwillfinallymove
+theneedleindeliveringmoreeffectivePMpracticesorwillsimplyendupasthenextPMtrend
+thatultimatelyfallsshort.Severalauthors,butmostnotablyMurphy&Cleveland(1995),have
+convincingly argued that strong political and social drivers of manager behavior are often at
+odds with what managers are asked to do in formal PM processes. These systems can thus be
+counterproductive for managers and interfere with their ability to get work done, which adds
+furtherinsightintowhyPMhaslikelybeensochallengedinproducingvalue.
+Althoughtheseconflictshavebeenwellarticulatedintheliterature,relativelylittleworkhas
+been directed at addressing them head-on. Toward this end, it may be useful to consider new
+modelsthatfocusonplayingtoemployeestrengthsandacceptingthateveryonehaslimitations
+within bounds rather than imposing requirements to provide developmental feedback and im-
+proveperformanceareasthatmaynotbeeasilyaddressed.Similarly,weknowthatorganizations
+arebecomingflatterandmoreworkisbeingexecuted collaborativelythroughmatrixed,cross-
+functional teams (CEB 2012). Although the importance of teams in executing work has been
+discussedextensively,relativelyfeworganizationshaveimplementedteam-basedPMprocesses.
+However,itmaybemoreproductiveformanagerstostartthinkingintermsofthecollectionof
+skillsandcharacteristicstheyneedtoexecutetheirworkprogramsandstrategiesformanaging
+performancethataremoreteam-based.Theseideasarenottosuggestthatindividualperformance
+beforgottenorpoorperformancebetolerated,buttheremayberoomtoshiftourthinkingto
+modelsthatwouldbettersupportthehumanandpracticalrealitiesoftheimperfectperformers
+intheworkplacethatcollectivelyneedtogetajobdone.Pink(2009)andRock(2008)haveboth
+offeredseveralideasthatmayholdpromiseforreducingconflictbetweenPMrequirementsand
+howmanagersandemployeesnaturallyengageinwork.
+Afinalareathatseemspromisingforfutureworkismorerigorousdefinitionofthecontextin
+whichPMoccursandidentificationofwhichcontextfactorsmattermostforeffectivePMprocess
+andpractice.Beyondpolitical,social,andpracticalfactorsthatimpactratings,Churchetal.(2015)
+havegoneastepfurtherinsuggestingthatdifferentPMprocessesmayberequiredtoaccountfor
+thedifferentcontextsthatexistwithinanorganization.Forexample,differencesinworkrequire-
+ments,complexity,goals,andlevels,amongmanyotherfactors,mayhaveimportantimplications
+for PM design. Designers of talent management systems are beginning to use context factors
+directlytofine-tunetalentmanagementpracticesanddecisions.Intheleadershiparea,forexam-
+ple,definingthecontextinwhichleadersneedtoperformenablesmatchingleaderstodifferent
+roleswithsubstantiallyhigherpredictiveaccuracythanwhencontextfactorsarenotconsidered
+(CEB2017).Thus,afinalareaforfutureresearchistodefineandtesttheimpactofafullerset
+ofcontextualfactorsonPMeffectivenessandpotentiallyleveragetheseinsightsdirectlytomore
+· ·
+1.18 Pulakos Mueller-Hanson Arad
+Review in Advance first posted on
+July 13, 2018. (Changes may still
+occur before final publication.)
+gro.sweiverlaunna.www
+morf
+dedaolnwoD
+.6.9102
+.vaheB
+.nagrO
+.lohcysP
+.nagrO
+.veR
+.unnA
+.ylno
+esu
+lanosrep
+roF
+.81/41/70
+no
+gnidaeR
+fo
+ytisrevinU
+yb
+dedivorp
+sseccA
+
+## Page 19
+
+OP06CH01_Pulakos ARI 28June2018 11:55
+SUMMARY:PERFORMANCEMANAGEMENT
+Belowisasummaryofourcurrentconclusionsregardingperformancemanagement(PM)basedonresearchand
+practicetodate:
+(cid:2) FormalPMprocessesdisengageemployees,costmillions,andhavenoimpactonperformance.
+(cid:2) Formalsystemscanbestreamlinedbutshouldnotbeeliminatedwithoutrobustinformalprocesses.
+(cid:2) Informalday-to-dayPMbehaviorsenableperformancebuttaketimeandefforttoembed.
+(cid:2) Future research should investigate new PM models that leverage neuroscience, are strength-based, and
+focusonteamperformance.
+(cid:2) TheimpactofcontextfactorsonthedesignandeffectivenessofPMshouldbefurtherevaluated.
+systematicallydesignfutureprocessesthatarebestfittothecontextualfactorsthataremostimpor-
+tantinagivensituation.Keyconclusionsregardingthecurrentstatusofperformancemanagement
+researchandpracticearesummarized(seesidebarSummary:PerformanceManagement).
+DISCLOSURESTATEMENT
+Theauthorsare notaware ofany affiliations,memberships,funding,orfinancial holdings that
+mightbeperceivedasaffectingtheobjectivityofthisreview.
+LITERATURECITED
+AdlerS,CampionM,ColquittA,GrubbA,MurphyK,etal.2016.Gettingridofperformanceratings:Genius
+orfolly?Adebate.Ind.Organ.Psychol.9(2):219–52
+AguinisH.2013.PerformanceManagement.UpperSaddleRiver,NJ:Pearson/PrenticeHall.3rded.
+BaldassarreL,FinkenB.2015.GE’sreal-timeperformancedevelopment.HarvardBusinessReview,Aug.12.
+https://hbr.
+org/2015/08/ges-real-time-performance-development
+BartramD.2007.Increasingvaliditywithforced-choicecriterionmeasurementformats.Int. J. Sel. Assess.
+15:263–72
+BeerM.1981.Performanceappraisal:dilemmasandpossibilities.Organ.Dyn.9(3):24–36
+BernardinHJ,BeattyRW.1984.PerformanceAppraisal:AssessingHumanBehavioratWork.Boston:Kent
+BlanzF,GhiselliEE.1972.Themixedstandardscale:anewratingsystem.Pers.Psychol.25:185–99
+BockL.2015.WorkRules!InsightsfromGooglethatWillTransformHowYouLiveandLead.NewYork:Twelve
+BormanWC.1974.Theratingofindividualsinorganizations:analternateapproach.Organ.Behav.Hum.
+Perform.12:105–24
+Borman WC. 1975. Effects of instructions to avoid halo error on reliability and validity of performance
+evaluationratings.J.Appl.Psychol.60(5):556–60
+BormanWC.1977.Consistencyofratingaccuracyandratingerrorsinthejudgmentofhumanperformance.
+Organ.Behav.Hum.Perform.20:238–52
+BormanWC,BuckE,HansonMA,MotowidloSJ,StarkS,DrasgowF.2001.Anexaminationofthecompar-
+ativereliability,validity,andaccuracyofperformanceratingsmadeusingcomputerizedadaptiverating
+scales.J.Appl.Psychol.86:965–73
+BoyatzisRE.1996.Consequencesandrejuvenationofcompetency-basedhumanresourceandorganization
+development.InResearch in Organizational Change and Development,Vol.9,ed.RWWoodman,WA
+Pasmore,pp.101–22.Greenwich,CN:JAIPress
+BoyatzisRE.2016.UnleashingthePowerofIntentionalChange.NewYork:KornFerry,HayGroup
+www.annualreviews.org • EvolutionofPerformanceManagement 1.19
+Review in Advance first posted on
+July 13, 2018. (Changes may still
+occur before final publication.)
+gro.sweiverlaunna.www
+morf
+dedaolnwoD
+.6.9102
+.vaheB
+.nagrO
+.lohcysP
+.nagrO
+.veR
+.unnA
+.ylno
+esu
+lanosrep
+roF
+.81/41/70
+no
+gnidaeR
+fo
+ytisrevinU
+yb
+dedivorp
+sseccA
+
+## Page 20
+
+OP06CH01_Pulakos ARI 28June2018 11:55
+BoyatzisRE,RochfordK,TaylorSN.2015.Theroleofthepositiveemotionalattractorinvisionandshared
+vision:towardeffectiveleadership,relationships,andengagement.Front.Psychol.6:670
+BrackenD,TimmreckC,ChurchA,eds.2001.HandbookofMultisourceFeedback.SanFrancisco:Jossey-Bass
+BridgesW,BridgesS.2016.ManagingTransitions:MakingtheMostofChange.Boston:PerseusBookGr.
+BryantA.2011.Google’squesttobuildabetterboss.NewYorkTimes,Mar.12.http://www.nytimes.com/
+2011/03/13/business/13hire.html?pagewanted=all&_r=0
+BuckinghamM,GoodallA.2015.Reinventingperformancemanagement.Harvard Business Review,April.
+https://hbr.org/2015/04/reinventing-performance-management
+BurkeRJ,WeitzelW,WeirT.1978.Characteristicsofeffectiveemployeeperformancereviewanddevelop-
+mentinterviews:replicationandextension.Pers.Psychol.31(4):903–19
+CascioWF.1998.AppliedPsychologyinHumanResourceManagement.UpperSaddleRiver,NJ:PrenticeHall
+CEB. 2004. Driving employee performance and retention through engagement: a quantitative analysis of the ef-
+fectiveness of employee engagement strategies. Washington, DC: CEB. https://www.stcloudstate.edu/
+humanresources/_files/documents/supv-brown-bag/employee-engagement.pdf
+CEB.2012.Drivingbreakthroughperformanceinthenewworkenvironment.Washington,DC:CEB.http://
+blueroom.neuroleadership.com/assets/documents/CEB%20-%20Driving%20Breakthrough%
+20Performance%20in%20the%20New%20Work%20Environment%20-%20Short%20Version.
+pdf
+CEB.2016.Therealimpactofeliminatingperformanceratings:insightsfromemployeesandmanagers.Washington,
+DC:CEB.https://www.cebglobal.com/human-resources/eliminating-performance-ratings.html
+CEB.2017.Thepowerofcontextindrivingleadersuccess.Washington,DC:CEB.https://www.cebglobal.com/
+corporate-leadership-council/power-of-context-in-driving-leader-success.html
+Cederblom D. 1982. The performance appraisal interview: a review, implications, and suggestions. Acad.
+Manag.Rev.7(2):219–27
+ChurchAH,GintherNM,LevineR,RotoloCT.2015.Goingbeyondthefix:takingperformancemanagement
+tothenextlevel.Ind.Organ.Psychol.8:121–29
+CohenD.2005.TheHeartofChangeFieldGuide:ToolsandTacticsforLeadingChangeinYourOrganization.
+Boston:Harv.Bus.Rev.Press
+CooperWH.1981.Ubiquitoushalo.Psychol.Bull.90:218–44
+CulbertSA,RoutL.2010.Get Rid of the Performance Review: How Companies Can Stop Intimidating, Start
+Managing—AndFocusonWhatReallyMatters.NewYork:Bus.Plus
+CulbertsonSS,HenningJB,PayneSC.2013.Performanceappraisalsatisfaction:theroleoffeedbackandgoal
+orientation.J.Pers.Psychol.12:189–95
+Cunningham L. 2015. In big move, Accenture will get rid of annual performance reviews and rankings.
+WashingtonPost,July21.http://www.washingtonpost.com/blogs/on-leadership/wp/2015/07/21/in-
+big-move-accenture-will-get-rid-of-annual-performance-reviews-and-rankings/?tid=pm_pop_b
+DaneE.2011.Payingattentiontomindfulnessanditseffectsontaskperformanceintheworkplace.J.Manag.
+37:997–1018
+Dane E, Brummel BJ. 2013. Examining workplace mindfulness and its relations to job performance and
+turnoverintention.Hum.Relat.67:105–28
+DanielsAC.2000.BringingOuttheBestinPeople:HowtoApplytheAstonishingPowerofPositive.NewYork:
+McGraw-Hill
+DavacheL,KieferT,RockD,RockL.2010.LearningthatlaststhroughAGES.NeuroLeadershipJ.3:1–11
+DeCotiisT,PetitA.1978.Theperformanceappraisalprocess:amodelandsometestablepropositions.Acad.
+Manag.Rev.3:635–46
+DeNisiAS.2006.ACognitiveApproachtoPerformanceAppraisal.NewYork:Routledge
+DeNisiAS,MurphyKR.2017.Performanceappraisalandperformancemanagement:100yearsofprogress?
+J.Appl.Psychol.3:421–33
+DeRue DS, Nahgang JD, Hollenbeck JR, Workman K. 2012. A quasi- experimental study of after-event
+reviewsandleadershipdevelopment.J.Appl.Psychol.97:997–1015
+DuboisDD.1993.Competency-BasedPerformanceImprovement:AStrategyforOrganizationalChange.Amherst,
+MA:HRDPress
+· ·
+1.20 Pulakos Mueller-Hanson Arad
+Review in Advance first posted on
+July 13, 2018. (Changes may still
+occur before final publication.)
+gro.sweiverlaunna.www
+morf
+dedaolnwoD
+.6.9102
+.vaheB
+.nagrO
+.lohcysP
+.nagrO
+.veR
+.unnA
+.ylno
+esu
+lanosrep
+roF
+.81/41/70
+no
+gnidaeR
+fo
+ytisrevinU
+yb
+dedivorp
+sseccA
+
+## Page 21
+
+OP06CH01_Pulakos ARI 28June2018 11:55
+DuhiggC.2012.ThePowerofHabit:WhyWeDoWhatWeDo.NewYork:RandomHouse
+DunnetteMD.1963.Anoteonthecriterion.J.Appl.Psychol.47:251–54
+DruckerPF.1954.ThePracticeofManagement.NewYork:Harper&Row
+EffronM,OttM.2010.OnePageTalentManagement:EliminatingComplexity,AddingValue.Cambridge:Harv.
+Bus.Press
+EricssonKA,KrampeRT,Tesch-RomerC.1993.Theroleofdeliberatepracticeintheacquisitionofexpert
+performance.Psychol.Rev.100:363–406
+FittsPM,PosnerMI.1967.HumanPerformance.Oxford,UK:Brooks/Cole
+FeldmanJM.1981.Beyondattributiontheory:cognitiveprocessesinperformanceappraisal.J.Appl.Psychol.
+66(2):127–48
+GellesD.2012.MindfulWork:HowMeditationisChangingBusinessfromtheInsideOut.NewYork:Houghton
+MifflinHarcourt
+GregoryJB,LevyPE,JeffersM.2008.Developmentofamodelofthefeedbackprocesswithinexecutive
+coaching.Consult.Psychol.J.60(1):42–56
+GregurasGJ,RobieC,SchleicherDJ,GoffM.2003.Afieldstudyoftheeffectsofratingpurposeonthe
+qualityofmultisourceratings.Pers.Psychol.56(1):1–21
+GroteRC.1996.TheCompleteGuidetoPerformanceAppraisal.NewYork:Am.Manag.Assoc.
+GuionRM.1961.Criterionmeasurementandpersonneljudgments.Pers.Psychol.4:141–49
+Harter JK,Schmidt FL,HayesTL.2002.Businessunit-level relationship betweenemployeesatisfaction,
+employeeengagement,andbusinessoutcomes:ameta-analysis.J.Appl.Psychol.87(2):268–79
+HeathD,HeathC.2010.Switch:HowtoChangeThingswhenChangeisHard.NewYork:BroadwayBooks
+HillgrenJS,CheathamDW.2000.UnderstandingPerformanceMeasures:AnApproachtoLinkingRewardstothe
+AchievementofOrganizationalObjectives.Scottsdale,AZ:WorldatWork
+IlgenDR,FeldmanJM.1983.Performanceappraisal:aprocessfocus.InResearchinOrganizationalBehavior,
+Vol.5,ed.LCummings,BStaw,pp.141–97.Greenwich,CT:JAIPress
+IlgenDR,FisherCD,TaylorMS.1979.Consequencesofindividualfeedbackonbehaviorinorganizations.
+J.Appl.Psychol.64(4):349–71
+IlgenDR,PetersonRB,MartinBA,BoeschenDA.1981.Supervisorandsubordinatereactionstoperformance
+appraisalsessions.Organ.Behav.Hum.Perform.28(3):311–30
+InstituteforCorporateProductivity(i4cp).2011.Tyingpaytoperformance.i4cp,Sept.8.https://www.i4cp.
+com/productivity-blog/2011/09/08/companies-tying-employee-pay-to-performance-increases-
+17-in-last-two-years
+JamiesonBD.1973.Behavioralproblemswithmanagementbyobjective.Acad.Manag.Rev.16:496–505
+KantorJ,StreitfeldD.2015.InsideAmazon:wrestlingbigideasinabruisingworkplace.NewYorkTimes,
+Aug. 15. https://www.nytimes.com/2015/08/16/technology/inside-amazon-wrestling-big-ideas-
+in-a-bruising-workplace.html
+KirklandK,ManoogianS.2007.Ongoingfeedback,howtogetit,howtouseit.Greensboro,NC:Cent.Creat.
+Leadersh.
+Klein AL. 1996.Validity and reliability for competency-based systems:reducing litigation risks.Compens.
+BenefitsRev.28(4):31–37
+Kluger AN, DeNisi AS. 1996. The effects of feedback interventions on performance: a historical review,
+meta-analysisandapreliminaryfeedbackinterventiontheory.Psychol.Bull.119:254–84
+KotterJP.2007.Leadingchange:whytransformationeffortsfail.HarvardBusinessReview,Jan.https://hbr.
+org/2007/01/leading-change-why-transformation-efforts-fail
+LandyFJ,FarrJL.1980.Performancerating.Psychol.Bull.87:72–107
+LandyFJ,FarrJL.1983.TheMeasurementofWorkPerformance.NewYork:Academic
+LathamG,WexleyK.1977.Behavioralobservationscales.J.Appl.Psychol.30:255–68
+LathamGP,LockeEA.2007.Newdevelopmentsanddirectionsforgoal-settingresearch.Eur.Psychologist
+123:290–300
+LathamGP,WexleyKN,PursellED.1975.Trainingmanagerstominimizeratingerrorsintheobservation
+ofbehavior.J.Appl.Psychol.60(5):550–55
+LedfordGE,BensonGS,LawlerEEIII.2016.AStudyofCutting-EdgePerformanceManagementPractices:
+OngoingFeedback,RatinglessReviewsandCrowdsourcedFeedback.Scottsdale,AZ:WorldatWork
+www.annualreviews.org • EvolutionofPerformanceManagement 1.21
+Review in Advance first posted on
+July 13, 2018. (Changes may still
+occur before final publication.)
+gro.sweiverlaunna.www
+morf
+dedaolnwoD
+.6.9102
+.vaheB
+.nagrO
+.lohcysP
+.nagrO
+.veR
+.unnA
+.ylno
+esu
+lanosrep
+roF
+.81/41/70
+no
+gnidaeR
+fo
+ytisrevinU
+yb
+dedivorp
+sseccA
+
+## Page 22
+
+OP06CH01_Pulakos ARI 28June2018 11:55
+LockeEA,LathamGP.1990.ATheoryofGoalSettingandTaskPerformance.EnglewoodCliffs,NJ:Prentice-
+Hall
+LockeEA,ShawKN,SaariLM,LathamGP.1981.Goalsettingandtaskperformance,1969–1980.Psychol.
+Bull.90:125–52
+LondonM,MoneEM.2014.Performancemanagementprocessesthatreflectandshapeorganizationalculture
+andclimate.InTheOxfordHandbookofOrganizationalClimateandCulture,ed.BSchneider,KMBarbera.
+pp.79–100.Oxford,UK:OxfordUniv.Press
+LopezFM.1968.EvaluatingEmployeePerformance.Chicago,IL:PublicPersonnelAssociation
+MaierNR.1958.TheAppraisalInterview:Objectives,MethodsandSkills.NewYork:Wiley
+McIntyreRM,SmithDE,HassettCE.1984.Accuracyofperformanceratingsasaffectedbyratertraining
+andperceivedpurposeofrating.J.Appl.Psychol.69(1):147–56
+MosleyE.2015.Creatinganeffectivepeerreviewsystem.Harvard Business Review,Aug.19.https://hbr.
+org/2015/08/creating-an-effective-peer-review-system?cm_sp=Article-_-Links-_-Top%20of%
+20Page%20Recirculation
+Mueller-HansonRA,GarzaM,RiordanBG.2016.PerformanceManagementTransformation.Arlington,VA:
+CEB
+Mueller-Hanson RA, Pulakos ED. 2018. Transforming Performance Management to Drive Performance: An
+Evidence-basedRoadmap.NewYork:Routledge
+MurphyKR,BalzerWK.1989.Ratererrorsandratingaccuracy.J.Appl.Psychol.74:619–24
+MurphyKR,ClevelandJN.1991.Performance Appraisal. An Organizational Perspective.NeedhamHeights,
+MA:AllynandBacon
+MurphyKR,ClevelandJN.1995.UnderstandingPerformanceAppraisal:Social,OrganizationalandGoal-Oriented
+Perspectives.NewburyPark,CA:Sage
+MurphyKR,ClevelandJN,SkatteboAL,KinneyTB.2004.Raterswhopursuedifferentgoalsgivedifferent
+ratings.J.Appl.Psychol.89:158–64
+MurphyKR,JakoRA,AnhaltRL.1993.Natureandconsequencesofhaloerror:acriticalanalysis.J.Appl.
+Psychol.78:218–25
+Murphy KR, Martin C, Garcia M. 1982. Do behavioral observation scales measure observation? J. Appl.
+Psychol.67:562–67
+NathanBD,MohrmanAM,MillimanJ.1991.Interpersonalrelationsasacontextfortheeffectsofappraisal
+interviewsonperformanceandsatisfaction:alongitudinalstudy.Acad.Manag.J.34(2):352–69
+O’BoyleE,AguinisH.2012.Thebestandtherest:revisitingthenormofnormalityofindividualperformance.
+Pers.Psychol.65:79–119
+O’LearyRS,PulakosED.2017.Definingandmeasuringresultsofworkplacebehavior.InTheHandbookof
+EmployeeSelection,ed.JLFarr,NTippins,pp.509–29.NewYork:PsychologyPress.2nded.
+PattersonDG.1922.TheScottCompanygraphicratingscale.J.Pers.Res.1:361–76
+PearsonCAL.1991.Anassessmentofextrinsicfeedbackonparticipation,roleperceptions,motivation,and
+jobsatisfactioninaself-managedsystemformonitoringgroupachievement.Hum.Relat.44(5):517–37
+PearceJL,PorterLW.1986.Employeeresponsestoformalperformanceappraisalfeedback.J.Appl.Psychol.
+71(2):211–18
+PinkDH.2009.Drive:TheSurprisingTruthAboutWhatMotivatesUs.NewYork:RiverheadBooks
+PloyhartRE,WeekleyJA,RamseyJ.2009.Theconsequencesofhumanresourcestocksandflows:alongitu-
+dinalexaminationofunitserviceorientationanduniteffectiveness.Acad.Manag.J.52(5):996–1015
+PulakosED.1984.Acomparisonofratertrainingprograms:errortrainingandaccuracytraining.J.Appl.
+Psychol.69:581–88
+PulakosED.1986.Thedevelopmentofatrainingprogramtoincreaseaccuracywithdifferentratingformats.
+Organ.Behav.Hum.Decis.Process.38:76–91
+PulakosED. 2009.Performance Management: A New Approach for Driving Business Results. Oxford: Wiley-
+Blackwell
+PulakosED,Mueller-HansonRA,AradS,MoyeN.2015.Performancemanagementcanbefixed:anon-the-
+jobexperientiallearningapproachforcomplexbehaviorchange.Ind.Organ.Psychol.8:51–76
+· ·
+1.22 Pulakos Mueller-Hanson Arad
+Review in Advance first posted on
+July 13, 2018. (Changes may still
+occur before final publication.)
+gro.sweiverlaunna.www
+morf
+dedaolnwoD
+.6.9102
+.vaheB
+.nagrO
+.lohcysP
+.nagrO
+.veR
+.unnA
+.ylno
+esu
+lanosrep
+roF
+.81/41/70
+no
+gnidaeR
+fo
+ytisrevinU
+yb
+dedivorp
+sseccA
+
+## Page 23
+
+OP06CH01_Pulakos ARI 28June2018 11:55
+PulakosED,Mueller-HansonRA,O’LearyRS,MeyrowitzMM.2012.PracticeGuidelines:BuildingaHigh-
+PerformanceCulture:AFreshLookatPerformanceManagement.Alexandria,VA:Soc.Hum.Resour.Manag.
+Found.
+PulakosED,O’LearyRS.2010.Definingandmeasuringresultsofworkplacebehavior.InTheHandbookof
+EmployeeSelection,ed.JLFarr,NTippins,pp.513–29.NewYork:PsychologyPress
+PulakosED,O’LearyRS.2011.Whyisperformancemanagementsobroken?Ind.Organ.Psychol.4(2):146–64
+RockD.2008.SCARF:abrain-basedmodelforcollaboratingwithandinfluencingothers.NeuroLeadershipJ.
+1:1–9
+RockD,JonesB.2015.Whymoreandmorecompaniesareditchingperformanceratings.HarvardBusinessRe-
+view,Sept.8.https://hbr.org/2015/09/why-more-and-more-companies-are-ditching-performance-
+ratings
+RodgersR,HunterJE.1991.Impactofmanagementbyobjectivesonorganizationalproductivity.J.Appl.
+Psychol.76:322–36
+RodgersR,HunterJE,RogersDL.1993.Influenceoftopmanagementcommitmentonmanagementprocess
+success.J.Appl.Psychol.78:151–55
+SaalFE,LandyFJ.1977.Themixedstandardratingscale:anevaluation.Organ.Behav.Hum.Perform.18:19–35
+SchippmannJS.1999.StrategicJobModeling:WorkingattheCoreofIntegratedHumanResourceSystems.Mahwah,
+NJ:LawrenceErlbaumAssoc.
+SchneiderRJ,GoffM,AndersonS,BormanWC.2003.Computerizedadaptiveratingscalesformeasuring
+managerialperformance.Int.J.Sel.Assess.11:237–46
+SchneierCE,ShawDG,BeattyRW.1991.Performancemeasurementandmanagement:atoolforstrategy
+execution.Hum.Resour.Manag.30:279–301
+ScottWD,ClothierRC,SpriegelWR.1941.PersonnelManagement.NewYork:McGraw-Hill
+SmithPC,KendallLM.1963.Retranslationofexpectations:anapproachtotheconstructionofunambiguous
+anchorsforratingscales.J.Appl.Psychol.47:149–55
+SmitherJW,LondonM.2009.PerformanceManagement:PuttingResearchintoAction.NewYork:Wiley
+SmitherJW,LondonM,ReillyRR.2005.Doesperformanceimprovefollowingmultisourcefeedback?A
+theoreticalmodel,meta-analysis,andreviewofempiricalfindings.Pers.Psychol.58:33–66
+StraussG.1972.Managementbyobjectives:acriticalreview.Train.Dev.J.26:10–15
+TaylorFW.1911.ThePrinciplesofScientificManagement.NewYork:Harper&Brothers
+TzinerA,MurphyK.1999.Additionalevidenceofattitudinalinfluencesinperformanceappraisal.J.Bus.
+Psychol.13:407–19
+ViswesvaranC,OnesDS,SchmidtFL.1996.Comparativeanalysisofthereliabilityofjobperformanceratings.
+J.Appl.Psychol.81:557–74
+WexleyKN,KlimoskiR.1984.Performanceappraisal:anupdate.InResearchinPersonnelandHumanResources
+Management,ed.KMRowland,GDFerris,pp.35–79.Greenwich,CN:JAIpress
+WintersD,LathamGP.2006.Theeffectoflearningversusoutcomegoalsonasimpleversusacomplextask.
+GroupOrgan.Manag.21:236–50
+www.annualreviews.org • EvolutionofPerformanceManagement 1.23
+Review in Advance first posted on
+July 13, 2018. (Changes may still
+occur before final publication.)
+gro.sweiverlaunna.www
+morf
+dedaolnwoD
+.6.9102
+.vaheB
+.nagrO
+.lohcysP
+.nagrO
+.veR
+.unnA
+.ylno
+esu
+lanosrep
+roF
+.81/41/70
+no
+gnidaeR
+fo
+ytisrevinU
+yb
+dedivorp
+sseccA
