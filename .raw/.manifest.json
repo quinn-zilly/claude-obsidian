@@ -2430,6 +2430,56 @@
         "wiki/hot.md",
         "wiki/log.md"
       ]
+    },
+    ".raw/Kossek et al. - 2017 - “Opting Out” or “Pushed Out” Integrating Perspectives on Women’s Career Equality for Gender Inclusi.md": {
+      "hash": "445e8dfb7bb0364e6a2acfcfd35a3173",
+      "ingested_at": "2026-07-07",
+      "pages_created": [
+        "wiki/sources/kossek-su-wu-2017-opting-out-pushed-out.md",
+        "wiki/entities/Ellen Ernst Kossek.md",
+        "wiki/entities/Rong Su.md",
+        "wiki/entities/Lusi Wu.md",
+        "wiki/concepts/Women's Career Equality.md",
+        "wiki/concepts/Climate for Gender Inclusion.md",
+        "wiki/concepts/Opting Out vs Pushed Out.md",
+        "wiki/concepts/Career Preference Perspective (Gender).md",
+        "wiki/concepts/Social Role Theory (Gender).md",
+        "wiki/concepts/Stereotype Threat.md",
+        "wiki/concepts/Ideal Worker Norm.md",
+        "wiki/concepts/Flexibility Stigma.md",
+        "wiki/concepts/Motherhood Wage Penalty.md",
+        "wiki/concepts/Vertical and Horizontal Gender Segregation.md",
+        "wiki/mocs/Gender & Careers MOC.md"
+      ],
+      "pages_updated": [
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md",
+        "wiki/mocs/Home MOC.md",
+        "wiki/concepts/Opt-Out Revolution.md",
+        "wiki/concepts/Glass Ceiling.md",
+        "wiki/concepts/Work-Family Balance.md"
+      ]
+    },
+    ".raw/Shockley et al. - 2017 - Disentangling the relationship between gender and work–family conflict An integration of theoretica.md": {
+      "hash": "0db507d125c3426751c476a85ac142ab",
+      "ingested_at": "2026-07-07",
+      "pages_created": [
+        "wiki/sources/shockley-et-al-2017-gender-work-family-conflict.md",
+        "wiki/entities/Kristen M. Shockley.md",
+        "wiki/entities/Winny Shen.md",
+        "wiki/concepts/Work–Family Conflict.md",
+        "wiki/concepts/Gender Similarity in Work–Family Conflict.md",
+        "wiki/concepts/Rational View (Work–Family).md",
+        "wiki/concepts/Sensitization Perspective (Gender Role View).md",
+        "wiki/concepts/Asymmetrical Domain Permeability Model.md",
+        "wiki/concepts/Time-, Strain-, and Behavior-Based Conflict.md"
+      ],
+      "pages_updated": [
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md"
+      ]
     }
   },
   "address_map": {
@@ -3340,7 +3390,31 @@
     "wiki/notes/Modern Calling.md": "c-001017",
     "wiki/notes/Inner and Outer Requiredness.md": "c-001018",
     "wiki/notes/Presence vs Search for Calling.md": "c-001020",
-    "wiki/notes/Calling as Person-Job Fit.md": "c-001021"
+    "wiki/notes/Calling as Person-Job Fit.md": "c-001021",
+    "wiki/sources/kossek-su-wu-2017-opting-out-pushed-out.md": "c-001027",
+    "wiki/sources/shockley-et-al-2017-gender-work-family-conflict.md": "c-001028",
+    "wiki/entities/Ellen Ernst Kossek.md": "c-001029",
+    "wiki/entities/Rong Su.md": "c-001030",
+    "wiki/entities/Lusi Wu.md": "c-001031",
+    "wiki/entities/Kristen M. Shockley.md": "c-001032",
+    "wiki/entities/Winny Shen.md": "c-001033",
+    "wiki/concepts/Women's Career Equality.md": "c-001034",
+    "wiki/concepts/Climate for Gender Inclusion.md": "c-001035",
+    "wiki/concepts/Opting Out vs Pushed Out.md": "c-001036",
+    "wiki/concepts/Career Preference Perspective (Gender).md": "c-001037",
+    "wiki/concepts/Social Role Theory (Gender).md": "c-001038",
+    "wiki/concepts/Stereotype Threat.md": "c-001039",
+    "wiki/concepts/Ideal Worker Norm.md": "c-001040",
+    "wiki/concepts/Flexibility Stigma.md": "c-001041",
+    "wiki/concepts/Motherhood Wage Penalty.md": "c-001042",
+    "wiki/concepts/Vertical and Horizontal Gender Segregation.md": "c-001043",
+    "wiki/concepts/Work–Family Conflict.md": "c-001044",
+    "wiki/concepts/Gender Similarity in Work–Family Conflict.md": "c-001045",
+    "wiki/concepts/Rational View (Work–Family).md": "c-001046",
+    "wiki/concepts/Sensitization Perspective (Gender Role View).md": "c-001047",
+    "wiki/concepts/Asymmetrical Domain Permeability Model.md": "c-001048",
+    "wiki/concepts/Time-, Strain-, and Behavior-Based Conflict.md": "c-001049",
+    "wiki/mocs/Gender & Careers MOC.md": "c-001050"
   },
   ".raw/Pearsall et al. - 2025 - A stimulus-based model of the team adaptation process An integrated conceptual review..pdf": {
     "hash": "62f683006d3323a67c67fc23621f632a",

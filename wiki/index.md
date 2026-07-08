@@ -39,6 +39,22 @@ Navigation: [[Home MOC]] | [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[
 
 ## Concepts
 
+- [[Women's Career Equality]] — multilevel construct: equal access + equal intrinsic/extrinsic outcomes for women vs men (Kossek, Su & Wu 2017)
+- [[Climate for Gender Inclusion]] — cross-level mechanism; 3 ordered dimensions (fairness → leverage talent → workplace support)
+- [[Opting Out vs Pushed Out]] — pulls (preference) and pushes (bias/work–family) coexist and interconnect, not rival explanations
+- [[Career Preference Perspective (Gender)]] — gendered P–E fit; things–people interest gap; communal goals; the "opt out" account
+- [[Social Role Theory (Gender)]] — agentic/communal role expectations → descriptive & prescriptive prejudice + backlash (the bias account)
+- [[Stereotype Threat]] — fear of confirming a negative stereotype consumes cognitive resources; harms performance/aspirations (Steele 1997)
+- [[Ideal Worker Norm]] — work-as-central-life-focus norm rewards overwork; disadvantages women (Williams 2000)
+- [[Flexibility Stigma]] — career penalty for using work–family flexibility; two-sided (men stigmatized too)
+- [[Motherhood Wage Penalty]] — persistent earnings/advancement gap from care-driven schedule changes (Mandel 2012)
+- [[Vertical and Horizontal Gender Segregation]] — the two structural axes of career (in)equality; glass ceiling = vertical segregation
+- [[Work–Family Conflict]] — bidirectional inter-role conflict (WIF/FIW; Greenhaus & Beutell 1985)
+- [[Gender Similarity in Work–Family Conflict]] — men and women report near-equal WFC (Shockley et al. 2017); mothers slightly more FIW
+- [[Rational View (Work–Family)]] — WFC follows time-in-domain; supported for WIF & FIW
+- [[Sensitization Perspective (Gender Role View)]] — WFC follows valued-role salience; not supported meta-analytically
+- [[Asymmetrical Domain Permeability Model]] — gendered role boundaries; partial support (WIF only); male-segmentation rival unsupported
+- [[Time-, Strain-, and Behavior-Based Conflict]] — Greenhaus & Beutell's three forms of WFC; men report more time-based WIF
 - [[Work as a Calling]] — experiencing work as more than a job/career; oldest work construct (Reformation→secularized); no consensual definition (14 across 84 studies); two camps + satisfaction correlates + dark side (Thompson & Bunderson 2019; Dik & Duffy 2009)
 - [[Transcendent Calling]] — high-inner/high-outer integration (Maslow's inner+outer requiredness match → destiny/fit); Thompson & Bunderson's resolution of the definitional stalemate
 - [[Neoclassical Calling]] — outside-in camp: destiny, duty, discovery; external summons/societal obligation (secularized Reformation view)
@@ -550,6 +566,11 @@ Navigation: [[Home MOC]] | [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[
 
 ## Entities
 
+- [[Ellen Ernst Kossek]] — Purdue; work–family/flexibility and gender scholar; lead author of the career-equality review; [[Climate for Gender Inclusion]]
+- [[Rong Su]] — vocational-interests scholar; "men and things, women and people" gender-interest meta-analysis (Su, Rounds & Armstrong 2009)
+- [[Lusi Wu]] — management researcher; co-author of the women's career-equality review
+- [[Kristen M. Shockley]] — UGA; work–family and meta-analytic methods; lead author of the gender–WFC meta-analysis
+- [[Winny Shen]] — Waterloo→York; work–family, well-being, diversity; co-lead on the gender–WFC meta-analysis
 - [[Bryan J. Dik]] — counseling/vocational psychologist (Colorado State); co-author of the transcendent-summons calling definition; CVQ co-developer
 - [[Ryan D. Duffy]] — counseling/vocational psychologist (Maryland→Florida); co-author Dik & Duffy 2009; large empirical calling program
 - [[Jeffery A. Thompson]] — organizational scholar (BYU); neoclassical + transcendent calling frameworks; Bunderson & Thompson 2009 zookeeper study
@@ -732,6 +753,8 @@ Navigation: [[Home MOC]] | [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[
 
 ## Sources
 
+- [[kossek-su-wu-2017-opting-out-pushed-out|Kossek, Su & Wu (2017)]] — *Journal of Management* | integrative multilevel review of [[Women's Career Equality|women's career equality]]; three perspectives (preference/bias/work–family); "[[Opting Out vs Pushed Out|opting out vs pushed out]]" coexist; [[Climate for Gender Inclusion]] (fairness→talent→support) as the cross-level mechanism | 2026-07-07
+- [[shockley-et-al-2017-gender-work-family-conflict|Shockley et al. (2017)]] — *Journal of Applied Psychology* (monograph) | meta-analysis (>350 samples, N≈250k) — men and women barely differ in [[Work–Family Conflict|WFC]] ([[Gender Similarity in Work–Family Conflict|near-null]]); [[Rational View (Work–Family)|rational view]] supported, [[Sensitization Perspective (Gender Role View)|sensitization]] not, [[Asymmetrical Domain Permeability Model|asymmetrical permeability]] partial | 2026-07-07
 - [[Thompson-Bunderson-2019-Work-as-a-Calling|Thompson & Bunderson (2019)]] — *Annu. Rev. Organ. Psychol. Organ. Behav.* | narrative review of 84 calling articles; four blocking questions (definition/differentiation/generalizability/relevance); inner × outer requiredness 2×2 → [[Transcendent Calling]]; calling as strong person–job fit | 2026-07-07
 - [[Dik-Duffy-2009-Calling-and-Vocation|Dik & Duffy (2009)]] — *The Counseling Psychologist* | founding definitional paper; calling = "transcendent summons... other-oriented values"; [[Vocation (Dik & Duffy)|vocation]] = calling minus external summons; [[Presence vs Search for Calling|presence vs search]]; most-adopted definition (25/84) | 2026-07-07
 - [[revelle-condon-2019-reliability-alpha-to-omega|Revelle & Condon (2019)]] — *Psychological Assessment* | α-to-ω reliability tutorial; reliability = variance ratio, joint property of test AND sample; no single reliability; two problems with α; report model-based [[Coefficient Omega|omega]] ($\omega_h$ + $\omega_t$); ICC for ratings, κ for categorical; R `psych` | 2026-07-07

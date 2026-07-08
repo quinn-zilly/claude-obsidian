@@ -16,8 +16,9 @@ related:
   - "[[Knowledge Management MOC]]"
   - "[[Culture & IT MOC]]"
   - "[[Work as a Calling MOC]]"
+  - "[[Gender & Careers MOC]]"
 status: developing
-updated: 2026-06-07
+updated: 2026-07-07
 ---
 
 # Home — Map of Content
@@ -38,6 +39,7 @@ This is the front door. Start here, pick a domain, follow links into the cluster
 - [[Knowledge Management MOC]] — organizational memory, knowledge graphs, and the LLM-wiki pattern this vault implements.
 - [[Culture & IT MOC]] — national/organizational culture and information technology; cultural fit, IT values, and the theory of IT-culture conflict.
 - [[Work as a Calling MOC]] — the meaning-of-work cluster: calling and vocation, the neoclassical/modern definitional split, and the inner × outer requiredness integration.
+- [[Gender & Careers MOC]] — women's career equality, gender bias and role congruity, work–family conflict, and the "opting out vs pushed out" integration.
 
 ## Vault infrastructure
 

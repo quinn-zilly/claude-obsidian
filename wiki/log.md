@@ -14,6 +14,15 @@ related:
 created: 2026-04-07
 ---
 
+## [2026-07-07] ingest | gender & careers pair (Kossek career-equality review + Shockley gender–WFC meta-analysis)
+
+- **Batch of 2** seeding the vault's gender-in-organizations / career-equality cluster (new [[Gender & Careers MOC]]; per project hybrid-LYT convention, source pages filed in `wiki/sources/`, concepts in `wiki/concepts/`, entities in `wiki/entities/`).
+- **(1) [[kossek-su-wu-2017-opting-out-pushed-out|Kossek, Su & Wu (2017)]]** (*Journal of Management*) — integrative multilevel review of **[[Women's Career Equality]]** (equal access + equal intrinsic/extrinsic outcomes). Consolidates three under-integrated perspectives: **[[Career Preference Perspective (Gender)|preference]]** (gendered [[Person–Environment Fit|P–E fit]]; things–people interest gap; communal goals → "opt out"), **[[Social Role Theory (Gender)|gender bias]]** (descriptive/prescriptive prejudice + [[Role Congruity Theory|backlash]]; [[Stereotype Threat]]), **work–family** ([[Ideal Worker Norm]], [[Flexibility Stigma]], [[Motherhood Wage Penalty]]). Thesis: **[[Opting Out vs Pushed Out|pulls and pushes coexist]]**. Mechanism: **[[Climate for Gender Inclusion]]** (3 ordered dims: fairness → leverage talent → support). Structural axes = [[Vertical and Horizontal Gender Segregation]].
+- **(2) [[shockley-et-al-2017-gender-work-family-conflict|Shockley, Shen, DeNunzio, Arvan & Knudsen (2017)]]** (*JAP* monograph) — meta-analysis (>350 samples, N≈250k): **near-null gender difference in [[Work–Family Conflict|WFC]]** ([[Gender Similarity in Work–Family Conflict]]). Mothers slightly more FIW; men more time-based WIF ([[Time-, Strain-, and Behavior-Based Conflict]]). Cultural egalitarianism & pub-date did not moderate. Path-testing: **[[Rational View (Work–Family)|rational view]] supported**, **[[Sensitization Perspective (Gender Role View)|sensitization]] not**, **[[Asymmetrical Domain Permeability Model|asymmetrical permeability]] partial**; WIF has a negative residual (competitive mediation / omitted mediators).
+- **Cross-refs / contradiction:** Kossek assumes gendered WFC; Shockley finds it near-null — reconciled as **self-report (~equal) vs attribution & penalty (biased)**; both cite Hoobler et al. (2009). Contradiction callouts on both source pages + [[Gender Similarity in Work–Family Conflict]]. Empirical link to [[Gender Gap in Rewards vs Performance|Joshi et al. 2015]]; upgraded stubs [[Opt-Out Revolution]], [[Glass Ceiling]], [[Work-Family Balance]] (seed→developing).
+- **New:** 16 concepts + 5 entities ([[Ellen Ernst Kossek]], [[Rong Su]], [[Lusi Wu]], [[Kristen M. Shockley]], [[Winny Shen]]) + 2 sources + 1 MOC (c-001027–c-001050). Updated [[Home MOC]], [[index]].
+- **Candidate next:** Eagly & Karau (2002) role-congruity primary; Heilman (2012) gender-stereotypes primary; Byron (2005) WFC-antecedents meta; Williams (2000) *Unbending Gender*.
+
 ## [2026-07-07] ingest | work-as-a-calling pair (Dik & Duffy definition + Thompson & Bunderson taxonomy)
 
 - **Batch of 2** seeding the vault's meaning-of-work / calling cluster (new [[Work as a Calling MOC]], LYT mode).
