@@ -163,7 +163,7 @@
         "wiki/log.md"
       ]
     },
-    ".raw/Grant - 1996 - Toward a knowledge‐based theory of the firm.pdf": {
+    ".raw/Grant - 1996 - Toward a knowledge\u2010based theory of the firm.pdf": {
       "hash": "7d902355cea11975fe184ee416d50a3c",
       "ingested_at": "2026-05-19",
       "pages_created": [
@@ -193,7 +193,7 @@
         "wiki/log.md"
       ]
     },
-    ".raw/Lehmann et al. - 2015 - DBpedia – A large-scale, multilingual knowledge base extracted from Wikipedia.pdf": {
+    ".raw/Lehmann et al. - 2015 - DBpedia \u2013 A large-scale, multilingual knowledge base extracted from Wikipedia.pdf": {
       "hash": "113915904e64333ad5d819640b1b2935",
       "ingested_at": "2026-05-19",
       "pages_created": [
@@ -208,12 +208,12 @@
         "wiki/log.md"
       ]
     },
-    ".raw/Munafò et al. - 2017 - A manifesto for reproducible science.pdf": {
+    ".raw/Munaf\u00f2 et al. - 2017 - A manifesto for reproducible science.pdf": {
       "hash": "4ab499001cf6a2c6396e6f586a735009",
       "ingested_at": "2026-05-19",
       "pages_created": [
         "wiki/sources/munafo-2017-manifesto.md",
-        "wiki/entities/Marcus Munafò.md",
+        "wiki/entities/Marcus Munaf\u00f2.md",
         "wiki/entities/John Ioannidis.md"
       ],
       "pages_updated": [
@@ -410,7 +410,7 @@
         "wiki/hot.md"
       ]
     },
-    ".raw/Ren and Argote - 2011 - Transactive Memory Systems 1985–2010 An Integrative Framework of Key Dimensions, Antecedents, and C.pdf": {
+    ".raw/Ren and Argote - 2011 - Transactive Memory Systems 1985\u20132010 An Integrative Framework of Key Dimensions, Antecedents, and C.pdf": {
       "hash": "d77ca3e481efe6c6ab0d9060caa1708a",
       "ingested_at": "2026-05-21",
       "pages_created": [
@@ -470,7 +470,7 @@
         "wiki/hot.md"
       ]
     },
-    ".raw/Albarracín et al. - 2024 - Determinants of behaviour and their efficacy as targets of behavioural change interventions.pdf": {
+    ".raw/Albarrac\u00edn et al. - 2024 - Determinants of behaviour and their efficacy as targets of behavioural change interventions.pdf": {
       "hash": "d8e5484ebc074e4e8e21b6bbf35143d0",
       "ingested_at": "2026-05-23",
       "pages_created": [
@@ -484,7 +484,7 @@
         "wiki/concepts/Reasoned Action Approach.md",
         "wiki/concepts/Information-Motivation-Behavioural Skills Model.md",
         "wiki/concepts/Correlation-Intervention Gap (Behaviour).md",
-        "wiki/entities/Dolores Albarracín.md"
+        "wiki/entities/Dolores Albarrac\u00edn.md"
       ],
       "pages_updated": [
         "wiki/index.md",
@@ -556,7 +556,7 @@
         "wiki/concepts/Dynamic Decision Making.md",
         "wiki/concepts/Electronic Brainstorming.md",
         "wiki/entities/Terry Connolly.md",
-        "wiki/entities/Lisa Ordóñez.md"
+        "wiki/entities/Lisa Ord\u00f3\u00f1ez.md"
       ],
       "pages_updated": [
         "wiki/index.md",
@@ -694,7 +694,7 @@
         "wiki/concepts/Work Design (Concept).md",
         "wiki/concepts/Work Design Questionnaire.md",
         "wiki/concepts/Sociotechnical Systems Theory.md",
-        "wiki/concepts/Job Demands–Control–Support Model.md",
+        "wiki/concepts/Job Demands\u2013Control\u2013Support Model.md",
         "wiki/concepts/Interdisciplinary Model of Job Design.md",
         "wiki/entities/Frederick Morgeson.md",
         "wiki/entities/Michael Campion.md"
@@ -737,7 +737,7 @@
         "wiki/concepts/Personality Dynamics (TAT).md",
         "wiki/concepts/Situation Strength.md",
         "wiki/concepts/Five-Factor Model.md",
-        "wiki/concepts/Person–Environment Fit.md",
+        "wiki/concepts/Person\u2013Environment Fit.md",
         "wiki/entities/Robert Tett.md"
       ],
       "pages_updated": [
@@ -746,7 +746,7 @@
         "wiki/log.md"
       ]
     },
-    ".raw/Shuffler et al. - 2011 - There’s a Science for That Team Development Inter.pdf": {
+    ".raw/Shuffler et al. - 2011 - There\u2019s a Science for That Team Development Inter.pdf": {
       "hash": "12381654c87b9454d73f8968e893425b",
       "ingested_at": "2026-06-01",
       "pages_created": [
@@ -840,7 +840,7 @@
         "wiki/log.md"
       ]
     },
-    ".raw/Jebb et al. - 2021 - A Review of Key Likert Scale Development Advances 1995–2019.pdf": {
+    ".raw/Jebb et al. - 2021 - A Review of Key Likert Scale Development Advances 1995\u20132019.pdf": {
       "hash": "593b848993d6dc055ff3b9ee4d610f64",
       "ingested_at": "2026-06-01",
       "pages_created": [
@@ -1272,10 +1272,10 @@
       "pages_created": [
         "wiki/sources/basson-et-al-2022-oa-dimensions-wos.md",
         "wiki/entities/Isabel Basson.md",
-        "wiki/entities/Marc-André Simard.md",
-        "wiki/entities/Zoé Aubierge Ouangré.md",
+        "wiki/entities/Marc-Andr\u00e9 Simard.md",
+        "wiki/entities/Zo\u00e9 Aubierge Ouangr\u00e9.md",
         "wiki/entities/Cassidy R. Sugimoto.md",
-        "wiki/entities/Vincent Larivière.md",
+        "wiki/entities/Vincent Larivi\u00e8re.md",
         "wiki/entities/Dimensions.md",
         "wiki/entities/Web of Science.md",
         "wiki/entities/Unpaywall.md",
@@ -1320,8 +1320,8 @@
         "wiki/concepts/Philosophy of Science Parameters.md",
         "wiki/concepts/Positivism.md",
         "wiki/concepts/Postpositivism.md",
-        "wiki/concepts/Constructivism–Interpretivism.md",
-        "wiki/concepts/Critical–Ideological Paradigm.md",
+        "wiki/concepts/Constructivism\u2013Interpretivism.md",
+        "wiki/concepts/Critical\u2013Ideological Paradigm.md",
         "wiki/concepts/Idiographic vs Nomothetic.md",
         "wiki/concepts/Etic vs Emic.md",
         "wiki/concepts/Bricoleur.md",
@@ -1438,7 +1438,7 @@
         "wiki/mocs/Teams & Org Behavior MOC.md",
         "wiki/concepts/Job Characteristics Model.md",
         "wiki/concepts/Work Design (Concept).md",
-        "wiki/concepts/Job Demands–Control–Support Model.md",
+        "wiki/concepts/Job Demands\u2013Control\u2013Support Model.md",
         "wiki/entities/Frederick Morgeson.md"
       ]
     },
@@ -1460,7 +1460,7 @@
         "wiki/mocs/Teams & Org Behavior MOC.md",
         "wiki/concepts/Job Characteristics Model.md",
         "wiki/concepts/Work Design (Concept).md",
-        "wiki/concepts/Job Demands–Control–Support Model.md",
+        "wiki/concepts/Job Demands\u2013Control\u2013Support Model.md",
         "wiki/entities/Frederick Morgeson.md"
       ]
     },
@@ -1608,7 +1608,7 @@
         "wiki/log.md"
       ]
     },
-    ".raw/Lefkowitz - 2008 - To prosper, organizational psychology should… expand the values of organizational psychology to matc.md": {
+    ".raw/Lefkowitz - 2008 - To prosper, organizational psychology should\u2026 expand the values of organizational psychology to matc.md": {
       "hash": "923391b98ae15f7daa4b5d43b908c0f6",
       "ingested_at": "2026-06-29",
       "pages_created": [
@@ -1751,7 +1751,7 @@
       "ingested_at": "2026-07-03",
       "pages_created": [
         "wiki/sources/mathieu-et-al-2017-century-work-teams.md",
-        "wiki/concepts/IPO–IMOI Framework.md",
+        "wiki/concepts/IPO\u2013IMOI Framework.md",
         "wiki/concepts/Team Effectiveness Criteria.md",
         "wiki/entities/John E. Mathieu.md",
         "wiki/entities/John R. Hollenbeck.md",
@@ -2053,7 +2053,7 @@
         "wiki/entities/Stewart I. Donaldson.md",
         "wiki/entities/Lindsay A. Noakes.md",
         "wiki/entities/Carl D. Westine.md",
-        "wiki/entities/Daniela C. Schröter.md"
+        "wiki/entities/Daniela C. Schr\u00f6ter.md"
       ],
       "pages_updated": [
         "wiki/index.md",
@@ -2340,7 +2340,7 @@
         "wiki/log.md"
       ]
     },
-    ".raw/Revelle and Condon - 2019 - Reliability from α to ω A tutorial..md": {
+    ".raw/Revelle and Condon - 2019 - Reliability from \u03b1 to \u03c9 A tutorial..md": {
       "hash": "bffc0d1ca9e0717aa1da0b8e1a3c4418",
       "ingested_at": "2026-07-07",
       "pages_created": [
@@ -2392,7 +2392,7 @@
         "wiki/hot.md"
       ]
     },
-    ".raw/Thompson and Bunderson - 2019 - Research on Work as a Calling…and How to Make It Matter.md": {
+    ".raw/Thompson and Bunderson - 2019 - Research on Work as a Calling\u2026and How to Make It Matter.md": {
       "hash": "cc8f46555a47e03882a6c8640f87b850",
       "ingested_at": "2026-07-07",
       "pages_created": [
@@ -2431,7 +2431,7 @@
         "wiki/log.md"
       ]
     },
-    ".raw/Kossek et al. - 2017 - “Opting Out” or “Pushed Out” Integrating Perspectives on Women’s Career Equality for Gender Inclusi.md": {
+    ".raw/Kossek et al. - 2017 - \u201cOpting Out\u201d or \u201cPushed Out\u201d Integrating Perspectives on Women\u2019s Career Equality for Gender Inclusi.md": {
       "hash": "445e8dfb7bb0364e6a2acfcfd35a3173",
       "ingested_at": "2026-07-07",
       "pages_created": [
@@ -2461,16 +2461,16 @@
         "wiki/concepts/Work-Family Balance.md"
       ]
     },
-    ".raw/Shockley et al. - 2017 - Disentangling the relationship between gender and work–family conflict An integration of theoretica.md": {
+    ".raw/Shockley et al. - 2017 - Disentangling the relationship between gender and work\u2013family conflict An integration of theoretica.md": {
       "hash": "0db507d125c3426751c476a85ac142ab",
       "ingested_at": "2026-07-07",
       "pages_created": [
         "wiki/sources/shockley-et-al-2017-gender-work-family-conflict.md",
         "wiki/entities/Kristen M. Shockley.md",
         "wiki/entities/Winny Shen.md",
-        "wiki/concepts/Work–Family Conflict.md",
-        "wiki/concepts/Gender Similarity in Work–Family Conflict.md",
-        "wiki/concepts/Rational View (Work–Family).md",
+        "wiki/concepts/Work\u2013Family Conflict.md",
+        "wiki/concepts/Gender Similarity in Work\u2013Family Conflict.md",
+        "wiki/concepts/Rational View (Work\u2013Family).md",
         "wiki/concepts/Sensitization Perspective (Gender Role View).md",
         "wiki/concepts/Asymmetrical Domain Permeability Model.md",
         "wiki/concepts/Time-, Strain-, and Behavior-Based Conflict.md"
@@ -2552,7 +2552,7 @@
         "wiki/concepts/Criterion Problem.md"
       ]
     },
-    ".raw/Pichler - 2012 - The social context of performance appraisal and appraisal reactions A meta‐analysis..md": {
+    ".raw/Pichler - 2012 - The social context of performance appraisal and appraisal reactions A meta\u2010analysis..md": {
       "hash": "17268b87e9ca4a525fd1a5d22884b2f5",
       "ingested_at": "2026-07-07",
       "pages_created": [
@@ -2597,7 +2597,7 @@
       "hash": "dc5a801b0fef855fda2c2b21e8d86577",
       "ingested_at": "2026-07-11"
     },
-    ".raw/Uggerslev et al. - 2012 - Recruiting Through the Stages A Meta‐Analytic Test of Predictors of Applicant Attraction at Differe.md": {
+    ".raw/Uggerslev et al. - 2012 - Recruiting Through the Stages A Meta\u2010Analytic Test of Predictors of Applicant Attraction at Differe.md": {
       "pages_created": [
         "wiki/sources/uggerslev-et-al-2012-recruiting-through-stages.md",
         "wiki/entities/Krista Uggerslev.md",
@@ -2611,7 +2611,7 @@
         "wiki/mocs/Recruitment MOC.md"
       ],
       "pages_updated": [
-        "wiki/concepts/Person–Environment Fit.md",
+        "wiki/concepts/Person\u2013Environment Fit.md",
         "wiki/mocs/Home MOC.md",
         "wiki/index.md"
       ],
@@ -2630,6 +2630,102 @@
       "pages_updated": [],
       "hash": "82bad8a9fddcdd07217e2d4536df63d4",
       "ingested_at": "2026-07-11"
+    },
+    ".raw/Kozlowski and Klein - 2000 - A multilevel approach to theory and research in organizations contextual, temporal, and emergent pr.md": {
+      "hash": "e60288327f140313b7681c5687c6b434",
+      "ingested_at": "2026-07-11",
+      "pages_created": [
+        "wiki/sources/kozlowski-klein-2000-multilevel-approach.md",
+        "wiki/sources/klein-kozlowski-2000-micro-to-meso.md",
+        "wiki/sources/chan-1998-composition-models-typology.md",
+        "wiki/entities/Steve W. J. Kozlowski.md",
+        "wiki/entities/Katherine J. Klein.md",
+        "wiki/entities/David Chan.md",
+        "wiki/concepts/Multilevel Theory in Organizations.md",
+        "wiki/concepts/Composition vs Compilation.md",
+        "wiki/concepts/Emergence (Organizational).md",
+        "wiki/concepts/Global, Shared, and Configural Unit Properties.md",
+        "wiki/concepts/Cross-Level Models.md",
+        "wiki/concepts/Bond Strength and Coupling.md",
+        "wiki/concepts/Entrainment.md",
+        "wiki/concepts/Levels of Analysis Fallacies.md",
+        "wiki/concepts/Aggregation Justification Indices.md",
+        "wiki/concepts/Chan's Typology of Composition Models.md",
+        "wiki/concepts/Referent-Shift Consensus.md",
+        "wiki/concepts/Multilevel Research Design and Sampling.md",
+        "wiki/mocs/Multilevel Theory & Methods MOC.md"
+      ],
+      "pages_updated": [
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md",
+        "wiki/concepts/Collective Efficacy.md",
+        "wiki/mocs/Teams & Org Behavior MOC.md"
+      ]
+    },
+    ".raw/Klein and Kozlowski - 2000 - From Micro to Meso Critical Steps in Conceptualizing and Conducting Multilevel Research.md": {
+      "hash": "4ccf049d4d15ac940a92ad16f22b907e",
+      "ingested_at": "2026-07-11",
+      "pages_created": [
+        "wiki/sources/kozlowski-klein-2000-multilevel-approach.md",
+        "wiki/sources/klein-kozlowski-2000-micro-to-meso.md",
+        "wiki/sources/chan-1998-composition-models-typology.md",
+        "wiki/entities/Steve W. J. Kozlowski.md",
+        "wiki/entities/Katherine J. Klein.md",
+        "wiki/entities/David Chan.md",
+        "wiki/concepts/Multilevel Theory in Organizations.md",
+        "wiki/concepts/Composition vs Compilation.md",
+        "wiki/concepts/Emergence (Organizational).md",
+        "wiki/concepts/Global, Shared, and Configural Unit Properties.md",
+        "wiki/concepts/Cross-Level Models.md",
+        "wiki/concepts/Bond Strength and Coupling.md",
+        "wiki/concepts/Entrainment.md",
+        "wiki/concepts/Levels of Analysis Fallacies.md",
+        "wiki/concepts/Aggregation Justification Indices.md",
+        "wiki/concepts/Chan's Typology of Composition Models.md",
+        "wiki/concepts/Referent-Shift Consensus.md",
+        "wiki/concepts/Multilevel Research Design and Sampling.md",
+        "wiki/mocs/Multilevel Theory & Methods MOC.md"
+      ],
+      "pages_updated": [
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md",
+        "wiki/concepts/Collective Efficacy.md",
+        "wiki/mocs/Teams & Org Behavior MOC.md"
+      ]
+    },
+    ".raw/Chan - 1998 - Functional relations among constructs in the same content domain at different levels of analysis A.md": {
+      "hash": "deebdd05af7e955083a127b88533b968",
+      "ingested_at": "2026-07-11",
+      "pages_created": [
+        "wiki/sources/kozlowski-klein-2000-multilevel-approach.md",
+        "wiki/sources/klein-kozlowski-2000-micro-to-meso.md",
+        "wiki/sources/chan-1998-composition-models-typology.md",
+        "wiki/entities/Steve W. J. Kozlowski.md",
+        "wiki/entities/Katherine J. Klein.md",
+        "wiki/entities/David Chan.md",
+        "wiki/concepts/Multilevel Theory in Organizations.md",
+        "wiki/concepts/Composition vs Compilation.md",
+        "wiki/concepts/Emergence (Organizational).md",
+        "wiki/concepts/Global, Shared, and Configural Unit Properties.md",
+        "wiki/concepts/Cross-Level Models.md",
+        "wiki/concepts/Bond Strength and Coupling.md",
+        "wiki/concepts/Entrainment.md",
+        "wiki/concepts/Levels of Analysis Fallacies.md",
+        "wiki/concepts/Aggregation Justification Indices.md",
+        "wiki/concepts/Chan's Typology of Composition Models.md",
+        "wiki/concepts/Referent-Shift Consensus.md",
+        "wiki/concepts/Multilevel Research Design and Sampling.md",
+        "wiki/mocs/Multilevel Theory & Methods MOC.md"
+      ],
+      "pages_updated": [
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md",
+        "wiki/concepts/Collective Efficacy.md",
+        "wiki/mocs/Teams & Org Behavior MOC.md"
+      ]
     }
   },
   "address_map": {
@@ -2668,7 +2764,7 @@
     "wiki/entities/Etienne LeBel.md": "c-000034",
     "wiki/entities/Jens Lehmann.md": "c-000035",
     "wiki/entities/Christian Bizer.md": "c-000036",
-    "wiki/entities/Marcus Munafò.md": "c-000037",
+    "wiki/entities/Marcus Munaf\u00f2.md": "c-000037",
     "wiki/entities/John Ioannidis.md": "c-000038",
     "wiki/entities/Center for Open Science.md": "c-000039",
     "wiki/entities/Open Science Collaboration.md": "c-000040",
@@ -2743,7 +2839,7 @@
     "wiki/concepts/Training vs Test Error.md": "c-000156",
     "wiki/concepts/Procedural Overfitting.md": "c-000157",
     "wiki/sources/albarracin-2024-determinants-behaviour-change.md": "c-000158",
-    "wiki/entities/Dolores Albarracín.md": "c-000159",
+    "wiki/entities/Dolores Albarrac\u00edn.md": "c-000159",
     "wiki/concepts/Behaviour Change Determinants.md": "c-000160",
     "wiki/concepts/Descriptive Norms.md": "c-000161",
     "wiki/concepts/Injunctive Norms.md": "c-000162",
@@ -2787,7 +2883,7 @@
     "wiki/concepts/Dynamic Decision Making.md": "c-000200",
     "wiki/concepts/Electronic Brainstorming.md": "c-000201",
     "wiki/entities/Terry Connolly.md": "c-000202",
-    "wiki/entities/Lisa Ordóñez.md": "c-000203",
+    "wiki/entities/Lisa Ord\u00f3\u00f1ez.md": "c-000203",
     "wiki/concepts/Framing Effects.md": "c-000204",
     "wiki/concepts/Appraisal-Tendency Framework.md": "c-000205",
     "wiki/concepts/Signal Detection Theory (Decision).md": "c-000206",
@@ -2861,7 +2957,7 @@
     "wiki/entities/Frederick Morgeson.md": "c-000301",
     "wiki/entities/Michael Campion.md": "c-000303",
     "wiki/concepts/Sociotechnical Systems Theory.md": "c-000304",
-    "wiki/concepts/Job Demands–Control–Support Model.md": "c-000305",
+    "wiki/concepts/Job Demands\u2013Control\u2013Support Model.md": "c-000305",
     "wiki/concepts/Interdisciplinary Model of Job Design.md": "c-000306",
     "wiki/sources/schmidt-beck-gillespie-2012-motivation.md": "c-000307",
     "wiki/concepts/Control Theory (Self-Regulation).md": "c-000308",
@@ -3009,7 +3105,7 @@
     "wiki/concepts/Leadership Training (Teams).md": "c-000464",
     "wiki/concepts/Miles and Snow Strategic Typology.md": "c-000465",
     "wiki/concepts/Personality Dynamics (TAT).md": "c-000466",
-    "wiki/concepts/Person–Environment Fit.md": "c-000467",
+    "wiki/concepts/Person\u2013Environment Fit.md": "c-000467",
     "wiki/concepts/Psychological Safety.md": "c-000468",
     "wiki/concepts/Situation Strength.md": "c-000469",
     "wiki/concepts/Situational Cue Types (TAT).md": "c-000470",
@@ -3091,7 +3187,7 @@
     "wiki/entities/Shmuel Ellis.md": "c-000546",
     "wiki/entities/Inbar Davidi.md": "c-000547",
     "wiki/entities/Winston Bennett Jr..md": "c-000548",
-    "wiki/entities/Michèle Nuijten.md": "c-000549",
+    "wiki/entities/Mich\u00e8le Nuijten.md": "c-000549",
     "wiki/entities/Bita Fayaz-Farkhad.md": "c-000550",
     "wiki/entities/Javier A. Granados Samayoa.md": "c-000551",
     "wiki/entities/Andrea Hollingshead.md": "c-000552",
@@ -3163,10 +3259,10 @@
     "wiki/entities/Viswanath Venkatesh.md": "c-000613",
     "wiki/sources/basson-et-al-2022-oa-dimensions-wos.md": "c-000631",
     "wiki/entities/Isabel Basson.md": "c-000632",
-    "wiki/entities/Marc-André Simard.md": "c-000633",
-    "wiki/entities/Zoé Aubierge Ouangré.md": "c-000634",
+    "wiki/entities/Marc-Andr\u00e9 Simard.md": "c-000633",
+    "wiki/entities/Zo\u00e9 Aubierge Ouangr\u00e9.md": "c-000634",
     "wiki/entities/Cassidy R. Sugimoto.md": "c-000635",
-    "wiki/entities/Vincent Larivière.md": "c-000636",
+    "wiki/entities/Vincent Larivi\u00e8re.md": "c-000636",
     "wiki/entities/Dimensions.md": "c-000637",
     "wiki/entities/Web of Science.md": "c-000638",
     "wiki/entities/Unpaywall.md": "c-000639",
@@ -3183,8 +3279,8 @@
     "wiki/concepts/Philosophy of Science Parameters.md": "c-000650",
     "wiki/concepts/Positivism.md": "c-000651",
     "wiki/concepts/Postpositivism.md": "c-000652",
-    "wiki/concepts/Constructivism–Interpretivism.md": "c-000653",
-    "wiki/concepts/Critical–Ideological Paradigm.md": "c-000654",
+    "wiki/concepts/Constructivism\u2013Interpretivism.md": "c-000653",
+    "wiki/concepts/Critical\u2013Ideological Paradigm.md": "c-000654",
     "wiki/concepts/Idiographic vs Nomothetic.md": "c-000655",
     "wiki/concepts/Etic vs Emic.md": "c-000656",
     "wiki/concepts/Bricoleur.md": "c-000657",
@@ -3332,7 +3428,7 @@
     "wiki/concepts/Team Diagnostic Survey.md": "c-000802",
     "wiki/concepts/Enabling Conditions for Team Effectiveness.md": "c-000803",
     "wiki/concepts/Team Effectiveness Criteria.md": "c-000804",
-    "wiki/concepts/IPO–IMOI Framework.md": "c-000805",
+    "wiki/concepts/IPO\u2013IMOI Framework.md": "c-000805",
     "wiki/entities/John E. Mathieu.md": "c-000806",
     "wiki/entities/John R. Hollenbeck.md": "c-000807",
     "wiki/entities/Daan van Knippenberg.md": "c-000808",
@@ -3422,7 +3518,7 @@
     "wiki/entities/Stewart I. Donaldson.md": "c-000903",
     "wiki/entities/Lindsay A. Noakes.md": "c-000904",
     "wiki/entities/Carl D. Westine.md": "c-000905",
-    "wiki/entities/Daniela C. Schröter.md": "c-000906",
+    "wiki/entities/Daniela C. Schr\u00f6ter.md": "c-000906",
     "wiki/sources/fulmer-li-2022-compensation-benefits-total-rewards.md": "c-000907",
     "wiki/concepts/Total Rewards.md": "c-000908",
     "wiki/concepts/Employee Benefits.md": "c-000909",
@@ -3558,9 +3654,9 @@
     "wiki/concepts/Flexibility Stigma.md": "c-001041",
     "wiki/concepts/Motherhood Wage Penalty.md": "c-001042",
     "wiki/concepts/Vertical and Horizontal Gender Segregation.md": "c-001043",
-    "wiki/concepts/Work–Family Conflict.md": "c-001044",
-    "wiki/concepts/Gender Similarity in Work–Family Conflict.md": "c-001045",
-    "wiki/concepts/Rational View (Work–Family).md": "c-001046",
+    "wiki/concepts/Work\u2013Family Conflict.md": "c-001044",
+    "wiki/concepts/Gender Similarity in Work\u2013Family Conflict.md": "c-001045",
+    "wiki/concepts/Rational View (Work\u2013Family).md": "c-001046",
     "wiki/concepts/Sensitization Perspective (Gender Role View).md": "c-001047",
     "wiki/concepts/Asymmetrical Domain Permeability Model.md": "c-001048",
     "wiki/concepts/Time-, Strain-, and Behavior-Based Conflict.md": "c-001049",
@@ -3616,7 +3712,26 @@
     "wiki/concepts/Realistic Job Preview.md": "c-001100",
     "wiki/concepts/Employee Referrals.md": "c-001101",
     "wiki/concepts/Recruitment Message.md": "c-001102",
-    "wiki/concepts/Recruitment Methods.md": "c-001103"
+    "wiki/concepts/Recruitment Methods.md": "c-001103",
+    "wiki/sources/kozlowski-klein-2000-multilevel-approach.md": "c-001104",
+    "wiki/sources/klein-kozlowski-2000-micro-to-meso.md": "c-001105",
+    "wiki/sources/chan-1998-composition-models-typology.md": "c-001106",
+    "wiki/entities/Steve W. J. Kozlowski.md": "c-001107",
+    "wiki/entities/Katherine J. Klein.md": "c-001108",
+    "wiki/entities/David Chan.md": "c-001109",
+    "wiki/concepts/Multilevel Theory in Organizations.md": "c-001110",
+    "wiki/concepts/Composition vs Compilation.md": "c-001111",
+    "wiki/concepts/Emergence (Organizational).md": "c-001112",
+    "wiki/concepts/Global, Shared, and Configural Unit Properties.md": "c-001113",
+    "wiki/concepts/Cross-Level Models.md": "c-001114",
+    "wiki/concepts/Bond Strength and Coupling.md": "c-001115",
+    "wiki/concepts/Entrainment.md": "c-001116",
+    "wiki/concepts/Levels of Analysis Fallacies.md": "c-001117",
+    "wiki/concepts/Aggregation Justification Indices.md": "c-001118",
+    "wiki/concepts/Chan's Typology of Composition Models.md": "c-001119",
+    "wiki/concepts/Referent-Shift Consensus.md": "c-001120",
+    "wiki/concepts/Multilevel Research Design and Sampling.md": "c-001121",
+    "wiki/mocs/Multilevel Theory & Methods MOC.md": "c-001122"
   },
   ".raw/Pearsall et al. - 2025 - A stimulus-based model of the team adaptation process An integrated conceptual review..pdf": {
     "hash": "62f683006d3323a67c67fc23621f632a",

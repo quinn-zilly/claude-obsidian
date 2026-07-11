@@ -1,0 +1,1351 @@
+## Page 1
+
+OKRleGinA, KNoIzZlAoTwIsOkiN /A MLU RLETSILEEAVRECLH R MEESTEHAORDCHS
+
+From Micro to Meso: Critical
+
+Steps in Conceptualizing and
+
+Conducting Multilevel Research
+
+KATHERINE J. KLEIN
+
+University of Maryland
+
+STEVE W. J. KOZLOWSKI
+
+Michigan State University
+
+Althoughinterestinmultilevelorganizationaltheory,research,andmethodshas
+
+beenontheriseinrecentyears,vigorousdebatesintheliteratureregardingappro-
+
+priatewaystoconceptualizeandmeasuremultilevelconstructs,justifyaggrega-
+
+tion,andanalyzemultilevelmodelshavecontributedtoconfusion.Newinvestiga-
+
+torsinterestedintestingmultileveltheoryareintrigued,butwary.Thegoalofthis
+
+articleistocutthroughtheconfusion,identifyingthecriticalchoicesandissuesa
+
+researchermayconfrontasheorsheshiftsfromasingleleveltoamultilevelper-
+
+spective.Theauthorsaddressfourprimarychoices—constructandmeasurement
+
+issues,modelspecification,researchdesignandsampling,anddataanalyses—
+
+describing critical steps in conceptualizing and conducting multilevel research.
+
+Asmultileveltheoreticalmodelsandanalyticalsystemsgainincreasingprominencein
+
+-theorganizationalliterature,manymicro-organizationalscholarsmaybecontemplat
+
+ingashiftfrompurelymicro-individual-levelresearchtomeso-ormultilevelresearch
+
+(House,Rousseau,&Thomas-Hunt,1995).Weregardsuchashiftaslaudable,indeed,
+
+essential;multilevelresearchis—atitsbest—complex,rigorous,andabletocapture
+
+muchofthenestedcomplexityofrealorganizationallife.Andyet,werecognizethata
+
+shiftfromsingle-leveltomultilevelresearchmaybedaunting.Theliterature,withits
+
+-manydebatesregardingtheappropriatewaytoconceptualizemultilevelmodels,jus
+
+Authors’Note:MaterialforthisessayhasbeeninformedbychaptersappearinginK.J.Klein&S.W.J.
+
+Multileveltheory,researchandmethodsinorganizations:Foundations,exten-Kozlowski(Eds.)(2000),
+
+sions,andnewdirections-publishedbyJossey-Bass.Inparticular,issuesrelatingtoconstructconceptualiza
+
+tion,measurement,andsamplingarebasedonKozlowskiandKlein(2000),andissuesrelatingto
+
+aggregationandmultilevelanalysesarebasedonKleinetal.(2000).Moredetaileddiscussionsoftheissues
+
+addressed in this article can be found in the book and its chapters.
+
+Wethankthethreeanonymousreviewersfortheircommentsandsuggestions.Wearealsogratefulto
+
+LarryWilliams,PaulBliese,FredDansereau,MarkGavin,MarkGriffin,DavidHofmann,LarryJames,and
+
+FranYammarino.Ourconversationswithallofthesepeoplehavegreatlyenhancedourunderstandingof
+
+multilevel research and data analysis.
+
+Organizational Research Methods, Vol. 3 No. 3, July 2000211-236
+
+© 2000 Sage Publications, Inc.
+
+## Page 2
+
+212 ORGANIZATIONAL RESEARCH METHODS
+tifyaggregation,andevaluatemultilevelmodels,mayengendermoreconfusionthan
+clarity(Kozlowski&Klein,2000).Wehopetocutthroughtheconfusion,providing
+guidance with respect to theory, research methods, and analyses.
+Our goal in this essay is to facilitate the transition from single-level to multi-
+ple-levelresearchbyclarifyingthechoicesaresearcherfacesontheroadfrommicro-
+tomeso–theorytesting.Wedonotattempttocovereverymultilevelissue,model,type
+ofconstruct,oranalysis.Rather,wefocusonfundamentalmultileveltheoreticalcon-
+cerns and the alignment of these theoretical concerns with construct measurement,
+research design, and data analysis. More specifically, we focus on four key choices:
+1. Constructandmeasurementchoices:Whatisthenatureofeachhigherlevelconstruct
+and how should each construct be operationalized?
+2. Modelchoices:Whatkindofmodeldescribesthepredictedrelationshipsamongthe
+constructs?
+3. Samplingchoices:Whatkindofsampleisnecessarytooperationalizekeyconstructs
+and to test the predicted relationships?
+4. Analysischoices:Whatanalyticalproceduresmaybeusedtotestthepredictedrela-
+tionships?
+Illustrative Example
+Toillustratethenatureandimportanceofthesechoices,wehavecreatedahypo-
+theticalresearcher,Dr.Faust,whoseekstodevelopamultilevelconceptualizationof
+his heretofore single-level, micro ideas. We will examine Dr. Faust’s “research”
+throughout the essay, referring repeatedly to the challenges and choices that Faust
+facesinshiftingfromasingle-levelconceptualizationoftheantecedentsofindividual
+performance to a multilevel conceptualization of the antecedents of individual and
+teamperformance.Wehopethatouruseofthisexampleprovidesthisarticlewitha
+unifying and practical focus. Our illustration focuses on individuals as lower level
+units and teams as higher level units to simplify the presentation. The issues we
+address,however,areapplicabletotheconceptualizationandstudyofanyhumansys-
+tem composed of hierarchically nested levels.
+A Few Specifics
+Before addressing these issues, we provide additional background about Dr.
+Faust’sresearchchallenge.Fausthaslongbeeninterestedintheextenttowhichan
+individual’s performance is predicted by his or her (a) self-efficacy, (b) non–work
+responsibilities(e.g.,childcare,eldercare),and(c)perceptionsthathisorhersupervi-
+sorisacharismaticleader.FaustrecentlyaskedthepresidentoftheAcmeCompanyto
+allow him to distribute surveys measuring these variables to Acme employees. In
+return,FaustpromisedtoprovideAcmewithafeedbackreportsummarizinghisfind-
+ings.Acme’spresidentagreedtoallowFausttodistributethesurveystoAcme’s1,000
+employeesbuttoldFaustthatAcmehas,inrecentyears,institutedapproximately100
+proximal(face-to-face)anddistributed(virtual)teams.Acme’spresidentthushopes
+thatFaust’sresearchwillshedlightontheinfluenceofteamcharacteristicsonboth
+individual and team performance.
+AsFaustshiftsfromasingle-levelconceptualizationoftheantecedentsofindivid-
+ualperformancetocross-levelandmultilevelconceptualizationsoftheantecedentsof
+
+## Page 3
+
+Klein, Kozlowski / MULTILEVEL RESEARCH 213
+individualandteamperformance,hewillhavetoalternumerousfacetsofhisresearch,
+includingtheunderlyingtheoreticalmodelguidingtheresearch.Faust’sjourneythus
+illustrateskeyphasesofmultileveltheory-buildingandtheory-testing.Webeginour
+examination with the most basic question of all: Why is this journey necessary?
+The Relationship of Individual-Level
+Findings to Higher Level Findings
+Toilluminatethedeterminantsofteamperformance,shouldFaustsimplyconduct
+hisindividual-levelresearchasplanned,analyzetheresults,andgeneralizethemtothe
+teamlevelofanalysis?Theanswerisno.Toblindlygeneralizefindingsacrosslevels
+ofanalysisistocommitafallacy.Findingsatonelevelofanalysisdonotgeneralize
+neatly and exactly to other levels of analysis, except under very restrictive circum-
+stances (Firebaugh, 1979). When macro researchers attempt to generalize findings
+fromaggregateddatabacktothelowerlevelatwhichitwascollected,theycommitthe
+well-known ecological fallacy. For example, school researchers may discover that
+aggregatestudentabilityishighlyrelatedtostudentachievementattheschoollevel.
+Thisfindingmaynot,however,generalizetothelevelofindividualstudents.Ecologi-
+calcorrelationsbasedonaggregatedataaregenerallyinflatedestimatesoflowerlevel
+relationships(Robinson,1950;Thorndike,1939).Similarly,whenmicroresearchers
+attempttogeneralizefindingsfromindividual-levelstudiestohigherlevels,theycom-
+mit an atomistic fallacy. Just because the relation holds at the lower level does not
+meanitwillalsoholdathigherlevels.Relationshipsthatholdatonelevelofanalysis
+maybestrongerorweakeratadifferentlevelofanalysis,ormayevenreversedirection
+(Ostroff, 1993).
+Suppose,forexample,thatinhispriorresearchFaustfindsthatindividualswho
+reportthattheirsupervisorsarehighincharismaperformbetterthanindividualswho
+reportthattheirsupervisorsarelowincharisma.Althoughthisindividual-levelrela-
+tionshipbetweenperceptionsofcharismaandperformancemayholdwithinteams,it
+isentirelypossiblethattheteam-levelrelationshipofcharismaticleadershipandper-
+formance is neutral and nonsignificant. Perhaps subordinates’ perceptions of their
+leaders vary within teams but not between teams; team-level leader charisma may
+showlittlevariabilityandhencefailtopredictteamperformance.Or,theteam-level
+relationship of charisma and performance may be negative. Perhaps highly charis-
+maticteamleadersarecommonlyassignedtolow-performingteamsinthehopesof
+enhancing team performance.
+Should Faust then collect his individual-level data as planned and then simply
+aggregate the data to the team level, conducting team-level analyses of the data?
+Althoughsomeinvestigatorsdojustthis,werecommendagainstthispracticebecause
+themeaningofmeasuresaggregatedinthiswaymaybequestionable.Intheabsenceof
+careful theoretical work and subsequent statistical analyses designed to ensure the
+meaningfulnessoftheaggregatedmeasures,Faust’steam-levelfindingsarelikelyto
+behighlymisleading(James,1982).ConsiderjusttwoofFaust’svariables.Faust’s
+measures of charismatic leadership may, as we have suggested, vary considerably
+withinteams,renderingthemeanofteammembers’perceptionsoftheirleaderambig-
+uousatbest.Ifso,theirconstructvalidityisquestionable.Ifhalfofthemembersofa
+teamdescribetheirteamleaderashighincharismawhereastheremainingmembersof
+theteamdescribetheteamleaderaslowincharisma,theaverageoftheteammembers’
+
+## Page 4
+
+214 ORGANIZATIONAL RESEARCH METHODS
+ratings of the leader describes none of the team members’ views. Furthermore, the
+averageofteammembers’individualperformanceratingsmaynotconstituteaneffec-
+tivemeasureofteamperformance;teammembersmayperformwellasindividuals,
+butneverthelessfunctionpoorlyasaunitedteam.Anorchestranicelyillustratesthis
+possibility;themembersoftheorchestramayallbeskilledmusicians,buttheymay
+nevertheless sound terrible when they play together (Weick, 1998).
+To explore the effects of team characteristics on individual performance, should
+Faustsimplyconductindividual-levelanalyses,afterfirstcollectingindividual-level
+measuresofthepredictors(e.g.,leadercharisma),aggregatingthesemeasurestothe
+teamlevel,andthenassigningtheaggregated(average)scoresbacktoindividualteam
+members such that the predictors are identical for the members of each team? As
+above,theanswerisno.Theissuesofconstructvalidityjustdiscussedapplyhereas
+well.Ateam-levelmeasureofcharismaticleadershipthatlacksconstructvalidityisno
+moremeaningfulasapredictorofindividualperformancethanitisasapredictorof
+team performance. Furthermore, cross-level analyses in which, for example, team
+characteristicsareusedtopredictindividual-leveloutcomesraisecomplextheoretical
+andstatisticalissuesresultingfromthenonindependenceofobservations.(Wediscuss
+theseissuesinmoredetailbelow.)Cross-levelanalysesmaybequiteusefulforFaust
+andforAcme,butanunderstandingofthetheoreticalandstatisticalissuesarisingin
+such analyses is essential for a valid interpretation of cross-level results.
+Inmakingashiftfrommicrotomesoresearch,then,aresearchershouldstepback
+toassesstherelevanceofhisorherconstructstohigher—moremacro—levelsofanal-
+ysis. The researcher must then fashion a multilevel theoretical model depicting the
+hypothesizedrelationshipsamonghisorherconstructs.Suchtheoreticalworkpaves
+thewayfordatacollectionandanalyses.Thesestepsareexaminedinthefollowing
+sections.NotethatmostofthevariablesofinteresttoFaustaremeaningful,atleastthe-
+oretically,attheteamlevelofanalysis.Thus,inshiftingtoencompasstheteamlevel,
+Faustneednotalterhisresearchfocussubstantially.Inreallife,ourexampleisproba-
+blymoretheexceptionthantherule.WechosethevariablesofinteresttoFaustpre-
+cisely because most were potentially relevant to the team-level of analysis.
+Construct and Measurement Choices: What Is
+the Nature of Each Team Construct and How
+Should Each Construct Be Operationalized?
+Faust’schallengeistoprovideAcmewithinformationaboutteamprocessesand
+teamperformance.Faust’sindividual-levelconstructs,measures,andresultsarevery
+unlikelytoilluminateteamprocessesandteamperformance.Team-levelanaloguesof
+theindividual-levelconstructsofhisoriginalmodelmay,however,doso.Certainly
+existingtheorysuggeststhatteamleadershipandteamefficacymayaffectteamper-
+formance.Rigorousmultilevelresearchrestsnotonsuchsimpleassertions,however,
+butonthecarefuldefinition,justification,andexplicationofthelevelofeachfocal
+constructinthemodel.Intheabsenceofsuchprecisionandcare,researchersmaydis-
+agreeaboutthenature,operationalization,andpredictedeffectsoftheconstruct(e.g.,
+George,1990;George&James,1993;Yammarino&Markham,1992).Tohelppre-
+ventthecontroversiesandconfusionthatoftensurroundthedefinition,meaning,and
+operationalizationofteam-levelconstructs,wedistinguishthreebasictypesofteam-
+or higher level constructs: (a) global properties, (b) shared properties, and (c)
+
+## Page 5
+
+Klein, Kozlowski / MULTILEVEL RESEARCH 215
+configural properties. Below, we define and discuss the measurement of the three
+types.
+Global Team Properties
+Globalpropertiesarerelativelyobjective,descriptive,andeasilyobservableteam
+characteristics.Globalproperties,suchasteamfunction,characterizetheteamasa
+whole.Unlikesharedandconfiguralteamproperties,globalteampropertiesdonot
+originate in or emerge from the characteristics of individual team members. Thus,
+globalteampropertieshavestandingapartfrommembercharacteristicsorsocialpsy-
+chologicalprocesses.Considerteamfunction,forexample.Evenifallthemembersof
+acompany’scustomerserviceteamturnover,thefunctionoftheteamwithinthecom-
+panyislikelytoremainthesame.Incontrast,teamcohesion(asharedteamproperty,
+described below) might well change dramatically. Of Faust’s variables, only team
+location(thatis,whetherAcme’steamsareface-to-faceandproximalorvirtualand
+geographically distributed) is clearly a global characteristic of the team.
+Insofarasglobalpropertiesarerelativelyobjective,descriptive,andeasilyobserv-
+able,thereistypicallynoneedtocollectdatafromallofthemembersofateamto
+assess a global team property. Rather, a single expert individual is likely to be the
+appropriatesourceofdatameasuringaglobalconstruct.Acme’spresident,forexam-
+ple, might report the location of each team. Alternatively, each team leader might
+reporthisorherteam’slocation.Globalpropertiesaretypicallyfareasiertomeasure
+than are shared and configural properties.
+Shared Team Properties
+Properties of this type originate in experiences, attitudes, perceptions, values,
+cognitions,orbehaviorsthatareheldincommonbythemembersofateam.Examples
+ofsharedteampropertiesincludeteamcohesion,teamnorms,teamclimate,andteam
+mentalmodels.Inpostulatingthatagivenvariableisasharedteamproperty,theorists
+andresearchersideallyexplainhowandwhyteammemberscometosharethecon-
+structofinterest:Whatfactorsorprocessesconstrainvariabilityamongteammem-
+bers,renderingtheconstructasharedpropertyoftheteam?Commonexplanatorypro-
+cesses include homogeneous organizational context factors; attraction, selection,
+attrition;socialization;leadership;andsocialinteraction(James&Jones,1974;Klein,
+Dansereau,&Hall,1994;Kozlowski&Doherty,1989;Rentsch,1990;Schneider&
+Reichers, 1983).
+Of Faust’s variables, both leadership perceptions and efficacy might constitute
+sharedteamproperties.Areleadershipperceptionssharedamongthemembersofa
+team?Thisquestionstrikesattheheartofalong-runningdebatewithinleadershipthe-
+ory and research (e.g., Dansereau & Yammarino, 1998). Many leadership scholars
+suggest,implicitlyorexplicitly,thatteammembersarelikelytobeconsistent(homo-
+geneous)intheirperceptionsoftheleader.Aleader,thesescholarssuggest,islikelyto
+treathisorhersubordinatesinasimilarandconsistentfashion,causingsubordinatesto
+describe their leader in similar terms. Furthermore, interaction among team mem-
+bers—thatis,socialinformationprocessing—islikelytorenderteammembershomo-
+geneousintheirperceptionsoftheleader.Otherleadershipscholarscounterthatlead-
+ersarelikelytodifferentiateamongtheirsubordinates,treatingsomesubordinatesas
+
+## Page 6
+
+216 ORGANIZATIONAL RESEARCH METHODS
+in-group members and others as out-group members. This suggests that leadership
+perceptionsareunlikelytobesharedamongthemembersofateam;someteammem-
+bersmayperceivetheteamleadertobefarmoreconsiderateorcharismatic,forexam-
+ple,thanmayotherteammembers.Thisexampleunderscorestheimportanceofpre-
+cisetheoreticalspecificationandjustificationofthelevelandnatureofeachconstruct.
+Faustshouldtheorizehowandwhyteammembers’leadershipperceptionsareorare
+notsharedwithineachteam.Histheoreticalconclusionswillinformhissubsequent
+measurement, sampling, and analytical choices.
+Efficacy, another of Faust’s variables, might also be conceptualized as a shared
+teamproperty.However,teamefficacy(i.e.,teammembers’beliefintheefficacyof
+theteamasawhole)seemsfarmorelikelythanself-efficacy(individual’sbeliefin
+theirownindividualefficacy)tobesharedamongteammembers.Chan(1998)refers
+tothisdistinctionbetweenthesetypesofhigherlevelconstructsas“referentshiftcon-
+sensus”and“directconsensus,”respectively.Althoughindividualteammembersare
+likelytovaryintheirconfidenceintheirownindividualability(self-efficacy),they
+may,asaresultofteaminteractionsandsharedexperiences,agreeintheirperceptions
+oftheteam’sability(teamefficacy).Thisexampleillustratestheextenttowhichcon-
+structsmayshiftinmeaningasaresearchershiftslevelsofanalysis.Teamorcollective
+efficacy,asweandothershavedefinedit(e.g.,Bandura,1997;Kozlowski,Gully,Nason,
+&Smith,1999),isquitedifferentthanteammembers’averageself-efficacy.Recallthe
+example of the orchestra: Orchestra members may rate their individual musical
+self-efficacyhigh,butneverthelessratetheirteamefficacy—theirconfidenceinthe
+ability of the orchestra as a whole—quite low.
+Tomeasuresharedteamproperties,researchersgatherdatafromindividualteam
+members.Thisdatacollectionprocedureallowstheresearchertoassesstheextentto
+whichconstructsareindeedsharedaspredicted.Ifindividual-leveldatadorevealsub-
+stantialwithin-groupagreementorhomogeneity,individual-leveldataareaggregated
+totheteamlevelofanalysistorepresentthesharedteamconstruct.Intheabsenceof
+substantial within-group agreement, the data gathered to represent the shared team
+construct lack critical construct-level validity (James, 1982; Klein et al., 1994;
+Kozlowski & Hattrup, 1992). Existing theory and recent research suggest that the
+wording of survey items may influence the extent of within-group agreement and
+between-groupvariabilityinasurveymeasure(Klein,Conn,Smith,&Sorra,inpress),
+or the strength of the relationship between aggregated constructs (DeShon et al.,
+1999). More specifically, items with group rather than individual referents may
+increasethewithin-grouphomogeneityandbetween-groupvariabilitytypicallyexpected
+ofmeasuresofsharedteamconstructs.Thereis,however,considerableresearchdem-
+onstratinghighconsensusforitemswithindividualreferents.Moreover,theorymust
+be the driving force in dictating the wording of survey items.
+ThisbriefreviewsuggeststhatifFaustconceptualizesteamleadercharismaand
+teamefficacyassharedteamconstructs,heshouldmeasureindividualteammembers’
+perceptionsoftheirleader’scharismaandindividualteammembers’confidenceinthe
+team.Aftercollectingthesemeasures,Faustshouldassesstheextentofwithin-team
+agreementonthesemeasures.Ifjustified,Faustshouldthenaggregatethesemeasures
+totheteamlevelofanalysistorepresentthesharedteamconstructs.1Asisdiscussedin
+moredetailinalatersection,existinganalyticalproceduresproviderelatedbutdistinct
+ways and criteria to justify such aggregation.
+
+## Page 7
+
+Klein, Kozlowski / MULTILEVEL RESEARCH 217
+Configural Team Properties
+Like shared team properties, configural team properties originate in, or emerge
+from, individual team members’ experiences, attitudes, perceptions, values,
+cognitions,orbehaviors.Configuralteamproperties,however,capturethearray,pat-
+tern,orvariabilityofindividualcharacteristicswithinateam.Configuralteamproper-
+tieshavereceivedrelativelylittleattentionwithintheorganizationalliterature.Exam-
+ples include team interpersonal network density (Brass & Burkhardt, 1993), team
+personalitycomposition(Barry&Stewart,1997),andteamagediversity(Tsui,Egan,&
+O’Reilly,1992).Instudyingtheseandotherconfiguralteamproperties,researchers
+make no assumption that the individual characteristics of interest —here, interper-
+sonal relationships, personality, age—are held in common by the members of the
+team.Rather,theresearchersstrivetocapturethearrayorconfigurationoftheseindi-
+vidual characteristics within the team.
+Of Faust’s constructs, perhaps both non–work responsibilities (e.g., childcare,
+eldercare)andteamperformancemightbeconceptualizedasconfiguralteamcon-
+structs.Consider,first,non–workresponsibilities.Someteamsmaybecharacterized
+by relatively high and homogeneous non–work responsibilities; all team members
+may be young parents, carrying substantial non–work responsibilities. Other teams
+maybecharacterizedbyrelativelylowandhomogeneousnon–workresponsibilities;
+most or all team members may be young and single and may thus experience few
+non–workresponsibilities.Finally,someteamsmaybecomposedofindividualswho
+vary substantially in the magnitude of their non–work responsibilities.
+Team performance is a configural team property insofar as team performance
+emerges from the complex conglomeration of individual team members’ perfor-
+mance.Dependingonthenatureoftheteamtask,teamperformancemayreflectthe
+following:thesumofindividualteammembers’contributions(thebettereachindivid-
+ualperforms,thebetterteamperformance);thepoorestteammember’scontribution
+(theteamcanperformnobetterthanitsweakestperformer);thebestteammember’s
+contribution(oneteammembercancarrytheteamtoahighlevel);thevariabilityof
+team members’ contributions (the more varied team members’ contributions, the
+greaterthenumberofnonredundantresourcesavailabletotheteam);orsomemore
+complex combination of team member contributions.
+ThechallengeforFaustistodetermineandexplainwhyagivenindividual-level
+characteristic(suchasnon–workresponsibilitiesorindividualperformance)should
+beconceptualized,attheteamlevelofanalysis,asaconfiguralteampropertyandhow
+this property should be operationalized. Possible operationalizations, as we have
+hinted, include the sum of individual team member values, indices of variability
+amongteammembervalues,theminimumormaximumvalueamongateam’smem-
+bers,andmeasuresoftheteamnetwork(e.g.,density,homophyly).Theappropriate
+operationalizationofconfiguralteamconstructdepends,ofcourse,ontheguidingthe-
+oreticalconceptualization(seeKozlowski&Klein,2000,foramoreextensivediscus-
+sion of emergence and configural constructs).
+Toassessconfiguralteamconstructs,researchersmusttypicallygatherdatafrom
+(orabout)individualteammembers.Thus,forexample,Faustmustassesseachindi-
+vidualteammember’snon–workresponsibilitiestooperationalizetheconfiguration
+ofnon–workresponsibilitieswithineachteam.Insomecases,researchersmaygather
+
+## Page 8
+
+218 ORGANIZATIONAL RESEARCH METHODS
+data regarding each individual from a single individual or archival source to
+operationalize configural constructs. For example, a researcher might obtain data
+regardingeachindividualteammember’spayfrompublicsourcesorfromthedirector
+ofhumanresourcestooperationalizeteampaydispersion,aconfiguralconstruction
+(e.g., Bloom, 1999). In sum, individual-level data are critical for measuring both
+configural and shared team properties, but only shared team properties require the
+demonstration of within-group consensus or consistency.
+Model Choices: What Kind of Model Describes
+the Predicted Relationships Among the Constructs?
+Multilevelconstructswithinagivenrealm,ornomologicalnetwork,maybecom-
+binedinavarietyofdifferentwaystocreatemodelsdifferinginstructureandfocus.
+Hereweoutlinethreebroadclassesofmodels:singlelevel,cross-level,andhomolo-
+gousmultilevelmodels.Inasubsequentsection,weshowhowthetypeofmodelinflu-
+ences data sampling and the selection of an appropriate data analytic system
+Single-Level Models
+Single-levelmodelsdescribetherelationshipamongvariablesatoneleveloftheory
+and analysis. Micro-organizational researchers are likely to find single, individ-
+ual-levelmodelsmostfamiliar.But,team-levelmodelsarealsosingle-levelmodels.
+Team-levelmodels—modelsspecifyingtherelationshipamongglobal,shared,and/or
+configural team constructs only—are far more complex, from a levels perspective,
+thanareindividual-levelmodels.Althoughsingleteam-levelmodelsdonotinclude
+individual-level or organizational-level constructs, single team-level models may
+presentanumberoftheoreticalanddataanalyticchallenges.Suppose,forexample,
+thatFaustpredictsthatteamlocation(aglobalconstruct)moderatestheinfluenceof
+teamcharismaticleadership(asharedconstruct)onteamperformance(aconfigural
+construct).Theresultingsingle-levelmodelrequiresastrongtheoreticalrationaleand
+justificationtosupporttheconceptualizationandoperationalizationofteamcharis-
+maticleadershipandteamperformance.However,oncetheemergentconstructsare
+raisedtotheteamlevel,theteam-levelmodelisstraightforwardtotestusing,forexam-
+ple, hierarchical regression.
+Cross-Level Models
+Cross-levelmodelsdescribetherelationshipamongvariablesatdifferentlevelsof
+analysis.Threetypesofcross-levelmodelsaremostcommon.Across-level,direct
+effectsmodelsuggeststhatapredictorvariableatonelevelofanalysisinfluencesan
+outcomevariableatadifferent—typicallylower—levelofanalysis.Thus,forexam-
+ple,Faustmightpredictthatteamlocation(agroup-level,globalconstruct)hasadirect
+effectonteammemberperformance(anindividual-leveloutcomevariable).Or,Faust
+mightpredictthatteamleadercharismaticleadership(agroup-level,sharedconstruct)
+hasadirecteffectonteammemberself-efficacy(anindividual-leveloutcomevari-
+able).Notethatcross-levelmodelsofthistypecanonlyexplainbetween-unit(here,
+between-team)variabilityinindividual-leveloutcomemeasures.Teamlocation,vary-
+ingbetweenteamsbutnotwithinteams,cannotexplainwithin-teamvariabilityinindi-
+
+## Page 9
+
+Klein, Kozlowski / MULTILEVEL RESEARCH 219
+vidual performance. Similarly, team charismatic leadership cannot explain within-
+team variability in self-efficacy.
+Cross-levelmoderatormodelssuggestthatvariablesattwodifferentlevelsofanal-
+ysis(e.g.,onegroup-levelvariableandoneindividual-levelvariable)interacttopre-
+dictanoutcomeatthelowerlevelofanalysis(e.g.,anindividual-leveloutcomemea-
+sure).Thus,forexample,anindividual-levelvariablemightmoderatetheeffectsofa
+team-levelvariableonanindividual-leveloutcome.Alternatively,ateam-levelvari-
+ablemaymoderatetheeffectsofanindividual-levelvariableonanindividual-level
+outcome. Mathematically, these two cross-level moderator models are equivalent.
+Faust might propose, for example, that team location moderates the relationship of
+individualteammemberself-efficacyandperformance.Perhapsself-efficacyisapar-
+ticularlystrongpredictorofindividualperformancewhenteammembersworkata
+distancefromoneanother.Or,toexpressthesamerelationshipinadifferent(although
+mathematically equivalent) way, perhaps the effects of team location on individual
+teammemberperformancevaryasafunctionofteam-memberself-efficacy.Thatis,
+workingatadistancefromone’steammembersmayhaveaparticularlydetrimental
+effect on the performance of individual team members who are low in self-esteem.
+Thethirdtypeofcross-levelmodel—thecross-levelfrog-pondmodel—describes
+theeffectsofindividualgroupmember’sstandingwithinagrouponindividual-level
+outcomes.Thetermfrog-pondcapturesthecomparisonorrankingeffectthatiscentral
+tomodelsofthistype(Kleinetal.,1994).Frog-pondmodelssuggest,inessence,that
+thetrueorabsolutesizeofafrogisirrelevant.Whatmattersisafrog’srelativesize:Isit
+abigfrogorasmallfrogcomparedtootherfrogsinthepond?Adoptingacross-level,
+frog-pondmodel,Faustmightproposethatanindividual’sperformancerelativetohis
+orherteammembers’performancepredictsindividualself-efficacy.Thus,forexam-
+ple, an individual whose absolute, true level of performance is mediocre may have
+highself-esteemifheorsheworkswithotherswhoperformrelativelypoorly.Con-
+versely,anindividualwhoseperformanceismediocremayhavelowself-esteemifthe
+othersinhisorherteamarehighperformers.Inthisexample,wehavemaderelative
+performance the predictor rather than outcome variable only because this seems to
+makeourexamplemoreintuitivelyobvious.Althoughwehavecategorizedfrog-pond
+modelsascross-levelmodelsbecausetheyincorporatebothunit-andindividual-level
+components,others(e.g.,Dansereau&Yammarino,2000;Kleinetal.,1994)consider
+frog-pond models a distinct subset of multilevel models.
+Homologous Multilevel Models
+Modelsofthistypespecifythatarelationshipbetweentwovariablesholdsatmulti-
+plelevelsofanalysis.Considertherelationshipbetweendependenceandpower.At
+multiplelevelsofanalysis(individuals,groups,organizations),anentityuponwhicha
+secondentityisdependenthaspoweroverthatentity.Faustmightproposethatthe
+relationshipbetweenefficacyandperformanceisnotacross-levelfrog-pondrelation-
+shipbutamultilevel,homologousrelationship.Thatis,atboththeindividualandteam
+levels of analysis, efficacy is positively related to performance.
+The primary value of homologous multilevel models is that they allow the
+researchertogeneralizebothconstructsandfunctionalrelationslinkingtheconstructs
+acrossdifferentlevelsoftheorganizationalsystem.Thus,suchmodelsholdtheprom-
+isetoenhancethegeneralityandapplicabilityoftheory,andtobetterintegratemacro
+
+## Page 10
+
+220 ORGANIZATIONAL RESEARCH METHODS
+and micro models of organizational behavior. One of the challenges of developing
+homologous multilevel models, however, is that in the effort to find constructs and
+functionalrelationsthatholdatmultiplelevels,onemaysoabstractandsimplifythe
+phenomenonofinterestthatitisnolongeruseful.Perhapsthisiswhytherearesofew
+good examples of homologous multilevel theoretical models in the literature (e.g.,
+Lindsley,Brass,&Thomas,1995;Staw,Sandelands,&Dutton,1981),andvirtually
+nogoodempiricaltestsofsuchmodels.Attheirbest,multilevelhomologousmodels
+arepowerful,integrativeandparsimonious.Attheirworst,however,modelsofthis
+type are obvious and trite (Klein, Cannella, & Tosi, 1999).
+Sampling Choices: What Kind of Sample Is
+Necessary to Operationalize Key Constructs
+and to Test Predicted Relationships?
+Researchersexperiencedintestingsingle-levelmodelsknow,ofcourse,thattheir
+samplesmustcontainsufficientvariabilitytominimizetheriskofrangerestriction.
+Onedoesnot,forexample,testtheeffectsofwealthinasampleofmultimillionaires,
+nor the effects of height in a sample of professional basketball players. Sampling
+issues within multilevel research are more complex, but much the same. The
+researcher’schallengeistogatherasamplecontainingsufficientbetween-unitvari-
+abilitytoassesstheeffectsofunitdifferencesand,whentestingtheeffectsofshared
+unit properties, sufficient within-unit homogeneity to warrant aggregation of lower
+level data to the unit level.
+ConsiderFaust’snewresearchatAcme.Between-teamvariabilityinthemeasures
+ofteam-levelpropertiesisessentialorFaust’sfindingswillbeinconclusivebecauseof
+range restriction in the measures. As organizational context may constrain team
+inputs, processes, and outcomes, there is at least some possibility that measures of
+theseconstructsmayberestrictedinrange.ThefactthatAcme’spresidentwantsFaust
+tostudythecorrelatesofteamperformancesuggeststhatthereissubstantialvariabil-
+ityinteamperformanceanditscorrelates,butthisisanassumptionthatFaustshould
+examineindetail.Forexample,Faustmightassesstheextentofvariabilityinarchival
+teamperformancedataorhemightexploretheextenttowhichcompanypoliciesand
+practices(e.g.,performanceappraisalandrewardsystems)arelikelytolimitbetween
+team-variability in performance and processes.
+Ideally,measuresofsharedteamconstructsshownotonlybetween-teamvariabil-
+ity,butalsowithin-teamhomogeneity.Inplanninghisresearch,then,Faustshouldbe
+mindful of the existence and magnitude of potential sources of such homogeneity.
+Moreover, these sources must engender homogeneity within teams, but not across
+teams.Sharedexperiencesandinteractionswithinateammayfostersuchwithin-team
+homogeneityandbetween-teamvariability.Incontrast,astrongorganizationalculture
+and consistently applied organization-wide policies may foster within-organization
+homogeneity—that is, homogeneity within and across teams.
+Yetanotherpossibilityisthathomogeneityishighinsometeamsbutlimitedinoth-
+ers.Perhaps,forexample,someofAcme’steamsshowsubstantialwithin-teamhomo-
+geneityinteamefficacywhereasotherteamsdonot.Face-to-faceinteractioninreal
+teamsmayengendersuchhomogeneity,wherease-mailandtelephoneinteraction—in
+virtualteams—doesnot(Bell&Kozlowski,inpress).Faustmaytestthisproposition
+by examining the relationships between team location (a global construct) and
+
+## Page 11
+
+Klein, Kozlowski / MULTILEVEL RESEARCH 221
+within-teamhomogeneityofteamefficacy(aconfiguralconstruct).Inthisscenario,
+homogeneityisnotaprerequisiteforaggregation,butameaningfuldependentvari-
+able in its own right (Brown, Kozlowski, & Hattrup, 1996; Klein et al., in press).
+Tooperationalizeconfiguralconstructs,aresearcherseeksasampleinwhichthe
+pattern or array of data varies from unit to unit. One can only test the correlates of
+within-unit variability (a configural construct), for example, if units vary in their
+within-unit variability. Earlier we noted that Faust might conceptualize team mem-
+bers’non–workresponsibilitiesasaconfiguralconstruct.Note,however,thatFaust
+willnotfindasignificantrelationshipbetweentheconfigurationofteammembers’
+non–work responsibilities and team performance, as proposed earlier, unless the
+extent and array of team members’ non–work responsibilities vary between teams.
+Ourdiscussionthusfarhasfocusedonthesamplingimplicationsofdifferingkinds
+ofconstructs.Alsorelevantisthenatureoftheresearcher’smodel.Single-levelmod-
+els require no special sampling considerations beyond those we have already dis-
+cussed.However,cross-levelmodelsdorequirespecialconsiderations,astheytypi-
+callyrestonanassumptionofwithin-unithomogeneityandbetween-unitvariability
+onsomeunit-levelconstructsandanassumptionofwithinandbetween-unitvariabil-
+ity(thatis,between-individualvariabilitywithinandacrossunits)onother,individ-
+ual-levelconstructs.Suppose,forexample,thatFaustpredictsthatteamleadercha-
+risma (a shared team construct) moderates the relationship of self-efficacy and
+performance(twoindividual-levelconstructs).Theidealsampleinwhichtotestthis
+cross-levelmoderatormodelisoneinwhich(a)teamleadercharismavariesbetween-
+butnotwithin-teams,and(b)bothself-efficacyandperformancevarybothwithin-and
+between-teams. Cross-level frog-pond models also require both within-unit and
+between-unit variability on the predictor, frog-pond variable.
+Thesamplingimplicationsofmultilevelhomologousmodelsarecomplex,inpart
+becausesuchmodelsaremorecommonintheorythaninempiricalresearch.Indeed,
+onecanfindfew—ifany—empiricalexamplesofhomologousmodels.Onestrategy
+totestsuchamodelistocollectadifferentsampleofdatatorepresenteachlevelofthe
+homologousmodel.Thus,forexample,aresearchermightcollectsurveydatafroma
+sampleofindividualstotesttherelationshipbetweenindividualpowerandindividual
+dependence. The same researcher might also collect survey data from a sample of
+organizationstotesttherelationshipbetweenorganizationalpowerandorganizational
+dependence.Alternatively,aresearchermaytestamultilevelmodelwithinasingle
+sampleofdata.Forexample,Faustmightgathermeasuresofindividualefficacy,indi-
+vidualperformance,teamefficacy,andteamperformanceatAcmeandassessboththe
+individual-levelrelationshipofefficacyandperformance,andtheteam-levelrelation-
+shipofteamefficacyandteamperformance.Inthisexample,Faustcollectstwodiffer-
+entmeasuresofefficacy(individualorteam)andtwodifferentmeasuresofperfor-
+mance, hoping that individual efficacy and individual performance both vary and
+co-varywithinandbetweenteams,whereasteamefficacyandteamperformanceboth
+vary and co-vary between teams, but not within teams.
+Analysis Choices: What Analytical Procedures
+May Be Used to Test the Predicted Relationships?
+Inthissection,weofferabriefoverviewandcomparisonofthestatisticalproce-
+durescommonlyusedtoanalyzemultileveldata.Ourgoalisnottoidentifythebest
+
+## Page 12
+
+222 ORGANIZATIONAL RESEARCH METHODS
+proceduretouse,nortoadvocatesomeproceduresmorethanothers.Rather,wehope
+toilluminatetheconceptualunderpinningsanddistinctivefeaturesofeachofthevari-
+ousprocedures,clarifyingthequestionsansweredmosteffectivelybyeachprocedure.
+Wefirstexaminetheproceduresmostcommonlyusedtojustifyaggregatingindivid-
+ual-leveldatatohigherlevelunitstorepresentsharedgroupconstructs.Theseproce-
+dures are r , eta-squared, within and between analysis (WABA), and the two
+wg
+intraclasscorrelations,ICC(1)andICC(2).Wethenexaminetheproceduresusedto
+test multilevel models. These procedures are WABA, cross-level operator analyses
+(CLOP),andhierarchicallinearmodeling(HLM).AsWABAisusedbothtojustify
+aggregationandtoanalyzetherelationshipsbetweenvariables,wediscussWABAin
+the two subsections below. Our discussion of the various procedures is necessarily
+somewhatsuperficial.Adetaileddiscussionofeachprocedurewouldfarexceedthe
+page limitations of this article. (For more information about these procedures see
+Bliese,2000;Dansereau&Yammarino,2000;andHofmann,Griffin,&Gavin,2000;
+and James & Williams, 2000).
+Justifying the Aggregation of Lower Level
+Data to Higher Units of Analysis
+Eachoftheprocedurescommonlyusedtojustifyaggregationprovidesanassess-
+mentoftheextenttowhichlowerleveldata(e.g.,individual-leveldata)arehomoge-
+neouswithinunits(e.g.,groups),asassumedofsharedunit-levelconstructs.Aswe
+explainbelow,eachprocedureprovidesadistinctive,yetoftencomplementary,assess-
+mentoftheextentofwithin-unithomogeneityoflowerleveldata.Thus,Faustmight
+use any or all of these procedures to assess the extent to which a shared team con-
+structs—say, team efficacy—is indeed homogeneous, or shared, within teams.
+Theindexr .DevelopedbyJames,Demaree,andWolf(1984),r isuniqueamong
+wg wg
+theproceduresusedtojustifyaggregationinsofarasr assessestheextentofconsen-
+wg
+sus,agreement,orwithin-unitvariabilitywithinasingleunitforasinglemeasure—a
+constructbygroupapproach.Alloftheremainingprocedurescontrastwithin-unitand
+between-unit variability across an entire sample of units—a construct by sample
+approach.Ther indexcomparesthevariabilityofagivenvariablewithinaspecific
+wg
+unit(here,team)toanexpectedvariance(EV).Ifthevariabilitywithinaunitissub-
+stantiallysmallerthanthevariabilityexpectedbychance,thentheresultingr value
+wg
+suggeststhatitisjustifiabletoaggregatelowerleveldata,forthespecificvariableand
+specificunitinquestion,totheunitlevelofanalysis.Valuesforr areexpectedto
+wg
+rangefrom0to1,butmaybenegative(forthesingle-itemestimator)orgreaterthan1
+(forthemulti-itemestimator)ifthevariabilitywithinaunitexceedstheEV(Brownetal.,
+1996).
+TheEVorvariabilityexpectedbychanceisoftenoperationalizedasthevarianceof
+arectangulardistribution.Thisisastatisticaldefinitionofpurelyrandomresponding,
+becauseeachresponsecategoryhasanequivalentlikelihoodofbeingendorsed.Psy-
+chological responses, however, are subject to a variety of response biases and are
+thereforerarelyrandom.Thismeansthatr valuesbasedonanEVestimatedfroma
+wg
+rectangular distribution will typically overstate true agreement. James et al. (1984)
+explicitlynotedthisproblemandsuggestedalternativewaystooperationalizetheEV
+when the assumption of purely random responding is not warranted—as it rarely is.
+
+## Page 13
+
+Klein, Kozlowski / MULTILEVEL RESEARCH 223
+Forexample,KozlowskiandHults(1987)usedtheresponsedistributionfroman
+independentsamplerespondingtothesamemeasuretoposeanalternativeestimateof
+theexpectedvariance.Ineffect,theyassumedthatthisresponsedistributionfroman
+independent sample represented nothing but response bias. This provided a lower
+bound estimate of within group agreement. Thus, true agreement was assumed to
+rangebetweenanupperboundestimatebasedontherectangularEVandthelower
+boundestimatebasedonthealternativeEV(Kozlowski&Hults,1987).Anotheralter-
+nativetotheuseofanEVbasedonarectangulardistributionincludesrandomgroup
+resampling(Bliese,2000).Thistechniqueessentiallyignoresthegroupstructurein
+thedataandrandomlycreatespseudogroups.Multipleresamplingpassesallowthe
+estimationofanEVbasedontheresponsedistributionofthepseudogroups.Thetech-
+niquealsoallowsforatestofthesignificanceoftheresultingr value.Althoughthis
+wg
+techniqueeffectivelyaddressesoneofthemostseriousambiguitiesofther index—
+wg
+estimatingtheEV—italsomovesr closertotheotherindicesthatcomparewithin
+wg
+group to total variance.
+Inusingr tojustifytheaggregationofindividual-levelmeasuresofteamefficacy
+wg
+totheteamlevel,Faustwouldcalculatether valuesforteamefficacyforeachteamin
+wg
+hissample.Faustmightthenreporttheaverageormedianr value,andtherangeof
+wg
+r values,fortheteamsinhissample.Commonpracticeistoconcludethataggrega-
+wg
+tionofindividual-levelmeasurestotheteamlevelisappropriateifthemeanequalsor
+exceeds .7. This threshold is merely a rule of thumb, however. Random group
+resampling provides a way to test the statistical significance of r values (Bliese,
+wg
+2000).Ifther valueforsometeamsislessthan.70,Faustmightexcludethoseteams
+wg
+ormeasuresfromteam-levelanalyses.Alternatively,Faustmightrelyonthemeanr
+wg
+valueof.7fortheentiresampletojustifyaggregationoftheteam-efficacydatatothe
+teamlevel.However,suchanapproachunderminesthevalueofassessingr within
+wg
+each group to ensure that the construct is not misspecified in any team.
+Insum,r isdesignedtoanswerthefollowingquestion:Howhighiswithin-group
+wg
+agreementonagivenvariablewithinagivenunit?Ther indexassesseswithin-unit
+wg
+variability uniquely. It does not assess within- versus between-unit variability in a
+givenmeasure,asdotheremainingproceduresusedtojustifyaggregation.Notethat
+agreementwithin-groupsmaybequitehighevenifgroupmeansdonotdiffer—thatis,
+evenifbetween-groupvariabilityissolowthattheproceduresdescribednextwould
+not support aggregation to the group level (James et al., 1984).
+Eta-squared.Theeta-squaredvaluefromaone-wayanalysisofvarianceprovides
+anestimateoftheextenttowhichindividual-levelvariabilityonagivenmeasureis
+explainedbyhigherlevelunits.Thus,forexample,aneta-squaredvalueof.25sug-
+geststhataresearchercanexplain25%ofthetotal,individual-levelvarianceinagiven
+measuresimplybyknowingwhatunit,orteam,eachindividualbelongsto.Or,toputit
+another way: 25% of the variance in the measure is between-teams whereas the
+remaining75%ofthevarianceiswithinteams.Ultimately,thegreaterbetween-group
+variance relative to within-group variance, the larger the value for eta-squared.
+Eta-squared,astheseinterpretationssuggest,restsonacomparisonofthewithin-unit
+andbetween-unitvariabilityinasinglemeasureacrossanentiresample.Accordingly,
+eta-squaredvaluesmaybestatisticallysignificantprimarilybecausetheunitmeanson
+themeasureofinterestvarygreatly(between-unitvariabilityissubstantial),orprimar-
+ilybecauseunitsarequitehomogeneous(within-unitvariabilityisminimal),orboth.
+
+## Page 14
+
+224 ORGANIZATIONAL RESEARCH METHODS
+Furthermore, eta-squared may be statistically significant even if some teams show
+substantialwithin-teamvariability.Eta-squaredvaluessummarizetherelativeamount
+of between-team versus within-team variance across an entire sample of teams.
+Eta-squared,unliker ,providesnoteambyteamanalysis.Indeed,allofalltheconsis-
+wg
+tencybasedapproachestoassessingwithingrouphomogeneity(i.e.,eta-squared,ICC
+(1),ICC(2),andWABA)providenoteam-by-teamanalysis.Thus,theconsistency
+basedapproacheshavethepotentialtoallowsomedegreeofmisspecificationerror.
+Thatis,theymayallowmeasurestobeaggregatedtotheunitlevelforsometeamseven
+whentheconstructisnotsharedwithinthoseteams.However,theextenttowhichthis
+is a serious problem is unknown.
+Faustmightuseeta-squaredtoassesstheextentofwithin-versusbetween-team
+variabilityinteamefficacy.Eta-squaredanswersthequestion,towhatextentdoesa
+measurevarybetween-unitsversuswithin-units?TheFtestfortheeta-squaredreveals
+thestatisticalsignificanceofthebetween-unitvariability.Notethatsignificanceval-
+uesareaffectedbysamplesize.Otherthingsbeingequal,thelargerthesampleofindi-
+viduals, the more likely eta-squared is to be statistically significant.
+Furthermore,asinallregressionandanalysisofvariance,thelargerthenumberof
+predictors,thelargertheresultingexplainedvariance(here,eta-squared).Thus,other
+thingsbeingequal,eta-squaredvaluesresultingfromaone-wayanalysisofvarianceof
+agivenmeasuredrawnfromasampleof200individualsgroupedinto10teamsof20
+peopleeachwillbesmallerthaneta-squaredvaluesforthesamemeasuredrawnfroma
+sampleof200individualsgroupedinto40teamsof5peopleeach.Thefirstsample
+resultsinanequationwith9predictors(10-1),whereasthesecondresultsinasample
+with 39 predictors (40-1). Bliese and Halverson (1998) have criticized the use of
+eta-squared,demonstratingthateta-squaredprovidesinflatedestimatesofbetween-
+unitvariabilityespeciallywhengroupsizesaresmall(lessthan25peoplepergroup).
+Intraclasscorrelation(1).Theintraclasscorrelationcoefficient(1)iscalculated
+usingtheresultsofaone-wayanalysisofvariance(i.e.,eta-squared)andiscommonly
+interpretedinmuchthesamewayaseta-squared.Thus,ICC(1),likeeta-squared,pro-
+videsanestimateoftheproportionofthetotalvarianceofameasurethatisexplained
+byunitmembership(Bliese,2000).ICC(1)mayalsobeinterpretedasanestimateof
+theextenttowhichratersareinterchangeable—thatis,theextenttowhichonerater
+fromagroupmayrepresentalltheraterswithinthegroup.ThelargerICC(1),themore
+alike the raters are (James, 1982).
+ICC(1)andeta-squareddiffer,however,insofarasICC(1)valuesdonotvaryasa
+functionofgroupsize(Bliese&Halverson,1998).Eta-squaredandICC(1)provide
+quitesimilarestimatesofbetween-unitvariabilityinsamplescomposedofrelatively
+largegroups(i.e.,groupsof25individualsormore).Insamplescomposedofsmaller
+groups(i.e.,groupsoffewerthan25individualspergroup),however,ICC(1)provides
+much smaller estimates of between-unit variability than eta-squared (Bliese &
+Halverson,1998).Likeeta-squared,ICC(1)answersthequestion,towhatextentdoes
+a measure vary between-units versus within-units? When group sizes are small,
+eta-squaredandICC(1)may,however,providequitedifferentestimatesofbetween-
+group variance—that is, of the variance explained by group membership.
+ThisdiscussionsuggeststhatifFaustcalculatedbotheta-squaredandICC(1)val-
+uesforteamefficacyintheAcmesampleof100teamsof10peopleeach,theresulting
+eta-squaredvaluewouldexceedtheresultingICC(1)value.Note,however,thattheF
+
+## Page 15
+
+Klein, Kozlowski / MULTILEVEL RESEARCH 225
+test for ICC(1) is identical to the F test for eta-squared. Thus, although Faust’s
+eta-squaredvalueforteamefficacywouldexceedhisICC(1)valueforthesamemea-
+sure, the two values would have the same significance level. Researchers using
+eta-squaredorICC(1)tojustifyaggregationusuallyconcludethataggregationisjusti-
+fied when the F test for these values is significant. Faust—with a sample of 1,000
+(assumingaperfectresponserate)—wouldbevery,verylikelytoobtainasignificantF.
+Intraclasscorrelation(2).Theintraclasscorrelation(2),orICC(2),answersthe
+followingquestion:Howreliablearethegroupmeanswithinasample?ICC(2)values,
+likeothermeasuresofreliability(e.g.,Cronbach’salpha),arecommonlyconsidered
+acceptableiftheyequalorexceed.70.Mathematically,ICC(2)isavariationofICC(1).
+Essentially ICC(2) is a function of ICC(1) adjusted for group size. Indeed, if one
+knowstheICC(1)valueforagivenmeasurewithinagivensample,andoneknowsthe
+averagesizeofthegroupswithinthatsample,onecanusetheSpearman-Brownfor-
+mulatoestimateICC(2)(Bliese,2000).Otherthingsbeingequal,thelargerthegroup
+size,thelargerICC(2).Forexample,ifICC(1)is.20andtheaveragegroupsizeinthe
+sampleis5,thentheexpectedvalueforICC(2)is.56.Conversely,ifICC(1)is.20and
+theaveragegroupsizeinthesampleis20,thentheexpectedvalueforICC(2)is.71.
+Theunderlyinglogichereisthatgroupmeansbasedonmanypeoplepergroupare
+morereliable—morestable—andthusmoreusefulmeasuresofgrouppropertiesthan
+aregroupmeansbasedonfewerpeoplepergroup.Ifoneimaginesgroupsofextreme
+sizes,thepointisintuitivelyobvious:Themeanweightof,say,500adultsisahighly
+stable or reliable number. Replace one half of the group’s members and the mean
+weightisunlikelytochangesubstantially.Themeanweightofagroupofjusttwoindi-
+vidualsisutterlyunstable.Replaceonehalfthegroup(oneoftwopeople),andthe
+mean weight of the two-person group may change substantially.
+ICC(2)valueswillexceed.70ifthebetween-groupvariabilityofameasureislarge,
+ifgroupsizesinthesamplearelarge,orboth.InFaust’scase,givengroupsof10peo-
+ple (again, assuming a perfect response rate), ICC(1) must equal or exceed .19 if
+ICC(2) is to equal or exceed .70.
+WABA.LikeICC(1)andICC(2),WABAbuildsoneta-squared,andresultingesti-
+matesofwithin-unitandbetween-unitvariability.WABAdiffersfrometa-squaredin
+at least three critical respects, however. First, eta-squared, ICC(1), and ICC(2) are
+commonly used to differentiate between: (a) measures that show sufficient
+between-unitvariabilityandwithin-unitagreementtojustifyaggregationtotheunit
+level; and (b) measures that do not show sufficient between-unit variability and
+within-unitagreementtojustifyaggregation.WABA,incontrast,recognizesnottwo
+but three alternatives: (a) the measure shows sufficient within-unit agreement and
+between-unit variability to justify aggregating the measure and using it to
+operationalizeashared-unitconstruct(wholes);or(b)themeasureshowssufficiently
+within-unitvariabilityandsufficientbetween-unitagreementtojustifyusingthemea-
+sure to operationalize a frog-pond variable (parts); or (c) the measure varies both
+between-unitsandwithin-unitsandthusshouldbeusedtooperationalizeindividual-
+levelconstructs(equivocal).Thus,whereasresearchersusingotherprocedurestojus-
+tify aggregation might disregard evidence of substantial within-unit variability as
+between-unitvariabilityorerror,WABAusersinterpretsuchwithin-unitvariabilityas
+evidenceofafrog-pondorpartscondition.Note,however,thatotherproceduresalso
+
+## Page 16
+
+226 ORGANIZATIONAL RESEARCH METHODS
+provideevidenceofsuchwithin-unitvariability.Forexample,ICC(1)mayassume
+negativevalueswhenwithin-unitvariabilityissubstantial.Similarly,r valueswill
+wg
+exceed1.00(forthemultiple-itemestimator)orwillbenegative(forthesingle-item
+estimator)whenwithinvarianceisgreaterthantheexpectedvariance(Brownetal.,
+1996).Suchvaluesareindicativeofsubgrouppolarizationorpotentialfrog-pondphe-
+nomena(Brown&Kozlowski,1999).WABAresearcherssimplydevotegreateratten-
+tiontothepartsconditionthandomostresearchersusingotherstatisticalproceduresto
+justify aggregation.
+Second, WABA differs from other statistical procedures insofar as WABA pro-
+vides, and rests on, tests of both statistical and practical significance. Thus, a
+researcherusingWABAstandardsmustshowthatameasure’sbetween-unitvariabil-
+ityisbothstatisticallyandpracticallysignificantpriortoaggregatingthemeasureto
+theunitlevel.WABAresearchersusetheFtesttoassessstatisticalsignificance—the
+sameFtestusedbyresearchersexaminingeta-squaredandICC(1).WABAresearch-
+ersusetheEtest(seeCohen,1988;Dansereau,Alutto,&Yammarino,1984)toassess
+practicalsignificance.TheEtestprovidesageometricassessmentofthemagnitudeof
+between-unitvariabilityversuswithin-unitvariability.TomeetWABA’sstricteststan-
+dardsofpracticallysignificantbetween-variance(indicativeofa“wholes”variable),
+between-unitvariancemustequalorexceed.75.(WABAalsospecifiestwoalterna-
+tive—andmoreliberal—standardsforpracticalsignificance.Themostliberalstan-
+dardsuggeststhattheeta-squaredforawholesvariablemustexceed.50.)TheEtestis
+perhapsthemostcontroversialelementofWABA.BlieseandHalverson(1998)sug-
+gestthatbecausetheEtestreliesoneta-squared,theEtestmaybebiasedbygroup
+size,providinginflatedestimatesofthepracticalsignificanceofbetween-groupvari-
+ability when group sizes are small.
+Finally,WABAisdesignedtoprovidenotjustatestoftheappropriatenessofaggre-
+gation,butratheranoverallassessmentofthelevelofanalysismostappropriatefor
+analyzing the relationships among a set of variables within a given sample. Thus,
+researchersuseWABAtoassesstheextentofwithin-unitand/orbetween-unitvari-
+ance and covariance among all the variables in a sample. The first part of WABA
+(WABAI)examineseachvariableinaresearcher’sdatasetinisolation.Thesecond
+part of WABA (WABA II, discussed below) examines the relationships among the
+variables in a sample.
+Insum,FaustmightuseWABAtoassessthestatisticalandpracticalsignificanceof
+between-groupvariabilityinhismeasures.Hisfindingsofstatisticalsignificance—
+based on the F test—would equal the results he would obtain using eta-squared or
+ICC(1).Afindingofstatisticalsignificance,however,doesnotguaranteeafindingof
+practicalsignificance.Thus,Faustmightfindbetween-unitvariabilityinteamefficacy
+tobebothpracticallyandstatisticallysignificant,neitherpracticallyandstatistically
+significant,oreitherpracticallyorstatisticallysignificantbutnotboth.Faustwould
+useWABAItoassesswithin-andbetween-groupvariabilityinallofthemeasuresof
+hismodel,notjustteamefficacy.Thus,WABAIanswersthequestion,“Dothemea-
+sures in a data set show statistically and practically significant between- unit or
+within-unitvariability?”,asasteponthewaytoansweringanotherquestion,“Atwhat
+level or levels should the variables in a data set by analyzed?”
+Abriefsummary.Inunambiguouscases—whenameasure’svarianceliesquite
+predominantlybetween-units,orquitepredominantlywithin-units,orroughlyequally
+
+## Page 17
+
+Klein, Kozlowski / MULTILEVEL RESEARCH 227
+within-andbetween-units—thefivestatisticalprocedureswehaveoutlinedarelikely
+toleadtothesameconclusion.Inmoreambiguouscases,however,thestatisticalpro-
+ceduresmayleadtodifferingconclusionsregardingtheappropriatenessofaggregat-
+ingdatatotheunitlevel.Insuchcases,aresearchershouldrelyontheoryandprior
+researchtoguidetheselectionofanappropriatestatisticaljustificationtoinformhisor
+her aggregation decisions.
+Analyzing the Relationships Among Variables:
+Testing Single-Level Relationships, Multilevel
+Homologous Relationships, and Cross-Level Relationships
+WABA,CLOP,andHLMarealldesignedtotesttherelationshipsamongmultilevel
+data.Asabove,however,theproceduresdifferinapproachandfocus;theyanswerdif-
+ferentquestionsandarethusmostapplicabletodifferenttypesofmultilevelmodels.
+Below,weoutlinethesedifferences.Asabove,givenspacelimitations,ourpresenta-
+tion cannot do justice to the details and nuances of each procedure.
+WABA. As suggested above, WABA I, is designed to assess the extent of
+within-unitandbetween-unitvarianceinasinglemeasure.WABAIIisdesignedto
+assess the extent to which two or more variables covary primarily within-units,
+between-units,orbothwithin-andbetween-units.Together,WABAIandWABAII
+aredesigned,aswehavenoted,toanswerthefollowingquestion:Atwhatlevelorlev-
+elsshouldthevariablesinadatasetbeanalyzed?WABAismosteffectiveintesting
+single-level models and multilevel homologous models.
+The correlation between any two measures drawn from a sample of individuals
+across units may reflect between-unit covariance in the measures, within-unit
+covariance in the measures, or both between-unit and within-unit covariance in the
+measures (Dansereau & Yammarino, 2000). WABA II rests on this fundamental
+insight.Suppose,forexample,thattherawscore,individual-levelcorrelationofteam
+leadercharismaandteamefficacyis.40.Thiscorrelationmayreflectbetween-unit
+variance and covariance in the measures: Mean scores for each measure vary, and
+covary,fromteamtoteam;butwithinteams,therelationshipofthetwomeasuresis
+weak.Ifso,thetwomeasuresshare,inWABAparlance,a“wholes”relationship—a
+team-levelrelationshipoftwosharedteamconstructs.Accordingly,WABAresearch-
+erswouldaggregatethemeasurestotheteamlevelandcalculatetheirteam-levelrela-
+tionship.
+Alternatively,the.40correlationofcharismaandefficacymayreflectwithin-unit
+variance and covariance in the measures: Scores for each measure vary and covary
+substantially within each team, but the team-level correlation—the correlation
+betweentheteammeansforthetwomeasures—isweak.Ifso,thetwomeasuresform,
+inWABAparlance,a“parts”relationship:awithin-teamrelationshipoftwofrog-pond
+constructs.WABAresearcherswouldcalculatethewithin-groupdeviationscoresfor
+each measure and report the within-group relationship of the measures.
+Finally,the.40correlationmayreflectbothwithin-unitandbetween-unitvariance
+and covariance: Scores for each measure vary and covary within-teams and further
+meanscoresforeachmeasurevaryandcovarybetweenteams.Ifso,thetwomeasures
+havean“equivocal”relationship,inWABAparlance.Therelationshipisnotawholes
+relationship, distinguished by statistically and practically significant between-team
+
+## Page 18
+
+228 ORGANIZATIONAL RESEARCH METHODS
+varianceandcovarianceofthemeasures.Noristherelationshipafrog-pondrelation-
+ship, distinguished by statistically and practically significant within-team variance
+andcovarianceofthemeasures.Rather,thevarianceandcovarianceofthetwomea-
+sureswithinandbetweenteamssuggeststhattherelationshipofthemeasuresisbest
+conceptualizedasanindividual-levelrelationshipreflectingindividualdifferencesin
+teamleadercharismaandteamefficacy.Accordingly,WABAresearcherswouldsim-
+ply analyze the raw score individual-level relationship of the two measures.
+Todiscernwhichofthesethreepossibilitiesbestdescribestherelationshipoftwo
+variables, WABA researchers use the A test and Z test to analyze the within- and
+between-unit components of the raw score correlation (Dansereau et al., 1984).
+Typically WABA researchers assess the within-unit and between-unit variance and
+covarianceofallthemeasuresinadataset.WABAresearchersthentesttherelation-
+shipsbetweentheindependentanddependentvariablesatthesinglelevelofanalysis
+that best characterizes the data set as a whole.
+Thus,ifFaustusedWABAIandII,hewouldanalyzeallofhisdata,examiningthe
+extent to which all of the measures vary and covary between- and within-teams.
+WABAisnotdesignedtotestcross-leveldirecteffectmodels,thusFaustcouldnottest
+thesimultaneouseffectsof,say,teamefficacy(wholes)andself-efficacy(equivocal)
+onperformance(equivocal).Rather,FaustwoulduseWABAtotestsingle-levelrela-
+tionshipsinthedata.Ifhefoundthatmostorallofthemeasuresvariedandcovaried
+bothwithin-andbetween-teams,hewould—followingWABAstandards—interpret
+therelationshipasanindividual-levelrelationship.If,instead,hefoundthatmostorall
+ofthemeasuresvariedandcovariedpredominantlybetween-teams,hewouldinterpret
+therelationshipasateam-levelrelationship.(Giventhefocusofthisresearch,Faust
+would be unlikely, it seems, to find predominant variance and covariance within
+teams.) Faust might conceivably split his data set, analyzing and interpreting some
+relationshipsattheindividuallevelofanalysis,andothersattheteamlevelofanalysis.
+WABA,wehaveemphasized,isprimarilydesignedtotestatwhatlevelofanalysis
+therelationshipswithinadatasetshouldbetested.Homologous,multilevelmodels
+suggestthattherelationshipbetweentwoormorevariablesisisomorphic(thatis,par-
+allel or identical) at two different levels of analysis. WABA may be used to test a
+homologous, multilevel model. For example, the relationship between efficacy and
+performancemaybehomologous—occurringattheindividuallevelofanalysis,the
+teamlevelofanalysis,andtheorganizationallevelofanalysis.WABAmightbesaidto
+supportsuchaconclusionifindividual-levelmeasuresofefficacyandperformance
+werefoundtovaryandcovarybetweenteams,formingateam-levelwholesrelation-
+ship,andteam-levelscores(means)forefficacyandperformancewerefoundtovary
+andcovarybetweenorganizations,forminganorganization-levelwholesrelationship.
+(NotethatFaustwouldneeddatafromotherorganizationstoo,notjustAcme,totest
+suchamodel.)However,ifindividualsarehomogeneouswithinteams,thentheindi-
+vidual-levelrelationshipmaynotreflectindividualdifferences,butteamdifferences.
+Similarly,ifteamsarehomogeneouswithinorganizations,thentheteam-levelrela-
+tionship may not reflect team differences, but organizational differences.
+Todocumentahomologous,multilevelrelationshipbetweenefficacyandperfor-
+mance,onemight,aswenotedearlier,gathertwomeasuresofefficacy(self-andteam-
+efficacy)andtwomeasuresofperformance(individualperformanceandteamperfor-
+mance).OnecouldthenuseWABAtoexplorethelevelsoftheefficacy-performance
+relationship.Ideally—atleastfromaWABAperspective—theresultswouldshowthat
+
+## Page 19
+
+Klein, Kozlowski / MULTILEVEL RESEARCH 229
+self-efficacy and individual performance have an equivocal relationship, whereas
+team efficacy and team performance have a wholes relationship.
+CLOP.CLOPencompassanumberofanalysisofvariance,covariance,andregres-
+sionapproachesdesignedtoexaminethemainordirecteffectsofhigherlevel(e.g.,
+team) variables on lower level (e.g., individual) outcomes and/or the moderating
+effectsofhigherlevelvariablesonlowerlevelrelationships(James&Williams,2000).
+Accordingly,CLOPanswersthefollowingquestions:Whatistheeffectofahigher
+levelunitcharacteristiconalowerleveloutcome?and/or,Whatistheinfluenceofa
+higher level unit characteristics on the relationship between lower level variables?
+ThelogicofCLOPisquitestraightforward.If,forexample,Faustwantedtoassess
+theeffectsofteamlocation(agroup-level,globalconstruct)andteamleadercharisma
+(agroup-level,sharedconstruct)onteammemberperformance(anindividual-level
+outcomevariable),Faustwoulddisaggregatetheteamlocationdummycodeandmean
+teamscoresforteamleadercharismatotheindividuallevelofanalysis.Thus,each
+individualinagiventeamwouldhavethesameteamlocationscores(indicatingthat
+hisorherteamisvirtualorthatitisreal)andthesameteamleadercharismascore.
+Faust would then use regression (i.e., general linear modeling) to determine the
+amountofvarianceinteammemberperformanceattributabletoteamlocationandto
+team leader charisma.
+Three details regarding this approach bear mention. First, before using CLOP,
+researchers must use r , eta-squared, ICC(1), ICC(2), and/or WABA to justify the
+wg
+aggregationofdatatotheunitlevel(tooperationalizeunit-levelconstructs).Unlike
+WABA,CLOPitselfincorporatesnotestsdesignedtoascertaintheextenttowhich
+measuresaresharedorhomogeneouswithinunits.Second,bydefinition,predictor
+variables varying solely between units (i.e., unit-level predictor variables) can only
+explainbetween-unitvarianceinoutcomemeasures.Thus,ifteamleadercharisma(a
+shared team-level variable, varying solely between and not within teams) explains
+15%ofthevarianceinindividualperformance,itactuallyexplainsalargerpercentage
+of the between-team variance in performance while explaining none of the
+within-teamvarianceinperformance.Finally,CLOPmaybeusedtoexaminethecom-
+bined effects of team-level and individual-level predictors on individual-level out-
+comes.Forexample,Faustmightexaminethecombinedeffectsofteamleadercha-
+risma(again,asharedteam-levelvariabledisaggregatedtoindividualteammembers)
+andindividualself-efficacyonindividualperformance.Todoso,Faustwouldsimply
+include the two independent variables in his regression equation.
+CLOPmayalsobeusedtoexaminetheinteractiveeffectsofhigher(e.g.,team)and
+lower(e.g.,individual)levelvariablesonlowerlevel(e.g.,individual)outcomes.For
+example,FaustmightuseCLOPtotestthehypothesisthatteamlocationmoderates
+therelationshipofself-efficacyandperformance.Perhapstherelationshipbetween
+individualself-efficacyandperformanceisstrongerinvirtualteamsthaninrealteams.
+To test this hypothesis, Faust would simply conduct a hierarchical regression first
+examiningthedirecteffectsofteamlocation(disaggregatedtoteammembers)and
+self-efficacyonindividualperformance,andthenexaminingtheinteractioneffectsof
+the two predictor variables on individual performance.
+CLOP thus provides a relatively straightforward and flexible approach to test
+cross-levelmodels.CLOPhasbeencriticized,however,fortwointerrelatedreasons.
+First,intestingthedirecteffectsofahigherlevel(team)variableonalowerlevel(indi-
+
+## Page 20
+
+230 ORGANIZATIONAL RESEARCH METHODS
+vidual)variable,CLOPestimatesthestandarderrorforthehigherlevelvariablebased
+ontotal(e.g.,withinandbetweenteam)variance,ratherthanbasedonhigherlevel
+(e.g.,between-team)variancealone(Kleinetal.,2000).Theresultingstandarderror
+estimateforthehigherlevelvariableissmallerthanitshouldbe(Bryk&Raudenbush,
+1992;Kreft&deLeeuw,1998).Asaresult,testsofthestatisticalsignificanceofthe
+higher level variable in explaining variance in the outcome measure may be
+biased—thatis,tooliberal.Second,intestingthedirecteffectsofahigherlevelvari-
+ableonalowerlevelvariable,CLOPattributesN-1degreesoffreedomtothehigher
+levelvariable,whereNequalsthetotalnumberofobservations—here,thetotalnum-
+berofindividuals.Theappropriatenumberofdegreesoffreedomforthehigherlevel
+variable,however,isJ-1,whereJequalsthenumberofunitsorteams.Asabove,this
+mayresultintoo-liberaltestsofthestatisticalsignificanceofthehigherlevelvariable
+in explaining variance in the lower level outcome variable. As we explain in more
+detailbelow,HLMandotherrandomcoefficientmodelingtechniquesweredesigned,
+in part, to address these issues.
+HLM. HLM is one of a class of several multilevel random coefficient modeling
+techniques.Severalstatisticalsoftwarepackagesmaybeusedtoconductmultilevel
+randomcoefficientmodeling.BecauseHLMisperhapsmostfamiliar,wefocusonitin
+thisdiscussion.However,theissuesdiscussedhereareapplicableregardlessofwhich
+softwarepackageisused.LikeCLOP,HLMisdesignedtotestcross-leveldirecteffect
+andmoderatingeffectsmodels.Thus,HLM—likeCLOP—answerstheseimportant
+questions:Whatistheeffectofahigherlevelunitcharacteristiconalowerlevelout-
+come?And/or,Whatistheinfluenceofahigherlevelunitcharacteristicontherela-
+tionshipbetweenlowerlevelvariables?Furthermore,likeCLOP,HLMincludesno
+procedurestojustifyaggregation.Thus,researchersusingHLMshoulduseotherpro-
+cedures(i.e.,r ,WABA,ICC(1),etc.)tojustifytheaggregationofindividual-level
+wg
+datatotheunitlevel,priortotestingtheeffectsofsuchunit-levelmeasuresonlower
+levelvariables(e.g.,Hofmann&Stetzner,1996).Asweexplainbelow,Faustmight
+useeitherCLOPorHLMtotestthemodelswedescribedintheprecedingsection.
+WereFausttousebothtechniquestotestthesamemodelsinthesamedataset,his
+results would be very similar, but not identical.
+HLMisconductedasasimultaneous,two-stageprocess(Hofmannetal.,2000).In
+theLevel1orfirststage,HLManalyzestherelationshipamonglowerlevel(e.g.,indi-
+vidual-level)variableswithineachhigherlevelunit(e.g.,team),calculatingtheinter-
+ceptandslope(s)forthelowerlevelmodelwithineachunit.Inthesecondstep,HLM
+analyzes the relationship between higher level (e.g., team-level) variables and the
+interceptsandslopesforeachteam.Inotherwords,Level2analysestreatvariancein
+within-teamslopesasindicativeofmoderationandvarianceinwithin-teamintercepts
+as indicative of direct effects.
+Suppose, as above, that Faust seeks to test a cross-level, direct effects model in
+whichteamlocationandteamleadercharismaarehypothesizedtoinfluenceindivid-
+ual performance. In the first stage, HLM would calculate the intercepts for each
+team—thatis,eachteam’smeanindividualperformancescore.Inthesecondstage,
+HLMwouldcalculatetherelationshipbetweenthetwohigherlevelpredictors—team
+locationandteamleadercharisma—andtheteamperformanceintercepts.Theresults
+woulddocumenttheextenttowhichteamlocationandteamleadercharismaexplain
+
+## Page 21
+
+Klein, Kozlowski / MULTILEVEL RESEARCH 231
+between-teamvarianceinindividualperformance(i.e.,varianceamongtheteammean
+scores for individual performance.)
+Considerasomewhatmorecomplexexample.SupposeFaustwantstotestthesame
+modelasdescribedabove,aftercontrollingfortheeffectsofindividualself-efficacy
+onindividualperformance.Inthefirststage,HLMwouldcalculate,foreachteam,the
+interceptandslopeofthewithin-teamrelationshipofindividualself-efficacyandindi-
+vidual performance. In the second stage, HLM would examine the relationship
+betweentheteamperformanceinterceptsandthetwohigherlevelpredictors(again,
+team location and team leader charisma). The results would describe the extent to
+which individual self-efficacy explains within-team variance in individual perfor-
+mance and the extent to which team location and team leader charisma explain
+between-team variance in individual performance.
+Finally,supposethatFaustwantstotestthemodelabove,aswellasthemoderating
+effects of team location and team leader charisma on the relationship between
+self-efficacyandindividualperformance.HLMwouldexaminetherelationshipsspec-
+ifiedabove,aswellastherelationshipbetweenthewithin-teamslopes(specifyingthe
+relationshipbetweenself-efficacyandperformanceineachteam)andthetwohigher
+levelpredictors.Thisfinalanalysiswouldthusextendtheprecedinganalyses,docu-
+mentingtheextenttowhichteamlocationandteamleadercharismaexplainvariability
+intheslopeoftheself-efficacy—individualperformancerelationship.Perhaps,aswe
+speculatedearlier,thisindividual-levelrelationshipisrelativelystronginvirtualteams
+and relatively weak in teams guided by a charismatic team leader.
+CLOPandHLMmaybeused,aswehavesuggested,totestthesamemodels.A
+researcherusingbothtechniquestoexaminethesamevariablesinthesamedataset
+wouldfindtheHLMparameterestimatesandCLOPparameterestimatestobeidenti-
+cal,orvirtuallyidentical.Thestatisticalsignificanceoftheparameterestimatesmight
+differ,however.Furthermore,varianceexplainedwoulddiffer.Intestingtheeffectsof
+across-leveldirecteffectvariable,CLOPreportstheextenttowhichthehigherlevel
+(here,team)variableexplainstotal(here,between-individual)varianceinthelower
+level variable. Thus, for example, CLOP might show that team leader charisma
+explains15%ofthetotalvarianceinindividualperformance.However,ifonly20%of
+thevarianceinindividualperformanceisbetween-teamvariance(and80%iswithin-
+teamvariance),thenHLMwouldreportthatteamleadercharismaexplainsroughly
+75%(or15/20)ofthebetween-teamvarianceinindividualperformance.TheHLM
+results may appear, at first blush, to be far more powerful and impressive than the
+CLOPresults.Who,afterall,wouldnotprefertoexplain75%ofthevariancerather
+than15%ofthevariance?But,theresultsareessentiallythesame;onlythemetricis
+different.Accordingly,itisnotdifficulttotranslateCLOPresultstoapproximatethe
+resultsonewouldfindinusingHLM(see,James&Williams,2000;Kleinetal.,2000).
+Nevertheless, HLM is currently regarded as the more rigorous and advanced tech-
+nique,allowingresearcherstouseappropriatestandarderrorsanddegreesoffreedom
+and to thereby avoid potentially important violations of statistical assumptions of
+independence.
+Abriefsummary.Clearly,CLOPandHLMaresimilaranalyticalstrategies.Both
+arewelldesignedtotestcross-leveldirecteffectandmoderatingmodels.WABAis
+quitedifferent.Itwasdesignedtoverifytheappropriatelevelofanalysisforagivenset
+ofvariablesinagivendatasetandtotestsingle-levelandmultilevelhomologousmod-
+
+## Page 22
+
+232 ORGANIZATIONAL RESEARCH METHODS
+els.ThusWABAdiffersfromCLOPandHLMintwoessentialrespects.First,WABA
+includesproceduresandstandardstoevaluatethelevelofvariablesandofrelation-
+ships (including procedures and standards to justify the aggregation of lower level
+variablestohigherlevelsofanalysis):CLOPandHLMdonotincludesuchproce-
+dures.Andsecond,WABAistypicallyusedtoassesssingle-levelmodels,althoughit
+canalsobeusedtotestmultilevelhomologousmodels:CLOPandHLM,incontrast,
+aretypicallyusedtoassesscross-levelrelationships,althoughclearlytheycanalso
+assess single-level models.
+Thus,researchersusingCLOP,HLM,andWABAtoanalyzethesamerelationships
+in the same data set may reach quite different conclusions. First, WABA, r ,
+wg
+eta-squaredICC(1),andICC(2)mayleadtodifferentconclusionsaboutwhetherpar-
+ticular variables can be aggregated. In our experience, we have found that WABA
+imposesmorestringentstandardsthantheotherstatisticalproceduresoftenusedto
+justifyaggregation.Thus,WABAresearchersmightwelladviseagainstaggregatinga
+measurethatHLMandCLOPresearchers,usingotherprocedurestojustifyaggrega-
+tion,mightreadilyaggregate.Second,researchersusingCLOPorHLMusevariables
+atdifferentlevelsofanalysis(e.g.,team-andindividual-levelpredictors)topredict
+lower level variables (e.g., individual outcomes). WABA, in contrast, largely con-
+strainsresearcherstoassesssingle-levelrelationships.AlthoughWABAcanbeusedto
+testcross-levelmoderatorrelationships,itwasnotdesignedtodosoanddoessoless
+flexibly than HLM and other multilevel random coefficient modeling techniques.
+Kleinetal.(2000)presentanexampleillustratingthesedifferencesamongtheana-
+lytictechniques.Theresearchteamuseddifferentprocedures—WABA,CLOP,and
+HLM—toanalyzeasimulatedmultileveldataset.ResearchersusingWABAchosenot
+toaggregateanyofthevariables.ResearchersrelyingonICC(1)andICC(2)valuesto
+justify aggregation chose, instead, to aggregate several variables. Furthermore, the
+WABA researchers conducted single-level (individual-level) analyses to assess the
+relationshipbetweenthepredictorsandjobsatisfaction,thesimulateddependentvari-
+able.TheCLOPandHLMresearchersusedcross-levelmodelingtotesttheserelation-
+ships.TheresultshighlightimportantdifferencesbetweenWABA,ononehand,and
+CLOP and HLM, on the other. The results also document differences between the
+results obtained using CLOP and those obtained using HLM. Thus, for example, a
+comparisonoftheHLMandCLOPresultsindicatesthatteam-levelpredictorsexplain
+morevarianceintheHLMresultsthanintheCLOPresults.Thekey,ofcourse,isthat
+HLM reports between-team variance explained by team-level predictors whereas
+CLOPreportstotalvarianceexplainedbytheteam-levelpredictors.TheCLOPand
+HLMresultsalsodifferslightlyinthereportedsignificanceofthepredictors.Bottom
+line,theCLOPandHLMresearcherscametothesamesubstantiveconclusions;the
+findings of WABA researchers were distinct.
+Conclusion
+Thereisincreasinginterestin,andproliferationof,researchthatattemptstobridge
+themicro-macrogapbymodelingphenomenathatcutacrossmultiplelevelsofanaly-
+sis.Fortoolong,micro-researchershaveroutinelyneglectedtheeffectsoftheorganiza-
+tionalcontextswithinwhichindividualbehavioroccurs.Organizationsarehierarchi-
+callynestedsystems.Toneglectthesesystems’structureinourconceptualizationand
+researchdesignsistodevelopincompleteandmisspecifiedmodels.Althoughmulti-
+
+## Page 23
+
+Klein, Kozlowski / MULTILEVEL RESEARCH 233
+leveltheoryandmultilevelresearchholdgreatpromiseforenhancingourunderstand-
+ingoforganizationalbehavior,theyalsoholdthepotentialforcreatingmanypitfalls
+for the unwary researcher. The many vigorous debates in the literature regarding
+appropriatewaystoconceptualizemultilevelmodels,supportdecisionstoaggregate
+data,andtoevaluatemultilevelmodelshavedonemuchtocreateconfusionaroundthe
+conduct of multilevel research (Kozlowski & Klein, 2000).
+Thisarticlerepresentsonesmallstepinoureffortstodispelthisconfusion.Wehave
+traced the steps a researcher must take in planning and carrying out multilevel
+research.Multilevelresearch,wehaveemphasized,shouldbeginwithwell-developed
+theory,andcarefulidentificationanddefinitionofkeyconstructs.Constructdefinition
+includesthespecificationandtheoreticaljustificationofthelevelandnatureofthe
+construct.
+Multilevelresearchcontinueswiththechoiceofthemodelspecifyingtherelation-
+shipamongtheconstructs.Hypothesesinmultilevelresearcharelevel-specific.Thus,
+hypothesesdescribenotsimplythedirection—positiveornegative—oftherelation-
+shipbetweenconstructsbutalsothelevelorlevelsofeachpredictedrelationship:sin-
+gle, cross-level direct, cross-level moderating, or multilevel homologous.
+Construct and model choices drive the operationalization of the constructs—the
+measurementstrategies—andthesamplingplan.Researchers,wehavenoted,canand
+shouldmakeanefforttoensurethattheirmeasuresshowwithin-andbetween-vari-
+ability across units as predicted by the theory.
+Whentheresearcherpostulatestheexistenceofsharedconstructs,greatcareiswar-
+rantedinthejustificationforaggregation.Severalstatisticaltoolsappropriateforsup-
+portingaggregationdecisionswerediscussedandcompared.Thereisnooneuniver-
+sally preferred approach for assessing shared constructs.
+Finally, a number of multilevel analytical systems are available to researchers.
+Thesesystemsarebestsuitedtoansweringdifferentresearchquestions:Thereisno
+one single best way. Informed by an understanding of the logic and assumptions
+embeddedwithineachanalyticsystem,andthedemandsoftheirtheoreticalmodel,
+researcherscanmakeappropriatechoicesamongstatisticalapproachesthatbestsat-
+isfy their requirements.
+Multilevelresearchischallenging,butthekeystogoodmultilevelresearcharesim-
+ple:Detailedandwell-developedtheory;judiciousoperationalization,measurement,
+andsampling;appropriatejustificationforaggregation;andthoughtfulselectionofan
+analysis strategy. In other words, there is no substitute for the basics!
+Note
+1.Throughoutthisdiscussion,wehaveemphasizedthatthedefinitionofsharedteamcon-
+structspresupposeswithin-teamhomogeneity.Thus,priortooperationalizingasharedteam
+constructbyaveragingteammembers’individualresponses,researchersshouldverifythatteam
+membersindeedshowwithin-teamagreement.Weshouldnote,however,thatinsomecases,re-
+searchersmayaggregateindividualscorestotheteam(orotherunit)leveleventhoughindividu-
+als’ scores show little within-team (or within-unit) homogeneity. For example, a researcher
+mightcalculateteammembers’averageage,or—outsideoforganizationalresearch—theaver-
+agebirthweightforchildreninacity,state,ornation.Insuchcases,thevariablemeasuredisnot
+asharedpropertyoftheunit,aswehavedefinedtheterm;itissimplytheunitaverage.Analyses
+ofunitaveragesareacceptablestatistically,butmayraiseproblemsofinterpretationasitmaybe
+
+## Page 24
+
+234 ORGANIZATIONAL RESEARCH METHODS
+unclearwhethertheunitaveragereflectstheexperiencesofmostorallofthemembersofateam,
+or instead reflects the influence of a few outliers.
+References
+Bandura, A. (1997).Self-efficacy: The exercise of control. New York: Freeman.
+Barry,B.,&Stewart,G.L.(1997).Composition,process,andperformanceinself-managed
+groups: The role of personality.Journal of Applied Psychology,82, 62-78.
+Bell,B.S.,&Kozlowski,S.W.J.(inpress).Virtualteams:Implicationsforleadership.Groups
+and Organization Management.
+Bliese,P.D.(2000).Within-groupagreement,non-independence,andreliability:Implications
+fordataaggregationandanalysis.InK.J.Klein&S.W.J.Kozlowski(Eds.),MultilevelThe-
+ory,Research,andMethodsinOrganizations(pp.349-381).SanFrancisco:Jossey-Bass.
+Bliese,P.D.&Halverson,R.R.(1998).Groupconsensusandpsychologicalwell-being:Alarge
+field study.Journal of Applied Social Psychology,28, 563-580.
+Bloom,M.(1999).Theperformanceeffectsofpaydispersiononindividualsandorganizations.
+Academy of Management Journal,42, 25-40.
+Brass,D.J.,&Burkhardt,M.E.(1993).Potentialpowerandpoweruse:Aninvestigationof
+structure and behavior.Academy of Management Journal,36, 441-470.
+Brown,K.G.,&Kozlowski,S.W.J.(1999,April).Towardanexpandedconceptualizationof
+emergent organizational phenomena: Dispersion theory. In F. P. Morgeson & D. A.
+Hofmann,(Chairs),Newperspectivesonhigher-levelphenomenainindustrial/organiza-
+tionalpsychology.Symposiumconductedatthe14thAnnualConferenceoftheSocietyfor
+Industrial and Organizational Psychology, Atlanta, GA.
+Brown,K.G.,Kozlowski,S.W.J.,&Hattrup,K.(1996,August).Theory,issues,andrecommen-
+dationsinconceptualizingagreementasaconstructinorganizationalresearch:Thesearch
+forconsensusregardingconsensus.InS.Kozlowski&K.Klein(Chairs),Themeaningand
+measurementofwithin-groupagreementinmulti-levelresearch.Symposiumconductedat
+the56thAnnualConventionoftheAcademyofManagementAssociation,Cincinnati,OH.
+Bryk,A.S.,&Raudenbush,S.W.(1992).Hierarchicallinearmodels:Applicationsanddata
+analysis methods. Newbury Park, CA: Sage.
+Chan,D.(1998).Functionalrelationsamongconstructsinthesamecontentdomainatdifferent
+levelsofanalysis:Atypologyofcompositionmodels.JournalofAppliedPsychology,83,
+234-246.
+Cohen,J.(1988).Statisticalpoweranalysisforthebehavioralsciences.Hillsdale,NJ:Law-
+rence Erlbaum.
+Dansereau,F.,Alutto,J.A.,&Yammarino,F.J.(1984).Theorytestinginorganizationalbehav-
+ior: The variant approach. Englewood Cliffs, NJ: Prentice-Hall.
+Dansereau,F.,&Yammarino,F.J.(1998).Introductionandoverview.InF.Dansereau&F.J.
+Yammarino (Eds.), Leadership: The Multiple-Level Approaches (pp. xxv-xliii).
+Greenwich, CT: JAI Press.
+Dansereau,F.,&Yammarino,F.J.(2000).Withinandbetweenanalysis:Thevariantparadigm
+asanunderlyingapproachtotheorybuildingandtesting.InK.J.Klein&S.W.J.Kozlowski
+(Eds.), Multilevel Theory, Research, and Methods in Organizations (pp. 425-466). San
+Francisco: Jossey Bass.
+DeShon,R.P.,Milner,K.R.,Kozlowski,S.W.J.,Toney,R.J.,Schmidt,A.,Wiechmann,D.,&
+Davis,C.(1999,April).Theeffectsofteamgoalorientationonindividualandteamperfor-
+mance. In D. Steele-Johnson (Chair), New directions in goal orientation research: Ex-
+tendingtheconstruct,thenomologicalnet,andanalyticmethods.Symposiumconductedat
+the14thAnnualConferenceoftheSocietyforIndustrialandOrganizationalPsychology,
+Atlanta, GA.
+
+## Page 25
+
+Klein, Kozlowski / MULTILEVEL RESEARCH 235
+Firebaugh,G.(1979).Assessinggroupeffects:Acomparisonoftwomethods.Sociological
+Methods & Research,7, 384-395.
+George,J.M.(1990).Personality,affect,andbehavioringroups.JournalofAppliedPsychol-
+ogy,75, 107-116.
+George,J.M.,&James,L.R.(1993).Personality,affect,andbehavioringroupsrevisited:Com-
+mentonappregation,levelsofanalysis,andarecentapplicationofwithinandbetween
+analysis.Journal of Applied Psychology,78, 798-804.
+Hofmann,D.A.,Griffin,M.,&Gavin,M.(2000).Theapplicationofhierarchicallinearmodel-
+ingtoorganizationalresearch.InK.J.Klein&S.W.J.Kozlowski(Eds.),MultilevelTheory,
+Research, and Methods in Organizations(pp. 467-511). San Francisco: Jossey Bass.
+Hofmann,D.A.,&Stetzer,A.(1996).Acrosslevelinvestigationoffactorsinfluencingunsafe
+behavior and accidents.Personnel Psychology,49, 307-339.
+House,R.,Rousseau,D.M.,&Thomas-Hunt,M.(1995).Themesoparadigm:Aframeworkfor
+integrationofmicroandmacroorganizational.InL.L.Cummings&B.Staw(Eds.),Re-
+search in organizational behavior(Vol. 17, pp. 71-114). Greenwich, CT: JAI.
+James,L.J.,&Williams,L.(2000).Thecross-leveloperatorinregression,ANCOVA,andcon-
+textualanalysis.InK.J.Klein&S.W.J.Kozlowski(Eds.),MultilevelTheory,Research,and
+Methods in Organizations(pp. 382-424). San Francisco: Jossey Bass.
+James,L.R.(l982).Aggregationbiasinestimatesofperceptualagreement.JournalofApplied
+Psychology,67, 2l9-229.
+James,L.R.,Demaree,R.G.,&Wolf,G.(1984).Estimatingwithingroupinterraterreliability
+with and without response bias.Journal of Applied Psychology,69, 85-98.
+James,L.R.,&Jones,A.P.(l974).Organizationalclimate:Areviewoftheoryandresearch.
+Psychological Bulletin,81, l096-lll2.
+Klein, K. J., Bliese, P. D., Kozlowski, S.W.J., Dansereau, F., Gavin, M. B., Griffin, M. A.,
+Hofmann,D.A.,James,L.R.,Yammarino,F.J.,&Bligh,M.C.(2000).Multilevelanalyti-
+caltechniques:Commonalities,differences,andcontinuingquestions.InK.J.Klein&
+S.W.J.Kozlowski(Eds.),Multileveltheory,researchandmethodsinorganizations:Foun-
+dations, extensions, and new directions(pp. 512-553). San Francisco, CA: Jossey-Bass.
+Klein,K.J.,Cannella,A.,&Tosi,H.(1999).Multileveltheory:Challengesandcontributions.
+Academy of Management Review,24, 243-248.
+Klein,K.J.,Conn,A.B.,Smith,D.B.,&Sorra,J.S.(inpress).Iseveryoneinagreement?Anex-
+plorationofwithin-groupagreementinemployeeperceptionsoftheworkenvironment.
+Journal of Applied Psychology.
+Klein,K.J.,Dansereau,F.,&Hall,R.J.(1994).Levelsissuesintheorydevelopment,datacol-
+lection, and analysis.Academy of Management Review,19, 195-229.
+Kozlowski,S.W.J.,&Doherty,M.L.(1989).Integrationofclimateandleadership:Examina-
+tion of a neglected issue.Journal of Applied Psychology,74, 546-553.
+Kozlowski,S.W.J.,Gully,S.M.,Nason,E.R.,&Smith,E.M.(1999).Developingadaptive
+teams:Atheoryofcompilationandperformanceacrosslevelsandtime.InD.R.Ilgen&
+E.D.Pulakos(Eds.),Thechangingnatureofworkperformance:Implicationsforstaffing,
+personnel actions, and development(pp. 240-292). San Francisco: Jossey-Bass.
+Kozlowski,S.W.J.,&Hattrup,K.(1992).Adisagreementaboutwithin-groupagreement:Dis-
+entangling issues of consistency versus consensus. Journal of Applied Psychology, 77,
+161-167.
+Kozlowski,S.W.J.,&Hults,B.M.(l987).Anexplorationofclimatesfortechnicalupdatingand
+performance.Personnel Psychology,40, 539-563.
+Kozlowski,S.W.J.,&Klein,K.J.(2000).Amultilevelapproachtotheoryandresearchinorga-
+nizations: Contextual, temporal, and emergent processes. In K. J. Klein & S.W.J.
+Kozlowski(Eds.),Multileveltheory,researchandmethodsinorganizations:Foundations,
+extensions, and new directions(pp. 3-90). San Francisco, CA: Jossey-Bass.
+Kreft, I., & de Leeuw, J. (1998).Introducing multilevel modeling. Thousand Oaks, CA: Sage.
+
+## Page 26
+
+236 ORGANIZATIONAL RESEARCH METHODS
+Lindsley,D.H.,Brass,D.J.,&Thomas,J.B.(1995).Efficacy-performancespirals:Amulti-
+level perspective.Academy of Management Review,20, 645-678.
+Ostroff,C.(1993).Comparingcorrelationsbasedonindividuallevelandaggregatedata.Jour-
+nal of Applied Psychology,78, 569-582.
+Rentsch,J.R.(1990).Climateandculture:Interactionandqualitativedifferencesinorganiza-
+tional meanings.Journal of Applied Psychology,75, 668-681.
+Robinson,W.S.(1950).Ecologicalcorrelationsandthebehaviorofindividuals.AmericanSo-
+ciological Review,15, 351-357.
+Schneider,B.,&Reichers,A.E.(l983).Ontheetiologyofclimates.PersonnelPsychology,36,
+l9-39.
+Staw,B.,Sandelands,L.E.,&Dutton,J.E.(1981).Threat-rigidityeffectsinorganizationalbe-
+havior: A multilevel analysis.Administrative Science Quarterly,26, 501-524.
+Thorndike,E.L.(1939).Onthefallacyofimputingthecorrelationsfoundforgroupstotheindi-
+vidualsorsmallergroupscomposingthem.AmericanJournalofPsychology,52,122-124.
+Tsui,A.S.,Egan,T.D.,&O’Reilly,C.A.(1992).Beingdifferent:Relationaldemographyand
+organizational attachment.Administrative Science Quarterly,37, 547-579.
+Yammarino,F.J.,&Markham,S.E.(1992).Ontheapplicationofwithinandbetweenanalysis:
+Areabsenceandaffectreallygroup-basedphenomena?JournalofAppliedPsychology,77,
+168-176.
+Weick,K.E.(1998).Improvisationasamindsetfororganizationalanalysis.OrganizationalSci-
+ence,9, 543-555.
+KatherineJ.KleinisanassociateprofessorofindustrialandorganizationalpsychologyattheUniversityof
+Maryland.Herresearchinterestsfocusonorganizationalandtechnologicalchange,innovationimplemen-
+tation,multileveltheoryandresearch,leadership,andteamprocesses.SheisafellowoftheSocietyforIn-
+dustrialandOrganizationalPsychologyandtheAmericanPsychologicalAssociation.Herarticleshave
+appearedintheJournalofAppliedPsychology,theAcademyofManagementReview,LeadershipQuar-
+terly,andtheJournalofVocationalBehavior.ShecurrentlyservesontheeditorialboardsoftheAcademyof
+Management Review, theJournal of Applied Psychology, and theSIOP Frontiers Series.
+SteveW.J.KozlowskiisaprofessoroforganizationalpsychologyatMichiganStateUniversity.Hismajor
+interestsareintheapplicationofmultileveltheorytounderstandinginnovation,change,andadaptabilityat
+theindividual,team,andorganizationallevels.Hiscurrentwork,whichfocusesonteamleadership,train-
+inganddevelopment,andadaptiveperformance,hasbeensupportedbytheNavalAirWarfareCenter
+TrainingSystemsDivisionandtheAirForceOfficeofScientificResearch.Hisworkhasbeenpublishedin
+manyjournals,includingtheAcademyofManagementJournal,HumanPerformance,HumanResource
+Planning,andtheJournalofAppliedPsychology.Heservesorhasservedontheeditorialboardsofthe
+JournalofAppliedPsychology,OrganizationalBehaviorandHumanDecisionProcesses,andtheAcademy
+ofManagementJournal.HeisafellowoftheAmericanPsychologicalAssociationandtheSocietyforIndus-
+trial and Organizational Psychology.

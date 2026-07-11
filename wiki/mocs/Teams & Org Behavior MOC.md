@@ -122,6 +122,7 @@ How individual work performance is modeled and measured — the construct, its d
 - [[Organizational Identification (Outcomes)]] — meta-analytic consequences; OI as a basis for attitudes/behaviors
 - [[Attitude-Behavior Relations]] — Fishbein-Ajzen general attitude → general behavior
 - [[Organizational Commitment]] — distinct from identification (lacks self-defining nature)
-- [[Collective Efficacy]] — group's shared belief in its collective power
+- [[Collective Efficacy]] — group's shared belief in its collective power (a [[Referent-Shift Consensus|referent-shift]] construct)
+- [[Multilevel Theory & Methods MOC]] — the levels-of-analysis paradigm underlying team emergence, composition/compilation, and cross-level models
 - [[lee-park-koo-2015-organizational-identification-meta-analysis|Lee, Park & Koo (2015)]]
 

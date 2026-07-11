@@ -27,4 +27,7 @@ The stronger the perceived collective efficacy, the higher the group's aspiratio
 
 Connects to the vault's team literature — a plausible antecedent alongside [[Enabling Conditions for Team Effectiveness]] and [[Team Effectiveness Criteria]].
 
+> [!note] Composition-model view
+> In multilevel terms, collective/team efficacy is a **[[Referent-Shift Consensus|referent-shift consensus]]** construct ([[chan-1998-composition-models-typology|Chan 1998]]): members answer team-referent items ("my team can…"), and agreement justifies aggregation. This is why it is **not** the mean of members' self-efficacy — the same reason Bandura calls it emergent. A **[[Global, Shared, and Configural Unit Properties|shared unit property]]**. See [[Multilevel Theory & Methods MOC]].
+
 Source: [[bandura-2001-social-cognitive-theory-agentic|Bandura (2001)]].

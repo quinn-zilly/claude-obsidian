@@ -25,7 +25,7 @@ created: 2026-04-07
 
 # Wiki Index
 
-Last updated: 2026-07-11 | Total pages: 589 | Sources ingested: 88
+Last updated: 2026-07-11 | Total pages: 607 | Sources ingested: 91
 
 Navigation: [[Home MOC]] | [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[getting-started]]
 
@@ -39,6 +39,18 @@ Navigation: [[Home MOC]] | [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[
 
 ## Concepts
 
+- [[Multilevel Theory in Organizations]] — the meso paradigm; micro–macro bridge; *what/how/where/when/why* of theory building (Kozlowski & Klein 2000)
+- [[Emergence (Organizational)]] — bottom-up processes yielding collective phenomena; composition↔compilation continuum
+- [[Composition vs Compilation]] — the two ideal-type forms of emergence (isomorphic/shared vs discontinuous/configural)
+- [[Global, Shared, and Configural Unit Properties]] — three unit-construct types; each dictates its own measurement
+- [[Cross-Level Models]] — direct-effect, moderator, frog-pond, homologous
+- [[Bond Strength and Coupling]] — *where* linkages are strong: proximity, inclusion, embeddedness (Simon)
+- [[Entrainment]] — *when*: time as moderator, differential time scales, time-varying coupling
+- [[Levels of Analysis Fallacies]] — ecological & atomistic fallacies; misalignment as the root multilevel error
+- [[Aggregation Justification Indices]] — $r_{wg}$, ICC(1), ICC(2), η², WABA; consensus vs consistency
+- [[Multilevel Research Design and Sampling]] — nested sampling; HLM/WABA/contextual analysis
+- [[Chan's Typology of Composition Models]] — additive / direct consensus / referent-shift / dispersion / process (Chan 1998)
+- [[Referent-Shift Consensus]] — why team efficacy ≠ mean self-efficacy
 - [[Employee Recruitment]] — external recruitment: bring an opening to notice, influence application, maintain interest, affect offer acceptance; prehire/posthire outcomes; no general theory (Breaugh 2013)
 - [[Applicant Attraction]] — the central prehire criterion; seven predictor categories; fit strongest for attraction but not job choice (Uggerslev et al. 2012)
 - [[Recruitment Stages (Barber)]] — generate applicants → maintain status → influence job choice; stage moderates predictor importance
@@ -497,6 +509,9 @@ Navigation: [[Home MOC]] | [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[
 
 ### Sources (new — 2026-06-04)
 
+- [[kozlowski-klein-2000-multilevel-approach]] — the foundational chapter on multilevel theory: emergence, composition/compilation, unit-construct types, cross-level models, time; Ch. 1 of Klein & Kozlowski (2000)
+- [[klein-kozlowski-2000-micro-to-meso]] — practitioner essay ("Dr. Faust") on the four choices of multilevel research; *Organizational Research Methods* 2000
+- [[chan-1998-composition-models-typology]] — five composition models (additive/direct consensus/referent-shift/dispersion/process); *JAP* 1998
 - [[uggerslev-et-al-2012-recruiting-through-stages]] — meta-analysis (232 studies, N≈108k) of recruiting predictors across Barber's stages; perceived fit strongest for attraction (n.s. for job choice); recruiter behaviors add early incremental variance; *Personnel Psychology* 2012
 - [[breaugh-2013-employee-recruitment]] — *Annual Review* narrative synthesis of employee recruitment (targeting, methods, message, recruiters, site visit, offer, timing); no general theory; persuasion psychology under-used; 2013
 - [[adler-et-al-2016-getting-rid-of-ratings]] — the SIOP keep-vs-drop performance-ratings debate; anti-side (rating = failed experiment) vs pro-side (performance is always evaluated; differentiation has value); *Industrial and Organizational Psychology* 2016
@@ -600,6 +615,9 @@ Navigation: [[Home MOC]] | [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[
 
 ## Entities
 
+- [[Steve W. J. Kozlowski]] — co-architect of the multilevel paradigm; emergence & composition/compilation; teams (MSU)
+- [[Katherine J. Klein]] — co-architect of the multilevel paradigm; levels framework & the "Dr. Faust" essay (Wharton)
+- [[David Chan]] — typology of composition models; referent-shift & dispersion composition (MSU/NUS)
 - [[Krista Uggerslev]] — recruitment & applicant-reactions researcher; lead author of the recruiting-through-stages meta-analysis; co-author Chapman et al. (2005)
 - [[James Breaugh]] — U. Missouri–St. Louis; leading recruitment/RJP authority; author of the first *Annual Review* recruitment review
 - [[Seymour Adler]] — Aon Hewitt; chaired the 2015 SIOP ratings debate; pro-ratings side
