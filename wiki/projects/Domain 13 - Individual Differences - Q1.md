@@ -25,13 +25,13 @@ The "Big Five" have received increasing attention as dimensions important for se
 
 [[zell-lesick-2022-big-five-performance-synthesis]]
 
-sackett
+[[Sackett-et-al-2022-validity-overcorrection]]
 
-saucier
+[[Saucier-Srivastava-2015-structural-models-personality]]
 
-judge & zapata
+[[Judge-Zapata-2015-person-situation-revisited]]
 
 [[tett-et-al-2021-trait-activation-theory]]
 
-
+[[ones-et-al-2007-personality-assessment-support]]
 

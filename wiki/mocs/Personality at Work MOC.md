@@ -32,9 +32,13 @@ This cluster maps the use of **personality variables to predict and understand w
 ## Validity, measurement & tensions
 
 - [[Criterion-Related Validity of Personality]] — the matching principle; benchmark magnitudes
+- [[Conscientiousness]] — the single best generalizable Big Five predictor of job performance; facets predict differentially
+- [[Integrity Tests]] — the highest-validity compound trait; ~.41 for supervisory JP ratings
+- [[Incremental Validity Over Cognitive Ability]] — personality's non-redundant gain over GMA
 - [[Bandwidth-Fidelity Dilemma]] — broad vs narrow; a theory/practice tension, not a dichotomy
 - [[Synthetic Validity]] — tailored predictor batteries from a shared predictor × criterion database
 - [[Intentional Distortion (Faking)]] — faking rarely corrodes validity; warnings + consequences help
+- [[Directed Faking vs Applicant Response Distortion]] — the lab-vs-applicant distinction; applicant distortion is overrated
 - [[Second-Order Meta-Analysis]] — aggregating across meta-analyses (the method behind Zell & Lesick)
 
 ## Structure of personality (the "what are the units" question)
@@ -66,6 +70,7 @@ This cluster maps the use of **personality variables to predict and understand w
 - [[Saucier-Srivastava-2015-structural-models-personality|Saucier & Srivastava (2015) — What Makes a Good Structural Model of Personality?]] (lexical/structure review)
 - [[Judge-Zapata-2015-person-situation-revisited|Judge & Zapata (2015) — The Person–Situation Debate Revisited]] (interactionist meta-analysis)
 - [[Sackett-et-al-2022-validity-overcorrection|Sackett, Zhang, Berry & Lievens (2022) — Revisiting Validity Estimates]] (range-restriction recalibration)
+- [[ones-et-al-2007-personality-assessment-support|Ones, Dilchert, Viswesvaran & Judge (2007) — In Support of Personality Assessment]] (the pro-personality rebuttal) — vs its foil [[Morgeson et al. (2007) Panel Critique|Morgeson et al. (2007)]] (the skeptic panel)
 
 ## Key people
 

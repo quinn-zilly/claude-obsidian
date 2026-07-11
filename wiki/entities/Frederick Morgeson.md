@@ -35,6 +35,10 @@ IO psychologist; Michigan State University. Primary contemporary theorist of wor
 - **Morgeson & Humphrey (2008):** expanded framework with social + contextual characteristics
 - **Nahrgang, Morgeson & Hofmann (2011):** JD-R meta-analysis including safety outcomes
 
+## Other work in this vault
+
+- Lead author of the [[Morgeson et al. (2007) Panel Critique|Morgeson et al. (2007) panel critique]] questioning personality tests in selection — rebutted by [[ones-et-al-2007-personality-assessment-support|Ones et al. (2007)]].
+
 ## Sources
 
 - [[morgeson-humphrey-2006-work-design-questionnaire|Morgeson & Humphrey (2006)]]

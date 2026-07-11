@@ -16,6 +16,7 @@ related: ["[[Frank L. Schmidt]]", "[[Chockalingam Viswesvaran]]", "[[Nathan R. K
 I/O psychologist (University of Minnesota). Prominent in personnel selection, personality at work, and [[psychometric meta-analysis]]. **Bridges two sources in this vault**: co-author on both [[viswesvaran-schmidt-ones-2005-general-factor-job-performance|Viswesvaran, Schmidt & Ones (2005)]] and [[kuncel-et-al-2013-mechanical-vs-clinical|Kuncel et al. (2013)]].
 
 ## Key work in this vault
+- [[ones-et-al-2007-personality-assessment-support|Ones, Dilchert, Viswesvaran & Judge (2007) — In Support of Personality Assessment]] — lead author of the rebuttal to the [[Morgeson et al. (2007) Panel Critique|Morgeson panel]]; defends Big Five, [[Conscientiousness]], [[Integrity Tests|integrity tests]], and applicant-based validity against faking concerns
 - [[viswesvaran-schmidt-ones-2005-general-factor-job-performance|Viswesvaran, Schmidt & Ones (2005)]]
 - [[viswesvaran-ones-2000-models-of-job-performance|Viswesvaran & Ones (2000) — Perspectives on Models of Job Performance]]
 - [[kuncel-et-al-2013-mechanical-vs-clinical|Kuncel et al. (2013)]]

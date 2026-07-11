@@ -28,6 +28,7 @@ related:
   - "[[Christopher M. Berry]]"
   - "[[Filip Lievens]]"
   - "[[Frank L. Schmidt]]"
+  - "[[ones-et-al-2007-personality-assessment-support]]"
   - "[[Recruitment MOC]]"
   - "[[Personality at Work MOC]]"
 mocs:
@@ -38,6 +39,9 @@ mocs:
 # Sackett, Zhang, Berry & Lievens (2022) — Revisiting Meta-Analytic Estimates of Validity in Personnel Selection
 
 Nav: [[index]] | [[sources/_index]] | [[Recruitment MOC]]
+
+> [!contradiction] Recalibrates the validity magnitudes in [[ones-et-al-2007-personality-assessment-support|Ones et al. (2007)]]
+> [[ones-et-al-2007-personality-assessment-support|Ones et al. (2007)]] report [[Operational Validity (Selection)|operational validities]] under the Schmidt–Hunter correction regime that this paper argues **over-applied [[Range Restriction Correction|range-restriction corrections]]**. Many of the 2007 headline magnitudes therefore run **higher** than these recalibrated estimates. The *relative* rankings (e.g. Conscientiousness > other Big Five; compound traits highest) survive; the absolute values in the 2007 paper are pre-recalibration.
 
 > [!abstract] One-line
 > The field has **systematically overcorrected for range restriction** for decades; recalibrating drops most selection-procedure validities by **.10–.20**, and **structured interviews (ρ = .42)** — not cognitive ability (ρ revised .31, down from .51) — emerge as the top-ranked predictor of job performance.

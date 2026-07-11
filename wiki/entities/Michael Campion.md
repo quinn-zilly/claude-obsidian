@@ -29,6 +29,8 @@ IO psychologist; Purdue University. Developed interdisciplinary model of job des
 - Research on task enlargement vs. knowledge enlargement (McClelland 1993): knowledge enlargement → benefits; task enlargement alone → overload
 - On the **pro-ratings** side of [[adler-et-al-2016-getting-rid-of-ratings|Adler et al. (2016)]] (with [[Seymour Adler]] and [[Amy Grubb]]): "too hard" is no excuse for I-O psychology; performance is always evaluated in some form.
 
+- Panelist (the primary personality-skeptic voice, via vote-counting review) in the [[Morgeson et al. (2007) Panel Critique|Morgeson et al. (2007) panel critique]] — his arguments are the main target of [[ones-et-al-2007-personality-assessment-support|Ones et al. (2007)]].
+
 ## Sources
 
 - [[morgeson-humphrey-2006-work-design-questionnaire|Morgeson & Humphrey (2006)]] — MJDQ is the comparison baseline for the WDQ

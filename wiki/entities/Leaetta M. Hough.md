@@ -37,3 +37,4 @@ Frequent collaborators: [[Deniz S. Ones]], [[Frederick L. Oswald]], [[Jeff W. Jo
 
 - [[hough-johnson-2013-personality-in-work-settings|Hough & Johnson (2013)]] — Handbook of Psychology chapter.
 - [[hough-oswald-ock-2015-beyond-the-big-five|Hough, Oswald & Ock (2015)]] — *Annual Review* manifesto.
+- Cited extensively (Hough 1992, 1997, 1998a/b) in [[ones-et-al-2007-personality-assessment-support|Ones et al. (2007)]] for applicant-based predictive validities and facet-level results.

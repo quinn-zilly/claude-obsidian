@@ -25,7 +25,7 @@ created: 2026-04-07
 
 # Wiki Index
 
-Last updated: 2026-07-11 | Total pages: 645 | Sources ingested: 97
+Last updated: 2026-07-11 | Total pages: 652 | Sources ingested: 98
 
 Navigation: [[Home MOC]] | [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[getting-started]]
 
@@ -39,6 +39,10 @@ Navigation: [[Home MOC]] | [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[
 
 ## Concepts
 
+- [[Conscientiousness]] — the single best generalizable Big Five predictor of job performance; facets (achievement, dependability) predict differentially (Ones et al. 2007)
+- [[Integrity Tests]] — the highest-validity compound personality measure; ~.41 for supervisory ratings of overall JP; overt vs personality-based
+- [[Incremental Validity Over Cognitive Ability]] — personality's non-redundant predictive gain over GMA (.07–.16; ~.14 for integrity)
+- [[Directed Faking vs Applicant Response Distortion]] — the lab-vs-applicant distinction; real-applicant distortion is overrated (Ones et al. 2007)
 - [[Range Restriction Correction]] — the U-ratio artifact correction; systematically overapplied in selection meta-analyses (Sackett et al. 2022)
 - [[Operational Validity (Selection)]] — the corrected predictor–performance correlation; Schmidt & Hunter (1998) canon, revised down by Sackett et al. (2022)
 - [[Predictive vs Concurrent Validation]] — validation-design distinction driving range-restriction overcorrection
@@ -637,6 +641,7 @@ Navigation: [[Home MOC]] | [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[
 - [[Katherine J. Klein]] — co-architect of the multilevel paradigm; levels framework & the "Dr. Faust" essay (Wharton)
 - [[David Chan]] — typology of composition models; referent-shift & dispersion composition (MSU/NUS)
 - [[Leaetta M. Hough]] — The Dunnette Group; personality at work; facet-level measurement; nomological-web clustering; Project A (developing)
+- [[Stephan Dilchert]] — personality at work, CWB, response distortion; frequent Ones collaborator (Baruch/CUNY) (stub)
 - [[Jeff W. Johnson]] — personality→performance process model (added work habits); synthetic-validity advocate; ≠ [[Russell Johnson]] (developing)
 - [[Frederick L. Oswald]] — Rice U.; personality structure, selection, psychometrics; co-author "beyond the Big Five" (developing)
 - [[Jisoo Ock]] — I/O psychologist; co-author Hough, Oswald & Ock (2015) (stub)

@@ -19,6 +19,9 @@ related:
   - "[[Criterion-Related Validity of Personality]]"
   - "[[hough-johnson-2013-personality-in-work-settings]]"
   - "[[hough-oswald-ock-2015-beyond-the-big-five]]"
+  - "[[Integrity Tests]]"
+  - "[[Incremental Validity Over Cognitive Ability]]"
+  - "[[ones-et-al-2007-personality-assessment-support]]"
   - "[[Personality at Work MOC]]"
 ---
 
@@ -41,3 +44,7 @@ Key properties:
 - **Circumplex models cannot easily represent them** — integrity and service orientation each blend *three* factors (C, A, ES), exceeding the 2-dimensional circumplex ([[hough-oswald-ock-2015-beyond-the-big-five|Hough et al. 2015]]).
 
 Relation to structure: compound traits are a reason the pure hierarchical [[Five-Factor Model]] is incomplete — useful predictors live *above* the Big Five as well as *below* it (at the [[Facet-Level Personality Measurement|facet]] level).
+
+## Validity in selection
+
+Per [[ones-et-al-2007-personality-assessment-support|Ones et al. (2007)]], compound measures are the **highest-validity personality predictors of overall job performance — only general mental ability is superior**. [[Integrity Tests|Integrity tests]] reach ~.41 for supervisory ratings of overall JP (applicant-based, predictive); other compound scales range .19–.42. They also supply [[Incremental Validity Over Cognitive Ability|incremental validity over cognitive ability]] (.07–.16, or ~.14 for integrity).

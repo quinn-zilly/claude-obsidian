@@ -23,6 +23,7 @@ One of the most prolific researchers in organizational psychology, particularly 
 - **Dispositional influences on job attitudes** — multiple landmark studies on personality and job satisfaction (Big Five meta-analysis, CSE mechanisms)
 - **Person–situation interactionism** — [[Judge-Zapata-2015-person-situation-revisited|Judge & Zapata (2015)]] meta-analytically integrated [[Situation Strength]] and [[Trait Activation Theory]] to explain when Big Five traits predict job performance
 - **Leadership** — meta-analyses on leader consideration/initiating structure (Judge et al. 2004) and transformational leadership
+- **Defense of personality in selection** — co-author of [[ones-et-al-2007-personality-assessment-support|Ones, Dilchert, Viswesvaran & Judge (2007)]], the rebuttal to the [[Morgeson et al. (2007) Panel Critique|Morgeson panel]]
 - **ESM and affect** — multiple field ESM studies on personality, mood, and job satisfaction
 
 ## Selected Key Papers (mentioned in Judge & Kammeyer-Mueller 2012)

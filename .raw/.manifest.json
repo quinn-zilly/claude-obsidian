@@ -2817,6 +2817,34 @@
         "wiki/hot.md",
         "wiki/log.md"
       ]
+    },
+    ".raw/Ones et al. - 2007 - IN SUPPORT OF PERSONALITY ASSESSMENT IN ORGANIZATIONAL SETTINGS.md": {
+      "hash": "41da28ae243673d6f079923dba47768f",
+      "ingested_at": "2026-07-11",
+      "pages_created": [
+        "wiki/sources/ones-et-al-2007-personality-assessment-support.md",
+        "wiki/sources/Morgeson et al. (2007) Panel Critique.md",
+        "wiki/concepts/Integrity Tests.md",
+        "wiki/concepts/Incremental Validity Over Cognitive Ability.md",
+        "wiki/concepts/Directed Faking vs Applicant Response Distortion.md",
+        "wiki/concepts/Conscientiousness.md",
+        "wiki/entities/Stephan Dilchert.md"
+      ],
+      "pages_updated": [
+        "wiki/entities/Deniz S. Ones.md",
+        "wiki/entities/Chockalingam Viswesvaran.md",
+        "wiki/entities/Timothy A. Judge.md",
+        "wiki/entities/Frederick Morgeson.md",
+        "wiki/entities/Michael Campion.md",
+        "wiki/entities/Leaetta M. Hough.md",
+        "wiki/concepts/Intentional Distortion (Faking).md",
+        "wiki/concepts/Compound Traits (Personality).md",
+        "wiki/sources/Sackett-et-al-2022-validity-overcorrection.md",
+        "wiki/mocs/Personality at Work MOC.md",
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md"
+      ]
     }
   },
   "address_map": {
@@ -3859,7 +3887,14 @@
     "wiki/concepts/Lexical Hypothesis.md": "c-001156",
     "wiki/concepts/Personality Structure Hierarchy.md": "c-001157",
     "wiki/concepts/Units Problem (Personality).md": "c-001158",
-    "wiki/concepts/Person–Situation Debate.md": "c-001159"
+    "wiki/concepts/Person–Situation Debate.md": "c-001159",
+    "wiki/sources/ones-et-al-2007-personality-assessment-support.md": "c-001160",
+    "wiki/concepts/Integrity Tests.md": "c-001161",
+    "wiki/concepts/Incremental Validity Over Cognitive Ability.md": "c-001162",
+    "wiki/concepts/Directed Faking vs Applicant Response Distortion.md": "c-001163",
+    "wiki/concepts/Conscientiousness.md": "c-001164",
+    "wiki/entities/Stephan Dilchert.md": "c-001165",
+    "wiki/sources/Morgeson et al. (2007) Panel Critique.md": "c-001166"
   },
   ".raw/Pearsall et al. - 2025 - A stimulus-based model of the team adaptation process An integrated conceptual review..pdf": {
     "hash": "62f683006d3323a67c67fc23621f632a",

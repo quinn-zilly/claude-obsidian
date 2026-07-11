@@ -18,7 +18,9 @@ status: developing
 related:
   - "[[Five-Factor Model]]"
   - "[[Criterion-Related Validity of Personality]]"
+  - "[[Directed Faking vs Applicant Response Distortion]]"
   - "[[hough-johnson-2013-personality-in-work-settings]]"
+  - "[[ones-et-al-2007-personality-assessment-support]]"
   - "[[Personality at Work MOC]]"
 ---
 
@@ -50,3 +52,7 @@ Deliberate positive self-presentation on self-report personality measures in hig
 - **Coaching** can defeat traditional social-desirability detection (Hurtz & Alliger 2002).
 
 Newer process models of faking (McFarland & Ryan; Goffin & Boyd 2009) incorporate attitudes toward faking, perceived control, norms, and contextual moderators. The authors are **leery of more lab studies with students** given poor generalization to real settings.
+
+## The lab-vs-applicant distinction
+
+[[ones-et-al-2007-personality-assessment-support|Ones et al. (2007)]] make the same generalization point structural: see [[Directed Faking vs Applicant Response Distortion]]. Their conclusion — that the impact of response distortion among real applicants is **overrated**, because criterion-related *and* construct validity hold up in applicant samples, and that score corrections give "minimal effects" — converges with the findings above.
