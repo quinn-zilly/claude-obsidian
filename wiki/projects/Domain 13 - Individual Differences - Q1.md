@@ -4,6 +4,8 @@ address:
 title: Domain 13 - Individual Differences - Q1
 tags:
   - personality
+  - five-factor-model
+  - selection
 status: developing
 updated: <% tp.date.now("YYYY-MM-DD") %>
 created: <% tp.date.now("YYYY-MM-DD") %>
@@ -17,9 +19,19 @@ The "Big Five" have received increasing attention as dimensions important for se
 
 # References
 
-hough and johnson
+[[hough-johnson-2013-personality-in-work-settings]]
 
-hough et al
+[[hough-oswald-ock-2015-beyond-the-big-five]]
 
-zell
+[[zell-lesick-2022-big-five-performance-synthesis]]
+
+sackett
+
+saucier
+
+judge & zapata
+
+[[tett-et-al-2021-trait-activation-theory]]
+
+
 

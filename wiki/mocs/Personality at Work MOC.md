@@ -37,9 +37,23 @@ This cluster maps the use of **personality variables to predict and understand w
 - [[Intentional Distortion (Faking)]] — faking rarely corrodes validity; warnings + consequences help
 - [[Second-Order Meta-Analysis]] — aggregating across meta-analyses (the method behind Zell & Lesick)
 
+## Structure of personality (the "what are the units" question)
+
+- [[Units Problem (Personality)]] — realist vs constructivist vs functionalist views of what traits *are*
+- [[Lexical Hypothesis]] — deriving structure from the natural-language personality lexicon
+- [[Personality Structure Hierarchy]] — radial hierarchy: Big One → Two → Three → Five → Six; robustness falls as factors rise
+
+## Validity of selection procedures (the recalibration)
+
+- [[Operational Validity (Selection)]] — the corrected predictor–performance correlation practitioners rank on
+- [[Range Restriction Correction]] — the artifact correction that was systematically overapplied
+- [[Predictive vs Concurrent Validation]] — the design distinction that drives the overcorrection
+- [[Validity–Diversity Tradeoff]] — high-validity procedures often carry high adverse impact
+
 ## Why personality predicts (process)
 
 - [[Personality–Performance Process Models]] — direct vs indirect determinants; motivational mediators
+- [[Person–Situation Debate]] — the trait-vs-situation controversy interactionism resolves
 - [[Trait Activation Theory]] — traits activated by valued situational cues
 - [[Situation Strength]] — weak situations let personality predict more strongly
 - [[Counterproductive Work Behavior]] — a key criterion (low C, low A, low H)
@@ -49,11 +63,15 @@ This cluster maps the use of **personality variables to predict and understand w
 - [[hough-johnson-2013-personality-in-work-settings|Hough & Johnson (2013) — Use and Importance of Personality Variables in Work Settings]] (Handbook chapter)
 - [[hough-oswald-ock-2015-beyond-the-big-five|Hough, Oswald & Ock (2015) — Beyond the Big Five]] (*Annual Review* manifesto)
 - [[zell-lesick-2022-big-five-performance-synthesis|Zell & Lesick (2022) — Big Five & Performance: 50+ Meta-Analyses]] (second-order synthesis)
+- [[Saucier-Srivastava-2015-structural-models-personality|Saucier & Srivastava (2015) — What Makes a Good Structural Model of Personality?]] (lexical/structure review)
+- [[Judge-Zapata-2015-person-situation-revisited|Judge & Zapata (2015) — The Person–Situation Debate Revisited]] (interactionist meta-analysis)
+- [[Sackett-et-al-2022-validity-overcorrection|Sackett, Zhang, Berry & Lievens (2022) — Revisiting Validity Estimates]] (range-restriction recalibration)
 
 ## Key people
 
 - [[Leaetta M. Hough]] · [[Jeff W. Johnson]] · [[Frederick L. Oswald]] · [[Jisoo Ock]] · [[Ethan Zell]] · [[Tara L. Lesick]]
-- Also in the vault: [[Deniz S. Ones]] · [[Robert Tett]] · [[Timothy A. Judge]] · [[Michael P. Wilmot]]
+- [[Gerard Saucier]] · [[Sanjay Srivastava]] (personality structure) · [[Timothy A. Judge]] · [[Cindy P. Zapata]] (interactionism) · [[Paul R. Sackett]] · [[Filip Lievens]] (selection validity)
+- Also in the vault: [[Deniz S. Ones]] · [[Robert Tett]] · [[Michael P. Wilmot]] · [[Frank L. Schmidt]]
 
 ## Open questions / frontier
 

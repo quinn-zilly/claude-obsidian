@@ -18,6 +18,8 @@ related:
   - "[[tett-et-al-2021-trait-activation-theory]]"
   - "[[Personality–Performance Process Models]]"
   - "[[Nomological-Web Clustering]]"
+  - "[[Judge-Zapata-2015-person-situation-revisited]]"
+  - "[[Person–Situation Debate]]"
   - "[[Personality at Work MOC]]"
 ---
 

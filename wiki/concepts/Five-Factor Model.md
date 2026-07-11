@@ -15,6 +15,9 @@ related:
   - "[[Facet-Level Personality Measurement]]"
   - "[[Nomological-Web Clustering]]"
   - "[[Criterion-Related Validity of Personality]]"
+  - "[[Lexical Hypothesis]]"
+  - "[[Personality Structure Hierarchy]]"
+  - "[[Person–Situation Debate]]"
   - "[[Personality at Work MOC]]"
 ---
 
@@ -26,6 +29,9 @@ Nav: [[index]] | [[concepts/_index]] | [[Personality at Work MOC]]
 > Hough and colleagues argue the broad FFM is useful but **limiting** — it is method-bound, missing variables, and obscures relationships that live at the [[Facet-Level Personality Measurement|facet level]]. See [[HEXACO Model]], [[Nomological-Web Clustering]], and the [[Personality at Work MOC]]. For the quantitative overall validity picture, see [[zell-lesick-2022-big-five-performance-synthesis|Zell & Lesick (2022)]] (C ρ=.19, others ~.10–.13); for the "refine, don't aggregate" counter-argument see [[hough-oswald-ock-2015-beyond-the-big-five|Hough, Oswald & Ock (2015)]].
 
 The FFM (Big Five) provides the dominant personality taxonomy in organizational research: **Neuroticism (N), Extraversion (E), Openness (O), Agreeableness (A), Conscientiousness (C)**. Originated with Tupes & Christal (1958); replicated widely.
+
+> [!note] Not the ground truth — one cut in a hierarchy
+> [[Saucier-Srivastava-2015-structural-models-personality|Saucier & Srivastava (2015)]] show via the [[Lexical Hypothesis|lexical approach]] that the Big Five's cross-cultural support is weaker than assumed (clean recovery mainly in Germanic/Slavic languages; intellect–openness travels poorly). One-, two-, and three-factor structures are **more replicable**, and the **Big Six** may generalize better. See [[Personality Structure Hierarchy]].
 
 ## Work Performance Validity
 

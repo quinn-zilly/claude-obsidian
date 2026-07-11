@@ -40,14 +40,22 @@ This cluster maps how organizations **attract and acquire** talent — the prehi
 - [[Elaboration Likelihood Model]] — central vs peripheral processing; why stage changes what persuades
 - [[Signaling Theory (Recruitment)]] — applicants infer unknown attributes from observable cues
 
+## Selection validity (the post-attraction hire decision)
+
+- [[Operational Validity (Selection)]] — how selection procedures rank on predicting job performance
+- [[Range Restriction Correction]] — the artifact correction the field systematically overapplied
+- [[Predictive vs Concurrent Validation]] — the design distinction driving overcorrection
+- [[Validity–Diversity Tradeoff]] — high-validity procedures often carry high adverse impact
+
 ## Foundational sources
 
 - [[uggerslev-et-al-2012-recruiting-through-stages|Uggerslev, Fassina & Kraichy (2012) — Recruiting Through the Stages]] (meta-analysis)
 - [[breaugh-2013-employee-recruitment|Breaugh (2013) — Employee Recruitment]] (*Annual Review* narrative synthesis)
+- [[Sackett-et-al-2022-validity-overcorrection|Sackett, Zhang, Berry & Lievens (2022) — Revisiting Validity Estimates]] (selection-validity recalibration; structured interviews now #1)
 
 ## Key people
 
-- [[Krista Uggerslev]] · [[James Breaugh]]
+- [[Krista Uggerslev]] · [[James Breaugh]] · [[Paul R. Sackett]] · [[Filip Lievens]]
 
 ## Related MOCs
 

@@ -25,7 +25,7 @@ created: 2026-04-07
 
 # Wiki Index
 
-Last updated: 2026-07-11 | Total pages: 627 | Sources ingested: 94
+Last updated: 2026-07-11 | Total pages: 645 | Sources ingested: 97
 
 Navigation: [[Home MOC]] | [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[getting-started]]
 
@@ -39,6 +39,14 @@ Navigation: [[Home MOC]] | [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[
 
 ## Concepts
 
+- [[Range Restriction Correction]] — the U-ratio artifact correction; systematically overapplied in selection meta-analyses (Sackett et al. 2022)
+- [[Operational Validity (Selection)]] — the corrected predictor–performance correlation; Schmidt & Hunter (1998) canon, revised down by Sackett et al. (2022)
+- [[Predictive vs Concurrent Validation]] — validation-design distinction driving range-restriction overcorrection
+- [[Validity–Diversity Tradeoff]] — high-validity selection procedures often carry high adverse impact
+- [[Lexical Hypothesis]] — the most important individual differences are encoded in language; basis of trait taxonomies
+- [[Personality Structure Hierarchy]] — radial hierarchy Big One → Two → Three → Five → Six; robustness falls as factors rise (Saucier & Srivastava 2015)
+- [[Units Problem (Personality)]] — realist vs constructivist vs functionalist views of what traits are
+- [[Person–Situation Debate]] — the trait-vs-situation controversy; resolved via interactionism (Judge & Zapata 2015)
 - [[Multilevel Theory in Organizations]] — the meso paradigm; micro–macro bridge; *what/how/where/when/why* of theory building (Kozlowski & Klein 2000)
 - [[Emergence (Organizational)]] — bottom-up processes yielding collective phenomena; composition↔compilation continuum
 - [[Composition vs Compilation]] — the two ideal-type forms of emergence (isomorphic/shared vs discontinuous/configural)

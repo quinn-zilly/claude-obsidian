@@ -45,6 +45,9 @@ The magnitude of the correlation between personality predictors and work-related
 
 Meta-analyses correcting for **both unreliability and range restriction** yield larger effects than uncorrected ones (Zell & Lesick: .12–.22 vs .05–.13) — so reported validities are often **underestimates**.
 
+> [!contradiction] Conflict with [[Sackett-et-al-2022-validity-overcorrection]]
+> The claim above (corrections make reported validities *underestimates*) assumes range-restriction corrections are appropriate. [[Sackett-et-al-2022-validity-overcorrection|Sackett et al. (2022)]] argue the opposite for most of the selection literature: because the vast majority of validation studies are **concurrent** (indirect, minimal restriction), the routine [[Range Restriction Correction|range-restriction correction]] **overcorrects**, making corrected validities **over**estimates by .10–.20. Their revised conscientiousness ρ = **.19** (vs. Zell & Lesick's uncorrected-leaning .19 and corrected .22). Resolution likely hinges on the **predictive/concurrent mix** in each meta-analysis. See [[Predictive vs Concurrent Validation]].
+
 ## Relation to the criterion side
 
 Validity is bounded by criterion quality; most personality meta-analyses are "limited to whatever criteria happen to be available," which do not represent the full performance domain — the [[Criterion Problem]]. Both authors call for better **criterion taxonomies** compatible with refined personality structures.

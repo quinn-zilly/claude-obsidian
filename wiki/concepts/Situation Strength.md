@@ -14,6 +14,8 @@ related:
   - "[[tett-et-al-2021-trait-activation-theory]]"
   - "[[Synthetic Validity]]"
   - "[[Personality–Performance Process Models]]"
+  - "[[Judge-Zapata-2015-person-situation-revisited]]"
+  - "[[Person–Situation Debate]]"
   - "[[Personality at Work MOC]]"
 ---
 
@@ -34,7 +36,7 @@ Both situation strength and [[Situational Cue Types (TAT)|situation trait releva
 | Direction | Strong → attenuates all trait effects | Relevant → exposes the specific trait |
 | Analogous cue | Constraint (TAT) | Demand/distracter (TAT) |
 
-**Empirical comparison**: Judge & Zapata (2015) meta-analytically compared both. Situation trait relevance was a stronger predictor of personality validity. TAT discretionary cues (trait-specific weak situations) explained residual variance beyond general situation strength.
+**Empirical comparison**: [[Judge-Zapata-2015-person-situation-revisited|Judge & Zapata (2015)]] meta-analytically compared both across 125 studies coded with O*NET. Both explained unique variance, but **trait activation may be relatively more important** than situation strength — though situation strength's contribution was "far from trivial." Notably, the **process** composite (unstructured/discretionary work) predicted validity for *all five* traits; the **outcomes** composite only for agreeableness and openness.
 
 ## Key Citations
 - Meyer et al. (2014): measure of job-related situational strength; moderates OCB and CWB

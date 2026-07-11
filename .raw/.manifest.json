@@ -2781,6 +2781,42 @@
         "wiki/hot.md",
         "wiki/mocs/Home MOC.md"
       ]
+    },
+    ".raw/Sackett et al. - 2022 - Revisiting meta-analytic estimates of validity in personnel selection Addressing systematic overcor.md": {
+      "hash": "176b332232845fdcc958259e6c554a4e",
+      "ingested_at": "2026-07-11",
+      "pages_created": [
+        "wiki/sources/Sackett-et-al-2022-validity-overcorrection.md"
+      ],
+      "pages_updated": [
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md"
+      ]
+    },
+    ".raw/Saucier and Srivastava - 2015 - What makes a good structural model of personality Evaluating the big five and alternatives..md": {
+      "hash": "56462f84fa69f5000b1707ae9677a94c",
+      "ingested_at": "2026-07-11",
+      "pages_created": [
+        "wiki/sources/Saucier-Srivastava-2015-structural-models-personality.md"
+      ],
+      "pages_updated": [
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md"
+      ]
+    },
+    ".raw/Judge and Zapata - 2015 - The Person–Situation Debate Revisited Effect of Situation Strength and Trait Activation on the Vali.md": {
+      "hash": "20cfac310b863053791f53ea9ba49ba4",
+      "ingested_at": "2026-07-11",
+      "pages_created": [
+        "wiki/sources/Judge-Zapata-2015-person-situation-revisited.md"
+      ],
+      "pages_updated": [
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md"
+      ]
     }
   },
   "address_map": {
@@ -3805,7 +3841,25 @@
     "wiki/entities/Frederick L. Oswald.md": "c-001128",
     "wiki/entities/Jisoo Ock.md": "c-001129",
     "wiki/entities/Ethan Zell.md": "c-001130",
-    "wiki/entities/Tara L. Lesick.md": "c-001131"
+    "wiki/entities/Tara L. Lesick.md": "c-001131",
+    "wiki/sources/Sackett-et-al-2022-validity-overcorrection.md": "c-001142",
+    "wiki/sources/Saucier-Srivastava-2015-structural-models-personality.md": "c-001143",
+    "wiki/sources/Judge-Zapata-2015-person-situation-revisited.md": "c-001144",
+    "wiki/entities/Paul R. Sackett.md": "c-001145",
+    "wiki/entities/Charlene Zhang.md": "c-001146",
+    "wiki/entities/Christopher M. Berry.md": "c-001147",
+    "wiki/entities/Filip Lievens.md": "c-001148",
+    "wiki/entities/Gerard Saucier.md": "c-001149",
+    "wiki/entities/Sanjay Srivastava.md": "c-001150",
+    "wiki/entities/Cindy P. Zapata.md": "c-001151",
+    "wiki/concepts/Range Restriction Correction.md": "c-001152",
+    "wiki/concepts/Operational Validity (Selection).md": "c-001153",
+    "wiki/concepts/Validity–Diversity Tradeoff.md": "c-001154",
+    "wiki/concepts/Predictive vs Concurrent Validation.md": "c-001155",
+    "wiki/concepts/Lexical Hypothesis.md": "c-001156",
+    "wiki/concepts/Personality Structure Hierarchy.md": "c-001157",
+    "wiki/concepts/Units Problem (Personality).md": "c-001158",
+    "wiki/concepts/Person–Situation Debate.md": "c-001159"
   },
   ".raw/Pearsall et al. - 2025 - A stimulus-based model of the team adaptation process An integrated conceptual review..pdf": {
     "hash": "62f683006d3323a67c67fc23621f632a",
