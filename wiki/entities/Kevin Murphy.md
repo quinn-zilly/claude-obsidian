@@ -15,6 +15,8 @@ related:
   - "[[Performance Appraisal]]"
   - "[[Rater Error Measures]]"
   - "[[denisi-murphy-2017-100-years-appraisal]]"
+  - "[[adler-et-al-2016-getting-rid-of-ratings]]"
+  - "[[Political Use of Performance Ratings]]"
 ---
 
 # Kevin Murphy
@@ -26,6 +28,7 @@ Key contributions relevant to the wiki:
 - Murphy & Balzer (1986): traditional [[Rater Error Measures]] are uncorrelated with rating accuracy — a result that ended the field's reliance on error measures.
 - Murphy et al. (2004): raters pursuing different goals give different ratings.
 - Co-author of the centennial review [[denisi-murphy-2017-100-years-appraisal|DeNisi & Murphy (2017)]].
+- On the **anti-ratings** side of [[adler-et-al-2016-getting-rid-of-ratings|Adler et al. (2016)]], arguing performance rating is a "failed experiment" driven by rater motivation ([[Political Use of Performance Ratings|politics/goals]]) rather than ability.
 
 ## See also
 - [[Angelo DeNisi]] · [[Rater Error Measures]] · [[Performance Appraisal]]

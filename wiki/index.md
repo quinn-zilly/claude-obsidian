@@ -25,7 +25,7 @@ created: 2026-04-07
 
 # Wiki Index
 
-Last updated: 2026-07-07 | Total pages: 566 | Sources ingested: 85
+Last updated: 2026-07-11 | Total pages: 589 | Sources ingested: 88
 
 Navigation: [[Home MOC]] | [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[getting-started]]
 
@@ -39,6 +39,19 @@ Navigation: [[Home MOC]] | [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[
 
 ## Concepts
 
+- [[Employee Recruitment]] — external recruitment: bring an opening to notice, influence application, maintain interest, affect offer acceptance; prehire/posthire outcomes; no general theory (Breaugh 2013)
+- [[Applicant Attraction]] — the central prehire criterion; seven predictor categories; fit strongest for attraction but not job choice (Uggerslev et al. 2012)
+- [[Recruitment Stages (Barber)]] — generate applicants → maintain status → influence job choice; stage moderates predictor importance
+- [[Perceived Fit (Recruitment)]] — P-J/P-O fit perceptions; the strongest predictor of attraction ("first recruitment dollar"); n.s. for job choice
+- [[Recruiter Behaviors]] — competence/personableness/informativeness; 2nd-largest incremental variance, concentrated early; personableness strongest
+- [[Recruitment Message]] — amount, specificity, realism; web-site features; wording and belonging
+- [[Recruitment Methods]] — referrals, web sites, job boards; realism vs individual-difference hypotheses
+- [[Employee Referrals]] — the consistently superior recruitment method (realism + prescreening)
+- [[Realistic Job Preview]] — two-sided messaging → accurate expectations → self-selection
+- [[Elaboration Likelihood Model]] — Petty & Cacioppo dual-route persuasion; central (scrutiny) vs peripheral (heuristics); explains recruitment stage shifts
+- [[Signaling Theory (Recruitment)]] — applicants infer unknown job/org attributes from observable cues
+- [[Political Use of Performance Ratings]] — rater goals distort ratings; motivation not ability (Murphy & Cleveland; Adler et al. 2016)
+- [[Differentiated Evaluations]] — the pro-ratings sorting/incentive rationale: differentiation attracts/retains top performers (Adler et al. 2016)
 - [[Appraisal Reactions]] — employee attitudinal evaluations of the appraisal (fairness, accuracy, utility, satisfaction, motivation); a key appraisal criterion (Pichler 2012)
 - [[Relational Model of Appraisal Reactions]] — relationship quality directly drives reactions, beyond instrumental resources; best-fitting appraisal model (Pichler 2012)
 - [[Procedural Justice]] — process fairness; instrumental vs relational/group-value theories of voice
@@ -484,6 +497,9 @@ Navigation: [[Home MOC]] | [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[
 
 ### Sources (new — 2026-06-04)
 
+- [[uggerslev-et-al-2012-recruiting-through-stages]] — meta-analysis (232 studies, N≈108k) of recruiting predictors across Barber's stages; perceived fit strongest for attraction (n.s. for job choice); recruiter behaviors add early incremental variance; *Personnel Psychology* 2012
+- [[breaugh-2013-employee-recruitment]] — *Annual Review* narrative synthesis of employee recruitment (targeting, methods, message, recruiters, site visit, offer, timing); no general theory; persuasion psychology under-used; 2013
+- [[adler-et-al-2016-getting-rid-of-ratings]] — the SIOP keep-vs-drop performance-ratings debate; anti-side (rating = failed experiment) vs pro-side (performance is always evaluated; differentiation has value); *Industrial and Organizational Psychology* 2016
 - [[pichler-2012-social-context-appraisal]] — first meta-analysis of the social context of performance appraisal; rater–ratee relationship quality is the dominant predictor of appraisal reactions (Mr≈.66); MASEM supports a relational model; *Human Resource Management* 2012
 - [[wiernik-et-al-2021-meta-analytic-cpa]] — extends criterion profile analysis to meta-analytic data (MACPA); level vs pattern effects from a correlation matrix; artifact + overfitting corrections; *Psychological Methods* 2021
 - [[pierce-aguinis-2013-tmgt-effect]] — the too-much-of-a-good-thing meta-theory; curvilinearity & context-specific inflection points across management subfields; *J. Management* 2013
@@ -584,6 +600,12 @@ Navigation: [[Home MOC]] | [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[
 
 ## Entities
 
+- [[Krista Uggerslev]] — recruitment & applicant-reactions researcher; lead author of the recruiting-through-stages meta-analysis; co-author Chapman et al. (2005)
+- [[James Breaugh]] — U. Missouri–St. Louis; leading recruitment/RJP authority; author of the first *Annual Review* recruitment review
+- [[Seymour Adler]] — Aon Hewitt; chaired the 2015 SIOP ratings debate; pro-ratings side
+- [[Alan Colquitt]] — Eli Lilly; anti-ratings side of the 2016 debate ("failed experiment")
+- [[Amy Grubb]] — FBI; pro-ratings side of the 2016 debate
+- [[Rob Ollander-Krane]] — Gap, Inc.; anti-ratings side of the 2016 debate
 - [[Angelo DeNisi]] — Tulane; cognitive approach to appraisal; Feedback Intervention Theory (w/ Kluger); co-author [[denisi-murphy-2017-100-years-appraisal|DeNisi & Murphy (2017)]]
 - [[Kevin Murphy]] — U. Limerick; social/contextual view of appraisal; rater-error-vs-accuracy (Murphy & Balzer 1986)
 - [[Elaine Pulakos]] — PDRI CEO; practitioner-scientist; PM simplification and behavior change; lead author [[pulakos-2019-evolution-of-pm|Pulakos et al. (2019)]]

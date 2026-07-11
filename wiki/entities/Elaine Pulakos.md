@@ -27,6 +27,7 @@ Key contributions relevant to the wiki:
 - Pulakos & O'Leary (2011), "Why is performance management broken?" — the formula for effective PM "remains elusive."
 - Lead author of [[pulakos-2019-evolution-of-pm|Pulakos, Mueller-Hanson & Arad (2019)]].
 - Also known for early work on **adaptive performance** (Pulakos et al. 2000).
+- **Moderated** the 2015 SIOP ratings debate and wrote the background/closing for [[adler-et-al-2016-getting-rid-of-ratings|Adler et al. (2016)]]: the keep-or-drop-ratings question is the *wrong first question*.
 
 ## See also
 - [[Rose Mueller-Hanson]] · [[Sharon Arad]] · [[Performance Management]] · [[Rating-less Reviews]]

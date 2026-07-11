@@ -27,6 +27,7 @@ IO psychologist; Purdue University. Developed interdisciplinary model of job des
 - **Morgeson & Campion (2002):** quasi-experiment resolving motivational–mechanistic tradeoffs
 - **Campion et al. (2005):** tradeoff resolution approaches (compromise/level-separation/sequential/synthesis)
 - Research on task enlargement vs. knowledge enlargement (McClelland 1993): knowledge enlargement → benefits; task enlargement alone → overload
+- On the **pro-ratings** side of [[adler-et-al-2016-getting-rid-of-ratings|Adler et al. (2016)]] (with [[Seymour Adler]] and [[Amy Grubb]]): "too hard" is no excuse for I-O psychology; performance is always evaluated in some form.
 
 ## Sources
 

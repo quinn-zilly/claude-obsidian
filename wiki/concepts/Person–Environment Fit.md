@@ -17,6 +17,9 @@ related:
 
 # Person–Environment Fit
 
+> [!info] Recruitment-side operationalization
+> Applicants' perceptions of person–job and person–organization fit — **[[Perceived Fit (Recruitment)]]** — are the strongest predictor of [[Applicant Attraction|applicant attraction]] (Uggerslev et al. 2012). See the [[Recruitment MOC]].
+
 Nav: [[index]] | [[concepts/_index]]
 
 PE fit = the degree to which a person's characteristics match their work environment. Two classic subtypes (Kristof 1996):

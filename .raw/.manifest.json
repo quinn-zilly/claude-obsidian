@@ -2573,6 +2573,63 @@
         "wiki/hot.md",
         "wiki/log.md"
       ]
+    },
+    ".raw/Adler et al. - 2016 - Getting Rid of Performance Ratings Genius or Folly A Debate.md": {
+      "pages_created": [
+        "wiki/sources/adler-et-al-2016-getting-rid-of-ratings.md",
+        "wiki/entities/Seymour Adler.md",
+        "wiki/entities/Alan Colquitt.md",
+        "wiki/entities/Amy Grubb.md",
+        "wiki/entities/Rob Ollander-Krane.md",
+        "wiki/concepts/Political Use of Performance Ratings.md",
+        "wiki/concepts/Differentiated Evaluations.md"
+      ],
+      "pages_updated": [
+        "wiki/concepts/Rating-less Reviews.md",
+        "wiki/entities/Kevin Murphy.md",
+        "wiki/entities/Michael Campion.md",
+        "wiki/entities/Elaine Pulakos.md",
+        "wiki/mocs/Performance Management MOC.md",
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md"
+      ],
+      "hash": "dc5a801b0fef855fda2c2b21e8d86577",
+      "ingested_at": "2026-07-11"
+    },
+    ".raw/Uggerslev et al. - 2012 - Recruiting Through the Stages A Meta‐Analytic Test of Predictors of Applicant Attraction at Differe.md": {
+      "pages_created": [
+        "wiki/sources/uggerslev-et-al-2012-recruiting-through-stages.md",
+        "wiki/entities/Krista Uggerslev.md",
+        "wiki/concepts/Employee Recruitment.md",
+        "wiki/concepts/Applicant Attraction.md",
+        "wiki/concepts/Recruitment Stages (Barber).md",
+        "wiki/concepts/Perceived Fit (Recruitment).md",
+        "wiki/concepts/Recruiter Behaviors.md",
+        "wiki/concepts/Elaboration Likelihood Model.md",
+        "wiki/concepts/Signaling Theory (Recruitment).md",
+        "wiki/mocs/Recruitment MOC.md"
+      ],
+      "pages_updated": [
+        "wiki/concepts/Person–Environment Fit.md",
+        "wiki/mocs/Home MOC.md",
+        "wiki/index.md"
+      ],
+      "hash": "7a306f99fc59b1f51ce2f94baf82a22f",
+      "ingested_at": "2026-07-11"
+    },
+    ".raw/Breaugh - 2013 - Employee Recruitment.md": {
+      "pages_created": [
+        "wiki/sources/breaugh-2013-employee-recruitment.md",
+        "wiki/entities/James Breaugh.md",
+        "wiki/concepts/Recruitment Message.md",
+        "wiki/concepts/Recruitment Methods.md",
+        "wiki/concepts/Employee Referrals.md",
+        "wiki/concepts/Realistic Job Preview.md"
+      ],
+      "pages_updated": [],
+      "hash": "82bad8a9fddcdd07217e2d4536df63d4",
+      "ingested_at": "2026-07-11"
     }
   },
   "address_map": {
@@ -3537,7 +3594,29 @@
     "wiki/concepts/Procedural Justice.md": "c-001078",
     "wiki/concepts/Voice Effect.md": "c-001079",
     "wiki/concepts/Appraisal Reactions.md": "c-001080",
-    "wiki/concepts/Relational Model of Appraisal Reactions.md": "c-001081"
+    "wiki/concepts/Relational Model of Appraisal Reactions.md": "c-001081",
+    "wiki/sources/adler-et-al-2016-getting-rid-of-ratings.md": "c-001082",
+    "wiki/entities/Seymour Adler.md": "c-001083",
+    "wiki/entities/Alan Colquitt.md": "c-001084",
+    "wiki/entities/Amy Grubb.md": "c-001085",
+    "wiki/entities/Rob Ollander-Krane.md": "c-001086",
+    "wiki/concepts/Political Use of Performance Ratings.md": "c-001087",
+    "wiki/concepts/Differentiated Evaluations.md": "c-001088",
+    "wiki/sources/uggerslev-et-al-2012-recruiting-through-stages.md": "c-001089",
+    "wiki/sources/breaugh-2013-employee-recruitment.md": "c-001090",
+    "wiki/entities/Krista Uggerslev.md": "c-001091",
+    "wiki/entities/James Breaugh.md": "c-001092",
+    "wiki/concepts/Employee Recruitment.md": "c-001093",
+    "wiki/concepts/Applicant Attraction.md": "c-001094",
+    "wiki/concepts/Recruitment Stages (Barber).md": "c-001095",
+    "wiki/concepts/Perceived Fit (Recruitment).md": "c-001096",
+    "wiki/concepts/Recruiter Behaviors.md": "c-001097",
+    "wiki/concepts/Elaboration Likelihood Model.md": "c-001098",
+    "wiki/concepts/Signaling Theory (Recruitment).md": "c-001099",
+    "wiki/concepts/Realistic Job Preview.md": "c-001100",
+    "wiki/concepts/Employee Referrals.md": "c-001101",
+    "wiki/concepts/Recruitment Message.md": "c-001102",
+    "wiki/concepts/Recruitment Methods.md": "c-001103"
   },
   ".raw/Pearsall et al. - 2025 - A stimulus-based model of the team adaptation process An integrated conceptual review..pdf": {
     "hash": "62f683006d3323a67c67fc23621f632a",

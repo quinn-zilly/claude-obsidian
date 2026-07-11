@@ -48,6 +48,8 @@ This cluster maps how organizations evaluate and manage employee performance —
 - [[Cascading Goals & SMART]]
 - [[Competency Modeling]]
 - [[Rating-less Reviews]] — the keep-or-drop-ratings debate
+- [[Differentiated Evaluations]] — the pro-ratings sorting/incentive rationale
+- [[Political Use of Performance Ratings]] — rater goals distort ratings (motivation, not ability)
 
 ## Foundational sources
 
@@ -55,10 +57,15 @@ This cluster maps how organizations evaluate and manage employee performance —
 - [[pulakos-2019-evolution-of-pm|Pulakos, Mueller-Hanson & Arad (2019) — Searching for Value]]
 - [[schleicher-2019-pm-effectiveness-review|Schleicher et al. (2019) — Evaluating PM Effectiveness]]
 - [[pichler-2012-social-context-appraisal|Pichler (2012) — Social Context of Appraisal (meta-analysis)]]
+- [[adler-et-al-2016-getting-rid-of-ratings|Adler et al. (2016) — Getting Rid of Performance Ratings: Genius or Folly?]]
 
 ## Key people
 
-- [[Angelo DeNisi]] · [[Kevin Murphy]] · [[Elaine Pulakos]] · [[Rose Mueller-Hanson]] · [[Sharon Arad]] · [[Deidra Schleicher]] · [[Herman Aguinis]]
+- [[Angelo DeNisi]] · [[Kevin Murphy]] · [[Elaine Pulakos]] · [[Rose Mueller-Hanson]] · [[Sharon Arad]] · [[Deidra Schleicher]] · [[Herman Aguinis]] · [[Seymour Adler]] · [[Michael Campion]] · [[Alan Colquitt]] · [[Amy Grubb]] · [[Rob Ollander-Krane]]
+
+## Related MOCs — talent lifecycle
+
+- [[Recruitment MOC]] — the prehire attraction/acquisition side
 
 ## Related MOCs
 

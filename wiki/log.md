@@ -14,6 +14,19 @@ related:
 created: 2026-04-07
 ---
 
+## [2026-07-11] batch ingest | recruitment pair (Uggerslev 2012 + Breaugh 2013) + ratings debate (Adler et al. 2016)
+
+- **Sources:** `.raw/Uggerslev et al. - 2012 - Recruiting Through the Stages…md` → [[uggerslev-et-al-2012-recruiting-through-stages]] (*Personnel Psychology* 65:597–660); `.raw/Breaugh - 2013 - Employee Recruitment.md` → [[breaugh-2013-employee-recruitment]] (*Annu. Rev. Psychol.* 64:389–416); `.raw/Adler et al. - 2016 - Getting Rid of Performance Ratings…md` → [[adler-et-al-2016-getting-rid-of-ratings]] (*Ind. Organ. Psychol.* 9(2):219–252). Per project hybrid-LYT convention: sources→`wiki/sources/`, concepts→`wiki/concepts/`, entities→`wiki/entities/`, MOC→`wiki/mocs/`.
+- **Substance (recruitment):** Uggerslev meta-analysis (232 studies, N≈108k) ranks 7 recruiting predictors on **[[Applicant Attraction]]** across **[[Recruitment Stages (Barber)|Barber's 3 stages]]**: **[[Perceived Fit (Recruitment)|fit]] strongest for attraction** (ΔR²≈.40) but n.s. for job choice; **[[Recruiter Behaviors]]** 2nd incremental (early-stage; personableness); job chars → most unique variance in job choice. **[[Elaboration Likelihood Model|ELM]]** + **[[Signaling Theory (Recruitment)|signaling]]** explain the low→high elaboration shift. Breaugh (2013) narrative *Annual Review*: definition, **no general theory**, **[[Employee Referrals|referrals]]** superior (realism + prescreening), **[[Realistic Job Preview|RJPs]]**, timing/delays, underrepresented-group recruiting. Seeds new **[[Recruitment MOC]]**.
+- **Substance (ratings debate):** Adler et al. (2016) — anti-side (rating = failed experiment: interrater r≈.50s, [[Rater Error Measures|useless error criteria]], [[Political Use of Performance Ratings|political inflation]], conflicting purposes, weak research–practice link) vs pro-side (performance always evaluated; modest reliability good enough; [[Differentiated Evaluations|differentiation]] attracts/retains top performers). Pulakos: keep/drop is the wrong first question.
+- **Pages created (23):** MOC [[Recruitment MOC]]; sources ×3 above; concepts [[Employee Recruitment]], [[Applicant Attraction]], [[Recruitment Stages (Barber)]], [[Perceived Fit (Recruitment)]], [[Recruiter Behaviors]], [[Recruitment Message]], [[Recruitment Methods]], [[Employee Referrals]], [[Realistic Job Preview]], [[Elaboration Likelihood Model]], [[Signaling Theory (Recruitment)]], [[Political Use of Performance Ratings]], [[Differentiated Evaluations]]; entities [[Krista Uggerslev]], [[James Breaugh]], [[Seymour Adler]], [[Alan Colquitt]], [[Amy Grubb]], [[Rob Ollander-Krane]] (addresses c-001082–c-001103; MOC gets no address).
+- **Pages updated:** [[Rating-less Reviews]], [[Person–Environment Fit]], [[Kevin Murphy]], [[Michael Campion]], [[Elaine Pulakos]], [[Performance Management MOC]], [[Home MOC]], [[index]], [[hot]].
+- **Contradictions filed:** Adler debate — same interrater-r/rater-error facts yield opposite keep/drop verdicts (dispute is over the *standard*); differentiation helps via sorting vs hurts in collaborative work.
+- **Key insight:** attraction ≠ job choice (fit dominates attraction, job characteristics dominate choice); and the performance-ratings debate turns on the evidentiary standard, not the data.
+- **Candidate next:** Chapman et al. (2005) recruiting meta; Barber (1998); Rynes, Bretz & Gerhart (1991); Phillips (1998) RJP meta; Cawley/Keeping/Levy (1998); Murphy & Cleveland (1995).
+
+---
+
 ## [2026-07-07] ingest | Pichler (2012) — Social Context of Performance Appraisal (meta-analysis)
 
 - **Source:** `.raw/Pichler - 2012 - The social context of performance appraisal and appraisal reactions A meta‐analysis..md` → [[pichler-2012-social-context-appraisal]] (*Human Resource Management* 51(5):709–732, DOI 10.1002/hrm.21499). Per project hybrid-LYT convention: source→`wiki/sources/`, concepts→`wiki/concepts/`, entity→`wiki/entities/`.
