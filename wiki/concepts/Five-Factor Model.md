@@ -11,11 +11,19 @@ related:
   - "[[Trait Activation Theory]]"
   - "[[Person–Environment Fit]]"
   - "[[tett-et-al-2021-trait-activation-theory]]"
+  - "[[HEXACO Model]]"
+  - "[[Facet-Level Personality Measurement]]"
+  - "[[Nomological-Web Clustering]]"
+  - "[[Criterion-Related Validity of Personality]]"
+  - "[[Personality at Work MOC]]"
 ---
 
 # Five-Factor Model
 
-Nav: [[index]] | [[concepts/_index]]
+Nav: [[index]] | [[concepts/_index]] | [[Personality at Work MOC]]
+
+> [!info] Beyond the Big Five
+> Hough and colleagues argue the broad FFM is useful but **limiting** — it is method-bound, missing variables, and obscures relationships that live at the [[Facet-Level Personality Measurement|facet level]]. See [[HEXACO Model]], [[Nomological-Web Clustering]], and the [[Personality at Work MOC]]. For the quantitative overall validity picture, see [[zell-lesick-2022-big-five-performance-synthesis|Zell & Lesick (2022)]] (C ρ=.19, others ~.10–.13); for the "refine, don't aggregate" counter-argument see [[hough-oswald-ock-2015-beyond-the-big-five|Hough, Oswald & Ock (2015)]].
 
 The FFM (Big Five) provides the dominant personality taxonomy in organizational research: **Neuroticism (N), Extraversion (E), Openness (O), Agreeableness (A), Conscientiousness (C)**. Originated with Tupes & Christal (1958); replicated widely.
 

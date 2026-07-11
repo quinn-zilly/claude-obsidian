@@ -20,3 +20,6 @@ I/O psychologist (University of Minnesota). Prominent in personnel selection, pe
 - [[viswesvaran-ones-2000-models-of-job-performance|Viswesvaran & Ones (2000) — Perspectives on Models of Job Performance]]
 - [[kuncel-et-al-2013-mechanical-vs-clinical|Kuncel et al. (2013)]]
 - [[wiernik-et-al-2021-meta-analytic-cpa|Wiernik et al. (2021)]] — co-author on meta-analytic [[Criterion Profile Analysis]]
+
+## Also referenced in
+- [[hough-johnson-2013-personality-in-work-settings|Hough & Johnson (2013)]] and [[hough-oswald-ock-2015-beyond-the-big-five|Hough, Oswald & Ock (2015)]] — frequent Hough collaborator; co-originator of [[Nomological-Web Clustering]] (Hough & Ones 2001) and integrity/[[Compound Traits (Personality)|compound-trait]] research. See [[Personality at Work MOC]].

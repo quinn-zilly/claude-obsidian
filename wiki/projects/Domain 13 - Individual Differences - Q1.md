@@ -17,3 +17,9 @@ The "Big Five" have received increasing attention as dimensions important for se
 
 # References
 
+hough and johnson
+
+hough et al
+
+zell
+

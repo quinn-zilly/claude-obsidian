@@ -25,7 +25,7 @@ created: 2026-04-07
 
 # Wiki Index
 
-Last updated: 2026-07-11 | Total pages: 607 | Sources ingested: 91
+Last updated: 2026-07-11 | Total pages: 627 | Sources ingested: 94
 
 Navigation: [[Home MOC]] | [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[getting-started]]
 
@@ -610,6 +610,16 @@ Navigation: [[Home MOC]] | [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[
 - [[Above-Average Effect]] — most people rate themselves above average; illusory superiority
 - [[Organizational Identification (Outcomes)]] — OI as a basis for attitudes/behaviors; in-role ρ=.27, extra-role ρ=.42; culture-moderated
 - [[Attitude-Behavior Relations]] — Fishbein-Ajzen general attitude → general behavior; compatibility principle
+- [[Criterion-Related Validity of Personality]] — the matching principle (validity high when predictor/criterion conceptually matched); C strongest broad trait; correction raises effects (developing)
+- [[Facet-Level Personality Measurement]] — narrow traits often out-predict their factor; the Dominance win–win (higher validity + lower adverse impact) (developing)
+- [[Compound Traits (Personality)]] — integrity, service orientation; basic traits in different concentrations; highest validity for complex criteria (developing)
+- [[Bandwidth-Fidelity Dilemma]] — broad vs narrow predictors; a theory/practice tension (not a dichotomy); resolved via synthetic validity (developing)
+- [[Nomological-Web Clustering]] — Hough's non-hierarchical taxonomy; cluster traits by shared relationship profiles; open network (developing)
+- [[HEXACO Model]] — six factors incl. Honesty-Humility; more comprehensive than FFM but still hierarchical; H predicts CWB (developing)
+- [[Synthetic Validity]] — infer battery validity from job-component × attribute links; tailored a-priori prediction equations (developing)
+- [[Intentional Distortion (Faking)]] — faking rarely corrodes criterion validity; warnings+consequences reduce it; ipsativity/ideal-point mitigations (developing)
+- [[Second-Order Meta-Analysis]] — aggregating across meta-analyses; unweighted averaging + sample-overlap handling; tests meta-analytic replicability (developing)
+- [[Personality–Performance Process Models]] — direct vs indirect determinants; motivational mediators; Johnson (2003), Barrick et al. (2003), TAT, Johnson & Hezlett (2008) (developing)
 
 ---
 
@@ -618,6 +628,12 @@ Navigation: [[Home MOC]] | [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[
 - [[Steve W. J. Kozlowski]] — co-architect of the multilevel paradigm; emergence & composition/compilation; teams (MSU)
 - [[Katherine J. Klein]] — co-architect of the multilevel paradigm; levels framework & the "Dr. Faust" essay (Wharton)
 - [[David Chan]] — typology of composition models; referent-shift & dispersion composition (MSU/NUS)
+- [[Leaetta M. Hough]] — The Dunnette Group; personality at work; facet-level measurement; nomological-web clustering; Project A (developing)
+- [[Jeff W. Johnson]] — personality→performance process model (added work habits); synthetic-validity advocate; ≠ [[Russell Johnson]] (developing)
+- [[Frederick L. Oswald]] — Rice U.; personality structure, selection, psychometrics; co-author "beyond the Big Five" (developing)
+- [[Jisoo Ock]] — I/O psychologist; co-author Hough, Oswald & Ock (2015) (stub)
+- [[Ethan Zell]] — UNC Greensboro; second-order meta-analysis methodology (stub)
+- [[Tara L. Lesick]] — UNC Greensboro; co-author of the 54-meta-analysis Big Five–performance synthesis (stub)
 - [[Krista Uggerslev]] — recruitment & applicant-reactions researcher; lead author of the recruiting-through-stages meta-analysis; co-author Chapman et al. (2005)
 - [[James Breaugh]] — U. Missouri–St. Louis; leading recruitment/RJP authority; author of the first *Annual Review* recruitment review
 - [[Seymour Adler]] — Aon Hewitt; chaired the 2015 SIOP ratings debate; pro-ratings side

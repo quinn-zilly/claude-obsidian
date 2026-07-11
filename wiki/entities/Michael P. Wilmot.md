@@ -19,3 +19,6 @@ Michael P. Wilmot is a personality/management researcher (Department of Manageme
 
 ## Key work in vault
 - [[wiernik-et-al-2021-meta-analytic-cpa|Wiernik et al. (2021)]] — co-author on meta-analytic [[Criterion Profile Analysis]].
+
+## Also referenced in
+- [[zell-lesick-2022-big-five-performance-synthesis|Zell & Lesick (2022)]] builds on Wilmot & Ones (2019, conscientiousness ρ≈.17 across 48 meta-analyses) and Wilmot et al. (2019, extraversion ρ≈.10 across 45). See [[Personality at Work MOC]].

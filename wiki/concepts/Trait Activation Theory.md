@@ -16,6 +16,9 @@ related:
   - "[[Goal-Setting Theory]]"
   - "[[Self-Determination Theory]]"
   - "[[tett-et-al-2021-trait-activation-theory]]"
+  - "[[Personality–Performance Process Models]]"
+  - "[[Nomological-Web Clustering]]"
+  - "[[Personality at Work MOC]]"
 ---
 
 # Trait Activation Theory

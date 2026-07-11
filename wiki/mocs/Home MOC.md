@@ -19,6 +19,7 @@ related:
   - "[[Work as a Calling MOC]]"
   - "[[Gender & Careers MOC]]"
   - "[[Recruitment MOC]]"
+  - "[[Personality at Work MOC]]"
 status: developing
 updated: 2026-07-07
 ---
@@ -44,6 +45,7 @@ This is the front door. Start here, pick a domain, follow links into the cluster
 - [[Work as a Calling MOC]] — the meaning-of-work cluster: calling and vocation, the neoclassical/modern definitional split, and the inner × outer requiredness integration.
 - [[Gender & Careers MOC]] — women's career equality, gender bias and role congruity, work–family conflict, and the "opting out vs pushed out" integration.
 - [[Recruitment MOC]] — the prehire talent-acquisition front end: applicant attraction, recruiting stages, fit, recruiter behavior, message and method, and the ELM/signaling psychology underneath.
+- [[Personality at Work MOC]] — personality as a determinant of work behavior: taxonomies (FFM, HEXACO, nomological-web clustering), facets vs broad factors, criterion-related validity, faking, synthetic validation, and the process models linking trait to performance.
 
 ## Vault infrastructure
 

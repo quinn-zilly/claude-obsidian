@@ -12,6 +12,9 @@ related:
   - "[[Situational Cue Types (TAT)]]"
   - "[[Five-Factor Model]]"
   - "[[tett-et-al-2021-trait-activation-theory]]"
+  - "[[Synthetic Validity]]"
+  - "[[Personality–Performance Process Models]]"
+  - "[[Personality at Work MOC]]"
 ---
 
 # Situation Strength
