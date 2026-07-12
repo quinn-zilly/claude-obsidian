@@ -1,14 +1,14 @@
 ---
-type: concept
-address:
-title:
+type: comps outline
+address: c-001199
+title: Domain 23 - Training - Q2
 tags:
   - on-the-job-development
   - on-the-job-learning
   - informal-learning
 status: developing
-updated: <% tp.date.now("YYYY-MM-DD") %>
-created: <% tp.date.now("YYYY-MM-DD") %>
+updated: 2026-07-11
+created: 2026-07-11
 related:
 ---
 # Question

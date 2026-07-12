@@ -1,5 +1,6 @@
 ---
 type: moc
+address: c-001204
 title: "Social Exchange & Organizational Justice MOC"
 created: "2026-06-15"
 tags:

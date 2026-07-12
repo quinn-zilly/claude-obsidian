@@ -1,5 +1,6 @@
 ---
 type: moc
+address: c-001202
 title: "Recruitment MOC"
 created: 2026-07-11
 updated: 2026-07-11

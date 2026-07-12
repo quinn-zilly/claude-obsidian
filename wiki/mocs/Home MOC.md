@@ -20,8 +20,9 @@ related:
   - "[[Gender & Careers MOC]]"
   - "[[Recruitment MOC]]"
   - "[[Personality at Work MOC]]"
+  - "[[Selection & Work Analysis MOC]]"
 status: developing
-updated: 2026-07-07
+updated: 2026-07-11
 ---
 
 # Home — Map of Content
@@ -46,6 +47,7 @@ This is the front door. Start here, pick a domain, follow links into the cluster
 - [[Gender & Careers MOC]] — women's career equality, gender bias and role congruity, work–family conflict, and the "opting out vs pushed out" integration.
 - [[Recruitment MOC]] — the prehire talent-acquisition front end: applicant attraction, recruiting stages, fit, recruiter behavior, message and method, and the ELM/signaling psychology underneath.
 - [[Personality at Work MOC]] — personality as a determinant of work behavior: taxonomies (FFM, HEXACO, nomological-web clustering), facets vs broad factors, criterion-related validity, faking, synthetic validation, and the process models linking trait to performance.
+- [[Selection & Work Analysis MOC]] — work/job analysis and its two orientations, competency modeling vs traditional job analysis, and the EEO legal spine (adverse impact, four-fifths rule, three validity strategies, job-relatedness).
 
 ## Vault infrastructure
 

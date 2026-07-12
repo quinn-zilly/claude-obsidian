@@ -1,14 +1,14 @@
 ---
 type: comps outline
-address:
+address: c-001197
 title: Domain 21 - Performance Management
 tags:
   - performance-management
   - performance-appraisal
   - performance
 status: developing
-updated: <% tp.date.now("YYYY-MM-DD") %>
-created: <% tp.date.now("YYYY-MM-DD") %>
+updated: 2026-07-11
+created: 2026-07-07
 related:
 ---
 # Q1 — Iterative PM redesign (Greystone, ~5,000 employees)

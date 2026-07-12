@@ -1,13 +1,13 @@
 ---
 type: comps outline
-address:
+address: c-001198
 title: Domain 23 - Training
 tags:
   - training
   - comps
 status: developing
-updated: <% tp.date.now("YYYY-MM-DD") %>
-created: <% tp.date.now("YYYY-MM-DD") %>
+updated: 2026-07-06
+created: 2026-07-06
 related:
 ---
 # References

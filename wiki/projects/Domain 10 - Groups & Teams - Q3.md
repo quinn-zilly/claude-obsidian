@@ -1,12 +1,12 @@
 ---
 type: comps outline
-address:
+address: c-001194
 title: Domain 10 - Groups & Teams - Q3
 tags:
   - teams
 status: developing
-updated: <% tp.date.now("YYYY-MM-DD") %>
-created: <% tp.date.now("YYYY-MM-DD") %>
+updated: 2026-07-11
+created: 2026-07-11
 related:
 ---
 # Question

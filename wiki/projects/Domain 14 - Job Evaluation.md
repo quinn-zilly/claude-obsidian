@@ -1,13 +1,13 @@
 ---
 type: comps outline
-address:
+address: c-001196
 title: Domain 14 - Job Evaluation
 tags:
   - compensation
   - job-evaluation
 status: developing
-updated: <% tp.date.now("YYYY-MM-DD") %>
-created: <% tp.date.now("YYYY-MM-DD") %>
+updated: 2026-07-07
+created: 2026-07-07
 related:
 ---
 # References

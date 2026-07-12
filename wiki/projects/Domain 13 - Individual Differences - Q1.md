@@ -1,14 +1,14 @@
 ---
 type: comps outline
-address:
+address: c-001195
 title: Domain 13 - Individual Differences - Q1
 tags:
   - personality
   - five-factor-model
   - selection
 status: developing
-updated: <% tp.date.now("YYYY-MM-DD") %>
-created: <% tp.date.now("YYYY-MM-DD") %>
+updated: 2026-07-11
+created: 2026-07-11
 related:
 ---
 # Question

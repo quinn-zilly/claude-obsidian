@@ -25,7 +25,7 @@ created: 2026-04-07
 
 # Wiki Index
 
-Last updated: 2026-07-11 | Total pages: 652 | Sources ingested: 98
+Last updated: 2026-07-11 | Total pages: 667 | Sources ingested: 101
 
 Navigation: [[Home MOC]] | [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[getting-started]]
 
@@ -530,6 +530,33 @@ Navigation: [[Home MOC]] | [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[
 - [[mccall-2010-recasting-leadership-development]] — SIOP focal article; experience (not genetics/training) is the primary source of learning to lead; seven "sure bets"; competence-not-competencies; five demands of leadership; *Industrial and Organizational Psychology* 2010
 - [[myers-2018-coactive-vicarious-learning]] — relational theory of vicarious learning; CVL (coconstructed via discourse) vs IVL (one-way observation); experience + analysis + support; *AMR* 2018
 
+### Sources (new — 2026-07-11, selection & work-analysis batch)
+
+- [[Garcia-Izquierdo-et-al-2015-work-analysis-personnel-selection]] — chapter review of work analysis for selection; task- vs worker-oriented; methods (F-JAS, PPRF, PAQ, O*NET); reliability = agreement not just consistency; WA as EEO safeguard; Nikolaou & Oostrom (Eds.) 2015
+- [[Sanchez-Levine-2009-competency-modeling-vs-job-analysis]] — six-dimension TJA-vs-CM framework (purpose/view/focus/time/level/measurement); CM & TJA supplement not replace; competencies as fuzzy clinical-judgment composites; *Human Resource Management Review* 2009
+- [[EEOC-1978-uniform-guidelines-employee-selection]] — the governing federal selection regulation; adverse impact, four-fifths rule, three validity strategies, job-relatedness, disparate treatment, transportability; 43 FR 38295 (29 CFR 1607 / 41 CFR 60-3)
+
+### Concepts (new — 2026-07-11, selection & work-analysis batch)
+
+- [[Work Analysis (Job Analysis)]] — umbrella process; job description + specification; consistency ≠ agreement
+- [[Task-Oriented vs Worker-Oriented Analysis]] — the orientation dilemma; methods per side
+- [[TJA vs CM (Six Dimensions)]] — Sanchez & Levine's contrast table
+- [[Adverse Impact]] — discrimination-unless-validated trigger
+- [[Four-Fifths Rule]] — the 80% adverse-impact heuristic
+- [[Three Validity Strategies (Uniform Guidelines)]] — criterion-related / content / construct
+- [[Job-Relatedness]] — KSAO–task linkage justifying a procedure
+
+### Entities (new — 2026-07-11)
+
+- [[Antonio León García-Izquierdo]] — U de Oviedo; work analysis, personnel selection, dynamic criteria
+- [[Edward Levine]] — U of South Florida; job/work analysis theory; Sanchez collaborator
+- [[O-NET|O*NET]] — DOL Occupational Information Network; 6-descriptor content model; replaced the DOT
+- [[Equal Employment Opportunity Commission (EEOC)]] — Title VII enforcement agency; co-issuer of the Uniform Guidelines
+
+### MOC (new — 2026-07-11)
+
+- [[Selection & Work Analysis MOC]] — work/job analysis, competency modeling, and the EEO legal spine
+
 ### Sources (new — 2026-06-04)
 
 - [[kozlowski-klein-2000-multilevel-approach]] — the foundational chapter on multilevel theory: emergence, composition/compilation, unit-construct types, cross-level models, time; Ch. 1 of Klein & Kozlowski (2000)
@@ -836,20 +863,4 @@ Navigation: [[Home MOC]] | [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[
 - [[Richard Ryan]] — University of Rochester / ACU; co-developer of Self-Determination Theory with Deci; Ryan & Deci 2000; Ryan et al. 2022 meta-review (developing)
 - [[Edward Deci]] — University of Rochester; co-developer of SDT; foundational reward-intrinsic motivation experiments 1975; Deci, Koestner & Ryan 1999 meta-analysis (developing)
 - [[Jasper Duineveld]] — SDT researcher; co-author Ryan et al. 2022 meta-review (stub)
-- [[Emma Bradshaw]] — SDT researcher; GCT meta-analyses (intrinsic aspirations/well-being r=.24; extrinsic centrality r=−.22); parenting meta-analysis r=.28 (stub)
-- [[Stefano Di Domenico]] — SDT researcher; co-author Ryan et al. 2022 meta-review (stub)
-- [[Robert A. Bjork]] — UCLA; New Theory of Disuse; desirable difficulties; testing effect and spacing effect research (seed)
-- [[Kurt Kraiger]] — Colorado State; workplace instruction science; Kraiger & Ford 2021; Kraiger, Ford & Salas 1993 (seed)
-- [[Andrew T. Jebb]] — Purdue; psychometrics, Likert scale development; lead author of 2021 review (stub)
-- [[Louis Tay]] — Purdue; psychometrics, well-being, latent continuum theory; conceived Jebb et al. 2021 (stub)
-- [[J. Kevin Ford]] — Michigan State; transfer of training; Baldwin & Ford 1988 transfer model; Kraiger & Ford 2021 (seed)
-- [[Bradford S. Bell]] — Cornell ILR; active learning, technology-based training, team training; Bell & Kozlowski 2002/2008/2009 (developing)
-- [[Raymond A. Noe]] — Ohio State; trainee motivation, development participation, Noe 1986 model (stub)
-- [[Kimberly A. Smith-Jentsch]] — UCF; applied training/team scientist; CRM/assertiveness training; FAA/Navy/NASA consulting; smart investments in training framework (developing)
-- [[Lisa M. Leslie]] — NYU Stern; diversity ideologies, climate, gender, workplace inequality; Leslie et al. 2020 (developing)
-- [[Elaine Costa]] — UVA McIntire; discrimination, DEI, bias-intervention design/evaluation; Costa 2024 (developing)
-- [[Albert Bandura]] — Stanford; originator of Social Cognitive Theory and self-efficacy; triadic reciprocal causation, human agency (2001)
-- [[Dale H. Schunk]] — UNC Greensboro; self-efficacy in academic settings, modeling, self-regulated learning; Schunk & Usher 2012
-- [[Ellen L. Usher]] — University of Kentucky; sources of academic self-efficacy and their measurement; Schunk & Usher 2012
-- [[Justin Kruger]] — social psychologist; co-author of "Unskilled and Unaware of It" (1999)
-- [[David Dunning]] — Cornell/Michigan; flawed self-assessment; senior author of Krug
+- [[Emma Bra

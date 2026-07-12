@@ -2890,6 +2890,51 @@
         "wiki/entities/Linda Argote.md",
         "wiki/concepts/Enactive and Vicarious Learning.md"
       ]
+    },
+    ".raw/García-Izquierdo et al. - 2015 - Work analysis for personnel selection.md": {
+      "hash": "923b7b6f65bb46d9da3ed66fb2dbde66",
+      "ingested_at": "2026-07-11",
+      "pages_created": [
+        "wiki/sources/Garcia-Izquierdo-et-al-2015-work-analysis-personnel-selection.md",
+        "wiki/concepts/Work Analysis (Job Analysis).md",
+        "wiki/concepts/Task-Oriented vs Worker-Oriented Analysis.md",
+        "wiki/entities/Antonio León García-Izquierdo.md",
+        "wiki/entities/O-NET.md"
+      ],
+      "pages_updated": [
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md"
+      ]
+    },
+    ".raw/Sanchez and Levine - 2009 - What is (or should be) the difference between competency modeling and traditional job analysis.md": {
+      "hash": "310330c05efd8f3f21d93eb5a919ed4b",
+      "ingested_at": "2026-07-11",
+      "pages_created": [
+        "wiki/sources/Sanchez-Levine-2009-competency-modeling-vs-job-analysis.md",
+        "wiki/concepts/TJA vs CM (Six Dimensions).md",
+        "wiki/entities/Edward Levine.md"
+      ],
+      "pages_updated": [
+        "wiki/concepts/Traditional Job Analysis.md",
+        "wiki/entities/Juan Sanchez.md"
+      ]
+    },
+    ".raw/Equal Employment Opportunity Commission - 1978 - Uniform Guidelines on Employee Selection Procedures.md": {
+      "hash": "a3806394ba40b26188d0b1c400497a78",
+      "ingested_at": "2026-07-11",
+      "pages_created": [
+        "wiki/sources/EEOC-1978-uniform-guidelines-employee-selection.md",
+        "wiki/concepts/Adverse Impact.md",
+        "wiki/concepts/Four-Fifths Rule.md",
+        "wiki/concepts/Three Validity Strategies (Uniform Guidelines).md",
+        "wiki/concepts/Job-Relatedness.md",
+        "wiki/entities/Equal Employment Opportunity Commission (EEOC).md",
+        "wiki/mocs/Selection & Work Analysis MOC.md"
+      ],
+      "pages_updated": [
+        "wiki/mocs/Home MOC.md"
+      ]
     }
   },
   "address_map": {
@@ -3951,7 +3996,21 @@
     "wiki/sources/myers-2018-coactive-vicarious-learning.md": "c-001175",
     "wiki/concepts/Coactive Vicarious Learning (CVL).md": "c-001176",
     "wiki/concepts/Independent Vicarious Learning (IVL).md": "c-001177",
-    "wiki/entities/Christopher G. Myers.md": "c-001178"
+    "wiki/entities/Christopher G. Myers.md": "c-001178",
+    "wiki/sources/Garcia-Izquierdo-et-al-2015-work-analysis-personnel-selection.md": "c-001179",
+    "wiki/sources/Sanchez-Levine-2009-competency-modeling-vs-job-analysis.md": "c-001180",
+    "wiki/sources/EEOC-1978-uniform-guidelines-employee-selection.md": "c-001181",
+    "wiki/entities/Antonio León García-Izquierdo.md": "c-001182",
+    "wiki/entities/Edward Levine.md": "c-001183",
+    "wiki/entities/O-NET.md": "c-001184",
+    "wiki/entities/Equal Employment Opportunity Commission (EEOC).md": "c-001185",
+    "wiki/concepts/Work Analysis (Job Analysis).md": "c-001186",
+    "wiki/concepts/Task-Oriented vs Worker-Oriented Analysis.md": "c-001187",
+    "wiki/concepts/Adverse Impact.md": "c-001188",
+    "wiki/concepts/Four-Fifths Rule.md": "c-001189",
+    "wiki/concepts/Three Validity Strategies (Uniform Guidelines).md": "c-001190",
+    "wiki/concepts/Job-Relatedness.md": "c-001191",
+    "wiki/concepts/TJA vs CM (Six Dimensions).md": "c-001192"
   },
   ".raw/Pearsall et al. - 2025 - A stimulus-based model of the team adaptation process An integrated conceptual review..pdf": {
     "hash": "62f683006d3323a67c67fc23621f632a",

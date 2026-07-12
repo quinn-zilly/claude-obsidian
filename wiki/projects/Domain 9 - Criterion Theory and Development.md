@@ -1,11 +1,11 @@
 ---
 type: comps outline
-address:
+address: c-001193
 title: Domain 9 - Criterion Theory and Development
 tags:
 status: developing
-updated: <% tp.date.now("YYYY-MM-DD") %>
-created: <% tp.date.now("YYYY-MM-DD") %>
+updated: 2026-07-07
+created: 2026-07-07
 related:
   - "[[Criterion Relevance, Deficiency & Contamination]]"
   - "[[Criterion Problem]]"
