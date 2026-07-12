@@ -39,6 +39,11 @@ Navigation: [[Home MOC]] | [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[
 
 ## Concepts
 
+- [[Informal Learning Behaviors (ILBs)]] — non-curricular, self-directed, intentional, field-based learning behaviors; meta-analytic outcomes ρ=.29–.42 (Cerasoli et al. 2018)
+- [[Coactive Vicarious Learning (CVL)]] — relational, coconstructed vicarious learning via discursive interaction (experience + analysis + support) (Myers 2018)
+- [[Independent Vicarious Learning (IVL)]] — the classic intrapersonal, one-way observe-and-imitate view of vicarious learning
+- [[Five Demands of Leadership]] — direction, alignment, executive temperament, values, growth of self/others (McCall 2010)
+- [[Competency Models vs Experience (Leadership Development)]] — "competence, not competencies"; experience beats attribute lists (McCall 2010)
 - [[Conscientiousness]] — the single best generalizable Big Five predictor of job performance; facets (achievement, dependability) predict differentially (Ones et al. 2007)
 - [[Integrity Tests]] — the highest-validity compound personality measure; ~.41 for supervisory ratings of overall JP; overt vs personality-based
 - [[Incremental Validity Over Cognitive Ability]] — personality's non-redundant predictive gain over GMA (.07–.16; ~.14 for integrity)
@@ -519,6 +524,12 @@ Navigation: [[Home MOC]] | [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[
 - [[yost-2014-leading-from-where-you-are|Yost (2014)]] — Ch. 6 in *Using Experience to Develop Leadership Talent* | viral OJD; five design characteristics; succession/perf mgmt/CoP integration; middle-out HR change | 2026-06-04
 - [[Singh-2008-Job-Analysis-Changing-Workplace|Singh (2008)]] — *Human Resource Management Review* | strategic job analysis framework; SJA vs. traditional JA; gap analysis (no/moderate/significant change); Miles & Snow defender/prospector typology applied to JA | 2026-06-04
 
+### Sources (new — 2026-07-11, L&D batch)
+
+- [[cerasoli-et-al-2018-informal-learning-behaviors-meta-analysis]] — first meta-analysis of informal learning behaviors (k=49, N=55,514); support strongest antecedent; outcomes ρ=.29 (attitudes) / .41 (K-S) / .42 (performance); *J. Business & Psychology* 2018
+- [[mccall-2010-recasting-leadership-development]] — SIOP focal article; experience (not genetics/training) is the primary source of learning to lead; seven "sure bets"; competence-not-competencies; five demands of leadership; *Industrial and Organizational Psychology* 2010
+- [[myers-2018-coactive-vicarious-learning]] — relational theory of vicarious learning; CVL (coconstructed via discourse) vs IVL (one-way observation); experience + analysis + support; *AMR* 2018
+
 ### Sources (new — 2026-06-04)
 
 - [[kozlowski-klein-2000-multilevel-approach]] — the foundational chapter on multilevel theory: emergence, composition/compilation, unit-construct types, cross-level models, time; Ch. 1 of Klein & Kozlowski (2000)
@@ -637,6 +648,10 @@ Navigation: [[Home MOC]] | [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[
 
 ## Entities
 
+- [[Christopher P. Cerasoli]] — gOE; lead author, informal learning behaviors meta-analysis (2018)
+- [[Jamie S. Donsbach]] — gOE; coauthor, ILB meta-analysis (2018)
+- [[Karin A. Orvis]] — DoD; self-development & informal learning; coauthor, ILB meta-analysis (2018)
+- [[Christopher G. Myers]] — Johns Hopkins; coactive vicarious learning; individual learning at work (2018)
 - [[Steve W. J. Kozlowski]] — co-architect of the multilevel paradigm; emergence & composition/compilation; teams (MSU)
 - [[Katherine J. Klein]] — co-architect of the multilevel paradigm; levels framework & the "Dr. Faust" essay (Wharton)
 - [[David Chan]] — typology of composition models; referent-shift & dispersion composition (MSU/NUS)

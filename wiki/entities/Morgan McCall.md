@@ -20,7 +20,7 @@ status: evergreen
 ## Key Contributions
 
 - **Lessons of Experience** (McCall, Lombardo, & Morrison, 1988) — canonical research on how effective executives develop; established that challenging work experiences, not formal training, are the primary development mechanism
-- McCall (2010) — "Recasting Leadership Development" — argues for abandoning traditional HR systems in favor of "a different horse"; directly debated by [[Paul Yost]] & [[Mary Plunkett]]
+- [[mccall-2010-recasting-leadership-development|McCall (2010)]] — "Recasting Leadership Development" — argues for abandoning traditional HR systems in favor of "a different horse"; directly debated by [[Paul Yost]] & [[Mary Plunkett]]. Introduces the [[Five Demands of Leadership]] and the [[Competency Models vs Experience (Leadership Development)|competence-not-competencies]] argument.
 - Center for Creative Leadership research (with Lombardo, Eichinger)
 
 ## Position in Debate
@@ -35,3 +35,5 @@ Yost & Plunkett (2010) response: premature to abandon HR systems — reform them
 - [[Developmental Experiences]] — McCall et al. (1988) established canonical experience taxonomy
 - [[70-20-10 Rule]] — derived from Center for Creative Leadership research McCall contributed to
 - [[yost-plunkett-2010-ten-catalysts]] — responds to McCall (2010)
+- [[Five Demands of Leadership]], [[Competency Models vs Experience (Leadership Development)]] — frameworks from McCall (2010)
+- [[Learning from Experience]] — McCall's core mechanism; reflection as the bottleneck

@@ -21,5 +21,8 @@ Management professor, School of Business, University of Connecticut. Prominent t
 - Lead author, [[mathieu-et-al-2017-century-work-teams|Mathieu et al. (2017)]] — centennial review of work teams in JAP.
 - Marks, Mathieu & Zaccaro (2001) — teamwork process taxonomy and the definition of [[Emergent States (Teams)|emergent states]].
 
+- Coauthor, [[cerasoli-et-al-2018-informal-learning-behaviors-meta-analysis|Cerasoli et al. (2018)]] — meta-analysis of [[Informal Learning Behaviors (ILBs)]].
+
 ## Sources
 - [[mathieu-et-al-2017-century-work-teams]]
+- [[cerasoli-et-al-2018-informal-learning-behaviors-meta-analysis]]

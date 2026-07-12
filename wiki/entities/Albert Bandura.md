@@ -24,4 +24,4 @@ Stanford psychologist (1925–2021), originator of **[[Social Cognitive Theory]]
 - **[[Collective Efficacy]]** — extended efficacy to the group level.
 - **[[Moral Disengagement]]** — mechanisms by which moral self-sanctions are selectively disengaged.
 
-Frequently cited across the vault's motivation and learning cluster (see [[Self-Efficacy (Goal Setting)]], [[Learning & Development MOC]]).
+Frequently cited across the vault's motivation and learning cluster (see [[Self-Efficacy (Goal Setting)]], [[Learning & Development MOC]]). His one-way social-learning account of vicarious learning is the foundation extended by [[myers-2018-coactive-vicarious-learning|Myers (2018)]] into relational [[Coactive Vicarious Learning (CVL)]].

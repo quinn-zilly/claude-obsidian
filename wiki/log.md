@@ -1,7 +1,7 @@
 ---
 type: meta
 title: Operation Log
-updated: 2026-07-07
+updated: 2026-07-11
 tags:
   - meta
   - log
@@ -12,6 +12,18 @@ related:
   - "[[overview]]"
   - "[[sources/_index]]"
 created: 2026-04-07
+---
+
+## [2026-07-11] ingest | L&D trio — informal learning (Cerasoli 2018) + experience-based leadership development (McCall 2010) + coactive vicarious learning (Myers 2018)
+
+- **Sources:** `.raw/Cerasoli et al. - 2018 ...` → [[cerasoli-et-al-2018-informal-learning-behaviors-meta-analysis]] (*J. Bus. Psychol.* 33:203–230); `.raw/McCall - 2010 - Recasting Leadership Development.md` → [[mccall-2010-recasting-leadership-development]] (*Ind. Organ. Psychol.* 3:3–19); `.raw/Myers - 2018 - Coactive Vicarious Learning ...` → [[myers-2018-coactive-vicarious-learning]] (*AMR* 43(4):610–634). Hybrid-LYT convention: sources→`wiki/sources/`, concepts→`wiki/concepts/`, entities→`wiki/entities/`.
+- **Substance (Cerasoli):** first meta-analysis of [[Informal Learning Behaviors (ILBs)]] (k=49, N=55,514, 376 ESs). Defines ILBs = non-curricular, self-directed, intentional, field-based learning behaviors (vs formal learning behaviors). Three-level antecedent framework. **Support** the strongest antecedent (ρ=.32; formal/tangible .38 ≥ informal .30 ≈ people .31); job/task .21 (autonomy .31, resources .30); individual predispositions .27 (learning motives .33); opportunities .04 (equivocal); demographics near-zero. **Outcomes:** attitudes ρ=.29, knowledge/skill .41, performance .42. Rigor did not moderate.
+- **Substance (McCall):** experience — not genetics/training/business-school — is the primary source of learning to lead. Seven "sure bets" (leadership learned from experience; challenging experiences teach; [[Developmental Experiences|challenge]] + feedback + reflection; nonlinear/dynamic → [[Derailment]] risk). Barrier isn't the [[Knowing-Doing Gap]] but executives' short-term results-drive + "you have it or you don't" beliefs (turning challenge into *testing* not developing) + misunderstood true cost. Remedies: embed development in strategy, use business initiatives not HR processes, create a "wise counselor" role, focus on learning *from* experience, and shift to **mastery** of the [[Five Demands of Leadership]]. Central polemic: [[Competency Models vs Experience (Leadership Development)|competence, not competencies]]. Provocation: "selection is ultimately the key to development."
+- **Substance (Myers):** theory paper reframing vicarious learning from intrapersonal one-way ([[Independent Vicarious Learning (IVL)]]) to relational/coconstructed ([[Coactive Vicarious Learning (CVL)]]). Integrates experiential learning (Kolb) + symbolic interactionism (Mead). Three multiplicative interactional elements: **experience + analysis + support**. Antecedent contexts (relational/structural/individual, P1–P3) and developmental consequences (individual knowledge P4; individual capacity — transactive memory, perspective-taking, self-efficacy — P5; relational capacity — shared mental models, trust, affective commitment — P6), which loop back. Motivated by tacit, ambiguous knowledge work where the "lesson" can't be deduced by observation alone.
+- **Cross-source connection:** the three map on-the-job learning at complementary grains — Cerasoli gives the *behavior-level* meta-analytic evidence (ILBs pay off), McCall the *experience-level* leadership-development thesis (experience is primary; reflection the bottleneck), Myers the *interaction-level* mechanism for one channel of it (social/vicarious learning done relationally). Notably, CVL is exactly the *social/vicarious learning that Cerasoli et al. bracket out* of ILBs — the two are complementary halves. All three converge on **[[Learning from Experience]]** (upgraded seed→developing) and reflection/support as the enabling conditions.
+- **New pages:** 6 concepts ([[Informal Learning Behaviors (ILBs)]], [[Five Demands of Leadership]], [[Competency Models vs Experience (Leadership Development)]], [[Coactive Vicarious Learning (CVL)]], [[Independent Vicarious Learning (IVL)]]) — plus upgraded [[Learning from Experience]]; 4 entities ([[Christopher P. Cerasoli]], [[Jamie S. Donsbach]], [[Karin A. Orvis]], [[Christopher G. Myers]]); 3 sources. **Updated:** [[George M. Alliger]], [[Scott I. Tannenbaum]], [[John E. Mathieu]], [[Morgan McCall]], [[Albert Bandura]], [[Linda Argote]], [[Enactive and Vicarious Learning]], [[Learning & Development MOC]], [[index]]. **Addresses c-001167–c-001178.**
+- **Candidate next:** Tannenbaum et al. (2010) informal learning primary; Noe, Tews & Marand (2013) ILB–Big Five; McCauley et al. (1994) developmental components of managerial jobs; Myers & DeRue (2017) vicarious learning; Kolb (1984) experiential learning primary; DeRue & Wellman (2009) developmental challenge.
+
 ---
 
 ## [2026-07-11] ingest | Ones, Dilchert, Viswesvaran & Judge (2007) — In Support of Personality Assessment
@@ -508,173 +520,4 @@ Parse recent entries: `grep "^## \[" wiki/log.md | head -10`
 - Pages updated: [[index]], [[hot]], [[log]]
 - Key insight: Validity is unitary — speaking of "content validity" or "discriminant validity" as separate types is theoretically incoherent and leads to fragmented validation practice; coefficient omega should replace alpha by default for psychological scales; ACO for short forms beats factor-loading maximization but cannot guarantee content coverage.
 
-## [2026-06-01] ingest | Bell, Tannenbaum, Ford, Noe & Kraiger 2017 — 100 Years of T&D Research
-- Source: `.raw/Bell et al. - 2017 - 100 years of training and development research What we know and where we should go..pdf`
-- Summary: [[bell-et-al-2017-100-years-training-development]]
-- Pages created: [[Active Learning (Training)]], [[Technology-Based Training]], [[Training Context and Transfer Climate]], [[Training Needs Analysis]], [[Trainee Characteristics]], [[Bradford S. Bell]], [[Raymond A. Noe]]
-- Pages updated: [[J. Kevin Ford]], [[Kurt Kraiger]], [[Scott I. Tannenbaum]], [[Training Transfer]], [[index]], [[hot]], [[log]]
-- Key insight: Training needs analysis is a major prescriptive pillar with almost no empirical study (2 JAP articles in 100 years); within-person self-efficacy→learning relationship is *negative* (high SE → fewer planning resources); media irrelevance principle holds for tech-based training — design determines effectiveness, not delivery platform.
-
-## [2026-06-01] ingest | Alliger et al. 1997 — Training Criteria Meta-Analysis
-- Source: `.raw/Alliger et al. - 1997 - A meta analysis of the relations among training criteria.pdf`
-- Summary: [[alliger-et-al-1997-training-criteria-meta-analysis]]
-- Pages created: [[Kirkpatrick Four-Level Model]], [[Augmented Training Criteria Framework]], [[Training Reactions (Affective vs Utility)]], [[Training Transfer]], [[Content Validity (Training Criteria)]], [[George M. Alliger]], [[Scott I. Tannenbaum]]
-- Pages updated: [[index]], [[hot]], [[log]]
-- Key insight: affective "smile sheet" reactions are essentially uncorrelated with learning or transfer; utility reactions ("will this help your job?") predict transfer better than learning measures — possibly because trainees implicitly factor in work environment constraints when judging utility.
-
-## [2026-06-01] ingest | Pearsall, Christian & Croitoru 2025 — Stimulus-Based Model of Team Adaptation
-- Source: `.raw/Pearsall et al. - 2025 - A stimulus-based model of the team adaptation process An integrated conceptual review..pdf`
-- Summary: [[pearsall-christian-croitoru-2025-team-adaptation]]
-- Pages created: [[Team Adaptation (Stimulus-Based Model)]], [[Adaptive Stimulus]], [[Stimulus Detection (Team Adaptation)]], [[Urgency Assessment (Team Adaptation)]], [[Duration Assessment (Team Adaptation)]], [[Reflexive Learning (Team Adaptation)]], [[Knowledge and Skill Acquisition (Team Adaptation)]], [[Matthew J. Pearsall]], [[Jessica Siegel Christian]]
-- Pages updated: [[Team Development Interventions]], [[Psychological Safety]], [[Transactive Memory Systems]], [[index]], [[hot]], [[log]]
-- Key insight: stimulus-based reframing shifts focus from "what did teams do?" to "what did they face and how did they categorize it?" — urgency (proximity × magnitude) and duration expectation (temporary vs. sustained) determine which behaviors are adaptive, explaining why prior response-focused findings don't generalize across stimulus types.
-
-## [2026-06-01] ingest | Lacerenza et al. 2018 — Team Development Interventions
-- Source: `.raw/Lacerenza et al. - 2018 - Team development interventions Evidence-based approaches for improving teamwork..pdf`
-- Summary: [[lacerenza-et-al-2018-team-development-interventions]]
-- Pages created: [[Team Debriefing]], [[Leadership Training (Teams)]], [[Psychological Safety]]
-- Pages updated: [[Team Development Interventions]], [[Team Training]], [[Team Building]], [[Eduardo Salas]], [[index]], [[hot]], [[log]]
-- Key insight: four-type TDI framework (training: leadership + team; process: building + debriefing); team debriefing achieves 20–25% performance gain in ~18 min; psychological safety is cross-cutting prerequisite for both training and debriefing; leadership training 29% improvement meta-analytically.
-
-## [2026-06-01] ingest | LePine et al. 2008 — Teamwork Processes Meta-Analysis
-- Source: `.raw/Lepine et al. - 2008 - A Meta-Analysis of Teamwork Processes Tests of a .pdf`
-- Summary: [[lepine-et-al-2008-teamwork-processes]]
-- Pages created: [[Teamwork Processes (Marks et al. Taxonomy)]], [[Emergent States (Teams)]]
-- Pages updated: [[Team Development Interventions]], [[index]], [[hot]], [[log]]
-- Key insight: all process types relate equally to performance (ρ≈.29) — discriminant validity fails at criterion level despite structural distinctiveness; task interdependence amplifies process–performance links; process diagnosis enables targeted TDI selection.
-
-## [2026-06-01] ingest | Shuffler, DiazGranados & Salas 2011 — Team Development Interventions
-- Source: `.raw/Shuffler et al. - 2011 - There's a Science for That Team Development Inter.pdf`
-- Summary: [[shuffler-et-al-2011-team-development-interventions]]
-- Pages created: [[Team Development Interventions]], [[Team Building]], [[Team Training]], [[Eduardo Salas]]
-- Pages updated: [[Transactive Memory Systems]], [[Trait Activation Theory]], [[index]], [[hot]], [[log]]
-- Key insight: team training > team building overall (ρ=0.34 vs. 0.31) but building = training for process/affect; cross-training directly develops TMS; CRM training credited for Hudson River survival outcome.
-
-## [2026-06-01] ingest | Tett, Toich & Ozkum 2021 — Trait Activation Theory
-- Source: `.raw/Tett et al. - 2021 - Trait Activation Theory A Review of the Literature and Applications to Five Lines of Personality Dy.pdf`
-- Summary: [[tett-et-al-2021-trait-activation-theory]]
-- Pages created: [[Trait Activation Theory]], [[Situational Cue Types (TAT)]], [[Personality Dynamics (TAT)]], [[Situation Strength]], [[Five-Factor Model]], [[Person–Environment Fit]], [[Robert Tett]]
-- Pages updated: [[index]], [[hot]], [[log]]
-- Key insight: TAT moderator effects 60% significant across 262 tests; neuroticism/emotional stability most situation-sensitive (79%); TAT + SR = compatible hybrid motivational system via shared affect foundation and Murray 1938 need-satisfaction heritage.
-
-## [2026-06-01] ingest | Schmidt, Beck & Gillespie 2012 — Motivation
-- Source: `.raw/Schmidt et al. - 2012 - Motivation.pdf`
-- Summary: [[schmidt-beck-gillespie-2012-motivation]]
-- Pages created: [[Control Theory (Self-Regulation)]], [[Multiple Goal Self-Regulation]], [[Temporal Motivation Theory]], [[Emotional Labor]], [[Goal Orientation]], [[Aaron Schmidt]]
-- Pages updated: [[Self-Efficacy (Goal Setting)]], [[Regulatory Focus Theory]], [[Goal-Setting Theory]] (source page)
-- Key insight: motivation = resource allocation across competing goals; SE effects (positive vs. negative) reconciled by ambiguity + challenge moderators; velocity independently predicts affect beyond discrepancy magnitude.
-
-## [2026-06-01] ingest | Morgeson, Garza & Campion 2012 — Work Design
-- Source: `.raw/Morgeson et al. - 2012 - Work design.pdf`
-- Summary: [[morgeson-garza-campion-2012-work-design]]
-- Pages created: [[Work Design (Concept)]], [[Work Design Questionnaire]], [[Sociotechnical Systems Theory]], [[Job Demands–Control–Support Model]], [[Interdisciplinary Model of Job Design]], [[Frederick Morgeson]], [[Michael Campion]]
-- Pages updated: [[Job Characteristics Model]]
-- Key insight: WDQ extends JCM's 5 motivational chars to 18 across task/knowledge/social/contextual domains; work conditions alone explain 16% incremental variance in stress; motivational–mechanistic tradeoff partially resolvable via specialization.
-
-
-## [2026-05-30] ingest | Kanfer, Frese & Johnson 2017 — Work Motivation: A Century of Progress
-- Source: `.raw/Kanfer et al. - 2017 - Motivation related to work A century of progress..pdf`
-- Summary: [[kanfer-frese-johnson-2017-work-motivation]]
-- Pages created: [[Work Motivation Meta-Framework (Kanfer)]], [[Resource Allocation Theory (Motivation)]], [[Action Regulation Theory]], [[Ego Depletion]], [[Regulatory Focus Theory]], [[Job Characteristics Model]], [[Proactive Engagement]], [[Ruth Kanfer]], [[Michael Frese]], [[Russell Johnson]]
-- Pages updated: [[index]], [[hot]], [[log]]
-- Addresses: c-000286 (source) through c-000296 (Russell Johnson entity)
-- Key insight: Work motivation = dynamic goal-directed resource allocation over time; content/context exert effects indirectly via goal choice + striving processes; ego depletion mechanistically challenged; future agenda = implicit motivation, temporal dynamics, proactive engagement, life-span.
-
-## [2026-05-30] ingest | Locke & Latham 2002 — Goal-Setting Theory: A 35-Year Odyssey
-- Source: `.raw/Locke and Latham - 2002 - Building a practically useful theory of goal setting and task motivation A 35-year odyssey..pdf`
-- Summary: [[locke-latham-2002-goal-setting-theory]]
-- Pages created: [[Goal-Setting Theory]], [[Self-Efficacy (Goal Setting)]], [[High-Performance Cycle]], [[Goal Commitment]], [[Learning Goals vs Performance Goals]], [[Situational Interview]], [[Edwin Locke]], [[Gary Latham]]
-- Pages updated: [[index]], [[hot]], [[log]]
-- Addresses: c-000276 (source) through c-000284 (Gary Latham entity)
-- Key insight: Conscious specific hard goals → linear performance gains via 4 mechanisms; satisfaction = result not cause of performance (High-Performance Cycle); learning goals > performance goals on complex tasks.
-
-## [2026-05-29] ingest | Ryan et al. 2022 — SDT Meta-Review
-- Source: `.raw/Ryan et al. - 2022 - We know this much is (meta-analytically) true A meta-review of meta-analytic findings evaluating se.pdf`
-- Summary: [[ryan-et-al-2022-sdt-meta-review]]
-- Pages created: [[ryan-et-al-2022-sdt-meta-review]], [[Causality Orientations Theory]], [[Goal Contents Theory]], [[Relationships Motivation Theory]], [[Basic Psychological Needs Theory]], [[Need Frustration (SDT)]], [[Perceived Locus of Causality]], [[Jasper Duineveld]], [[Emma Bradshaw]], [[Stefano Di Domenico]]
-- Pages updated: [[Self-Determination Theory]], [[Richard Ryan]], [[index]], [[hot]], [[log]]
-- Addresses: c-000264 to c-000273 (c-000274–275 spare)
-
-## [2026-05-29] ingest | Ryan & Deci 2000 — Self-Determination Theory
-- Source: `.raw/Ryan and Deci - Self-Determination Theory and the Facilitation of Intrinsic Motivation, Social Development, and Well.pdf`
-- Summary: [[ryan-deci-2000-sdt]]
-- Pages created: [[ryan-deci-2000-sdt]], [[Self-Determination Theory]], [[Basic Psychological Needs (SDT)]], [[Autonomy (SDT)]], [[Competence (SDT)]], [[Relatedness (SDT)]], [[Intrinsic Motivation]], [[Extrinsic Motivation]], [[Cognitive Evaluation Theory]], [[Organismic Integration Theory]], [[Internalization (SDT)]], [[Richard Ryan]], [[Edward Deci]]
-- Pages updated: [[index]], [[hot]], [[log]]
-- Key insight: Autonomy ≠ independence; contingent rewards reliably undermine intrinsic motivation; all three needs (not just one) required for well-being; extrinsic aspiration pursuit → ill-being even when goals are attained.
-
-## [2026-05-26] ingest | Fischhoff & Broomell 2020 — Judgment and Decision Making
-- Source: `.raw/Fischhoff and Broomell - 2020 - Judgment and Decision Making.pdf`
-- Summary: [[fischhoff-broomell-2020-jdm-review]]
-- Pages created: [[fischhoff-broomell-2020-jdm-review]], [[Baruch Fischhoff]], [[Stephen Broomell]], [[Calibration (Judgment)]], [[Wisdom of the Crowd]], [[Constructed Preference]], [[Loss Aversion]], [[Cumulative Prospect Theory]], [[Decision by Sampling]], [[Decision-Making Competence]], [[DOSPERT Scale]], [[Sacred Values]], [[Fuzzy-Trace Theory]], [[Good Judgment Project]], [[Superforecasters]], [[Mental Models (Decision)]], [[Libertarian Paternalism]], [[Applied Basic Psychology]]
-- Pages updated: [[Judgment and Decision Making (Field)]], [[Prospect Theory]], [[index]], [[hot]], [[log]]
-- Key insight: Decision science's defining loop is task analysis → behavioral description → intervention; without task analysis you can't define "better." CPT parameters (including loss aversion) are unstable — weak meta-analytic evidence; DbS offers a mechanistic alternative. Neighborhood disadvantage at age 10 is the strongest predictor of decision-making competence — DMC is socially constituted, not just cognitive.
-
-## [2026-05-24] ingest | Cornelissen & Werner 2014 — Putting Framing in Perspective
-- Source: `.raw/Cornelissen and Werner - 2014 - Putting framing in perspective A review of framing and frame analysis across the management and org.pdf`
-- Summary: [[cornelissen-werner-2014-framing-review]]
-- Pages created: [[cornelissen-werner-2014-framing-review]], [[Framing (Organizational Theory)]], [[Cognitive Frame]], [[Priming vs Framing]], [[Strategic Framing]], [[Collective Action Frame]], [[Field Frame]], [[Institutional Frame]], [[Sensemaking (Organizational)]], [[Technological Frame]], [[Joep Cornelissen]], [[Mirjam Werner]]
-- Pages updated: [[Framing Effects]], [[Institutional Entrepreneurship]], [[index]], [[hot]], [[log]]
-- Key insight: The priming/framing distinction is C&W's core contribution — most micro cognition research studies priming (schema activation), not framing (social meaning construction); conflating them creates reification and static bias across the whole literature.
-
-## [2026-05-24] fold | batch-exponent-k4 rollup of 16 entries
-- Location: wiki/folds/fold-k4-from-2026-04-08-to-2026-04-24-n16.md
-- Range: 2026-04-08 to 2026-04-24
-- Children: 16 log entries
-
-## [2026-05-23] ingest | Connolly, Ordóñez & Barker 2012 — Judgment and Decision Making
-- Source: `.raw/Connolly et al. - 2012 - Judgement and Decision Making.pdf`
-- Summary: [[connolly-2012-jdm]]
-- Pages created: [[connolly-2012-jdm]], [[Judgment and Decision Making (Field)]], [[Lens Model]], [[Policy Capturing]], [[Prospect Theory]], [[Framing Effects]], [[Decision Justification Theory]], [[Appraisal-Tendency Framework]], [[Signal Detection Theory (Decision)]], [[Naturalistic Decision Making]], [[Sunk Cost Effect]], [[Dynamic Decision Making]], [[Electronic Brainstorming]], [[Terry Connolly]], [[Lisa Ordóñez]]
-- Pages updated: [[index]], [[hot]], [[log]]
-- Key insight: JDM is inherently dual (descriptive + normative); Prospect Theory's reference-point value function explains loss aversion, framing effects, and sunk-cost escalation through a single mechanism; Decision Justification Theory distinguishes outcome from process regret — process-regret priming produces better decisions than outcome-regret priming.
-
-## [2026-05-23] ingest | Tversky & Kahneman 1974 — Judgment under Uncertainty: Heuristics and Biases
-- Source: `.raw/Tversky and Kahneman - 1974 - Judgment under Uncertainty Heuristics and Biases.pdf`
-- Summary: [[tversky-kahneman-1974-heuristics-biases]]
-- Pages created: [[Amos Tversky]], [[Daniel Kahneman]], [[Heuristics and Biases Program]], [[Representativeness Heuristic]], [[Availability Heuristic]], [[Anchoring and Adjustment]], [[Base Rate Neglect]], [[Gambler's Fallacy]], [[Illusion of Validity]], [[Regression to the Mean]], [[Illusory Correlation]]
-- Pages updated: [[index]], [[hot]], [[sources/_index]]
-- Key insight: Three heuristics (representativeness, availability, anchoring) produce severe and systematic biases in probability judgment — biases that persist in trained researchers and are not eliminated by incentives for accuracy.
-
-## [2026-05-23] ingest | Fulmer, Gerhart & Kim 2023 — Compensation and Performance: A Review and Recommendations for the Future
-- Source: `.raw/Fulmer et al. - 2023 - Compensation and performance A review and recommendations for the future.pdf`
-- Summary: [[fulmer-2023-compensation-performance]]
-- Pages created: [[Pay-for-Performance]], [[Incentive Effect (Compensation)]], [[Sorting Effect (Compensation)]], [[PFP Intensity]], [[Equal Compensation Principle]], [[Pay Dispersion]], [[Pay Transparency]], [[Ingrid Smithey Fulmer]], [[Barry Gerhart]], [[JiHyun Kim]]
-- Pages updated: [[index]], [[hot]]
-- Key insight: Sorting effects (workforce composition change via attraction/retention) are often *larger* than incentive effects (motivation of current workers) — Cadsby et al. (2007) found sorting ≈ 74% of total PFP advantage — yet most research designs (random assignment) cannot observe sorting, causing systematic underestimation of PFP's true value. The promotion channel (not annual merit) is where most real PFP intensity lies.
-
-## [2026-05-23] ingest | Albarracín et al. 2024 — Determinants of Behaviour and Their Efficacy as Targets of Behavioural Change Interventions
-- Source: `.raw/Albarracín et al. - 2024 - Determinants of behaviour and their efficacy as targets of behavioural change interventions.pdf`
-- Summary: [[albarracin-2024-determinants-behaviour-change]]
-- Pages created: [[Behaviour Change Determinants]], [[Descriptive Norms]], [[Injunctive Norms]], [[Habits (Behaviour)]], [[Behavioural Access Interventions]], [[Social Support (Behaviour)]], [[Reasoned Action Approach]], [[Information-Motivation-Behavioural Skills Model]], [[Correlation-Intervention Gap (Behaviour)]], [[Dolores Albarracín]]
-- Pages updated: [[index]]
-- Key insight: Across behavioural domains, intervention targets ordered by increasing efficacy: knowledge < general skills < general attitudes < beliefs < emotions < behavioural skills < behavioural attitudes < habits (individual) and legal sanctions < trustworthiness < injunctive norms < monitors/reminders < descriptive norms < material incentives < social support < access (social-structural). Access has a large effect (OR≈4.89); knowledge has a negligible effect (OR≈1.11). The correlation-intervention gap means correlational evidence should never be used alone to select intervention targets.
-
-## [2026-05-22] ingest | Yarkoni & Westfall 2017 — Choosing Prediction Over Explanation in Psychology
-- Source: `.raw/Yarkoni and Westfall - 2017 - Choosing Prediction Over Explanation in Psychology Lessons From Machine Learning.pdf`
-- Summary: [[yarkoni-westfall-2017-prediction-vs-explanation]]
-- Pages created: [[Prediction vs Explanation (Psychology)]], [[Overfitting]], [[Training vs Test Error]], [[Bias-Variance Tradeoff]], [[Procedural Overfitting]], [[Cross-Validation]], [[Regularization]], [[Tal Yarkoni]], [[Jacob Westfall]]
-- Pages updated: [[Replication Crisis]], [[P-hacking]]
-- Key insight: P-hacking is a special case of overfitting (procedural overfitting); psychology confuses training error (R²) with test error; machine learning tools — cross-validation, regularization, bias-variance decomposition — offer principled solutions that would also improve explanatory science.
-
-## [2026-05-22] ingest | Nosek et al. 2022 — Replicability, Robustness, and Reproducibility in Psychological Science
-- Source: `.raw/Nosek et al. - 2022 - Replicability, Robustness, and Reproducibility in Psychological Science.pdf`
-- Summary: [[nosek-2022-replicability-robustness-reproducibility]]
-- Pages created: [[nosek-2022-replicability-robustness-reproducibility]], [[Robustness (Science)]], [[Replication as Theoretical Commitment]], [[Questionable Research Practices]], [[Prediction Markets (Science)]], [[TOP Guidelines]], [[Psychological Science Accelerator]], [[Simine Vazire]], [[Tom Hardwicke]], [[Anna Dreber]]
-- Pages updated: [[Brian Nosek]] (+2022 paper), [[Replication Crisis]] (+xref), [[Analytic Reproducibility]] (+process/outcome failure distinction, +Robustness xref), [[index]], [[log]], [[hot]]
-- Key insight: 307 replications aggregate to 64% success rate / 68% effect size ratio — but with massive heterogeneity (36% to 90% across projects). Replicability is predictable pre-replication (r=0.52 from markets; ML ≈ markets). Culture change follows Rogers diffusion; all 5 levels (infrastructure → policy) are necessary and none sufficient. As of 2021: behavior changing exponentially (OSF registrations), but published literature barely moved (2% data sharing in audit).
-
-## [2026-05-21] ingest | Micelotta, Lounsbury & Greenwood 2017 — Pathways of Institutional Change
-- Source: `.raw/Micelotta et al. - 2017 - Pathways of Institutional Change.pdf` (Zotero: QQ8YAN2H)
-- Summary: [[micelotta-2017-pathways-institutional-change]]
-- Pages created: [[micelotta-2017-pathways-institutional-change]], [[Institutional Change Pathways]], [[Institutional Entrepreneurship]], [[Institutional Displacement]], [[Institutional Alignment]], [[Institutional Accommodation]], [[Institutional Accretion]], [[Evelyn Micelotta]], [[Michael Lounsbury]], [[Royston Greenwood]]
-- Pages updated: [[Institutional Isomorphism]] (+xref Institutional Change Pathways), [[Organizational Field]] (+xref Institutional Change Pathways), [[index]], [[log]], [[hot]]
-- Key insight: The 2×2 typology (scope × pace) reveals that accommodation and accretion — the least-studied pathways — require abandoning the linear causality assumption (revolutionary→transformation, evolutionary→modest change). Accretion is the most theoretically novel: micro-level improvisations that no one intends to be institutional change can accumulate into field-level transformation.
-
-## [2026-05-21] ingest | Kerr 1998 — HARKing: Hypothesizing After the Results are Known
-- Source: `.raw/Kerr - 1998 - HARKing Hypothesizing After the Results are Known.pdf`
-- Summary: [[kerr-1998-harking]]
-- Pages created: [[kerr-1998-harking]], [[Norbert Kerr]]
-- Pages updated: [[HARKing]] (developing → mature; expanded with three forms, mechanisms, cross-domain connections), [[index]]
-- Key insight: HARKing is primarily a cognitive failure (hindsight bias) plus a social norm failure (hypothetico-deductive presentational pressure) — not strategic fraud. This explains why ethics appeals alone fail as remedies and why preregistration (making HARKing *detectable*) is the right structural fix.
-
-## [2026-05-21] ingest | Ren & Argote 2011 — Transactive Memory Systems 1985–2
+## [2026-06-01] ingest | Bell, Tannenbaum, Ford, N

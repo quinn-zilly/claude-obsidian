@@ -33,4 +33,8 @@ SCT separates *new learning* from *performance* of already-learned actions. Lear
 
 **Model characteristics**: perceived similarity (age/gender signal appropriateness; **competence** dominates for actual learning), and **coping models** (who struggle then improve) benefit prior-difficulty learners more than flawless **mastery models**.
 
-Source: [[schunk-usher-2012-social-cognitive-theory-motivation|Schunk & Usher (2012)]].
+## Extension to organizations (Myers 2018)
+
+The classic Bandura account casts vicarious learning as **intrapersonal and one-way** — [[Independent Vicarious Learning (IVL)]]. [[myers-2018-coactive-vicarious-learning|Myers (2018)]] argues this breaks down in tacit, ambiguous knowledge work and proposes [[Coactive Vicarious Learning (CVL)]]: a **relational, coconstructed** process where model and learner jointly process an experience through discursive interaction (experience + analysis + support).
+
+Source: [[schunk-usher-2012-social-cognitive-theory-motivation|Schunk & Usher (2012)]]; extension via [[myers-2018-coactive-vicarious-learning|Myers (2018)]].

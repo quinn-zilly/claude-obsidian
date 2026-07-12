@@ -2845,6 +2845,51 @@
         "wiki/hot.md",
         "wiki/log.md"
       ]
+    },
+    ".raw/Cerasoli et al. - 2018 - Antecedents and outcomes of informal learning behaviors A meta-analysis..md": {
+      "hash": "229db5834fbaa86a786a0a54c32b29b1",
+      "ingested_at": "2026-07-11",
+      "pages_created": [
+        "wiki/sources/cerasoli-et-al-2018-informal-learning-behaviors-meta-analysis.md",
+        "wiki/concepts/Informal Learning Behaviors (ILBs).md",
+        "wiki/entities/Christopher P. Cerasoli.md",
+        "wiki/entities/Jamie S. Donsbach.md",
+        "wiki/entities/Karin A. Orvis.md"
+      ],
+      "pages_updated": [
+        "wiki/entities/George M. Alliger.md",
+        "wiki/entities/Scott I. Tannenbaum.md",
+        "wiki/entities/John E. Mathieu.md",
+        "wiki/concepts/Learning from Experience.md"
+      ]
+    },
+    ".raw/McCall - 2010 - Recasting Leadership Development.md": {
+      "hash": "ca8c1a44eb0ebf2d99ec3c1f507f4690",
+      "ingested_at": "2026-07-11",
+      "pages_created": [
+        "wiki/sources/mccall-2010-recasting-leadership-development.md",
+        "wiki/concepts/Five Demands of Leadership.md",
+        "wiki/concepts/Competency Models vs Experience (Leadership Development).md"
+      ],
+      "pages_updated": [
+        "wiki/entities/Morgan McCall.md",
+        "wiki/concepts/Learning from Experience.md"
+      ]
+    },
+    ".raw/Myers - 2018 - Coactive Vicarious Learning Toward a Relational Theory of Vicarious Learning in Organizations.md": {
+      "hash": "174759e9a8b71d90441b4c453b4aa2bb",
+      "ingested_at": "2026-07-11",
+      "pages_created": [
+        "wiki/sources/myers-2018-coactive-vicarious-learning.md",
+        "wiki/concepts/Coactive Vicarious Learning (CVL).md",
+        "wiki/concepts/Independent Vicarious Learning (IVL).md",
+        "wiki/entities/Christopher G. Myers.md"
+      ],
+      "pages_updated": [
+        "wiki/entities/Albert Bandura.md",
+        "wiki/entities/Linda Argote.md",
+        "wiki/concepts/Enactive and Vicarious Learning.md"
+      ]
     }
   },
   "address_map": {
@@ -3894,7 +3939,19 @@
     "wiki/concepts/Directed Faking vs Applicant Response Distortion.md": "c-001163",
     "wiki/concepts/Conscientiousness.md": "c-001164",
     "wiki/entities/Stephan Dilchert.md": "c-001165",
-    "wiki/sources/Morgeson et al. (2007) Panel Critique.md": "c-001166"
+    "wiki/sources/Morgeson et al. (2007) Panel Critique.md": "c-001166",
+    "wiki/sources/cerasoli-et-al-2018-informal-learning-behaviors-meta-analysis.md": "c-001167",
+    "wiki/concepts/Informal Learning Behaviors (ILBs).md": "c-001168",
+    "wiki/entities/Christopher P. Cerasoli.md": "c-001169",
+    "wiki/entities/Jamie S. Donsbach.md": "c-001170",
+    "wiki/entities/Karin A. Orvis.md": "c-001171",
+    "wiki/sources/mccall-2010-recasting-leadership-development.md": "c-001172",
+    "wiki/concepts/Five Demands of Leadership.md": "c-001173",
+    "wiki/concepts/Competency Models vs Experience (Leadership Development).md": "c-001174",
+    "wiki/sources/myers-2018-coactive-vicarious-learning.md": "c-001175",
+    "wiki/concepts/Coactive Vicarious Learning (CVL).md": "c-001176",
+    "wiki/concepts/Independent Vicarious Learning (IVL).md": "c-001177",
+    "wiki/entities/Christopher G. Myers.md": "c-001178"
   },
   ".raw/Pearsall et al. - 2025 - A stimulus-based model of the team adaptation process An integrated conceptual review..pdf": {
     "hash": "62f683006d3323a67c67fc23621f632a",

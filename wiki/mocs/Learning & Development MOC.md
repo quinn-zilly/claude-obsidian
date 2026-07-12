@@ -11,7 +11,7 @@ related:
   - "[[Open Science MOC]]"
   - "[[Performance Management MOC]]"
 status: developing
-updated: 2026-07-07
+updated: 2026-07-11
 ---
 
 # Learning & Development — Map of Content
@@ -69,12 +69,28 @@ This cluster maps how people learn, how training works (and transfers), and how 
 - [[Experience-Driven Development]]
 - [[Informal Field-Based Learning (IFBL)]] — intentional, self-directed on-the-job learning; CAM-OS framework
 - [[tannenbaum-wolfson-2022-informal-field-based-learning|Tannenbaum & Wolfson (2022): Informal (Field-Based) Learning]]
+- [[Informal Learning Behaviors (ILBs)]] — the behavior-level construct; self-directed, intentional, field-based
+- [[cerasoli-et-al-2018-informal-learning-behaviors-meta-analysis|Cerasoli et al. (2018): ILB meta-analysis]] — k=49, N=55,514; support is the strongest antecedent; outcomes ρ=.29–.42
+- [[Learning from Experience]] — the mechanism; reflection as the bottleneck
 - [[On-the-Job Development]]
 - [[Training as Catalyst (OJD)]]
 - [[70-20-10 Rule]]
 - [[Stretch Experiences]]
 - [[ellis-davidi-2005-after-event-reviews|After-Event Reviews: Drawing Lessons From Successful and Failed Experience]]
 - [[Learning Agility]]
+
+## Experience-based leadership development
+
+- [[mccall-2010-recasting-leadership-development|McCall (2010): Recasting Leadership Development]] — experience is the primary source of learning to lead
+- [[Five Demands of Leadership]] — direction / alignment / temperament / values / growth
+- [[Competency Models vs Experience (Leadership Development)]] — "competence, not competencies"
+- [[Developmental Experiences]] · [[Derailment]] · [[Morgan McCall]]
+
+## Vicarious & relational learning
+
+- [[myers-2018-coactive-vicarious-learning|Myers (2018): Coactive Vicarious Learning]] — relational theory of vicarious learning
+- [[Coactive Vicarious Learning (CVL)]] — model + learner coconstruct meaning (experience + analysis + support)
+- [[Independent Vicarious Learning (IVL)]] — the classic one-way observation-and-imitation view
 
 ## Diversity, equity & inclusion
 
@@ -92,7 +108,7 @@ This cluster maps how people learn, how training works (and transfers), and how 
 - [[Collective Efficacy]] — group-level efficacy (emergent)
 - [[Forethought and Anticipatory Self-Guidance]] · [[Moral Disengagement]] · [[Agentic Management of Fortuity]]
 - [[Self-Efficacy (Goal Setting)]] · [[Sources of Self-Efficacy]] — mastery, vicarious, verbal persuasion, physiological
-- [[Enactive and Vicarious Learning]] · [[Social Comparison]]
+- [[Enactive and Vicarious Learning]] · [[Social Comparison]] — see also [[Coactive Vicarious Learning (CVL)]] (relational extension)
 - [[Dunning-Kruger Effect]] — metacognitive deficit of the unskilled; competence begets calibration
 - [[Above-Average Effect]] · [[Metacognition and Self-Directed Learning]] · [[Calibration (Judgment)]]
 - [[bandura-2001-social-cognitive-theory-agentic|Bandura (2001)]] · [[schunk-usher-2012-social-cognitive-theory-motivation|Schunk & Usher (2012)]] · [[kruger-dunning-1999-unskilled-and-unaware|Kruger & Dunning (1999)]]

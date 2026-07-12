@@ -43,3 +43,6 @@ Leading organizational learning researcher at the **Tepper School of Business, C
 - Sunkee Lee (Carnegie Mellon)
 - Jisoo Park (Carnegie Mellon)
 - Dennis Epple (early learning curve work)
+
+## Referenced by
+- [[myers-2018-coactive-vicarious-learning|Myers (2018)]] — Argote's "reservoirs and conduits" knowledge-transfer imagery is the mechanical view [[Coactive Vicarious Learning (CVL)]] moves beyond.

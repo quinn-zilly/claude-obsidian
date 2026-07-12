@@ -20,6 +20,7 @@ I-O psychologist, University at Albany (SUNY), Department of Psychology.
 - [[alliger-janak-1989-kirkpatrick-levels-thirty-years-later|Alliger & Janak (1989)]]: First systematic critique + literature correlations on Kirkpatrick's training criteria — *Personnel Psychology* 42
 - [[alliger-et-al-1997-training-criteria-meta-analysis]]: Augmented framework + expanded meta-analysis — *Personnel Psychology* 50
 - Shelton & Alliger (1993): "Who's Afraid of Level 4 Evaluation?" — *Training & Development Journal*
+- [[cerasoli-et-al-2018-informal-learning-behaviors-meta-analysis|Cerasoli et al. (2018)]]: Coauthor — first meta-analysis of [[Informal Learning Behaviors (ILBs)]] — *J. Business & Psychology* 33
 
 ## Contributions
 

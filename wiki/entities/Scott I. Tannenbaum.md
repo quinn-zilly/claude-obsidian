@@ -23,6 +23,7 @@ I-O psychologist and consultant; affiliated with Executive Consulting Group, Inc
 - [[alliger-et-al-1997-training-criteria-meta-analysis]]: Co-author
 - [[bell-et-al-2017-100-years-training-development]]: Co-author (centennial JAP review)
 - [[tannenbaum-wolfson-2022-informal-field-based-learning|Tannenbaum & Wolfson (2022)]]: IFBL review + CAM-OS framework — *Annu. Rev. Organ. Psychol. Organ. Behav.* 9
+- [[cerasoli-et-al-2018-informal-learning-behaviors-meta-analysis|Cerasoli et al. (2018)]]: Coauthor — meta-analysis of [[Informal Learning Behaviors (ILBs)]] — *J. Business & Psychology* 33
 
 ## Contributions
 
