@@ -15,6 +15,16 @@ Discuss how I-O psychology leadership research has changed over the last several
 
 # Outline
 
+**Role of Leader Evolution**
+
+1) Leadership Traits
+2) Behavioral Styles
+3) Contingent Leadership
+4) Transformational, Leader-Member Exchange, Team Leadership, Gender
+
+**Emergent Theories**
+
+
 # References
 
 [[lord-et-al-2017-leadership-in-applied-psychology]]
@@ -25,8 +35,8 @@ Discuss how I-O psychology leadership research has changed over the last several
 
 [[derue-et-al-2011-trait-behavioral-leadership-integration]]
 
-derue - adaptive leadership
+[[derue-2011-adaptive-leadership-complex-adaptive-process]]
 
-uhl-bien - followership
+[[uhl-bien-et-al-2014-followership-theory-review]]
 
-Zhu - shared leadership
+[[zhu-et-al-2018-shared-leadership-review]]

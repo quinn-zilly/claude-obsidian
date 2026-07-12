@@ -18,6 +18,9 @@ related:
   - "[[Leadership Identity Construction]]"
   - "[[Jennifer Nahrgang]]"
   - "[[Stephen Humphrey]]"
+  - "[[morgeson-et-al-2010-leadership-in-teams-functional|Morgeson, DeRue & Karam (2010): Leadership in Teams]]"
+  - "[[Functional Team Leadership Theory]]"
+  - "[[Elizabeth P. Karam]]"
 updated: 2026-07-12
 ---
 

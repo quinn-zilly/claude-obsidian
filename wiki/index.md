@@ -524,6 +524,29 @@ Navigation: [[Home MOC]] | [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[
 - [[yost-2014-leading-from-where-you-are|Yost (2014)]] — Ch. 6 in *Using Experience to Develop Leadership Talent* | viral OJD; five design characteristics; succession/perf mgmt/CoP integration; middle-out HR change | 2026-06-04
 - [[Singh-2008-Job-Analysis-Changing-Workplace|Singh (2008)]] — *Human Resource Management Review* | strategic job analysis framework; SJA vs. traditional JA; gap analysis (no/moderate/significant change); Miles & Snow defender/prospector typology applied to JA | 2026-06-04
 
+### Sources (new — 2026-07-12, emergence / functional / meta-theory batch)
+
+- [[badura-et-al-2022-leadership-emergence-integrative-review|Badura, Galvin & Lee (2022)]] — integrative review of leader emergence (270 studies); distal–proximal framework; formal + informal emergence; *Journal of Applied Psychology*
+- [[morgeson-et-al-2010-leadership-in-teams-functional|Morgeson, DeRue & Karam (2010)]] — functional theory of team leadership; four sources (internal/external × formal/informal); 15 leadership functions + TLQ; *Journal of Management*
+- [[carton-2022-science-of-leadership|Carton (2022)]] — meta-theoretical map of leadership; leaders-vs-leading × cause-vs-consequence; lumped-vs-split conceptualizations; *Annual Review of Org. Psych. & Org. Behavior*
+
+### Concepts (new — 2026-07-12, emergence / functional / meta-theory batch)
+
+- [[Distal-Proximal Framework of Leader Emergence]] — traits predict emergence through behaviors/states (Badura et al. 2022)
+- [[Formal vs Informal Leader Emergence]] — integrating both, not leaderless-groups only
+- [[Functional Team Leadership Theory]] — leadership satisfies critical team needs (Morgeson et al. 2010)
+- [[15 Team Leadership Functions]] — transition/action taxonomy → Team Leadership Questionnaire
+- [[Sources of Team Leadership (2x2)]] — internal/external × formal/informal
+- [[Leaders vs Leading]] — person vs process (Carton 2022)
+- [[Leadership as Cause vs Consequence]] — independent vs dependent variable
+- [[Lumped vs Split Conceptualizations of Leading]] — the case for isolating single behaviors
+
+### Entities (new — 2026-07-12, emergence / functional / meta-theory batch)
+
+- [[Katie L. Badura]], [[Benjamin M. Galvin]], [[Min Young Lee]] — Badura et al. 2022
+- [[Andrew M. Carton]] — Carton 2022
+- [[Elizabeth P. Karam]] (with existing [[Frederick Morgeson]], [[D. Scott DeRue]]) — Morgeson et al. 2010
+
 ### Sources (new — 2026-07-12, followership & process leadership batch)
 
 - [[zhu-et-al-2018-shared-leadership-review|Zhu et al. (2018)]] — state-of-the-art review of shared leadership; three key characteristics, six overlapping constructs, aggregation vs. network measurement, integrative framework, dark side; *Journal of Organizational Behavior*

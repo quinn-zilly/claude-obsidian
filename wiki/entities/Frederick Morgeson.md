@@ -18,6 +18,8 @@ related:
   - "[[morgeson-humphrey-2006-work-design-questionnaire|Morgeson & Humphrey (2006)]]"
   - "[[wiki/sources/morgeson-garza-campion-2012-work-design|Morgeson et al. 2012]]"
   - "[[parker-morgeson-johns-2017-100-years-work-design|Parker et al. (2017)]]"
+  - "[[morgeson-et-al-2010-leadership-in-teams-functional|Morgeson, DeRue & Karam (2010): Leadership in Teams]]"
+  - "[[Functional Team Leadership Theory]]"
 ---
 
 # Frederick Morgeson

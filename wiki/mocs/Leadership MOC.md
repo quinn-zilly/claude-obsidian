@@ -47,6 +47,24 @@ This cluster maps how leadership is defined, distributed, co-produced, and studi
 - [[wang-et-al-2014-shared-leadership-team-effectiveness|Wang, Waldman & Zhang (2014): Meta-Analysis of Shared Leadership]]
 - [[Vertical vs Shared Leadership]] — complements, not substitutes
 - [[Team Leadership]]
+- [[morgeson-et-al-2010-leadership-in-teams-functional|Morgeson, DeRue & Karam (2010): Leadership in Teams — A Functional Approach]]
+- [[Functional Team Leadership Theory]] — leadership satisfies critical team needs
+- [[Sources of Team Leadership (2x2)]] — internal/external × formal/informal
+- [[15 Team Leadership Functions]] — transition- and action-phase taxonomy (TLQ)
+
+## Leader emergence
+
+- [[badura-et-al-2022-leadership-emergence-integrative-review|Badura, Galvin & Lee (2022): Leadership Emergence — An Integrative Review]]
+- [[Distal-Proximal Framework of Leader Emergence]] — how traits predict emergence through behaviors
+- [[Formal vs Informal Leader Emergence]] — integrating both, not leaderless-groups only
+- [[Leadership Identity Construction]] — the claiming/granting mechanism underneath emergence
+
+## Meta-theory & research agenda
+
+- [[carton-2022-science-of-leadership|Carton (2022): The Science of Leadership — A Theoretical Model and Research Agenda]]
+- [[Leaders vs Leading]] — person vs process (level of analysis)
+- [[Leadership as Cause vs Consequence]] — independent vs dependent variable
+- [[Lumped vs Split Conceptualizations of Leading]] — the case for isolating single behaviors
 
 ## Adaptive / process view
 
@@ -67,6 +85,8 @@ This cluster maps how leadership is defined, distributed, co-produced, and studi
 - [[D. Scott DeRue]] · [[Robert G. Lord]] · [[Mary Uhl-Bien]] · [[Melissa K. Carsten]]
 - [[Jinlong Zhu]] · [[Zhenyu Liao]] · [[Kai Chi Yam]] · [[Russell Johnson]]
 - [[Ronald E. Riggio]] · [[Kevin B. Lowe]]
+- [[Katie L. Badura]] · [[Benjamin M. Galvin]] · [[Min Young Lee]] · [[Andrew M. Carton]]
+- [[Frederick Morgeson]] · [[Elizabeth P. Karam]]
 
 ## Related MOCs
 

@@ -3149,6 +3149,60 @@
         "wiki/mocs/Teams & Org Behavior MOC.md"
       ],
       "ingested_at": "2026-07-12"
+    },
+    ".raw/Badura et al. - 2022 - Leadership emergence An integrative review..md": {
+      "hash": "ea020ae6cd471a712a2997f8073416b3",
+      "ingested_at": "2026-07-12",
+      "pages_created": [
+        "wiki/sources/badura-et-al-2022-leadership-emergence-integrative-review.md",
+        "wiki/concepts/Distal-Proximal Framework of Leader Emergence.md",
+        "wiki/concepts/Formal vs Informal Leader Emergence.md",
+        "wiki/entities/Katie L. Badura.md",
+        "wiki/entities/Benjamin M. Galvin.md",
+        "wiki/entities/Min Young Lee.md"
+      ],
+      "pages_updated": [
+        "wiki/mocs/Leadership MOC.md",
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md"
+      ]
+    },
+    ".raw/Morgeson et al. - 2010 - Leadership in Teams A Functional Approach to Understanding Leadership Structures and Processes.md": {
+      "hash": "ee8d41f328c0de3948e2cad30ab79d37",
+      "ingested_at": "2026-07-12",
+      "pages_created": [
+        "wiki/sources/morgeson-et-al-2010-leadership-in-teams-functional.md",
+        "wiki/concepts/Functional Team Leadership Theory.md",
+        "wiki/concepts/15 Team Leadership Functions.md",
+        "wiki/concepts/Sources of Team Leadership (2x2).md",
+        "wiki/entities/Elizabeth P. Karam.md"
+      ],
+      "pages_updated": [
+        "wiki/entities/Frederick Morgeson.md",
+        "wiki/entities/D. Scott DeRue.md",
+        "wiki/mocs/Leadership MOC.md",
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md"
+      ]
+    },
+    ".raw/Carton - 2022 - The Science of Leadership A Theoretical Model and Research Agenda.md": {
+      "hash": "5185166f2eab7ef77e581259fc6518c5",
+      "ingested_at": "2026-07-12",
+      "pages_created": [
+        "wiki/sources/carton-2022-science-of-leadership.md",
+        "wiki/concepts/Leaders vs Leading.md",
+        "wiki/concepts/Leadership as Cause vs Consequence.md",
+        "wiki/concepts/Lumped vs Split Conceptualizations of Leading.md",
+        "wiki/entities/Andrew M. Carton.md"
+      ],
+      "pages_updated": [
+        "wiki/mocs/Leadership MOC.md",
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md"
+      ]
     }
   },
   "address_map": {
