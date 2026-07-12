@@ -4,6 +4,7 @@ address:
 title: Domain 24 - Motivation - Q1
 tags:
   - organizational-justice
+  - work-motivation
 status: developing
 updated:
 created:
@@ -22,3 +23,5 @@ related:
 [[costa-2024-discrimination-interventions]]
 
 [[kanfer-frese-johnson-2017-work-motivation]]
+
+rupp et al

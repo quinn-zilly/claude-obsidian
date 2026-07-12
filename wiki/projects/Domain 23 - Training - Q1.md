@@ -1,7 +1,7 @@
 ---
 type: comps outline
 address: c-001198
-title: Domain 23 - Training
+title: Domain 23 - Training - Q1
 tags:
   - training
   - comps

@@ -26,6 +26,8 @@ related:
   - "[[Jason Colquitt]]"
   - "[[Jessica Rodell]]"
   - "[[cropanzano-mitchell-2005-social-exchange-theory]]"
+  - "[[Multifoci Justice & Target Similarity]]"
+  - "[[rupp-et-al-2014-multifoci-justice-meta-analysis]]"
   - "[[Social Exchange & Organizational Justice MOC]]"
 ---
 
@@ -50,6 +52,9 @@ Updates the turn-of-millennium justice meta-analyses (Colquitt et al. 2001; Cohe
 
 ### Direct effects beyond exchange
 A number of justice→behavior links were **direct** (unmediated by exchange quality): procedural, distributive, and informational justice had direct negative links with CWB; distributive justice fostered task performance beyond exchange quality; informational justice→OCB also went through some other mechanism. Conclusion: **even if SET is the most predictively valid lens, it need not be the only one.**
+
+> [!contradiction] Contested by [[rupp-et-al-2014-multifoci-justice-meta-analysis|Rupp et al. (2014)]]
+> This page's focus-matching finding (matching source to target does **not** improve prediction) is directly opposed by the [[rupp-et-al-2014-multifoci-justice-meta-analysis|Rupp et al. (2014)]] multifoci meta-analysis, which found matching **does** help via source-specific social exchange. Per [[adamovic-2023-organizational-justice-review|Adamovic (2023)]] the divergence is method-driven (bivariate correlations here vs. regression/path analysis there; type-based vs. source-based justice). See [[Multifoci Justice & Target Similarity]]. Unresolved.
 
 ### Focus-matching is overrated (H3/H4)
 Contrary to the **target-similarity model** (Lavelle, Rupp & Brockner 2007), focus-matching relationships (e.g., supervisor-focused justice → supervisor-targeted OCB) were **not** reliably stronger than non-focus-matching ones. Instead **supervisor-focused justice tended to be stronger in general**, regardless of target — possibly because supervisors are more salient/observable. Coworker-targeted (OCBI/CWBI) relationships were similar in magnitude to authority-targeted ones, despite coworkers not setting justice levels.

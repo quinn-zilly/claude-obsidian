@@ -25,7 +25,7 @@ created: 2026-04-07
 
 # Wiki Index
 
-Last updated: 2026-07-11 | Total pages: 667 | Sources ingested: 101
+Last updated: 2026-07-11 | Total pages: 683 | Sources ingested: 104
 
 Navigation: [[Home MOC]] | [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[getting-started]]
 
@@ -523,6 +523,31 @@ Navigation: [[Home MOC]] | [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[
 - [[yost-2013-experience-driven-development|Yost (2013)]] — *ASTD Handbook* Ch. 57 | outside-in model; 90% outside-classroom; training as catalyst; development continuum (classroom→action learning→mentoring→job rotation→job assignments) | 2026-06-04
 - [[yost-2014-leading-from-where-you-are|Yost (2014)]] — Ch. 6 in *Using Experience to Develop Leadership Talent* | viral OJD; five design characteristics; succession/perf mgmt/CoP integration; middle-out HR change | 2026-06-04
 - [[Singh-2008-Job-Analysis-Changing-Workplace|Singh (2008)]] — *Human Resource Management Review* | strategic job analysis framework; SJA vs. traditional JA; gap analysis (no/moderate/significant change); Miles & Snow defender/prospector typology applied to JA | 2026-06-04
+
+### Sources (new — 2026-07-11, organizational-justice batch)
+
+- [[adamovic-2023-organizational-justice-review]] — semi-systematic review of the org-justice field; conceptualization / importance / team-level / research agenda; justice climate + peer justice; cultural sensitivity, diversity, justice–conflict, changing nature of work; *European Management Review* 2023
+- [[cropanzano-bowen-gilliland-2007-management-organizational-justice]] — applied "management of organizational justice"; three components interact ("three bites at the apple"); justice built into five HR systems; fair process effect; due-process appraisal; *Academy of Management Perspectives* 2007
+- [[rupp-et-al-2014-multifoci-justice-meta-analysis]] — meta-analysis (k=647, N=235,682) for modeling justice by source/foci not type; target similarity; source-specific social exchange mediates; contests Colquitt et al. 2013; *OBHDP* 2014
+
+### Concepts (new — 2026-07-11, organizational-justice batch)
+
+- [[Multifoci Justice & Target Similarity]] — justice organized by accountable source; target similarity; source-specific exchange (Rupp; Lavelle)
+- [[Justice Climate]] — team-level justice; climate level × strength; peer/coworker justice
+- [[Interactional Justice]] — interpersonal + informational fairness of treatment from authorities (Bies & Moag; Greenberg)
+- [[Fairness Heuristic Theory]] — uncertainty lens; procedural justice as trust substitute; primacy effect; uncertainty management
+- [[Deontic Justice Perspective]] — moral lens; justice as an end in itself; deontic anger / moral outrage; fairness theory
+- [[Justice–Injustice Asymmetry]] — are justice and injustice one continuum or two constructs? (Colquitt et al. 2015; negativity bias)
+- [[Fair Process Effect]] — a fair process buffers unfavorable outcomes; process-by-outcome interaction
+- [[Due Process Approach to Appraisal]] — adequate notice / just hearing / judgment based on evidence (Folger, Konovsky & Cropanzano)
+
+### Entities (new — 2026-07-11, organizational-justice batch)
+
+- [[Mladen Adamovic]] — King's College London; org justice, diversity, cross-cultural justice
+- [[Deborah Rupp]] — architect of the multifoci approach; behavioral ethics, CSR
+- [[David E. Bowen]] — HRM/service management + justice (justice→customer spillover)
+- [[Stephen W. Gilliland]] — selection fairness / applicant reactions; the justice paradox
+- [[Hui Liao]] — strategic HRM, service, multilevel justice (Rupp et al. 2014 co-author)
 
 ### Sources (new — 2026-07-11, L&D batch)
 

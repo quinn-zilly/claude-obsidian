@@ -2982,6 +2982,96 @@
         "wiki/log.md",
         "wiki/mocs/Selection & Work Analysis MOC.md"
       ]
+    },
+    ".raw/Adamovic - 2023 - Organizational justice research A review, synthesis, and research agenda.md": {
+      "hash": "cd1c8069262aa6778de2a8a257202c78",
+      "ingested_at": "2026-07-11",
+      "pages_created": [
+        "wiki/sources/adamovic-2023-organizational-justice-review.md",
+        "wiki/sources/cropanzano-bowen-gilliland-2007-management-organizational-justice.md",
+        "wiki/sources/rupp-et-al-2014-multifoci-justice-meta-analysis.md",
+        "wiki/entities/Mladen Adamovic.md",
+        "wiki/entities/Deborah Rupp.md",
+        "wiki/entities/David E. Bowen.md",
+        "wiki/entities/Stephen W. Gilliland.md",
+        "wiki/concepts/Multifoci Justice & Target Similarity.md",
+        "wiki/concepts/Justice Climate.md",
+        "wiki/concepts/Interactional Justice.md",
+        "wiki/concepts/Fairness Heuristic Theory.md",
+        "wiki/concepts/Deontic Justice Perspective.md",
+        "wiki/concepts/Justice–Injustice Asymmetry.md",
+        "wiki/concepts/Fair Process Effect.md",
+        "wiki/concepts/Due Process Approach to Appraisal.md",
+        "wiki/entities/Hui Liao.md"
+      ],
+      "pages_updated": [
+        "wiki/entities/Russell Cropanzano.md",
+        "wiki/sources/colquitt-et-al-2013-justice-millennium-decade-later.md",
+        "wiki/mocs/Social Exchange & Organizational Justice MOC.md",
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md"
+      ]
+    },
+    ".raw/Cropanzano et al. - 2007 - The Management of Organizational Justice.md": {
+      "hash": "494315e0ce8d13d5b3ab8d319a3cd39c",
+      "ingested_at": "2026-07-11",
+      "pages_created": [
+        "wiki/sources/adamovic-2023-organizational-justice-review.md",
+        "wiki/sources/cropanzano-bowen-gilliland-2007-management-organizational-justice.md",
+        "wiki/sources/rupp-et-al-2014-multifoci-justice-meta-analysis.md",
+        "wiki/entities/Mladen Adamovic.md",
+        "wiki/entities/Deborah Rupp.md",
+        "wiki/entities/David E. Bowen.md",
+        "wiki/entities/Stephen W. Gilliland.md",
+        "wiki/concepts/Multifoci Justice & Target Similarity.md",
+        "wiki/concepts/Justice Climate.md",
+        "wiki/concepts/Interactional Justice.md",
+        "wiki/concepts/Fairness Heuristic Theory.md",
+        "wiki/concepts/Deontic Justice Perspective.md",
+        "wiki/concepts/Justice–Injustice Asymmetry.md",
+        "wiki/concepts/Fair Process Effect.md",
+        "wiki/concepts/Due Process Approach to Appraisal.md",
+        "wiki/entities/Hui Liao.md"
+      ],
+      "pages_updated": [
+        "wiki/entities/Russell Cropanzano.md",
+        "wiki/sources/colquitt-et-al-2013-justice-millennium-decade-later.md",
+        "wiki/mocs/Social Exchange & Organizational Justice MOC.md",
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md"
+      ]
+    },
+    ".raw/Rupp et al. - 2014 - The utility of a multifoci approach to the study of organizational justice A meta-analytic investig.md": {
+      "hash": "e4890b25dbe0760babe6dbb04af899b3",
+      "ingested_at": "2026-07-11",
+      "pages_created": [
+        "wiki/sources/adamovic-2023-organizational-justice-review.md",
+        "wiki/sources/cropanzano-bowen-gilliland-2007-management-organizational-justice.md",
+        "wiki/sources/rupp-et-al-2014-multifoci-justice-meta-analysis.md",
+        "wiki/entities/Mladen Adamovic.md",
+        "wiki/entities/Deborah Rupp.md",
+        "wiki/entities/David E. Bowen.md",
+        "wiki/entities/Stephen W. Gilliland.md",
+        "wiki/concepts/Multifoci Justice & Target Similarity.md",
+        "wiki/concepts/Justice Climate.md",
+        "wiki/concepts/Interactional Justice.md",
+        "wiki/concepts/Fairness Heuristic Theory.md",
+        "wiki/concepts/Deontic Justice Perspective.md",
+        "wiki/concepts/Justice–Injustice Asymmetry.md",
+        "wiki/concepts/Fair Process Effect.md",
+        "wiki/concepts/Due Process Approach to Appraisal.md",
+        "wiki/entities/Hui Liao.md"
+      ],
+      "pages_updated": [
+        "wiki/entities/Russell Cropanzano.md",
+        "wiki/sources/colquitt-et-al-2013-justice-millennium-decade-later.md",
+        "wiki/mocs/Social Exchange & Organizational Justice MOC.md",
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md"
+      ]
     }
   },
   "address_map": {
@@ -4071,7 +4161,23 @@
     "wiki/concepts/Dictionary of Occupational Titles (DOT).md": "c-001218",
     "wiki/concepts/General Mental Ability (GMA).md": "c-001215",
     "wiki/concepts/Generalized Work Activities (GWAs).md": "c-001219",
-    "wiki/concepts/Position Analysis Questionnaire (PAQ).md": "c-001220"
+    "wiki/concepts/Position Analysis Questionnaire (PAQ).md": "c-001220",
+    "wiki/sources/adamovic-2023-organizational-justice-review.md": "c-001221",
+    "wiki/sources/cropanzano-bowen-gilliland-2007-management-organizational-justice.md": "c-001222",
+    "wiki/sources/rupp-et-al-2014-multifoci-justice-meta-analysis.md": "c-001223",
+    "wiki/entities/Mladen Adamovic.md": "c-001224",
+    "wiki/entities/Deborah Rupp.md": "c-001225",
+    "wiki/entities/David E. Bowen.md": "c-001226",
+    "wiki/entities/Stephen W. Gilliland.md": "c-001227",
+    "wiki/concepts/Multifoci Justice & Target Similarity.md": "c-001228",
+    "wiki/concepts/Justice Climate.md": "c-001229",
+    "wiki/concepts/Interactional Justice.md": "c-001230",
+    "wiki/concepts/Fairness Heuristic Theory.md": "c-001231",
+    "wiki/concepts/Deontic Justice Perspective.md": "c-001232",
+    "wiki/concepts/Justice–Injustice Asymmetry.md": "c-001233",
+    "wiki/concepts/Fair Process Effect.md": "c-001234",
+    "wiki/concepts/Due Process Approach to Appraisal.md": "c-001235",
+    "wiki/entities/Hui Liao.md": "c-001236"
   },
   ".raw/Pearsall et al. - 2025 - A stimulus-based model of the team adaptation process An integrated conceptual review..pdf": {
     "hash": "62f683006d3323a67c67fc23621f632a",

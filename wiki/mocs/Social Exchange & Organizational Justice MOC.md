@@ -9,7 +9,7 @@ related:
   - "[[Home MOC]]"
   - "[[Teams & Org Behavior MOC]]"
 status: developing
-updated: 2026-06-15
+updated: 2026-07-11
 ---
 
 # Social Exchange & Organizational Justice — Map of Content
@@ -27,7 +27,24 @@ This cluster maps the dominant explanation in organizational behavior for **why 
 - [[Foa & Foa Resource Theory]] — what gets exchanged; particularism × concreteness
 - [[Organizational Justice]] — perceived workplace fairness; justice vs. fairness
 - [[Four Justice Dimensions]] — procedural, distributive, interpersonal, informational + their rules
+- [[Distributive Justice]] · [[Procedural Justice]] · [[Interactional Justice]] — the individual dimensions
 - [[Justice Measurement Taxonomy]] — faceted/latent justice, overall/faceted fairness
+
+## Why employees care — theoretical lenses
+
+- [[Fairness Heuristic Theory]] — uncertainty perspective; procedural justice as a trust substitute; primacy effect
+- [[Deontic Justice Perspective]] — the moral lens; justice as an end in itself; deontic anger / moral outrage
+- [[Justice–Injustice Asymmetry]] — are justice and injustice one continuum or two constructs?
+
+## Source & foci
+
+- [[Multifoci Justice & Target Similarity]] — justice by accountable source; target similarity; source-specific exchange
+- [[Justice Climate]] — team-level justice (climate level × strength) + peer justice
+
+## Managing justice in practice
+
+- [[Fair Process Effect]] — a fair process buffers unfavorable outcomes
+- [[Due Process Approach to Appraisal]] — adequate notice, just hearing, judgment based on evidence
 
 ## Exchange-quality mediators
 
@@ -54,10 +71,13 @@ This cluster maps the dominant explanation in organizational behavior for **why 
 - [[colquitt-rodell-2015-measuring-justice-fairness|Colquitt & Rodell (2015): Measuring Justice and Fairness]]
 - [[hong-ford-jong-2024-employee-benefits-meta-analysis|Hong, Ford & Jong (2024): Employee Benefits Meta-Analysis]] — benefits as a social-exchange resource; the [[Benefit Experience Framework]]; POS as partial mediator
 - [[pichler-2012-social-context-appraisal|Pichler (2012): Social Context of Performance Appraisal — meta-analysis]] — relationship quality drives appraisal reactions; relational model
+- [[adamovic-2023-organizational-justice-review|Adamovic (2023): Organizational Justice Research — Review, Synthesis & Agenda]] — the field map; team-level + agenda
+- [[cropanzano-bowen-gilliland-2007-management-organizational-justice|Cropanzano, Bowen & Gilliland (2007): The Management of Organizational Justice]] — applied; five HR systems
+- [[rupp-et-al-2014-multifoci-justice-meta-analysis|Rupp, Shao, Jones & Liao (2014): The Utility of a Multifoci Approach]] — source-based justice; target similarity
 
 ## People
 
-- [[Russell Cropanzano]] · [[Jason Colquitt]] · [[Jessica Rodell]] · [[Peter Blau]] · [[Alvin Gouldner]]
+- [[Russell Cropanzano]] · [[Jason Colquitt]] · [[Jessica Rodell]] · [[Peter Blau]] · [[Alvin Gouldner]] · [[Deborah Rupp]] · [[Mladen Adamovic]] · [[David E. Bowen]] · [[Stephen W. Gilliland]] · [[Hui Liao]]
 
 ## Adjacent MOCs
 
@@ -68,4 +88,6 @@ This cluster maps the dominant explanation in organizational behavior for **why 
 
 - How do the social-exchange and affect lenses integrate? (Colquitt et al. 2013's central call.)
 - If exchange quality doesn't mediate justice→CWB, what does? (Affect? Desire for revenge?)
-- Why is supervisor-focused justice stronger in general, when focus-matching theory predicted target-specific effects?
+- Why is supervisor-focused justice stronger in general, when focus-matching theory predicted target-specific effects? ([[Multifoci Justice & Target Similarity|multifoci vs. type debate]] — [[rupp-et-al-2014-multifoci-justice-meta-analysis|Rupp 2014]] vs. [[colquitt-et-al-2013-justice-millennium-decade-later|Colquitt 2013]])
+- Are justice and injustice one continuum or two constructs? ([[Justice–Injustice Asymmetry]])
+- Can the instrumental / relational / exchange / uncertainty / deontic lenses be unified? (Cropanzano's multiple-needs model — see [[adamovic-2023-organizational-justice-review|Adamovic 2023]])

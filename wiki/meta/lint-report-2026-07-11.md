@@ -30,7 +30,7 @@ These pages still contain literal Templater code instead of rendered values, emp
 - [[Domain 13 - Individual Differences - Q1]]
 - [[Domain 14 - Job Evaluation]]
 - [[Domain 21 - Performance Management]]
-- [[Domain 23 - Training]]
+- [[Domain 23 - Training - Q1]]
 - [[Domain 23 - Training - Q2]]
 
 > [!warning] Fix
@@ -97,7 +97,7 @@ Six pages missing one or more required fields (type/status/created/updated/tags)
 
 ## Fixes applied 2026-07-11 (issues 1–3)
 
-**1. Template leaks — done.** Rendered `<% tp.date.now() %>` to real git-derived dates and assigned addresses to all 7 project pages: [[Domain 9 - Criterion Theory and Development]] `c-001193`, [[Domain 10 - Groups & Teams - Q3]] `c-001194`, [[Domain 13 - Individual Differences - Q1]] `c-001195`, [[Domain 14 - Job Evaluation]] `c-001196`, [[Domain 21 - Performance Management]] `c-001197`, [[Domain 23 - Training]] `c-001198`, [[Domain 23 - Training - Q2]] `c-001199`. Also fixed Q2's empty `title:` and wrong `type: concept` → `comps outline`. [[Domain 8 - Career Development]] addressed `c-001200` and title typo (`Domain8` → `Domain 8`) fixed. No leaks remain.
+**1. Template leaks — done.** Rendered `<% tp.date.now() %>` to real git-derived dates and assigned addresses to all 7 project pages: [[Domain 9 - Criterion Theory and Development]] `c-001193`, [[Domain 10 - Groups & Teams - Q3]] `c-001194`, [[Domain 13 - Individual Differences - Q1]] `c-001195`, [[Domain 14 - Job Evaluation]] `c-001196`, [[Domain 21 - Performance Management]] `c-001197`, [[Domain 23 - Training - Q1]] `c-001198`, [[Domain 23 - Training - Q2]] `c-001199`. Also fixed Q2's empty `title:` and wrong `type: concept` → `comps outline`. [[Domain 8 - Career Development]] addressed `c-001200` and title typo (`Domain8` → `Domain 8`) fixed. No leaks remain.
 
 **2. New MOCs addressed — done.** [[Personality at Work MOC]] `c-001201`, [[Recruitment MOC]] `c-001202`, [[Selection & Work Analysis MOC]] `c-001203`, [[Social Exchange & Organizational Justice MOC]] `c-001204`.
 
