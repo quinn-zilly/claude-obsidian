@@ -1,0 +1,1457 @@
+## Page 1
+
+–TheLeadershipQuarterly25(2014)83104
+
+ContentslistsavailableatScienceDirect
+
+TheLeadershipQuarterly
+
+journalhomepage:www.elsevier.com/locate/leaqua
+
+☆
+
+Followershiptheory:Areviewandresearchagenda
+
+⁎
+
+a,bcdMaryUhl-Bien,RonaldE.Riggio,KevinB.Lowe,MelissaK.Carsten
+
+aDepartmentofManagement,CollegeofBusinessAdministration,UniversityofNebraska,Lincoln,NE68588-0491,USA
+
+bKravisLeadershipInstitute,ClaremontMcKennaCollege,Claremont,CA91711,USA
+
+cGraduateSchoolofManagement,UniversityofAuckland,PrivateBag92019,Auckland1142,NewZealand
+
+dDepartmentofManagement,CollegeofBusinessAdministration,WinthropUniversity,RockHill,SC29733,USA
+
+articleinfoabstract
+
+Whiletheoryandresearchonleadersandleadershipabound,followersandfollowershipArticlehistory:
+
+Received1August2013theoryhavebeengivenshortshrift.Itisacceptedwisdomthatthereisnoleadershipwithout
+
+Receivedinrevisedform18October2013followers,yetfollowersareveryoftenleftoutoftheleadershipresearchequation.Fortunately
+
+Accepted31October2013
+
+thisproblemisbeingaddressedinrecentresearch,withmoreattentionbeingpaidtotherole
+
+Availableonline22November2013
+
+offollowershipintheleadershipprocess.Thepurposeofthisarticleistoprovideasystematic
+
+reviewofthefollowershipliterature,andfromthisreview,introduceabroadtheoryof
+
+Editor:FrancisJ.Yammarino
+
+followershipintoleadershipresearch.Basedonourreview,weidentifytwotheoretical
+
+“frameworksforthestudyoffollowership,onefromarole-basedapproach(reversingthe
+
+Keywords:”“”
+
+lens)andonefromaconstructionistapproach(theleadershipprocess).Theseframeworks
+
+Followership
+
+areusedtooutlinedirectionsforfutureresearch.Weconcludewithadiscussionofconceptual
+
+Follower
+
+andmethodologicalissuesinthestudyoffollowershiptheory.
+
+Leadership
+
+©2013ElsevierInc.Allrightsreserved.
+
+Followershiptheory
+
+Leadershipco-production
+
+1.Introduction
+
+Wehavelongknownthatfollowersandfollowershipareessentialtoleadership.However,despitetheabundanceof
+
+investigationsintoleadershipinorganizationalstudies(Yukl,2012),untilrecentlylittleattentionhasbeenpaidtofollowershipin
+
+leadershipresearch(Baker,2007;Bligh,2011;Carsten,Uhl-Bien,West,Patera,&McGregor,2010;Kelley,2008;Sy,2010).When
+
+followershavebeenconsidered,theyhavebeenconsideredasrecipientsormoderatorsoftheleader'sinfluence(i.e.,
+
+“”leader-centricviews,Bass,2008)orasconstructorsofleadersandleadership(i.e.,follower-centricviews,Meindl,1990;Meindl,
+
+Ehrlich,&Dukerich,1985).Thestudyoffollowersaskeycomponentsoftheleadershipprocessthroughtheirenactmentof
+
+followershiphasbeenlargelymissedintheleadershipliterature.
+
+Wesuggestthatthisoversightisdueinlargeparttoconfusionandmisunderstandingaboutwhatfollowershipconstructsare
+
+andhowtheyrelatetoleadership.Thisconfusionhappensbecausewehavenotunderstoodleadershipasaprocessthatis
+
+co-createdinsocialandrelationalinteractionsbetweenpeople(Fairhurst&Uhl-Bien,2012).Inthisprocess,leadershipcanonly
+
+—occurifthereisfollowershipwithoutfollowersandfollowingbehaviorsthereisnoleadership.Thismeansthatfollowing
+
+behaviorsareacrucialcomponentoftheleadershipprocess.Followingbehaviorsrepresentawillingnesstodefertoanotherin
+
+someway.DeRueandAshford(2010)describethisasgrantingaleaderidentitytoanotherandclaimingafolloweridentityfor
+
+“oneself.Uhl-BienandPillai(2007)refertoitassomeformofdeferencetoaleader:ifleadershipinvolvesactivelyinfluencing
+
+”others,thenfollowershipinvolvesallowingoneselftobeinfluenced(p.196).Shamir(2007)arguesthatfollowingisso
+
+☆Authoracknowledgment:ThankstoEmilyChanandClaudiaRaigozaforassistance.
+
+⁎Correspondingauthor.
+
+E-mailaddresses:mbien2@unl.edu(M.Uhl-Bien),ron.riggio@cmc.edu(R.E.Riggio),kblowe@uncg.edu(K.B.Lowe),Carstenm@winthrop.edu(M.K.Carsten).
+
+–1048-9843/$seefrontmatter©2013ElsevierInc.Allrightsreserved.
+
+http://dx.doi.org/10.1016/j.leaqua.2013.11.007
+
+## Page 2
+
+84 M.Uhl-Bienetal./TheLeadershipQuarterly25(2014)83–104
+importanttoleadershipthatitnegatestheconstructofsharedleadershipaltogether:“leadershipexistsonlywhenanindividual
+(sometimesapairorasmallgroup)exertsdisproportionatenon-coerciveinfluenceonothers”(p.xviii).
+The significance of following for leadership means that our understanding of leadership is incomplete without an
+understandingoffollowership.Forresearchinfollowershiptoadvance,however,weneedtoidentifyfollowershipconstructs
+and placethemin thecontext offollowershiptheory.Weaddressthisbyidentifying followershiptheoryasthestudyofthe
+natureandimpactoffollowersandfollowingintheleadershipprocess.Itinvestigatesfollowershipfromtheperspectiveofa)
+formalhierarchicalroles(e.g.,followersas“subordinates”)andb) followership inthecontextoftheleadership process(e.g.,
+following as a behavior that helps co-construct leadership). The former focuses on studying followership behaviors from a
+subordinateposition.Thelatterfocusesonstudyingfollowingbehaviorsastheycombinewithleadingbehaviorstoco-construct
+leadershipanditsoutcomes.
+Webeginwithasystematicreviewoftheleadershipliteraturefromthestandpointoffollowersandfollowership.Anoverview
+ofthisreviewispresentedinTable1.Inthistabletheheadingsrepresentviewsoffollowersandfollowershipfromahistorical
+standpoint.Thearrowfiguresbeneaththeheadingsshowthetreatmentoffollowersaccordingtoeachview.Therowsshowthe
+leadershiptheories/approachesandwhichviewtheyrepresent(asindicatedbyacheckmarkundertheheading).Leader-centric,
+follower-centric,andrelationalviewsalldiscussfollowersbutnotnecessarilyfollowership.Twonewlyemergingfollowership
+viewsarerepresentedintheright-handcolumns.Theseviewsrepresentarole-basedandaconstructionistapproach.Role-based
+approaches see followership in formal hierarchical roles (e.g., subordinate). They “reverse the lens” (Shamir, 2007) to see
+followers as causal agents and leaders (i.e., managers) as recipients or moderators of followership outcomes. Constructionist
+approachesseeleadershipasconstructedinrelationalinteractionsamongpeoplethatproduceleadershipandoutcomes(DeRue
+& Ashford, 2010; Uhl-Bien & Ospina,2012). They consider followers to be active participants withleaders in co-constructing
+leadership,followership,andoutcomes.
+Followingthereviewweidentifyabroadtheoryoffollowership.Weofferconceptualdefinitionsoffollowershipanditsconstructs,
+definetheoreticalboundariesforthestudyoffollowership,andoutlinetwogeneralcausalmodelsanddirectionsforfutureresearch.
+Weconcludewithadiscussionofconceptualandmethodologicalissuesthatshouldbeconsideredasfollowershipresearchmoves
+forward.
+2.Historicaltreatmentoffollowersinleadershipresearch
+2.1.Leader-centric
+Thevastmajorityofleadershipresearchhasfocusedonleaders.Thisleader-centricapproach(Hollander,1993;Meindletal.,
+1985)hascontributedtoaviewofleadersaspower-wieldingactorswhoaffectgroupandorganizationaloutcomes(Yukl&Van
+Fleet,1992).Stereotypesofleaders,assuggestedbymanydefinitionsof“leadership,”conceiveofleadersasthemotivatingentity
+thatmovesordirectsfollowerstoaction,ultimatelyendingintheachievementofgoals(Bass,1985).Stereotypesoffollowers,on
+theotherhand,viewfollowersasrecipientsormoderatorsofleaders'influence(Shamir,2007)whodutifullycarryouttheorders,
+directives, and whims of the leader, without resistance or initiative (Kelley, 1988). Not surprisingly, the resultant focus has
+been nearlyexclusivelyon leaders,and the vast historyof researchon leadership can be viewed asthe studyof leaders and
+“subordinates.”
+2.1.1.Taylor
+WeseeoriginsofthisperspectiveinFrederickWinslowTaylor'sfoundationalviewthatmanagersaresuperiorandemployees
+are inferior (i.e., “subordinates”) (Taylor, 1911, 1934). According to Taylor, because followers require direction and control,
+leadersmustdictatethebehaviorsrequiredtoobtaindesiredoutcomes(Taylor,1947).AlthoughTayloracknowledgesthathis
+approachmightseemtoughattimes,herationalizedthatitisnecessaryandnotunkindbecause“mentallysluggish”followers
+needmanagerswhoaredirective(Taylor,1947).
+2.1.2.Traitapproaches
+Amongpsychologists,theearliestfocusinleadershipresearchwasalsoexclusivelyleader-centric,withasearchforthetraits
+necessary for leaders to attain leadership positions (i.e., leader emergence) and to effectively move followers toward the
+attainmentofgoals(i.e.,leadereffectiveness)(Dinh&Lord,2012;Hogan,Curphy,&Hogan,1994;Stogdill,1948).Anumberof
+traitsweresingledoutascriticalforleaderemergence,includingsociability–extraversion,dominance–assertiveness,andenergy
+level(Bass,2008;Hollander,1985).Althoughthetraitapproachtoleadershipfelloutoffavorinthemid-20thcentury(Stogdill,
+1948),thelasttwodecadeshaveseenaresurgenceofinterestinleadertraits(e.g.,Bono&Judge,2004;Judge,Bono,Ilies,&
+Gerhardt,2002).Despitethis,muchlessattentionhasbeenpaidtoempiricalinvestigationofthetraitsoffollowersortothe
+interactionofleaderandfollowertraits.
+2.1.3.Behaviorapproaches
+PostWorldWarII,studiesofleadershipfocusedonthebehaviorsofleadersinmovingfollowerstowardgoals.StudiesatOhio
+StateandtheUniversityofMichigan(Fleishman,1953;Stogdill,1950)focusedontwocategoriesofleaderbehavior:thosethat
+focusedonthetaskandinitiatedstructureintotheworksituation(e.g.,directiveandgoal-orientedbehaviors)andthosethat
+focusedontherelationshipbetweenleadersandfollowers(e.g.,relationship-orientedbehaviors)(Judge,Piccolo,&Ilies,2004;
+
+## Page 3
+
+Table1
+
+Treatmentoffollowersinleadershipresearch.
+
+Follower-centric:Relationalview:Role-basedfollowership:Constructionistfollowership:Leader-centric:
+
+(followersconstruct(followersengagewithl(leaderasrecipientor(followersasco-creators(followersasrecipientsor
+
+leadersandleadership)eadersinamutualmoderatoroffollowerinfluencewithleadersofleadership)moderatorsofleaderinfluence
+
+influenceprocess)inproducingoutcomes)inproducingoutcomes)
+
+M
+
+.
+
+U
+
+h
+
+l-
+
+B
+
+ie
+
+n
+
+e
+
+t
+
+a
+
+l.
+
+/
+
+T
+
+h
+
+✓eScientificmanagement
+
+L
+
+e✓Traitapproaches
+
+a
+
+d
+
+✓eBehaviorapproaches
+
+r
+
+s✓
+
+hContingencyapproaches
+
+ip
+
+✓Charismatic&transformationalleadershipapproaches
+
+Q
+
+u✓
+
+Romanceofleadershipa
+
+r
+
+t✓Implicitleadershiptheories
+
+e
+
+r
+
+l✓y
+
+Socialidentitytheoryofleadership
+
+2
+
+✓5Lord'sconnectionistinformation-processing
+
+(
+
+✓2Weierter'scharismaticrelationships
+
+0
+
+1✓
+
+Follett'spowerwith4
+
+)
+
+✓Hollander'srelationalview
+
+8
+
+3
+
+–✓–Leadermemberexchangetheory
+
+1
+
+0“”✓Klein&House'sCharismaOnFire
+
+4
+
+“”✓Padilla,Hogan&Kaiser'stoxictriangle
+
+✓Followershiptypologyapproaches
+
+✓Carsten'sfollowershiproleorientations
+
+✓Sy'simplicitfollowershiptheories
+
+✓Followersasshapersofleaders'actions
+
+✓Followershipbehaviors
+
+✓DeRue&Ashford'sleadershipidentityconstructionprocess
+
+✓Shamir'sco-production
+
+✓Collinson'spost-structuralistidentityview
+
+✓Fairhurst&Uhl-Bien'srelational(discursive)approach
+
+8
+
+5
+
+## Page 4
+
+86 M.Uhl-Bienetal./TheLeadershipQuarterly25(2014)83–104
+Korman, 1966). Indeed, this latter category was labeled by Ohio State researchers as “showing consideration” behaviors,
+suggestingthatleadersmightmotivatefollowerstohigherlevelsoftaskperformancebydisplayingcareandconcernforthem.At
+thispoint,leaderswerestillviewedbyleadershipscholarsastheleverthatcausesfollowerstoact.
+2.1.4.Contingencyapproaches
+Amajorshiftofleadershipresearchoccurredwithwhataretermedsituationalorcontingencymodels.Contingencytheoriesof
+leadershipviewfollowersasoneofthe“situational”factorsthatleadersneedtomanipulateinordertogainspecificoutcomes
+(e.g.,Fiedler,1967;Hersey&Blanchard,1977).Agoodexampleofthe“imbalance”betweentheimportanceascribedtoleaders
+and followers is the Decision Making/Normative Theory proposed by Vroom and colleagues (Vroom & Jago, 1978; Vroom &
+Yetton,1973).Accordingtothistheory,leadersareinstructedtoinvolvefollowersindecision-makingprocesses,butonlyunder
+specificcircumstances.Otherwise,leadersareviewedasresponsibleformakinggroupdecisionsandinvolvingfollowersonlyto
+theextentthatisnecessarytogetfollowerstocooperatewiththechosencourseofaction.
+2.1.5.Charismaticandtransformationalleadership
+Charismatic leadership theory, with its emphasis on follower affective reactions to the leader, is also focused almost
+exclusively on the leader. Conger and Kanungo (1987, 1988) focus on the charismatic leader's displayed confidence and
+articulation of a vision designed to inspire followers. Another key to the success of the charismatic leader is sensitivity to
+followers.Inrecentyears,someattentionhasbeenpaidtothefollowersofcharismaticleaders.Forexample,Shalit,Popper,and
+Zakay (2010) suggested that there was an interaction between charismatic leaders' motives and followers' personality
+characteristics.
+Transformationalleadershipisthemostpopularleadershiptheory(intermsofgarneringresearchattention;Bass&Riggio,
+2006). Transformational leadership views leaders as instrumental in building follower commitment to achieving goals and
+challenging/inspiring/motivatingthemtoperform.Transformationalleadersalsofocusonfollowers'needsandabilitytogrow
+anddevelop—inessence,transformingtheseeminglylesservaluedfollowersintomorevauntedleaders(Bass&Riggio,2006).
+This theory, however, does not particularly recognize the characteristics or initiative of the followers. There is a focus on
+improvingthequalityoftheleader–followerrelationship,butitisstillleader-centricinthatitfallsshortofviewingfollowersina
+broadermanner.
+2.2.Follower-centric
+Follower-centric approaches arose in response to leader-centric views and drew attention to the role of the follower in
+constructingleadersandleadership.Theyviewleadershipasasocialconstruction,andleaderemergenceasgeneratedinthe
+cognitive,attributional,andsocialidentityprocessesoffollowers.
+2.2.1.Romanceofleadership
+SuggestingthatWesternculturesareparticularlypronetofocusingprimarilyon theleaderasthemainelementin group
+processes—aconcepttheycalledthe“romanceofleadership”—Meindlandcolleagues(Meindl,1990;Meindletal.,1985)describe
+leadershipasasocialconstructioncreatedbyfollowers.Relyingheavilyonsocialpsychologicalprocesses,theyassertthatthe
+fundamentalattributionerrorleadsfollowerstoover-attributecausalityforgroupoutcomestotheleader,whoisthefocalpoint
+ofthegroup'sattention(Meindletal.,1985).
+Drawing on charismatic leadership theory, Meindl (1990) also suggests that a process of “social contagion” takes place
+wherebyfollowers,whenstressedorexcited,experienceahighlevelofcollectivearousal.Thecontagionbecomesfocusedonthe
+leader,andasthegroupmovestowardgoalattainment,theleadercanbeimbuedwithcharisma.Thisprocessmaysuggestwhy,
+during times of stress or positive upswings, followers attribute more charisma to the leader. For example, Bligh, Kohles, and
+Meindl (2004) describe how followers attributed greater charisma to U.S. President George W. Bush following the terrorist
+attacksof9/11.SimilarattributionprocessescanalsobeseeninhowperceptionsofPresidentBillClinton'scharismaseemedto
+increasewiththeeconomicupturn.
+2.2.2.Implicitleadershiptheories
+Follower-centricperspectivesalsoincluderesearchonImplicitLeadershipTheories(ILTs)(Eden&Leviatan,1975;Phillips&
+Lord,1981;Rush,Thomas,&Lord,1977).ILTresearchproposesthatfollowershavebeliefsandschemaforleaderbehaviorthat
+influencetheextenttowhichtheyattributeeffectivenessandnormativeevaluationssuchas“good”or“bad”toaleader.Theyuse
+theseschemastoencodeleadershipinformation,whichservesasessentialelementsof“organizationalsensemaking”(Weick,
+1979,1995).Followers'ILTsareformedthroughsocializationandpastexperiences(Epitropaki&Martin,2004;Schyns&Meindl,
+2005),andactivatedinarecognition-basedapproachwhenfollowersmatchleaderbehaviortopreexistingleadercategoriesor
+prototypestheyholdinmemory(Lord,1985).Referredtoas“philosophiesofleadership”bySchynsandMeindl(2005),ILTsare
+importantbecausetheyinfluencefollowerratingsofleadershipevenwhenlittleorambiguousinformationisprovidedaboutthe
+leader's behavior (Eden & Leviatan, 1975). With respect to followers, these “folk theories of leadership” (Sivasubramaniam,
+Kroeck,&Lowe,1997)helpusbetterunderstandwhetherandwhenindividualsarewillingtofollowaleader.
+
+## Page 5
+
+M.Uhl-Bienetal./TheLeadershipQuarterly25(2014)83–104 87
+2.2.3.Socialidentitytheoryofleadership
+Bridgingfollower-centricandrelationalviews,socialidentitytheoryofleadershipviewsleadereffectivenessasdependenton
+followers'motivationtocooperatewiththeleaderaswellastheleader'sabilitytoinfluencefollowers(Chemers,2001;Hogg,
+2001;VanKnippenberg&Hogg,2003;Yukl,2001).Asatheoryofintergroupbehavior,thecoretenetofsocialidentityleadership
+theoryisthatpeople(leadersandfollowersalike)deriveapartoftheirself-conceptfromthesocialgroupsandcategoriesto
+whichtheyascribebelongingness—i.e.,theircollectiveself(Hogg&Reid,2006).Thisidentificationwiththegroupincreasesthe
+strengthofthegroup'sprototypeonanindividual'sbehavior.Whenanindividualstronglyidentifieswithagroup,orhasastrong
+desiretobeaccepted,conformancetogroupprototypesrisesinanefforttoincreaseself-evaluationfavorability.
+Viewed from this perspective, leadership becomes a structural feature of groups that is produced by the processes of
+self-categorization and prototype-based depersonalization (Hogg & Terry, 2000). This process is consistent with a relational
+viewpoint(discussednext),whichcaststherolesofleaderandfollowerasinterdependentandembeddedinasocialsystemthat
+isboundedbygroupmembership(Hogg,2001).Socialidentitytheoristsnote,however,thatgroupprototypicalitymightbeat
+leastasimportantashavingcharacteristicswidelyassociatedwithaparticulartypeofleader.Withinagroup,hierarchybecomes
+a reward bestowed by the group on one member (“leader”) by the other group members (“followers”) for being the most
+prototypical(Hogg,2001).Inthisrespectsocialidentitytheorycanbeconsideredafollower-centrictheory,sinceprototypical
+behaviors acceptable to the group create the boundary conditions within which the leader has permission to operate and
+innovate.
+2.3.Relationalviews
+Therecognitionthatrelationaldynamicsareimportantinleadershipisaddressedinrelationalapproachestoleadership.These
+approachesviewleadershipasamutualinfluenceprocessamongleadersandfollowers.
+2.3.1.Lord'sconnectionistinformation-processing
+LordandBrown(2001)arguethataleader-centricperspectiveisproblematicfortheadvancementofleadershipresearch
+because limiting research to easily observed behaviors linked directly to outcomes ignores the underlying processes and
+mechanisms at the core of leadership theory. If an essential aspect of leadership is to engage and influence followers, then
+studying how leaders engage followers, and why followers are influenced by these actions, is necessary for understanding
+leadership(Lord&Brown,2001).Assuminginfluencereciprocityintherelationship,wealsoneedtostudytheprocessbywhich
+followersengageandinfluencetheleader(Oc&Bashshur,2013).
+Assertingthatthefollowerremainsanunderexploredsourceofvarianceinunderstandingleadershipprocesses,Lord,Brown,
+andFreiberg(1999)focusonhowleadersseekingtocreateidentitiesareconstrainedbytheevaluationsoffollowers.Asaresult,
+theprocessofidentitycreationmustbeviewedasanintricatelyrelatedmutualinfluenceprocess.Thisnotionofreciprocityof
+influenceisacknowledgedinleaders'andfollowers'influenceontheother'sself-schema,bothindividuallyandcollectively(cf.
+Oc,Bashshur&Moore,2013).Consistentwiththeearlierideaofreversecausality(Herrold,1977;Lowin&Craig,1968),Lordetal.
+(1999)describeleaderbehavioras“theproductofaparallelconstraintorofaconnectionistnetwork”(p.193).
+Taking a systems view Lord, Brown, Harvey, and Hall (2001) suggest that leadership arises from a number of interacting
+factors,suchascontext,task,andthepersonalqualitiesofbothleaderandfollowers,andthatthesecollectivelyimpactfollowers'
+normative evaluations of leadership. In their connectionist model, culture, the leader, and the follower all act as contextual
+constraintsonleadershipschemaemployedininterpretingbehavioralinputsofleadersandleadershipprocesses.Followergoals
+andaffectaregiven,apriori,equalweightingtoleadergoalsandaffectinthemodel.Leadershipthenbecomestheproductofa
+socialsystemshapedbyrelationalandtasksystemsthatactasconstraintsontherangeofbehavioralscriptsleadersdeploywhile
+simultaneously constraining the prototypes followers use to evaluate leader behaviors. Collectively this stream of research
+positionsfollowersasactiveanddynamicagentswherebyinformationprocessinganddynamicsystemsperspectivesareneeded
+todescribetheimpactoffollowers(Lord,2013).
+2.3.2.Weierter'scharismaticrelationships
+Drawing from self-concept theory, Weierter (1997) considers how follower and situational characteristics influence the
+charismaticrelationshipwiththeleader.Adoptingmultiplemeasuresoffollowercharacteristics(followerself-conceptclarity,
+self-monitoring,self-esteem,self-efficacy)andcontextualconditions(self-awareness),Weierter(1997)proposesthatfollower
+andsituationalfactorsinfluencethenatureofthecharismaticrelationshipandtheroutinizedmessagesdeliveredbyleaders.In
+this way, he views charismatic relationships as an emergent phenomenon, not a variable to be manipulated, occurring in a
+reciprocalinfluenceprocessbetweenleadersandfollowers.Theroleoffollowercharacteristicsininfluencingthisrelationshipcan
+also be seen in Shalit et al.'s (2010) findings that followers with a secure attachment style prefer socialized (i.e., unselfish)
+charismaticleaders,whilefollowerswithanavoidantattachmentstyleprefermorepersonalized(i.e.,selfish)charismaticleaders.
+Similarly,EhrhartandKlein(2001)foundthatfollowersstronginparticipationvaluesandlowinsecurityvaluesaremorelikely
+tobedrawntocharismaticleaders.
+2.3.3.Follett'spowerwith
+Theviewoffollowersasactiveanddynamicagentsinareciprocalinfluenceprocesscanbeseeninotherearlyapproachesto
+leadership.Forexample,intheearliestmanagementresearch,MaryParkerFollett(1927,1949)acknowledgesthehierarchical,
+
+## Page 6
+
+88 M.Uhl-Bienetal./TheLeadershipQuarterly25(2014)83–104
+position-basednatureofleader-followerrelationships,butobjectstotheideathatmanagersarenecessarilyalwaysincharge
+(“order-givers”)andemployeesarealwayssubordinate(“order-takers”).Demonstratinginsightfaraheadofhertime,Follettsays
+thatmanagerscanalsotakeordersfromthosebelowthem,andthattoomuch“pomp”isgiventotheideasofoverandunderin
+discussionsofmanagersandsubordinates(Follett,1949).Emphasizingtheimportanceofpowerwith,shearguesthatitisthe
+relationshipoftheleaderandfollowersthatisessentialtoteamsuccess,notleaders'abilitytodominatefollowers(Follett,1949;
+Graham,2003).Insteadofseeingleadersandfollowersasthosewhocommandandthosewhoobey,weneedtounderstandthat
+authorityisan“interminglingofforces”betweenleadersandfollowerswhereinaself-generatingprocessofcontroliscreated
+(Follett,1927,1949).
+2.3.4.Hollander'srelationalview
+This intermingling of forces is also seen in Hollander's (1971, 2012) (Hollander & Offermann, 1990) relational view of
+leadership.Hollanderwasoneofthefirstleadershipscholarstorecognizeleadershipasarelationalprocess(1958,1971,1986).
+Criticizing leader-centric views as identifying leaders in positional terms, he pointed to the lack of attention to followers
+(Hollander,1992a,b)andtheproblemofleaving“theprocessofleadershipunattended”(Hollander&Julian,1969,p.389).He
+notedtheconfusioncausedbythefailuretodistinguishleadershipasaprocessfromtheleaderasapersonwhooccupiesacentral
+roleinthatprocess,andarguedfortheneedtounderstandleadershipasaninfluencerelationshipbetweentwoormorepeople
+forattainmentofmutualgoalsinagroupsituation(e.g.,groupstructure,resources,andhistory)(Hollander&Julian,1969).This
+relationshipisbuiltovertimeandinvolvesanexchange,ortransaction,betweenleadersandfollowers.Theleaderprovidesa
+resourceintermsofrolebehaviordirectedtowardattaininggroupgoals,andinreturnreceivesgreaterinfluence(e.g.,status,
+recognition, esteem) contributing to the leader's legitimacy in making influence assertions and having them accepted (cf.
+Barnard's,1938acceptancetheoryofauthority).
+2.3.5.Leader–memberexchange
+Theideathatleadershipisbasedonatransactionorexchangebetweenleadersandfollowersisemphasizedinleader–member
+exchange(LMX)theory(Graen,Novak,&Sommerkamp,1982;Graen&Scandura,1987;Liden,Sparrowe,&Wayne,1997).The
+focusinLMXtheoryisonhowleadersandfollowersengagetogethertogeneratehighqualityworkrelationshipsthatallowthem
+toproduceeffectiveleadershipoutcomes(Graen&Uhl-Bien,1995).Theearliestworkonverticaldyadlinkagedescribedthese
+followersastrustedassistantstoleaderswhohelpedthemmeetthetask-relatedchallengesoftheworkunit(Dansereau,Graen,&
+Haga,1975).Laterworkfocusedonhowfollowersactasactivepartnerstoleaderswhentheyoperateinthecontextofhigh
+quality relationships (Uhl-Bien, Graen, & Scandura, 2000). While LMX theory does acknowledge followers in the relational
+process, it is still more leadership – than followership – focused in that it privileges the leader as the driver of the
+relationship-buildingprocess(Uhl-Bienetal.,2000).
+2.3.6.KleinandHouse's“CharismaonFire”
+Inanotherrelationship-basedperspective,KleinandHouse(1995)describecharismaasarelationship“betweenaleaderwho
+hascharismaticqualitiesandthoseofhisorherfollowerswhoareopentocharisma,withinacharisma-conduciveenvironment”
+(p.183).Callingcharisma“afire”thatignitesfollowers'energyandcommitment,theydrawattentiontotheimportanceofthree
+key elements in leadership: (1) a leader with charismatic qualities (the “spark”), (2) susceptible followers (“flammable
+material”),and(3)aconduciveenvironment(“oxygen”).KleinandHouse(1995)identifyimportantnewquestionsforthestudy
+offollowers.Whatfollowercharacteristicspredictmembershipinacharismaticleader-followerdyad?Aresomefollowersmore
+susceptible to a leader's charisma? And what is the role of social contagion in influencing the nature and consequences of
+charisma?
+2.3.7.Padilla,HoganandKaiser's“toxictriangle”
+TheroleoffollowersindestructiveleadershipisdiscussedinPadilla,Hogan,andKaiser(2007).Usingtheconceptofa“toxic
+triangle,” they describedestructiveorganizationaloutcomes as a result of the combination of destructive leaders, susceptible
+followersandconduciveenvironments.Accordingtotheseauthors,tounderstandthetoxictriangleweneedtomovebeyond
+leader-centricviewsandusea“systemsperspectivefocusingontheconfluenceofleaders,followers,andcircumstancesrather
+thanjustthecharacteristicsofindividualleaders”(Padillaetal.,2007,p.179).
+Susceptible followers include conformers, who comply with destructive leaders out of fear, and colluders, who actively
+participateinadestructiveleader'sagenda.Thoughself-interestmotivatesboth,conformersarefocusedonminimizingnegative
+consequences of not going along while colluders are motivated by personal gain. The toxic triangle is complete when
+environmentalconditionsareconducive(e.g.,instability,perceivedthreat,absenceofchecksandbalances,destructivecultural
+values,institutionalizeddestructivebehaviors).Padillaetal.(2007)callforleadershiptotakealessideologicalandindividualistic
+perspective and recognize the negative impacts leadership can have when destructive leaders, susceptible followers and
+triggeringconditionscombinetoproduceoutcomesdamagingtolifeandthelargerfateofsociety.
+2.4.Summary
+Whatismostsurprisinginthisreviewistheextenttowhichleadershipscholarshavelongagreedthatleadershipisaprocess
+occurringininteractionsbetweenleadersandfollowers.Wecanseethisaswetracetheclearprogressionfromleader-centric,to
+
+## Page 7
+
+M.Uhl-Bienetal./TheLeadershipQuarterly25(2014)83–104 89
+follower-centric,torelationalviewsrecognizingleadershipasaco-constructedprocessbetweenleadersandfollowersactingin
+context.Itisnowwidelyacceptedthatleadershipcannotbefullyunderstoodwithoutconsideringtheroleoffollowersintheleadership
+process.
+What our review also shows is that despite calls in early managementand leadership research to focus on followers and
+followership(Hollander&Julian,1969;Sanford,1950),thestudyoffollowershiphasbeenmostlymissinginleadershipliterature.
+AsnotedbyBligh(2011),overthe19-yearperiodfrom1990to2008inTheLeadershipQuarterlyonly14%ofthearticleshadsome
+versionofthewordfollowerintheabstractortitle.Ifthesearchisnarrowedtoincludetheword“followership”thenumberis
+reducedtoahandfulofarticles.Thisisproblematicgiventhatfollowershipisexpectedtoplaysuchacrucialpartinleadership.
+Beforewecanbegintheprocessofadvancingresearchonfollowership,however,weneedtoassessthenascentbodyofresearch
+onfollowership.Therefore,weturnnowtoamoresystematicreviewoffollowershipresearch,whichwethenusetoinform
+developmentofaformaltheoryoffollowership.
+3.Anemergingfieldoffollowershipresearch
+Althoughourreviewshowsthatmostresearchonleadershiprecognizesthefollowerinsomeway,thefocusonfollowership
+asaresearchareainitsownrighthasnotoccurreduntilveryrecently(Carstenetal.,2010;Collinson,2006;Hoption,Christie,&
+Barling,2012;Sy,2010).Followershipapproachesaredistinctfrompriorapproachesinthattheyprivilegetheroleofthefollower
+intheleadershipprocess.Theyidentifyfollowershipasatopicequallyworthyofstudytoleadership(Uhl-Bien&Pillai,2007).A
+basicassumptionofafollowershipapproachisthatleadershipcannotbefullyunderstoodwithoutconsideringhowfollowersand
+followershipcontributeto(ordetractfrom)theleadershipprocess(Carstenetal.,2010;Dvir&Shamir,2003;Hollander,1993;
+Howell&Shamir,2005;Sy,2010).
+3.1.Definingfollowership
+Thestudyoffollowershipinvolvesaninvestigationofthenatureandimpactoffollowersandfollowingintheleadershipprocess.
+Theleadershipprocessisatermusedtosignifyaconnectionistview(Lord&Brown,2001)thatseesleadershipasadynamic
+systeminvolvingleaders(orleading)andfollowers(orfollowing)interactingtogetherincontext(Hollander,1992a;Lordetal.,
+1999;Padillaetal.,2007;Shamir,2012;Uhl-Bien&Ospina,2012).Thisdefinitionidentifiesfollowershipthroughtwolenses:
+followershipasarankorposition(i.e.,role),andfollowershipasasocialprocess.
+Thefirst,aroletheoryapproach(Katz&Kahn,1978),seesfollowershipasaroleplayedbyindividualsoccupyingaformalor
+informalpositionorrank(e.g.,a“subordinate”inahierarchical“manager–subordinate”relationship;afollowerina“leader–
+follower” relationship). The second, a constructionist approach (Fairhurst & Grant, 2010), views followership as a relational
+interactionthroughwhichleadershipisco-createdincombinedactsofleadingandfollowing(DeRue&Ashford,2010;Fairhurst&
+Uhl-Bien,2012;Shamir,2012).Whereasrole-basedviewsinvestigatefollowershipasaroleandasetofbehaviorsorbehavioral
+styles of individuals or groups, constructionist views study followership as a social process necessarily intertwined with
+leadership.
+Role-basedapproachesareconsistentwithShamir'sdescriptionof“reversingthelens”inleadershipresearch(Shamir,2007).
+Incontrasttoleader-centricapproachesexamininghowleadersinfluencefollowerattitudes,behaviors,andoutcomes,role-based
+followership approaches consider how followers influence leader attitudes, behaviors, and outcomes. These approaches identify
+followers as the causal agents—i.e., follower characteristics and behaviors are the independent variables, and leader
+characteristics and behaviors are the dependent or moderator variables (Shamir, 2007). The focus in these approaches is on
+followercharacteristicsandstyle,followershiproleorientations,implicittheoriesoffollowership,followeridentities,andhow
+followeridentitiesandbehaviorsshapeleaderattitudes,behaviorsandeffectiveness(Collinson,2006;Lord&Brown,2004).
+Constructionistapproachesseefollowershipandleadershipasco-constructedinsocialandrelationalinteractionsbetween
+people(DeRue&Ashford,2010;Fairhurst&Uhl-Bien,2012;Shamir,2007).Aconstructionistapproachconsidersthatleadership
+can only occur when leadership influence attempts or identity claims are met with followership granting behaviors (e.g.,
+deference)oridentityclaims(DeRue&Ashford,2010;seealsoUhl-Bien&Ospina,2012;Shamir,2012).Followershipisseenin
+“followingbehaviors”thatcanincludeleaderandfollowerclaimingandgranting(DeRue&Ashford,2010),deferringorobeying
+(Blass,2009;Burger,2009;Milgram,1965,1974),resistingornegotiatingwithanother'swishesorinfluenceattempts(Tepper,
+Duffy,&Shaw,2001;Tepperetal.,2006),ortryingtoinfluenceanothertogoalongwithone'sinfluenceattempts(Fairhurst&
+Uhl-Bien,2012).Inthiswayfollowershipisnottiedtoarolebuttoabehavior.Thisapproachallowsustorecognizethatmanagers
+are notalwaysleading—theyalso defer tosubordinates, whichmeans theyalso engage in “followingbehaviors” (Fairhurst &
+Hamlett,2003;Larsson&Lundholm,2013).
+3.1.1.Issuesofsemantics
+Thesedifferingviewsarethereasonbehindmuchoftheconfusionindiscussionsoffollowership,andwhywehavehadso
+muchtroubleunderstandingwhatfollowershipis.Thenegativeconnotationsofthewords“follower”and“following”comefrom
+the role-based, leader-centric view that has traditionally dominated leadership research (Hoption et al., 2012). This view
+romanticizesleadershipandsubordinatesfollowership(Uhl-Bien&Pillai,2007).Fromtherole-basedview,thetermfollowerhas
+beencontroversialbecauseitconjuresupimagesofpassive,powerlessindividualswhoautomaticallydotheleader'sbidding
+(Kelley,2008).Italsocreatesconfusionwhenthoseweidentifyas “followers” actinconsistentlywiththerole(e.g.,theArab
+
+## Page 8
+
+90 M.Uhl-Bienetal./TheLeadershipQuarterly25(2014)83–104
+Spring).Asaresult,somehavearguedfortheuseoftheterm“constituents”tosignifythemembersofaleader'scollective(e.g.,
+Gardner,1990;Rost,1993).Othershavesuggestedtermssuchas“collaborators,”“participant”and“member/teammember,”and
+somescholarshaveevenadvocatedeliminatingthetermfolloweraltogetherduetoitsnegativeconnotations(e.g.,Rost,2008).
+AsShamir(2007,2012)indicates,however,eliminating“followers”fromtheleadershipequationmeanswearenolonger
+studying leadership. Instead we are studying social phenomena more generally, such as collaboration and teamwork. As
+articulatedbyShamir(2007),forasocialphenomenontocountasleadershipitmustinvolve“disproportionatesocialinfluence”
+(i.e., leading and following behaviors or identities). Shamir (2012) is careful to note that this does not mean that roles and
+identitiesofleadersandfollowersarefixed.Nordoesitmeanthatleadershipresearchshouldcenterontheleader.Rather,it
+meansthatleadershipcannotbefully“shared”(Pearce&Conger,2003):“Ifitisfullyshared,Isuggestwedon'tcallitleadership
+becausethetermlosesanyaddedvalue”(Shamir,2012,p.487).
+Forasocialphenomenontoqualifyasleadership,therefore,wemustbeableto “identifycertainactorswho,atleastin a
+certain…time,exertmoreinfluencethanothersonthegrouportheprocess”(Shamir,2012,p.487).Theclearimplicationisthat
+followersandfollowershiparecentraltoleadership,andthattheleadershipprocessisconstitutedincombinedactsofleadingand
+following. Paraphrasing Shamir (2012), we can conclude that for a phenomenon to be called leadership we must be able to
+identifycertainactorswhoarewillingtodefertoothers(i.e.,tobefollowersorengageinfollowing).Fromafollowershiplens,we
+couldevenarguethatitisinfollowingthatleadershipiscreated(Uhl-Bien&Ospina,2012).
+Returningtothedistinctionbetweenrole-basedandconstructionistapproaches,role-basedapproachesstudythefollowerina
+hierarchical context (i.e., as a subordinate). These approaches associate leadership and followership with holding formal
+hierarchical positions (e.g., manager and subordinate). Constructionist approaches study followership as part of a dynamic
+relational process. These approaches do not start from the assumption of hierarchical position but instead consider how
+leadership and followership are enacted in asymmetrical relational interactions between people, which might or might not
+coincidewithformalhierarchicalroles(i.e.,managersmightnotleadandsubordinatesmightnotfollow).
+3.2.Role-basedviews
+Role-basedviewsconsiderhowindividualsenactleadershipandfollowershipinthecontextofhierarchicalroles.Theprimary
+interestofrole-basedapproachesisinadvancingunderstandingofhowfollowers(e.g.,subordinates)workwithleaders(e.g.,
+managers)inwaysthatcontributetoordetractfromleadershipandorganizationaloutcomes(Ocetal.,2013;Carstenetal.,2010;
+Sy, 2010). As such, these approaches focus on issues such as follower role orientations, follower schemas, and implicit
+followershiptheories(Carstenetal.,2010;Sy,2010).Theyalsoinvestigatehowfollower(i.e.,subordinate)traits,characteristics
+andstylesinfluenceleaders(i.e.,managers)andleadershipoutcomes(Dvir&Shamir,2003;Howell&Shamir,2005).Role-based
+approachesareinterestedinthequestion:“Whatisthepropermixoffollowercharacteristicsandfollowerbehaviortopromote
+desiredoutcomes?”(Graen&Uhl-Bien,1995,p.223).
+3.2.1.Followercharacteristicsandstyles(typologies)
+The earliest role-based views are provided in typologies that identify follower characteristics and styles. The first such
+typologywasprovidedbyZaleznik(1965).Focusingonthedynamicsofsubordinacy,Zaleznikdistinguishedfollowersaccording
+to two axes: dominance–submission and activity–passivity. Dominance–submission ranges from subordinates who want to
+controltheirsuperiorstothosewhowanttobecontrolledbysuperiors.Activity–passivityrangesfromsubordinateswho“initiate
+andintrude”tothosewhodonothing.Theresultingtypologyidentifiesfourcategoriesoffollowers:(1)impulsivesubordinates,
+(2) compulsive subordinates, (3) masochistic subordinates, and (4) withdrawn subordinates. This typology of subordinates/
+followersisintroducedbothasameansofhelpingleadersbetterunderstandhowtodealwithfollowers,butalsoasproviding
+directiontofollowerswhoaspiretopositionsofleadership.AsZaleznikandKetsdeVries(1975)state,“…thepersonwhoaspires
+toleadershipmustnegotiatetheriskypassagebetweendependencyandassertiveness”(p.167).
+Although Zaleznik provided the first typology, clearly the most cited early work on followership is that of Robert Kelley
+(1988).Kelleydefinedtheidealfollowerasparticipatinginajointprocessofachievingsomecommonpurpose(Kelley,1988,
+1992, 2008). He ascribed to “effective followers” an array of positive qualities, such as being self-motivated, independent
+problem-solvers,andcommittedtothegroupandorganization.Effectivefollowers“arecourageous,honest,andcredible”(Kelley,
+1988, p. 144). Kelley's typology uses dependent–independent and passive–active as the quadrants (i.e., alienated followers,
+exemplary followers, conformist followers, passive followers, and a “center” group, midway on the two dimensions who are
+labeledpragmatistfollowers).Thesequadrantsrangefromthestereotypical“sheep,”whicharepassiveanddependent,to“yes
+people” who are active, but dependent—the classic stereotype of followers who blindly follow whatever the leader dictates
+(Bjugstad,Thach,Thompson,&Morris,2006;Hoptionetal.,2012;Townsend&Gebhardt,1997).Kelleyadvocatedturningall
+followersinto“exemplaryfollowers,”arguingthatthebestfollowersareanythingbutpassivesheep—theyareactivelyengaged
+andexhibitcourageousconscience(Kelley,1992).
+FollowingKelley,in1995IraChaleffpublishedapractitionerbookcalledTheCourageousFollower.Hispremisewasthatthe
+keytoeffectiveleadershipiseffectivefollowership,whichoccurswhenfollowers“vigorouslysupport”leadersinpursuingthe
+missionandvisionoftheorganization.Effectivefollowershiprequiresfollowerswhoareaccountableandwillingto“standupto
+andforleaders”.Hecallsthiscourageousbecausefollowersattimeswillhavetochallengeandconfrontleaderswithunpleasant
+information and critical and honest feedback. Effective followers are partners with leaders who contribute to satisfying and
+productive work environments by being accountable and taking a proactive approach to their role. Using axes ranging from
+
+## Page 9
+
+M.Uhl-Bienetal./TheLeadershipQuarterly25(2014)83–104 91
+low-highsupportandlow-highchallengeoftheleader,Chaleffidentifiesfourdifferentfollowerstyles:implementer,partner,
+individualist, and resource (1995, 2003, 2008). His foundational premise is that “leaders rarely use their power wisely or
+effectivelyoverlongperiodsunlesstheyaresupportedbyfollowerswhohavethestaturetohelpthemdoso”(Chaleff,2003,p.1).
+Comingfromapoliticalscienceperspective,Kellerman's(2008)focusonfollowershipdividesfollowersintofivecategories
+basedonthelevelofengagementofthefollower.Hertypology,rangingfrom“feelinganddoingnothing”to“beingpassionately
+committed and deeply involved,” results in five types of followers: isolate, bystander, participant, activist, and diehard.
+Kellerman'sgoalinthissimpletypologyistosuggestthatthecriticalelementinfollowershipisengagement.Forexample,isolates
+arecompletelydetached,bystandersobservebutdonotparticipate,participantsareinsomewayengaged,activistsfeelstrongly
+abouttheirleadersandactaccordingly,anddiehardsaredeeplycommittedandpreparedtodiefortheircauses.Sheusesthis
+framework to argue that followers have more power and influence than they are traditionally accredited. Her interest is in
+focusingonhowengagedfollowerscanactasagentsofchange.
+JeanLipman-Blumen(2005)inherdiscussionofwhyfollowerssowillinglyobeytoxicleaderssuggeststhattherearethree
+general categories of followers, and that these followers actually enable and support bad leaders. The first category, “benign
+followers,”iscomprisedoffollowerswhoaregullibleandgoalongunquestioninglywithwhatatoxicleaderissaying.These
+followersfollowforpragmaticreasons,suchaskeepingtheirjobs.Thesecondcategory,labeled“theleader'sentourage,”servesas
+thetoxicleader'salterego.Theydothisbycommittingtotheleader'sagenda.Thefinalcategory,labeled“malevolentfollowers,”
+includesthosedrivenbygreed,envy,orcompetitiveness.Thesefollowersworkagainsttheleader,andmayactuallyhavetheir
+sightssetonunseatingtheleadertobecometheleaderthemselves.
+AnothertypologyispresentedinHowellandMendez(2008).Theyproposethattherearedifferenttypesoffollowerrole
+orientations and that these influence the effectiveness of the leader–follower relationship. The first is followership as an
+interactiverolethatsupportsandcomplementstheleadershiprole.Thisinteractiveroleorientationcanbeahighlyeffectiveand
+dedicatedfollower,arelativelyineffective(Kelley's“sheep”)follower,orevenpartofatoxicleader'sloyalentourage.Thesecond
+isfollowershipasanindependentrole.Thisroleorientationinvolveshighlevelsofautonomy,and,inapositivevein,highlevelsof
+competencethatcomplementstheleader'srole(e.g.,high-levelprofessionalssuchasengineers,physicians,universityprofessors
+who work independently but contribute to the organization's goals). The third type is more negative, and comprises an
+independent role orientation that may involve a follower who works at cross-purposes to the leader. The final follower role
+orientationisashiftingrole,inwhichtheindividualalternatesbetweentheleaderandfollowerrole.Forexample,incollaborative
+teamsmembersmayfeelobligatedtostepupintoaleadershiproleorfeelthatalessvisiblefollowershiproleisappropriate,
+dependingonthecircumstances.
+3.2.2.Carsten'sfollowershiproleorientations
+Theideathatfollowerscanholddifferenttypesofroleorientationscanalsobeseeninnewlyemergingworkonfollowership
+beingadvancedbyCarstenandcolleagues(Carsten,Uhl-Bien,&Jaywickrema,2013;Carstenetal.,2010).Carstenetal.(2010)
+offerthefirstformalempiricalinvestigationoffollowers'viewsoffollowership.Usinganexploratoryqualitativeapproach,they
+investigate how followers describe their beliefs regarding the ways they view and enact their roles, as well as the personal
+qualities and contextual characteristics they see as facilitating or impeding their ability to be successful as a follower. Their
+findingsidentifydifferentfollowerschema.Somefollowersreportmorepassiveviews,seeingtheirroleasbeingobedientand
+deferent(e.g.,“sheep,”Kelley,1992).Othersreportholdingaproactiveschema,viewingtheirrolesaspartneringwithleadersby
+taking ownership and accountability for achieving organizational objectives (e.g., active co-contributors, Chaleff, 1995;
+Kellerman,2008;Shamir,2007).
+Whether followers are able to act on their schema depends on the context (Carsten et al., 2010). Followers report that
+authoritarianorempoweringleaderstyleandbureaucraticorengagedclimatearekeyfactorsinwhetherfollowerscanenact
+theirrolesinaccordancewiththeirroleorientation.Whenfollowers'schemasdonotmatchthecontext,theyreportstressand
+dissatisfaction. For example, passive followers in empowering climates report stress from being asked to operate in ways
+inconsistentwiththeirbeliefsandstyle.Proactivefollowerswithauthoritarianleadersreportfrustrationanddissatisfactionfrom
+beingstifledbybureaucraticclimatesandprocedures.
+3.2.3.Sy'simplicitfollowershiptheories
+Sy's(2010)approachdiffersfromthatofCarstenetal.(2010)inthatitinvestigatessubordinates'aswellasmanagers'viewsof
+followership. Paralleling research on implicit leadership theories, Sy (2010) advances understanding of implicit followership
+theories(IFTs).Managerswereaskedtoreporttraitsandbehaviorstheybelievecharacterizefollowers.Thesewerethenformed
+intoameasureofimplicitfollowershiptheories(IFTs).FindingsshowthatIFTsaremostaccuratelyrepresentedbyafirst-order
+six-factorstructureinvolvingIndustry,Enthusiasm,GoodCitizen,Conformity,InsubordinationandIncompetence.IFTsarealso
+accuratelyrepresentedbyasecond-ordertwo-factorstructureconsistingofFollowershipPrototype(Industry,Enthusiasm,Good
+Citizen)andFollowershipAntiprototype(Conformity,Insubordination,Incompetence).
+Sy'sresearchhasexploredIFTsfromboththeleader(i.e.,LIFTs)andfollower(i.e.,FIFTs)perspectives(however,thereismore
+research on the former than the latter). LIFTs are important because they are associated with interpersonal outcomes of
+relationshipquality,liking,trustandsatisfaction(Sy,2010).AsshowninWhiteley,Sy,andJohnson(2012),positiveLIFTsare
+associatedwithhigherperformanceexpectations,likingandLMX,whicharesubsequentlyassociatedwithfollowerperformance
+(i.e., naturally occurring Pygmalion effects). Furthermore, recent research has also found an associative relationship between
+affectandLIFTsinthatleaderswhodemonstratenegativestateortraitaffecttendtoendorsemorenegativeLIFTs(Epitropaki,Sy,
+
+## Page 10
+
+92 M.Uhl-Bienetal./TheLeadershipQuarterly25(2014)83–104
+Martin,Tram,&Topakas,2013;Kruse&Sy,2011).AlthoughlessattentionhasbeenpaidtoFIFTs,Sy'sresearchsuggeststhatLIFTs
+andFIFTsinteracttoaffectrelationshipquality(Sy,2013)andfollowerperformance(Sy,2011).
+3.2.4.Followersasshapersofleaders'actions
+Aviewoffollowersasshapersofleaders'actionscanbeseenintheworkofShamirandcolleagues(Dvir&Shamir,2003;
+Howell&Shamir,2005;Shamir,2007).Thisapproachisbasedonthepremisethatakeyroleoffollowersisininfluencingthe
+leaderandfacilitatingleaderemergence:“Muchoftheliteratureonthestudyofleadership…neglectstoacknowledgeoreven
+recognizetheimportantroleoffollowersindefiningandshapingthelatitudeofleader'saction”(Hollander,1993,p.29).Using
+this premise, Dvir and Shamir (2003) investigate how follower developmental characteristics are associated with followers'
+abilityandinclinationtoactivelycontributetotheemergenceoftransformationalleadership.Theirfindingsshowthatfollowers'
+initialdevelopmentallevel(e.g.,self-actualizationneeds,collectivistorientation,critical-independentapproach,activeengagement
+in the task, self-efficacy) positively predicts transformational leadership among indirect followers, but these relationships were
+negativeamongdirectfollowers.
+Howell and Shamir (2005) provide a conceptual frameworkthat depicts followers as having a more active role than that
+assumedintraditionalleadershipresearch.SimilartoChaleff's(1995)argumentthatpowerfulleadersneedtobecounteractedby
+powerfulfollowers,HowellandShamir(2005)indicatethatitisnaiveforleadershipscholarstobelievethatcharismaticleaders
+canengageinself-reflection,self-monitoringandfeedbackseekinginwaysthatcanmanagethedeleteriousimpactofcharisma.
+Instead,followersneedtorecognizeandplayamoreactiveroleinavoidingthepitfallsandabusesofpowerthatcancomewith
+charismaticleadership.“Inourview,understandingfollowersisasimportantasunderstandingleaders”(Howell&Shamir,2005,
+p.110).
+3.2.5.Followershipbehaviors
+Role-basedviewsalsoconsiderthekindofbehaviorsindividualsuseastheyenacttheirfollowerroles(Carsten&Uhl-Bien,
+2012,2013).Themostclassicviewoffollowershipbehavioristhatassociatedwiththeobedientanddeferentsubordinate(Kelley,
+1988;Zaleznik,1965).However,thedynamicnatureoftheworkplace,aswellasashiftfromproductioneconomiestoknowledge
+economies,hascalledattentiontobothresistanceandproactivebehaviorsamongfollowers(Grant&Ashford,2008;Tepperetal.,
+2001,2006).
+3.2.5.1.Obedienceandsubordination.Traditionalstereotypesoffollowersaspassive,deferentandsubordinatecomefromlong
+establishedassumptionsinthemanagementliteraturethatleadershipisgroundedinhierarchyandauthority(Barnard,1938;
+Taylor,1947).Thishierarchicalview,rootedinthebeliefthathierarchylegitimizessomeindividualsas“authorityfigures”more
+capableandeffectivethanothers(Weber,1968),leadstotheparallelassumptionthatthefollowerroleistocarryoutorders
+withoutquestion(Heckscher,1994).Followersdemonstrateobedientandsubordinatebehaviorsinresponsetocommonbeliefs
+thatleadersareresponsibleformakingdecisions,solvingproblems,gatheringinformation,andsettinggoals(DeCremer&Van
+Dijk,2005;DeVries&VanGelder,2005;Ravlin&Thomas,2005).ThisviewcanbeseeninCarstenetal.'s(2010)findingsof
+followersdescribingtheirjobas“carryingoutorders”and“doingthingstheleader'sway.”
+Thebeliefthatthoseinfollowerpositionsarelargelyineffectualisapowerfulone(Courpasson&Dany,2003).Labstudieshave
+shownthatthemereassignmentofanindividualtoasubordinaterolecausesthemtoreportlesspositiveaffect(Hoptionetal.,2012),
+seethemselvesasineffectual,andviewleadersashavinggreatercapabilityandagency(Gerber,1988).Milgram's(1965,1974)classic
+researchonobedienceshowsafrighteningpictureofthelengthspeoplewillgotoinobeyingauthority.AsdescribedbyMilgram
+(1965),hewasshockedattheextenttowhichpeoplewould“heedlesslyaccept”thecommandsofauthority.
+ReplicationsofMilgram(e.g.,Burger,2009)andsubsequentevidencefromotherstudies(seeBlass,2009forareview)suggest
+thatthepulltofollowordersfromanauthorityfigureisapowerfulone,andrepresentsadeeppsychologicalphenomenonthatis
+stillineffecttoday.Burger(2009)interpretsthehighrateofobedienceinhisstudyasevidenceofthepowerfulsituationalforces
+of hierarchical contexts of individuals in follower roles (see also Passini & Morselli, 2009). In followership research, Hinrichs
+(2007)andCarstenandUhl-Bien(2013)linkthispropensitytofollowtocrimesofobedience,showingthatindividualswhohold
+moretraditionalviewsoffollowersaspassiveandobedientaremorelikelytobecomplicitinunethicalactionsofleadersbybeing
+morewillingtogoalongwithunethicalrequests.
+VanVugtandcolleagues(King,Johnson,&VanVugt,2009;VanVugt,2006;VanVugt,Hogan,&Kaiser,2008)theorizethatthis
+propensitytofollowmayberootedinnaturalselection.Usinganevolutionarypsychologyperspective,theyarguethatcertain
+traitsandbehaviors(e.g.,leadershipandfollowership)areselectedandretainedbecausetheyhelpedsolveadaptiveproblemsof
+ourancestors.Naturalselection,then,predisposesindividualswithgenotypesforleadershipandfollowership.Thisexplainswhy
+somepeopleactasfollowersandvoluntarilysubordinatethemselvestoothers—ourancestorslearnedthatincertainsituationsit
+isbettertodefertoacentralcommand.Becauseevolutionaryanalysissuggeststhattheformalbureaucraticleadershipstructures
+arecomparativelyrecentinhumanhistory,thesestructuresmayactuallyconflictwithourevolvedleadershippsychology.This
+may shed light on why many individuals in modern organizations struggle with issues of dominance hierarchies and the
+powerlessnesstheycreate(Ashforth,1989).
+3.2.5.2.Resistance.Thedominantviewoffollowersaspassiveandobedienthasresultedinmuchlessattentionbeingpaidtoother
+types of followership behavior, particularly resistance. Leadership research is highly normative (Padilla et al., 2007) and
+leader-centric(Hollander&Julian,1969),resultinginlittleattentionbeinggiventotheactualitythatnotall“followers”follow.
+
+## Page 11
+
+M.Uhl-Bienetal./TheLeadershipQuarterly25(2014)83–104 93
+EarlytheoryrecognizedthisrealitywithBarnard's(1938)“acceptancetheoryofauthority”andHollander's(1958)idiosyncrasy
+credits. But formal study of follower resistance in leadership research did not occur until more recently, with Tepper and
+colleagues'focusonresistancebehaviors(Tepperetal.,2001,2006).
+Inanaturalextensionofabusivesupervisionresearch,Tepperetal.(2001)askedthequestionofhowsubordinateswillrespondto
+abusefromtheirsupervisors.Arguingthattheywillbeunlikelytoreciprocate,Tepperetal.(2001)focusedtheirinvestigationontwo
+typesofresistancebehaviors:constructiveanddysfunctional.Constructiveresistanceinvolveswell-intendedeffortstoopenadialog
+withthesupervisor(e.g.,askforclarificationornegotiate).Dysfunctionalresistanceinvolvespassive–aggressiveresponsesinwhich
+subordinatesmightactasiftheyaretoobusytocompletetherequest,pretendtheydidnothearit,orsaytheyforgot.Tepperetal.
+(2001)predictedandfoundthatbothtypesofresistanceapproachesareusedmoreofteninthepresenceofabusivesupervision,and
+thathowthisoccursispartiallydependentonsubordinateconscientiousnessandagreeableness.
+Inafollow-upstudy,Tepperetal.(2006)tookthenextstepofexaminingmanagers'reactionstosubordinateresistance.They
+began by suggesting that managers view subordinate resistance as either uniformly dysfunctional (all manifestations of
+resistancearebad)ormultifunctional(somemanifestationsofresistancearemorefunctionalthanothers).PredictingLMXasa
+moderator,findingsshowedthattheuniformlydysfunctionalperspectivecharacterizeslowqualityLMXrelationshipsandthe
+multifunctionalperspectiveisfoundinhighqualityrelationships.ManagersratedlowLMXsubordinatesunfavorablyregardlessof
+the resistance strategy they used, but high LMX subordinates wererated favorably when they useda constructive resistance
+strategy(i.e.,negotiating).WhatwasmostinterestingaboutthisfindingwasthatbothlowandhighLMXsubordinateswere
+likelytousenegotiation,butmanagerswereonlyreceptivetoitfromhighLMXsubordinates.
+Inanempiricalinvestigationofresistancebehaviorsrelatedtofollowershipbeliefs,CarstenandUhl-Bien(2013)soughtto
+determine whether a follower's belief in co-production would be associated with their willingness to engage in constructive
+resistanceinthefaceofanunethicalrequestbyaleader.Findingsshowthatfollowerswithweakerco-productionbeliefs(based
+on Carsten et al., 2010; Shamir, 2007) demonstrate greater intent to obey a leader's unethical request, while followers with
+strongerco-productionbeliefsarewillingtoconstructivelyresisttheleader.Thiseffectismoderatedbyromanceofleadership,
+suchthatfollowerswithstrongerco-productionbeliefswhoromanticizeleadersreportastrongerintenttoobeytheleader's
+unethicalrequest.
+3.2.5.3. Proactive behaviors. Proactive behaviors assess the creative and deliberate ways that employees plan and act on their
+environmenttoinfluence,changeandalteritinwaystheyseefit.Proactivebehaviorsincludeinfluencetactics(Kipnis,Schmidt,&
+Wilkinson,1980),feedback-seeking(Ashford&Cummings,1985),takingchargebehavior(Morrison&Phelps,1999),prosocial
+rule-breaking(Morrison,2006),voice(Morrison&Milliken,2000;VanDyne&LePine,1998)influencingworkstructures(Parker,
+Wall,&Jackson,1997),andpersonalinitiativetaking.Integratingthesevariousperspectives,GrantandAshford(2008)define
+proactivebehavioras “anticipatoryactionthatemployeestaketoimpactthemselvesand/ortheirenvironments” (p.8).They
+characterizeit as a process “that can be applied to any set of actions through anticipating, planning, and striving to have an
+impact”(p.9).Itcaninvolveeitherin-roleorextra-roleactivities.
+Whiletheparallelswithtrendsinfollowershipresearcharestriking,therearesomekeydifferencesbetweenviewsinthe
+proactivityliterature and those in thefollowership domain. The concept of proactivityin the organizational literature is vast
+(Grant&Ashford,2008),addressingawidearrayofissuesrangingfromsocialprocessestoworkstructurestodevelopmentand
+change processes. Proactivity addresses general work behavior and employees very broadly. Because followership behaviors
+necessarilyoccurinthecontextofhierarchicalrelationshipswithleaders,theissueofmostrelevanceforfollowershipresearchis
+how employees engage in this behavior in relation to leaders and how leaders receive and respond to followers' proactive
+behaviors(Whiting,Maynes,Podsakoff,&Podsakoff,2012).Thisisnottrivial,givenresearchfindingsshowingthatleadersare
+not always receptive to proactivity from followers (Grant, Parker, & Collins, 2009; Whiting et al., 2012). Leaders may see
+proactivityasinsubordination,athreat(Frese&Fay,2001),aningratiationattempt(Bolino,1999)oroversteppingbounds.
+Inearlyworkexaminingtheseissuesinthecontextoffollowershipresearch,CarstenandUhl-Bien(2012)investigatedhow
+individualdifferencesinfollowershipco-productionbeliefswouldbeassociatedwiththewayinwhichfollowersconstructandenact
+theirrolesinrelationtoleaders.Findingsshowthatfollowershigherinco-productionbeliefsreportedgreatervoiceandconstructive
+resistance. This relationship was moderated by contextual variables (considerate leader style, overall relationship quality, and
+autonomousworkclimate)forvoice,butnotforconstructiveresistance.Theinteractioneffect,contrarytopredictions,showedthat
+individualswithstrongerco-productionbeliefsdemonstratedfairlystablevoicebehavior,whileindividualsweakerinco-production
+beliefsvariedintheirvoicebehavior,reportinggreatervoicewhenleadershaveaconsideratestyle,relationshipqualityishigh,and
+theworkclimateismoreautonomous.Thelackofamoderatingeffectforconstructiveresistancesuggeststhatresistance,evenwhen
+constructive,mayberisky.Evenperceptionsofasupportiveclimatemaynotbeenoughtoencouragefollowerstoconstructively
+resist.Withrespecttovoice,however,followerswithstrongerco-productionbeliefsappeartobeundeterredbycontext.Theyappear
+morelikelytospeakupevenwhentheirrelationshipwiththemanagerisweakortheyperceivethattheleaderwillbeunreceptive.
+Thiswillingnesstospeakupmaybebeneficialincaseswherealeaderismakingbaddecisions,butthequestionremainsastowhether
+leaderswillbeopentoand/orreceptiveoftheinput.
+3.2.5.4.Influencetactics.Researchoninfluencetacticsshowsthatfollowersareintentionalandstrategicintheiruseofstrategiesto
+shapeanddefinethebehaviorsofleaders.Typically,upwardinfluencetacticsaredesignedtomotivatesupervisorstoproducethe
+outcomesdesiredbythesubordinate(Higgins,Judge,&Ferris,2003).AnsariandKapoor(1987)foundthatinfluencetacticsusedby
+subordinatesaresignificantlyaffectedbythemanager'sleadershipstyleandthattheyvaryasafunctionofthegoalsthefollower
+
+## Page 12
+
+94 M.Uhl-Bienetal./TheLeadershipQuarterly25(2014)83–104
+seekstoachievebyinfluencingtheleader.Whenfollowersseekpersonalbenefits(e.g.,careeradvancement),ingratiationisthemost
+oftenemployedtactic,whereaswhenfollowersseekorganizationalgoals,theyinvokeacombinationofrationalandnon-rational
+tactics,suchasblocking,upwardappeal,andrationalpersuasion.Withrespecttoleaderstyle,followershaveagreatertendencyto
+usenon-rationaltactics—suchasblocking,upwardappeal,andingratiation—whenrespondingtoanauthoritarianmanager,and
+rational strategies(i.e., rational persuasion)when respondingto nurturant-task/participativemanagers (see alsoCable& Judge,
+2003).ResearchbyGrantandHofmann(2011)showsthatfollowersmayalsoseektoincreasetheirinfluencethroughproactive
+measures,suchasroleexpansion,whichtheyperceivewillbebeneficialtoperformanceratingsfromsupervisors.
+YuklandFalbe(1990)exploredtherelationshipbetweeninfluencetacticsandinfluenceobjectivesindownward,upward,and
+lateralinfluenceattempts.Theyfoundthatthehierarchicaldirectionoftheinfluenceattempt(e.g.,upward,downward)hadmore
+impactoninfluenceobjectives(e.g.,personalobjectives,organizationalobjectives)thanonthechoiceofinfluencetactics(e.g.,
+coalition,ingratiation).FalbeandYukl(1992)foundthatfollowerinspirationalappealsandconsultationweremosteffective,and
+pressure, legitimating and coalition tactics were least effective (with rational persuasion, ingratiation, personal appeals, and
+exchangetacticsintermediateintermsoftheireffectiveness).FalbeandYukl(1992)alsofoundthatcombiningtwosofttacticsor
+a soft tactic with rationality tends to lead to the greatest likelihood of success. This finding is bolstered by a more recent
+meta-analysisshowingthatingratiation(asofttactic)andrationalityconsistentlyhavethestrongestpositiverelationshipswith
+workoutcomes(Higginsetal.,2003).
+Whatseemsclearfromthiscursoryreviewisthatfollowersconsiderthetargetoftheirinfluencetactics,thepurposeoftheir
+influence attempts, and actions that can be taken to shape and define leader behaviors in order to achieve the personal and
+organizationalgoalsofthefollower.Asresearchonfollowerinfluencetacticshasincreased,theresultscontinuetosuggesta
+higherlevelofgoal,target,andcontextcomplexitythanpreviouslyexpected(Farmer,Maslyn,Fedor,&Goodman,1997).
+3.2.6.Summaryofrole-basedviews
+Role-basedviewsoffollowershiparerecognizabletoleadershipscholars,astheyareinlinewithtraditionalapproachesto
+studyingleadershipinthecontextofmanagerandsubordinateroles.Thedifferenceisthatthey“reversethelens”fromleadersas
+causalagentstofollowersascausalagents(Shamir,2007).Inmanywaystheyprovideinterestingtwistsonoldquestions.For
+example,insteadofinvestigatingleaderstyleasantecedenttoorganizationaloutcomes,role-basedviewscallforustoinvestigate
+followertraitsandbehavioralstylesasantecedentstoleaderattitudesandbehavioraloutcomes.
+Forfollowershipresearchtoadvance,therefore,newconstructsandvariableswillhavetobedeveloped.Someofthesemaybe
+variations on existing measures (e.g., proactive behaviors to “proactive followership behaviors”; perceived leader support to
+“perceivedfollowersupport”).Somemayalreadybedeveloped(e.g.,implicitfollowershiptheories,whichistheoreticallyderived
+from implicit leadership theories). Others will require new approaches, such as follower role orientations and followership
+outcomes.AsdescribedbyShamir(2007):
+“…whileultimatelyourapproachtothestudyofleadershipshouldbeneitherleader-centerednorfollower-centered,at
+thisstage,thestudyofleadershipwouldbenefitfromamorefollower-centeredperspective.Itisimportanttoexaminenot
+onlyhowfollowerscontributetotheconstructionofaleadershiprelationshipbutalsohowtheyempowertheleaderand
+influence his or her behavior and what is their contribution to determining the consequences of the leadership
+relationship”(p.xxi).
+3.3.Constructionistviews
+Constructionistviewsdescribehowpeoplecometogetherinasocialprocesstoco-createleadershipandfollowership(DeRue
+&Ashford,2010;Fairhurst&Grant,2010).Whatsignifiesconstructionistviewsisthattheyarenecessarilyprocessualviews.They
+see people as engaging in relational interactions, and in these interactions co-producing leadership and followership (e.g.,
+relationships,behaviorsandidentities)(DeRue&Ashford,2010;Shamir,2007).Theserelationalinteractionsdonotnecessarily
+alignwithformalhierarchicalroles.Constructionistfollowershipresearchinvestigateshowpeopleinteractandengagetogether
+insocialandrelationalcontextstoconstruct(ornotconstruct)leadershipandfollowership(Fairhurst&Uhl-Bien,2012).
+3.3.1.DeRueandAshford'sleadershipidentityconstructionprocess
+Drawing from research on “identity work” (Pratt, Rockmann, & Kaufmann, 2006; Snow & Anderson, 1987) and social
+interactionism(Blumer,1969;Goffman,1959),DeRueandAshford(2010)offeraconstructionistviewthatidentifiesleadership
+andfollowershipasco-constructedinaninteractiveandreciprocalidentity“claiming”and“granting”process.Claimingoccurs
+whenanindividualorindividualsascertainidentityaseitheraleaderorafollower.Grantingoccurswhenothersbestowthe
+claimedidentityandclaimtheirownidentityinsupportoftheother(i.e.,“Igrantyoualeaderidentityandclaimformyselfa
+followeridentity”).Theprocessworks(i.e.,leadershipandfollowershipareconstructed)whenclaimsaremetwithgrants,and
+vice versa. Leadership and followership can also be not constructed in cases where grants and claims are not reciprocally
+supported. In other words, even though one might have a title of a “manager,” he or she may not actually be a “leader” if
+subordinates do not grant them a leader identity and claim for themselves a follower identity. With respect to followership,
+DeRueandAshford(2010)recognizethatgrantsinvolvesomeindividualstakingonfollowerroles.Withoutthisclaimingofa
+followeridentity,leadershipisnotconstructed.
+
+## Page 13
+
+M.Uhl-Bienetal./TheLeadershipQuarterly25(2014)83–104 95
+DeRueandAshford's(2010)modelhasothercriticalimplicationsforthestudyoffollowership.Forexample,incontrastto
+portrayalsofleaderandfolloweridentitiesasintrapersonal,one-wayandstatic,thesocialconstructionprocessseesidentitiesas
+shapingandshiftingovertimeasindividualsengageinmutualinfluenceprocesses.Identifyingclaimingandgrantingprocesses
+allowsustorecognizethattherecanbedifferenttypesofconstructionsofleadershipandfollowership.Theseconstructionscan
+taketheformofastablehierarchicalrolerelationshiporashiftingleadershipstructure.Thelatterinvolvesa“dynamicexchange
+of leadership and followership that is constantly being renegotiated across time and situations… [such that] the boundaries
+betweenleaderandfolloweridentitiesarepermeable”(DeRue&Ashford,2010,p.635).Returningtothediscussionofsemantics
+raisedearlier,thisagainimpliesthatequatingleaderswith“managers”andfollowerswith“subordinates”inleadershipresearch
+andpracticeunderplaysthedynamicandsociallyconstructedprocessesofleadershipandfollowership.
+3.3.2.Shamir'sco-production
+Shamiralsooffersaconstructionistviewthatcomesfromarelationalperspective,buthecallshisapproach“co-production.”
+Building from LMX theory (Graen & Uhl-Bien, 1995) and Hollander's (1993) notion of an active role of the follower, Shamir
+(2007)proposesthatleadershipisjointlyproduced(Dvir&Shamir,2003)byleadersandfollowerswhentheyformeffective
+leadershiprelationshipsthathelpthemco-produceleadershipoutcomes.Theroleofthefolloweristoworkwiththeleaderto
+advancethegoals,vision,andbehaviorsessentialforbothworkunitandorganizationalsuccess.AccordingtoShamir(2007),
+co-productionpositionstheroleoffollowersas“broaderandmoreconsequential”thanseenintraditionalleader-centrictheories
+(p. xi). A co-production view elevates followers from passive recipients of leaders' influence to active co-contributors in the
+leadership process (cf. Hollander & Julian, 1969). In this way, it offers a more “balanced” view to leadership by calling for
+leadershipresearcherstoinvestigatetheroleofbothleadersandfollowersintheleadershipprocess.
+3.3.3.Collinson'spost-structuralistidentityview
+Collinson(2006)arguesfortheimportanceofunderstandingfolloweridentitiesthroughtheuseofpost-structuralistanalysis.
+Post-structuralistapproachesassumethatpeople'slivesareinextricablyinterwovenwithsociety.Thereforeindividualsarebest
+understoodassocialselves(Burkitt,1991;Layder,1994).Asaresult,people'sactionsmustbeviewedinthecontextofcomplex
+conditions and consequences (Giddens, 1984), such as power/knowledge regimes that influence individuals' subjectivities
+(Foucault,1977,1979).
+An interesting contribution of post-structuralist analysis is that it allows us to see how individuals collude in their own
+subordination(Collinson,2006).Collinsonoffersexamplesofhowthiscanoccurbydescribingthreetypesoffolloweridentities
+that can be enacted in the workplace. The first, conformist selves, acts in accordance with prescribed ideal-type behaviors.
+“Conformingindividualstendtobepreoccupiedwiththemselvesasvaluedobjectsintheeyesofthoseinauthority”(Collinson,
+2006, p. 183). The second, resistant selves, focuses on our “oppositional selves” that engage various dissent strategies. These
+strategiesareenactedtodealwithdissonanceweexperienceinresponsetoorganizationalandmanagerialcontrolsystems(with
+recognitionthatresistancewillbesubjecttodisciplineandsanctions).Thethird,dramaturgicalselves,recognizesthatpeopleare
+“under the gaze of authority…aware of themselves as visible objects” (Collinson, 2006, p. 185). When this self is enacted
+individuals experienceheightenedself-consciousnessthat leadsthemtobecomeskilledmanipulators ofselfand information
+(e.g.,impressionmanagement;seealsoGoffman,1959).Byrecognizingtheseselves,Collinson(2006)arguesthatwecanbetter
+understandthecomplexwaysfollowersinvokeandenactidentitiesininteractionwithleaders.
+3.3.4.FairhurstandUhl-Bien'srelational(discursive)approach
+Fairhurst and Uhl-Bien (2012) offer a discursive approach to leadership that positions followers as “actors” who “engage,
+interactandnegotiate”withleaderstoinfluenceorganizationalunderstandingsandproduceoutcomes.Leadershipisviewedasa
+“relational process co-created by leaders and followers in context” (p. 1024). Discursive approaches study this process by
+examiningthemicro-dynamicsofcommunicationininterpersonalinteractions.Theylookforco-constructionbyexamining,for
+example,sequentialpatternsofcontrolamongleadershipactors(i.e.,actsofleadingandfollowing),influentialactsoforganizing
+(e.g.,influenceattemptsandresponses)andthe“languagegames”playedbythoseactinginleaderandfollowerroles(e.g.,how
+individualspositionthemselvestooneanotherandhowpatternedredundanciesgetinstitutionalizedintoroles,identitiesand
+systems,cf.DeRue&Ashford,2010).
+WhileFairhurstandUhl-Bien(2012)donotprivilegefollowershipintheirdiscussion,thecriticalroleoffollowingisimplicitin
+this process. Followership and leadership can be seen in how individuals act and respond in relational control moves, in
+mobilizing moves, in language games (e.g., in acts of claiming and granting, DeRue & Ashford, 2010). It can be studied by
+analyzinghowthosewhooccupysubordinaterolesengagewiththoseoccupyingmanagerrolestoseeiftheyareconstructingor
+not constructing leadership (e.g., through “one-up” assertions of control, “one-down” acquiescence, or “one-across” neutral
+moves)(Fairhurst,Green,&Courtright,1995;Fairhurst,Rogers,&Sarr,1987;seealsoLarsson&Lundholm,2013).
+3.3.5.Summary
+Ourreviewshowsthattheroleoffollowersandfollowingisessentialtoleadership,somuchsothatitishardtodisentangle
+followershipfromleadership.Thisisparticularlytrueinconstructionistviews,whichseefollowershipasanecessaryelementin
+the co-construction of leadership, although it also applies to role-based approaches. One of the biggest challenges for the
+emergingstudyoffollowershipissemanticsthatemanatefromreductionistlogicsthatcauseustoimmediatelyhoneinonthe
+
+## Page 14
+
+96 M.Uhl-Bienetal./TheLeadershipQuarterly25(2014)83–104
+“follower”asanindividualorrole,overlookingthefactthat“following”behavioriscrucialintheconstructionof(orfailureto
+construct)leadership.
+Followingisaparticularformofbehaviorthatinvolvesrecognizingandgrantinglegitimacytoanother'sinfluenceattemptor
+status(DeRue&Ashford,2010).Iftherearenofollowingbehaviors,thereisnoleadership.Infact,itisprobablyeasiertorecognize
+leadershipinfollowingbehaviorsthanitisinleadershipbehaviors,sinceindividualsattemptingtobeleadersareonlylegitimizedin
+theresponsesandreceptionofthosewillingtofollowthem.
+Thiscreatesobviouschallengesforleadershipscholars.Itmeansthatifwearegoingtostudytheleadershipprocessweneed
+tostoprelyingonourbroadlabelsofleaderandfollowerandbetterunderstandthenatureofleadingandfollowing.Bedeianand
+Hunt (2006) call this the “truth-in-advertising” claim in leadership: We study managers (“leaders”), but do we really study
+leadership? This concern is also raised in Fairhurst and Antonakis (2012), who describe the problem as coming from our
+observationalunits(individualperceptions)beingoutoflinewithourontologicalunits(leadershipandfollowershipbehaviors
+andprocesses).Ifweareinterestedinstudyingleadingandfollowingthenweneedtoadoptmethodologicalapproachesthat
+allowustoseethesebehaviorsinaction(Fairhurst&Uhl-Bien,2012).Someevenarguethatourleadershipmeasuressufferfrom
+attributionalbiasthatshouldmakeusquestionwhetherwhatwearetappingintoisreallyageneralhaloeffect,ratherthanthe
+theoreticalconstructswepurporttobemeasuring(Martinko,Harvey,Sikora,&Douglas,2011;cf.Phillips&Lord,1981;Rushet
+al.,1977;VanKnippenberg&Sitkin,2013).
+4.Aformaltheoryoffollowership
+Despitetheobviousneedtobetterunderstandtheroleandimpactoffollowersandfollowingintheco-creationofleadership,
+westillknowlittleabouttheseissues.Forfollowershipresearchtoadvance,oneofthebiggestneedsistoclearlydefineand
+identifytheoreticalconstructsforthestudyoffollowership.Therefore,inthissectionwedrawfromourreviewtointroducea
+formal theory of followership. In our discussion we follow established guidelines for developing theory (Bacharach, 1989;
+Suddaby,2010;Sutton&Staw,1995).Webeginbyprovidingaclearconceptualdefinitionoftheconstruct.Wethendefinethe
+boundariesofthetheory,identifyingwhatfollowershipisandwhatitisnot.Fromthisweestablishtheoreticalconstructsand
+outline directions for future research in the study of followership using two theoretical models based on our review above:
+role-basedandconstructionistapproaches.
+4.1.Clearconceptualdefinition
+As statedin ourearlier definition, followership theoryis thestudy ofthe natureandimpact offollowers andfollowingin the
+leadershipprocess.Thismeansthattheconstructoffollowershipincludesafollowerrole(i.e.,apositioninrelationtoleaders),
+followingbehaviors(i.e.,behaviorsinrelationtoleaders),andoutcomesassociatedwiththeleadershipprocess.Ifadoptinga
+constructionist(process)approach,itinvolvesconsiderationoftheco-constructednatureoftheleadershipprocess.
+4.2.Definingtheoreticalboundaries
+Theoretical validity requires that we establish clear boundaries and a nomological network for the study of followership
+(Bacharach,1989;Cronbach&Meehl,1955).Followershipisthecharacteristics,behaviorsandprocessesofindividualsactingin
+relationtoleaders.Itisnotgeneralemployeebehavior.Thismeansthatthetermfollowerisnotthesameasemployee.Fora
+constructtoqualifyasfollowershipitmustbeconceptualizedandoperationalized:(a)inrelationtoleadersortheleadership
+process,and/or(b)incontextsinwhichindividualsidentifythemselvesinfollowerpositions(e.g.,subordinates)orashaving
+followeridentities(Collinson,2006;DeRue&Ashford,2010).
+Constructsinfollowershipresearchmustalsobeoperationalizedwithinthisnomologicalnetwork(Cronbach&Meehl,1955).
+WelisttheoreticalconstructsandasamplingofvariablesthatcouldbeincludedinthestudyoffollowershipinFig.1.Examplesof
+followershipconstructsare:
+• Followershipcharacteristics:characteristicsthatimpacthowonedefinesandenactsfollowership.(Examplesmayincluderole
+orientations, motivations,intellectual and analytical abilities, affect, and social constructions of followersand/orindividuals
+identifiedasengaginginfollowingbehaviors.)
+• Followershipbehaviors:behaviorsenactedfromthestandpointofafollowerroleorintheactoffollowing.(Examplesincludethe
+multipleexpressionsofovertfollowershipincludingobeying,deferring,voicing,resisting,advising,etc.)
+• Followershipoutcomes:outcomesoffollowershipcharacteristicsandbehaviorsthatmayoccurattheindividual,relationship
+andwork-unitlevels.(Examplesincludeleaderreactionstofollowers,suchasburnoutorcontempt;followeradvancementor
+dismissal;whetherleaderstrustandseekadvicefromfollowers;andhowfollowershipcontributestotheleadershipprocess,
+e.g.,leadershipandorganizationaloutcomes.)
+In selecting variables for the study of followership, a key consideration must be whether it fits the followership domain.
+Followershiptheoryisnotthestudyofleadershipfromthefollowerperspective.Itisthestudyofhowfollowersviewandenact
+followingbehaviorsinrelationtoleaders.Thiscontextnecessarilyinvolvesissuesofpower,control,motivationalintentions(e.g.,
+motivation to lead, resistance to change), personal characteristics (e.g., dominance, Machiavellianism, political skill), climate
+(empoweringversusauthoritarian),behavioralintentions,anddesiredoutcomesoffollowers.Therefore,wewouldnotexpectthat
+
+## Page 15
+
+M.Uhl-Bienetal./TheLeadershipQuarterly25(2014)83–104 97
+Followership Characteristics Leader Characteristics Followership (and Leadership) Followership Outcomes
+Behaviors
+Follower Traits Leader Power Followership Individual Follower
+Political Skill Dependence on Leader Behaviors Outcomes
+Goal Orientation Empowerment Proactive Behavior Informal Leadership
+Machiavellianism Initiative Taking High Potential
+Obedience Follower Effectiveness
+Follower Leader Perceptions Resistance Organizational
+Motivation and Constructions Advancement
+Upward Influence
+Mission Leader Identity
+Consciousness Voice Individual Leader
+LIFTs
+Motivation to Lead Dissent Outcomes
+Perceived Follower
+Power Orientation Support Feedback Seeking Energy/Burnout/Motivation
+Advising Leader Derailment
+Satisfaction with
+Follower Follower
+Perceptions and
+Leadership Relationship Outcomes
+Constructions
+Behaviors
+Leader Affect LMX
+FIFTs
+Positive and negative Consultation with Trust
+Role Orientations state and trait affect Followers
+Romance of Feedback Seeking Leadership Process
+Leadership Democratic/ Outcomes
+Followership Autocratic Decision Higher Ethical Thinking/
+Identity Making Unethical Conduct
+Development of Advancing Change /
+Followers Maintaining the Status Quo
+Mission Fulfillment
+Goal Accomplishment
+Fig.1.Theoreticalconstructsandvariablesforthestudyoffollowership.
+becauseavariablehasbeenusedinleadershipresearchitnecessarilymeansitshouldbeusedinfollowershipresearch.Norwouldany
+traitsorcharacteristicsofindividualsnecessarilyapplytofollowership.Variablesselectedmustconsidertheuniquecontextand
+research questions associated with followership. In other words, followership research should not simply mirror or replicate
+leadershipresearch.Insteadwemustconsidertheuniquecontextsinwhichfollowingtakesplaceandtheorizeandoperationalize
+appropriately.
+4.3.Conceptualframeworkanddirectionsforfutureresearch
+Foraframeworktocountasatheoryitmustspecifyproposedrelationshipsamongthetheoreticalconstructs(Sutton&Staw,
+1995).Consistentwiththis,weidentifytwopotentialtheoreticalframeworksforthestudyoffollowership.Thefirstisdepictedin
+Fig.2andrepresentstherole-basedapproach.Werefertothismodelas“reversingthelens,”sinceitillustrateshowfollowers'
+characteristics and behaviors may affect proximal outcomes of follower and leader behaviors, and more distal outcomes like
+leadershipprocessesandorganizationaleffectiveness.Thisframeworkhighlightshowfollowersaffectfollowershipoutcomesat
+theindividual,dyad,andworkunitlevelofanalysis.
+The secondframeworkis depictedin Fig. 3 and represents theconstructionist approach.We referto it as “theleadership
+process,” since it illustrates a connectionist system involving leaders (or leading) and followers (or following) interacting
+togetherincontexttoco-constructleadershipandfollowershipaswellastheiroutcomes.Inthissense,ithighlightsleadershipas
+adynamicprocessthatoccursintheinteractionsofindividualsengagedinleadingandfollowing.
+Thesemodelsarenottheonlypossibleframeworksforthestudyoffollowership,butwechosethemtobeconsistentwiththe
+emerging followership approaches identified in our review. For each framework we describe the model and outline a broad
+agendaforfutureresearch.
+4.3.1.“Reversingthelens”
+The“reversingthelens”approach(seeFig.2)centersoninvestigatingwaysthatfollowersconstrueandenacttheirfollower
+role,andtheoutcomesassociatedwithfollowerrolebehavior.Ratherthanstudyingleadersastheentitiesthat“cause”outcomes,
+thisframeworkfocusesonstudyingfollowers'characteristicsandbehaviorsasantecedents(i.e.,causalagents)offollowership
+outcomes(Shamir,2007)attheindividual,relationshipandworkunitlevelsofanalysis.
+
+## Page 16
+
+98 M.Uhl-Bienetal./TheLeadershipQuarterly25(2014)83–104
+Leader Perceptions and
+Behavior
+Followership Outcomes
+Followership Followership Behavior
+Characteristics
+Fig.2.Reversingthelens.
+A followership role is often ambiguous and open to interpretation (cf. Parker, 2007). As such, our framework focuses on
+understandingthefactorsthatinfluencehowoneconstructstheirfollowerrole(e.g.,goalorientationorpowerorientation),the
+variousfollowershiproleconstructionsororientationsthatexist(e.g.,passive,proactive,resistantor“non-following”),andhow
+leadershipandorganizationalcontextsinfluenceone'sconstructions(e.g.,leaderstyle,authoritarianclimate)(cf.Carstenetal.,
+2010).Giventhatroleperceptionsandorientationsdirectlyimpactrolebehaviors(Katz&Kahn,1978;Selznick,1957),these
+followershipcharacteristicsareimportantdriversofhowfollowershipisenactedattheindividualandgrouplevels.
+Inadditiontounderstandinghowindividuals(orgroups)constructthefollowerrole,ourframeworkdenotesthedifferent
+ways in which the follower role can be enacted, consistent with the discussion of follower typologies above. From a role
+perspective,theyarebehaviorsthatfollowers(i.e.,subordinates)demonstratewhileinteractingwithleaders(i.e.,managers)in
+organizations.Suchbehaviorsmayservetoadvancetheleaderortheleadershipprocess(i.e.,voiceorinitiativetaking),derailthe
+leaderordetractfromtheleadershipprocess(e.g.,dysfunctionalresistance),oroverthrowtheleaderaltogether(Detert&Burris,
+2007; Tepper et al., 2006). Alternatively, followers may engage in behaviors that neither help nor hurt the leader (e.g.,
+disengagement)orpassivelyacceptwhateverdirectivetheleaderhandsdown(i.e.,obedience)(Uhl-Bien&Carsten,2007).These
+various followership behaviors will produce different outcomes depending on the leader, the context, and the goals to be
+accomplished(Carstenetal.,2010).
+Followershipoutcomesresultfromfollowershipcharacteristicsandbehaviorsintheleadershipprocess.Suchoutcomescanoccur
+attheindividualleaderlevel(e.g.,leaderburnout),theindividualfollowerlevel(e.g.,beingidentifiedasaninformalleaderorhigh
+potential),therelationshiplevel(e.g.,LMX),orthework-unitlevelwithregardtoleadershipprocesses(e.g.,missionfulfillment,
+accomplishmentofgoals).Forexample,followerscanaffectleadersattheindividuallevelwithregardtotheirmotivationandenergy
+Leading Behaviors
+Leadership Outcomes
+Following Behaviors
+Fig.3.Theleadershipprocess.
+
+## Page 17
+
+M.Uhl-Bienetal./TheLeadershipQuarterly25(2014)83–104 99
+(cf.Gooty,Connelly,Griffith,&Gupta,2010);theycanalsoinfluencethewaytheleaderusespowerandinfluencetactics,orthe
+leader'sabilitytounderstandproblemsandpriorities(cf.Yukl&Falbe,1990).Afollower'sbehaviorislikelytobeinfluencedbyhow
+theyaretreatedbytheleader(e.g.,followerdevelopment,followerrepression),whethertheleaderperceivesthemaseffective,or
+whethertheyadvancewithintheorganization.Attherelationshiplevel,followershipbehaviorscanaffectLMXandtheleveloftrust
+leadershaveinfollowers.Attheworkunitororganizationallevel,followershipbehaviorscanimpactunit-leveldecisionmaking,
+problemsolving,ethicalconduct,andtheabilityofadepartmentororganizationtoadaptandchange.
+Whatisinterestingabouttheseoutcomesisthattheybegintoexplore“theleaderside”oftheleadershipstory(i.e.,how
+leaders are affected by followers). Rather than simply agents of leadership, role-based followership approaches focus on
+investigatingleaderwants,needs,attitudes,motivations,emotions,andeffectivenessasoutcomesoffollowershipcharacteristics,
+behaviorsandstyles.Exploringtheleadersideofthestorymakessense,particularlyintoday'senvironment,asweknowthe
+demandsonleadersaremorechallengingwiththechangingfaceoffollowershipandpowerintheworkplace(Bennis,2000).
+Moreover,inmostsituationsleaders(i.e.,managers)inherittheirfollowers(i.e.,subordinates)whentheyenteraworkunit,and
+thosefollowersalreadyhavepatternsofrelationshipsandbehaviors.Althoughleaderscantrytobreakorinfluencethesepatterns
+ofbehavior,theycannotfullycontrolthem(Biggart&Hamilton,1984;Streatfield,2001).Reversingthelenscausesustothink
+aboutleadersasrecipientsoffollowerbehaviorsandsupport(orlackofsupport),andexamineissuesofreversecausalityraised
+intheliteraturebyLowinandCraig(1968)andHerrold(1977)butneverfullyexplored.
+4.3.2.“Theleadershipprocess”
+The“leadershipprocess”approach(seeFig.3)isinterestedinunderstandinghowleadersandfollowersinteracttogetherin
+context to co-create leadership and its outcomes. It does not assume that leading and following are equated with one's
+hierarchical position in an organization. Rather, it acknowledges that managers can also follow (and might not lead), and
+subordinatescanalsolead(andmightnotfollow).Inthe“leadershipprocess”framework,theprimaryquestionofinterestfor
+followershipiswhatcharacterizesfollowingbehaviors,andhowdofollowingbehaviorsworktogetherwithanother'sleading
+behaviorstoconstructleadershipanditsoutcomes?
+Thebasicassumptionofaleadershipprocessapproachisthatleadershipcanonlyoccurthroughcombinedactsofleadingand
+following. If someone makes a leadership (influence) attempt(s) but it is not responded to with following (deference)
+behavior(s) then it is not leadership (cf. Shamir, 2007, 2012; Uhl-Bien & Pillai, 2007). The constructionist approach to
+followership,therefore,studieshowindividualsorcollectivesengageinfollowingbehaviorsinwaysthatconstructleadership.
+Following behaviors can be those that “grant” power and influence to another. These behaviors are associated with an
+individual“claiming”afolloweridentityorgrantingaleaderidentity(DeRue&Ashford,2010).Suchbehaviorsmaytaketheform
+ofsuccumbingtothewishesordesiresofanotherbydeferring,obeying,orcomplying.Followingbehaviorscouldalsoinvolve
+“co-producing”leadershipoutcomesbystilldeferringtoanotherandgrantingtheirleaderclaim,butalsoadvising,challenging,
+correctingorpersuadinginarespectfulandtrustingwaytogeneratemoreeffectiveoutcomes.
+Bythinkingaboutfollowershipasbehaviorsand relational interactionsweopenup possibilitiesforseeingleadershipand
+followership inmoremeaningfulways(Uhl-Bien&Ospina,2012).Afocus onfollowingbehaviorsallowsustoconsiderhow
+patternsofleadingandfollowingbehaviorsworktogethertoconstructleadership(Fairhurstetal.,1987;Fairhurstetal.,1995;
+Larsson& Lundholm,2013). Questions raisedby this perspective are: Whatdo patterns of leading and followinglook like in
+effective leadership and followership? What kinds of following behaviors are effective (and ineffective) for those in formal
+leadershippositions?Can managersfollowtoomuch ortoolittle? How far can subordinatesgo withco-producing following
+behaviors,andwhenwillmanagersacceptandrejecttheirinfluenceattempts?Aresomeco-producingfollowingbehaviorsmore
+effectivethanothers?
+Aleadershipprocessapproachalsoallowsustoinvestigatesituationsof“non-following.”Non-followingoccurswhenone's
+leadingattemptsarenotrespondedtowithfollowingbehaviors.Forexample,non-followingcanoccurinformalhierarchical
+roleswhenamanager'sleadingbehaviorsarerespondedtowithsubordinates'resistancebehaviors.Resistancebehaviorscould
+bepassive,suchasignoringorwithdrawing(Tepperetal.,2001),whichessentiallynegatesaleadingbehaviorattempt(s).Or
+resistancebehaviorscouldbeactive,forexample,whenoneperson's(e.g.,amanager's)leadingattemptismetwithanother's
+(e.g.,asubordinate'sorgroup's)leadingattempt,essentiallyconstructingapowerstruggle(Bennett,1988).
+Right now these non-following situations are probably indicated by studies showing ineffective leadership or low quality
+leader–member relationships. But because our predominant approaches in leadership research have been survey data that
+captureindividualperspectives,weknowlittleaboutthenatureofactualfollowingandnon-followingbehaviorsintheleadership
+process.Toalignwiththeontologyandepistemologyoftheleadershipprocessmodel,researchinthisareawouldneedtoinclude
+arangeofmethodologies,andnotjustsurveymeasures.Suchmethodologiescouldincludequalitativeapproaches(Creswell,
+2012), discursive approaches (Fairhurst & Uhl-Bien, 2012), process studies (Langley, 1999), experience based sampling (Sin,
+Nahrgang,&Morgeson,2009),experimentalstudies(Avolio,Reichard,Hannah,Walumbwa,&Chan,2009),etc.
+5.Conclusion
+Followershiptheoryofferspromiseforreinvigoratingleadershipresearchinrichnewways.It:
+• Movesusbeyondleader-centricviewstorecognizetheimportanceoffollowerroles,followingbehaviors,andtheleadership
+process.
+
+## Page 18
+
+100 M.Uhl-Bienetal./TheLeadershipQuarterly25(2014)83–104
+• Distributesresponsibilityforconstructingleadershipanditsoutcomestoallplayers(leadersandfollowers)intheleadership
+process.
+• Focusesusonidentifyingmoreandlesseffectivefollowershipbehaviors.
+• Bringsincontextasembeddedintheleadershipprocess.
+• Recognizesthatleadershipcanflowinalldirections,e.g.,notonlydownwardbutalsoupwardinahierarchywhensubordinates
+engageinleadingbehaviors.
+• Allowsustounderstandwhyandhowmanagersarenotalwayseffectiveleaders(i.e.,whentheyarenotabletoco-construct
+leadershipwiththeirsubordinates).
+• Callsforfollowershipdevelopment(andfollowershipcompetencies),notjustleadershipdevelopment.
+Thefullpromiseoffollowershiptheorycanonlybemet,however,ifwearedisciplinedtoremaintruetothefollowership
+construct.Atemptationforleadershipresearcherswillbetosimplydowhatwedidinleadershipstudiesbutchangeourcausal
+paths and dependent variables. As we describe in our Defining theoretical boundaries section above, however, followership
+theoryisnotthemirrorofleadershiptheory.Itrequiresnewwaysofthinking,newtypesoftheorizing,andoperationalizingand
+testingdifferentkindsofvariables.
+Averyrealconcernwehaveformovingforwardisthatleadershipresearcherswillflocktotherole-basedapproachandnot
+fullyconsidertheleadershipprocessapproach.Wetendtostudywhatiseasy(Lord&Brown,2001).Moreoverourfieldand
+journals get locked into certain methodological approaches (e.g., Leadership Quarterly tends toward quantitative, often at the
+expenseofqualitative,cf.Bryman,2004).Butfollowershipistheorizedasamulti-paradigmaticframework.Itcallsforscholarsto
+conductresearchacrossarangeofparadigmaticassumptionsandmethodologicalapproaches:role-basedapproachesaremore
+entity/postpositive and leadership process approaches are more constructionist/interpretivist (Ospina & Uhl-Bien, 2012).
+Moreover,itcallsfortheoreticalmodelstobegeneratedinductively(e.g.,usingqualitativeresearch)aswellasdeductively(e.g.,
+using quantitative research). And for true scholarly advances, followership researchers should draw insights from across all
+paradigmaticperspectivesandfindingsonfollowership.
+InmovingforwardwithfollowershiptheoryweechoShamir's(2007)callforresearchthatnotonly“reversesthelens”but
+alsotakesa“balanced”approachthatviewsbothleadersandfollowersasco-producersofleadershipanditsoutcomes(seealso
+Uhl-Bien&Ospina,2012).Inaddition,weheedVanKnippenbergand Sitkin's(2013)admonishmentoftransformationaland
+charismaticleadershipasastrongwarningcallforresearchonfollowershiptheory:Asweadvancefollowershiptheory,wemustbe
+carefulnottoreplicateourmistakesofthepast(seeVanKnippenberg&Sitkin,2013).Wesuggestwecandothisbypayingcareful
+attentiontostrongtheory-building (Bacharach,1989),adoptingarange ofmethodologicalapproaches(Fairhurst&Uhl-Bien,
+2012),sufficientlyspecifyingcausalmodelswiththeoreticallyandempiricallydistinctpathsoffollowership(VanKnippenberg&
+Sitkin,2013),notconfoundingfollowershipwithitseffects(VanKnippenberg&Sitkin,2013),andengaginginparadigminterplay
+amongfollowershipresearchersusingmultipleparadigmaticperspectives(Uhl-Bien&Ospina,2012).
+In this article we set the stage for this process by offering a clear conceptual definition of followership and two general
+frameworksforresearchonfollowershiptheorybasedonasystematicreviewoftheliterature.Weseektosparkmorein-depth
+theorizingamongfollowershipresearchersthattakesintocarefulconsiderationtheuniquefollowershipconstructandcontext.
+By advancinga broadframeworkof followership that brings togetherscholarsacross multiple paradigmatic perspectives, we
+believefollowershipresearchcanprovidedeepnewinsightintothenatureofleadershipandfollowershipinorganizations.Inthis
+way,wewillcontributenotonlytoourunderstandingoffollowership,butalsoaddnewunderstandingtowhatitmeanstobe
+leadersandfollowersinthefaceofever-increasingworkforcedemands.
+References
+Ansari,M.A.,&Kapoor,A.(1987).Organizationalcontextandupwardinfluencetactics.OrganizationalBehaviorandHumanDecisionProcesses,40(1),39–49.
+Ashford,S.J.,&Cummings,L.L.(1985).Proactivefeedbackseeking:Theinstrumentaluseoftheinformationenvironment.JournalofOccupationalPsychology,58,
+61–91.
+Ashforth,B.(1989).Theexperienceofpowerlessnessinorganizations.OrganizationalBehaviorandHumanDecisionProcesses,43,207–242.
+Avolio,B.J.,Reichard,R.J.,Hannah,S.T.,Walumbwa,F.O.,&Chan,A.(2009).Ameta-analytic reviewofleadershipimpactresearch: Experimentaland
+quasi-experimentalstudies.TheLeadershipQuarterly,20(5),764–784.
+Bacharach,S.B.(1989).Organizationaltheories:Somecriteriaforevaluation.TheAcademyofManagementReview,14(4),496–515.
+Baker,S.D.(2007).Followership:Theoreticalfoundationforacontemporaryconstruct.JournalofLeadershipandOrganizationalStudies,14(1),50–60.
+Barnard,C.(1938).Thefunctionsoftheexecutive.Cambridge,MA:HarvardUniversityPress.
+Bass,B.M.(1985).Leadershipandperformancebeyondexpectations.NewYork:FreePress.
+Bass,B.M.(2008).TheBasshandbookofleadership (4thed.).NewYork:FreePress.
+Bass,B.M.,&Riggio,R.E.(2006).Transformationalleadership (2nded.).Mahwah,NJ:LawrenceErlbaum.
+Bedeian,A.G.,&Hunt,J.G.(2006).Academicamnesiaandvestigialassumptionsofourforefathers.TheLeadershipQuarterly,17(2),190–205.
+Bennett,J.B.(1988).Powerandinfluenceasdistinctpersonalitytraits:Developmentandvalidationofapsychometricmeasure.JournalofResearchinPersonality,
+22,361–394.
+Bennis,W.G.(2000).Managingthedream:Reflectionsonleadershipandchange.NewYork:Perseus.
+Biggart,N.W.,&Hamilton,G.G.(1984).Thepowerofobedience.AdministrativeScienceQuarterly,29(4),540–549.
+Bjugstad,K.,Thach,E.C.,Thompson,K.J.,&Morris,A.(2006).Afreshlookatfollowership:Amodelformatchingfollowershipandleadershipstyles.Journalof
+BehavioralandAppliedManagement,7,304–319.
+Blass,T.(2009).FromNewHaventoSantaClara:AhistoricalperspectiveontheMilgramobedienceexperiments.AmericanPsychologist,64(1),37–45.
+Bligh,M.(2011).Followershipandfollower-centeredapproaches.InA.Bryman,D.Collinson,K.Grint,B.Jackson,&M.Uhl-Bien(Eds.),TheSageHandbookof
+Leadership(pp.425–436).London:Sage.
+Bligh,M.C.,Kohles,J.C.,&Meindl,J.R.(2004).Chartingthelanguageofleadership:AmethodologicalinvestigationofPresidentBushandthecrisisof9/11.Journal
+ofAppliedPsychology,89(3),562–574.
+
+## Page 19
+
+M.Uhl-Bienetal./TheLeadershipQuarterly25(2014)83–104 101
+Blumer,H.(1969).Symbolicinteractionism:Perspectiveandmethod.EnglewoodCliffs,NJ:Prentice-Hall.
+Bolino,M.C.(1999).Citizenshipandimpressionmanagement:Goodsoldiersorgoodactors?AcademyofManagementReview,24,82–98.
+Bono,J.E.,&Judge,T.A.(2004).Personalityandtransformationalandtransactionalleadership:Ameta-analysis.JournalofAppliedPsychology,89(5),901–910.
+Bryman,A.(2004).Qualitativeresearchonleadership:Acriticalbutappreciativereview.TheLeadershipQuarterly,15(6),729–769.
+Burger,J.M.(2009).ReplicatingMilgram:Wouldpeoplestillobeytoday?AmericanPsychologist,64(1),1–11.
+Burkitt,I.(1991).Socialselves:Theoriesofthesocialformationofpersonality.London:Sage.
+Cable,D.M.,&Judge,T.A.(2003).Managers'upwardinfluencetacticstrategies:Theroleofmanagerpersonalityandsupervisorleadershipstyle.Journalof
+OrganizationalBehavior,24(2),197–214.
+Carsten,M.,&Uhl-Bien,M.(2012).Followerbeliefsintheco-productionofleadership:Examiningupwardcommunicationandthemoderatingroleofcontext.
+JournalofPsychology,220(4),210–220.
+Carsten,M.,&Uhl-Bien,M.(2013).Ethicalfollowership:Anexaminationoffollowershipbeliefsandcrimesofobedience.JournalofLeadership&Organizational
+Studies,20(1),45–57.
+Carsten,M.,Uhl-Bien,M.,&Jaywickrema,A.(2013).“Reversingthelens”inleadershipresearch:Investigatingfollowerroleorientationandleadershipoutcomes.New
+Orleans,Louisiana:PresentedattheSouthernManagementAssociation(SMA)AnnualMeeting.
+Carsten,M.K.,Uhl-Bien,M.,West,B.J.,Patera,J.L.,&McGregor,R.(2010).Exploringsocialconstructsoffollowership:Aqualitativestudy.TheLeadership
+Quarterly,21(3),543–562.
+Chaleff,I.(1995).Thecourageousfollower:Standinguptoandforourleaders.SanFrancisco,CA:Barrett-KoehlerPublishers,Inc.
+Chaleff,I.(2003).Thecourageousfollower:Standinguptoandforourleaders (2nded.).SanFrancisco:Berret-KoehlerPublishers,Inc.
+Chaleff,I.(2008).Creatingnewwaysoffollowing.InR.Riggio,I.Chaleff,&J.Lipman-Blumen(Eds.),Theartoffollowership:Howgreatfollowerscreategreatleaders
+andorganizations(pp.67–87).SanFrancisco:Jossey-Bass.
+Chemers,M.M.(2001).Leadershipeffectiveness:Anintegrativereview.InM.A.Hogg,&R.S.Tindale(Eds.),Blackwellhandbookofsocialpsychology:Group
+processes(pp.376–399).Oxford,UK:Blackwell.
+Collinson,D.(2006).Rethinkingfollowership:Apost-structuralistanalysisoffolloweridentities.TheLeadershipQuarterly,17(2),179–189.
+Conger,J.A.,&Kanungo,R.N.(1987).Towardabehavioraltheoryofcharismaticleadershipinorganizations.AcademyofManagementReview,12(4),637–647.
+Conger,J.A.,&Kanungo,R.N.(1988).Theempowermentprocess:Integratingtheoryandpractice.AcademyofManagementReview,13(3),471–482.
+Courpasson,D.,&Dany,F.(2003).Indifferenceorobedience?Businessfirmsasdemocratichybrids.OrganizationStudies,24(8),1231–1260.
+Creswell,J.W.(2012).Qualitativeinquiryandresearchdesign:Choosingamongfiveapproaches (3rded.)ThousandOaks,CA:SagePublications.
+Cronbach,L.J.,&Meehl,P.E.(1955).Constructvalidityinpsychologicaltests.Psychologicalbulletin,52(4),281–302.
+Dansereau,F.,Graen,G.,&Haga,W.J.(1975).Averticaldyadlinkageapproachtoleadershipwithinformalorganizations:Alongitudinalinvestigationoftherole
+makingprocess.OrganizationalBehaviorandHumanPerformance,13(1),46–78.
+DeCremer,D.,&VanDijk,E.(2005).Whenandwhyleadersputthemselvesfirst:Leaderbehaviourinresourceallocationsasafunctionoffeelingentitled.
+EuropeanJournalofSocialPsychology,35(4),553–563.
+DeVries,R.E.,&VanGelder,J.(2005).Leadershipandtheneedforleadership:Testinganimplicitfollowershiptheory.InB.Schyns,&J.R.Meindl(Eds.),Implicit
+leadershiptheories:Essaysandexplorations(pp.277–304).Greenwich,CN:InformationAgePublishers.
+DeRue,S.,&Ashford,S.(2010).Whowillleadandwhowillfollow?Asocialprocessofleadershipidentityconstructioninorganizations.AcademyofManagement
+Review,35(4),627–647.
+Detert,J.R.,&Burris,E.R.(2007).Leadershipbehaviorandemployeevoice:Isthedoorreallyopen?AcademyofManagementJournal,50(4),869–884.
+Dinh,J.E.,&Lord,R.G.(2012).Implicationsofdispositionalandprocessviewsoftraitsforindividualdifferenceresearchinleadership.TheLeadershipQuarterly,
+23(4),651–669.
+Dvir, T., &Shamir, B.(2003). Follower developmental characteristics aspredicting transformational leadership: A longitudinal field study. TheLeadership
+Quarterly,14(3),327–344.
+Eden,D.,&Leviatan,U.(1975).Implicitleadershiptheoryasadeterminantofthefactorstructureunderlyingsupervisorybehaviorscales.JournalofApplied
+Psychology,60(6),736–741.
+Ehrhart,M.G.,&Klein,K.J.(2001).Predictingfollowers'preferencesforcharismaticleadership:Theinfluenceoffollowervaluesandpersonality.TheLeadership
+Quarterly,12(2),153–179.
+Epitropaki,O.,&Martin,R.(2004).Implicitleadershiptheoriesinappliedsettings:Factorstructure,generalizability,andstabilityovertime.JournalofApplied
+Psychology,89(2),293–310.
+Epitropaki,O.,Sy,T.,Martin,R.,Tram,S.,&Topakas,A.(2013).Implicitleadershipandfollowershiptheories‘IntheWild:’Takingstockofleadershipprocessing
+approachesinorganizationalsettings.TheLeadershipQuarterly,24(6)858–851.
+Fairhurst,G.,&Antonakis,J.(2012).Dialogue:Aresearchagendaforrelationalleadership.InM.Uhl-Bien,&S.Ospina(Eds.),Advancingrelationalleadership
+research(pp.433–459).Charlotte,NC:InformationAgePublishers.
+Fairhurst,G.T.,&Grant,D.(2010).Thesocialconstructionofleadership:Asailingguide.ManagementCommunicationQuarterly,24(2),171–210.
+Fairhurst,G.T.,Green,S.G.,&Courtright,J.A.(1995).Inertialforcesandtheimplementationofasocio-technicalsystemsapproach:Acommunicationstudy.
+OrganizationScience,6,168–185.
+Fairhurst,G.T.,&Hamlett,S.R.(2003).Thenarrativebasisofleader–memberexchange.InG.B.Graen(Ed.),LMXleadership:Theseries(pp.117–144).Charlotte,
+NC:InformationAgePublishers.
+Fairhurst, G. T., Rogers, L. E., & Sarr, R. (1987). Manager–subordinate control patterns and judgments about the relationship. In M. McLaughlin (Ed.),
+Communicationyearbook10(pp.395–415).BeverlyHills,CA:Sage.
+Fairhurst,G.T.,&Uhl-Bien,M.(2012).Organizationaldiscourseanalysis(ODA):Examiningleadershipasarelationalprocess.TheLeadershipQuarterly,23(6),
+1043–1062.
+Falbe,C.M.,&Yukl,G.(1992).Consequencesformanagersofusingsingleinfluencetacticsandcombinationsoftactics.AcademyofManagementJournal,35(3),
+638–652.
+Farmer,S.M.,Maslyn,J.M.,Fedor,D.B.,&Goodman,J.S.(1997).Puttingupwardinfluencestrategiesincontext.JournalofOrganizationalBehavior,18(1),17–42.
+Fiedler,F.E.(1967).Atheoryofleadershipeffectiveness.NewYork:McGraw-Hill.
+Fleishman,E.A.(1953).Thedescriptionofsupervisorybehavior.JournalofAppliedPsychology,37,1–6.
+Follett,M.P.(1927).Leaderandexpert.InH.C.Metcalf(Ed.),Thepsychologicalfoundationsofmanagement(pp.220–243).Chicago:Shaw.
+Follett,M.P.(1949).Theessentialsofleadership.London:ManagementPublicationsTrust.
+Foucault,M.(1977).Disciplineandpunish.London:AllenUnwin.
+Foucault,M.(1979).Thehistoryofsexuality.London:AllenUnwin.
+Frese,M.,&Fay,D.(2001).Personalinitiative:Anactiveperformanceconceptforworkinthe21stcentury.ResearchinOrganizationalBehavior,23,133–187.
+Gardner,J.W.(1990).Onleadership.NewYork:FreePress.
+Gerber,G.W.(1988).Leadershiprolesandthegenderstereotypetraits.SexRoles,18(11/12),649–668.
+Giddens,A.(1984).Theconstitutionofsociety.Cambridge:Polity.
+Goffman,E.(1959).Thepresentationofselfineverydaylife.NewYork:DoubledayAnchor.
+Gooty,J.,Connelly,S.,Griffith,J.,&Gupta,A.(2010).Leadership,affect,andemotions:Astateofthesciencereview.TheLeadershipQuarterly,21(6),979–1004.
+Graen,G.,Novak,M.A.,&Sommerkamp,P.(1982).Theeffectsofleader–memberexchangeandjobdesignonproductivityandsatisfaction:Testingadual
+attachmentmodel.OrganizationalBehaviorandHumanPerformance,30(1),109–131.
+Graen,G.B.,&Scandura,T.A.(1987).Towardapsychologyofdyadicorganizing.ResearchinOrganizationalBehavior,9,175–208.
+Graen,G.B.,&Uhl-Bien,M.(1995).Relationship-basedapproachtoleadership:Developmentofleader–memberexchange(LMX)theoryofleadershipover
+25years:Applyingamulti-levelmulti-domainperspective.TheLeadershipQuarterly,6(2),219–247.
+
+## Page 20
+
+102 M.Uhl-Bienetal./TheLeadershipQuarterly25(2014)83–104
+Graham,P.(2003).MaryParkerFollett:Prophetofmanagement.Maryland:BeardBooks.
+Grant,A.,&Ashford,S.(2008).Thedynamicsofproactivityatwork.ResearchinOrganizationalBehavior,28,3–34.
+Grant,A.M.,&Hofmann,D.A.(2011).Roleexpansionasapersuasionprocess:Theinterpersonalinfluencedynamicsofroleredefinition.Organizational
+PsychologyReview,1(1),9–31.
+Grant,A.M.,Parker,S.,&Collins,C.(2009).Gettingcreditforproactivebehavior:Supervisorreactionsdependonwhatyouvalueandhowyoufeel.Personnel
+Psychology,62(1),31–55.
+Heckscher,C.(1994).Definingthepost-bureaucratictype.InC.Heckscher, &A.Donnellon(Eds.),Thepost-bureaucratic organization:Newperspectiveson
+organizationalchange.ThousandOaks:Sage.
+Herrold,D.M.(1977).Two-wayinfluenceprocessesinleader–followerdyads.AcademyofManagementJournal,20(2),224–237.
+Hersey,P.,&Blanchard,K.H.(1977).Managementoforganizationalbehavior:Utilizinghumanresources.EnglewoodCliffs,NJ:Prentice-Hall.
+Higgins,C.A.,Judge,T.A.,&Ferris,G.R.(2003).Influencetacticsandworkoutcomes:ametaanalysis.JournalofOrganizationalBehavior,24(1),89–106.
+Hinrichs,K.T.(2007).Followerpropensitytocommitcrimesofobedience:Theroleofleadershipbeliefs.JournalofLeadership&OrganizationalStudies,14(1),
+69–76.
+Hogan,R.,Curphy,G.J.,&Hogan,J.(1994).Whatweknowaboutleadership:Effectivenessandpersonality.AmericanPsychologist,49(6),493–504.
+Hogg,M.A.(2001).Asocialidentitytheoryofleadership.PersonalityandSocialPsychologyReview,5(3),184–200.
+Hogg,M.A.,&Reid,S.A.(2006).Socialidentity,self‐categorization,andthecommunicationofgroupnorms.CommunicationTheory,16(1),7–30.
+Hogg,M.A.,&Terry,D.I.(2000).Socialidentityandself-categorizationprocessesinorganizationalcontexts.AcademyofManagementReview,25(1),121–140.
+Hollander,E.P.(1958).Conformity,statusandidiosyncrasycredit.PsychologicalReview,65(2),117–127.
+Hollander,E.P.(1971).Style,structureandsettinginorganizationalleadership.AdministrativeScienceQuarterly,16(1),1–9.
+Hollander,E.P.(1985).Leadershipandpower.TheHandbookofSocialPsychology,2,485–537.
+Hollander,E.P.(1986).Onthecentralroleofleadershipprocesses.AppliedPsychology,35(1),39–52.
+Hollander,E.P.(1992a).Theessentialinterdependenceofleadershipandfollowership.CurrentDirectionsinPsychologicalScience,1(2),71–75.
+Hollander,E.P.(1992b).Leadership,followership,self,andothers.LeadershipQuarterly,3(1),43–54.
+Hollander,E.P.(1993).Legitimacy,power,andinfluence:Aperspectiveonrelationalfeaturesofleadership.InM.Chemers,&R.Ayman(Eds.),Leadershiptheory
+andresearch:Perspectivesanddirections(pp.29–47).SanDiego:AcademicPress.
+Hollander,E.P.(2012).Inclusiveleadershipandidiosyncrasycreditinleader–followerrelations.InM.G.Rumsey(Ed.),TheOxfordhandbookofleadership
+(pp.122–143).Oxford,UK:OxfordUniversityPress.
+Hollander,E.P.,&Julian,J.W.(1969).Contemporarytrendsintheanalysisofleadershipprocesses.PsychologicalBulletin,71(5),387–397.
+Hollander,E.P.,&Offermann,L.R.(1990).Powerandleadershipinorganizations:Relationshipsintransition.AmericanPsychologist,45,179–189.
+Hoption,C.B.,Christie,A.M.,&Barling,J.(2012).Submittingtothefollowerlabel:Followership,positiveaffectandextra-rolebehaviors.JournalofPsychology,
+220,221–230.
+Howell,J.,&Mendez,M.(2008).Threeperspectivesonfollowership.InR.Riggio,I.Chaleff,&J.Lipman-Blumen(Eds.),Theartoffollowership:Howgreatfollowers
+creategreatleadersandorganizations(pp.25–40).SanFrancisco:Jossey-Bass.
+Howell,J.M.,&Shamir,B.(2005).Theroleoffollowersinthecharismaticleadershipprocess:Relationshipsandtheirconsequences.AcademyofManagement
+Review,30(1),96–112.
+Judge,T.A.,Bono,J.E.,Ilies,R.,&Gerhardt,M.W.(2002).Personalityandleadership:Aqualitativeandquantitativereview.JournalofAppliedPsychology,87(4),
+765–780.
+Judge,T.A.,Piccolo,R.F.,&Ilies,R.(2004).Theforgottenones?Thevalidityofconsiderationandinitiatingstructureinleadershipresearch.JournalofApplied
+Psychology,89(1),36–51.
+Katz,D.,&Kahn,R.L.(1978).Thesocialpsychologyoforganizations (2nded.)NewYork:JohnWiley&Sons.
+Kellerman,B.(2008).Followership:Howfollowersarecreatingchangeandchangingleaders.Boston:HarvardBusinessPress.
+Kelley,R.E.(1988).Inpraiseoffollowers.HarvardBusinessReview,66(6),141–148.
+Kelley,R.E.(1992).Thepoweroffollowership.NewYork:DoubledayBusiness.
+Kelley,R.E.(2008).Rethinkingfollowership.InR.Riggio,I.Chaleff,&J.Lipman-Blumen(Eds.),Theartoffollowership:Howgreatfollowerscreategreatleadersand
+organizations(pp.5–16).SanFrancisco,CA:Jossey-Bass.
+King,A.J.,Johnson,D.D.,&VanVugt,M.(2009).Theoriginsandevolutionofleadership.CurrentBiology,19(19),1591–1682.
+Kipnis,D.,Schmidt,S.M.,&Wilkinson,I.(1980).Intraorganizationalinfluencetactics:Explorationsingettingone'sway.JournalofAppliedPsychology,65(4),
+440–452.
+Klein,K.J.,&House,R.J.(1995).Onfire:Charismaticleadershipandlevelsofanalysis.TheLeadershipQuarterly,6(2),183–198.
+Korman,A.K.(1966).Consideration,initiatingstructure,andorganizationalcriteria:Areview.PersonnelPsychology,19,349–361.
+Kruse,E.,&Sy,T.(2011).Manipulatingimplicittheoriesbyinducingaffect.AcademyofManagementProceedings,1,1–6.
+Langley,A.(1999).Strategiesfortheorizingfromprocessdata.AcademyofManagementReview,24(4),691–710.
+Larsson,M.,&Lundholm,S.(2013).Talkingworkinabank:Astudyoforganizingpropertiesofleadershipinworkinteractions.HumanRelations,66(8),1101–1129.
+Layder,D.(1994).Understandingsocialtheory.London:Sage.
+Liden,R.C.,Sparrowe,R.T.,&Wayne,S.J.(1997).Leader–memberexchangetheory:Thepastandpotentialforthefuture.InG.R.Ferris(Ed.),Researchin
+personnelandhumanresourcesmanagement,Vol.15.(pp.47–119)Greenwich,CT:JAIPress.
+Lipman-Blumen,J.(2005).Toxicleadership:Whengrandillusionsmasqueradeasnoblevisions.LeadertoLeader,36,29–36.
+Lord,R.G.(1985).Aninformationprocessingapproachtosocialperceptions,leadershipandbehavioralmeasurementinorganizations.ResearchinOrganizational
+Behavior,7,87–128.
+Lord,R.G.(2013).Fourleadershipprinciplesthatareworthremembering.PresentationtotheBiennialMeetingsoftheAustralianIndustrialOrganizationalPsychology,
+PerthAustralia.
+Lord,R.G.,&Brown,D.J.(2001).Leadership,values,andsubordinateself-concepts.TheLeadershipQuarterly,12(2),133–152.
+Lord,R.G.,&Brown,D.J.(2004).Leadershipprocessesandfollowerself-identity.LawrenceErlbaumAssociatesPublishers.
+Lord,R.G.,Brown,D.J.,&Freiberg,S.J.(1999).Understandingthedynamicsofleadership:Theroleoffollowerself-conceptsintheleader/followerrelationship.
+OrganizationalBehaviorandHumanDecisionProcesses,78(3),167–203.
+Lord,R.G.,Brown,D.J.,Harvey,J.L.,&Hall,R.J.(2001).Contextualconstraintsonprototypegenerationandtheirmultilevelconsequencesforleadership
+perceptions.TheLeadershipQuarterly,12(3),311–338.
+Lowin,A.,&Craig,J.R.(1968).Theinfluenceoflevelofperformanceonmanagerialstyle:Anexperimentalobject-lessonintheambiguityofcorrelationaldata.
+OrganizationalBehaviorandHumanPerformance,3(4),440–458.
+Martinko,M.,Harvey,P.,Sikora,D.,&Douglas,S.(2011).Perceptionsofabusivesupervision:Theroleofsubordinates'attributionalstyles.TheLeadership
+Quarterly,22(4),751–764.
+Meindl,J.R.(1990).Onleadership:Analternativetotheconventionalwisdom.ResearchinOrganizationalBehavior,12,159–203.
+Meindl,J.R.,Ehrlich,S.B.,&Dukerich,J.M.(1985).Theromanceofleadership.AdministrativeScienceQuarterly,30,78–102.
+Milgram,S.(1965).Someconditionsofobedienceanddisobediencetoauthority.HumanRelations,18(1),57–76.
+Milgram,S.(1974).Obediencetoauthority:Anexperimentalview.NewYork:Harper&Row.
+Morrison,E.W.(2006).Doingthejobwell:Aninvestigationofpro-socialrulebreaking.JournalofManagement,32(1),5–28.
+Morrison,E.W.,&Milliken,F.J.(2000).Organizationalsilence:Abarriertochangeanddevelopmentinapluralisticworld.AcademyofManagementReview,25(4),
+706–725.
+Morrison,E.W.,&Phelps,C.C.(1999).Takingchargeatwork:Extra-roleeffortstoinitiateworkplacechange.AcademyofManagementJournal,42(4),
+403–419.
+
+## Page 21
+
+M.Uhl-Bienetal./TheLeadershipQuarterly25(2014)83–104 103
+Oc,B.,&Bashshur,M.R.(2013).Followership,leadership,andsocialinfluence.TheLeadershipQuarterly,24(6),919–934.
+Oc,B.,Bashshur,M.R.,&Moore,C.(2013).Stoogesandsqueakywheels:Howfollowersshapeleaderfairnessovertime.Workingpaper.
+Ospina,S.,&Uhl-Bien,M.(2012).Mappingtheterrain:Convergenceanddivergencearoundrelationalleadership.InM.Uhl-Bien,&S.Ospina(Eds.),Advancing
+RelationalLeadershipResearch:ADialogueAmongPerspectives(pp.xix–xlvii).Charlotte,NC:InformationAgePublishers.
+Padilla,A.,Hogan,R.,&Kaiser,R.B.(2007).Thetoxictriangle:Destructiveleaders,susceptiblefollowers,andconduciveenvironments.TheLeadershipQuarterly,
+18(3),176–194.
+Parker,S.K.(2007).‘Thatismyjob’:Howemployeesroleorientationaffectstheirjobperformance.HumanRelations,60(3),403–434.
+Parker,S.K.,Wall,T.D.,&Jackson,P.R.(1997).“That'snotmyjob”:Developingflexibleemployeeworkorientations.AcademyofManagementJournal,40(4),
+899–929.
+Passini,S.,&Morselli,D.(2009).Authorityrelationshipsbetweenobedienceanddisobedience.NewIdeasinPsychology,27(1),96–106.
+Pearce,C.L.,&Conger,J.A.(2003).Sharedleadership:Reframingthehowsandwhysofleadership.ThousandOaks,CA:Sage.
+Phillips,J.S.,&Lord,R.G.(1981).Causalattributionsandperceptionsofleadership.OrganizationalBehaviorandHumanPerformance,28(2),143–163.
+Pratt,M.G.,Rockmann,K.W.,&Kaufmann,J.B.(2006).Constructingprofessionalidentity:Theroleofworkandidentitylearningcyclesinthecustomizationof
+identityamongmedicalresidents.AcademyofManagementJournal,49(2),235–262.
+Ravlin,E.C.,&Thomas,D.C.(2005).Statusandstratificationprocessesinorganizationallife.JournalofManagement,31(6),966–987.
+Rost,J.C.(1993).Leadershipforthetwenty-firstcentury.NewYork:Praeger.
+Rost,J.C.(2008).Followership:Anoutmodedconcept.InR.Riggio,I.Chaleff,&J.Lipman-Blumen(Eds.),Theartoffollowership:Howgreatfollowerscreategreat
+leadersandorganizations(pp.53–64).SanFrancisco,CA:Jossey-Bass.
+Rush, M. C., Thomas, J. C., & Lord, R. G. (1977). Implicit leadership theory: A potential threat to the internal validity of leader behavior questionnaires.
+OrganizationalBehaviorandHumanPerformance,20(1),93–110.
+Sanford,F.H.(1950).Authoritarianismandleadership:Astudyofthefollower'sorientationtoauthority.Philadelphia:InstituteforResearchinHumanRelations.
+Schyns,B.,&Meindl,J.R.(Eds.).(2005).Implicitleadershiptheories:Essaysandexplorations.Greenwich,CT:InformationAgePublishers.
+Selznick,P.(1957).Leadershipinadministration.NewYork:Harper&Row.
+Shalit,A.,Popper,M.,&Zakay,D.(2010).Followers'attachmentstylesandtheirpreferenceforsocialorforpersonalcharismaticleaders.Leadership&Organization
+DevelopmentJournal,31(5),458–472.
+Shamir,B.(2007).Frompassiverecipientstoactiveco-producers:Followers'rolesintheleadershipprocess.InB.Shamir,R.Pillai,M.Bligh,&M.Uhl-Bien(Eds.),
+Follower-centeredperspectivesonleadership:AtributetothememoryofJamesR.Meindl(pp.ix–xxxix).Charlotte,NC:InformationAgePublishers.
+Shamir,B.(2012).Leadershipresearchorpost-leadershipresearch:Advancingleadershiptheoryversusthrowingoutthebabywiththebathwater.InM.
+Uhl-Bien,&S.Ospina(Eds.),Advancingrelationalleadershipresearch:Adialogueamongperspectives(pp.477–500).Charlotte,NC:InformationAgePublishers.
+Sin,H.P.,Nahrgang,J.D.,&Morgeson,F.P.(2009).Understandingwhytheydon'tseeeyetoeye:Anexaminationofleader–memberexchange(LMX)agreement.
+JournalofAppliedPsychology,94(4),1048–1057.
+Sivasubramaniam,N.,Kroeck,K.G.,&Lowe,K.B.(1997).Intheeyeofthebeholder:Folktheoriesofleadershipinanacademicinstitution.JournalofLeadership
+Studies,4(2),27–42.
+Snow,D.A.,&Anderson,L.(1987).Identityworkamongthehomeless:Theverbalconstructionandavowalofpersonalidentities.AmericanJournalofSociology,
+96(6),1336–1371.
+Stogdill,R.M.(1948).Personalfactorsassociatedwithleadership:Asurveyoftheliterature.JournalofPsychology,25(1),35–71.
+Stogdill,R.M.(1950).Leadership,membershipandorganization.PsychologicalBulletin,47(1),1–14.
+Streatfield,P.J.(2001).Theparadoxofcontrolinorganizations.London:Routledge.
+Suddaby,R.(2010).Editor'scomments:Constructclarityintheoriesofmanagementandorganization.TheAcademyofManagementReview,35(3),346–357.
+Sutton,R.I.,&Staw,B.M.(1995).Whattheoryisnot.AdministrativeScienceQuarterly,40(3),371–384.
+Sy,T.(2010).Whatdoyouthinkoffollowers?Examiningthecontent,structure,andconsequencesofimplicitfollowershiptheories.OrganizationalBehaviorand
+HumanDecisionProcesses,113(2),73–84.
+Sy,T.(2011).Ithink,thereforeIdo:Influenceofleaders'andfollowers'implicitfollowershiptheoriesonrelationshipqualityandfollowerperformance.SanAntonio,TX:
+PresentedattheAcademyofManagement.
+Sy,T.(2013).AnindirectmeasureofIFTsusingaprojectiveapproach.UnpublishedManuscript.
+Taylor,F.W.(1911).Theprinciplesofscientificmanagement.NewYork:Harper&Bros.
+Taylor,F.W.(1934).Theprinciplesofscientificmanagement.NewYork:Harper&Bros.
+Taylor,F.W.(1947).Theprinciplesofscientificmanagement.NewYork:Harper&Brothers.
+Tepper,B.J.,Duffy,M.K.,&Shaw,J.D.(2001).Personalitymoderatorsoftherelationshipbetweenabusivesupervisionandsubordinates'resistance.TheJournalof
+AppliedPsychology,86(5),974–983.
+Tepper,B.J.,Uhl-Bien,M.,Kohut,G.F.,Rogleberg,S.G.,Lockhart,D.E.,&Ensley,M.D.(2006).Subordinates'resistanceandmanagers'evaluationsofsubordinates'
+performance.JournalofManagement,32(2),185–209.
+Townsend,P.L.,&Gebhardt,J.E.(1997).Five-starleadership:Theartandstrategyofcreatingleadersateverylevel.NewYork:Wiley.
+Uhl-Bien,M.,&Carsten,M.(2007).Beingethicalwhenthebossisnot.OrganizationalDynamics,36(2),187–201.
+Uhl-Bien,M.,Graen,G.B.,&Scandura,T.A.(2000).Implicationsofleader–memberexchange(LMX)forstrategichumanresourcemanagementsystems:
+Relationshipsassocialcapitalforcompetitiveadvantage.ResearchinPersonnelandHumanResourcesManagement,18,137–186.
+Uhl-Bien,M.,&Ospina,S.(2012).Paradigminterplayinrelationalleadership:Awayforward.InM.Uhl-Bien,&S.Ospina(Eds.),Advancingrelationalleadership
+research:Adialogueamongperspectives(pp.537–580).Charlotte,NC:InformationAgePublishers.
+Uhl-Bien,M.,&Pillai,R.(2007).Theromanceofleadershipandthesocialconstructionoffollowership.InB.Shamir,R.Pillai,M.Bligh,&M.Uhl-Bien(Eds.),
+Follower-centeredperspectivesonleadership:AtributetothememoryofJamesR.Meindl(pp.187–210).Charlotte,NC:InformationAgePublishers.
+VanDyne,L.,&LePine,J.A.(1998).Helpingandextra-rolebehavior:Evidenceofconstructandpredictivevalidity.AcademyofManagementJournal,41(1),
+108–119.
+VanKnippenberg,D.,&Hogg,M.A.(2003).Asocialidentitymodelofleadershipeffectivenessinorganizations.ResearchinOrganizationalBehavior,25,243–295.
+VanKnippenberg,D.,&Sitkin,S.B.(2013).Acriticalassessmentofcharismatic–transformationalleadershipresearch:Backtothedrawingboard?TheAcademyof
+ManagementAnnals,7(1),1–60.
+VanVugt,M.(2006).Evolutionaryoriginsofleadershipandfollowership.PersonalityandSocialPsychologyReview,10(4),354–371.
+VanVugt,M.,Hogan,R.,&Kaiser,R.B.(2008).Leadership,followership,andevolution:Somelessonsfromthepast.AmericanPsychologist,63(3),182.
+Vroom,V.H.,&Jago,A.G.(1978).OnthevalidityoftheVroom–Yettonmodel.JournalofAppliedPsychology,63,151–162.
+Vroom,V.H.,&Yetton,P.W.(1973).Leadershipanddecision-making.Pittsburgh,PA:UniversityofPittsburghPress.
+Weber,Max(1968).Economyandsociety.Totowa,NJ:Bedminster.
+Weick,K.E.(1979).Cognitiveprocessesinorganizations.ResearchinOrganizationalBehavior,1,41–74.
+Weick,K.E.(1995).Sensemakinginorganizations(vol.3).London:Sage.
+Weierter,S.J.(1997).Whowantstoplay“followtheleader”?Atheoryofcharismaticrelationshipsbasedonroutinizedcharismaandfollowercharacteristics.
+LeadershipQuarterly,8(2),171–194.
+Whiteley,P.,Sy,T.,&Johnson,S.K.(2012).Leaders'conceptionsoffollowers:Implicationsfornaturallyoccurringpygmalioneffects.TheLeadershipQuarterly,
+23(5),822–834.
+Whiting,S.W.,Maynes,T.D.,Podsakoff,N.P.,&Podsakoff,P.M.(2012).Effectsofmessage,source,andcontextonevaluationsofemployeevoicebehavior.Journal
+ofAppliedPsychology,97(1),159–182.
+Yukl,G.(2001).Leadershipinorganizations (5thed.).UpperSaddleRiver,NJ:PrenticeHall.
+Yukl,G.(2012).Leadershipinorganizations (8thed.).NewYork:PrenticeHall.
+
+## Page 22
+
+104 M.Uhl-Bienetal./TheLeadershipQuarterly25(2014)83–104
+Yukl,G.,&Falbe,C.M.(1990).Influencetacticsandobjectivesinupward,downward,andlateralinfluenceattempts.JournalofAppliedPsychology,75(2),132–140.
+Yukl,G.,&VanFleet,D.D.(1992).Theoryandresearchonleadershipinorganizations.InM.D.Dunnette,&L.M.Hough(Eds.),Handbookofindustrialand
+organizationalpsychology(pp.147–197)(2nded.).PaloAlto,CA:ConsultingPsychologistsPress.
+Zaleznik,A.(1965).Thedynamicsofsubordinacy.HarvardBusinessReview,43(3),119–131.
+Zaleznik,A.,&KetsdeVries,M.F.(1975).Powerandthecorporatemind.Oxford:HoughtonMifflin.

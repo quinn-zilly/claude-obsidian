@@ -14,6 +14,11 @@ related:
   - "[[Team Effectiveness Criteria]]"
   - "[[wang-et-al-2014-shared-leadership-team-effectiveness]]"
   - "[[lord-et-al-2017-leadership-in-applied-psychology]]"
+  - "[[zhu-et-al-2018-shared-leadership-review]]"
+  - "[[Vertical vs Shared Leadership]]"
+  - "[[Adaptive Leadership Theory]]"
+  - "[[Followership Theory]]"
+  - "[[Leadership MOC]]"
   - "[[Teams & Org Behavior MOC]]"
 ---
 
@@ -31,6 +36,9 @@ Extends Stogdill & Shartle (1948) emphasis on leadership role and behavior (not 
 
 ## Conceptualization Challenges
 Multiple operationalizations: (1) same individuals enacting leader roles at different time points (Carson et al. 2007); (2) teams developing different ways of enacting leadership (DeRue 2011); (3) emergent leadership within teams (Wang et al. 2014). As of 2017, this is described as "rudimentary."
+
+## State-of-the-Art Synthesis ([[zhu-et-al-2018-shared-leadership-review|Zhu et al. 2018]])
+Consolidates the construct around **three key characteristics**: lateral peer influence, emergent team-level phenomenon, and dispersed leadership roles/influence. Distinguishes shared leadership from six overlapping constructs (collective, emergent, self-, empowering, participative, team leadership). Identifies two measurement traditions — **aggregation/referent-shift** vs. **social-network (density/decentralization)** — and recommends using density *and* decentralization together. Notably calls for probing shared leadership's **potential dark side** (slower consensus, free-riding, groupthink, threat to formal leaders). See also [[Vertical vs Shared Leadership]] (complements, not substitutes) and [[Adaptive Leadership Theory]] (DeRue's magnitude/dispersion recasting; distinguishes *distributed* sequential from *shared* concurrent leadership).
 
 ## Future Trajectory (per Lord et al. 2017)
 - Will expand beyond teams to organizations and "crowds"

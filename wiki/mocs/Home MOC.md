@@ -10,6 +10,7 @@ related:
   - "[[index]]"
   - "[[Open Science MOC]]"
   - "[[Teams & Org Behavior MOC]]"
+  - "[[Leadership MOC]]"
   - "[[Social Exchange & Organizational Justice MOC]]"
   - "[[Learning & Development MOC]]"
   - "[[Performance Management MOC]]"
@@ -37,6 +38,7 @@ This is the front door. Start here, pick a domain, follow links into the cluster
 
 - [[Open Science MOC]] — the replication crisis and the meta-science reform movement (preregistration, registered reports, open data).
 - [[Teams & Org Behavior MOC]] — team adaptation, emergent states, transactive memory, and leadership.
+- [[Leadership MOC]] — the leadership paradigms (trait → behavior → relational), shared/distributed leadership, DeRue's adaptive process view, and followership theory.
 - [[Social Exchange & Organizational Justice MOC]] — social exchange theory, justice dimensions and measurement, and the exchange-quality mediators (POS, LMX, commitment, OCB).
 - [[Learning & Development MOC]] — learning science, training transfer, and on-the-job development.
 - [[Performance Management MOC]] — appraisal and performance management: why better measurement never worked, and where PM value actually lives.

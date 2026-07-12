@@ -7,7 +7,7 @@ tags: [researcher, IO-psychology, motivation, self-regulation, justice, implicit
 status: developing
 created: 2026-05-30
 updated: 2026-05-30
-related: ["[[Work Motivation Meta-Framework (Kanfer)]]", "[[Ego Depletion]]", "[[Regulatory Focus Theory]]", "[[wiki/sources/kanfer-frese-johnson-2017-work-motivation|Kanfer et al. 2017]]", "[[Ruth Kanfer]]", "[[Michael Frese]]"]
+related: ["[[Work Motivation Meta-Framework (Kanfer)]]", "[[Ego Depletion]]", "[[Regulatory Focus Theory]]", "[[wiki/sources/kanfer-frese-johnson-2017-work-motivation|Kanfer et al. 2017]]", "[[Ruth Kanfer]]", "[[Michael Frese]]", "[[zhu-et-al-2018-shared-leadership-review]]", "[[Shared Leadership]]"]
 ---
 
 # Russell E. Johnson
@@ -24,6 +24,7 @@ I/O psychologist. Department of Management, Michigan State University. Research 
 - Core self-evaluations and job satisfaction (Ferris et al. 2013)
 - Moving from cognition to behavior (Johnson, Chang & Lord 2006)
 - Moral licensing and ethical leadership breakdown via depletion (Lin, Ma & Johnson 2016)
+- Co-author, **[[zhu-et-al-2018-shared-leadership-review|Zhu, Liao, Yam & Johnson (2018)]]** — state-of-the-art review of [[Shared Leadership]].
 
 ## Major Works
 

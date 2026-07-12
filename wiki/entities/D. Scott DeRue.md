@@ -12,9 +12,13 @@ created: 2026-07-12
 updated: 2026-07-12
 related:
   - "[[derue-et-al-2011-trait-behavioral-leadership-integration]]"
+  - "[[derue-2011-adaptive-leadership-complex-adaptive-process]]"
   - "[[Integrated Trait-Behavioral Model of Leadership]]"
+  - "[[Adaptive Leadership Theory]]"
+  - "[[Leadership Identity Construction]]"
   - "[[Jennifer Nahrgang]]"
   - "[[Stephen Humphrey]]"
+updated: 2026-07-12
 ---
 
 # D. Scott DeRue
@@ -26,7 +30,9 @@ Management scholar (Stephen M. Ross School of Business, University of Michigan, 
 ## Key Contributions
 
 - **[[derue-et-al-2011-trait-behavioral-leadership-integration|DeRue, Nahrgang, Wellman & Humphrey (2011)]]** — integrative trait-behavioral meta-analysis of leadership effectiveness; the anchor for construct-redundancy testing in leadership research.
+- **[[derue-2011-adaptive-leadership-complex-adaptive-process|DeRue (2011)]]** — [[Adaptive Leadership Theory]]: leading and following as a complex adaptive process of [[Leading-Following Double Interact|double interacts]] and [[Leadership Identity Construction|identity claiming/granting]] (with Ashford 2010).
 
 ## Sources
 
 - [[derue-et-al-2011-trait-behavioral-leadership-integration]]
+- [[derue-2011-adaptive-leadership-complex-adaptive-process]]

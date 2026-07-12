@@ -3100,6 +3100,55 @@
         "wiki/hot.md",
         "wiki/concepts/Theory-Driven Evaluation.md"
       ]
+    },
+    ".raw/Zhu et al. - 2018 - Shared leadership A state‐of‐the‐art review and future research agenda.md": {
+      "hash": "996f31b501fbd337c4103b8a448dc673",
+      "pages_created": [
+        "wiki/sources/zhu-et-al-2018-shared-leadership-review.md",
+        "wiki/concepts/Vertical vs Shared Leadership.md",
+        "wiki/entities/Jinlong Zhu.md",
+        "wiki/entities/Zhenyu Liao.md",
+        "wiki/entities/Kai Chi Yam.md"
+      ],
+      "pages_updated": [
+        "wiki/concepts/Shared Leadership.md",
+        "wiki/entities/Russell Johnson.md",
+        "wiki/index.md"
+      ],
+      "ingested_at": "2026-07-12"
+    },
+    ".raw/Uhl-Bien et al. - 2014 - Followership theory A review and research agenda.md": {
+      "hash": "6102346f23a75972fc7f19404fc77e30",
+      "pages_created": [
+        "wiki/sources/uhl-bien-et-al-2014-followership-theory-review.md",
+        "wiki/concepts/Followership Theory.md",
+        "wiki/concepts/Co-Production of Leadership.md",
+        "wiki/concepts/Implicit Followership Theories.md",
+        "wiki/entities/Mary Uhl-Bien.md",
+        "wiki/entities/Ronald E. Riggio.md",
+        "wiki/entities/Kevin B. Lowe.md",
+        "wiki/entities/Melissa K. Carsten.md"
+      ],
+      "pages_updated": [
+        "wiki/index.md"
+      ],
+      "ingested_at": "2026-07-12"
+    },
+    ".raw/DeRue - 2011 - Adaptive leadership theory Leading and following as a complex adaptive process.md": {
+      "hash": "db6bfb492b0cf40df9c5b223a5c099cc",
+      "pages_created": [
+        "wiki/sources/derue-2011-adaptive-leadership-complex-adaptive-process.md",
+        "wiki/concepts/Adaptive Leadership Theory.md",
+        "wiki/concepts/Leadership Identity Construction.md",
+        "wiki/concepts/Leading-Following Double Interact.md",
+        "wiki/mocs/Leadership MOC.md"
+      ],
+      "pages_updated": [
+        "wiki/entities/D. Scott DeRue.md",
+        "wiki/mocs/Home MOC.md",
+        "wiki/mocs/Teams & Org Behavior MOC.md"
+      ],
+      "ingested_at": "2026-07-12"
     }
   },
   "address_map": {
@@ -4229,7 +4278,25 @@
     "wiki/entities/Aurelio José Figueredo.md": "c-001257",
     "wiki/entities/Lee Cronbach.md": "c-001258",
     "wiki/entities/Michael Scriven.md": "c-001259",
-    "wiki/entities/Peter Rossi.md": "c-001260"
+    "wiki/entities/Peter Rossi.md": "c-001260",
+    "wiki/sources/zhu-et-al-2018-shared-leadership-review.md": "c-001275",
+    "wiki/sources/uhl-bien-et-al-2014-followership-theory-review.md": "c-001276",
+    "wiki/sources/derue-2011-adaptive-leadership-complex-adaptive-process.md": "c-001277",
+    "wiki/concepts/Followership Theory.md": "c-001278",
+    "wiki/concepts/Adaptive Leadership Theory.md": "c-001279",
+    "wiki/concepts/Leadership Identity Construction.md": "c-001280",
+    "wiki/concepts/Leading-Following Double Interact.md": "c-001281",
+    "wiki/concepts/Co-Production of Leadership.md": "c-001282",
+    "wiki/concepts/Implicit Followership Theories.md": "c-001283",
+    "wiki/concepts/Vertical vs Shared Leadership.md": "c-001284",
+    "wiki/entities/Jinlong Zhu.md": "c-001285",
+    "wiki/entities/Zhenyu Liao.md": "c-001286",
+    "wiki/entities/Kai Chi Yam.md": "c-001287",
+    "wiki/entities/Mary Uhl-Bien.md": "c-001288",
+    "wiki/entities/Ronald E. Riggio.md": "c-001289",
+    "wiki/entities/Kevin B. Lowe.md": "c-001290",
+    "wiki/entities/Melissa K. Carsten.md": "c-001291",
+    "wiki/mocs/Leadership MOC.md": "c-001292"
   },
   ".raw/Pearsall et al. - 2025 - A stimulus-based model of the team adaptation process An integrated conceptual review..pdf": {
     "hash": "62f683006d3323a67c67fc23621f632a",

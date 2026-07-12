@@ -104,6 +104,9 @@ How individual work performance is modeled and measured — the construct, its d
 
 ## Leadership sub-cluster
 
+> See the dedicated **[[Leadership MOC]]** for the full leadership cluster (followership, adaptive process, shared/vertical leadership).
+
+- [[Leadership MOC]] — dedicated hub
 - [[Three Waves of Leadership Research]]
 - [[lord-et-al-2017-leadership-in-applied-psychology|Leadership in Applied Psychology: Three Waves of Theory and Research]]
 - [[Integrated Trait-Behavioral Model of Leadership]] — DeRue et al. 2011; traits + behaviors → effectiveness; behaviors mediate
@@ -118,6 +121,16 @@ How individual work performance is modeled and measured — the construct, its d
 - [[hoch-et-al-2018-ethical-authentic-servant-vs-transformational|Hoch et al. (2018) — Ethical/Authentic/Servant vs. Transformational]]
 - [[Shared Leadership]]
 - [[wang-et-al-2014-shared-leadership-team-effectiveness|Wang et al. (2014) — Shared Leadership & Team Effectiveness]]
+- [[zhu-et-al-2018-shared-leadership-review|Zhu et al. (2018) — Shared Leadership State-of-the-Art Review]]
+- [[Vertical vs Shared Leadership]]
+- [[Adaptive Leadership Theory]] — DeRue 2011; leading–following as a complex adaptive process
+- [[derue-2011-adaptive-leadership-complex-adaptive-process|DeRue (2011) — Adaptive Leadership Theory]]
+- [[Leading-Following Double Interact]]
+- [[Leadership Identity Construction]] — claiming & granting
+- [[Followership Theory]]
+- [[uhl-bien-et-al-2014-followership-theory-review|Uhl-Bien et al. (2014) — Followership Theory Review]]
+- [[Co-Production of Leadership]]
+- [[Implicit Followership Theories]]
 - [[Implicit Leadership Theories]]
 - [[Contingency Theories of Leadership]]
 - [[Leader-Member Exchange (LMX)]]

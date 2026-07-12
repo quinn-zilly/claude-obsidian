@@ -25,7 +25,7 @@ created: 2026-04-07
 
 # Wiki Index
 
-Last updated: 2026-07-11 | Total pages: 683 | Sources ingested: 104
+Last updated: 2026-07-12 | Total pages: 701 | Sources ingested: 107
 
 Navigation: [[Home MOC]] | [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[getting-started]]
 
@@ -523,6 +523,31 @@ Navigation: [[Home MOC]] | [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[
 - [[yost-2013-experience-driven-development|Yost (2013)]] — *ASTD Handbook* Ch. 57 | outside-in model; 90% outside-classroom; training as catalyst; development continuum (classroom→action learning→mentoring→job rotation→job assignments) | 2026-06-04
 - [[yost-2014-leading-from-where-you-are|Yost (2014)]] — Ch. 6 in *Using Experience to Develop Leadership Talent* | viral OJD; five design characteristics; succession/perf mgmt/CoP integration; middle-out HR change | 2026-06-04
 - [[Singh-2008-Job-Analysis-Changing-Workplace|Singh (2008)]] — *Human Resource Management Review* | strategic job analysis framework; SJA vs. traditional JA; gap analysis (no/moderate/significant change); Miles & Snow defender/prospector typology applied to JA | 2026-06-04
+
+### Sources (new — 2026-07-12, followership & process leadership batch)
+
+- [[zhu-et-al-2018-shared-leadership-review|Zhu et al. (2018)]] — state-of-the-art review of shared leadership; three key characteristics, six overlapping constructs, aggregation vs. network measurement, integrative framework, dark side; *Journal of Organizational Behavior*
+- [[uhl-bien-et-al-2014-followership-theory-review|Uhl-Bien et al. (2014)]] — defines followership theory; role-based ("reversing the lens") vs. constructionist frameworks; *The Leadership Quarterly*
+- [[derue-2011-adaptive-leadership-complex-adaptive-process|DeRue (2011)]] — adaptive leadership theory; leading/following as a complex adaptive process of double interacts; four dispersion patterns; *Research in Organizational Behavior*
+
+### Concepts (new — 2026-07-12, followership & process leadership batch)
+
+- [[Followership Theory]] — study of following in the leadership process
+- [[Adaptive Leadership Theory]] — DeRue's complex-adaptive-process theory
+- [[Leadership Identity Construction]] — claiming & granting (DeRue & Ashford 2010)
+- [[Leading-Following Double Interact]] — the atomic mechanism
+- [[Co-Production of Leadership]] — Shamir's constructionist thesis
+- [[Implicit Followership Theories]] — Sy's IFTs/LIFTs/FIFTs
+- [[Vertical vs Shared Leadership]] — complements, not substitutes
+
+### Entities (new — 2026-07-12, followership & process leadership batch)
+
+- [[Jinlong Zhu]], [[Zhenyu Liao]], [[Kai Chi Yam]] (with existing [[Russell Johnson]]) — Zhu et al. 2018
+- [[Mary Uhl-Bien]], [[Ronald E. Riggio]], [[Kevin B. Lowe]], [[Melissa K. Carsten]] — Uhl-Bien et al. 2014
+
+### MOC (new — 2026-07-12)
+
+- [[Leadership MOC]] — dedicated leadership navigation hub
 
 ### Sources (new — 2026-07-12, leadership meta-analyses batch)
 
