@@ -3072,6 +3072,34 @@
         "wiki/hot.md",
         "wiki/log.md"
       ]
+    },
+    ".raw/Walton - 2014 - The New Science of Wise Psychological Interventions.md": {
+      "hash": "3f7b62e82979facbffa1069699416d8f",
+      "ingested_at": "2026-07-12",
+      "pages_created": [
+        "wiki/sources/Walton-2014-Wise-Psychological-Interventions.md"
+      ],
+      "pages_updated": [
+        "wiki/index.md",
+        "wiki/log.md",
+        "wiki/hot.md",
+        "wiki/concepts/Stereotype Threat.md",
+        "wiki/mocs/Learning & Development MOC.md"
+      ]
+    },
+    ".raw/Input/Sechrest and Figueredo - 1993 - Program Evaluation.pdf": {
+      "hash": "8129b8348bc4661fb86573bfdb3ea3a8",
+      "ingested_at": "2026-07-12",
+      "note": "OCR-ingested; .raw .md stub was empty",
+      "pages_created": [
+        "wiki/sources/Sechrest-Figueredo-1993-Program-Evaluation.md"
+      ],
+      "pages_updated": [
+        "wiki/index.md",
+        "wiki/log.md",
+        "wiki/hot.md",
+        "wiki/concepts/Theory-Driven Evaluation.md"
+      ]
     }
   },
   "address_map": {
@@ -4177,7 +4205,31 @@
     "wiki/concepts/Justice–Injustice Asymmetry.md": "c-001233",
     "wiki/concepts/Fair Process Effect.md": "c-001234",
     "wiki/concepts/Due Process Approach to Appraisal.md": "c-001235",
-    "wiki/entities/Hui Liao.md": "c-001236"
+    "wiki/entities/Hui Liao.md": "c-001236",
+    "wiki/sources/Walton-2014-Wise-Psychological-Interventions.md": "c-001237",
+    "wiki/concepts/Wise Interventions.md": "c-001238",
+    "wiki/concepts/Recursive Processes (Wise Interventions).md": "c-001239",
+    "wiki/concepts/Saying-Is-Believing.md": "c-001240",
+    "wiki/concepts/Growth Mindset.md": "c-001241",
+    "wiki/concepts/Values Affirmation.md": "c-001242",
+    "wiki/concepts/Social Belonging Intervention.md": "c-001243",
+    "wiki/entities/Gregory Walton.md": "c-001244",
+    "wiki/entities/Carol Dweck.md": "c-001245",
+    "wiki/entities/Geoffrey Cohen.md": "c-001246",
+    "wiki/entities/David Yeager.md": "c-001247",
+    "wiki/entities/Claude Steele.md": "c-001248",
+    "wiki/sources/Sechrest-Figueredo-1993-Program-Evaluation.md": "c-001249",
+    "wiki/concepts/Ecological Paradigm in Evaluation.md": "c-001250",
+    "wiki/concepts/Evaluation Is Not a Field.md": "c-001251",
+    "wiki/concepts/Formative vs Summative Evaluation.md": "c-001252",
+    "wiki/concepts/Five Fundamental Issues of Evaluation.md": "c-001253",
+    "wiki/concepts/Strength and Integrity of Treatment.md": "c-001254",
+    "wiki/concepts/Prospective Evaluation.md": "c-001255",
+    "wiki/entities/Lee Sechrest.md": "c-001256",
+    "wiki/entities/Aurelio José Figueredo.md": "c-001257",
+    "wiki/entities/Lee Cronbach.md": "c-001258",
+    "wiki/entities/Michael Scriven.md": "c-001259",
+    "wiki/entities/Peter Rossi.md": "c-001260"
   },
   ".raw/Pearsall et al. - 2025 - A stimulus-based model of the team adaptation process An integrated conceptual review..pdf": {
     "hash": "62f683006d3323a67c67fc23621f632a",

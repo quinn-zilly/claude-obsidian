@@ -1,7 +1,7 @@
 ---
 type: concept
 address: c-000457
-title: "DEI Evaluation"
+title: DEI Evaluation
 tags:
   - dei
   - evaluation
@@ -14,7 +14,7 @@ related:
   - "[[Cross-Cultural Communication (Evaluation)]]"
   - "[[Diversity Training]]"
   - "[[Classroom Climate]]"
-  - "[[approaches-dei-evaluation]]"
+  - "[[Bellwether-2020-approaches-dei-evaluation]]"
 updated: 2026-06-05
 created: 2026-06-04
 ---

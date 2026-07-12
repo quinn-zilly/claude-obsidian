@@ -1,8 +1,8 @@
 ---
 type: project
 address: c-000482
-title: "Training and Development Checklist"
-course: "Learning Systems & Training"
+title: Training and Development Checklist
+course: Learning Systems & Training
 status: draft
 created: 2026-06-04
 updated: 2026-06-04
@@ -16,7 +16,7 @@ related:
   - "[[kanfer-frese-johnson-2017-work-motivation]]"
   - "[[argote-2021-organizational-learning]]"
   - "[[Singh-2008-Job-Analysis-Changing-Workplace]]"
-  - "[[approaches-dei-evaluation]]"
+  - "[[Bellwether-2020-approaches-dei-evaluation]]"
   - "[[arthur-et-al-2003-training-meta-analysis]]"
   - "[[smith-jentsch-2020-smart-investments-training]]"
   - "[[cmu-eberly-learning-principles]]"
@@ -73,7 +73,7 @@ This guide is a working checklist for designing and auditing training and develo
 
 ## Week 2: Needs Assessment
 
-*Readings: [[Singh-2008-Job-Analysis-Changing-Workplace]], [[approaches-dei-evaluation]], [[arthur-et-al-2003-training-meta-analysis]], [[smith-jentsch-2020-smart-investments-training]]*
+*Readings: [[Singh-2008-Job-Analysis-Changing-Workplace]], [[Bellwether-2020-approaches-dei-evaluation]], [[arthur-et-al-2003-training-meta-analysis]], [[smith-jentsch-2020-smart-investments-training]]*
 
 - [ ] Conduct a three-part needs analysis covering organizational, task, and person analysis before designing anything, because training built on a comprehensive needs assessment produces larger effects than training without one (Arthur et al., 2003).
 - [ ] For roles that are changing, use strategic (future-oriented) job analysis: scan the internal and external environment, analyze current jobs, and run a gap analysis between current and predicted future requirements rather than documenting only today's tasks (Singh, 2008).

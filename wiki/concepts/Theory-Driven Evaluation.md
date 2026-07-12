@@ -13,6 +13,9 @@ related:
   - "[[coryn-et-al-2011-theory-driven-evaluation-review]]"
   - "[[Huey-Tsyh Chen]]"
   - "[[Stewart I. Donaldson]]"
+  - "[[Sechrest-Figueredo-1993-Program-Evaluation]]"
+  - "[[Five Fundamental Issues of Evaluation]]"
+  - "[[Peter Rossi]]"
 ---
 
 # Theory-Driven Evaluation

@@ -524,6 +524,31 @@ Navigation: [[Home MOC]] | [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[
 - [[yost-2014-leading-from-where-you-are|Yost (2014)]] — Ch. 6 in *Using Experience to Develop Leadership Talent* | viral OJD; five design characteristics; succession/perf mgmt/CoP integration; middle-out HR change | 2026-06-04
 - [[Singh-2008-Job-Analysis-Changing-Workplace|Singh (2008)]] — *Human Resource Management Review* | strategic job analysis framework; SJA vs. traditional JA; gap analysis (no/moderate/significant change); Miles & Snow defender/prospector typology applied to JA | 2026-06-04
 
+### Sources (new — 2026-07-12, wise-interventions & program-evaluation)
+
+- [[Walton-2014-Wise-Psychological-Interventions]] — introduces "wise interventions": brief, psychologically precise, field-experimental interventions that target recursive processes; context-dependent, not silver bullets; *Current Directions in Psychological Science* 2014
+- [[Sechrest-Figueredo-1993-Program-Evaluation]] — ecological (Newtonian-vs-Darwinian) view of program evaluation; evaluation is not a field; critique of the qualitative movement; Shadish's five fundamental issues; case for multivariate methods; *Annual Review of Psychology* 1993
+
+### Concepts (new — 2026-07-12, wise-interventions & program-evaluation)
+
+- [[Wise Interventions]] — ordinary/brief/precise; three defining properties (precise, recursive, context-dependent)
+- [[Recursive Processes (Wise Interventions)]] — "movie not snapshot"; proximal outcomes carry effects forward
+- [[Saying-Is-Believing]] — active exercise; recipients author the intervention message
+- [[Growth Mindset]] — intelligence is malleable; the precision caveat (vs "you're so smart")
+- [[Values Affirmation]] — write core values; bolsters self-integrity; breaks recursive threat cycles
+- [[Social Belonging Intervention]] — reattribute struggles to normal transition; Walton & Cohen 2011
+- [[Ecological Paradigm in Evaluation]] — Newtonian vs Darwinian; the I→D→O→U path model
+- [[Evaluation Is Not a Field]] — an enterprise for deciding worth; progress = concepts + methods
+- [[Formative vs Summative Evaluation]] — Scriven 1967; the drift toward formative
+- [[Five Fundamental Issues of Evaluation]] — Shadish et al.: programming/knowledge/valuing/use/practice
+- [[Strength and Integrity of Treatment]] — quantify dose + fidelity; guards against Type II error
+- [[Prospective Evaluation]] — GAO/PEMD forecasting a program's results before implementation
+
+### Entities (new — 2026-07-12, wise-interventions & program-evaluation)
+
+- [[Gregory Walton]] · [[Carol Dweck]] · [[Geoffrey Cohen]] · [[David Yeager]] · [[Claude Steele]] — wise-interventions / mindset / belonging researchers
+- [[Lee Sechrest]] · [[Aurelio José Figueredo]] · [[Lee Cronbach]] · [[Michael Scriven]] · [[Peter Rossi]] — program-evaluation methodologists
+
 ### Sources (new — 2026-07-11, organizational-justice batch)
 
 - [[adamovic-2023-organizational-justice-review]] — semi-systematic review of the org-justice field; conceptualization / importance / team-level / research agenda; justice climate + peer justice; cultural sensitivity, diversity, justice–conflict, changing nature of work; *European Management Review* 2023
@@ -613,7 +638,7 @@ Navigation: [[Home MOC]] | [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[
 - [[pichler-2012-social-context-appraisal]] — first meta-analysis of the social context of performance appraisal; rater–ratee relationship quality is the dominant predictor of appraisal reactions (Mr≈.66); MASEM supports a relational model; *Human Resource Management* 2012
 - [[wiernik-et-al-2021-meta-analytic-cpa]] — extends criterion profile analysis to meta-analytic data (MACPA); level vs pattern effects from a correlation matrix; artifact + overfitting corrections; *Psychological Methods* 2021
 - [[pierce-aguinis-2013-tmgt-effect]] — the too-much-of-a-good-thing meta-theory; curvilinearity & context-specific inflection points across management subfields; *J. Management* 2013
-- [[approaches-dei-evaluation]] — practice brief; three-goal DEI evaluation framework (stakeholder engagement, data quality, cross-difference communication); resources list incl. Equitable Evaluation Initiative, Child Trends, Project Evident | 2026-06-04
+- [[Bellwether-2020-approaches-dei-evaluation]] — practice brief; three-goal DEI evaluation framework (stakeholder engagement, data quality, cross-difference communication); resources list incl. Equitable Evaluation Initiative, Child Trends, Project Evident | 2026-06-04
 
 - [[burke-hutchins-2007-training-transfer]] — integrative review ~170 studies; three-factor taxonomy (learner/design/environment); transfer problem scope; HRD Rev 2007
 - [[ellis-davidi-2005-after-event-reviews]] — AER quasi-field study; FSAER > FAER; mental model richness as mediator; IDF navigation; J Applied Psych 2005

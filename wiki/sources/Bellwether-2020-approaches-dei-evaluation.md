@@ -1,10 +1,11 @@
 ---
 type: source
 address: c-000484
-title: "Approaches for Diverse, Equitable, and Inclusive Evaluation"
-author: "Unknown (policy brief)"
+title: Approaches for Diverse, Equitable, and Inclusive Evaluation
+author:
+  - Bellwether Education
 year: unknown
-outlet: "Organizational/Educational Practice Brief"
+outlet: Bellwether Education
 tags:
   - dei
   - evaluation

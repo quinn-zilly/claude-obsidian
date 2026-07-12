@@ -99,6 +99,15 @@ This cluster maps how people learn, how training works (and transfers), and how 
 - [[Multicultural vs. Colorblind Approaches]] — framing debate; multicultural outperforms colorblind
 - [[Diversity Ideologies]] — co
 
+## Wise psychological interventions
+
+- [[Walton-2014-Wise-Psychological-Interventions|Walton (2014): The New Science of Wise Psychological Interventions]] — brief, precise, field-experimental interventions
+- [[Wise Interventions]] — ordinary, brief, precise; target a specific psychological process
+- [[Recursive Processes (Wise Interventions)]] — "movie not snapshot"; effects compound over time
+- [[Growth Mindset]] · [[Values Affirmation]] · [[Social Belonging Intervention]] — canonical education interventions
+- [[Saying-Is-Believing]] — active exercise; recipients author the message themselves
+- [[Carol Dweck]] · [[Geoffrey Cohen]] · [[David Yeager]] · [[Claude Steele]] · [[Gregory Walton]] — see also [[Stereotype Threat]]
+
 ## Social cognitive theory, self-efficacy & metacognition
 
 - [[Social Cognitive Theory]] — Bandura's framework; triadic reciprocal causation + human agency

@@ -1,7 +1,7 @@
 ---
 type: concept
 address: c-000459
-title: "Equitable Data Collection"
+title: Equitable Data Collection
 tags:
   - dei
   - evaluation
@@ -11,7 +11,7 @@ status: developing
 related:
   - "[[DEI Evaluation]]"
   - "[[Stakeholder Engagement (Evaluation)]]"
-  - "[[approaches-dei-evaluation]]"
+  - "[[Bellwether-2020-approaches-dei-evaluation]]"
 updated: 2026-06-05
 created: 2026-06-04
 ---

@@ -27,3 +27,6 @@ The concern that one's behavior might confirm a negative gender stereotype produ
 - As a coping strategy, individuals **avoid or withdraw** from threatened roles → helps explain "leaning out" beyond measured interest differences (Su & Rounds 2015).
 
 Bridges to **[[Social Role Theory (Gender)]]**: shows how external bias becomes internalized and shapes women's self-concept, self-efficacy, and role choices.
+
+## Remedied by wise interventions
+Coined by [[Claude Steele]], whose "wise schooling" (schooling that defuses stereotype threat) is the direct precursor to [[Gregory Walton]]'s [[Wise Interventions]]. Several brief field interventions target the threat mechanism: the [[Social Belonging Intervention]] (reattributes daily struggles to normal transition rather than "I don't belong") and [[Values Affirmation]] (bolsters self-integrity, breaking the recursive threat→poor-performance cycle). See [[Walton-2014-Wise-Psychological-Interventions]].
