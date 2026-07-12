@@ -9,6 +9,7 @@ updated: 2026-07-11
 status: developing
 related:
   - "[[Sackett-et-al-2022-validity-overcorrection]]"
+  - "[[Sackett-Walmsley-Laczo-2013-job-and-work-analysis]]"
   - "[[Range Restriction Correction]]"
   - "[[Validity–Diversity Tradeoff]]"
   - "[[Selection Bias]]"
@@ -25,3 +26,4 @@ Industrial-organizational psychologist, Department of Psychology, University of 
 
 - Lead author of [[Sackett-et-al-2022-validity-overcorrection|Sackett, Zhang, Berry & Lievens (2022)]] — the recalibration of selection-procedure validity via corrected [[Range Restriction Correction|range-restriction]] handling.
 - Prior work referenced therein: Sackett & Ostgaard (1994) on applicant-pool SD; Sackett, Zhang et al. (2021); Dahlke & Sackett (2017) subgroup-difference database feeding the [[Validity–Diversity Tradeoff]].
+- Lead author of [[Sackett-Walmsley-Laczo-2013-job-and-work-analysis|Sackett, Walmsley & Laczo (2013)]] — the *Handbook of Psychology* chapter framing job analysis as purpose-driven choices ("one size does not fit all") and surveying O*NET, CTA, strategic job analysis, and accuracy.

@@ -30,6 +30,7 @@ IO psychologist; Purdue University. Developed interdisciplinary model of job des
 - On the **pro-ratings** side of [[adler-et-al-2016-getting-rid-of-ratings|Adler et al. (2016)]] (with [[Seymour Adler]] and [[Amy Grubb]]): "too hard" is no excuse for I-O psychology; performance is always evaluated in some form.
 
 - Panelist (the primary personality-skeptic voice, via vote-counting review) in the [[Morgeson et al. (2007) Panel Critique|Morgeson et al. (2007) panel critique]] — his arguments are the main target of [[ones-et-al-2007-personality-assessment-support|Ones et al. (2007)]].
+- **Morgeson & Campion (1997):** framework of 16 potential social/cognitive sources of **inaccuracy in job analysis** — cardinal reference discussed in [[Sackett-Walmsley-Laczo-2013-job-and-work-analysis|Sackett et al. (2013)]]. Also Campion et al. (2011) "Doing competencies well" on competency-modeling best practices.
 
 ## Sources
 

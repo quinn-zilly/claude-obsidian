@@ -9,6 +9,8 @@ updated: 2026-07-11
 related:
   - "[[Singh-2008-Job-Analysis-Changing-Workplace]]"
   - "[[Sanchez-Levine-2009-competency-modeling-vs-job-analysis]]"
+  - "[[Sanchez-Levine-2012-rise-fall-job-analysis]]"
+  - "[[Shippmann-et-al-2000-practice-of-competency-modeling]]"
   - "[[Edward Levine]]"
 ---
 
@@ -18,6 +20,9 @@ Juan I. Sanchez — I/O psychologist, **Florida International University** (Knig
 
 Key work in vault: [[Sanchez-Levine-2009-competency-modeling-vs-job-analysis]] — the six-dimension TJA-vs-CM framework ([[TJA vs CM (Six Dimensions)]]). Also cited across [[Garcia-Izquierdo-et-al-2015-work-analysis-personnel-selection]] and [[Singh-2008-Job-Analysis-Changing-Workplace]] (Sanchez 1994 scenario-based future KSAs).
 
+Also: lead-authored the reframing of the field toward **work analysis** in [[Sanchez-Levine-2012-rise-fall-job-analysis|Sanchez & Levine (2012)]] (first Annual Review chapter on job-analytic research), and was a member of the SIOP task force behind [[Shippmann-et-al-2000-practice-of-competency-modeling|Shippmann et al. (2000)]].
+
 ## Related
 - [[Work Analysis (Job Analysis)]]
 - [[Competency Modelling]]
+- [[Reliability vs Legitimate Variance (Job Analysis)]]

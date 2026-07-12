@@ -38,6 +38,7 @@ IO psychologist; Michigan State University. Primary contemporary theorist of wor
 ## Other work in this vault
 
 - Lead author of the [[Morgeson et al. (2007) Panel Critique|Morgeson et al. (2007) panel critique]] questioning personality tests in selection — rebutted by [[ones-et-al-2007-personality-assessment-support|Ones et al. (2007)]].
+- **Morgeson & Campion (1997):** the 16-source framework of social/cognitive **inaccuracy in job analysis** — the cardinal accuracy reference discussed in [[Sackett-Walmsley-Laczo-2013-job-and-work-analysis|Sackett et al. (2013)]]. Also the Morgeson & Dierdorff journal-count compilation cited by [[Sanchez-Levine-2012-rise-fall-job-analysis|Sanchez & Levine (2012)]] to document job analysis's decline in top outlets.
 
 ## Sources
 

@@ -530,6 +530,26 @@ Navigation: [[Home MOC]] | [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[
 - [[mccall-2010-recasting-leadership-development]] — SIOP focal article; experience (not genetics/training) is the primary source of learning to lead; seven "sure bets"; competence-not-competencies; five demands of leadership; *Industrial and Organizational Psychology* 2010
 - [[myers-2018-coactive-vicarious-learning]] — relational theory of vicarious learning; CVL (coconstructed via discourse) vs IVL (one-way observation); experience + analysis + support; *AMR* 2018
 
+### Sources (new — 2026-07-11, work-analysis theory batch)
+
+- [[Sanchez-Levine-2012-rise-fall-job-analysis]] — first Annual Review chapter on job-analytic research; JA's decline in top journals; three data types × reliability/validity/consequences; disagreement as legitimate variance; reframing toward work analysis; *Annual Review of Psychology* 2012
+- [[Sackett-Walmsley-Laczo-2013-job-and-work-analysis]] — JA as purpose-driven design choices ("one size does not fit all"); O*NET/DOT, personality-based JA, competency modeling, CTA, strategic JA, accuracy; *Handbook of Psychology* Vol.12 Ch.4, 2013
+- [[Shippmann-et-al-2000-practice-of-competency-modeling]] — SIOP JACMTF task-force report; competency defined inconsistently; 17-variable Level of Rigor comparison (JA more rigorous except strategy linkage); *Personnel Psychology* 2000
+
+### Concepts (new — 2026-07-11, work-analysis theory batch)
+
+- [[Occupational Information Network (O-NET)]] — DoL content-model occupational database; ~1,102 occupations; importance/level scale redundancy critique
+- [[Dictionary of Occupational Titles (DOT)]] — O*NET's 12,000-job task-narrative predecessor; why it was replaced
+- [[Cognitive Task Analysis (CTA)]] — modeling unobservable cognitive processes; expert vs novice; supplement to behavioral task analysis
+- [[Level of Rigor Scale (JACMTF)]] — Shippmann et al.'s 17-variable CM-vs-JA rigor comparison
+- [[Reliability vs Legitimate Variance (Job Analysis)]] — Sanchez & Levine: interrater disagreement is often systematic, not error
+
+### Entities (new — 2026-07-11, work-analysis theory batch)
+
+- [[Jeffery Shippmann]] — JACMTF chair (PepsiCo); lead author of the 2000 competency-modeling report
+- [[Kenneth Pearlman]] — job/work-analysis and occupational-information specialist; APDOT member ("skills = Tower of Babel")
+- [[Society for Industrial and Organizational Psychology (SIOP)]] — commissioned the JACMTF task force
+
 ### Sources (new — 2026-07-11, selection & work-analysis batch)
 
 - [[Garcia-Izquierdo-et-al-2015-work-analysis-personnel-selection]] — chapter review of work analysis for selection; task- vs worker-oriented; methods (F-JAS, PPRF, PAQ, O*NET); reliability = agreement not just consistency; WA as EEO safeguard; Nikolaou & Oostrom (Eds.) 2015

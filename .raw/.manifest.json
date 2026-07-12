@@ -2935,6 +2935,53 @@
       "pages_updated": [
         "wiki/mocs/Home MOC.md"
       ]
+    },
+    ".raw/Sanchez and Levine - 2012 - The Rise and Fall of Job Analysis and the Future of Work Analysis.md": {
+      "hash": "b24a96bf2d0172505bde93c7082b4ed3",
+      "ingested_at": "2026-07-11",
+      "pages_created": [
+        "wiki/sources/Sanchez-Levine-2012-rise-fall-job-analysis.md",
+        "wiki/concepts/Occupational Information Network (O-NET).md",
+        "wiki/concepts/Reliability vs Legitimate Variance (Job Analysis).md"
+      ],
+      "pages_updated": [
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md",
+        "wiki/mocs/Selection & Work Analysis MOC.md"
+      ]
+    },
+    ".raw/Sackett et al. - 2013 - Job and work analysis.md": {
+      "hash": "1fd66d38c725b47788b8dbd74017568a",
+      "ingested_at": "2026-07-11",
+      "pages_created": [
+        "wiki/sources/Sackett-Walmsley-Laczo-2013-job-and-work-analysis.md",
+        "wiki/concepts/Cognitive Task Analysis (CTA).md",
+        "wiki/concepts/Dictionary of Occupational Titles (DOT).md"
+      ],
+      "pages_updated": [
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md",
+        "wiki/mocs/Selection & Work Analysis MOC.md"
+      ]
+    },
+    ".raw/Shippmann et al. - 2000 - THE PRACTICE OF COMPETENCY MODELING.md": {
+      "hash": "2bee518d43d393de3960a398cc320185",
+      "ingested_at": "2026-07-11",
+      "pages_created": [
+        "wiki/sources/Shippmann-et-al-2000-practice-of-competency-modeling.md",
+        "wiki/concepts/Level of Rigor Scale (JACMTF).md",
+        "wiki/entities/Jeffery Shippmann.md",
+        "wiki/entities/Kenneth Pearlman.md",
+        "wiki/entities/Society for Industrial and Organizational Psychology (SIOP).md"
+      ],
+      "pages_updated": [
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md",
+        "wiki/mocs/Selection & Work Analysis MOC.md"
+      ]
     }
   },
   "address_map": {
@@ -4010,7 +4057,21 @@
     "wiki/concepts/Four-Fifths Rule.md": "c-001189",
     "wiki/concepts/Three Validity Strategies (Uniform Guidelines).md": "c-001190",
     "wiki/concepts/Job-Relatedness.md": "c-001191",
-    "wiki/concepts/TJA vs CM (Six Dimensions).md": "c-001192"
+    "wiki/concepts/TJA vs CM (Six Dimensions).md": "c-001192",
+    "wiki/sources/Sanchez-Levine-2012-rise-fall-job-analysis.md": "c-001207",
+    "wiki/sources/Sackett-Walmsley-Laczo-2013-job-and-work-analysis.md": "c-001208",
+    "wiki/sources/Shippmann-et-al-2000-practice-of-competency-modeling.md": "c-001209",
+    "wiki/concepts/Occupational Information Network (O-NET).md": "c-001210",
+    "wiki/concepts/Cognitive Task Analysis (CTA).md": "c-001211",
+    "wiki/concepts/Level of Rigor Scale (JACMTF).md": "c-001212",
+    "wiki/concepts/Reliability vs Legitimate Variance (Job Analysis).md": "c-001213",
+    "wiki/entities/Society for Industrial and Organizational Psychology (SIOP).md": "c-001214",
+    "wiki/entities/Jeffery Shippmann.md": "c-001216",
+    "wiki/entities/Kenneth Pearlman.md": "c-001217",
+    "wiki/concepts/Dictionary of Occupational Titles (DOT).md": "c-001218",
+    "wiki/concepts/General Mental Ability (GMA).md": "c-001215",
+    "wiki/concepts/Generalized Work Activities (GWAs).md": "c-001219",
+    "wiki/concepts/Position Analysis Questionnaire (PAQ).md": "c-001220"
   },
   ".raw/Pearsall et al. - 2025 - A stimulus-based model of the team adaptation process An integrated conceptual review..pdf": {
     "hash": "62f683006d3323a67c67fc23621f632a",

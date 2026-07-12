@@ -31,11 +31,19 @@ This cluster maps the **front end of the hire decision**: how organizations anal
 - [[Traditional Job Analysis]] — task/KSAO analysis of existing jobs; the Taylorist baseline
 - [[KSA Framework]] — knowledge, skills, abilities, other characteristics
 - [[Strategic Job Analysis (SJA)]] — future-oriented, strategy-linked JA
+- [[Reliability vs Legitimate Variance (Job Analysis)]] — Sanchez & Levine: disagreement ≠ error
+- [[Cognitive Task Analysis (CTA)]] — modeling the unobservable cognitive processes behind tasks
+
+## Occupational information systems
+
+- [[Occupational Information Network (O-NET)|O*NET]] — DoL's content-model occupational database
+- [[Dictionary of Occupational Titles (DOT)]] — O*NET's task-narrative predecessor
 
 ## Competency modeling
 
 - [[Competency Modelling]] — strategy-execution conduit; behavioral themes
 - [[TJA vs CM (Six Dimensions)]] — Sanchez & Levine's purpose/view/focus/time/level/measurement contrast
+- [[Level of Rigor Scale (JACMTF)]] — Shippmann et al.'s 17-variable CM-vs-JA rigor comparison
 
 ## Legal spine (EEO)
 
@@ -57,10 +65,13 @@ This cluster maps the **front end of the hire decision**: how organizations anal
 - [[Sanchez-Levine-2009-competency-modeling-vs-job-analysis|Sanchez & Levine (2009) — TJA vs CM]]
 - [[EEOC-1978-uniform-guidelines-employee-selection|EEOC (1978) — Uniform Guidelines on Employee Selection Procedures]]
 - [[Singh-2008-Job-Analysis-Changing-Workplace|Singh (2008) — Job Analysis for a Changing Workplace]]
+- [[Sanchez-Levine-2012-rise-fall-job-analysis|Sanchez & Levine (2012) — The Rise and Fall of Job Analysis]]
+- [[Sackett-Walmsley-Laczo-2013-job-and-work-analysis|Sackett, Walmsley & Laczo (2013) — Job and Work Analysis]]
+- [[Shippmann-et-al-2000-practice-of-competency-modeling|Shippmann et al. (2000) — The Practice of Competency Modeling]]
 
 ## Key people & entities
 
-- [[Juan Sanchez]] · [[Edward Levine]] · [[Antonio León García-Izquierdo]] · [[Frederick Morgeson]] · [[O-NET|O*NET]] · [[Equal Employment Opportunity Commission (EEOC)]]
+- [[Juan Sanchez]] · [[Edward Levine]] · [[Paul R. Sackett]] · [[Antonio León García-Izquierdo]] · [[Frederick Morgeson]] · [[Michael Campion]] · [[Jeffery Shippmann]] · [[Kenneth Pearlman]] · [[Society for Industrial and Organizational Psychology (SIOP)]] · [[Equal Employment Opportunity Commission (EEOC)]]
 
 ## Related MOCs
 
@@ -73,4 +84,5 @@ This cluster maps the **front end of the hire decision**: how organizations anal
 
 - Can strategic job analysis and competency modeling be empirically shown to **supplement** rather than replace TJA (Sanchez & Levine's standing call)?
 - Are the Uniform Guidelines' three validity strategies scientifically defensible given validity generalization / unitary construct validity? (cf. [[binning-barrett-1989-validity-personnel-decisions]], [[Sackett-et-al-2022-validity-overcorrection]])
-- Missing primaries to ingest: Brannick, Levine & Morgeson (2007) *Job and Work Analysis*; Schneider & Konz (1989) SJA primary; Morgeson & Campion (1997) inaccuracy sources; *Griggs v. Duke Power*.
+- Missing primaries to ingest: Brannick, Levine & Morgeson (2007) *Job and Work Analysis*; Schneider & Konz (1989) SJA primary; Morgeson & Campion (1997) inaccuracy-sources primary (now summarized secondhand via [[Sackett-Walmsley-Laczo-2013-job-and-work-analysis]]); *Griggs v. Duke Power*.
+- Is competency modeling's low rigor ([[Level of Rigor Scale (JACMTF)]]) intrinsic, or an artifact of typical practice? Sackett et al. and Sanchez & Levine both argue it is *not* intrinsic.
