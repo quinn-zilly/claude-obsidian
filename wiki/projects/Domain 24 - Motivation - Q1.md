@@ -24,4 +24,8 @@ related:
 
 [[kanfer-frese-johnson-2017-work-motivation]]
 
-rupp et al
+[[rupp-et-al-2014-multifoci-justice-meta-analysis]]
+
+[[adamovic-2023-organizational-justice-review]]
+
+[[schmidt-beck-gillespie-2012-motivation]]
