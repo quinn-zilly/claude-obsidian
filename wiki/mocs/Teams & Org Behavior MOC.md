@@ -106,10 +106,21 @@ How individual work performance is modeled and measured — the construct, its d
 
 - [[Three Waves of Leadership Research]]
 - [[lord-et-al-2017-leadership-in-applied-psychology|Leadership in Applied Psychology: Three Waves of Theory and Research]]
+- [[Integrated Trait-Behavioral Model of Leadership]] — DeRue et al. 2011; traits + behaviors → effectiveness; behaviors mediate
+- [[derue-et-al-2011-trait-behavioral-leadership-integration|DeRue et al. (2011) — Trait & Behavioral Integration]]
+- [[Trait Paradigm (Leadership)]]
+- [[Leader Behavior and Ohio State Studies]]
+- [[Transformational and Charismatic Leadership]]
+- [[Ethical Leadership]]
+- [[Authentic Leadership]]
+- [[Servant Leadership]]
+- [[Construct Redundancy (Leadership)]] — proliferation vs. distinctiveness
+- [[hoch-et-al-2018-ethical-authentic-servant-vs-transformational|Hoch et al. (2018) — Ethical/Authentic/Servant vs. Transformational]]
 - [[Shared Leadership]]
+- [[wang-et-al-2014-shared-leadership-team-effectiveness|Wang et al. (2014) — Shared Leadership & Team Effectiveness]]
 - [[Implicit Leadership Theories]]
 - [[Contingency Theories of Leadership]]
-- [[Transformational and Charismatic Leadership]]
+- [[Leader-Member Exchange (LMX)]]
 - [[Leadership Pipeline]]
 - [[Leadership Transitions]]
 - [[Gender and Leadership]]

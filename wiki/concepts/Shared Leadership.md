@@ -5,11 +5,14 @@ title: "Shared Leadership"
 tags: [leadership, teams, collective-leadership, distributed-leadership]
 status: developing
 created: 2026-06-01
-updated: 2026-06-01
+updated: 2026-07-12
 related:
   - "[[Team Leadership]]"
   - "[[Three Waves of Leadership Research]]"
   - "[[Transformational and Charismatic Leadership]]"
+  - "[[Emergent States (Teams)]]"
+  - "[[Team Effectiveness Criteria]]"
+  - "[[wang-et-al-2014-shared-leadership-team-effectiveness]]"
   - "[[lord-et-al-2017-leadership-in-applied-psychology]]"
   - "[[Teams & Org Behavior MOC]]"
 ---
@@ -22,7 +25,7 @@ Leadership distributed across team members rather than concentrated in a single 
 Extends Stogdill & Shartle (1948) emphasis on leadership role and behavior (not a specific person). Also connects to Bogardus (1934) — individuals have both leadership and followership traits.
 
 ## Key Findings
-- **Wang, Waldman & Zhang (2014)** meta-analysis: Shared leadership → team effectiveness; how team members "lead each other toward goal achievement"
+- **[[wang-et-al-2014-shared-leadership-team-effectiveness|Wang, Waldman & Zhang (2014)]]** meta-analysis (k=42, N=3,439 teams): overall shared leadership → team effectiveness **ρ=.34**. Crucially, *what* is shared matters — shared new-genre/transformational (ρ=.34) and cumulative (ρ=.35) leadership far outperform shared **traditional** (initiating structure/consideration) leadership (ρ=.18). Stronger for attitudinal outcomes and emergent states (ρ≈.44–.45) than team performance (ρ=.18–.25); effect grows with **work complexity**; adds **unique variance beyond vertical leadership**; robust across measurement referents.
 - **Drescher et al. (2014)**: Higher shared leadership in game simulation teams → trust and performance improvement
 - **Hoch & Kozlowski (2014)**: In global virtual R&D teams, structural support and shared team leadership (not hierarchical leadership) predicted team performance
 

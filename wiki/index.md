@@ -524,6 +524,25 @@ Navigation: [[Home MOC]] | [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[
 - [[yost-2014-leading-from-where-you-are|Yost (2014)]] — Ch. 6 in *Using Experience to Develop Leadership Talent* | viral OJD; five design characteristics; succession/perf mgmt/CoP integration; middle-out HR change | 2026-06-04
 - [[Singh-2008-Job-Analysis-Changing-Workplace|Singh (2008)]] — *Human Resource Management Review* | strategic job analysis framework; SJA vs. traditional JA; gap analysis (no/moderate/significant change); Miles & Snow defender/prospector typology applied to JA | 2026-06-04
 
+### Sources (new — 2026-07-12, leadership meta-analyses batch)
+
+- [[derue-et-al-2011-trait-behavioral-leadership-integration|DeRue et al. (2011)]] — integrative trait-behavioral meta-analysis; traits + behaviors explain 31–92% of effectiveness variance; behaviors out-predict and mediate traits; *Personnel Psychology*
+- [[hoch-et-al-2018-ethical-authentic-servant-vs-transformational|Hoch et al. (2018)]] — incremental-validity test of ethical/authentic/servant vs. transformational leadership; authentic (ρ=.75) & ethical (ρ=.70) redundant, servant (ρ=.52) most promising; *Journal of Management*
+- [[wang-et-al-2014-shared-leadership-team-effectiveness|Wang et al. (2014)]] — first meta-analysis of shared leadership & team effectiveness (ρ=.34); content matters; unique variance over vertical leadership; *Journal of Applied Psychology*
+
+### Concepts (new — 2026-07-12, leadership meta-analyses batch)
+
+- [[Integrated Trait-Behavioral Model of Leadership]] — DeRue et al. 2011 unifying framework
+- [[Ethical Leadership]] / [[Authentic Leadership]] / [[Servant Leadership]] — the three ethical/moral values–based forms
+- [[Construct Redundancy (Leadership)]] — construct-proliferation problem; how it's tested
+- [[Relative Weights Analysis]] — Johnson's epsilon variance partitioning
+
+### Entities (new — 2026-07-12, leadership meta-analyses batch)
+
+- [[D. Scott DeRue]], [[Ned Wellman]] (with existing [[Jennifer Nahrgang]], [[Stephen Humphrey]]) — DeRue et al. 2011
+- [[Julia Hoch]], [[William Bommer]] — Hoch et al. 2018
+- [[Danni Wang]], [[David Waldman]], [[Zhen Zhang]] — Wang et al. 2014
+
 ### Sources (new — 2026-07-12, wise-interventions & program-evaluation)
 
 - [[Walton-2014-Wise-Psychological-Interventions]] — introduces "wise interventions": brief, psychologically precise, field-experimental interventions that target recursive processes; context-dependent, not silver bullets; *Current Directions in Psychological Science* 2014
@@ -691,7 +710,13 @@ Navigation: [[Home MOC]] | [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[
 - [[Leader-Member Exchange (LMX)]] — dyadic relationship quality; Gerstner & Day 1997 meta-analysis; LMX as lens on entire work experience (mature)
 - [[Gender and Leadership]] — Schein "think manager think male"; role congruity theory; Eagly meta-analyses; women more transformational (mature)
 - [[Team Leadership]] — functional leadership; Marks et al. 2000; multilevel; transformational in teams; Zaccaro framework (mature)
-- [[Shared Leadership]] — distributed leadership roles across team members; Wang et al. 2014 meta-analysis; still developing (developing)
+- [[Shared Leadership]] — distributed leadership roles across team members; Wang et al. 2014 meta-analysis (ρ=.34; content matters; unique over vertical) (developing)
+- [[Integrated Trait-Behavioral Model of Leadership]] — DeRue et al. 2011 Figure 1; traits (demographic/task/interpersonal) + behaviors (task/relational/change/passive) → effectiveness; behaviors mediate (developing)
+- [[Ethical Leadership]] — Brown et al. 2005; moral person + moral manager; social learning; ρ=.70 with TL → largely redundant (developing)
+- [[Authentic Leadership]] — Luthans & Avolio; self-awareness, transparency, positive moral perspective; ρ=.75 with TL → most redundant (developing)
+- [[Servant Leadership]] — Greenleaf; followers-first; least redundant with TL (ρ=.52), most promising stand-alone (developing)
+- [[Construct Redundancy (Leadership)]] — construct proliferation; conceptual vs empirical non-redundancy; correlation + incremental-validity + relative-weights tests (developing)
+- [[Relative Weights Analysis]] — Johnson's epsilon; partitions R² among correlated predictors; lenient complement to incremental validity (seed)
 - [[Crowdsourcing Science]] — horizontal distribution of research ownership, expertise, resources; complement to standard model; Uhlmann et al. 2019 (developing)
 - [[Publication Bottleneck]] — information-economic structural condition: too many researchers, too few slots; root cause of replication crisis per Giner-Sorolla 2012; Anna Karenina conjunction rules (developing)
 - [[Aesthetic Standards in Science]] — three criteria (statistical perfection, narrative conformity, novelty) that distort science under bottleneck conditions; Giner-Sorolla 2012 (developing)

@@ -1,7 +1,7 @@
 ---
 type: meta
 title: Operation Log
-updated: 2026-07-11
+updated: 2026-07-12
 tags:
   - meta
   - log
@@ -13,6 +13,17 @@ related:
   - "[[sources/_index]]"
 created: 2026-04-07
 ---
+
+## [2026-07-12] ingest | Leadership meta-analyses ×3 (DeRue 2011, Hoch 2018, Wang 2014)
+
+- **Sources:** `.raw/Derue et al. - 2011 - Trait and Behavioral Theories of Leadership…` → [[derue-et-al-2011-trait-behavioral-leadership-integration]] (*Personnel Psychology* 64(1):7–52); `.raw/Hoch et al. - 2018 - Do Ethical, Authentic, and Servant Leadership…` → [[hoch-et-al-2018-ethical-authentic-servant-vs-transformational]] (*Journal of Management* 44(2):501–529); `.raw/Wang et al. - 2014 - A meta-analysis of shared leadership…` → [[wang-et-al-2014-shared-leadership-team-effectiveness]] (*Journal of Applied Psychology* 99(2):181–198). Hybrid-LYT filing: sources→`wiki/sources/`, concepts→`wiki/concepts/`, entities→`wiki/entities/`.
+- **Substance (DeRue 2011):** builds the [[Integrated Trait-Behavioral Model of Leadership]] (Figure 1) and runs the first relative-validity contest between the trait and behavior paradigms across 4 criteria. Traits+behaviors explain **31–92%** of effectiveness variance; behaviors carry 62–94% of explained R² and **out-predict traits (H8)**; behaviors partially **mediate** trait→effectiveness (intelligence/Conscientiousness→structure+transformational; Extraversion/Agreeableness→consideration). Trait relative validity is criterion-dependent (task-competence for performance; interpersonal for affective).
+- **Substance (Hoch 2018):** answers DeRue's call by testing **[[Construct Redundancy (Leadership)|construct redundancy]]** of three moral forms vs. transformational leadership. [[Authentic Leadership]] (ρ=.75) and [[Ethical Leadership]] (ρ=.70) correlate so highly with TL and add so little incremental variance that they're largely **redundant**; [[Servant Leadership]] (ρ=.52) adds the most incremental variance and is the most promising **stand-alone** form. Uses [[Relative Weights Analysis]] as the lenient complement to incremental-validity tests.
+- **Substance (Wang 2014):** first meta-analysis of [[Shared Leadership]] & team effectiveness (k=42): overall **ρ=.34**; **what is shared matters** — new-genre (.34)/cumulative (.35) >> traditional (.18); stronger for attitudes/emergent states than performance; grows with **work complexity**; adds **unique variance beyond vertical leadership**; robust to measurement referent.
+- **Cross-source spine:** all three are integration/redundancy exercises in the *third wave* of leadership research. DeRue supplies the relative-validity template; Hoch applies it to prune redundant constructs; Wang extends the question to the *plural* (shared) locus of leadership. Transformational/change-oriented behavior is the common through-line — it's the strongest behavioral predictor (DeRue), the incumbent the moral forms mostly duplicate (Hoch), and the most valuable content to share (Wang).
+- **Pages created:** sources [[derue-et-al-2011-trait-behavioral-leadership-integration]], [[hoch-et-al-2018-ethical-authentic-servant-vs-transformational]], [[wang-et-al-2014-shared-leadership-team-effectiveness]]; concepts [[Integrated Trait-Behavioral Model of Leadership]], [[Ethical Leadership]], [[Authentic Leadership]], [[Servant Leadership]], [[Construct Redundancy (Leadership)]], [[Relative Weights Analysis]]; entities [[D. Scott DeRue]], [[Ned Wellman]], [[Julia Hoch]], [[William Bommer]], [[Danni Wang]], [[David Waldman]], [[Zhen Zhang]].
+- **Pages updated:** [[Shared Leadership]] (real meta-analytic numbers + links), [[index]], [[hot]], [[Teams & Org Behavior MOC]].
+- **Key insight:** the leadership field's chronic problem is proliferation without comparison — these three papers each answer it by putting rival constructs on one footing (traits vs behaviors; moral forms vs TL; shared vs vertical), and change-oriented/transformational behavior wins or duplicates in all three.
 
 ## [2026-07-12] ingest | Wise psychological interventions (Walton 2014) + Program evaluation (Sechrest & Figueredo 1993)
 
