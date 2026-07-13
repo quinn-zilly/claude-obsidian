@@ -31,12 +31,14 @@ Discuss how I-O psychology leadership research has changed over the last several
 - Leadership Emergence [[badura-et-al-2022-leadership-emergence-integrative-review]]
 - Split leader from leading; leadership as cause vs. consequence [[carton-2022-science-of-leadership]]
 - Formal vs informal team leadership functions [[morgeson-et-al-2010-leadership-in-teams-functional]]
+- Postheroic leadership paradox [[fletcher-2004-paradox-postheroic-leadership]]
+- Diversity leadership [[homan-et-al-2020-leading-diversity-functional]]
 
 **Adaptive Leadership Theory ([[derue-2011-adaptive-leadership-complex-adaptive-process]])**
 
 **Followership Theory ([[uhl-bien-et-al-2014-followership-theory-review]])**
 
-**Theory of Functional Leadership in Diverse Teams**
+**Theory of Functional Leadership in Diverse Teams ([[homan-et-al-2020-leading-diversity-functional]])**
 
 ## Recommended Theory
 
@@ -62,3 +64,7 @@ Discuss how I-O psychology leadership research has changed over the last several
 [[badura-et-al-2022-leadership-emergence-integrative-review]]
 
 [[morgeson-et-al-2010-leadership-in-teams-functional]]
+
+[[fletcher-2004-paradox-postheroic-leadership]]
+
+[[homan-et-al-2020-leading-diversity-functional]]
