@@ -71,3 +71,5 @@ Contrasted with **Transactional Leadership** (contingent reward and management-b
 - [[Gender and Leadership]] — women score slightly higher on transformational dimensions (Eagly et al. 2003)
 - [[Leader-Member Exchange (LMX)]] — trust and LMX quality parallel transformational mechanisms
 - [[lord-et-al-2017-leadership-in-applied-psychology]] Third Wave
+- [[homan-et-al-2020-leading-diversity-functional|Homan et al. (2020)]] — TL is the most-studied but *inconsistent* moderator of team diversity; LeaD reframes this as a symptom of unmodeled team needs (a lumped construct hiding heterogeneous mechanisms)
+- [[Postheroic Leadership]] — [[fletcher-2004-paradox-postheroic-leadership|Fletcher (2004)]]'s feminist critique: the relational/transformational shift is not gender- or power-neutral and risks co-optation

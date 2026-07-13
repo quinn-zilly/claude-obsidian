@@ -12,6 +12,9 @@ related:
   - "[[Transformational and Charismatic Leadership]]"
   - "[[Alice H. Eagly]]"
   - "[[lord-et-al-2017-leadership-in-applied-psychology]]"
+  - "[[Postheroic Leadership]]"
+  - "[[Doing Gender, Doing Power, Doing Leadership]]"
+  - "[[fletcher-2004-paradox-postheroic-leadership]]"
   - "[[Teams & Org Behavior MOC]]"
 ---
 
@@ -47,6 +50,9 @@ A major research thread initiated in the Second Wave and still growing. Addresse
 
 ## Leadership Prototype Masculinity
 **Koenig, Eagly, Mitchell & Ristikari (2011)** meta-analysis: Leadership prototype is still culturally masculine, but this has *ebbed* as interpersonal skill demands increased. Men regard leadership as more masculine than women do.
+
+## Critical / feminist perspective: postheroic leadership
+[[fletcher-2004-paradox-postheroic-leadership|Fletcher (2004)]] argues that the "new" relational/[[Postheroic Leadership|postheroic]] leadership models — though presented as gender-neutral — are covertly gendered: their relational skills are coded feminine and their "power with" stance reads as powerlessness. Via [[Doing Gender, Doing Power, Doing Leadership|"doing gender / doing power / doing leadership"]], this explains why the **female advantage never materializes** (women's relational leadership is conflated with mothering/selfless giving, erasing reciprocity) and why the models risk co-optation.
 
 ## Connections
 - [[Implicit Leadership Theories]] — gendered leadership prototypes

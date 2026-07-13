@@ -15,8 +15,11 @@ related:
   - "[[Team Leadership]]"
   - "[[Teamwork Processes (Marks et al. Taxonomy)]]"
   - "[[Shared Leadership]]"
+  - "[[Leading Diversity (LeaD) Model]]"
+  - "[[Complementary vs Supplementary Matching]]"
 sources:
   - "[[morgeson-et-al-2010-leadership-in-teams-functional]]"
+  - "[[homan-et-al-2020-leading-diversity-functional]]"
 ---
 
 # Functional Team Leadership Theory
@@ -32,3 +35,7 @@ Two consequences follow:
 
 > [!key-insight] Functional ≠ leader-centric
 > The functional lens is diagnostic: identify the unmet team need, then ask *which source* is best positioned to supply the corresponding function — rather than assuming the formal leader must do everything. This is what connects the theory to [[Shared Leadership]] and [[Vertical vs Shared Leadership]].
+
+## Applied to diversity: LeaD
+
+[[homan-et-al-2020-leading-diversity-functional|Homan et al. (2020)]] apply the functional logic to a specific need — the one created by **team diversity**. The [[Leading Diversity (LeaD) Model|LeaD model]] holds that diversity instigates either intergroup bias (needs person-focused leadership) or information elaboration (needs task-focused leadership), and effective leaders diagnose the dominant process and supply the matching behavior. See [[Complementary vs Supplementary Matching]].

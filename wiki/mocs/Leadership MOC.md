@@ -52,6 +52,21 @@ This cluster maps how leadership is defined, distributed, co-produced, and studi
 - [[Sources of Team Leadership (2x2)]] — internal/external × formal/informal
 - [[15 Team Leadership Functions]] — transition- and action-phase taxonomy (TLQ)
 
+## Leading diverse teams
+
+- [[homan-et-al-2020-leading-diversity-functional|Homan, Gündemir, Buengeler & van Kleef (2020): Leading Diversity]] — functional leadership of diverse teams
+- [[Leading Diversity (LeaD) Model]] — match leadership to the team's dominant diversity process
+- [[Categorization-Elaboration Model]] — intergroup bias vs information elaboration
+- [[Complementary vs Supplementary Matching]] — person-focused for bias, task-focused for elaboration
+- [[Diversity-Related Leader Competencies]] — cognitive understanding, social perceptiveness, behavioral flexibility
+
+## Gender, power & critical perspectives
+
+- [[fletcher-2004-paradox-postheroic-leadership|Fletcher (2004): The Paradox of Postheroic Leadership]]
+- [[Postheroic Leadership]] — relational/shared leadership as covertly gendered and power-laden
+- [[Doing Gender, Doing Power, Doing Leadership]] — the mechanism behind the three paradoxes
+- [[Gender and Leadership]] — emergence, style, evaluation bias, effectiveness
+
 ## Leader emergence
 
 - [[badura-et-al-2022-leadership-emergence-integrative-review|Badura, Galvin & Lee (2022): Leadership Emergence — An Integrative Review]]

@@ -42,6 +42,11 @@ Navigation hub for the gender-in-organizations and career-equality cluster: why 
 - [[Gender Similarity in Work–Family Conflict]] · [[Work–Family Conflict]] · [[Time-, Strain-, and Behavior-Based Conflict]]
 - Competing theories: [[Rational View (Work–Family)]] (supported) · [[Sensitization Perspective (Gender Role View)]] (not) · [[Asymmetrical Domain Permeability Model]] (partial).
 
+## Gender, leadership & power
+
+- [[fletcher-2004-paradox-postheroic-leadership|Fletcher (2004)]] — postheroic leadership is not gender/power-neutral; the "female advantage" that doesn't advantage women.
+- [[Postheroic Leadership]] · [[Doing Gender, Doing Power, Doing Leadership]] · [[Gender and Leadership]]
+
 ## Adjacent careers concepts
 
 - [[Opt-Out Revolution]] · [[Kaleidoscope Career Model]] · [[Work-Family Balance]] · [[Subjective Career Success]]

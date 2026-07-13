@@ -25,7 +25,7 @@ created: 2026-04-07
 
 # Wiki Index
 
-Last updated: 2026-07-12 | Total pages: 701 | Sources ingested: 107
+Last updated: 2026-07-12 | Total pages: 714 | Sources ingested: 109
 
 Navigation: [[Home MOC]] | [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[getting-started]]
 
@@ -523,6 +523,25 @@ Navigation: [[Home MOC]] | [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[
 - [[yost-2013-experience-driven-development|Yost (2013)]] — *ASTD Handbook* Ch. 57 | outside-in model; 90% outside-classroom; training as catalyst; development continuum (classroom→action learning→mentoring→job rotation→job assignments) | 2026-06-04
 - [[yost-2014-leading-from-where-you-are|Yost (2014)]] — Ch. 6 in *Using Experience to Develop Leadership Talent* | viral OJD; five design characteristics; succession/perf mgmt/CoP integration; middle-out HR change | 2026-06-04
 - [[Singh-2008-Job-Analysis-Changing-Workplace|Singh (2008)]] — *Human Resource Management Review* | strategic job analysis framework; SJA vs. traditional JA; gap analysis (no/moderate/significant change); Miles & Snow defender/prospector typology applied to JA | 2026-06-04
+
+### Sources (new — 2026-07-12, diversity leadership & postheroic critique batch)
+
+- [[homan-et-al-2020-leading-diversity-functional|Homan, Gündemir, Buengeler & van Kleef (2020)]] — the Leading Diversity (LeaD) model; functional matching of person-/task-focused leadership to intergroup-bias vs information-elaboration processes; *Journal of Applied Psychology*
+- [[fletcher-2004-paradox-postheroic-leadership|Fletcher (2004)]] — postheroic (relational/shared) leadership is not gender- or power-neutral; three paradoxes incl. the non-materializing "female advantage"; *The Leadership Quarterly*
+
+### Concepts (new — 2026-07-12, diversity leadership & postheroic critique batch)
+
+- [[Leading Diversity (LeaD) Model]] — match leadership behavior to the team's dominant diversity process (Homan et al. 2020)
+- [[Categorization-Elaboration Model]] — intergroup bias vs information elaboration (Van Knippenberg et al. 2004)
+- [[Complementary vs Supplementary Matching]] — person-focused for bias, task-focused for elaboration
+- [[Diversity-Related Leader Competencies]] — cognitive understanding, social perceptiveness, behavioral flexibility
+- [[Postheroic Leadership]] — relational/shared leadership as covertly gendered and power-laden (Fletcher 2004)
+- [[Doing Gender, Doing Power, Doing Leadership]] — the mechanism behind Fletcher's three paradoxes
+
+### Entities (new — 2026-07-12, diversity leadership & postheroic critique batch)
+
+- [[Astrid C. Homan]], [[Seval Gündemir]], [[Claudia Buengeler]], [[Gerben A. van Kleef]] — Homan et al. 2020
+- [[Joyce K. Fletcher]] — Fletcher 2004
 
 ### Sources (new — 2026-07-12, emergence / functional / meta-theory batch)
 

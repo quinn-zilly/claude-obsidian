@@ -3203,6 +3203,43 @@
         "wiki/hot.md",
         "wiki/log.md"
       ]
+    },
+    ".raw/Homan et al. - 2020 - Leading diversity Towards a theory of functional leadership in diverse teams.md": {
+      "hash": "eddbe5473d4af2e507c0103bea3ef578",
+      "ingested_at": "2026-07-12",
+      "pages_created": [
+        "wiki/sources/homan-et-al-2020-leading-diversity-functional.md",
+        "wiki/concepts/Leading Diversity (LeaD) Model.md",
+        "wiki/concepts/Categorization-Elaboration Model.md",
+        "wiki/concepts/Diversity-Related Leader Competencies.md",
+        "wiki/concepts/Complementary vs Supplementary Matching.md",
+        "wiki/entities/Astrid C. Homan.md",
+        "wiki/entities/Seval Gündemir.md",
+        "wiki/entities/Claudia Buengeler.md",
+        "wiki/entities/Gerben A. van Kleef.md"
+      ],
+      "pages_updated": [
+        "wiki/entities/Daan van Knippenberg.md",
+        "wiki/concepts/Functional Team Leadership Theory.md",
+        "wiki/concepts/Transformational and Charismatic Leadership.md",
+        "wiki/mocs/Leadership MOC.md",
+        "wiki/index.md"
+      ]
+    },
+    ".raw/Fletcher - 2004 - The paradox of postheroic leadership An essay on gender, power, and transformational change.md": {
+      "hash": "c400ad89fb860da0cd7c4164b41d3db3",
+      "ingested_at": "2026-07-12",
+      "pages_created": [
+        "wiki/sources/fletcher-2004-paradox-postheroic-leadership.md",
+        "wiki/concepts/Postheroic Leadership.md",
+        "wiki/concepts/Doing Gender, Doing Power, Doing Leadership.md",
+        "wiki/entities/Joyce K. Fletcher.md"
+      ],
+      "pages_updated": [
+        "wiki/concepts/Gender and Leadership.md",
+        "wiki/concepts/Shared Leadership.md",
+        "wiki/mocs/Gender & Careers MOC.md"
+      ]
     }
   },
   "address_map": {
@@ -4350,7 +4387,20 @@
     "wiki/entities/Ronald E. Riggio.md": "c-001289",
     "wiki/entities/Kevin B. Lowe.md": "c-001290",
     "wiki/entities/Melissa K. Carsten.md": "c-001291",
-    "wiki/mocs/Leadership MOC.md": "c-001292"
+    "wiki/mocs/Leadership MOC.md": "c-001292",
+    "wiki/sources/homan-et-al-2020-leading-diversity-functional.md": "c-001312",
+    "wiki/sources/fletcher-2004-paradox-postheroic-leadership.md": "c-001313",
+    "wiki/entities/Astrid C. Homan.md": "c-001314",
+    "wiki/entities/Seval Gündemir.md": "c-001315",
+    "wiki/entities/Claudia Buengeler.md": "c-001316",
+    "wiki/entities/Gerben A. van Kleef.md": "c-001317",
+    "wiki/entities/Joyce K. Fletcher.md": "c-001318",
+    "wiki/concepts/Leading Diversity (LeaD) Model.md": "c-001319",
+    "wiki/concepts/Categorization-Elaboration Model.md": "c-001320",
+    "wiki/concepts/Diversity-Related Leader Competencies.md": "c-001321",
+    "wiki/concepts/Complementary vs Supplementary Matching.md": "c-001322",
+    "wiki/concepts/Postheroic Leadership.md": "c-001323",
+    "wiki/concepts/Doing Gender, Doing Power, Doing Leadership.md": "c-001324"
   },
   ".raw/Pearsall et al. - 2025 - A stimulus-based model of the team adaptation process An integrated conceptual review..pdf": {
     "hash": "62f683006d3323a67c67fc23621f632a",

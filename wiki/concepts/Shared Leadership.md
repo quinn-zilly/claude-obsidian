@@ -18,6 +18,7 @@ related:
   - "[[Vertical vs Shared Leadership]]"
   - "[[Adaptive Leadership Theory]]"
   - "[[Followership Theory]]"
+  - "[[Postheroic Leadership]]"
   - "[[Leadership MOC]]"
   - "[[Teams & Org Behavior MOC]]"
 ---
